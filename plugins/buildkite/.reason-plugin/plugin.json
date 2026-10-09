@@ -1,0 +1,14 @@
+{
+  "name": "buildkite",
+  "displayName": "Buildkite",
+  "description": "Buildkite's hosted MCP server: inspect pipelines, builds, jobs and logs, trigger and retry builds, and look up test analytics and cluster/agent status.",
+  "homepage": "https://buildkite.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/buildkite",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "buildkite": {
+      "url": "https://mcp.buildkite.com/mcp"
+    }
+  }
+}

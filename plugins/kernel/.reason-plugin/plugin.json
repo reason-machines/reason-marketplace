@@ -1,0 +1,23 @@
+{
+  "name": "kernel",
+  "displayName": "Kernel",
+  "description": "Launch Chromium browsers, execute Playwright code, and automate web interactions through Kernel's hosted MCP server.",
+  "homepage": "https://www.onkernel.com",
+  "docs": "https://docs.onkernel.com/mcp",
+  "logo": "https://www.onkernel.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "kernel": {
+      "url": "https://mcp.onkernel.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Kernel Agent Browser",
+      "description": "Use Kernel cloud browsers for browser automation, login persistence, iframes, and bot-detection-aware workflows.",
+      "source": "kernel/skills",
+      "skill": "kernel-agent-browser",
+      "url": "https://skills.sh/kernel/skills/kernel-agent-browser"
+    }
+  ]
+}

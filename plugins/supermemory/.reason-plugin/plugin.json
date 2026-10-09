@@ -1,0 +1,23 @@
+{
+  "name": "supermemory",
+  "displayName": "Supermemory",
+  "description": "Store, search, and recall long-term memory and context through Supermemory's hosted MCP server.",
+  "homepage": "https://supermemory.ai",
+  "docs": "https://docs.supermemory.ai",
+  "logo": "https://supermemory.ai/favicon.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "supermemory": {
+      "url": "https://mcp.supermemory.ai/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Supermemory Search",
+      "description": "Search Supermemory project memory when Supermemory context tools are available.",
+      "source": "supermemoryai/claude-supermemory#193290b5ccba3e7dd12b1708ff2777db0c226006",
+      "skill": "supermemory-search",
+      "url": "https://github.com/supermemoryai/claude-supermemory/tree/193290b5ccba3e7dd12b1708ff2777db0c226006/plugin/skills/supermemory-search"
+    }
+  ]
+}

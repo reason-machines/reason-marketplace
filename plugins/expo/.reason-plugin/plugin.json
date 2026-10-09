@@ -1,0 +1,14 @@
+{
+  "name": "expo",
+  "displayName": "Expo",
+  "description": "Expo's hosted MCP server: query your Expo projects, EAS builds, updates and submissions, and get Expo/React Native guidance.",
+  "homepage": "https://expo.dev",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/expo",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "expo": {
+      "url": "https://mcp.expo.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "deepwiki",
+  "displayName": "DeepWiki",
+  "description": "Access comprehensive documentation for GitHub repositories with AI-powered insights",
+  "homepage": "https://devin.ai",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/deepwiki",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "deepwiki": {
+      "url": "https://mcp.deepwiki.com/mcp"
+    }
+  }
+}

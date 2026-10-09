@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-workers-bindings",
+  "displayName": "Cloudflare Workers Bindings",
+  "description": "Build Workers applications with storage, AI, and compute primitives",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-workers-bindings",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-workers-bindings": {
+      "url": "https://bindings.mcp.cloudflare.com/mcp"
+    }
+  }
+}

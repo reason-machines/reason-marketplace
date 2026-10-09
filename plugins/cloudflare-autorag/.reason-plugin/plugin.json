@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-autorag",
+  "displayName": "Cloudflare AutoRAG",
+  "description": "List and search documents on your AutoRAGs",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-autorag",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-autorag": {
+      "url": "https://autorag.mcp.cloudflare.com/mcp"
+    }
+  }
+}

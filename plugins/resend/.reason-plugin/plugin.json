@@ -1,0 +1,14 @@
+{
+  "name": "resend",
+  "displayName": "Resend",
+  "description": "Manage email, contacts, templates, and delivery logs.",
+  "homepage": "https://resend.com",
+  "docs": "https://resend.com/changelog/remote-mcp-server",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "resend": {
+      "url": "https://mcp.resend.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "axiom",
+  "displayName": "Axiom",
+  "description": "Run APL queries, inspect datasets and schemas, and investigate logs through Axiom's hosted MCP server.",
+  "homepage": "https://axiom.co",
+  "docs": "https://axiom.co/docs/console/intelligence/mcp-server",
+  "logo": "https://axiom.co/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "axiom": {
+      "url": "https://mcp.axiom.co/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Axiom SRE",
+      "description": "Investigate incidents, production bugs, and log questions with Axiom observability context.",
+      "source": "axiomhq/skills",
+      "skill": "axiom-sre",
+      "url": "https://skills.sh/axiomhq/skills/axiom-sre"
+    }
+  ]
+}

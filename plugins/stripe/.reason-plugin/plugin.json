@@ -1,0 +1,23 @@
+{
+  "name": "stripe",
+  "displayName": "Stripe",
+  "description": "Look up Stripe customers, subscriptions, invoices, charges, and products through Stripe's hosted MCP server.",
+  "homepage": "https://stripe.com",
+  "docs": "https://docs.stripe.com/mcp",
+  "logo": "https://stripe.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "stripe": {
+      "url": "https://mcp.stripe.com"
+    }
+  },
+  "skills": [
+    {
+      "name": "MCP Stripe",
+      "description": "Execute Stripe MCP customer, product, invoice, payment-link, subscription, refund, and balance workflows safely.",
+      "source": "heyvhuang/ship-faster",
+      "skill": "mcp-stripe",
+      "url": "https://skills.sh/heyvhuang/ship-faster/mcp-stripe"
+    }
+  ]
+}

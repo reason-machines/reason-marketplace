@@ -1,0 +1,23 @@
+{
+  "name": "railway",
+  "displayName": "Railway",
+  "description": "Inspect Railway projects, services, deployments, and environment state through Railway's hosted MCP server.",
+  "homepage": "https://railway.com",
+  "docs": "https://docs.railway.com/ai/mcp-server",
+  "logo": "https://railway.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "railway": {
+      "url": "https://mcp.railway.com"
+    }
+  },
+  "skills": [
+    {
+      "name": "Use Railway",
+      "description": "Operate Railway projects, services, deployments, environments, domains, and agent tooling.",
+      "source": "railwayapp/railway-skills",
+      "skill": "use-railway",
+      "url": "https://skills.sh/railwayapp/railway-skills/use-railway"
+    }
+  ]
+}

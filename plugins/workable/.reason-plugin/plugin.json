@@ -1,0 +1,14 @@
+{
+  "name": "workable",
+  "displayName": "Workable",
+  "description": "Search candidates, move pipelines, and manage HR records.",
+  "homepage": "https://workable.readme.io/reference/workable-mcp-server",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/workable",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "workable": {
+      "url": "https://mcp.workable.com/mcp"
+    }
+  }
+}

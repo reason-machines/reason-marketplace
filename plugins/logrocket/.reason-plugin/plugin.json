@@ -1,0 +1,14 @@
+{
+  "name": "logrocket",
+  "displayName": "LogRocket",
+  "description": "LogRocket's hosted MCP server: query session replays, metrics, issues and user behavior in natural language.",
+  "homepage": "https://logrocket.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/logrocket",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "logrocket": {
+      "url": "https://mcp.logrocket.com/mcp?toolsets=all"
+    }
+  }
+}

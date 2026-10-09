@@ -1,0 +1,14 @@
+{
+  "name": "google-calendar",
+  "displayName": "Google Calendar",
+  "description": "Search events and check your schedule.",
+  "homepage": "https://github.com/cursor/plugins/tree/main/third_party/google-calendar",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/google-calendar",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "google-calendar": {
+      "url": "https://calendarmcp.googleapis.com/mcp/v1"
+    }
+  }
+}

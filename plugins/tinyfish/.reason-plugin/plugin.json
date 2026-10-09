@@ -1,0 +1,23 @@
+{
+  "name": "tinyfish",
+  "displayName": "TinyFish",
+  "description": "Run TinyFish web agents to navigate, click, and extract from any site.",
+  "homepage": "https://www.tinyfish.ai",
+  "docs": "https://docs.tinyfish.ai/mcp-integration",
+  "logo": "https://www.tinyfish.ai/favicon-for-app/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "tinyfish": {
+      "url": "https://agent.tinyfish.ai/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Use TinyFish",
+      "description": "Use TinyFish for web search, page fetching, extraction, scraping, and browser automation.",
+      "source": "tinyfish-io/tinyfish-cookbook",
+      "skill": "use-tinyfish",
+      "url": "https://skills.sh/tinyfish-io/tinyfish-cookbook/use-tinyfish"
+    }
+  ]
+}

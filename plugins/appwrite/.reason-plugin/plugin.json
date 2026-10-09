@@ -1,0 +1,14 @@
+{
+  "name": "appwrite",
+  "displayName": "Appwrite",
+  "description": "Appwrite's hosted MCP server: manage your Appwrite Cloud projects, databases, auth, storage, functions and deployments.",
+  "homepage": "https://appwrite.io",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/appwrite",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "appwrite": {
+      "url": "https://mcp.appwrite.io"
+    }
+  }
+}

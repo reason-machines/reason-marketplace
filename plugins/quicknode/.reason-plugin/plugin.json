@@ -1,0 +1,14 @@
+{
+  "name": "quicknode",
+  "displayName": "QuickNode",
+  "description": "QuickNode integration to manage your blockchain infrastructure",
+  "homepage": "https://www.quicknode.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/quicknode",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "quicknode": {
+      "url": "https://mcp.quicknode.com/mcp"
+    }
+  }
+}

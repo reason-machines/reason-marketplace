@@ -1,0 +1,14 @@
+{
+  "name": "godaddy",
+  "displayName": "GoDaddy",
+  "description": "Brainstorm domain names and check availability.",
+  "homepage": "https://developer.godaddy.com/en/docs/api-users/mcp",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/godaddy",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "godaddy": {
+      "url": "https://api.godaddy.com/v1/domains/mcp"
+    }
+  }
+}

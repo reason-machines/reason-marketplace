@@ -1,0 +1,23 @@
+{
+  "name": "apify",
+  "displayName": "Apify",
+  "description": "Run Apify actors for web scraping, browser automation, and data extraction through Apify's hosted MCP server.",
+  "homepage": "https://apify.com",
+  "docs": "https://docs.apify.com/platform/integrations/mcp",
+  "logo": "https://apify.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "apify": {
+      "url": "https://mcp.apify.com/"
+    }
+  },
+  "skills": [
+    {
+      "name": "MCPC",
+      "description": "Connect to Apify MCP sessions, discover tools, call tools, read resources, and script MCP operations.",
+      "source": "apify/mcpc",
+      "skill": "mcpc",
+      "url": "https://skills.sh/apify/mcpc/mcpc"
+    }
+  ]
+}

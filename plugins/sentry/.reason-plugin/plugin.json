@@ -1,0 +1,23 @@
+{
+  "name": "sentry",
+  "displayName": "Sentry",
+  "description": "Retrieve detailed Sentry issue data and full stack traces. Also search and filter issues, update issue status, assignments, tags, bookmarks, and alerts.",
+  "homepage": "https://sentry.io",
+  "docs": "https://docs.sentry.io/product/sentry-mcp/",
+  "logo": "https://mcp.sentry.dev/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "sentry": {
+      "url": "https://mcp.sentry.dev/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Sentry Fix Issues",
+      "description": "Find and fix production issues through Sentry MCP stack traces, breadcrumbs, traces, and context.",
+      "source": "getsentry/sentry-for-ai",
+      "skill": "sentry-fix-issues",
+      "url": "https://skills.sh/getsentry/sentry-for-ai/sentry-fix-issues"
+    }
+  ]
+}

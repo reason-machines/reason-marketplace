@@ -1,0 +1,14 @@
+{
+  "name": "strix",
+  "displayName": "Strix",
+  "description": "Ship with confidence that what you deploy is secure. Strix runs AI penetration tests and PR security reviews against your web apps, APIs, and repositories, so Devin can find, fix, and verify vulnerabilities before they reach production. List scans and open vulnerabilities by severity, pull a finding's evidence and remediation steps into a code fix, update its status, retest it, or export it to Jira or Linear. Start scans and schedules against verified assets and check supply-chain findings and analytics. Read-only tools have no side effects. Scans spend credits and send traffic to your targets.",
+  "homepage": "https://strix.ai",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/strix",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "strix": {
+      "url": "https://app.strix.ai/mcp"
+    }
+  }
+}

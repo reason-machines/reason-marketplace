@@ -1,0 +1,14 @@
+{
+  "name": "angellist",
+  "displayName": "AngelList",
+  "description": "Turn your fund into something you can talk to.\n\nFund managers spend too much time on lookups that should be instant: capital call status, LP holdings, valuations, documents. AngelList MCP puts your entire fund at the other end of a prompt. Authenticate once to query capital accounts, distributions, and documents across every vehicle, backed by financials that refresh daily instead of once a quarter. It's the system of record your fund already runs on, now queryable from wherever you work. Every answer comes with a path back to its source — ask for the underlying document to verify on your terms. Investment decisions get made on current numbers, LP questions get answered on the spot, and the workflows that used to take an email chain are handled in a single prompt. AngelList runs more of a fund's operations than any other platform — formation, banking, capital calls, distributions, taxes, reporting. AngelList MCP makes all of it queryable from wherever you work.\n\nThe connector is read-only: it retrieves and summarizes your data but never creates, modifies, or transacts anything, and each authenticated user sees only the funds and vehicles they're entitled to.",
+  "homepage": "https://www.angellist.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/angellist",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "angellist": {
+      "url": "https://mcp.angellist.com/mcp"
+    }
+  }
+}

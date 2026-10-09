@@ -1,0 +1,23 @@
+{
+  "name": "jira",
+  "displayName": "Jira",
+  "description": "Read Jira issues, projects, statuses, users, and comments through Atlassian's hosted MCP server.",
+  "homepage": "https://www.atlassian.com/software/jira",
+  "docs": "https://support.atlassian.com/rovo/docs/getting-started-with-the-atlassian-remote-mcp-server/",
+  "logo": "https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "jira": {
+      "url": "https://mcp.atlassian.com/v1/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Triage Issue",
+      "description": "Search Jira for duplicate issues, add context, and create well-structured bug reports.",
+      "source": "atlassian/atlassian-mcp-server",
+      "skill": "triage-issue",
+      "url": "https://skills.sh/atlassian/atlassian-mcp-server/triage-issue"
+    }
+  ]
+}

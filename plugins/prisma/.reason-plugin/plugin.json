@@ -1,0 +1,14 @@
+{
+  "name": "prisma",
+  "displayName": "Prisma",
+  "description": "Manage Prisma Postgres databases; create, list, and restore backups; generate and revoke connection strings; execute SQL queries and introspect schemas.",
+  "homepage": "https://www.prisma.io",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/prisma",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "prisma": {
+      "url": "https://mcp.prisma.io/mcp"
+    }
+  }
+}

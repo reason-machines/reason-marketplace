@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-ai-gateway",
+  "displayName": "Cloudflare AI Gateway",
+  "description": "Search your logs, get details about the prompts and responses",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-ai-gateway",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-ai-gateway": {
+      "url": "https://ai-gateway.mcp.cloudflare.com/mcp"
+    }
+  }
+}

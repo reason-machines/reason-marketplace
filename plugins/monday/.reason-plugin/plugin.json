@@ -1,0 +1,14 @@
+{
+  "name": "monday",
+  "displayName": "monday.com",
+  "description": "monday.com integration to manage boards, items, and work-management workflows",
+  "homepage": "https://monday.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/monday",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "monday": {
+      "url": "https://mcp.monday.com/mcp"
+    }
+  }
+}

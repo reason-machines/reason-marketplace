@@ -1,0 +1,240 @@
+{
+  "name": "vercel",
+  "displayName": "Vercel",
+  "description": "Inspect Vercel deployments, projects, domains, and logs through Vercel's hosted MCP server.",
+  "homepage": "https://vercel.com",
+  "docs": "https://vercel.com/docs/agent-resources/vercel-mcp",
+  "logo": "https://vercel.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "vercel": {
+      "url": "https://mcp.vercel.com"
+    }
+  },
+  "skills": [
+    {
+      "name": "Access protected deployments",
+      "description": "Access and test Vercel-protected deployments safely.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "access-protected-vercel-deployment",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/access-protected-vercel-deployment"
+    },
+    {
+      "name": "Vercel AI Gateway",
+      "description": "Model routing, provider failover, and AI Gateway operations.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "ai-gateway",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/ai-gateway"
+    },
+    {
+      "name": "Vercel AI SDK",
+      "description": "AI SDK chat, generation, tools, agents, streaming, and providers.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "ai-sdk",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/ai-sdk"
+    },
+    {
+      "name": "Vercel Auth",
+      "description": "Authentication integrations and Next.js auth patterns.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "auth",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/auth"
+    },
+    {
+      "name": "Vercel Bootstrap",
+      "description": "Safely bootstrap Vercel-linked repositories.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "bootstrap",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/bootstrap"
+    },
+    {
+      "name": "Vercel CDN caching",
+      "description": "Debug CDN caching, revalidation, ISR, and PPR.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "cdn-caching",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/cdn-caching"
+    },
+    {
+      "name": "Vercel Chat SDK",
+      "description": "Build multi-platform chat bots with Vercel Chat SDK.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "chat-sdk",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/chat-sdk"
+    },
+    {
+      "name": "Vercel Deployments and CI/CD",
+      "description": "Deploy, promote, inspect, roll back, and configure CI/CD.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "deployments-cicd",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/deployments-cicd"
+    },
+    {
+      "name": "Vercel Environment Variables",
+      "description": "Manage environment variables, OIDC, and env files.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "env-vars",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/env-vars"
+    },
+    {
+      "name": "Vercel Eve",
+      "description": "Build durable AI agents and agent-powered applications.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "eve",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/eve"
+    },
+    {
+      "name": "Vercel Knowledge Update",
+      "description": "Current Vercel platform corrections and new products.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "knowledge-update",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/knowledge-update"
+    },
+    {
+      "name": "Vercel Marketplace",
+      "description": "Discover, install, and operate Vercel Marketplace integrations.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "marketplace",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/marketplace"
+    },
+    {
+      "name": "Vercel Microfrontends",
+      "description": "Build and deploy microfrontends and multi-zone applications.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "microfrontends",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/microfrontends"
+    },
+    {
+      "name": "Next.js Cache Components",
+      "description": "Cache Components, PPR, tags, and cache migration.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "next-cache-components",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/next-cache-components"
+    },
+    {
+      "name": "next-forge",
+      "description": "Build and maintain next-forge Turborepo applications.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "next-forge",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/next-forge"
+    },
+    {
+      "name": "Next.js Upgrade",
+      "description": "Upgrade Next.js with official migration guides and codemods.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "next-upgrade",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/next-upgrade"
+    },
+    {
+      "name": "Next.js",
+      "description": "Next.js App Router architecture, implementation, and debugging.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "nextjs",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/nextjs"
+    },
+    {
+      "name": "React Best Practices",
+      "description": "Review TSX components for quality, accessibility, and performance.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "react-best-practices",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/react-best-practices"
+    },
+    {
+      "name": "Vercel Routing Middleware",
+      "description": "Platform request interception, rewrites, redirects, and personalization.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "routing-middleware",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/routing-middleware"
+    },
+    {
+      "name": "Vercel Runtime Cache",
+      "description": "Runtime Cache API and tag-based invalidation.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "runtime-cache",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/runtime-cache"
+    },
+    {
+      "name": "shadcn/ui",
+      "description": "Build and troubleshoot high-quality shadcn/ui interfaces.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "shadcn",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/shadcn"
+    },
+    {
+      "name": "Turbopack",
+      "description": "Configure, optimize, and debug Turbopack.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "turbopack",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/turbopack"
+    },
+    {
+      "name": "Vercel Agent",
+      "description": "Configure Vercel Agent reviews and production investigations.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "vercel-agent",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/vercel-agent"
+    },
+    {
+      "name": "Vercel CLI",
+      "description": "Operate deployments, projects, logs, domains, and env through the CLI.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "vercel-cli",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/vercel-cli"
+    },
+    {
+      "name": "Vercel Connect",
+      "description": "Obtain scoped OAuth access to third-party services through Vercel.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "vercel-connect",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/vercel-connect"
+    },
+    {
+      "name": "Vercel Firewall",
+      "description": "Configure WAF, DDoS, rate limits, and attack response.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "vercel-firewall",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/vercel-firewall"
+    },
+    {
+      "name": "Vercel Functions",
+      "description": "Build and optimize Vercel Functions and Fluid Compute.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "vercel-functions",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/vercel-functions"
+    },
+    {
+      "name": "Vercel Sandbox",
+      "description": "Run untrusted or generated code in Vercel microVMs.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "vercel-sandbox",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/vercel-sandbox"
+    },
+    {
+      "name": "Vercel Services",
+      "description": "Configure multiple frontends and backends in one deployment.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "vercel-services",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/vercel-services"
+    },
+    {
+      "name": "Vercel Storage",
+      "description": "Use Blob, Edge Config, and Marketplace storage.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "vercel-storage",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/vercel-storage"
+    },
+    {
+      "name": "Vercel Verification",
+      "description": "Verify a complete browser-to-data application flow.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "verification",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/verification"
+    },
+    {
+      "name": "Vercel Workflow",
+      "description": "Build durable workflows with Workflow DevKit.",
+      "source": "vercel/vercel-plugin#12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "skill": "workflow",
+      "url": "https://github.com/vercel/vercel-plugin/tree/12d077072a7dac431c2fd4f675c2dd4627f7a196/skills/workflow"
+    }
+  ]
+}

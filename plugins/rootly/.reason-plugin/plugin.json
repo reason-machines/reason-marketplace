@@ -1,0 +1,14 @@
+{
+  "name": "rootly",
+  "displayName": "Rootly",
+  "description": "Rootly integration to investigate and manage incidents, alerts, on-call schedules, and retrospectives",
+  "homepage": "https://rootly.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/rootly",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "rootly": {
+      "url": "https://mcp.rootly.com/mcp"
+    }
+  }
+}

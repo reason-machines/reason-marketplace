@@ -1,0 +1,14 @@
+{
+  "name": "cello",
+  "displayName": "Cello",
+  "description": "Query your Cello referral program: check integration health, inspect events, find top referrers, and review program performance",
+  "homepage": "https://cello.so",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cello",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "cello": {
+      "url": "https://mcp.cello.so/mcp"
+    }
+  }
+}

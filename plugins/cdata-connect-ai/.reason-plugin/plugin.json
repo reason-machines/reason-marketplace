@@ -1,0 +1,14 @@
+{
+  "name": "cdata-connect-ai",
+  "displayName": "CData Connect AI",
+  "description": "CData Connect AI integration for querying 350+ data sources through a managed MCP platform",
+  "homepage": "https://www.cdata.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cdata-connect-ai",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "cdata-connect-ai": {
+      "url": "https://mcp.cloud.cdata.com/mcp"
+    }
+  }
+}

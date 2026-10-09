@@ -1,0 +1,14 @@
+{
+  "name": "supermetrics",
+  "displayName": "Supermetrics",
+  "description": "Supermetrics integration to access 200+ marketing data sources",
+  "homepage": "https://supermetrics.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/supermetrics",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "supermetrics": {
+      "url": "https://mcp.supermetrics.com/mcp"
+    }
+  }
+}

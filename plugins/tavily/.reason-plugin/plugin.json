@@ -1,0 +1,23 @@
+{
+  "name": "tavily",
+  "displayName": "Tavily",
+  "description": "Real-time web search, extract, map, and crawl tools powered by Tavily's hosted MCP server.",
+  "homepage": "https://tavily.com",
+  "docs": "https://docs.tavily.com/documentation/mcp",
+  "logo": "https://tavily.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "tavily": {
+      "url": "https://mcp.tavily.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Tavily Usage",
+      "description": "Use Tavily MCP search and extract tools for web discovery and content retrieval.",
+      "source": "fcakyon/claude-codex-settings",
+      "skill": "tavily-usage",
+      "url": "https://skills.sh/fcakyon/claude-codex-settings/tavily-usage"
+    }
+  ]
+}

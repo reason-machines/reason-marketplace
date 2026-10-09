@@ -1,0 +1,14 @@
+{
+  "name": "confidence-docs",
+  "displayName": "Spotify Confidence Docs",
+  "description": "Spotify Confidence's hosted documentation MCP server: search Confidence feature-flag, experimentation and SDK docs.",
+  "homepage": "https://confidence.spotify.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/confidence-docs",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "confidence-docs": {
+      "url": "https://mcp.confidence.dev/mcp/docs"
+    }
+  }
+}

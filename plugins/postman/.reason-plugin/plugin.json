@@ -1,0 +1,14 @@
+{
+  "name": "postman",
+  "displayName": "Postman",
+  "description": "Postman integration to give API context to your coding agents",
+  "homepage": "https://www.postman.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/postman",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "postman": {
+      "url": "https://mcp.postman.com/minimal"
+    }
+  }
+}

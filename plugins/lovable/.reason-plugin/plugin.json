@@ -1,0 +1,14 @@
+{
+  "name": "lovable",
+  "displayName": "Lovable",
+  "description": "Lovable's hosted MCP server: build, iterate on, deploy and manage Lovable apps and their databases.",
+  "homepage": "https://lovable.dev",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/lovable",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "lovable": {
+      "url": "https://mcp.lovable.dev"
+    }
+  }
+}

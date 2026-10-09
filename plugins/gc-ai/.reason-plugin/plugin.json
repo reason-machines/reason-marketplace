@@ -1,0 +1,14 @@
+{
+  "name": "gc-ai",
+  "displayName": "GC AI",
+  "description": "GC AI's hosted MCP server: upload documents to your GC AI legal knowledge base, run review playbooks and ask questions grounded in your own files.",
+  "homepage": "https://gc.ai",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/gc-ai",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "gc-ai": {
+      "url": "https://app.gc.ai/api/mcp"
+    }
+  }
+}

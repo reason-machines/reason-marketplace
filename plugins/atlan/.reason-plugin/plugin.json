@@ -1,0 +1,14 @@
+{
+  "name": "atlan",
+  "displayName": "Atlan",
+  "description": "Atlan's hosted MCP server: search, explore and govern your data catalog with semantic search, lineage traversal, glossary management and data-quality context.",
+  "homepage": "https://atlan.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/atlan",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlan": {
+      "url": "https://mcp.atlan.com/mcp"
+    }
+  }
+}

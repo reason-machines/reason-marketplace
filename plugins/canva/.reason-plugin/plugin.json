@@ -1,0 +1,14 @@
+{
+  "name": "canva",
+  "displayName": "Canva",
+  "description": "Official Canva integration for design creation, template management, and visual content generation",
+  "homepage": "https://www.canva.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/canva",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "canva": {
+      "url": "https://mcp.canva.com/mcp"
+    }
+  }
+}

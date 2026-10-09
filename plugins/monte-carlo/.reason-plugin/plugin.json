@@ -1,0 +1,14 @@
+{
+  "name": "monte-carlo",
+  "displayName": "Monte Carlo",
+  "description": "Monte Carlo integration for data and AI observability",
+  "homepage": "https://www.montecarlodata.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/monte-carlo",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "monte-carlo": {
+      "url": "https://integrations.getmontecarlo.com/mcp"
+    }
+  }
+}

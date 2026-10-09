@@ -1,0 +1,23 @@
+{
+  "name": "gitlab",
+  "displayName": "GitLab",
+  "description": "Read GitLab projects, issues, merge requests, and pipelines through GitLab's hosted MCP server (gitlab.com).",
+  "homepage": "https://gitlab.com",
+  "docs": "https://docs.gitlab.com/user/gitlab_duo/model_context_protocol/mcp_server/",
+  "logo": "https://gitlab.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "gitlab": {
+      "url": "https://gitlab.com/api/v4/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "GitLab MCP",
+      "description": "Use GitLab MCP tools for merge requests, issues, repositories, pipelines, search, variables, and webhooks.",
+      "source": "zereight/gitlab-mcp",
+      "skill": "gitlab-mcp-skill",
+      "url": "https://skills.sh/zereight/gitlab-mcp/gitlab-mcp-skill"
+    }
+  ]
+}

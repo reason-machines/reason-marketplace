@@ -1,0 +1,14 @@
+{
+  "name": "val-town",
+  "displayName": "Val Town",
+  "description": "Val Town's hosted MCP server: create, read, update and run vals (HTTP handlers, cron jobs, SQLite, email) on the Val Town platform.",
+  "homepage": "https://www.val.town",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/val-town",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "val-town": {
+      "url": "https://api.val.town/v3/mcp"
+    }
+  }
+}

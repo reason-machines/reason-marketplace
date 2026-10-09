@@ -1,0 +1,14 @@
+{
+  "name": "wolfram",
+  "displayName": "Wolfram",
+  "description": "Wolfram integration to inject precise, real-time computation and knowledge",
+  "homepage": "https://www.wolfram.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/wolfram",
+  "logo": "logo.svg",
+  "auth": "none",
+  "mcpServers": {
+    "wolfram": {
+      "url": "https://agenttools.wolfram.com/mcp"
+    }
+  }
+}

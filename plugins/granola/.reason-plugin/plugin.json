@@ -1,0 +1,37 @@
+{
+  "name": "granola",
+  "displayName": "Granola",
+  "description": "Use Granola meeting notes, summaries, and transcript context in agent runs.",
+  "homepage": "https://www.granola.ai",
+  "docs": "https://www.granola.ai/docs",
+  "logo": "https://www.granola.ai/favicon/favicon-96x96.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "granola": {
+      "url": "https://mcp.granola.ai/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Granola Context",
+      "description": "Look up what was discussed or decided in meetings. Use when someone asks about a past discussion, needs to recall a decision, or references something that was talked about in a meeting.",
+      "source": "granola-inc/granola-cursor-plugin#56583da6e4db7f311808543f18ac905b8de1ff85",
+      "skill": "granola-context",
+      "url": "https://github.com/granola-inc/granola-cursor-plugin/tree/56583da6e4db7f311808543f18ac905b8de1ff85/skills/granola-context"
+    },
+    {
+      "name": "Granola Prep",
+      "description": "Prepare for an upcoming meeting by pulling context from previous ones. Use when someone mentions they have a meeting coming up, or asks to be prepped for a conversation.",
+      "source": "granola-inc/granola-cursor-plugin#56583da6e4db7f311808543f18ac905b8de1ff85",
+      "skill": "granola-prep",
+      "url": "https://github.com/granola-inc/granola-cursor-plugin/tree/56583da6e4db7f311808543f18ac905b8de1ff85/skills/granola-prep"
+    },
+    {
+      "name": "Granola Review",
+      "description": "Check current work against meeting decisions before submitting. Use when someone wants to verify their implementation, draft, or plan matches what was agreed.",
+      "source": "granola-inc/granola-cursor-plugin#56583da6e4db7f311808543f18ac905b8de1ff85",
+      "skill": "granola-review",
+      "url": "https://github.com/granola-inc/granola-cursor-plugin/tree/56583da6e4db7f311808543f18ac905b8de1ff85/skills/granola-review"
+    }
+  ]
+}

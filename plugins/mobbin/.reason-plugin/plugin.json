@@ -1,0 +1,23 @@
+{
+  "name": "mobbin",
+  "displayName": "Mobbin",
+  "description": "Reference real mobile and web app design patterns from Mobbin's screen library. Requires a paid Mobbin plan.",
+  "homepage": "https://mobbin.com/mcp",
+  "docs": "https://docs.mobbin.com/",
+  "logo": "https://mobbin.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "mobbin": {
+      "url": "https://api.mobbin.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Mobbin Search",
+      "description": "Search Mobbin for real app UI screenshots and analyze UI patterns when Mobbin tools are available.",
+      "source": "mobbin/skills#0caf3fddcfaef0726dc2bfa2c0cb13a60eaaedb0",
+      "skill": "mobbin-search",
+      "url": "https://github.com/mobbin/skills/tree/0caf3fddcfaef0726dc2bfa2c0cb13a60eaaedb0/skills/search"
+    }
+  ]
+}

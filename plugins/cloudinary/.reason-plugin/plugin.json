@@ -1,0 +1,14 @@
+{
+  "name": "cloudinary",
+  "displayName": "Cloudinary",
+  "description": "Cloudinary integration to manage, transform, and deliver images and videos",
+  "homepage": "https://cloudinary.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudinary",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudinary": {
+      "url": "https://asset-management.mcp.cloudinary.com/sse"
+    }
+  }
+}

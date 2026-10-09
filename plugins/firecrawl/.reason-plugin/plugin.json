@@ -1,0 +1,23 @@
+{
+  "name": "firecrawl",
+  "displayName": "Firecrawl",
+  "description": "Give agents crawling, scraping, search, and extraction tools through Firecrawl's hosted MCP server.",
+  "homepage": "https://www.firecrawl.dev",
+  "docs": "https://docs.firecrawl.dev/mcp-server",
+  "logo": "https://www.firecrawl.dev/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "firecrawl": {
+      "url": "https://mcp.firecrawl.dev/v2/mcp-oauth"
+    }
+  },
+  "skills": [
+    {
+      "name": "Firecrawl Research Papers",
+      "description": "Use Firecrawl Research MCP tools for paper discovery, related-paper expansion, and source verification.",
+      "source": "firecrawl/firecrawl-workflows",
+      "skill": "firecrawl-research-papers",
+      "url": "https://skills.sh/firecrawl/firecrawl-workflows/firecrawl-research-papers"
+    }
+  ]
+}

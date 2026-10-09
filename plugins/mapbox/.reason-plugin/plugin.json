@@ -1,0 +1,14 @@
+{
+  "name": "mapbox",
+  "displayName": "Mapbox",
+  "description": "Mapbox's hosted MCP server: geocoding, directions, isochrones, POI search and other geospatial tools for building location-aware applications.",
+  "homepage": "https://www.mapbox.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/mapbox",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "mapbox": {
+      "url": "https://mcp.mapbox.com/mcp"
+    }
+  }
+}

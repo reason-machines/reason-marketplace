@@ -1,0 +1,14 @@
+{
+  "name": "x",
+  "displayName": "X",
+  "description": "Search posts, read timelines, look up users, and read bookmarks.",
+  "homepage": "https://docs.x.com/tools/mcp",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/x",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "x": {
+      "url": "https://api.x.com/mcp"
+    }
+  }
+}

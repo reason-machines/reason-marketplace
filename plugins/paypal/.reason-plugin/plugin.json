@@ -1,0 +1,14 @@
+{
+  "name": "paypal",
+  "displayName": "PayPal",
+  "description": "Manage PayPal commerce operations; handle disputes; issue and send invoices; create orders, captures, and refunds; list transactions; track shipments; and manage subscriptions.",
+  "homepage": "https://www.paypal.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/paypal",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "paypal": {
+      "url": "https://mcp.paypal.com/mcp"
+    }
+  }
+}

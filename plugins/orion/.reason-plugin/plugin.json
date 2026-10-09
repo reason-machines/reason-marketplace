@@ -1,0 +1,14 @@
+{
+  "name": "orion",
+  "displayName": "Orion by Gravity",
+  "description": "Orion by Gravity integration to get insights from an autonomous AI analyst",
+  "homepage": "https://runorion.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/orion",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "orion": {
+      "url": "https://g.runorion.com/mcp"
+    }
+  }
+}

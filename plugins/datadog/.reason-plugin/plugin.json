@@ -1,0 +1,23 @@
+{
+  "name": "datadog",
+  "displayName": "Datadog",
+  "description": "Query Datadog metrics, logs, traces, monitors, and incidents through Datadog's hosted MCP server.",
+  "homepage": "https://www.datadoghq.com",
+  "docs": "https://docs.datadoghq.com/bits_ai/mcp_server/",
+  "logo": "https://www.datadoghq.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "datadog": {
+      "url": "https://mcp.datadoghq.com/api/unstable/mcp-server/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Datadog Agent Skills",
+      "description": "Use Datadog monitoring, logging, tracing, and observability workflows.",
+      "source": "datadog-labs/agent-skills",
+      "skill": "agent-skills",
+      "url": "https://skills.sh/datadog-labs/agent-skills/agent-skills"
+    }
+  ]
+}

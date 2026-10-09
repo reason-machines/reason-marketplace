@@ -1,0 +1,14 @@
+{
+  "name": "miro",
+  "displayName": "Miro",
+  "description": "Miro integration to build boards, visualize ideas, and act on feedback",
+  "homepage": "https://miro.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/miro",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "miro": {
+      "url": "https://mcp.miro.com/"
+    }
+  }
+}

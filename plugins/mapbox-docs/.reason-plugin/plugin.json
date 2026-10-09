@@ -1,0 +1,14 @@
+{
+  "name": "mapbox-docs",
+  "displayName": "Mapbox Docs",
+  "description": "Mapbox's hosted documentation MCP server: search Mapbox API, SDK and style documentation.",
+  "homepage": "https://www.mapbox.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/mapbox-docs",
+  "logo": "logo.svg",
+  "auth": "none",
+  "mcpServers": {
+    "mapbox-docs": {
+      "url": "https://mcp-docs.mapbox.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "excalidraw",
+  "displayName": "Excalidraw",
+  "description": "Draw and export hand-drawn diagrams from chat.",
+  "homepage": "https://github.com/excalidraw/excalidraw-mcp",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/excalidraw",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "excalidraw": {
+      "url": "https://mcp.excalidraw.com/mcp"
+    }
+  }
+}

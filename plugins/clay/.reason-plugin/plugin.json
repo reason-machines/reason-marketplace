@@ -1,0 +1,14 @@
+{
+  "name": "clay",
+  "displayName": "Clay",
+  "description": "Enrich people and companies, run AI research agents.",
+  "homepage": "https://university.clay.com/docs/connect-to-clay-mcp",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/clay",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "clay": {
+      "url": "https://api.clay.com/v3/mcp"
+    }
+  }
+}

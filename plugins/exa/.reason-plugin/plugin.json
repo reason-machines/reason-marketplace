@@ -1,0 +1,23 @@
+{
+  "name": "exa",
+  "displayName": "Exa",
+  "description": "Give agents live web search and page-fetch tools through Exa's hosted MCP server.",
+  "homepage": "https://exa.ai",
+  "docs": "https://docs.exa.ai/reference/mcp-server",
+  "logo": "https://exa.ai/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "exa": {
+      "url": "https://mcp.exa.ai/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Exa Search",
+      "description": "Use Exa for deep research, web search, lead generation, competitive analysis, and page discovery.",
+      "source": "exa-labs/exa-mcp-server#66bacbe4afd35a7e1671be9ab55c2b6bf60aff34",
+      "skill": "search",
+      "url": "https://github.com/exa-labs/exa-mcp-server/tree/66bacbe4afd35a7e1671be9ab55c2b6bf60aff34/skills/search"
+    }
+  ]
+}

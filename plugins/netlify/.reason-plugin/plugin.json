@@ -1,0 +1,23 @@
+{
+  "name": "netlify",
+  "displayName": "Netlify",
+  "description": "Inspect Netlify sites, deploys, forms, and environment state through Netlify's hosted MCP server.",
+  "homepage": "https://www.netlify.com",
+  "docs": "https://docs.netlify.com/build/build-with-ai/netlify-mcp-server/",
+  "logo": "https://www.netlify.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "netlify": {
+      "url": "https://netlify-mcp.netlify.app/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Netlify MCP Servers",
+      "description": "Build, secure, and connect MCP servers on Netlify with Streamable HTTP transport and safe auth.",
+      "source": "netlify/context-and-tools",
+      "skill": "netlify-mcp-servers",
+      "url": "https://skills.sh/netlify/context-and-tools/netlify-mcp-servers"
+    }
+  ]
+}

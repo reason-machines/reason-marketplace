@@ -1,0 +1,23 @@
+{
+  "name": "supabase",
+  "displayName": "Supabase",
+  "description": "Connect a Supabase account: inspect projects, run SQL, read logs, and search docs through Supabase's hosted MCP server.",
+  "homepage": "https://supabase.com",
+  "docs": "https://supabase.com/docs/guides/getting-started/mcp",
+  "logo": "https://supabase.com/favicon/favicon-32x32.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "supabase": {
+      "url": "https://mcp.supabase.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Supabase",
+      "description": "Use for Supabase MCP, CLI, schema, migrations, auth, storage, logs, and docs tasks.",
+      "source": "supabase/agent-skills",
+      "skill": "supabase",
+      "url": "https://skills.sh/supabase/agent-skills/supabase"
+    }
+  ]
+}

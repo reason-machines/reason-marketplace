@@ -1,0 +1,14 @@
+{
+  "name": "raindrop-ai",
+  "displayName": "Raindrop",
+  "description": "Raindrop observability platform for AI agents — investigate issues, search events, inspect traces, and quantify signals through natural language",
+  "homepage": "https://raindrop.ai",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/raindrop-ai",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "raindrop-ai": {
+      "url": "https://mcp.raindrop.ai/mcp"
+    }
+  }
+}

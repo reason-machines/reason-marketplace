@@ -1,0 +1,23 @@
+{
+  "name": "pylon",
+  "displayName": "Pylon",
+  "description": "Access and manage Pylon customer accounts, issues, and support data through Pylon's hosted MCP server.",
+  "homepage": "https://usepylon.com",
+  "docs": "https://docs.usepylon.com/pylon-docs/integrations/api/mcp-server",
+  "logo": "https://cdn.prod.website-files.com/689071d222bec6ce3d3d6fbf/69303a413f1c504c2723e04b_favicon.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "pylon": {
+      "url": "https://mcp.usepylon.com"
+    }
+  },
+  "skills": [
+    {
+      "name": "Pylon MCP",
+      "description": "Use Pylon MCP tools for customer-support accounts, issues, knowledge-base content, and API-backed support workflows.",
+      "source": "Carter-S/pylon-mcp",
+      "skill": "pylon-mcp",
+      "url": "https://lobehub.com/mcp/carter-s-pylon-mcp/skill.md"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "wix",
+  "displayName": "Wix",
+  "description": "Wix's hosted MCP server: manage Wix sites and apps, including site content, business data and CLI-based app development.",
+  "homepage": "https://www.wix.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/wix",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "wix": {
+      "url": "https://mcp.wix.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jotform",
+  "displayName": "Jotform",
+  "description": "Create and edit forms, then read submissions.",
+  "homepage": "https://www.jotform.com/mcp/",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/jotform",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "jotform": {
+      "url": "https://mcp.jotform.com"
+    }
+  }
+}

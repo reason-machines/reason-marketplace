@@ -1,0 +1,23 @@
+{
+  "name": "linear",
+  "displayName": "Linear",
+  "description": "Read Linear issues, projects, cycles, comments, and team metadata from Linear's hosted MCP server.",
+  "homepage": "https://linear.app",
+  "docs": "https://linear.app/docs/mcp",
+  "logo": "https://linear.app/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "linear": {
+      "url": "https://mcp.linear.app/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Linear",
+      "description": "Manage Linear issues, projects, and team workflows when Linear MCP tools are active.",
+      "source": "openai/skills#49f948faa9258a0c61caceaf225e179651397431",
+      "skill": "linear",
+      "url": "https://github.com/openai/skills/tree/49f948faa9258a0c61caceaf225e179651397431/skills/.curated/linear"
+    }
+  ]
+}

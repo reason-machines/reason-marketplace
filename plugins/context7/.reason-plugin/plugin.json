@@ -1,0 +1,23 @@
+{
+  "name": "context7",
+  "displayName": "Context7",
+  "description": "Up-to-date, version-specific library documentation and code examples, straight into the agent's context.",
+  "homepage": "https://context7.com",
+  "docs": "https://context7.com/docs",
+  "logo": "https://context7.com/favicon.ico",
+  "auth": "none",
+  "mcpServers": {
+    "context7": {
+      "url": "https://mcp.context7.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Context7 MCP",
+      "description": "Fetch up-to-date library documentation and code examples through Context7.",
+      "source": "upstash/context7#5284672feb575908efead6fcf1b5e542f8d607bb",
+      "skill": "context7-mcp",
+      "url": "https://github.com/upstash/context7/tree/5284672feb575908efead6fcf1b5e542f8d607bb/skills/context7-mcp"
+    }
+  ]
+}

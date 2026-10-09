@@ -1,0 +1,14 @@
+{
+  "name": "mapbox-devkit",
+  "displayName": "Mapbox DevKit",
+  "description": "Mapbox's hosted DevKit MCP server: manage styles, tilesets, fonts, datasets and tokens in your Mapbox account.",
+  "homepage": "https://www.mapbox.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/mapbox-devkit",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "mapbox-devkit": {
+      "url": "https://mcp-devkit.mapbox.com/mcp"
+    }
+  }
+}

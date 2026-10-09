@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-logpush",
+  "displayName": "Cloudflare Logpush",
+  "description": "Get quick summaries for Logpush job health",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-logpush",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-logpush": {
+      "url": "https://logs.mcp.cloudflare.com/mcp"
+    }
+  }
+}

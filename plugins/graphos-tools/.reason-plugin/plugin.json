@@ -1,0 +1,14 @@
+{
+  "name": "graphos-tools",
+  "displayName": "Apollo GraphOS",
+  "description": "Apollo GraphOS integration to search Apollo docs, specs, and best practices",
+  "homepage": "https://www.apollographql.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/graphos-tools",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "graphos-tools": {
+      "url": "https://mcp.apollographql.com"
+    }
+  }
+}

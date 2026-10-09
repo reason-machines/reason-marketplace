@@ -1,0 +1,14 @@
+{
+  "name": "webull",
+  "displayName": "Webull",
+  "description": "View accounts, positions, orders, watchlists, and market data.",
+  "homepage": "https://developer.webull.com/apis/docs/AI-friendly-Resources/mcp/",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/webull",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "webull": {
+      "url": "https://api.webull.com/mcp"
+    }
+  }
+}

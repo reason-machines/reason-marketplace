@@ -1,0 +1,23 @@
+{
+  "name": "planetscale",
+  "displayName": "PlanetScale",
+  "description": "Access PlanetScale databases, insights, and schema recommendations through PlanetScale's hosted MCP server.",
+  "homepage": "https://planetscale.com",
+  "docs": "https://planetscale.com/docs/connect/mcp",
+  "logo": "https://planetscale.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "planetscale": {
+      "url": "https://mcp.pscale.dev/mcp/planetscale"
+    }
+  },
+  "skills": [
+    {
+      "name": "PlanetScale MCP Agent Operating Model",
+      "description": "Use PlanetScale MCP safely around Insights, schema recommendations, branches, and production mutations.",
+      "source": "planetscale/skills",
+      "skill": "planetscale-mcp-agent-operating-model",
+      "url": "https://skills.sh/planetscale/skills/planetscale-mcp-agent-operating-model"
+    }
+  ]
+}

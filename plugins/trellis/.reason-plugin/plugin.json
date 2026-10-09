@@ -1,0 +1,14 @@
+{
+  "name": "trellis",
+  "displayName": "Trellis",
+  "description": "Trellis integration for trial court litigation research",
+  "homepage": "https://trellis.law",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/trellis",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "trellis": {
+      "url": "https://mcp.trellis.law/anthropic"
+    }
+  }
+}

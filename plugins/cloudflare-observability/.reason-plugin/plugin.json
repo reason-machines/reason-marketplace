@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-observability",
+  "displayName": "Cloudflare Observability",
+  "description": "Debug and get insights into application logs and analytics via Cloudflare MCP",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-observability",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-observability": {
+      "url": "https://observability.mcp.cloudflare.com/mcp"
+    }
+  }
+}

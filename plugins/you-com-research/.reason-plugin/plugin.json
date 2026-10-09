@@ -1,0 +1,14 @@
+{
+  "name": "you-com-research",
+  "displayName": "You.com Research",
+  "description": "You.com's hosted research MCP server: multi-step deep research reports with citations via the You.com API.",
+  "homepage": "https://you.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/you-com-research",
+  "logo": "logo.jpg",
+  "auth": "oauth",
+  "mcpServers": {
+    "you-com-research": {
+      "url": "https://api.you.com/mcp/research"
+    }
+  }
+}

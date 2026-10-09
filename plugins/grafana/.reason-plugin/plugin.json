@@ -1,0 +1,23 @@
+{
+  "name": "grafana",
+  "displayName": "Grafana",
+  "description": "Inspect Grafana Cloud dashboards, data sources, alerts, and incidents through Grafana's hosted MCP server. Grafana Cloud only.",
+  "homepage": "https://grafana.com",
+  "docs": "https://grafana.com/docs/grafana-cloud/machine-learning/mcp/",
+  "logo": "https://grafana.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "grafana": {
+      "url": "https://mcp.grafana.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Assistant MCP",
+      "description": "Connect and use Grafana Cloud through the mcp-grafana Model Context Protocol server.",
+      "source": "grafana/skills",
+      "skill": "assistant-mcp",
+      "url": "https://skills.sh/grafana/skills/assistant-mcp"
+    }
+  ]
+}

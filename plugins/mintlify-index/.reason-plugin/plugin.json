@@ -1,0 +1,14 @@
+{
+  "name": "mintlify-index",
+  "displayName": "Mintlify Index",
+  "description": "Mintlify Index integration to search publisher-maintained docs across all Mintlify sites",
+  "homepage": "https://www.mintlify.com/search-index",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/mintlify-index",
+  "logo": "logo.svg",
+  "auth": "none",
+  "mcpServers": {
+    "mintlify-index": {
+      "url": "https://index.mintlify.com"
+    }
+  }
+}

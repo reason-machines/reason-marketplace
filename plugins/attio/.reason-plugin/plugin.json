@@ -1,0 +1,23 @@
+{
+  "name": "attio",
+  "displayName": "Attio",
+  "description": "Read and update Attio CRM records, lists, and workspace data through Attio's hosted MCP server.",
+  "homepage": "https://attio.com",
+  "docs": "https://attio.com/help/apps/other-apps/model-context-protocol-mcp",
+  "logo": "https://attio.com/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "attio": {
+      "url": "https://mcp.attio.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Attio MCP Usage",
+      "description": "Use Attio MCP tools with correct workflow patterns, field handling, and error prevention.",
+      "source": "kesslerio/attio-mcp-server",
+      "skill": "attio-mcp-usage",
+      "url": "https://skills.sh/kesslerio/attio-mcp-server/attio-mcp-usage"
+    }
+  ]
+}

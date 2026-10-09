@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-audit-logs",
+  "displayName": "Cloudflare Audit Logs",
+  "description": "Query audit logs and generate reports for review",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-audit-logs",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-audit-logs": {
+      "url": "https://auditlogs.mcp.cloudflare.com/mcp"
+    }
+  }
+}

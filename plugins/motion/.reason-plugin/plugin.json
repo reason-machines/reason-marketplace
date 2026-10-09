@@ -1,0 +1,14 @@
+{
+  "name": "motion",
+  "displayName": "Motion Creative Analytics",
+  "description": "Motion integration to analyze ad creative and competitor ad libraries",
+  "homepage": "https://motionapp.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/motion",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "motion": {
+      "url": "https://projects.motionapp.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "hyperspell",
+  "displayName": "Hyperspell",
+  "description": "Search company knowledge, ask questions with citations, and save memories.",
+  "homepage": "https://www.hyperspell.com",
+  "docs": "https://docs.hyperspell.com/agents/mcp",
+  "logo": "logo.svg",
+  "auth": "api_key",
+  "mcpServers": {
+    "hyperspell": {
+      "url": "https://api.hyperspell.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

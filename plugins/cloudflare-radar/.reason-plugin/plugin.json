@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-radar",
+  "displayName": "Cloudflare Radar",
+  "description": "Get global Internet traffic insights, trends, URL scans, and other utilities via Cloudflare Radar MCP",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-radar",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-radar": {
+      "url": "https://radar.mcp.cloudflare.com/mcp"
+    }
+  }
+}

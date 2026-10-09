@@ -1,0 +1,14 @@
+{
+  "name": "wispr-flow",
+  "displayName": "Wispr Flow",
+  "description": "Read-only access to Wispr Flow Notetaker meeting summaries, notes, transcripts, tasks, Scratchpad notes and calendar events",
+  "homepage": "https://wisprflow.ai",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/wispr-flow",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "wispr-flow": {
+      "url": "https://api.wisprflow.ai/connect/mcp"
+    }
+  }
+}

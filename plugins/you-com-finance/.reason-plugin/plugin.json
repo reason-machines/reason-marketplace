@@ -1,0 +1,14 @@
+{
+  "name": "you-com-finance",
+  "displayName": "You.com Finance",
+  "description": "You.com's hosted finance MCP server: financial-market search and data via the You.com API.",
+  "homepage": "https://you.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/you-com-finance",
+  "logo": "logo.jpg",
+  "auth": "oauth",
+  "mcpServers": {
+    "you-com-finance": {
+      "url": "https://api.you.com/mcp/finance"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "apollo-io",
+  "displayName": "Apollo.io",
+  "description": "Apollo.io integration to search prospects, enrich contacts, and manage sales sequences",
+  "homepage": "https://www.apollo.io",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/apollo-io",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "apollo-io": {
+      "url": "https://mcp.apollo.io/mcp"
+    }
+  }
+}

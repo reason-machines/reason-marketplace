@@ -1,0 +1,14 @@
+{
+  "name": "launchdarkly",
+  "displayName": "LaunchDarkly",
+  "description": "Manage LaunchDarkly feature flags: list, create, update, and delete flags, check flag status across environments, manage AI Configs, and inspect code references and audit log entries",
+  "homepage": "https://launchdarkly.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/launchdarkly",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "launchdarkly": {
+      "url": "https://mcp.launchdarkly.com/mcp/launchdarkly"
+    }
+  }
+}

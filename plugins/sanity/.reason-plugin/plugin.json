@@ -1,0 +1,14 @@
+{
+  "name": "sanity",
+  "displayName": "Sanity",
+  "description": "Sanity integration to create, query, and manage structured content",
+  "homepage": "https://www.sanity.io",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/sanity",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "sanity": {
+      "url": "https://mcp.sanity.io"
+    }
+  }
+}

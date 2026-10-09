@@ -1,0 +1,14 @@
+{
+  "name": "kpler",
+  "displayName": "Kpler",
+  "description": "Kpler integration to explore maritime and commodities intelligence",
+  "homepage": "https://www.kpler.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/kpler",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "kpler": {
+      "url": "https://claude.mcp.kpler.com/v1/mcp/"
+    }
+  }
+}

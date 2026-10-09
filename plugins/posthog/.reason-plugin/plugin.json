@@ -1,0 +1,23 @@
+{
+  "name": "posthog",
+  "displayName": "PostHog",
+  "description": "Query PostHog product analytics: events, insights, and feature flags.",
+  "homepage": "https://posthog.com",
+  "docs": "https://posthog.com/docs/model-context-protocol",
+  "logo": "https://us.posthog.com/static/icons/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "posthog": {
+      "url": "https://mcp.posthog.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Querying PostHog Data",
+      "description": "Read before querying PostHog analytics, logs, feature flags, replays, or error-tracking data.",
+      "source": "posthog/skills#188417f71b1e67765ce814118bce9f79d8a1a393",
+      "skill": "querying-posthog-data",
+      "url": "https://github.com/posthog/skills/tree/188417f71b1e67765ce814118bce9f79d8a1a393/skills/omnibus/querying-posthog-data"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "microsoft-learn",
+  "displayName": "Microsoft Learn",
+  "description": "Microsoft Learn integration to search trusted Microsoft documentation",
+  "homepage": "https://learn.microsoft.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/microsoft-learn",
+  "logo": "logo.svg",
+  "auth": "none",
+  "mcpServers": {
+    "microsoft-learn": {
+      "url": "https://learn.microsoft.com/api/mcp"
+    }
+  }
+}

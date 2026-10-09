@@ -1,0 +1,14 @@
+{
+  "name": "airtable",
+  "displayName": "Airtable",
+  "description": "Search and update bases, tables, records, and views.",
+  "homepage": "https://www.airtable.com",
+  "docs": "https://github.com/airtable/skills/tree/812ee67f1fd3d76fb45ff8df40afaa0448602ba8/plugins/airtable",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "airtable": {
+      "url": "https://mcp.airtable.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "neon",
+  "displayName": "Neon",
+  "description": "Inspect Neon projects, branches, databases, and run SQL through Neon's hosted MCP server.",
+  "homepage": "https://neon.tech",
+  "docs": "https://neon.tech/docs/ai/neon-mcp-server",
+  "logo": "https://neon.tech/favicon/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "neon": {
+      "url": "https://mcp.neon.tech/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Neon Postgres",
+      "description": "Use Neon Postgres, branching, CLI, MCP, REST API, TypeScript SDK, and Python SDK guidance.",
+      "source": "neondatabase/agent-skills",
+      "skill": "neon-postgres",
+      "url": "https://skills.sh/neondatabase/agent-skills/neon-postgres"
+    }
+  ]
+}

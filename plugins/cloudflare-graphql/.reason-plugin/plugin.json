@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-graphql",
+  "displayName": "Cloudflare GraphQL",
+  "description": "Get analytics data using Cloudflare's GraphQL API",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-graphql",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-graphql": {
+      "url": "https://graphql.mcp.cloudflare.com/mcp"
+    }
+  }
+}

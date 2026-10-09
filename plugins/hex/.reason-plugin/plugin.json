@@ -1,0 +1,14 @@
+{
+  "name": "hex",
+  "displayName": "Hex",
+  "description": "Hex integration to answer questions about your data with the Hex agent",
+  "homepage": "https://hex.tech",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/hex",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "hex": {
+      "url": "https://app.hex.tech/mcp"
+    }
+  }
+}

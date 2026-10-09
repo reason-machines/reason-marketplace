@@ -1,0 +1,14 @@
+{
+  "name": "google-cloud-bigquery",
+  "displayName": "Google Cloud BigQuery",
+  "description": "Explore datasets and tables and run SQL queries.",
+  "homepage": "https://docs.cloud.google.com/bigquery/docs/use-bigquery-mcp",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/google-cloud-bigquery",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "google-cloud-bigquery": {
+      "url": "https://bigquery.googleapis.com/mcp"
+    }
+  }
+}

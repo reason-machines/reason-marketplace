@@ -1,0 +1,14 @@
+{
+  "name": "coinbase",
+  "displayName": "Coinbase",
+  "description": "Check balances, get quotes, and preview or place trades.",
+  "homepage": "https://docs.cdp.coinbase.com/coinbase-for-agents/overview",
+  "docs": "https://github.com/cursor/plugins/tree/78f46dacbafc71fd7d937bfc2c26da914f1bc09b/third_party/coinbase",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "coinbase": {
+      "url": "https://agents.coinbase.com/mcp"
+    }
+  }
+}

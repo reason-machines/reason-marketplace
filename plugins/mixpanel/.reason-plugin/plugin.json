@@ -1,0 +1,14 @@
+{
+  "name": "mixpanel",
+  "displayName": "Mixpanel",
+  "description": "Mixpanel integration to analyze, query, and manage your product analytics data",
+  "homepage": "https://mixpanel.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/mixpanel",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "mixpanel": {
+      "url": "https://mcp.mixpanel.com/mcp"
+    }
+  }
+}

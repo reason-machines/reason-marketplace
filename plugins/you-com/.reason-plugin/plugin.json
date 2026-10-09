@@ -1,0 +1,14 @@
+{
+  "name": "you-com",
+  "displayName": "You.com",
+  "description": "You.com's hosted MCP server: web search, research with citations and content extraction via the You.com API.",
+  "homepage": "https://you.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/you-com",
+  "logo": "logo.jpg",
+  "auth": "oauth",
+  "mcpServers": {
+    "you-com": {
+      "url": "https://api.you.com/mcp"
+    }
+  }
+}

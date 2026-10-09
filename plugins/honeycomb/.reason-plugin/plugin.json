@@ -1,0 +1,14 @@
+{
+  "name": "honeycomb",
+  "displayName": "Honeycomb",
+  "description": "Honeycomb integration to query and explore observability data and SLOs",
+  "homepage": "https://www.honeycomb.io",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/honeycomb",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "honeycomb": {
+      "url": "https://mcp.honeycomb.io/mcp"
+    }
+  }
+}

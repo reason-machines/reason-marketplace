@@ -1,0 +1,14 @@
+{
+  "name": "codspeed",
+  "displayName": "CodSpeed",
+  "description": "CodSpeed's hosted MCP server: dive into benchmark results, flamegraphs and performance comparisons to pinpoint bottlenecks and iterate on performance.",
+  "homepage": "https://codspeed.io",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/codspeed",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "codspeed": {
+      "url": "https://mcp.codspeed.io/mcp"
+    }
+  }
+}

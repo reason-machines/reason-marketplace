@@ -1,0 +1,14 @@
+{
+  "name": "pg-aiguide",
+  "displayName": "pg-aiguide",
+  "description": "pg-aiguide integration to search Postgres and Tiger docs and learn database skills",
+  "homepage": "https://www.tigerdata.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/pg-aiguide",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "pg-aiguide": {
+      "url": "https://mcp.tigerdata.com/docs"
+    }
+  }
+}

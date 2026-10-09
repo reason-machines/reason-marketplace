@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-workers-builds",
+  "displayName": "Cloudflare Workers Builds",
+  "description": "Get insights and manage your Cloudflare Workers Builds",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-workers-builds",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-workers-builds": {
+      "url": "https://builds.mcp.cloudflare.com/mcp"
+    }
+  }
+}

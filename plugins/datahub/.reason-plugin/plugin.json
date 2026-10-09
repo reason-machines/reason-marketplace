@@ -1,0 +1,14 @@
+{
+  "name": "datahub",
+  "displayName": "DataHub",
+  "description": "DataHub integration to connect AI agents to enterprise data and context",
+  "homepage": "https://datahub.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/datahub",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "datahub": {
+      "url": "https://mcp.datahub.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "synthflow-docs",
+  "displayName": "Synthflow Docs",
+  "description": "Synthflow's hosted documentation MCP server: search the Synthflow AI voice-agent platform docs.",
+  "homepage": "https://synthflow.ai",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/synthflow-docs",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "synthflow-docs": {
+      "url": "https://docs.synthflow.ai/_mcp/server"
+    }
+  }
+}

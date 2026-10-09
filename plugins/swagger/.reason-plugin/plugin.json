@@ -1,0 +1,14 @@
+{
+  "name": "swagger",
+  "displayName": "Swagger",
+  "description": "Swagger integration to build, govern, and document APIs",
+  "homepage": "https://swagger.io",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/swagger",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "swagger": {
+      "url": "https://swagger.mcp.smartbear.com/mcp"
+    }
+  }
+}

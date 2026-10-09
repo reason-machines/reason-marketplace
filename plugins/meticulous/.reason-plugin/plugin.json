@@ -1,0 +1,14 @@
+{
+  "name": "meticulous",
+  "displayName": "Meticulous",
+  "description": "Meticulous integration to inspect test runs, replay diffs, and coverage for frontend changes",
+  "homepage": "https://meticulous.ai",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/meticulous",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "meticulous": {
+      "url": "https://app.meticulous.ai/api/mcp"
+    }
+  }
+}

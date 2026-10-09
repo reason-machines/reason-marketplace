@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-dex",
+  "displayName": "Cloudflare Digital Experience Monitoring",
+  "description": "Get quick insight on critical applications for your organization",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-dex",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare-dex": {
+      "url": "https://dex.mcp.cloudflare.com/mcp"
+    }
+  }
+}

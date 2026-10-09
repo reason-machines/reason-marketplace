@@ -1,0 +1,14 @@
+{
+  "name": "fullstory",
+  "displayName": "Fullstory",
+  "description": "Fullstory's hosted MCP server: query behavioral analytics, session replays and customer experience insights.",
+  "homepage": "https://www.fullstory.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/fullstory",
+  "logo": "logo.jpg",
+  "auth": "oauth",
+  "mcpServers": {
+    "fullstory": {
+      "url": "https://api.fullstory.com/mcp/fullstory"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "statsig",
+  "displayName": "Statsig",
+  "description": "Inspect and manage feature gates, experiments, dynamic configs, and metrics.",
+  "homepage": "https://docs.statsig.com/integrations/mcp/cursor",
+  "docs": "https://github.com/cursor/plugins/tree/78f46dacbafc71fd7d937bfc2c26da914f1bc09b/third_party/statsig",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "statsig": {
+      "url": "https://api.statsig.com/v1/mcp"
+    }
+  }
+}

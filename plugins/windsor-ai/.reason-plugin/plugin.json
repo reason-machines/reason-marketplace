@@ -1,0 +1,14 @@
+{
+  "name": "windsor-ai",
+  "displayName": "Windsor.ai",
+  "description": "Windsor.ai integration to connect 320+ marketing data sources",
+  "homepage": "https://windsor.ai",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/windsor-ai",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "windsor-ai": {
+      "url": "https://mcp.windsor.ai/"
+    }
+  }
+}

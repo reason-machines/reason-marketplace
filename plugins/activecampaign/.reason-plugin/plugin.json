@@ -1,0 +1,14 @@
+{
+  "name": "activecampaign",
+  "displayName": "ActiveCampaign",
+  "description": "Marketing automation and CRM: manage contacts, lists, tags, and custom fields, plan and report on email campaigns, build automations, and operate deal pipelines through natural language",
+  "homepage": "https://www.activecampaign.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/activecampaign",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "activecampaign": {
+      "url": "https://mcp.app-us1.com/http"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "readwise",
+  "displayName": "Readwise",
+  "description": "Search highlights and Reader documents, save articles.",
+  "homepage": "https://docs.readwise.io/tools/mcp",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/readwise",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "readwise": {
+      "url": "https://mcp2.readwise.io/mcp"
+    }
+  }
+}

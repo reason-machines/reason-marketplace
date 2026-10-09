@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-atlas",
+  "displayName": "MongoDB Atlas",
+  "description": "Connect to MongoDB Atlas clusters via the Atlas Managed MCP Server to explore data, manage resources, and generate best-practice code",
+  "homepage": "https://www.mongodb.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/mongodb-atlas",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "mongodb-atlas": {
+      "url": "https://mcp.mongodb.com"
+    }
+  }
+}

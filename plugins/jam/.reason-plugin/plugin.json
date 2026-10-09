@@ -1,0 +1,23 @@
+{
+  "name": "jam",
+  "displayName": "Jam",
+  "description": "Access Jam bug reports, recordings, console/network context, and repro steps.",
+  "homepage": "https://jam.dev",
+  "docs": "https://jam.dev/docs/debug-a-jam/mcp",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "jam": {
+      "url": "https://mcp.jam.dev/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Jam",
+      "description": "Use Jam's hosted MCP endpoint to list Jams and inspect bug reports, recordings, console logs, and context.",
+      "source": "jam/skills",
+      "skill": "jam",
+      "url": "https://jam.dev/docs/debug-a-jam/mcp"
+    }
+  ]
+}

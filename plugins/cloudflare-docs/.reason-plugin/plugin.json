@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-docs",
+  "displayName": "Cloudflare Documentation",
+  "description": "Access up-to-date Cloudflare reference information via MCP",
+  "homepage": "https://www.cloudflare.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/cloudflare-docs",
+  "logo": "logo.svg",
+  "auth": "none",
+  "mcpServers": {
+    "cloudflare-docs": {
+      "url": "https://docs.mcp.cloudflare.com/mcp"
+    }
+  }
+}

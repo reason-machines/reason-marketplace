@@ -1,0 +1,14 @@
+{
+  "name": "omni-analytics",
+  "displayName": "Omni Analytics",
+  "description": "Omni integration to query your data using natural language",
+  "homepage": "https://omni.co",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/omni-analytics",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "omni-analytics": {
+      "url": "https://callbacks.omniapp.co/callback/mcp"
+    }
+  }
+}

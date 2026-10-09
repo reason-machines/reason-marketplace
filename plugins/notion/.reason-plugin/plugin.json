@@ -1,0 +1,23 @@
+{
+  "name": "notion",
+  "displayName": "Notion",
+  "description": "Search, read, and update Notion pages and databases through Notion's hosted MCP server.",
+  "homepage": "https://www.notion.so",
+  "docs": "https://developers.notion.com/docs/mcp",
+  "logo": "https://www.notion.so/images/favicon.ico",
+  "auth": "oauth",
+  "mcpServers": {
+    "notion": {
+      "url": "https://mcp.notion.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "Notion MCP",
+      "description": "Use Notion MCP tools to search, retrieve, query, and append Notion workspace content.",
+      "source": "dokhacgiakhoa/antigravity-ide",
+      "skill": "notion-mcp",
+      "url": "https://skills.sh/dokhacgiakhoa/antigravity-ide/notion-mcp"
+    }
+  ]
+}

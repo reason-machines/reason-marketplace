@@ -1,0 +1,14 @@
+{
+  "name": "meltwater",
+  "displayName": "Meltwater",
+  "description": "Search media and social mentions and pull analytics.",
+  "homepage": "https://developer.meltwater.com/guides/meltwater-mcp/overview",
+  "docs": "https://github.com/cursor/plugins/tree/c1c0a32802223f4be824112dd83d33ad29a8b26c/third_party/meltwater",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "meltwater": {
+      "url": "https://api.meltwater.com/v2/mcp"
+    }
+  }
+}

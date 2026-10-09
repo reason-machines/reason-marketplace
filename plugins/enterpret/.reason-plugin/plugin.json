@@ -1,0 +1,14 @@
+{
+  "name": "enterpret",
+  "displayName": "Enterpret",
+  "description": "Enterpret integration to get answers from unified customer feedback",
+  "homepage": "https://www.enterpret.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/enterpret",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "enterpret": {
+      "url": "https://wisdom-api.enterpret.com/server/mcp"
+    }
+  }
+}

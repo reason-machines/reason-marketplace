@@ -1,0 +1,14 @@
+{
+  "name": "motherduck",
+  "displayName": "MotherDuck",
+  "description": "MotherDuck integration to get answers from your data with DuckDB",
+  "homepage": "https://motherduck.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/motherduck",
+  "logo": "logo.jpg",
+  "auth": "oauth",
+  "mcpServers": {
+    "motherduck": {
+      "url": "https://api.motherduck.com/mcp"
+    }
+  }
+}

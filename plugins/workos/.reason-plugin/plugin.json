@@ -1,0 +1,23 @@
+{
+  "name": "workos",
+  "displayName": "WorkOS",
+  "description": "Manage WorkOS organizations, AuthKit, SSO, Directory Sync, roles, audit logs, environments, and branding through WorkOS's Management MCP server.",
+  "homepage": "https://workos.com",
+  "docs": "https://workos.com/docs/mcp",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "workos": {
+      "url": "https://mcp.workos.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "WorkOS",
+      "description": "Use WorkOS Management MCP tools for AuthKit, organizations, SSO, Directory Sync, roles, audit logs, and environment configuration.",
+      "source": "workos/skills",
+      "skill": "workos",
+      "url": "https://skills.sh/workos/skills/workos"
+    }
+  ]
+}
