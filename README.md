@@ -124,12 +124,12 @@ Open an issue with the provider's name and its MCP server URL.
 | [Fullstory](plugins/fullstory) | Fullstory's hosted MCP server: query behavioral analytics, session replays and customer experience insights. | OAuth | `https://api.fullstory.com/mcp/fullstory` |
 | [GC AI](plugins/gc-ai) | GC AI's hosted MCP server: upload documents to your GC AI legal knowledge base, run review playbooks and ask questions grounded in your own files. | OAuth | `https://app.gc.ai/api/mcp` |
 | [GitLab](plugins/gitlab) | Read GitLab projects, issues, merge requests, and pipelines through GitLab's hosted MCP server (gitlab.com). | OAuth | `https://gitlab.com/api/v4/mcp` |
-| [Gmail](plugins/gmail) | Search and read email. | OAuth | `https://gmailmcp.googleapis.com/mcp/v1` |
 | [GoDaddy](plugins/godaddy) | Brainstorm domain names and check availability. | None | `https://api.godaddy.com/v1/domains/mcp` |
 | [Gong](plugins/gong) | Pull account summaries, deal insights, and call briefs. | OAuth | `https://mcp.gong.io/mcp` |
 | [Google Calendar](plugins/google-calendar) | Search events and check your schedule. | OAuth | `https://calendarmcp.googleapis.com/mcp/v1` |
 | [Google Cloud BigQuery](plugins/google-cloud-bigquery) | Explore datasets and tables and run SQL queries. | OAuth | `https://bigquery.googleapis.com/mcp` |
 | [Google Drive](plugins/google-drive) | Search and read files. | OAuth | `https://drivemcp.googleapis.com/mcp/v1` |
+| [Google Workspace](plugins/google-workspace) | Search, read, draft and send Gmail; read and manage Calendar events and availability; search and read Drive files. | OAuth | `https://mcp.reasonmachines.com/google-workspace/mcp` |
 | [Grafana](plugins/grafana) | Inspect Grafana Cloud dashboards, data sources, alerts, and incidents through Grafana's hosted MCP server. Grafana Cloud only. | OAuth | `https://mcp.grafana.com/mcp` |
 | [Granola](plugins/granola) | Use Granola meeting notes, summaries, and transcript context in agent runs. | OAuth | `https://mcp.granola.ai/mcp` |
 | [Guru](plugins/guru) | Search company knowledge and draft verified answers. | OAuth | `https://mcp.api.getguru.com/mcp` |
