@@ -5,7 +5,7 @@ software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 180 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 179 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Connect a plugin in Reason
@@ -63,7 +63,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [ActiveCampaign](plugins/activecampaign) | Marketing automation and CRM: manage contacts, lists, tags, and custom fields, plan and report on email campaigns, build automations, and operate deal pipelines through natural language | OAuth | `https://mcp.app-us1.com/http` |
 | [Ahrefs](plugins/ahrefs) | Research keywords, backlinks, rankings, and site health. | OAuth | `https://api.ahrefs.com/mcp/mcp` |
 | [Airtable](plugins/airtable) | Search and update bases, tables, records, and views. | OAuth | `https://mcp.airtable.com/mcp` |
-| [Aiven](plugins/aiven) | Aiven's hosted MCP server: deploy and manage Aiven for PostgreSQL, Kafka, OpenSearch, ClickHouse and other managed data services. | OAuth | `https://mcp.aiven.live/mcp` |
 | [Amplemarket](plugins/amplemarket) | Search people and companies, enrich leads, run sequences. | OAuth | `https://mcp.amplemarket.com/mcp` |
 | [AngelList](plugins/angellist) | Turn your fund into something you can talk to. Fund managers spend too much time on lookups that should be instant: capital call status, LP holdings, valuations, documents. AngelList MCP puts your entire fund at the other end of a prompt. Authenticate once to query capital accounts, distributions, and documents across every vehicle, backed by financials that refresh daily instead of once a quarter. It's the system of record your fund already runs on, now queryable from wherever you work. Every answer comes with a path back to its source — ask for the underlying document to verify on your terms. Investment decisions get made on current numbers, LP questions get answered on the spot, and the workflows that used to take an email chain are handled in a single prompt. AngelList runs more of a fund's operations than any other platform — formation, banking, capital calls, distributions, taxes, reporting. AngelList MCP makes all of it queryable from wherever you work. The connector is read-only: it retrieves and summarizes your data but never creates, modifies, or transacts anything, and each authenticated user sees only the funds and vehicles they're entitled to. | OAuth | `https://mcp.angellist.com/mcp` |
 | [Apify](plugins/apify) | Run Apify actors for web scraping, browser automation, and data extraction through Apify's hosted MCP server. | OAuth | `https://mcp.apify.com/` |

@@ -9,7 +9,6 @@
     "./plugins/activecampaign",
     "./plugins/ahrefs",
     "./plugins/airtable",
-    "./plugins/aiven",
     "./plugins/amplemarket",
     "./plugins/angellist",
     "./plugins/apify",
