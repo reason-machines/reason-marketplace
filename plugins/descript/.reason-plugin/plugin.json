@@ -1,0 +1,14 @@
+{
+  "name": "descript",
+  "displayName": "Descript",
+  "description": "Edit video and audio by editing text.",
+  "homepage": "https://www.descript.com",
+  "docs": "https://github.com/descriptinc/descript-mcp/tree/dd1a10c1dc45b0eac49f933e81831bf160479fa1",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "descript": {
+      "url": "https://api.descript.com/v2/mcp"
+    }
+  }
+}

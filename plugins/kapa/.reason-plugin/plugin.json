@@ -1,0 +1,14 @@
+{
+  "name": "kapa",
+  "displayName": "Kapa",
+  "description": "Connect your docs, tickets, wikis and 20+ other sources.",
+  "homepage": "https://kapa.ai",
+  "docs": "https://github.com/kapa-ai/kapa-plugin/tree/79e0532e5362a93fbb49ca429ab09cbedb623c77",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "kapa": {
+      "url": "https://mcp.kapa.ai/mcp"
+    }
+  }
+}

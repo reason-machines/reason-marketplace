@@ -1,0 +1,14 @@
+{
+  "name": "freightright",
+  "displayName": "Freight Right",
+  "description": "Freight rates, quote requests and shipment tracking from your Freight Right account, with skills that keep billing and bookings right.",
+  "homepage": "https://developers.freightright.com",
+  "docs": "https://github.com/freight-right/agent-plugins/tree/31ffc2f5cedcf866b8a7cd7dc46cd42a7a0c599a/plugins/freightright",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "freightright": {
+      "url": "https://mcp.freightright.com/mcp"
+    }
+  }
+}

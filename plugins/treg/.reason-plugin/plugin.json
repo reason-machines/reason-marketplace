@@ -1,0 +1,14 @@
+{
+  "name": "treg",
+  "displayName": "Treg",
+  "description": "OpenRouter for tools — 2,896 agent-callable endpoints across 60 providers: SEO and SERP data, backlinks, social and trends, people and company enrichment, ads, scraping.",
+  "homepage": "https://github.com/superdesigndev/treg/tree/5e3cd520d8a80e3aae5d5576d28a3dd174ab5d5e/plugins/treg",
+  "docs": "https://github.com/superdesigndev/treg/tree/5e3cd520d8a80e3aae5d5576d28a3dd174ab5d5e/plugins/treg",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "treg": {
+      "url": "https://treg.to/mcp/"
+    }
+  }
+}

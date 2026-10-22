@@ -1,0 +1,14 @@
+{
+  "name": "kit",
+  "displayName": "Kit",
+  "description": "Manage subscribers, draft broadcasts, and analyze your audience.",
+  "homepage": "https://kit.com",
+  "docs": "https://github.com/Kit/cursor-plugin/tree/54f6acbdf3a9e77371b647ae9e478df83c58dda3",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "kit": {
+      "url": "https://app.kit.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "kody",
+  "displayName": "Kody",
+  "description": "Personal assistant MCP server with search, execute, packages, jobs, secrets, and integrations.",
+  "homepage": "https://heykody.dev",
+  "docs": "https://github.com/kody-bot/cursor-plugin/tree/dcee10be269da1784821f51be97f2393168f0866",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "kody": {
+      "url": "https://kody.codes/mcp"
+    }
+  }
+}

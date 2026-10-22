@@ -1,0 +1,14 @@
+{
+  "name": "falconer",
+  "displayName": "Falconer",
+  "description": "Read, search, and update Falconer documents from Reason through hosted HTTP MCP.",
+  "homepage": "https://falconer.com",
+  "docs": "https://github.com/FalconerAI/agent-integrations/tree/6bc853e02db13b1660a998e2e88dc02762a8fafb/plugins/falconer",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "falconer": {
+      "url": "https://falconer.com/api/mcp"
+    }
+  }
+}

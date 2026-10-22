@@ -1,0 +1,14 @@
+{
+  "name": "aave",
+  "displayName": "Aave",
+  "description": "Connects Reason to Aave's official MCP server for live V3 and V4 markets, wallet positions, governance, and non-custodial transaction preparation.",
+  "homepage": "https://aave.com",
+  "docs": "https://github.com/aave/skills/tree/5453a05cac9d26b5dbcaeda0272e5bbba8a1e1a9/plugins/mcp",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "aave": {
+      "url": "https://mcp.aave.com"
+    }
+  }
+}

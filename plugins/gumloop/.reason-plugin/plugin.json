@@ -1,0 +1,14 @@
+{
+  "name": "gumloop",
+  "displayName": "Gumloop",
+  "description": "Connect Reason to Gumloop's hosted MCP server.",
+  "homepage": "https://www.gumloop.com/",
+  "docs": "https://github.com/gumloop/gumloop-plugin/tree/b25e1838c5ab10f77b8f7b63909fcaf7d9a2b106",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "gumloop": {
+      "url": "https://mcp.gumloop.com/gumloop/mcp"
+    }
+  }
+}

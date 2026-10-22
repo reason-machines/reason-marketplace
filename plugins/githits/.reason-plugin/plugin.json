@@ -1,0 +1,14 @@
+{
+  "name": "githits",
+  "displayName": "GitHits",
+  "description": "The code context layer for AI coding agents",
+  "homepage": "https://githits.com/",
+  "docs": "https://github.com/githits-com/githits-cli/tree/e23d8442809ca29f4ac72fcfc936067ceea6984f",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "githits": {
+      "url": "https://mcp.githits.com"
+    }
+  }
+}

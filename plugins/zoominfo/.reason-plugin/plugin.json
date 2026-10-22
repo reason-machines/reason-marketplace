@@ -1,0 +1,14 @@
+{
+  "name": "zoominfo",
+  "displayName": "ZoomInfo",
+  "description": "Connect AI agents to ZoomInfo's verified GTM context graph: 100M companies, 300M professional contacts, buyer intent signals, and real-time scoops.",
+  "homepage": "https://www.zoominfo.com/",
+  "docs": "https://github.com/Zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "zoominfo": {
+      "url": "https://mcp.zoominfo.com/mcp"
+    }
+  }
+}

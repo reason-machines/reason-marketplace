@@ -1,0 +1,14 @@
+{
+  "name": "executor",
+  "displayName": "Executor",
+  "description": "A universal tool gateway for AI agents.",
+  "homepage": "https://executor.sh",
+  "docs": "https://github.com/UsefulSoftwareCo/executor-cursor/tree/d9cc4f799d989c93d71f7ce02c16a7c8e4ccf1cb",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "executor": {
+      "url": "https://executor.sh/mcp"
+    }
+  }
+}

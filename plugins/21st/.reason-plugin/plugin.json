@@ -1,0 +1,14 @@
+{
+  "name": "21st",
+  "displayName": "21st.dev",
+  "description": "Find UI components and themes, retrieve their code, and use hosted 21st AI when enabled.",
+  "homepage": "https://21st.dev",
+  "docs": "https://github.com/21st-dev/magic-mcp/tree/6b5299e8a83ceffa73d4fc4e148905bb3eeeeb55",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "21st": {
+      "url": "https://21st.dev/api/mcp"
+    }
+  }
+}

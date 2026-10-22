@@ -1,0 +1,14 @@
+{
+  "name": "adaption",
+  "displayName": "Adaption",
+  "description": "Datasets and fine-tuning workflows powered by Adaption.",
+  "homepage": "https://adaptionlabs.ai",
+  "docs": "https://github.com/adaptionlabs/adaption-cursor-plugin/tree/35d428d548c8d28513489e9254b6985ec1c9f614",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "adaption": {
+      "url": "https://api.prod.adaptionlabs.ai/api/v1/mcp"
+    }
+  }
+}

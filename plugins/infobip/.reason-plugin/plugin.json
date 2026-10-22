@@ -1,0 +1,14 @@
+{
+  "name": "infobip",
+  "displayName": "Infobip",
+  "description": "Infobip MCP Servers let you build AI agents to interact with the Infobip platform through the Model Context Protocol (MCP).",
+  "homepage": "https://www.infobip.com/",
+  "docs": "https://github.com/infobip/infobip-mcp-cursor-plugin/tree/1185316bdc12aa1ba7dedd848e56e0305cf8db65",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "infobip": {
+      "url": "https://mcp.infobip.com/sms"
+    }
+  }
+}

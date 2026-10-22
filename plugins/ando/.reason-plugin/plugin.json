@@ -1,0 +1,14 @@
+{
+  "name": "ando",
+  "displayName": "Ando",
+  "description": "Connect an agent to Ando, the team messaging platform for humans and agents.",
+  "homepage": "https://ando.so",
+  "docs": "https://github.com/Ando-Corporation/ando-grok-plugin/tree/ba73c4e55cf8b50e12e59536dfca4722e7d56570",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "ando": {
+      "url": "https://mcp.ando.so/mcp"
+    }
+  }
+}

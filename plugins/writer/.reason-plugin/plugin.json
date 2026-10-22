@@ -1,0 +1,14 @@
+{
+  "name": "writer",
+  "displayName": "Writer",
+  "description": "Run Writer playbooks, check on runs, and pull deliverables into your current work.",
+  "homepage": "https://writer.com/",
+  "docs": "https://github.com/writer/writer-mcp/tree/b00c003fabd7417a4c8b83e942aa9d07fc16fc73",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "writer": {
+      "url": "https://api.writer.com/v1/mcp"
+    }
+  }
+}

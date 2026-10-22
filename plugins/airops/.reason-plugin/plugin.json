@@ -1,0 +1,14 @@
+{
+  "name": "airops",
+  "displayName": "AirOps",
+  "description": "Access to AirOps Brand Kits, AEO analytics, content opportunities, reports, grids, and Knowledge Bases.",
+  "homepage": "https://airops.com",
+  "docs": "https://github.com/airopshq/airops-grok-plugin/tree/4d7ef52617828d5af960a6a0f84e5af572c09bdd",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "airops": {
+      "url": "https://app.airops.com/mcp"
+    }
+  }
+}

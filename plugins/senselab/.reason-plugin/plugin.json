@@ -1,0 +1,14 @@
+{
+  "name": "senselab",
+  "displayName": "SenseLab",
+  "description": "Continual learning for your agents.",
+  "homepage": "https://sense-lab.ai",
+  "docs": "https://github.com/raia-live/cursor-plugin/tree/9019d546386ee321ce795a976db61ede668541f6",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "senselab": {
+      "url": "https://mcp.sense-lab.ai/mcp"
+    }
+  }
+}

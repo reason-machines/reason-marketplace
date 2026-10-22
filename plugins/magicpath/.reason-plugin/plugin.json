@@ -1,0 +1,14 @@
+{
+  "name": "magicpath",
+  "displayName": "MagicPath",
+  "description": "Design and build interactive UI on a shared canvas.",
+  "homepage": "https://www.magicpath.ai/",
+  "docs": "https://github.com/MagicPathAI/magicpath-agent-plugin/tree/3cc4aeb0ff327877fa31fe3e7dd02193eb6a9e3f",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "magicpath": {
+      "url": "https://api.magicpath.ai/mcp"
+    }
+  }
+}

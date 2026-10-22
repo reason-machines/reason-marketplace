@@ -1,0 +1,14 @@
+{
+  "name": "revenuecat",
+  "displayName": "RevenueCat",
+  "description": "Configure your RevenueCat integration and access data from your RevenueCat projects.",
+  "homepage": "https://www.revenuecat.com/",
+  "docs": "https://github.com/RevenueCat/ai-toolkit/tree/e28ef7dac29c95363b0f8a3152e778f4e1d0725e/revenuecat",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "revenuecat": {
+      "url": "https://mcp.revenuecat.ai/mcp"
+    }
+  }
+}

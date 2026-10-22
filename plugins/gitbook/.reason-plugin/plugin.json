@@ -1,0 +1,14 @@
+{
+  "name": "gitbook",
+  "displayName": "GitBook",
+  "description": "Create, configure, and author GitBook documentation sites — site orchestration via the GitBook REST API, Git Sync setup, branding customization, and GitBook-flavored Markdown page authoring.",
+  "homepage": "https://gitbook.com/",
+  "docs": "https://github.com/GitbookIO/gitbook-skills/tree/db34970f5e29cc5fa7daf7442424c3e3fb793595",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "gitbook": {
+      "url": "https://mcp.gitbook.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "tuist",
+  "displayName": "Tuist",
+  "description": "Work with Tuist projects from Reason: migrate Xcode projects to generated workspaces, debug generation, and query builds, test runs, bundles, and cache runs from your Tuist dashboard.",
+  "homepage": "https://tuist.dev",
+  "docs": "https://github.com/tuist/cursor-plugin/tree/03261ab253dbcae47ff56f947a2d9dfca2de7624/plugins/tuist",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "tuist": {
+      "url": "https://tuist.dev/mcp"
+    }
+  }
+}

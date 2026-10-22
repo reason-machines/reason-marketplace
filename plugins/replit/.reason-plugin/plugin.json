@@ -1,0 +1,14 @@
+{
+  "name": "replit",
+  "displayName": "Replit",
+  "description": "Build, update, and publish Replit apps.",
+  "homepage": "https://replit.com",
+  "docs": "https://github.com/replit/replit-cursor-plugin/tree/a9c04d39cb5d7ae351f9c786b6d0247196cc54ea",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "replit": {
+      "url": "https://mcp.replit.com/server/mcp"
+    }
+  }
+}

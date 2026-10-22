@@ -1,0 +1,14 @@
+{
+  "name": "chainguard",
+  "displayName": "Chainguard",
+  "description": "Secure container images and hardened library dependencies powered by Chainguard.",
+  "homepage": "https://www.chainguard.dev/",
+  "docs": "https://github.com/chainguard-dev/chainguard-cursor-plugin/tree/4bb0158c2b1a443932b83bb9f344b7a718310d0a",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "chainguard": {
+      "url": "https://console-api.enforce.dev/mcp"
+    }
+  }
+}

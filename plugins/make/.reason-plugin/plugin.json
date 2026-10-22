@@ -1,0 +1,14 @@
+{
+  "name": "make",
+  "displayName": "Make",
+  "description": "Turn recurring work you spot in Reason into Make automations and AI Agents that keep running in the cloud.",
+  "homepage": "https://make.com",
+  "docs": "https://github.com/integromat/make-skills/tree/c65bcccb07d1a28284734d718099d36b250a792a/plugins/make-skills-cursor",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "make": {
+      "url": "https://mcp.make.com/cursor"
+    }
+  }
+}

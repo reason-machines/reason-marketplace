@@ -1,0 +1,14 @@
+{
+  "name": "braintrust",
+  "displayName": "Braintrust",
+  "description": "Connect Reason to Braintrust MCP and trace agent sessions.",
+  "homepage": "https://braintrust.dev/",
+  "docs": "https://github.com/braintrustdata/braintrust-cursor-extension/tree/f93489ba56ca4ea0d3deca2f3d351c679f75ab56",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "braintrust": {
+      "url": "https://api.braintrust.dev/mcp"
+    }
+  }
+}

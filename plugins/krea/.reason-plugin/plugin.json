@@ -1,0 +1,14 @@
+{
+  "name": "krea",
+  "displayName": "Krea",
+  "description": "Generate, edit, enhance, and produce images and videos with Krea's creative AI suite.",
+  "homepage": "https://www.krea.ai",
+  "docs": "https://github.com/krea-ai/skills/tree/ea45cca6b347cfa175b3a83a4b9abbf072e0af3f",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "krea": {
+      "url": "https://api.krea.ai/mcp"
+    }
+  }
+}

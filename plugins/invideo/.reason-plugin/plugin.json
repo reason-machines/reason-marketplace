@@ -1,0 +1,14 @@
+{
+  "name": "invideo",
+  "displayName": "invideo",
+  "description": "Make videos with invideo: generate media, edit timelines, and export.",
+  "homepage": "https://invideo.io",
+  "docs": "https://github.com/invideoio/invideo-plugin/tree/aaa14c2674b238d296225bd9afa7297cce8a48bb",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "invideo": {
+      "url": "https://mcp.invideo.io/mcp"
+    }
+  }
+}

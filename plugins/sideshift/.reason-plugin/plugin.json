@@ -1,0 +1,14 @@
+{
+  "name": "sideshift",
+  "displayName": "SideShift",
+  "description": "Operate your SideShift company from Reason—manage campaigns, creators, applications, content, contracts, recruiting, messages, payouts, and more through secure OAuth.",
+  "homepage": "https://sideshift.app",
+  "docs": "https://github.com/SideShiftApp/sideshift-mcp-server/tree/eb2f99eb1f68131ed794fc5f3c827247f6edc0b4",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "sideshift": {
+      "url": "https://app.sideshift.app/api/mcp"
+    }
+  }
+}

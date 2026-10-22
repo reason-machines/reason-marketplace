@@ -1,0 +1,14 @@
+{
+  "name": "macaly-code",
+  "displayName": "Macaly Cloud",
+  "description": "Build and host real web apps on Macaly straight from your agent.",
+  "homepage": "https://www.macaly.com",
+  "docs": "https://github.com/langtail/macaly-code-plugin/tree/fc6afe2a6648de1e645d079851b75a6d49a775dc/plugins/macaly-code",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "macaly-code": {
+      "url": "https://www.macaly.com/api/cloud/mcp"
+    }
+  }
+}

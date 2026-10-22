@@ -1,0 +1,14 @@
+{
+  "name": "pubnub-realtime-development",
+  "displayName": "PubNub",
+  "description": "Build production-ready realtime apps with PubNub.",
+  "homepage": "https://pubnub.com",
+  "docs": "https://github.com/pubnub/ai-plugin/tree/f09e803f70a316dbcc6f08ac91ddb0c3c1a28238",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "pubnub-realtime-development": {
+      "url": "https://mcp.pubnub.com"
+    }
+  }
+}

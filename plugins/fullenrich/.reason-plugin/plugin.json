@@ -1,0 +1,14 @@
+{
+  "name": "fullenrich",
+  "displayName": "Fullenrich",
+  "description": "Find prospects, enrich verified emails, and phone numbers via waterfall enrichment, and export results.",
+  "homepage": "https://fullenrich.com",
+  "docs": "https://github.com/FullEnrich/fullenrich-skills/tree/5c727120c6ca6ef89d3b17dbd6916b1bee73fdcb",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "fullenrich": {
+      "url": "https://mcp.fullenrich.com/mcp"
+    }
+  }
+}

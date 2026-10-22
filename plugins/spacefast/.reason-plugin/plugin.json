@@ -1,0 +1,14 @@
+{
+  "name": "spacefast",
+  "displayName": "Spacefast",
+  "description": "Turn an idea into a website, dashboard, report, or small web tool you can share.",
+  "homepage": "https://spacefast.com",
+  "docs": "https://github.com/spacefast/plugins/tree/c29b4cbf52bc4564f42fe05622cfcffaf9d7ae82/cursor",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "spacefast": {
+      "url": "https://mcp.spacefast.com"
+    }
+  }
+}

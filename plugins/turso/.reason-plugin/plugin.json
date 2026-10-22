@@ -1,0 +1,14 @@
+{
+  "name": "turso",
+  "displayName": "Turso",
+  "description": "Manage Turso Cloud (organizations, databases, groups) and run SQL from Reason via the hosted Turso MCP server — OAuth login, no API token to copy.",
+  "homepage": "https://turso.tech",
+  "docs": "https://github.com/tursodatabase/turso-mcp/tree/a5060cb8d9d2682eb67dd33f12f83f5f6249747c/cursor",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "turso": {
+      "url": "https://mcp.turso.ai/mcp"
+    }
+  }
+}

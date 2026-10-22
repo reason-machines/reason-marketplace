@@ -1,0 +1,14 @@
+{
+  "name": "opusclip",
+  "displayName": "OpusClip",
+  "description": "Turn long videos into AI-curated short clips: caption, reframe, thumbnail, schedule, and publish.",
+  "homepage": "https://opus.pro",
+  "docs": "https://github.com/opus-pro/opusclip-mcp/tree/50440cec136362c162836e4a35468456c2ebd15d",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "opusclip": {
+      "url": "https://mcp.opus.pro/mcp"
+    }
+  }
+}

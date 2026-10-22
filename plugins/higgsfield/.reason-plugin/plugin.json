@@ -1,0 +1,14 @@
+{
+  "name": "higgsfield",
+  "displayName": "Higgsfield",
+  "description": "Generate images, videos, and more using Higgsfield MCP from Reason.",
+  "homepage": "https://higgsfield.ai/",
+  "docs": "https://github.com/higgsfield-ai/cursor-plugin/tree/c9215059e409dc81c69ff0fe77ea2740c5fc6249",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "higgsfield": {
+      "url": "https://mcp.higgsfield.ai/mcp"
+    }
+  }
+}

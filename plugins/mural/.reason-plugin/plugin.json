@@ -1,0 +1,14 @@
+{
+  "name": "mural",
+  "displayName": "Mural",
+  "description": "Create, read, and edit Mural boards from your agent.",
+  "homepage": "https://mural.co",
+  "docs": "https://github.com/tactivos/agent-toolkit/tree/7ebc95bf9b70da0feb30932cfb2c89e2336dabf6",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "mural": {
+      "url": "https://mcp-canvas.mural.co/mcp"
+    }
+  }
+}

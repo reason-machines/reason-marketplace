@@ -1,0 +1,14 @@
+{
+  "name": "flexport",
+  "displayName": "Flexport",
+  "description": "Connect your Flexport account via the hosted MCP at mcp.flexport.com/mcp: look up shipments, check rates, search your network, and book freight using natural language.",
+  "homepage": "https://www.flexport.com",
+  "docs": "https://github.com/flexport/client-mcp-plugins/tree/de61460a94b8cf7cfb61a3b533725d212edb7ecc",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "flexport": {
+      "url": "https://mcp.flexport.com/mcp"
+    }
+  }
+}

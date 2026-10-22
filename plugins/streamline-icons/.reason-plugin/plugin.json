@@ -1,0 +1,14 @@
+{
+  "name": "streamline-icons",
+  "displayName": "Streamline Icons",
+  "description": "Insert PNG and SVG icons, illustrations, elements and emojis from Streamline, plus open-source sets like Lucide, Heroicons, Phosphor and Font Awesome.",
+  "homepage": "https://home.streamlinehq.com",
+  "docs": "https://github.com/webalys-hq/agent-plugins/tree/68f86f4d2b03dcdfe30f57428816354f6867d9b9/plugins/streamline-icons",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "streamline-icons": {
+      "url": "https://public-api.streamlinehq.com/mcp"
+    }
+  }
+}

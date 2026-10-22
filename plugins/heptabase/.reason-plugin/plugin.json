@@ -1,0 +1,14 @@
+{
+  "name": "heptabase",
+  "displayName": "Heptabase",
+  "description": "Connect AI agents to Heptabase to search, read, create, and update knowledge through the hosted MCP server.",
+  "homepage": "https://heptabase.com",
+  "docs": "https://github.com/heptameta/heptabase-agent-plugins/tree/7cae4b5988bb4a2875e7ba9ea3f9eec12c644826/plugins/heptabase",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "heptabase": {
+      "url": "https://api.heptabase.com/mcp"
+    }
+  }
+}

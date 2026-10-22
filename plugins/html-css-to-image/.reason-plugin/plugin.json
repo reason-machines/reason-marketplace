@@ -1,0 +1,14 @@
+{
+  "name": "html-css-to-image",
+  "displayName": "HTML/CSS to Image",
+  "description": "Let AI agents capture live website screenshots, render HTML/CSS, and populate reusable templates as images or PDFs - without managing a browser.",
+  "homepage": "https://htmlcsstoimage.com",
+  "docs": "https://github.com/htmlcsstoimage/agent-plugins/tree/51699e1b7677247f0af6d874ceda5915ecc65405",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "html-css-to-image": {
+      "url": "https://mcp.hcti.io"
+    }
+  }
+}

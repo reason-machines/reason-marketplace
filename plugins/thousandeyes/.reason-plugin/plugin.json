@@ -1,0 +1,14 @@
+{
+  "name": "thousandeyes",
+  "displayName": "Cisco ThousandEyes",
+  "description": "Connect Reason to ThousandEyes MCP endpoints for network intelligence workflows.",
+  "homepage": "https://cisco.com",
+  "docs": "https://github.com/thousandeyes/thousandeyes-ai-agents-toolkit/tree/3f638e4b7d42459646cb2a4fe626addff0f0811a",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "thousandeyes": {
+      "url": "https://api.thousandeyes.com/mcp"
+    }
+  }
+}

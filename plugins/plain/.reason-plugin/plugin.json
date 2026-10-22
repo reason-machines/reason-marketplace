@@ -1,0 +1,14 @@
+{
+  "name": "plain",
+  "displayName": "Plain",
+  "description": "Manage support threads, customers, and help articles.",
+  "homepage": "https://plain.com",
+  "docs": "https://github.com/team-plain/cursor-plugin-mcp/tree/c6f8a060e013dd3eea8460982221595699b47e3d",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "plain": {
+      "url": "https://mcp.plain.com/mcp"
+    }
+  }
+}

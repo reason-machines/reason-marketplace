@@ -1,0 +1,14 @@
+{
+  "name": "context-dev",
+  "displayName": "Context.dev",
+  "description": "Search, scrape, crawl, extract, parse, monitor, and process the live web with Context.dev.",
+  "homepage": "https://www.context.dev/",
+  "docs": "https://github.com/context-dot-dev/cursor-plugin/tree/2e294f97892bd24ea2dbcd41fbfc7434c993ec3e",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "context-dev": {
+      "url": "https://mcp.context.dev/mcp"
+    }
+  }
+}

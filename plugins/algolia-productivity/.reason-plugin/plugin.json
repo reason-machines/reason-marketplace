@@ -1,0 +1,14 @@
+{
+  "name": "algolia-productivity",
+  "displayName": "Algolia Productivity",
+  "description": "Connect LLM tools to your Algolia account with user-scoped access for internal workflows.",
+  "homepage": "https://algolia.com",
+  "docs": "https://github.com/algolia/cursor-plugin/tree/cd17b285d813561bfd43a6beb2488ebb0eb80d1d/plugins/algolia-productivity",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "algolia-productivity": {
+      "url": "https://mcp.algolia.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "subtext",
+  "displayName": "Subtext",
+  "description": "Review Subtext session recordings and manage privacy rules",
+  "homepage": "https://subtext.fullstory.com/",
+  "docs": "https://github.com/fullstorydev/subtext/tree/b2ee0153add6e8fd786cf7ab55c30bb323da0028",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "subtext": {
+      "url": "https://api.fullstory.com/mcp/subtext"
+    }
+  }
+}

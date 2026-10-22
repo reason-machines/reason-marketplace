@@ -1,0 +1,14 @@
+{
+  "name": "fal-ai",
+  "displayName": "fal",
+  "description": "Create images, video, music, voice and 3D from a prompt.",
+  "homepage": "https://fal.ai/",
+  "docs": "https://github.com/fal-ai-community/fal-grok-plugin/tree/24d134744e5c0c889c0b6e07b485861cab337975",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "fal-ai": {
+      "url": "https://mcp.fal.ai/mcp-relay"
+    }
+  }
+}

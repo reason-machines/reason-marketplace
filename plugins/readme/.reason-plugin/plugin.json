@@ -1,0 +1,14 @@
+{
+  "name": "readme",
+  "displayName": "ReadMe",
+  "description": "Search, read, and update your ReadMe docs, API reference, and changelog.",
+  "homepage": "https://readme.io",
+  "docs": "https://github.com/readmeio/agent-plugins/tree/89234b77a16e8668dcfed6d2b27ad0a7cfaf84bf/cursor",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "readme": {
+      "url": "https://docs.readme.com/mcp"
+    }
+  }
+}

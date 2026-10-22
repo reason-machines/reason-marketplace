@@ -1,0 +1,14 @@
+{
+  "name": "antom-integration",
+  "displayName": "Antom",
+  "description": "Antom payment integration guidance for Reason: product selection, integration mode (Payment Element / Checkout / API-only), and security validation.",
+  "homepage": "https://www.antom.com/",
+  "docs": "https://github.com/ant-intl/antom-ai-tools/tree/a1b0fb441f51358e029287d0f3f8ab1cd12af373/providers/cursor/plugin",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "antom-integration": {
+      "url": "https://mcp.antom.com"
+    }
+  }
+}

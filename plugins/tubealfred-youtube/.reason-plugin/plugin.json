@@ -1,0 +1,14 @@
+{
+  "name": "tubealfred-youtube",
+  "displayName": "TubeAlfred",
+  "description": "TubeAlfred brings YouTube transcripts, comments and channel data into Reason.",
+  "homepage": "https://tubealfred.com/",
+  "docs": "https://github.com/tubealfred/mcp/tree/d20e6357e7b89af837f13f7e7444ec2e9b3712a4",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "tubealfred-youtube": {
+      "url": "https://mcp.tubealfred.com/"
+    }
+  }
+}

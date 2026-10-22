@@ -1,0 +1,14 @@
+{
+  "name": "riverside",
+  "displayName": "Riverside",
+  "description": "Connects Reason to Riverside — search recordings by what was said in them, edit video timelines, and publish clips to social platforms.",
+  "homepage": "https://riverside.com",
+  "docs": "https://github.com/riversidefm/riverside-mcp-public/tree/a4c86820761d6d77ad0f6fb7d5ab22fafcfb4862",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "riverside": {
+      "url": "https://mcp.riverside.com/mcp"
+    }
+  }
+}

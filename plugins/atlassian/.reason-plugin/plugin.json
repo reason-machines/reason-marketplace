@@ -1,0 +1,14 @@
+{
+  "name": "atlassian",
+  "displayName": "Atlassian",
+  "description": "Atlassian plugin for Reason with MCP and skills for Jira, Confluence, triage, backlogs, status reports, and more.",
+  "homepage": "https://atlassian.com",
+  "docs": "https://github.com/atlassian/atlassian-mcp-server/tree/9de1ab435251042efbb6839a1ca748eacecf4727",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlassian": {
+      "url": "https://mcp.atlassian.com/v2/mcp"
+    }
+  }
+}

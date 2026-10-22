@@ -1,0 +1,14 @@
+{
+  "name": "runway",
+  "displayName": "Runway",
+  "description": "Generate images, videos, music, speech, and sound effects with Runway — Gen-4.5, Aleph, Seedance, Kling, GPT Image and more — from Reason and Reason.",
+  "homepage": "https://github.com/runwayml/runway-mcp-plugin/tree/f56e77a713796c0667f266aa4b183f1e226230ea",
+  "docs": "https://github.com/runwayml/runway-mcp-plugin/tree/f56e77a713796c0667f266aa4b183f1e226230ea",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "runway": {
+      "url": "https://mcp.runwayml.com/mcp"
+    }
+  }
+}

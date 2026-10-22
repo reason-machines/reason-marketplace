@@ -1,0 +1,14 @@
+{
+  "name": "co-invest",
+  "displayName": "Liquid",
+  "description": "Research markets, review your Liquid portfolio, and place trades you authorize without leaving Reason.",
+  "homepage": "https://liquid.trade",
+  "docs": "https://github.com/LiquidMax-dev/liquid-plugin/tree/7ebb4bda3200efde4182c4264a7e5092debdacd8/plugins/co-invest",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "co-invest": {
+      "url": "https://coinvest-computer.liquid.trade/mcp"
+    }
+  }
+}

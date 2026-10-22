@@ -1,0 +1,14 @@
+{
+  "name": "perspective-ai",
+  "displayName": "Perspective AI",
+  "description": "An AI Concierge replaces static forms with adaptive AI conversations that understand real situations, structure key information automatically, and trigger the right next step.",
+  "homepage": "https://getperspective.ai/",
+  "docs": "https://github.com/Perspective-AI/mcp/tree/98225a0046dcb5fa97aab758eeecf6c4b9df7295",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "perspective-ai": {
+      "url": "https://getperspective.ai/mcp"
+    }
+  }
+}

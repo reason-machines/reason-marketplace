@@ -1,0 +1,14 @@
+{
+  "name": "migma",
+  "displayName": "Migma",
+  "description": "Run your entire email marketing from Reason and Reason.",
+  "homepage": "https://migma.ai",
+  "docs": "https://github.com/MigmaAI/migma-skills/tree/3b8767fc68782c6d85c7dc0507e66fe38a3a300c",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "migma": {
+      "url": "https://migma.ai/mcp"
+    }
+  }
+}

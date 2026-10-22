@@ -1,0 +1,14 @@
+{
+  "name": "webflow",
+  "displayName": "Webflow",
+  "description": "Production-ready agent skills for Webflow - CMS management, site auditing, asset optimization, and safe publishing",
+  "homepage": "https://webflow.com",
+  "docs": "https://github.com/webflow/webflow-skills/tree/62181e454a1ed72a7f9788ddbc59b3404d6140fd",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "webflow": {
+      "url": "https://mcp.webflow.com/mcp"
+    }
+  }
+}

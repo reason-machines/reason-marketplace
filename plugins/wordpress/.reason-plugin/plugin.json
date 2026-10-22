@@ -1,0 +1,14 @@
+{
+  "name": "wordpress",
+  "displayName": "WordPress",
+  "description": "Connect your WordPress site to Reason via the miniOrange MCP gateway.",
+  "homepage": "https://miniorange.com",
+  "docs": "https://github.com/miniOrangeDev/miniorange-cursor-plugins/tree/91c1fec6fc6f8e6cd60b29b3de15d03ac336e8e5/plugins/mcp-server-for-wordpress",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "wordpress": {
+      "url": "https://gateway.miniorange.ai/v2/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "landbase-agent-plugins",
+  "displayName": "Landbase",
+  "description": "Build, enrich, and qualify B2B prospect lists of companies and people from natural-language searches.",
+  "homepage": "https://www.landbase.com",
+  "docs": "https://github.com/landbaseapp/landbase-agent-plugins/tree/ed7146f6ac8885ff42aa967d9f2106108aec1382",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "landbase-agent-plugins": {
+      "url": "https://mcp.landbase.com/mcp"
+    }
+  }
+}

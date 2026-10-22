@@ -1,0 +1,14 @@
+{
+  "name": "lucid",
+  "displayName": "Lucid",
+  "description": "Ideate, diagram, and align teams by connecting Reason to Lucid.",
+  "homepage": "https://lucid.co/",
+  "docs": "https://github.com/lucidsoftware/lucid-mcp-server/tree/45874c5081a6113b64e8269ecde8458362642dd1/cursor",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "lucid": {
+      "url": "https://mcp.lucid.app/mcp"
+    }
+  }
+}

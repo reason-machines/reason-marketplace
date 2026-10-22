@@ -1,0 +1,14 @@
+{
+  "name": "euler-for-partner-managers",
+  "displayName": "EULER for Partner Managers",
+  "description": "Skills for partner-relationship managers (customer-admin scope) that orchestrate the EULER MCP: generate a Quarterly Business Review, pre-meeting partner briefings, a whole-portfolio pulse, and…",
+  "homepage": "https://eulerhq.com/",
+  "docs": "https://github.com/Euler-Software-Inc/EULER-skills/tree/653338d2cf0727c0122a998a4df8a68f9d245f4b/partner-managers",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "euler-for-partner-managers": {
+      "url": "https://mcp.eulerapp.com/mcp"
+    }
+  }
+}

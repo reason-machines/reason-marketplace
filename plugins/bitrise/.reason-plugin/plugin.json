@@ -1,0 +1,14 @@
+{
+  "name": "bitrise",
+  "displayName": "Bitrise",
+  "description": "Set up and manage mobile CI/CD on Bitrise: build, test, and distribute iOS, Android, Flutter, and React Native apps.",
+  "homepage": "https://bitrise.io",
+  "docs": "https://github.com/bitrise-io/bitrise-mcp/tree/de28ba4e73754dc1d37792e5a5cdaf7dbe2898a2",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "bitrise": {
+      "url": "https://mcp.bitrise.io"
+    }
+  }
+}

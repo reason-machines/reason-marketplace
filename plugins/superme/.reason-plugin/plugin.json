@@ -1,0 +1,14 @@
+{
+  "name": "superme",
+  "displayName": "SuperMe",
+  "description": "Ask people who've been there, get multiple perspectives, and make better decisions about your work.",
+  "homepage": "https://www.superme.ai/",
+  "docs": "https://github.com/superme-ai/superme-plugins/tree/26a95563a45ed906c6351d2e035c03729b79b29d",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "superme": {
+      "url": "https://mcp.superme.ai"
+    }
+  }
+}

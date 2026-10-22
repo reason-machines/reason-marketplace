@@ -1,0 +1,14 @@
+{
+  "name": "whop",
+  "displayName": "Whop",
+  "description": "Build and run your business end-to-end with Whop.",
+  "homepage": "https://whop.com",
+  "docs": "https://github.com/whopio/whop-mcp-server/tree/51259f45c30fce8ab53bd1d765cae50d0775d27c",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "whop": {
+      "url": "https://mcp.whop.com/mcp"
+    }
+  }
+}

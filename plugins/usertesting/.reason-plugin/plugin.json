@@ -1,0 +1,14 @@
+{
+  "name": "usertesting",
+  "displayName": "UserTesting",
+  "description": "Bring real customer feedback into Reason — create, launch, and retrieve UserTesting results without leaving your editor.",
+  "homepage": "https://www.usertesting.com/",
+  "docs": "https://github.com/usertesting/usertesting-cursor-plugin/tree/94e171c09ae9b9e13e16abcd1cde6f76e97217e4",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "usertesting": {
+      "url": "https://ai.usertesting.com/mcp"
+    }
+  }
+}

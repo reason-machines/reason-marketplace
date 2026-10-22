@@ -1,0 +1,14 @@
+{
+  "name": "extend",
+  "displayName": "Extend",
+  "description": "Document processing for agents: parse, extract, classify, and split PDFs, images, Office docs, spreadsheets, and emails, plus PDF form filling.",
+  "homepage": "https://www.extend.ai",
+  "docs": "https://github.com/extend-hq/extend-agent-plugin/tree/0505e11039251684da328753ac092d7c0b2a02af",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "extend": {
+      "url": "https://mcp.extend.ai/mcp"
+    }
+  }
+}

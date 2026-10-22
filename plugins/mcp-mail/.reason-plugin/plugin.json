@@ -1,0 +1,14 @@
+{
+  "name": "mcp-mail",
+  "displayName": "Superhuman Mail",
+  "description": "Use Superhuman Mail through its hosted MCP server.",
+  "homepage": "https://superhuman.com/products/mail",
+  "docs": "https://github.com/superhuman/mcp-mail/tree/a83580e994604edca1cd5661a4a1865f3f39abc9",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "mcp-mail": {
+      "url": "https://mcp.mail.superhuman.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "refero",
+  "displayName": "Refero",
+  "description": "Research real product interfaces and design with evidence from Refero.",
+  "homepage": "https://refero.design/mcp",
+  "docs": "https://github.com/referodesign/refero_skill/tree/a9b54a3e62a6391f5f5ab7a20e4ddb32fb79a27d",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "refero": {
+      "url": "https://api.refero.design/mcp"
+    }
+  }
+}

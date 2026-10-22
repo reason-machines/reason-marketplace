@@ -1,0 +1,14 @@
+{
+  "name": "revyl",
+  "displayName": "Revyl",
+  "description": "Installs the Revyl CLI and signs you in so Reason can run and verify mobile apps on cloud devices.",
+  "homepage": "https://revyl.ai",
+  "docs": "https://github.com/RevylAI/revyl-cli/tree/cd658476678e1f8bfbf23379455b57d3bbb6c383/cursor-plugin",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "revyl": {
+      "url": "https://backend.revyl.ai/api/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "wordpress-com",
+  "displayName": "WordPress.com",
+  "description": "Build, publish, and manage WordPress.com sites directly from Reason.",
+  "homepage": "https://wordpress.com/",
+  "docs": "https://github.com/Automattic/cursor-wpcom-plugin/tree/94122574e6c53ca2609768605244c600d947a70a",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "wordpress-com": {
+      "url": "https://public-api.wordpress.com/wpcom/v2/mcp/v1"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "wonder",
+  "displayName": "Wonder",
+  "description": "Create and edit designs with Reason on a canvas where every design is real code.",
+  "homepage": "https://github.com/aquila-lab/wonder-plugins/tree/e60f8bd908e13ec49b3738f54e1e42d659915286/plugins/wonder",
+  "docs": "https://github.com/aquila-lab/wonder-plugins/tree/e60f8bd908e13ec49b3738f54e1e42d659915286/plugins/wonder",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "wonder": {
+      "url": "https://mcp.wonder.so/mcp"
+    }
+  }
+}

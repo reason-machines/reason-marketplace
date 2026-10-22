@@ -1,0 +1,14 @@
+{
+  "name": "basecamp",
+  "displayName": "Basecamp",
+  "description": "Find, read, and update projects, to-dos, cards, messages, docs, and schedules.",
+  "homepage": "https://37signals.com",
+  "docs": "https://github.com/basecamp/plugins/tree/981e46acbc7aae00f233a2e470e6edb936048848/plugins/cursor/basecamp",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "basecamp": {
+      "url": "https://mcp.basecamp.com/mcp"
+    }
+  }
+}

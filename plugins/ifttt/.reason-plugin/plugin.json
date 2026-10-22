@@ -1,0 +1,14 @@
+{
+  "name": "ifttt",
+  "displayName": "IFTTT",
+  "description": "Bring IFTTT automation into the agent: search hundreds of services, build and manage Applets, and run actions and queries without leaving your editor.",
+  "homepage": "https://ifttt.com/",
+  "docs": "https://github.com/IFTTT/ifttt-plugins/tree/311ec27cdfb48287ac36ab7906d597c9eb46f399/plugins/ifttt",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "ifttt": {
+      "url": "https://ifttt.com/mcp"
+    }
+  }
+}

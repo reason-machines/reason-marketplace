@@ -1,0 +1,14 @@
+{
+  "name": "raisely",
+  "displayName": "Raisely",
+  "description": "Connect Reason to Raisely.",
+  "homepage": "https://www.raisely.com/",
+  "docs": "https://github.com/raisely/cursor-plugin/tree/71e271c309a43b17d96c8de2f16d75b2f1f4f47e",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "raisely": {
+      "url": "https://mcp.raisely.com/mcp"
+    }
+  }
+}

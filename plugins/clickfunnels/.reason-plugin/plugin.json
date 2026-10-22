@@ -1,0 +1,14 @@
+{
+  "name": "clickfunnels",
+  "displayName": "ClickFunnels",
+  "description": "Build funnels, manage contacts, and run your store in ClickFunnels.",
+  "homepage": "https://clickfunnels.com",
+  "docs": "https://github.com/clickfunnels2/cursor-plugin/tree/4debcbbe75687e986570fa5aff7fdd4bb13ba4a5",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "clickfunnels": {
+      "url": "https://agents.myclickfunnels.com/mcp"
+    }
+  }
+}

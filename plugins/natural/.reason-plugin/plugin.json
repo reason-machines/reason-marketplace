@@ -1,0 +1,14 @@
+{
+  "name": "natural",
+  "displayName": "Natural",
+  "description": "Send and request money, manage agents, and check balances on Natural.",
+  "homepage": "https://www.natural.com/",
+  "docs": "https://github.com/naturalpay/agent-plugins/tree/344417f3461313a7154f924da96f8f659040234b/plugins/natural",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "natural": {
+      "url": "https://mcp.natural.com"
+    }
+  }
+}

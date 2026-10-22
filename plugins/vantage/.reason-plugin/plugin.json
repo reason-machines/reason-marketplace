@@ -1,0 +1,14 @@
+{
+  "name": "vantage",
+  "displayName": "Vantage",
+  "description": "Query cloud costs, manage cost reports, budgets, alerts, and recommendations across your Vantage workspace",
+  "homepage": "https://vantage.sh",
+  "docs": "https://github.com/vantage-sh/cursor-plugin/tree/0ceae67cf71fdb92426352eb39a1eb84de400c89",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "vantage": {
+      "url": "https://mcp.vantage.sh/mcp"
+    }
+  }
+}

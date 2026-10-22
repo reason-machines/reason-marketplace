@@ -1,0 +1,14 @@
+{
+  "name": "artie",
+  "displayName": "Artie",
+  "description": "Artie real-time CDC pipelines via MCP",
+  "homepage": "https://artie.com",
+  "docs": "https://github.com/artie-labs/artie-mcp/tree/44b01e9c4958200e2930c7ed0a327305d39d1d3b/plugins/artie",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "artie": {
+      "url": "https://mcp.artie.com/mcp"
+    }
+  }
+}

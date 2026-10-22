@@ -1,0 +1,14 @@
+{
+  "name": "envoy",
+  "displayName": "Envoy",
+  "description": "Connect to Envoy to work with workplace visitors, employees, desks, rooms, and other resources.",
+  "homepage": "https://mcp.envoy.com",
+  "docs": "https://github.com/envoy/mcp-plugin/tree/c87094aeee89987562b6f1ae2099ec231a65149e",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "envoy": {
+      "url": "https://mcp.envoy.com/mcp"
+    }
+  }
+}

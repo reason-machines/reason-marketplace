@@ -1,0 +1,14 @@
+{
+  "name": "agent-plugins",
+  "displayName": "Monaco",
+  "description": "Use Monaco through its hosted MCP server.",
+  "homepage": "https://github.com/monacoinc/agent-plugins",
+  "docs": "https://github.com/monacoinc/agent-plugins/tree/e130ed02aad16123bbefdf4949fda13b418c6a4d",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "agent-plugins": {
+      "url": "https://mcp.monaco.com/mcp"
+    }
+  }
+}

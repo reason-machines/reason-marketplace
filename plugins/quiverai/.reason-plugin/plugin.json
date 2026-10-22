@@ -1,0 +1,14 @@
+{
+  "name": "quiverai",
+  "displayName": "QuiverAI",
+  "description": "Generate, vectorize, animate, and edit SVG assets with Arrow 2.",
+  "homepage": "https://quiver.ai/",
+  "docs": "https://github.com/quiverai/cursor-plugin/tree/a376aeef288819fb39319a9abfb762a0e8fcdc30",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "quiverai": {
+      "url": "https://app.quiver.ai/mcp"
+    }
+  }
+}

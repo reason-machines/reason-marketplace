@@ -1,0 +1,14 @@
+{
+  "name": "gojiberry",
+  "displayName": "Gojiberry AI",
+  "description": "Connect Reason to your Gojiberry workspace.",
+  "homepage": "https://gojiberry.ai",
+  "docs": "https://github.com/romangojiberryAI/gojiberry-mcp/tree/ded0e77aad0567a516dda2eb682c088f69ef87c1",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "gojiberry": {
+      "url": "https://mcp.gojiberry.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "modem",
+  "displayName": "Modem",
+  "description": "The developer CRM, connected to Reason.",
+  "homepage": "https://modem.dev",
+  "docs": "https://github.com/modem-dev/mcp/tree/ca197a55275617459504479246570bebe4129aef/plugins/cursor",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "modem": {
+      "url": "https://mcp.modem.dev/mcp"
+    }
+  }
+}

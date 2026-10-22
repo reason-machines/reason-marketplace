@@ -1,0 +1,14 @@
+{
+  "name": "runway-api",
+  "displayName": "Runway Dev",
+  "description": "Get guidance for integrating video, image and audio generation with the Runway API and official SDKs.",
+  "homepage": "https://github.com/runwayml/skills/tree/3dcbb5b6cdc652e3bb651d6e6c5765e0afc515de",
+  "docs": "https://github.com/runwayml/skills/tree/3dcbb5b6cdc652e3bb651d6e6c5765e0afc515de",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "runway-api": {
+      "url": "https://dev.runwayml.com/mcp"
+    }
+  }
+}

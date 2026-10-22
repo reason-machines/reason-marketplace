@@ -1,0 +1,14 @@
+{
+  "name": "blackbird-concierge",
+  "displayName": "Blackbird Concierge",
+  "description": "Blackbird's MCP gets you access to book, reserve, and explore reservations via OpenTable, Resy, and SevenRooms.",
+  "homepage": "https://www.blackbird.xyz/",
+  "docs": "https://github.com/blackbird-labs-inc/blackbird-plugin/tree/3f47bd1e33addeff053843ea925729c85efbe2df/plugins/blackbird-concierge",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "blackbird-concierge": {
+      "url": "https://concierge.api.blackbird.xyz/mcp"
+    }
+  }
+}

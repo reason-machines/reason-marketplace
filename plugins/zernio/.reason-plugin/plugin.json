@@ -1,0 +1,14 @@
+{
+  "name": "zernio",
+  "displayName": "Zernio",
+  "description": "Social media API for developers.",
+  "homepage": "https://github.com/zernio-dev/cursor-plugin/tree/568faceb2f1950fa2d4826ab9b0f7cfda8331ab6",
+  "docs": "https://github.com/zernio-dev/cursor-plugin/tree/568faceb2f1950fa2d4826ab9b0f7cfda8331ab6",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "zernio": {
+      "url": "https://mcp.zernio.com/mcp"
+    }
+  }
+}

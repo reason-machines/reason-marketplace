@@ -1,0 +1,14 @@
+{
+  "name": "antimetal",
+  "displayName": "Antimetal",
+  "description": "Bring Antimetal's software investigation intelligence into your editor.",
+  "homepage": "https://antimetal.com",
+  "docs": "https://github.com/antimetal/cursor-plugin/tree/c0363e85bc89a689ce5604de6b36cf8850db6b46",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "antimetal": {
+      "url": "https://mcp.antimetal.com"
+    }
+  }
+}

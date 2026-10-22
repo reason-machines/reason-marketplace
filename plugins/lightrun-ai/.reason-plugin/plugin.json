@@ -1,0 +1,14 @@
+{
+  "name": "lightrun-ai",
+  "displayName": "Lightrun",
+  "description": "Lightrun live-runtime debugging skills with deterministic preflight and evidence-first diagnosis.",
+  "homepage": "https://lightrun.com",
+  "docs": "https://github.com/lightrun-platform/lightrun-ai/tree/d2b954cd12e27119d37a9e262b36c306dc3d76a8",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "lightrun-ai": {
+      "url": "https://app.lightrun.com/mcp"
+    }
+  }
+}

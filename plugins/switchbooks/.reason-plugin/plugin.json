@@ -1,0 +1,14 @@
+{
+  "name": "switchbooks",
+  "displayName": "Switchbooks",
+  "description": "Categorize and post transactions.",
+  "homepage": "https://switchbooks.ai",
+  "docs": "https://github.com/drylandbeard/switchbooks-mcp/tree/edacc3f4ffb7407c1386c12c7f6c38e93bce25a0",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "switchbooks": {
+      "url": "https://app.switchbooks.ai/api/mcp"
+    }
+  }
+}

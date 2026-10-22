@@ -1,0 +1,14 @@
+{
+  "name": "read-ai",
+  "displayName": "Read AI",
+  "description": "Connect Reason to Read AI meeting intelligence — list meetings, fetch transcripts and reports, create meeting agents, and share reports via the hosted MCP at api.read.ai.",
+  "homepage": "https://read.ai",
+  "docs": "https://github.com/Read-AI/read-ai-plugins/tree/5e0bae20464af3f664abfd365ba354eb28b55036",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "read-ai": {
+      "url": "https://api.read.ai/mcp"
+    }
+  }
+}

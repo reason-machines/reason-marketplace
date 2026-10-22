@@ -1,0 +1,14 @@
+{
+  "name": "omneky",
+  "displayName": "Omneky",
+  "description": "Paid-media MCP for Meta/Facebook, Google PMax/Demand Gen, TikTok, LinkedIn & Reddit — launch campaigns, generate creatives, manage brand catalogue, report ROAS/CTR.",
+  "homepage": "https://www.omneky.com/",
+  "docs": "https://github.com/omneky-org/cursor-plugins-public/tree/b58d64bd5b0d0e325961b482bad83b72086118c6/plugins/omneky",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "omneky": {
+      "url": "https://mcp.omneky.com/grok"
+    }
+  }
+}

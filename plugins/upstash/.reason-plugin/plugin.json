@@ -1,0 +1,14 @@
+{
+  "name": "upstash",
+  "displayName": "Upstash Redis",
+  "description": "The Upstash MCP server plus agent skills for every Upstash SDK and CLI — Redis, QStash, Workflow, Box, Blob, Ratelimit, Vector, and Search.",
+  "homepage": "https://upstash.com/",
+  "docs": "https://github.com/upstash/skills/tree/b0850d0abedb81269e2ea07e755e9488c3d65d39",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "upstash": {
+      "url": "https://mcp.upstash.com/mcp"
+    }
+  }
+}

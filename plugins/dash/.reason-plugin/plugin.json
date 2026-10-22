@@ -1,0 +1,14 @@
+{
+  "name": "dash",
+  "displayName": "Dash Security",
+  "description": "Discover your AI estate, assess supply-chain and shadow AI risk, investigate agent sessions, and track AI spend through the Dash MCP.",
+  "homepage": "https://dash.security",
+  "docs": "https://github.com/dash-security/dash-cursor-plugin/tree/c58f686639ff0812520d2caedb417c48c10eb957",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "dash": {
+      "url": "https://mcp.dash.security/mcp"
+    }
+  }
+}

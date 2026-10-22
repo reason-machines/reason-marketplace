@@ -1,0 +1,14 @@
+{
+  "name": "datagrout",
+  "displayName": "DataGrout",
+  "description": "Give Reason every tool you connect in DataGrout: discover, plan and run integrations through one MCP endpoint.",
+  "homepage": "https://datagrout.ai",
+  "docs": "https://github.com/DataGrout/datagrout-cursor-plugin/tree/a551f699999f1aa107f56bc27e41c033761b8e9f/plugins/datagrout",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "datagrout": {
+      "url": "https://gateway.datagrout.ai/connect"
+    }
+  }
+}

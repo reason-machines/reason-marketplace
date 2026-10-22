@@ -1,0 +1,14 @@
+{
+  "name": "nitrosend",
+  "displayName": "Nitrosend",
+  "description": "AI-native email. Compose newsletters, build automation flows, manage contacts, run agent inboxes, and send campaigns — all from Reason.",
+  "homepage": "https://nitrosend.com",
+  "docs": "https://github.com/nitrosend/cursor/tree/8f437e5ea9aa15654a4acc8455ce65593e0352c3",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "nitrosend": {
+      "url": "https://api.nitrosend.com/mcp"
+    }
+  }
+}

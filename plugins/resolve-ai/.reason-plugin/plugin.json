@@ -1,0 +1,14 @@
+{
+  "name": "resolve-ai",
+  "displayName": "Resolve AI",
+  "description": "Use Resolve for investigations, incidents, and production context.",
+  "homepage": "https://resolve.ai",
+  "docs": "https://github.com/resolve-ai-oss/resolve-ai-plugins/tree/89c7dc993ae94479971099afe3e3901529f68fc7/plugins/cursor/resolve-ai",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "resolve-ai": {
+      "url": "https://app0.resolve.ai/mcp/v2"
+    }
+  }
+}

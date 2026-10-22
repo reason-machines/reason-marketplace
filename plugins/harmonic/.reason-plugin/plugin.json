@@ -1,0 +1,14 @@
+{
+  "name": "harmonic",
+  "displayName": "Harmonic",
+  "description": "Discover, research, and enrich companies and people",
+  "homepage": "https://harmonic.ai",
+  "docs": "https://github.com/harmonicai/cursor-mcp-plugin/tree/4742a4e792bf04b00fb1b2f6091c9bce2f53c480/plugins/harmonic",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "harmonic": {
+      "url": "https://mcp.api.harmonic.ai"
+    }
+  }
+}

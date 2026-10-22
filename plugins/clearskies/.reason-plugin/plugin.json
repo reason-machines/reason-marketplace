@@ -1,0 +1,14 @@
+{
+  "name": "clearskies",
+  "displayName": "Clearskies",
+  "description": "Research your connected CRM, meetings, call transcripts, and email, and safely build clearskies revenue workflows.",
+  "homepage": "https://github.com/scratchpad-ai/clearskies-plugin/tree/449a47ebfbe08bf0e159c717e80fd6809c721bd6",
+  "docs": "https://github.com/scratchpad-ai/clearskies-plugin/tree/449a47ebfbe08bf0e159c717e80fd6809c721bd6",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "clearskies": {
+      "url": "https://mcp.clearskies.cc/mcp"
+    }
+  }
+}

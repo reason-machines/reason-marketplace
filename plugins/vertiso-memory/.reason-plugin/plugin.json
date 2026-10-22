@@ -1,0 +1,14 @@
+{
+  "name": "vertiso-memory",
+  "displayName": "Vertiso Memory",
+  "description": "Portable, user-owned memory for AI agents through a remote OAuth MCP server.",
+  "homepage": "https://memory.vertiso.ai",
+  "docs": "https://github.com/Vertiso/memory-cursor/tree/2887aaf90493c5b13049e1d2ec7616f1dc5494bb/vertiso-memory",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "vertiso-memory": {
+      "url": "https://memory.vertiso.ai/mcp"
+    }
+  }
+}

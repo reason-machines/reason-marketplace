@@ -1,0 +1,14 @@
+{
+  "name": "roboflow",
+  "displayName": "Roboflow",
+  "description": "Roboflow computer vision skills and MCP tools for datasets, annotation, training, workflows, inference, and deployment.",
+  "homepage": "https://roboflow.com/",
+  "docs": "https://github.com/roboflow/computer-vision-skills/tree/76ae1ac18c1d8a92516c4ab41699d794117b4802",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "roboflow": {
+      "url": "https://mcp.roboflow.com/mcp"
+    }
+  }
+}

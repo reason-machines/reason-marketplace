@@ -1,0 +1,14 @@
+{
+  "name": "agentmail",
+  "displayName": "AgentMail",
+  "description": "Email inboxes for agents.",
+  "homepage": "https://www.agentmail.to/",
+  "docs": "https://github.com/agentmail-to/agentmail-plugins/tree/aebd7653dcb868c624330a05cc1717327fa8f271",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentmail": {
+      "url": "https://mcp.agentmail.to/mcp"
+    }
+  }
+}

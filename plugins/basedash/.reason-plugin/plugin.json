@@ -1,0 +1,14 @@
+{
+  "name": "basedash",
+  "displayName": "Basedash",
+  "description": "One-click Basedash MCP for analyzing governed company data and managing dashboards and charts.",
+  "homepage": "https://www.basedash.com",
+  "docs": "https://github.com/Basedash/cursor-plugin/tree/1e3a70a1863f1f160c54969e075dedbdeb34deb8",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "basedash": {
+      "url": "https://charts.basedash.com/api/public/mcp"
+    }
+  }
+}

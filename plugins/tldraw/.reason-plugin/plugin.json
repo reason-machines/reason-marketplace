@@ -1,0 +1,14 @@
+{
+  "name": "tldraw",
+  "displayName": "tldraw",
+  "description": "Draw and visually collaborate with your agents inside Reason",
+  "homepage": "https://www.tldraw.dev/",
+  "docs": "https://github.com/tldraw/tldraw/tree/5e2eb65a491a188a16b7c52c4eac70e39181bdb2/apps/mcp-app/plugins/tldraw-mcp",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "tldraw": {
+      "url": "https://tldraw-mcp-app.tldraw.workers.dev/mcp"
+    }
+  }
+}

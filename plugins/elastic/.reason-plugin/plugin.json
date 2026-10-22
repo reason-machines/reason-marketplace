@@ -1,0 +1,14 @@
+{
+  "name": "elastic",
+  "displayName": "Elastic",
+  "description": "Elastic skills and documentation — Elasticsearch, Kibana, Observability, Security, Cloud, ES|QL, OpenTelemetry, and MCP docs access",
+  "homepage": "https://elastic.co",
+  "docs": "https://github.com/elastic/cursor-plugins/tree/a1abb8e703e7c17a3611fbb5afa82361cef0b23a/elastic",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "elastic": {
+      "url": "https://www.elastic.co/docs/_mcp/"
+    }
+  }
+}

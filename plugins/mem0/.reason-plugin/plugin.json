@@ -1,0 +1,14 @@
+{
+  "name": "mem0",
+  "displayName": "Mem0",
+  "description": "Mem0 memory layer for AI applications.",
+  "homepage": "https://mem0.ai",
+  "docs": "https://github.com/mem0ai/mem0/tree/965140eb190bf390979d41bb6ffff12c0b02e70b/integrations/mem0-plugin",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "mem0": {
+      "url": "https://mcp.mem0.ai/mcp/"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "onesignal",
+  "displayName": "OneSignal",
+  "description": "Connect Reason to OneSignal through the OneSignal MCP server.",
+  "homepage": "https://onesignal.com",
+  "docs": "https://github.com/OneSignal/onesignal-cursor-plugin/tree/491d5626d39311021fc9fbb3353fbe2dead02641",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "onesignal": {
+      "url": "https://api.onesignal.com/mcp/oauth"
+    }
+  }
+}

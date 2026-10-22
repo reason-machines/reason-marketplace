@@ -1,0 +1,14 @@
+{
+  "name": "allo",
+  "displayName": "Allo",
+  "description": "An AI receptionist that answers your calls, sends and reads texts, and manages contacts.",
+  "homepage": "https://www.themobilefirstcompany.com/",
+  "docs": "https://github.com/themobilefirstco/grok-allo/tree/5006e5cad3e8307cd19099ccf97602294fb3a504",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "allo": {
+      "url": "https://mcp.withallo.com/mcp"
+    }
+  }
+}

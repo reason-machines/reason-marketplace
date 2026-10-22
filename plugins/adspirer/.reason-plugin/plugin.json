@@ -1,0 +1,14 @@
+{
+  "name": "adspirer",
+  "displayName": "Adspirer",
+  "description": "Create, analyze, and optimize campaigns across Google Ads, Meta Ads, TikTok Ads, LinkedIn Ads, Amazon Ads, and ChatGPT Ads.",
+  "homepage": "https://www.adspirer.com/",
+  "docs": "https://github.com/Adspirer/adspirer-cursor-plugin/tree/58d5d248e616d8ac4493aea15ca9e0aa358c4709",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "adspirer": {
+      "url": "https://mcp.adspirer.com/mcp"
+    }
+  }
+}

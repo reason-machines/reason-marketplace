@@ -1,0 +1,14 @@
+{
+  "name": "clarify",
+  "displayName": "Clarify",
+  "description": "Search and update CRM records, lists, campaigns, and meetings in Clarify.",
+  "homepage": "https://clarify.ai",
+  "docs": "https://github.com/clarifyhq/agent-plugin/tree/d1b63c07ae78ed449f7125e78d5098cd4bc550d6",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "clarify": {
+      "url": "https://api.clarify.ai/mcp"
+    }
+  }
+}

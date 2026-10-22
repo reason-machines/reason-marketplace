@@ -1,0 +1,14 @@
+{
+  "name": "zapier",
+  "displayName": "Zapier",
+  "description": "Connect 9,000+ apps to your AI workflow.",
+  "homepage": "https://zapier.com",
+  "docs": "https://github.com/zapier/zapier-mcp/tree/ecd7c7220c63a62a9702b76276b6a05f740d8c18/plugins/zapier",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "zapier": {
+      "url": "https://mcp.zapier.com/api/v1/connect"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "harness",
+  "displayName": "Harness",
+  "description": "Harness Skills + Harness MCP server packaged as a Reason plugin.",
+  "homepage": "https://www.harness.io/",
+  "docs": "https://github.com/harness/harness-ai/tree/494bf8c826e9fc21a82262b133cd9906afec68b3/plugins/cursor",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "harness": {
+      "url": "https://mcp.harness.io/mcp"
+    }
+  }
+}

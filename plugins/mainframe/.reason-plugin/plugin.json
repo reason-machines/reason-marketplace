@@ -1,0 +1,14 @@
+{
+  "name": "mainframe",
+  "displayName": "Mainframe",
+  "description": "Create and share short video updates from agent work.",
+  "homepage": "https://mainframe.app/",
+  "docs": "https://github.com/mainframecomputer/mainframe-plugins/tree/53e63d488f12ec11cafaa88d16a0e7ba96e28aad",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "mainframe": {
+      "url": "https://mcp.mainframe.app/mcp"
+    }
+  }
+}

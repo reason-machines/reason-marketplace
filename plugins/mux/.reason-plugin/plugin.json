@@ -1,0 +1,14 @@
+{
+  "name": "mux",
+  "displayName": "Mux",
+  "description": "Connect to Mux for video, livestreams, and Mux data.",
+  "homepage": "https://mux.com",
+  "docs": "https://github.com/muxinc/mux-agent-plugin/tree/79ccdbad546e76e23ab9bdca61caf6aad4ec9b7f/plugins/mux",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "mux": {
+      "url": "https://mcp.mux.com"
+    }
+  }
+}

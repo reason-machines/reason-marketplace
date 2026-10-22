@@ -1,0 +1,14 @@
+{
+  "name": "pi-security",
+  "displayName": "Pi Security",
+  "description": "Use Pi Security in Reason IDE to investigate findings, review security posture, plan remediation, and get guidance while you build.",
+  "homepage": "https://pi.security",
+  "docs": "https://github.com/pi-sloane/cursor-plugin/tree/595a659bab78844c83cd5febf8d0107bb21a7c5d",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "pi-security": {
+      "url": "https://mcp.pi.security/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "heygen",
+  "displayName": "HeyGen",
+  "description": "Create HeyGen avatar videos, personalized video messages, and translated / dubbed videos.",
+  "homepage": "https://www.heygen.com/",
+  "docs": "https://github.com/heygen-com/skills/tree/396fa481ee17ef5bdfc0c4122f468c4e3080fbe0",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "heygen": {
+      "url": "https://mcp.heygen.com/mcp/v1/"
+    }
+  }
+}

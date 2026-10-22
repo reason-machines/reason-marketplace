@@ -1,0 +1,14 @@
+{
+  "name": "chatprd",
+  "displayName": "ChatPRD",
+  "description": "Product requirements in your editor.",
+  "homepage": "https://www.chatprd.ai/",
+  "docs": "https://github.com/ChatPRD/cursor-plugin/tree/03d7c257859d7c79fb73b70964a05500dbf386e9",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "chatprd": {
+      "url": "https://app.chatprd.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "athenahq",
+  "displayName": "athenahq",
+  "description": "Analyze brand visibility, share of voice, citations, and rankings across AI search platforms with AthenaHQ.",
+  "homepage": "https://athenahq.ai",
+  "docs": "https://github.com/AY-AY-AY-AY/athenahq-cursor-plugin/tree/3d2aa341c7adcadaf63d25a0be563f00ebff9cda",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "athenahq": {
+      "url": "https://api.athenahq.ai/api/mcp"
+    }
+  }
+}

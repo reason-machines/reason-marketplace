@@ -1,0 +1,14 @@
+{
+  "name": "fast-io",
+  "displayName": "Fastio",
+  "description": "Fastio workspaces for agents and the people they work with: files, shares, comments, metadata and AI search through the Fastio MCP server, plus the agent guide as a skill.",
+  "homepage": "https://fast.io",
+  "docs": "https://github.com/MediaFire/fastio-skills/tree/123f84c4392a1d5c5225cfc09887294443f48f1f",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "fast-io": {
+      "url": "https://mcp.fast.io/mcp/tools"
+    }
+  }
+}

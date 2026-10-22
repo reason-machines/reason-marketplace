@@ -1,0 +1,14 @@
+{
+  "name": "airwallex-agentos",
+  "displayName": "Airwallex",
+  "description": "Bring Airwallex's global financial infrastructure to Reason.",
+  "homepage": "https://www.airwallex.com/us",
+  "docs": "https://github.com/airwallex/airwallex-marketplace/tree/d4593e33a9e1177a44b895ca0a1d6e015215736f/plugins/airwallex-agentos",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "airwallex-agentos": {
+      "url": "https://mcp.sandbox.airwallex.com/developer"
+    }
+  }
+}

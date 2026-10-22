@@ -1,0 +1,14 @@
+{
+  "name": "cartesia",
+  "displayName": "Cartesia",
+  "description": "Voice AI for agents: Sonic TTS, Ink STT, voice cloning, and Line voice agents.",
+  "homepage": "https://cartesia.ai",
+  "docs": "https://github.com/cartesia-ai/skills/tree/0ee3f4a4ad8e9cf9d314962448b721cdc34fae42",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "cartesia": {
+      "url": "https://mcp.cartesia.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "tierzero",
+  "displayName": "TierZero",
+  "description": "Agentic production engineering for SWE, SRE and DevOps.",
+  "homepage": "https://www.tierzero.ai/",
+  "docs": "https://github.com/TierZeroAI/tierzero-cursor/tree/30580371a68fa6275dd38f1c0a520d86f58efe94/plugins/tierzero",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "tierzero": {
+      "url": "https://api.tierzero.ai/mcp/"
+    }
+  }
+}

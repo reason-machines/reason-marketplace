@@ -1,0 +1,14 @@
+{
+  "name": "phantom-connect",
+  "displayName": "Phantom",
+  "description": "Give your agent a wallet.",
+  "homepage": "https://phantom.com",
+  "docs": "https://github.com/phantom/phantom-agent-kit/tree/4162aa88131f0a6b6f0c050b176736f0773d038c",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "phantom-connect": {
+      "url": "https://docs.phantom.com/mcp"
+    }
+  }
+}

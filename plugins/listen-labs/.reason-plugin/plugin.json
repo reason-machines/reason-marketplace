@@ -1,0 +1,14 @@
+{
+  "name": "listen-labs",
+  "displayName": "Listen Labs",
+  "description": "Connect Reason to Listen Labs.",
+  "homepage": "https://listenlabs.ai",
+  "docs": "https://github.com/MerlinAGI/cursor-plugin/tree/d0ee49fe9670391ebd568c36b73b2e8c675c7f56",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "listen-labs": {
+      "url": "https://mcp.listenlabs.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "amplitude",
+  "displayName": "Amplitude",
+  "description": "Use Amplitude like an expert - instrument analytics, discover product opportunities, analyze charts, create dashboards, manage experiments, and understand users and accounts",
+  "homepage": "https://amplitude.com/",
+  "docs": "https://github.com/amplitude/mcp-marketplace/tree/305bdd24b3e770484cf4c1c5b6a72334c68ba598/plugins/amplitude",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "amplitude": {
+      "url": "https://mcp.amplitude.com/mcp"
+    }
+  }
+}

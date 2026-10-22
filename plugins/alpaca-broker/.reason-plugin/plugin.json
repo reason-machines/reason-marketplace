@@ -1,0 +1,14 @@
+{
+  "name": "alpaca-broker",
+  "displayName": "Alpaca Broker API",
+  "description": "Connect to Alpaca's Broker API.",
+  "homepage": "https://alpaca.markets",
+  "docs": "https://github.com/alpacahq/agentic/tree/6fb47e3294349e0bf3dfd9f811ae59f512f27d00/plugins/alpaca-broker",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "alpaca-broker": {
+      "url": "https://broker-api.alpaca.markets/mcp"
+    }
+  }
+}

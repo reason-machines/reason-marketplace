@@ -1,0 +1,14 @@
+{
+  "name": "aws-agents",
+  "displayName": "AWS Agents",
+  "description": "Build, deploy, and operate AI agents on AWS.",
+  "homepage": "https://aws.amazon.com/",
+  "docs": "https://github.com/aws/agent-toolkit-for-aws/tree/d00d03ae6e4872b9f35a2b2ca86d0cbdbaa81684/plugins/aws-agents",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "aws-agents": {
+      "url": "https://knowledge-mcp.global.api.aws"
+    }
+  }
+}

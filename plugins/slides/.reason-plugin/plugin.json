@@ -1,0 +1,14 @@
+{
+  "name": "slides",
+  "displayName": "Slides.com",
+  "description": "Create, edit, preview, and share Slides.com presentations.",
+  "homepage": "https://slides.com",
+  "docs": "https://github.com/slides/agent-plugin/tree/b2d3966a696ef20fe6924582393c6c3860cd3ff6",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "slides": {
+      "url": "https://mcp.slides.com/"
+    }
+  }
+}

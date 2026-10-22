@@ -1,0 +1,14 @@
+{
+  "name": "videogen",
+  "displayName": "VideoGen",
+  "description": "Go from text to video, image to video, or script to video, then export an MP4.",
+  "homepage": "https://videogen.io/",
+  "docs": "https://github.com/video-gen/videogen-plugins/tree/739a79b7eadb1c2ea7815a08edfeebd358653e6f",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "videogen": {
+      "url": "https://mcp.videogen.io/mcp?vg_client=codex"
+    }
+  }
+}

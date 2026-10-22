@@ -1,0 +1,14 @@
+{
+  "name": "alpaca-trading",
+  "displayName": "Alpaca Trading API",
+  "description": "Connect to Alpaca's Trading and Market Data APIs.",
+  "homepage": "https://alpaca.markets",
+  "docs": "https://github.com/alpacahq/agentic/tree/6fb47e3294349e0bf3dfd9f811ae59f512f27d00/plugins/alpaca-trading",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "alpaca-trading": {
+      "url": "https://api.alpaca.markets/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "kong-konnect",
+  "displayName": "Kong Konnect",
+  "description": "Kong Konnect skills and the hosted Konnect MCP server for managing AI and API gateways from Reason.",
+  "homepage": "https://volcano.dev",
+  "docs": "https://github.com/Kong/ai-marketplace/tree/4c5cf47eaef59b9b573354d7234dcaed064255da/plugins/kong-konnect",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "kong-konnect": {
+      "url": "https://global.mcp.konghq.com/"
+    }
+  }
+}

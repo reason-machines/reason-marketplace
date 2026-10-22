@@ -1,0 +1,14 @@
+{
+  "name": "magic-patterns",
+  "displayName": "Magic Patterns",
+  "description": "Use Magic Patterns (magicpatterns.com) from Reason: prototype ideas, generate UI inspiration, upload local UI, and integrate Magic Patterns designs into your codebase.",
+  "homepage": "https://www.magicpatterns.com/",
+  "docs": "https://github.com/magicpatterns/agent-plugins/tree/95423dbebeed508436bcedad8df39334f05b7f28/cursor",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "magic-patterns": {
+      "url": "https://mcp.magicpatterns.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "knock",
+  "displayName": "Knock",
+  "description": "Notify users across email, in-app, and more",
+  "homepage": "https://knock.app/",
+  "docs": "https://github.com/knocklabs/skills/tree/a88582f130ec08a932e68d68de8b174a4a3b6a05",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "knock": {
+      "url": "https://mcp.knock.app/mcp"
+    }
+  }
+}

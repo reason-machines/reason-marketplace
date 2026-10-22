@@ -1,0 +1,14 @@
+{
+  "name": "windmill-hr",
+  "displayName": "Windmill HR",
+  "description": "Connect Reason to Windmill for performance reviews, feedback, 1:1s, pulse surveys, and more.",
+  "homepage": "https://gowindmill.com",
+  "docs": "https://github.com/windmill-dev/windmill-plugin/tree/6f69a5aeb91d63e16f9462f062319d952861f9a2/plugins/windmill",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "windmill-hr": {
+      "url": "https://mcp.gowindmill.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "sonos",
+  "displayName": "Sonos",
+  "description": "Play music and radio from your connected music services, or your Sonos favorites and Sonos playlists.",
+  "homepage": "https://www.sonos.com",
+  "docs": "https://github.com/Sonos-Inc/sonos-mcp-plugin/tree/72861f1693a98a87d0e9dc224e03c44931dd25a2",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "sonos": {
+      "url": "https://mcp.ws.sonos.com/mcp"
+    }
+  }
+}

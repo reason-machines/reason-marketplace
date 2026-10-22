@@ -1,0 +1,14 @@
+{
+  "name": "dropbox",
+  "displayName": "Dropbox",
+  "description": "The Dropbox plugin for Reason connects your Dropbox files directly to Reason, so you can search, reference, and organize files, save generated content, and create sharing links - all without…",
+  "homepage": "https://www.dropbox.com",
+  "docs": "https://github.com/dropbox/dropbox-ai-plugins/tree/4900430d6afa76fc2504e00e006895de424f3637/cursor",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "dropbox": {
+      "url": "https://mcp.dropbox.com/cursor_app_mcp"
+    }
+  }
+}

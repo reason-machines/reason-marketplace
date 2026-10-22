@@ -1,0 +1,14 @@
+{
+  "name": "icepanel",
+  "displayName": "IcePanel",
+  "description": "Design your software architecture with IcePanel's MCP in Reason.",
+  "homepage": "https://icepanel.io/",
+  "docs": "https://github.com/IcePanel/cursor-plugin/tree/a49effb63a4f3e74c1c5f361c8fc9552fb62be3e",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "icepanel": {
+      "url": "https://mcp.icepanel.io/mcp"
+    }
+  }
+}

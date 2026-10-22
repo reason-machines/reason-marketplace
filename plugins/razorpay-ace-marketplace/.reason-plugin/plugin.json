@@ -1,0 +1,14 @@
+{
+  "name": "razorpay-ace-marketplace",
+  "displayName": "Razorpay ACE Marketplace",
+  "description": "Shop across Indian D2C brands.",
+  "homepage": "https://razorpay.com",
+  "docs": "https://github.com/razorpay/razorpay-cursor-plugins/tree/95895d34b78365871ca0fff67eed06f6217a683c/plugins/razorpay-ace-marketplace",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "razorpay-ace-marketplace": {
+      "url": "https://merchants.agent.razorpay.com/mcp"
+    }
+  }
+}

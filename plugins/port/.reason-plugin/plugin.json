@@ -1,0 +1,14 @@
+{
+  "name": "port",
+  "displayName": "Port",
+  "description": "Connect to Port's agentic SDLC platform in natural language: query the Context Lake, orchestrate workflows, manage agents, and enforce governance.",
+  "homepage": "https://www.port.io/",
+  "docs": "https://github.com/port-labs/port-skills/tree/c231a9181ca730e69ec3179a1f1b3f0a1381807b",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "port": {
+      "url": "https://mcp.port.io/v1"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "quo",
+  "displayName": "Quo",
+  "description": "Give your agent a phone number.",
+  "homepage": "https://quo.com",
+  "docs": "https://github.com/OpenPhone/quo-grok-plugin/tree/36aa4681d1642bca432a322c93eb07dbf0e3c7aa",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "quo": {
+      "url": "https://mcp.quo.com/mcp"
+    }
+  }
+}

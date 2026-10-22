@@ -1,0 +1,14 @@
+{
+  "name": "monid",
+  "displayName": "Monid",
+  "description": "Discover and run hundreds of data endpoints — web scraping, people/company enrichment, social media, and search — through one interface.",
+  "homepage": "https://monid.ai",
+  "docs": "https://github.com/monid-ai/plugins/tree/c316f50749735416d2d4665e4a7cf13623e5ddab/plugins/monid",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "monid": {
+      "url": "https://mcp.monid.ai/v1"
+    }
+  }
+}

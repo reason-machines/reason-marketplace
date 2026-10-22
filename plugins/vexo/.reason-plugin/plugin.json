@@ -1,0 +1,14 @@
+{
+  "name": "vexo",
+  "displayName": "Vexo",
+  "description": "Turn spoken requests into coding tasks executed by Reason, with progress and results returned to Vexo.",
+  "homepage": "https://www.vexoai.com/",
+  "docs": "https://github.com/VexoAI-Org/vexo-cursor-plugin/tree/473b78a98386c6f0be8318a426d938018feeec44",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "vexo": {
+      "url": "https://vexo-backend-uj6z.onrender.com/mcp"
+    }
+  }
+}

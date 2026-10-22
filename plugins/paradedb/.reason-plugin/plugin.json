@@ -1,0 +1,14 @@
+{
+  "name": "paradedb",
+  "displayName": "ParadeDB",
+  "description": "ParadeDB adds Elastic-quality full-text search, vector retrieval, and aggregations to Postgres, with no second system to deploy and nothing to sync.",
+  "homepage": "https://www.paradedb.com/",
+  "docs": "https://github.com/paradedb/cursor-plugin/tree/5709201f1a9335ec20ed5307961cc452fd00205f",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "paradedb": {
+      "url": "https://docs.paradedb.com/mcp"
+    }
+  }
+}

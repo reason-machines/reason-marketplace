@@ -1,0 +1,14 @@
+{
+  "name": "streak",
+  "displayName": "Streak",
+  "description": "Search and manage Streak CRM pipelines, deals, contacts, organizations, tasks, and timeline activity.",
+  "homepage": "https://streak.com",
+  "docs": "https://github.com/StreakYC/streak-grok-plugin/tree/f637391a6b25ec199ac85ee6e20884b554fd7883",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "streak": {
+      "url": "https://api.streak.com/mcp"
+    }
+  }
+}

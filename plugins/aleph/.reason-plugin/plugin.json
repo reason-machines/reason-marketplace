@@ -1,0 +1,14 @@
+{
+  "name": "aleph",
+  "displayName": "Aleph",
+  "description": "Aleph MCP server. Your one source of truth for financial data.",
+  "homepage": "https://www.getaleph.com/",
+  "docs": "https://github.com/GetAleph/cursor-plugin/tree/e05b6e65399af242d38a427466fa8c34816bbf7c",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "aleph": {
+      "url": "https://mcp.getaleph.com/mcp"
+    }
+  }
+}

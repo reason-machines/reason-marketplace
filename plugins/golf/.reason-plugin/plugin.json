@@ -1,0 +1,14 @@
+{
+  "name": "golf",
+  "displayName": "Golf Intelligence by Stracka",
+  "description": "Golf Intelligence, by Stracka.",
+  "homepage": "https://strackagolf.com",
+  "docs": "https://github.com/golf-data/golf/tree/d64742f2bdf9099f487f77aebb92f75d2d3d6c67",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "golf": {
+      "url": "https://mcp.golfintelligence.com/mcp"
+    }
+  }
+}

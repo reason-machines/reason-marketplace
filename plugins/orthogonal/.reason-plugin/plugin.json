@@ -1,0 +1,14 @@
+{
+  "name": "orthogonal",
+  "displayName": "Orthogonal",
+  "description": "Connect agents to 800+ tool and data endpoints from 50+ verified providers through Orthogonal's hosted MCP server.",
+  "homepage": "https://orthogonal.com",
+  "docs": "https://github.com/orthogonal-sh/orthogonal-plugins/tree/23ceeee6532dfdc90b3242152ec4154146c20a48",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "orthogonal": {
+      "url": "https://mcp.orthogonal.com"
+    }
+  }
+}

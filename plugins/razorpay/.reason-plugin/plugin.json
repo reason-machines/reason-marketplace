@@ -1,0 +1,14 @@
+{
+  "name": "razorpay",
+  "displayName": "Razorpay",
+  "description": "Razorpay's official hosted MCP server.",
+  "homepage": "https://razorpay.com",
+  "docs": "https://github.com/razorpay/razorpay-cursor-plugins/tree/95895d34b78365871ca0fff67eed06f6217a683c/plugins/razorpay-remote-mcp-server",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "razorpay": {
+      "url": "https://mcp.razorpay.com/mcp"
+    }
+  }
+}

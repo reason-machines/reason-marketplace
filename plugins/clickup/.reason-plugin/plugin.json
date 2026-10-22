@@ -1,0 +1,14 @@
+{
+  "name": "clickup",
+  "displayName": "ClickUp",
+  "description": "Manage tasks, track time, and collaborate from your ClickUp workspace without switching context.",
+  "homepage": "https://clickup.com",
+  "docs": "https://github.com/clickup/clickup-plugin/tree/1f40631e03a8d3b393ad67a39eaae599fe9669c9",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "clickup": {
+      "url": "https://mcp.clickup.com/mcp"
+    }
+  }
+}

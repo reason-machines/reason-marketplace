@@ -1,0 +1,14 @@
+{
+  "name": "pascal-agent-skills",
+  "displayName": "Pascal",
+  "description": "Create, inspect, validate, and assess furniture layouts with bounded next actions in Pascal through MCP.",
+  "homepage": "https://editor.pascal.app/docs/developers/mcp",
+  "docs": "https://github.com/pascalorg/editor/tree/67f8041034e8d3f84c7dfce8e524356fd764cf7a/skills",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "pascal-agent-skills": {
+      "url": "https://editor.pascal.app/api/mcp"
+    }
+  }
+}

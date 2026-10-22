@@ -1,0 +1,14 @@
+{
+  "name": "crustdata",
+  "displayName": "Crustdata",
+  "description": "B2B data on people and companies: people search, company search and enrichment across 800M+ profiles and 200M+ companies.",
+  "homepage": "https://crustdata.com/",
+  "docs": "https://github.com/crustdata/crustdata-cursor-plugin/tree/e768f8021d67bb219800c82b629661f756974270",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "crustdata": {
+      "url": "https://install.crustdata.com/mcp"
+    }
+  }
+}

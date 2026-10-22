@@ -1,0 +1,14 @@
+{
+  "name": "simmie",
+  "displayName": "Simmie",
+  "description": "Build sales roleplay simulations with scoring rubrics and shareable practice links.",
+  "homepage": "https://www.simmie.ai/",
+  "docs": "https://github.com/ColdCALR/simmie-cursor-plugin/tree/b1a05068ec831ddc4b636da25fd371d84e1bfffa",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "simmie": {
+      "url": "https://mcp.simmie.ai/mcp"
+    }
+  }
+}

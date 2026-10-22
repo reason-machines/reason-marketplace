@@ -1,0 +1,14 @@
+{
+  "name": "composio",
+  "displayName": "Composio",
+  "description": "Connect and operate 1000+ external apps from Reason via the Composio MCP server.",
+  "homepage": "https://composio.dev",
+  "docs": "https://github.com/ComposioHQ/composio-mcp-plugin/tree/bbcb9ccce59090642ca6dad5d6f0fa485c303539",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "composio": {
+      "url": "https://connect.composio.dev/mcp"
+    }
+  }
+}

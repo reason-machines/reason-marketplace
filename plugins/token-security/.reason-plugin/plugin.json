@@ -1,0 +1,14 @@
+{
+  "name": "token-security",
+  "displayName": "Token Security",
+  "description": "Query identities, non-human identities, AI agents, secrets and security findings from Token Security.",
+  "homepage": "https://www.token.security",
+  "docs": "https://github.com/token-security/cursor-plugin/tree/dd5099c64c6a34d7e2993c80630cf1e64b4a3416",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "token-security": {
+      "url": "https://mcp.app.token.security/mcp"
+    }
+  }
+}

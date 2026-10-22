@@ -1,0 +1,14 @@
+{
+  "name": "elevenlabs",
+  "displayName": "ElevenLabs",
+  "description": "ElevenLabs voice AI — text-to-speech, voice agents, and speech engine skills, agent management via the ElevenLabs hosted MCP server, plus Architect skills for building and iterating on ElevenLabs…",
+  "homepage": "https://elevenlabs.io/",
+  "docs": "https://github.com/elevenlabs/plugin/tree/1c5f1de18e1d28a3c84a9aa2146a6a5e9484488c",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "elevenlabs": {
+      "url": "https://api.us.elevenlabs.io/v1/mcp"
+    }
+  }
+}

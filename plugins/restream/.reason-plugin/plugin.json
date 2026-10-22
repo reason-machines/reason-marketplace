@@ -1,0 +1,14 @@
+{
+  "name": "restream",
+  "displayName": "Restream",
+  "description": "Live-code to an audience from Reason: stream to social, a webinar page, or Slack, record only, or let AI clip the highlights.",
+  "homepage": "https://restream.io",
+  "docs": "https://github.com/restreamio/cursor-mcp-plugin/tree/20ee9f2490b937174aee16f90f21de0c1fbf35a6",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "restream": {
+      "url": "https://mcp.restream.io/mcp"
+    }
+  }
+}

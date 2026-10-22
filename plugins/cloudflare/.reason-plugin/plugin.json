@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare",
+  "displayName": "Cloudflare",
+  "description": "Build, test, and deploy applications on Cloudflare with platform guidance Skills and the Cloudflare MCP server.",
+  "homepage": "https://www.cloudflare.com/",
+  "docs": "https://github.com/cloudflare/skills/tree/41e0d19858946d18af9ee2c2feebbe2e11d829ff",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudflare": {
+      "url": "https://mcp.cloudflare.com/mcp"
+    }
+  }
+}

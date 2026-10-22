@@ -1,0 +1,14 @@
+{
+  "name": "bird",
+  "displayName": "Bird",
+  "description": "Drive Bird from your coding agent: operate the Bird API from the terminal with the `bird` CLI, send across email, SMS, and WhatsApp, and audit a domain's email authentication.",
+  "homepage": "https://bird.com",
+  "docs": "https://github.com/messagebird/bird-ai/tree/e692728c6cdc3834124b09e2e9610c164e510509/plugins/bird",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "bird": {
+      "url": "https://mcp.bird.com"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "paybox-plugin",
+  "displayName": "PayBox",
+  "description": "Swap and transfer tokens across chains, pay x402 services, take positions on prediction markets, and issue merchant-scoped virtual cards with PayBox custodial wallets.",
+  "homepage": "https://www.moonpay.com/",
+  "docs": "https://github.com/moonpay/paybox-plugin/tree/7c532e25a54743dd9ba2bf12d38a1a664b6287f7",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "paybox-plugin": {
+      "url": "https://api.paybox.sh/mcp"
+    }
+  }
+}

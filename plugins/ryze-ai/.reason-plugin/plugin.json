@@ -1,0 +1,14 @@
+{
+  "name": "ryze-ai",
+  "displayName": "Ryze AI",
+  "description": "Connect Google Ads and Meta Ads, then pull GA4, Search Console, and SEO/GEO/AEO in the same workspace.",
+  "homepage": "https://www.get-ryze.ai",
+  "docs": "https://github.com/Ryze-AI-Adgent/cursor-plugin/tree/605a2a0361a6cf520e8a9bf0406e3820d8239aeb",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "ryze-ai": {
+      "url": "https://connector.get-ryze.ai/mcp"
+    }
+  }
+}

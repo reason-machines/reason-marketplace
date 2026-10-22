@@ -1,0 +1,14 @@
+{
+  "name": "inkbox",
+  "displayName": "Inkbox",
+  "description": "Give Reason an Inkbox identity for email, SMS, iMessage, voice calls, contacts, notes, and agent-to-agent tasks.",
+  "homepage": "https://inkbox.ai",
+  "docs": "https://github.com/inkbox-ai/inkbox/tree/5491084d321c3482c42da5b10ae6bac0d55de92d",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "inkbox": {
+      "url": "https://inkbox.ai/mcp/cursor"
+    }
+  }
+}

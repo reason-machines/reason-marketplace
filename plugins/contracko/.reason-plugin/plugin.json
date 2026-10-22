@@ -1,0 +1,14 @@
+{
+  "name": "contracko",
+  "displayName": "Contracko",
+  "description": "AI contract review and analysis, data extraction and parsing, and automated reminders, renewal.",
+  "homepage": "https://contracko.com",
+  "docs": "https://github.com/contracko/contracko-skills/tree/f9b23700473e6f72b6969659babe603e4912534d",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "contracko": {
+      "url": "https://app.contracko.com/mcp"
+    }
+  }
+}

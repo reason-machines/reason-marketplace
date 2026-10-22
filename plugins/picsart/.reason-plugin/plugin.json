@@ -1,0 +1,14 @@
+{
+  "name": "picsart",
+  "displayName": "PicsArt",
+  "description": "Picsart generative-AI skills for Reason.",
+  "homepage": "https://picsart.com",
+  "docs": "https://github.com/PicsArt/gen-ai-skills/tree/37b71319c93f47ae8493bedb9167e12920bc915e",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "picsart": {
+      "url": "https://mcp.picsart.io/v1"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "manufact",
+  "displayName": "Manufact",
+  "description": "Build, test, and deploy MCP servers and apps with mcp-use and Manufact.",
+  "homepage": "https://manufact.com",
+  "docs": "https://github.com/manufactinc/manufact-cursor-plugin/tree/197efac28f64e8a2cadd9f04c592e335af48e4a5/plugins/manufact",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "manufact": {
+      "url": "https://mcp.manufact.com/mcp"
+    }
+  }
+}

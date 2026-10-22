@@ -1,0 +1,14 @@
+{
+  "name": "opsera-devsecops",
+  "displayName": "Opsera",
+  "description": "Opsera DevSecOps Agent — AI-powered architecture analysis, security scanning, compliance auditing, and SQL security for your codebase.",
+  "homepage": "https://opsera.ai/",
+  "docs": "https://github.com/opsera-agents/opsera-cursor/tree/2c078dedda4244d9e799d072618d1184d5939ca0/plugins/opsera-devsecops",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "opsera-devsecops": {
+      "url": "https://agent.opsera.ai/mcp"
+    }
+  }
+}

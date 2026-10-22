@@ -1,0 +1,14 @@
+{
+  "name": "adspirer-search-ads",
+  "displayName": "Adspirer Search Ads",
+  "description": "PPC advertising agent for Google and Bing.",
+  "homepage": "https://www.adspirer.com/",
+  "docs": "https://github.com/Adspirer/adspirer-search-ads-cursor-plugin/tree/d540ade8b506ac3996cf1911ab038fb4533f31fb",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "adspirer-search-ads": {
+      "url": "https://mcp.adspirer.com/search-ads"
+    }
+  }
+}

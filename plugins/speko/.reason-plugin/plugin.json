@@ -1,0 +1,14 @@
+{
+  "name": "speko",
+  "displayName": "Speko",
+  "description": "Transcribe audio, synthesize speech, and place real phone calls through one Speko account.",
+  "homepage": "https://speko.ai",
+  "docs": "https://github.com/SpekoAI/cursor-speko/tree/f2603b0f98f24406a21db73f2f1cf816e8211729",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "speko": {
+      "url": "https://mcp.speko.ai/mcp"
+    }
+  }
+}
