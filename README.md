@@ -5,7 +5,7 @@ software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 371 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 384 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Connect a plugin in Reason
@@ -94,6 +94,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [athenahq](plugins/athenahq) | Analyze brand visibility, share of voice, citations, and rankings across AI search platforms with AthenaHQ. | None | `https://api.athenahq.ai/api/mcp` |
 | [Atlan](plugins/atlan) | Atlan's hosted MCP server: search, explore and govern your data catalog with semantic search, lineage traversal, glossary management and data-quality context. | OAuth | `https://mcp.atlan.com/mcp` |
 | [Atlassian](plugins/atlassian) | Atlassian plugin for Reason with MCP and skills for Jira, Confluence, triage, backlogs, status reports, and more. | OAuth | `https://mcp.atlassian.com/v2/mcp` |
+| [Atlassian Forge](plugins/forge-skills) | Forge app builder skill bundle with Forge MCP integration for building, deploying, and troubleshooting Atlassian Forge apps. | None | `https://mcp.atlassian.com/v1/forge/mcp` |
 | [Attio](plugins/attio) | Read and update Attio CRM records, lists, and workspace data through Attio's hosted MCP server. | OAuth | `https://mcp.attio.com/mcp` |
 | [AWS Agents](plugins/aws-agents) | Build, deploy, and operate AI agents on AWS. | None | `https://knowledge-mcp.global.api.aws` |
 | [Axiom](plugins/axiom) | Run APL queries, inspect datasets and schemas, and investigate logs through Axiom's hosted MCP server. | OAuth | `https://mcp.axiom.co/mcp` |
@@ -104,6 +105,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Bitrise](plugins/bitrise) | Set up and manage mobile CI/CD on Bitrise: build, test, and distribute iOS, Android, Flutter, and React Native apps. | OAuth | `https://mcp.bitrise.io` |
 | [Blackbird Concierge](plugins/blackbird-concierge) | Blackbird's MCP gets you access to book, reserve, and explore reservations via OpenTable, Resy, and SevenRooms. | OAuth | `https://concierge.api.blackbird.xyz/mcp` |
 | [Braintrust](plugins/braintrust) | Connect Reason to Braintrust MCP and trace agent sessions. | OAuth | `https://api.braintrust.dev/mcp` |
+| [Brevo (API key)](plugins/brevo-api-key) | Manage contacts, email and SMS campaigns, and CRM deals. | API key | `https://mcp.brevo.com/v1/brevo/mcp` |
 | [Brex](plugins/brex) | Query expenses, receipts, bills, cards, and travel. | OAuth | `https://api.brex.com/mcp` |
 | [Browserless](plugins/browserless) | Browser automation in the cloud: smart scraping, web search, crawling, Lighthouse audits, and custom Puppeteer code execution with no infrastructure required. | OAuth | `https://mcp.browserless.io/mcp` |
 | [Buffer](plugins/buffer) | Manage social media with Buffer: draft, schedule, and publish posts across connected channels, manage the queue and ideas, and review post performance. | OAuth | `https://mcp.buffer.com/mcp` |
@@ -124,6 +126,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Clearskies](plugins/clearskies) | Research your connected CRM, meetings, call transcripts, and email, and safely build clearskies revenue workflows. | OAuth | `https://mcp.clearskies.cc/mcp` |
 | [Clerk](plugins/clerk) | Clerk integration to add authentication, organizations, and billing | OAuth | `https://mcp.clerk.com/mcp` |
 | [ClickFunnels](plugins/clickfunnels) | Build funnels, manage contacts, and run your store in ClickFunnels. | OAuth | `https://agents.myclickfunnels.com/mcp` |
+| [ClickHouse](plugins/clickhouse) | ClickHouse Reason plugin: skills (ClickHouse best practices), rules and MCP. | OAuth | `https://mcp.clickhouse.cloud/mcp` |
 | [ClickUp](plugins/clickup) | Manage tasks, track time, and collaborate from your ClickUp workspace without switching context. | OAuth | `https://mcp.clickup.com/mcp` |
 | [Cloudflare](plugins/cloudflare) | Build, test, and deploy applications on Cloudflare with platform guidance Skills and the Cloudflare MCP server. | OAuth | `https://mcp.cloudflare.com/mcp` |
 | [Cloudflare AI Gateway](plugins/cloudflare-ai-gateway) | Search your logs, get details about the prompts and responses | OAuth | `https://ai-gateway.mcp.cloudflare.com/mcp` |
@@ -142,6 +145,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Cloudflare Workers Bindings](plugins/cloudflare-workers-bindings) | Build Workers applications with storage, AI, and compute primitives | OAuth | `https://bindings.mcp.cloudflare.com/mcp` |
 | [Cloudflare Workers Builds](plugins/cloudflare-workers-builds) | Get insights and manage your Cloudflare Workers Builds | OAuth | `https://builds.mcp.cloudflare.com/mcp` |
 | [Cloudinary](plugins/cloudinary) | Cloudinary integration to manage, transform, and deliver images and videos | OAuth | `https://asset-management.mcp.cloudinary.com/sse` |
+| [CockroachDB](plugins/cockroachdb) | CockroachDB plugin for Reason — explore schemas, write optimized SQL, debug queries, and manage distributed database clusters directly from your AI coding agent. | OAuth | `https://cockroachlabs.cloud/mcp` |
 | [Coda](plugins/coda) | Search docs, read pages, and update tables. | OAuth | `https://docs.superhuman.com/apis/mcp` |
 | [CodSpeed](plugins/codspeed) | CodSpeed's hosted MCP server: dive into benchmark results, flamegraphs and performance comparisons to pinpoint bottlenecks and iterate on performance. | OAuth | `https://mcp.codspeed.io/mcp` |
 | [Coinbase](plugins/coinbase) | Check balances, get quotes, and preview or place trades. | OAuth | `https://agents.coinbase.com/mcp` |
@@ -184,6 +188,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Fireflies](plugins/fireflies) | Search meeting transcripts, summaries, and action items. | OAuth | `https://api.fireflies.ai/mcp` |
 | [Flexport](plugins/flexport) | Connect your Flexport account via the hosted MCP at mcp.flexport.com/mcp: look up shipments, check rates, search your network, and book freight using natural language. | OAuth | `https://mcp.flexport.com/mcp` |
 | [Floot](plugins/floot) | Build and host full-stack apps. | None | `https://mcp.floot.com/mcp` |
+| [Framer](plugins/framer) | Design, build, and edit your Framer sites, pages, and CMS content. | OAuth | `https://mcp.framer.com/mcp` |
 | [Freight Right](plugins/freightright) | Freight rates, quote requests and shipment tracking from your Freight Right account, with skills that keep billing and bookings right. | OAuth | `https://mcp.freightright.com/mcp` |
 | [Fullenrich](plugins/fullenrich) | Find prospects, enrich verified emails, and phone numbers via waterfall enrichment, and export results. | OAuth | `https://mcp.fullenrich.com/mcp` |
 | [Fullstory](plugins/fullstory) | Fullstory's hosted MCP server: query behavioral analytics, session replays and customer experience insights. | OAuth | `https://api.fullstory.com/mcp/fullstory` |
@@ -221,6 +226,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Infobip](plugins/infobip) | Infobip MCP Servers let you build AI agents to interact with the Infobip platform through the Model Context Protocol (MCP). | OAuth | `https://mcp.infobip.com/sms` |
 | [Inkbox](plugins/inkbox) | Give Reason an Inkbox identity for email, SMS, iMessage, voice calls, contacts, notes, and agent-to-agent tasks. | OAuth | `https://inkbox.ai/mcp/cursor` |
 | [Interactive Brokers](plugins/interactive-brokers) | Review positions, balances, P&L, and draft trade instructions. | OAuth | `https://api.ibkr.com/v1/api/mcp-public` |
+| [Intercom (API key)](plugins/intercom-api-key) | Search conversations, contacts, and Help Center articles. | API key | `https://mcp.intercom.com/mcp` |
 | [invideo](plugins/invideo) | Make videos with invideo: generate media, edit timelines, and export. | OAuth | `https://mcp.invideo.io/mcp` |
 | [Jam](plugins/jam) | Access Jam bug reports, recordings, console/network context, and repro steps. | OAuth | `https://mcp.jam.dev/mcp` |
 | [Jira](plugins/jira) | Read Jira issues, projects, statuses, users, and comments through Atlassian's hosted MCP server. | OAuth | `https://mcp.atlassian.com/v1/mcp` |
@@ -299,6 +305,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Orthogonal](plugins/orthogonal) | Connect agents to 800+ tool and data endpoints from 50+ verified providers through Orthogonal's hosted MCP server. | OAuth | `https://mcp.orthogonal.com` |
 | [Otter.ai](plugins/otter) | Search meeting history and pull full transcripts. | OAuth | `https://mcp.otter.ai/mcp` |
 | [Outreach](plugins/outreach) | Search sequences, prospects, and Kaia meetings. | OAuth | `https://api.outreach.io/mcp` |
+| [PagerDuty (API key)](plugins/pagerduty-api-key) | PagerDuty MCP server for Reason - manage incidents, services, schedules, on-call, and more directly from your IDE. | API key | `https://mcp.pagerduty.com/mcp` |
 | [ParadeDB](plugins/paradedb) | ParadeDB adds Elastic-quality full-text search, vector retrieval, and aggregations to Postgres, with no second system to deploy and nothing to sync. | None | `https://docs.paradedb.com/mcp` |
 | [Pascal](plugins/pascal-agent-skills) | Create, inspect, validate, and assess furniture layouts with bounded next actions in Pascal through MCP. | OAuth | `https://editor.pascal.app/api/mcp` |
 | [PayBox](plugins/paybox-plugin) | Swap and transfer tokens across chains, pay x402 services, take positions on prediction markets, and issue merchant-scoped virtual cards with PayBox custodial wallets. | OAuth | `https://api.paybox.sh/mcp` |
@@ -316,6 +323,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Plaud](plugins/plaud) | Work with your Plaud recordings: list and search meetings and voice notes, read full transcripts with speaker labels, and pull AI summaries, action items, and key topics into your workflow. | OAuth | `https://mcp.plaud.ai/mcp` |
 | [Port](plugins/port) | Connect to Port's agentic SDLC platform in natural language: query the Context Lake, orchestrate workflows, manage agents, and enforce governance. | OAuth | `https://mcp.port.io/v1` |
 | [PostHog](plugins/posthog) | Query PostHog product analytics: events, insights, and feature flags. | OAuth | `https://mcp.posthog.com/mcp` |
+| [postiz](plugins/postiz) | Social media automation CLI and MCP server for scheduling posts, managing integrations, uploading media, and tracking analytics across 28+ platforms including X, LinkedIn, LinkedIn Pages,… | OAuth | `https://mcp.postiz.com/mcp-oauth-dynamic` |
 | [Postman](plugins/postman) | Postman integration to give API context to your coding agents | OAuth | `https://mcp.postman.com/minimal` |
 | [Prisma](plugins/prisma) | Manage Prisma Postgres databases; create, list, and restore backups; generate and revoke connection strings; execute SQL queries and introspect schemas. | OAuth | `https://mcp.prisma.io/mcp` |
 | [Profound](plugins/profound) | Track AI visibility, sentiment, and citations. | OAuth | `https://mcp.tryprofound.com/mcp` |
@@ -336,6 +344,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [ReadMe](plugins/readme) | Search, read, and update your ReadMe docs, API reference, and changelog. | None | `https://docs.readme.com/mcp` |
 | [Readwise](plugins/readwise) | Search highlights and Reader documents, save articles. | OAuth | `https://mcp2.readwise.io/mcp` |
 | [Refero](plugins/refero) | Research real product interfaces and design with evidence from Refero. | OAuth | `https://api.refero.design/mcp` |
+| [Render (API key)](plugins/render-api-key) | Deploy, debug, and monitor applications on Render. | API key | `https://mcp.render.com/mcp` |
 | [Replit](plugins/replit) | Build, update, and publish Replit apps. | OAuth | `https://mcp.replit.com/server/mcp` |
 | [Resend](plugins/resend) | Manage email, contacts, templates, and delivery logs. | OAuth | `https://mcp.resend.com/mcp` |
 | [Resolve AI](plugins/resolve-ai) | Use Resolve for investigations, incidents, and production context. | OAuth | `https://app0.resolve.ai/mcp/v2` |
@@ -352,6 +361,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [S&P Global](plugins/sp-global) | Query S&P Capital IQ financials, prices, and transcripts. | OAuth | `https://kfinance.kensho.com/integrations/mcp` |
 | [Sanity](plugins/sanity) | Sanity integration to create, query, and manage structured content | OAuth | `https://mcp.sanity.io` |
 | [Scandit](plugins/scandit-sdk) | AI agent skills for integrating the Scandit Data Capture SDK — product selection, documentation, and implementation guides for barcode scanning, ID capture, and smart label capture. | OAuth | `https://ssl.scandit.com/mcp` |
+| [Semrush (API key)](plugins/semrush-api-key) | Research keywords, backlinks, traffic, and competitors. | API key | `https://mcp.semrush.com/v2/mcp` |
 | [SenseLab](plugins/senselab) | Continual learning for your agents. | OAuth | `https://mcp.sense-lab.ai/mcp` |
 | [Sentry](plugins/sentry) | Retrieve detailed Sentry issue data and full stack traces. Also search and filter issues, update issue status, assignments, tags, bookmarks, and alerts. | OAuth | `https://mcp.sentry.dev/mcp` |
 | [Shop](plugins/shop) | Shop across millions of stores: find and compare over a billion products, build carts, and check out. | OAuth | `https://mcp.shop.com` |
@@ -360,19 +370,22 @@ Open an issue with the provider's name and its MCP server URL.
 | [Simmie](plugins/simmie) | Build sales roleplay simulations with scoring rubrics and shareable practice links. | OAuth | `https://mcp.simmie.ai/mcp` |
 | [Slides.com](plugins/slides) | Create, edit, preview, and share Slides.com presentations. | OAuth | `https://mcp.slides.com/` |
 | [Smartsheet](plugins/smartsheet) | Query and update sheets, rows, and workspaces. | OAuth | `https://mcp.smartsheet.com` |
+| [Sonatype](plugins/sonatype) | AI-powered dependency intelligence. | API key | `https://mcp.guide.sonatype.com/mcp` |
 | [Sonos](plugins/sonos) | Play music and radio from your connected music services, or your Sonos favorites and Sonos playlists. | OAuth | `https://mcp.ws.sonos.com/mcp` |
 | [Spacefast](plugins/spacefast) | Turn an idea into a website, dashboard, report, or small web tool you can share. | OAuth | `https://mcp.spacefast.com` |
 | [Speko](plugins/speko) | Transcribe audio, synthesize speech, and place real phone calls through one Speko account. | OAuth | `https://mcp.speko.ai/mcp` |
 | [Spotify Confidence](plugins/confidence) | Spotify Confidence's hosted MCP server: manage feature flags, experiments and rollouts in your Confidence account. | OAuth | `https://mcp.confidence.dev/mcp/flags` |
 | [Spotify Confidence Docs](plugins/confidence-docs) | Spotify Confidence's hosted documentation MCP server: search Confidence feature-flag, experimentation and SDK docs. | OAuth | `https://mcp.confidence.dev/mcp/docs` |
+| [Stable](plugins/stable) | Find mail, read scanned documents, and call Stable API endpoints. | None | `https://mcp.usestable.com/mcp` |
 | [Statsig](plugins/statsig) | Inspect and manage feature gates, experiments, dynamic configs, and metrics. | OAuth | `https://api.statsig.com/v1/mcp` |
 | [Streak](plugins/streak) | Search and manage Streak CRM pipelines, deals, contacts, organizations, tasks, and timeline activity. | OAuth | `https://api.streak.com/mcp` |
-| [Streamline Icons](plugins/streamline-icons) | Insert PNG and SVG icons, illustrations, elements and emojis from Streamline, plus open-source sets like Lucide, Heroicons, Phosphor and Font Awesome. | OAuth | `https://public-api.streamlinehq.com/mcp` |
+| [Streamline Icons](plugins/streamline-icons) | Insert PNG and SVG icons, illustrations, elements and emojis from Streamline, plus open-source sets like Lucide, Heroicons, Phosphor and Font Awesome. | None | `https://public-api.streamlinehq.com/mcp` |
 | [Stripe](plugins/stripe) | Look up Stripe customers, subscriptions, invoices, charges, and products through Stripe's hosted MCP server. | OAuth | `https://mcp.stripe.com` |
 | [Strix](plugins/strix) | Ship with confidence that what you deploy is secure. Strix runs AI penetration tests and PR security reviews against your web apps, APIs, and repositories, so Devin can find, fix, and verify vulnerabilities before they reach production. List scans and open vulnerabilities by severity, pull a finding's evidence and remediation steps into a code fix, update its status, retest it, or export it to Jira or Linear. Start scans and schedules against verified assets and check supply-chain findings and analytics. Read-only tools have no side effects. Scans spend credits and send traffic to your targets. | OAuth | `https://app.strix.ai/mcp` |
 | [Stytch](plugins/stytch) | Stytch integration to manage your Stytch project | OAuth | `https://mcp.stytch.dev/mcp` |
 | [Subtext](plugins/subtext) | Review Subtext session recordings and manage privacy rules | OAuth | `https://api.fullstory.com/mcp/subtext` |
 | [Supabase](plugins/supabase) | Connect a Supabase account: inspect projects, run SQL, read logs, and search docs through Supabase's hosted MCP server. | OAuth | `https://mcp.supabase.com/mcp` |
+| [Superagent](plugins/superagent) | Security findings, red-team reports, and guardrails from Superagent. | API key | `https://www.superagent.sh/mcp` |
 | [Superhuman Mail](plugins/mcp-mail) | Use Superhuman Mail through its hosted MCP server. | OAuth | `https://mcp.mail.superhuman.com/mcp` |
 | [SuperMe](plugins/superme) | Ask people who've been there, get multiple perspectives, and make better decisions about your work. | OAuth | `https://mcp.superme.ai` |
 | [Supermemory](plugins/supermemory) | Store, search, and recall long-term memory and context through Supermemory's hosted MCP server. | OAuth | `https://mcp.supermemory.ai/mcp` |
@@ -388,7 +401,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [tldraw](plugins/tldraw) | Draw and visually collaborate with your agents inside Reason | None | `https://tldraw-mcp-app.tldraw.workers.dev/mcp` |
 | [Todoist](plugins/todoist) | Create, find, and complete tasks and projects. | OAuth | `https://ai.todoist.net/mcp` |
 | [Token Security](plugins/token-security) | Query identities, non-human identities, AI agents, secrets and security findings from Token Security. | OAuth | `https://mcp.app.token.security/mcp` |
-| [Treg](plugins/treg) | OpenRouter for tools — 2,896 agent-callable endpoints across 60 providers: SEO and SERP data, backlinks, social and trends, people and company enrichment, ads, scraping. | OAuth | `https://treg.to/mcp/` |
+| [Treg](plugins/treg) | OpenRouter for tools - 4,000+ agent-callable endpoints across 113 providers: SEO and SERP data, backlinks, social and trends, people and company enrichment, ads, scraping. | OAuth | `https://treg.to/mcp/` |
 | [Trellis](plugins/trellis) | Trellis integration for trial court litigation research | OAuth | `https://mcp.trellis.law/anthropic` |
 | [Trello](plugins/trello) | Manage your Trello workspace from chat: browse and create boards, view and move lists, create, update, move, archive, and complete cards with labels and due dates, manage checklists, capture Inbox… | OAuth | `https://mcp.trello.com/v1` |
 | [TubeAlfred](plugins/tubealfred-youtube) | TubeAlfred brings YouTube transcripts, comments and channel data into Reason. | OAuth | `https://mcp.tubealfred.com/` |

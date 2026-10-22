@@ -2,7 +2,7 @@
   "name": "shop",
   "displayName": "Shop",
   "description": "Shop across millions of stores: find and compare over a billion products, build carts, and check out.",
-  "homepage": "https://shopify.dev/docs/apps/build/devmcp",
+  "homepage": "https://shop.dev",
   "docs": "https://github.com/shopify/shop/tree/967b00f13e40bef9603716bbf313667f70f2dd81/plugins/shop",
   "logo": "logo.png",
   "auth": "oauth",

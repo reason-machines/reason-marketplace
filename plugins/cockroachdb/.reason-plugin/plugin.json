@@ -1,0 +1,14 @@
+{
+  "name": "cockroachdb",
+  "displayName": "CockroachDB",
+  "description": "CockroachDB plugin for Reason — explore schemas, write optimized SQL, debug queries, and manage distributed database clusters directly from your AI coding agent.",
+  "homepage": "https://www.cockroachlabs.com",
+  "docs": "https://github.com/cockroachdb/cursor-plugin/tree/8b6a4b336ef6954baa8df15e60825ae6d81b0412",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "cockroachdb": {
+      "url": "https://cockroachlabs.cloud/mcp"
+    }
+  }
+}

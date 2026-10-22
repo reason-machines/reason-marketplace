@@ -1,0 +1,17 @@
+{
+  "name": "brevo-api-key",
+  "displayName": "Brevo (API key)",
+  "description": "Manage contacts, email and SMS campaigns, and CRM deals.",
+  "homepage": "https://cursor.com/",
+  "docs": "https://github.com/cursor/plugins/tree/9b93e81fb2921b9263d9463c15bafeabfe3903aa/third_party/brevo",
+  "logo": "logo.png",
+  "auth": "api_key",
+  "mcpServers": {
+    "brevo-api-key": {
+      "url": "https://mcp.brevo.com/v1/brevo/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "render-api-key",
+  "displayName": "Render (API key)",
+  "description": "Deploy, debug, and monitor applications on Render.",
+  "homepage": "https://render.com/",
+  "docs": "https://github.com/render-oss/render-cursor-plugin/tree/888d8627d41bebbe534e82d92cabfd2099e08e1f/plugins/render",
+  "logo": "logo.png",
+  "auth": "api_key",
+  "mcpServers": {
+    "render-api-key": {
+      "url": "https://mcp.render.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

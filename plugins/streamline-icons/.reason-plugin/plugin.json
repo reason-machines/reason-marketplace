@@ -5,7 +5,7 @@
   "homepage": "https://home.streamlinehq.com",
   "docs": "https://github.com/webalys-hq/agent-plugins/tree/68f86f4d2b03dcdfe30f57428816354f6867d9b9/plugins/streamline-icons",
   "logo": "logo.png",
-  "auth": "oauth",
+  "auth": "none",
   "mcpServers": {
     "streamline-icons": {
       "url": "https://public-api.streamlinehq.com/mcp"

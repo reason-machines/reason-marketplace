@@ -1,0 +1,14 @@
+{
+  "name": "postiz",
+  "displayName": "postiz",
+  "description": "Social media automation CLI and MCP server for scheduling posts, managing integrations, uploading media, and tracking analytics across 28+ platforms including X, LinkedIn, LinkedIn Pages,…",
+  "homepage": "https://postiz.com/",
+  "docs": "https://github.com/gitroomhq/postiz-agent/tree/00aa5083c89fee6c673cc0ae21a70daaa3098854",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "postiz": {
+      "url": "https://mcp.postiz.com/mcp-oauth-dynamic"
+    }
+  }
+}

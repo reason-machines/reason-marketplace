@@ -1,0 +1,17 @@
+{
+  "name": "superagent",
+  "displayName": "Superagent",
+  "description": "Security findings, red-team reports, and guardrails from Superagent.",
+  "homepage": "https://superagent.sh",
+  "docs": "https://github.com/superagent-ai/cursor-plugin/tree/835e81053fd21abc8e7974235d570acf72ceedd1",
+  "logo": "logo.png",
+  "auth": "api_key",
+  "mcpServers": {
+    "superagent": {
+      "url": "https://www.superagent.sh/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

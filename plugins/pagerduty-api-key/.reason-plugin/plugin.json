@@ -1,0 +1,17 @@
+{
+  "name": "pagerduty-api-key",
+  "displayName": "PagerDuty (API key)",
+  "description": "PagerDuty MCP server for Reason - manage incidents, services, schedules, on-call, and more directly from your IDE.",
+  "homepage": "https://www.pagerduty.com/",
+  "docs": "https://github.com/PagerDuty/cursor-plugin/tree/561df5e3e98d3134af17aad00030ffe7d9ea6df2",
+  "logo": "logo.png",
+  "auth": "api_key",
+  "mcpServers": {
+    "pagerduty-api-key": {
+      "url": "https://mcp.pagerduty.com/mcp",
+      "headers": {
+        "Authorization": "Token ${API_KEY}"
+      }
+    }
+  }
+}

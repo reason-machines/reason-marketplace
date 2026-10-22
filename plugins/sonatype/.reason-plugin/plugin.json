@@ -1,0 +1,17 @@
+{
+  "name": "sonatype",
+  "displayName": "Sonatype",
+  "description": "AI-powered dependency intelligence.",
+  "homepage": "https://www.sonatype.com/",
+  "docs": "https://github.com/sonatype/sonatype-cursor-plugin/tree/6f20d407da5df16beff44fde547b83c9c96fdad0",
+  "logo": "logo.png",
+  "auth": "api_key",
+  "mcpServers": {
+    "sonatype": {
+      "url": "https://mcp.guide.sonatype.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

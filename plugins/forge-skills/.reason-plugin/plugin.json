@@ -1,0 +1,14 @@
+{
+  "name": "forge-skills",
+  "displayName": "Atlassian Forge",
+  "description": "Forge app builder skill bundle with Forge MCP integration for building, deploying, and troubleshooting Atlassian Forge apps.",
+  "homepage": "https://atlassian.com",
+  "docs": "https://github.com/atlassian/forge-skills/tree/4f04ae02879435f23808a4798da28f75d3ab74c3",
+  "logo": "logo.png",
+  "auth": "none",
+  "mcpServers": {
+    "forge-skills": {
+      "url": "https://mcp.atlassian.com/v1/forge/mcp"
+    }
+  }
+}
