@@ -5,7 +5,7 @@ software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 363 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 371 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Connect a plugin in Reason
@@ -122,6 +122,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Clarify](plugins/clarify) | Search and update CRM records, lists, campaigns, and meetings in Clarify. | OAuth | `https://api.clarify.ai/mcp` |
 | [Clay](plugins/clay) | Enrich people and companies, run AI research agents. | OAuth | `https://api.clay.com/v3/mcp` |
 | [Clearskies](plugins/clearskies) | Research your connected CRM, meetings, call transcripts, and email, and safely build clearskies revenue workflows. | OAuth | `https://mcp.clearskies.cc/mcp` |
+| [Clerk](plugins/clerk) | Clerk integration to add authentication, organizations, and billing | OAuth | `https://mcp.clerk.com/mcp` |
 | [ClickFunnels](plugins/clickfunnels) | Build funnels, manage contacts, and run your store in ClickFunnels. | OAuth | `https://agents.myclickfunnels.com/mcp` |
 | [ClickUp](plugins/clickup) | Manage tasks, track time, and collaborate from your ClickUp workspace without switching context. | OAuth | `https://mcp.clickup.com/mcp` |
 | [Cloudflare](plugins/cloudflare) | Build, test, and deploy applications on Cloudflare with platform guidance Skills and the Cloudflare MCP server. | OAuth | `https://mcp.cloudflare.com/mcp` |
@@ -260,6 +261,12 @@ Open an issue with the provider's name and its MCP server URL.
 | [Mem0](plugins/mem0) | Mem0 memory layer for AI applications. | OAuth | `https://mcp.mem0.ai/mcp/` |
 | [Mercury](plugins/mercury) | Read balances, transactions, statements, and cards. | OAuth | `https://mcp.mercury.com/mcp` |
 | [Meticulous](plugins/meticulous) | Meticulous integration to inspect test runs, replay diffs, and coverage for frontend changes | OAuth | `https://app.meticulous.ai/api/mcp` |
+| [Microsoft 365 Calendar](plugins/microsoft-365-calendar) | Outlook Calendar: list, read, create, update and delete Microsoft 365 calendar events and meetings. | OAuth | `https://microsoft-365-mcp.devin.ai/calendar/mcp` |
+| [Microsoft 365 Directory (Entra ID)](plugins/microsoft-365-directory) | Search and read Microsoft Entra ID directory users, managers and your own Microsoft 365 profile. | OAuth | `https://microsoft-365-mcp.devin.ai/directory/mcp` |
+| [Microsoft 365 Mail & Contacts](plugins/microsoft-365-mail) | Outlook mail: read, organize and send Microsoft 365 email and manage your contacts. | OAuth | `https://microsoft-365-mcp.devin.ai/mail/mcp` |
+| [Microsoft 365 OneDrive & SharePoint](plugins/microsoft-365-files) | OneDrive and SharePoint: browse, read, upload and delete Microsoft 365 files and sites. | OAuth | `https://microsoft-365-mcp.devin.ai/files/mcp` |
+| [Microsoft 365 Teams](plugins/microsoft-365-teams) | Microsoft Teams: list teams, channels and chats, read messages and send them. | OAuth | `https://microsoft-365-mcp.devin.ai/collaboration/mcp` |
+| [Microsoft 365 To Do](plugins/microsoft-365-todo) | Microsoft To Do: list, create, update, complete and delete tasks. | OAuth | `https://microsoft-365-mcp.devin.ai/todo/mcp` |
 | [Microsoft Learn](plugins/microsoft-learn) | Microsoft Learn integration to search trusted Microsoft documentation | None | `https://learn.microsoft.com/api/mcp` |
 | [Migma](plugins/migma) | Run your entire email marketing from Reason and Reason. | OAuth | `https://migma.ai/mcp` |
 | [Mintlify](plugins/mintlify) | Mintlify integration to search, read, and edit your documentation | OAuth | `https://mcp.mintlify.com` |
@@ -356,6 +363,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Sonos](plugins/sonos) | Play music and radio from your connected music services, or your Sonos favorites and Sonos playlists. | OAuth | `https://mcp.ws.sonos.com/mcp` |
 | [Spacefast](plugins/spacefast) | Turn an idea into a website, dashboard, report, or small web tool you can share. | OAuth | `https://mcp.spacefast.com` |
 | [Speko](plugins/speko) | Transcribe audio, synthesize speech, and place real phone calls through one Speko account. | OAuth | `https://mcp.speko.ai/mcp` |
+| [Spotify Confidence](plugins/confidence) | Spotify Confidence's hosted MCP server: manage feature flags, experiments and rollouts in your Confidence account. | OAuth | `https://mcp.confidence.dev/mcp/flags` |
 | [Spotify Confidence Docs](plugins/confidence-docs) | Spotify Confidence's hosted documentation MCP server: search Confidence feature-flag, experimentation and SDK docs. | OAuth | `https://mcp.confidence.dev/mcp/docs` |
 | [Statsig](plugins/statsig) | Inspect and manage feature gates, experiments, dynamic configs, and metrics. | OAuth | `https://api.statsig.com/v1/mcp` |
 | [Streak](plugins/streak) | Search and manage Streak CRM pipelines, deals, contacts, organizations, tasks, and timeline activity. | OAuth | `https://api.streak.com/mcp` |

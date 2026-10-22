@@ -1,0 +1,14 @@
+{
+  "name": "microsoft-365-todo",
+  "displayName": "Microsoft 365 To Do",
+  "description": "Microsoft To Do: list, create, update, complete and delete tasks.",
+  "homepage": "https://www.microsoft.com/microsoft-365",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/microsoft-365-todo",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "microsoft-365-todo": {
+      "url": "https://microsoft-365-mcp.devin.ai/todo/mcp"
+    }
+  }
+}

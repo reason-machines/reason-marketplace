@@ -1,0 +1,14 @@
+{
+  "name": "microsoft-365-mail",
+  "displayName": "Microsoft 365 Mail & Contacts",
+  "description": "Outlook mail: read, organize and send Microsoft 365 email and manage your contacts.",
+  "homepage": "https://www.microsoft.com/microsoft-365",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/microsoft-365-mail",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "microsoft-365-mail": {
+      "url": "https://microsoft-365-mcp.devin.ai/mail/mcp"
+    }
+  }
+}

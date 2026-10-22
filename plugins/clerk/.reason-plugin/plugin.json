@@ -1,0 +1,14 @@
+{
+  "name": "clerk",
+  "displayName": "Clerk",
+  "description": "Clerk integration to add authentication, organizations, and billing",
+  "homepage": "https://clerk.com",
+  "docs": "https://github.com/CognitionAI/devin-marketplace/tree/8ba5035403fdb5ae4ca6b45243cc6a04415d0aac/plugins/clerk",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "clerk": {
+      "url": "https://mcp.clerk.com/mcp"
+    }
+  }
+}
