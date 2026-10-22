@@ -1,0 +1,26 @@
+{
+  "name": "1password",
+  "displayName": "1Password",
+  "description": "Let agents read the secrets you share from 1Password: API keys, passwords, database URLs and one-time codes.",
+  "homepage": "https://1password.com",
+  "docs": "https://developer.1password.com/docs/service-accounts/get-started/",
+  "logo": "logo.svg",
+  "auth": "api_key",
+  "mcpServers": {
+    "1password": {
+      "url": "https://mcp.reasonmachines.com/1password/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  },
+  "skills": [
+    {
+      "name": "1Password",
+      "description": "Read secrets the person shared from 1Password by op:// reference, without exposing them in replies or logs.",
+      "source": "reason-machines/skills",
+      "skill": "1password",
+      "url": "https://developer.1password.com/docs/cli/secret-reference-syntax/"
+    }
+  ]
+}

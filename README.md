@@ -5,7 +5,7 @@ software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 179 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 180 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Connect a plugin in Reason
@@ -60,6 +60,7 @@ Open an issue with the provider's name and its MCP server URL.
 
 | Plugin | What it does | Auth | MCP server |
 | --- | --- | --- | --- |
+| [1Password](plugins/1password) | Let agents read the secrets you share from 1Password: API keys, passwords, database URLs and one-time codes. | API key | `https://mcp.reasonmachines.com/1password/mcp` |
 | [ActiveCampaign](plugins/activecampaign) | Marketing automation and CRM: manage contacts, lists, tags, and custom fields, plan and report on email campaigns, build automations, and operate deal pipelines through natural language | OAuth | `https://mcp.app-us1.com/http` |
 | [Ahrefs](plugins/ahrefs) | Research keywords, backlinks, rankings, and site health. | OAuth | `https://api.ahrefs.com/mcp/mcp` |
 | [Airtable](plugins/airtable) | Search and update bases, tables, records, and views. | OAuth | `https://mcp.airtable.com/mcp` |

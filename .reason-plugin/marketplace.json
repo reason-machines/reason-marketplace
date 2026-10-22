@@ -6,6 +6,7 @@
     "url": "https://reasonmachines.com"
   },
   "plugins": [
+    "./plugins/1password",
     "./plugins/activecampaign",
     "./plugins/ahrefs",
     "./plugins/airtable",
