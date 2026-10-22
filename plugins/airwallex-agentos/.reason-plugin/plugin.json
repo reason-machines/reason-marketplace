@@ -8,7 +8,7 @@
   "auth": "oauth",
   "mcpServers": {
     "airwallex-agentos": {
-      "url": "https://mcp.sandbox.airwallex.com/developer"
+      "url": "https://mcp.airwallex.com/mcp"
     }
   }
 }

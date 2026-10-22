@@ -5,7 +5,7 @@ software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 369 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 367 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Connect a plugin in Reason
@@ -73,7 +73,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Ahrefs](plugins/ahrefs) | Research keywords, backlinks, rankings, and site health. | OAuth | `https://api.ahrefs.com/mcp/mcp` |
 | [AirOps](plugins/airops) | Access to AirOps Brand Kits, AEO analytics, content opportunities, reports, grids, and Knowledge Bases. | OAuth | `https://app.airops.com/mcp` |
 | [Airtable](plugins/airtable) | Search and update bases, tables, records, and views. | OAuth | `https://mcp.airtable.com/mcp` |
-| [Airwallex](plugins/airwallex-agentos) | Bring Airwallex's global financial infrastructure to Reason. | OAuth | `https://mcp.sandbox.airwallex.com/developer` |
+| [Airwallex](plugins/airwallex-agentos) | Bring Airwallex's global financial infrastructure to Reason. | OAuth | `https://mcp.airwallex.com/mcp` |
 | [Aleph](plugins/aleph) | Aleph MCP server. Your one source of truth for financial data. | OAuth | `https://mcp.getaleph.com/mcp` |
 | [Algolia Productivity](plugins/algolia-productivity) | Connect LLM tools to your Algolia account with user-scoped access for internal workflows. | OAuth | `https://mcp.algolia.com/mcp` |
 | [Allo](plugins/allo) | An AI receptionist that answers your calls, sends and reads texts, and manages contacts. | OAuth | `https://mcp.withallo.com/mcp` |
@@ -123,7 +123,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Clay](plugins/clay) | Enrich people and companies, run AI research agents. | OAuth | `https://api.clay.com/v3/mcp` |
 | [Clearskies](plugins/clearskies) | Research your connected CRM, meetings, call transcripts, and email, and safely build clearskies revenue workflows. | OAuth | `https://mcp.clearskies.cc/mcp` |
 | [ClickFunnels](plugins/clickfunnels) | Build funnels, manage contacts, and run your store in ClickFunnels. | OAuth | `https://agents.myclickfunnels.com/mcp` |
-| [ClickHouse](plugins/clickhouse) | ClickHouse Reason plugin: skills (ClickHouse best practices), rules and MCP. | OAuth | `https://mcp.clickhouse.cloud/mcp` |
 | [ClickUp](plugins/clickup) | Manage tasks, track time, and collaborate from your ClickUp workspace without switching context. | OAuth | `https://mcp.clickup.com/mcp` |
 | [Cloudflare](plugins/cloudflare) | Build, test, and deploy applications on Cloudflare with platform guidance Skills and the Cloudflare MCP server. | OAuth | `https://mcp.cloudflare.com/mcp` |
 | [Cloudflare AI Gateway](plugins/cloudflare-ai-gateway) | Search your logs, get details about the prompts and responses | OAuth | `https://ai-gateway.mcp.cloudflare.com/mcp` |
@@ -321,7 +320,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Pylon](plugins/pylon) | Access and manage Pylon customer accounts, issues, and support data through Pylon's hosted MCP server. | OAuth | `https://mcp.usepylon.com` |
 | [QRStuff](plugins/qrstuff) | Generate and manage QR codes. | OAuth | `https://mcp.qrstuff.ai/mcp` |
 | [Qt Docs](plugins/qt-docs) | Qt Group's hosted documentation MCP server: search Qt C++ and QML documentation. | None | `https://qt-docs-mcp.qt.io/mcp` |
-| [QuickBooks Online](plugins/quickbooks-online) | Read invoices, bills, expenses, customers, accounts, and financial reports. | OAuth | `https://mcp-e2e.quickbooks.intuit.com/mcp` |
 | [QuickNode](plugins/quicknode) | QuickNode integration to manage your blockchain infrastructure | OAuth | `https://mcp.quicknode.com/mcp` |
 | [QuiverAI](plugins/quiverai) | Generate, vectorize, animate, and edit SVG assets with Arrow 2. | OAuth | `https://app.quiver.ai/mcp` |
 | [Quo](plugins/quo) | Give your agent a phone number. | OAuth | `https://mcp.quo.com/mcp` |
