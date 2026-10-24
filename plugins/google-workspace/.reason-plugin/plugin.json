@@ -1,0 +1,14 @@
+{
+  "name": "google-workspace",
+  "displayName": "Google Workspace",
+  "description": "Send Gmail; read and manage Calendar events and availability.",
+  "homepage": "https://workspace.google.com",
+  "docs": "https://developers.google.com/workspace",
+  "logo": "logo.svg",
+  "auth": "oauth",
+  "mcpServers": {
+    "google-workspace": {
+      "url": "https://mcp.reasonmachines.com/google-workspace/mcp"
+    }
+  }
+}

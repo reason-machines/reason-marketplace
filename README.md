@@ -5,7 +5,7 @@ software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 384 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 385 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Connect a plugin in Reason
@@ -200,6 +200,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Gojiberry AI](plugins/gojiberry) | Connect Reason to your Gojiberry workspace. | OAuth | `https://mcp.gojiberry.ai/mcp` |
 | [Golf Intelligence by Stracka](plugins/golf) | Golf Intelligence, by Stracka. | OAuth | `https://mcp.golfintelligence.com/mcp` |
 | [Gong](plugins/gong) | Pull account summaries, deal insights, and call briefs. | OAuth | `https://mcp.gong.io/mcp` |
+| [Google Workspace](plugins/google-workspace) | Send Gmail; read and manage Calendar events and availability. | OAuth | `https://mcp.reasonmachines.com/google-workspace/mcp` |
 | [Gopuff](plugins/gopuff) | Shop Gopuff from Reason through Gopuff's official MCP server. | OAuth | `https://mcp.gopuff.com/mcp` |
 | [Grafana](plugins/grafana) | Inspect Grafana Cloud dashboards, data sources, alerts, and incidents through Grafana's hosted MCP server. Grafana Cloud only. | OAuth | `https://mcp.grafana.com/mcp` |
 | [Granola](plugins/granola) | Use Granola meeting notes, summaries, and transcript context in agent runs. | OAuth | `https://mcp.granola.ai/mcp` |

@@ -148,6 +148,7 @@
     "./plugins/gojiberry",
     "./plugins/golf",
     "./plugins/gong",
+    "./plugins/google-workspace",
     "./plugins/gopuff",
     "./plugins/grafana",
     "./plugins/granola",
