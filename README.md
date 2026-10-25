@@ -5,7 +5,7 @@ software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 385 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 384 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Connect a plugin in Reason
@@ -119,7 +119,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [ChatPRD](plugins/chatprd) | Product requirements in your editor. | None | `https://app.chatprd.ai/mcp` |
 | [Circle](plugins/circle) | Circle's hosted developer MCP server: real-time guidance on Circle SDKs and documentation for USDC payments, cross-chain transfers, wallets and smart contracts. | None | `https://api.circle.com/v1/codegen/mcp` |
 | [Circleback](plugins/circleback) | Search meetings, transcripts, action items, and emails. | OAuth | `https://circleback.ai/api/mcp` |
-| [CircleCI](plugins/circleci) | Debug failing builds, inspect jobs and test results, monitor pipelines, and rerun or cancel workflows across your CircleCI organization | OAuth | `https://mcp.circleci.com/v1/mcp` |
 | [Cisco ThousandEyes](plugins/thousandeyes) | Connect Reason to ThousandEyes MCP endpoints for network intelligence workflows. | OAuth | `https://api.thousandeyes.com/mcp` |
 | [Clarify](plugins/clarify) | Search and update CRM records, lists, campaigns, and meetings in Clarify. | OAuth | `https://api.clarify.ai/mcp` |
 | [Clay](plugins/clay) | Enrich people and companies, run AI research agents. | OAuth | `https://api.clay.com/v3/mcp` |

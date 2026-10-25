@@ -64,7 +64,6 @@
     "./plugins/chatprd",
     "./plugins/circle",
     "./plugins/circleback",
-    "./plugins/circleci",
     "./plugins/clarify",
     "./plugins/clay",
     "./plugins/clearskies",
