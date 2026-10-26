@@ -1,0 +1,26 @@
+{
+  "name": "bitwarden",
+  "displayName": "Bitwarden",
+  "description": "Let agents read the secrets you share from Bitwarden Secrets Manager: API keys, tokens and database URLs.",
+  "homepage": "https://bitwarden.com/products/secrets-manager/",
+  "docs": "https://bitwarden.com/help/access-tokens/",
+  "logo": "logo.svg",
+  "auth": "api_key",
+  "mcpServers": {
+    "bitwarden": {
+      "url": "https://mcp.reasonmachines.com/bitwarden/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  },
+  "skills": [
+    {
+      "name": "Bitwarden",
+      "description": "Read secrets the person shared from Bitwarden Secrets Manager by name or ID, without exposing them in replies or logs.",
+      "source": "reason-machines/skills",
+      "skill": "bitwarden",
+      "url": "https://bitwarden.com/help/secrets-manager-cli/"
+    }
+  ]
+}

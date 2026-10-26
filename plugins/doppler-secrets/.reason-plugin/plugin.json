@@ -1,0 +1,26 @@
+{
+  "name": "doppler-secrets",
+  "displayName": "Doppler",
+  "description": "Let agents read the secrets you share from Doppler projects and configs.",
+  "homepage": "https://www.doppler.com",
+  "docs": "https://docs.doppler.com/docs/service-tokens",
+  "logo": "logo.svg",
+  "auth": "api_key",
+  "mcpServers": {
+    "doppler-secrets": {
+      "url": "https://mcp.reasonmachines.com/doppler/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  },
+  "skills": [
+    {
+      "name": "Doppler",
+      "description": "Read secrets the person shared from Doppler by project, config and name, without exposing them in replies or logs.",
+      "source": "reason-machines/skills",
+      "skill": "doppler",
+      "url": "https://docs.doppler.com/docs/accessing-secrets"
+    }
+  ]
+}

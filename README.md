@@ -5,7 +5,7 @@ software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 384 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 386 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Connect a plugin in Reason
@@ -103,6 +103,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [beehiiv](plugins/beehiiv) | Run your beehiiv newsletter from chat: draft and edit posts, organize subscribers with tags, custom fields, and segments, build automations, and review publication, post, and website performance. | OAuth | `https://mcp.beehiiv.com/mcp` |
 | [Bird](plugins/bird) | Drive Bird from your coding agent: operate the Bird API from the terminal with the `bird` CLI, send across email, SMS, and WhatsApp, and audit a domain's email authentication. | OAuth | `https://mcp.bird.com` |
 | [Bitrise](plugins/bitrise) | Set up and manage mobile CI/CD on Bitrise: build, test, and distribute iOS, Android, Flutter, and React Native apps. | OAuth | `https://mcp.bitrise.io` |
+| [Bitwarden](plugins/bitwarden) | Let agents read the secrets you share from Bitwarden Secrets Manager: API keys, tokens and database URLs. | API key | `https://mcp.reasonmachines.com/bitwarden/mcp` |
 | [Blackbird Concierge](plugins/blackbird-concierge) | Blackbird's MCP gets you access to book, reserve, and explore reservations via OpenTable, Resy, and SevenRooms. | OAuth | `https://concierge.api.blackbird.xyz/mcp` |
 | [Braintrust](plugins/braintrust) | Connect Reason to Braintrust MCP and trace agent sessions. | OAuth | `https://api.braintrust.dev/mcp` |
 | [Brevo (API key)](plugins/brevo-api-key) | Manage contacts, email and SMS campaigns, and CRM deals. | API key | `https://mcp.brevo.com/v1/brevo/mcp` |
@@ -165,6 +166,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Deriv](plugins/deriv) | Live Deriv API schemas, payload validation, and guides for authentication, subscriptions, trades, and errors. | None | `https://mcp-api-v2.deriv.com/mcp` |
 | [Descript](plugins/descript) | Edit video and audio by editing text. | OAuth | `https://api.descript.com/v2/mcp` |
 | [DocuSign](plugins/docusign) | Manage envelopes, templates, workflows, and agreements. | OAuth | `https://mcp.docusign.com/mcp` |
+| [Doppler](plugins/doppler-secrets) | Let agents read the secrets you share from Doppler projects and configs. | API key | `https://mcp.reasonmachines.com/doppler/mcp` |
 | [Dropbox](plugins/dropbox) | The Dropbox plugin for Reason connects your Dropbox files directly to Reason, so you can search, reference, and organize files, save generated content, and create sharing links - all without… | OAuth | `https://mcp.dropbox.com/cursor_app_mcp` |
 | [Elastic](plugins/elastic) | Elastic skills and documentation — Elasticsearch, Kibana, Observability, Security, Cloud, ES\|QL, OpenTelemetry, and MCP docs access | None | `https://www.elastic.co/docs/_mcp/` |
 | [ElevenLabs](plugins/elevenlabs) | ElevenLabs voice AI — text-to-speech, voice agents, and speech engine skills, agent management via the ElevenLabs hosted MCP server, plus Architect skills for building and iterating on ElevenLabs… | OAuth | `https://api.us.elevenlabs.io/v1/mcp` |
