@@ -53,7 +53,6 @@
     "./plugins/braintrust",
     "./plugins/brevo-api-key",
     "./plugins/brex",
-    "./plugins/browserless",
     "./plugins/buffer",
     "./plugins/buildkite",
     "./plugins/calendly",

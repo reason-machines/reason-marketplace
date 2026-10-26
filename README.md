@@ -5,7 +5,7 @@ software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 386 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 385 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Connect a plugin in Reason
@@ -108,7 +108,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Braintrust](plugins/braintrust) | Connect Reason to Braintrust MCP and trace agent sessions. | OAuth | `https://api.braintrust.dev/mcp` |
 | [Brevo (API key)](plugins/brevo-api-key) | Manage contacts, email and SMS campaigns, and CRM deals. | API key | `https://mcp.brevo.com/v1/brevo/mcp` |
 | [Brex](plugins/brex) | Query expenses, receipts, bills, cards, and travel. | OAuth | `https://api.brex.com/mcp` |
-| [Browserless](plugins/browserless) | Browser automation in the cloud: smart scraping, web search, crawling, Lighthouse audits, and custom Puppeteer code execution with no infrastructure required. | OAuth | `https://mcp.browserless.io/mcp` |
 | [Buffer](plugins/buffer) | Manage social media with Buffer: draft, schedule, and publish posts across connected channels, manage the queue and ideas, and review post performance. | OAuth | `https://mcp.buffer.com/mcp` |
 | [Buildkite](plugins/buildkite) | Buildkite's hosted MCP server: inspect pipelines, builds, jobs and logs, trigger and retry builds, and look up test analytics and cluster/agent status. | OAuth | `https://mcp.buildkite.com/mcp` |
 | [Calendly](plugins/calendly) | Check availability and book, cancel, or reschedule. | OAuth | `https://mcp.calendly.com/` |
