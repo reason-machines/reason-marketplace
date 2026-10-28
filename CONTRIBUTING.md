@@ -7,7 +7,8 @@ Thanks for helping improve the Reason marketplace.
 1. Edit its folder under `reasons/<name>/`: `INSTRUCTIONS.md` for how it works,
    `skills/<skill>/SKILL.md` for a playbook, `reason.json` for its card, categories,
    face, plugins and skill order.
-2. Run `npm install` and `npm test`. Fix anything it reports.
+2. Run `npm install` and `npm test` (Node 22.18 or later). Fix anything it reports.
+   If you change `scripts/validate.ts`, also run `npm run typecheck`.
 3. Open a pull request saying what the Reason did before, what it does now, and why
    that is better for the person using it.
 

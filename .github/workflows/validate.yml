@@ -18,6 +18,7 @@ jobs:
           persist-credentials: false
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
       - run: npm install --no-audit --no-fund --no-package-lock
+      - run: npm run typecheck
       - run: npm test

@@ -66,6 +66,18 @@ Definitions are public, so they hold no credentials, private hostnames or custom
 data. `npm test` checks every manifest against the schemas, every folder it names,
 and that nothing private slipped in. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+The checks are TypeScript in [`scripts/validate.ts`](scripts/validate.ts) and run on
+Node 22.18 or later with no build step. `npm run typecheck` type-checks them.
+
+## Where these files come from
+
+Reason's own repository is the source of truth. The marketplace and the plugin list
+in the product are built from the same definitions, and a sync job regenerates
+`reasons/`, `plugins/` and `.reason-plugin/marketplace.json` here whenever they
+change. A pull request here is reviewed by the Reason team and, once accepted, is
+ported into the product; it reaches the marketplace with the next release and then
+shows up here through the sync.
+
 ## All Reasons
 
 | Reason | What it does | Category | Plugins |

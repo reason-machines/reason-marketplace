@@ -5,10 +5,16 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "test": "node scripts/validate.mjs"
+    "test": "node scripts/validate.ts",
+    "typecheck": "tsc"
   },
   "devDependencies": {
+    "@types/node": "^24.19.2",
     "ajv": "^8.17.1",
+    "typescript": "^5.9.3",
     "yaml": "^2.8.1"
+  },
+  "engines": {
+    "node": ">=22.18"
   }
 }
