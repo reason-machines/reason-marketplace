@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "meeting-action-tracker",
+  "displayName": "Meeting Action Tracker",
+  "description": "Finds the promises, decisions and follow-ups left in meetings and makes sure they get done. Works from Granola or Fireflies notes or a pasted transcript, and never files tickets or messages anyone without you.",
+  "categories": [
+    "operations",
+    "sales",
+    "product"
+  ],
+  "appearance": {
+    "color": "brown",
+    "eyes": "pills",
+    "glasses": "none",
+    "accessory": "cap"
+  },
+  "plugins": [
+    "granola",
+    "fireflies",
+    "linear"
+  ],
+  "skills": [
+    "getting-started",
+    "extract-actions",
+    "open-actions-report",
+    "file-as-tickets",
+    "customer-promise-check"
+  ]
+}

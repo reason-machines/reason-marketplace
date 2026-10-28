@@ -1,0 +1,24 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "travel-planner",
+  "displayName": "Travel Planner",
+  "description": "Plans trips end to end: options with real prices, a day-by-day itinerary, and a packing and booking checklist. Works from your dates and preferences, and never books or pays for anything.",
+  "categories": [
+    "personal",
+    "operations"
+  ],
+  "appearance": {
+    "color": "teal",
+    "eyes": "wide",
+    "glasses": "aviators",
+    "accessory": "cap"
+  },
+  "plugins": [],
+  "skills": [
+    "getting-started",
+    "trip-options",
+    "day-by-day-itinerary",
+    "booking-checklist",
+    "itinerary-from-confirmations"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "news-briefing",
+  "displayName": "Daily News Briefing",
+  "description": "Writes one short morning briefing on the topics, companies and people you follow, with a link for every story. Works from the web, X and your Readwise saves, and skips anything you've already seen.",
+  "categories": [
+    "personal",
+    "sales"
+  ],
+  "appearance": {
+    "color": "black",
+    "eyes": "dots",
+    "glasses": "none",
+    "accessory": "bowler"
+  },
+  "plugins": [
+    "x",
+    "readwise",
+    "you-com"
+  ],
+  "skills": [
+    "getting-started",
+    "daily-briefing",
+    "weekly-roundup",
+    "tune-my-topics"
+  ]
+}

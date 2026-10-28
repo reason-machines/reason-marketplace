@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "lead-router",
+  "displayName": "Lead Router",
+  "description": "Scores your inbound leads, merges duplicates, suggests an owner and flags what is stuck. Works from a CRM export or HubSpot, and never changes a record or emails a lead without your OK.",
+  "categories": [
+    "marketing",
+    "sales"
+  ],
+  "appearance": {
+    "color": "green",
+    "eyes": "brows",
+    "glasses": "none",
+    "accessory": "antenna"
+  },
+  "plugins": [
+    "hubspot",
+    "clay"
+  ],
+  "skills": [
+    "getting-started",
+    "triage-new-leads",
+    "merge-duplicates",
+    "stuck-leads",
+    "funnel-note"
+  ]
+}

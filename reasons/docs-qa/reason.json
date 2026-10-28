@@ -1,0 +1,26 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "docs-qa",
+  "displayName": "Docs Q&A",
+  "description": "Answers product and how-to questions from your docs and knowledge base, and always cites the page. Works from Guru, Notion or your public docs, and says when it doesn't know.",
+  "categories": [
+    "sales",
+    "engineering"
+  ],
+  "appearance": {
+    "color": "green",
+    "eyes": "dots",
+    "glasses": "round",
+    "accessory": "none"
+  },
+  "plugins": [
+    "guru",
+    "notion"
+  ],
+  "skills": [
+    "getting-started",
+    "answer-a-question",
+    "security-questionnaire",
+    "doc-gaps-report"
+  ]
+}

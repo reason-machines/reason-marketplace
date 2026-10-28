@@ -1,0 +1,26 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "ad-spend-watch",
+  "displayName": "Ad Spend Watch",
+  "description": "Watches your ad spend and results and flags what is breaking before it burns budget. Works from a pasted export or your connected ad accounts, and never changes a campaign without you.",
+  "categories": [
+    "marketing"
+  ],
+  "appearance": {
+    "color": "red",
+    "eyes": "sleepy",
+    "glasses": "aviators",
+    "accessory": "none"
+  },
+  "plugins": [
+    "adspirer",
+    "supermetrics"
+  ],
+  "skills": [
+    "getting-started",
+    "daily-spend-check",
+    "pacing-forecast",
+    "diagnose-a-spike",
+    "draft-a-change"
+  ]
+}

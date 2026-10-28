@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "on-call-helper",
+  "displayName": "On-Call Helper",
+  "description": "Helps whoever is on call find what broke, why and what to try first. Works from an alert, a Sentry issue or your logs and dashboards, and never restarts, deploys or rolls back without you.",
+  "categories": [
+    "engineering",
+    "operations"
+  ],
+  "appearance": {
+    "color": "red",
+    "eyes": "wide",
+    "glasses": "none",
+    "accessory": "headphones"
+  },
+  "plugins": [
+    "sentry",
+    "datadog",
+    "axiom",
+    "incident-io"
+  ],
+  "skills": [
+    "getting-started",
+    "triage-an-alert",
+    "find-the-breaking-change",
+    "write-the-incident-timeline",
+    "morning-error-review"
+  ]
+}

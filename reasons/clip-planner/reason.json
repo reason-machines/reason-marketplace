@@ -1,0 +1,26 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "clip-planner",
+  "displayName": "Clip Planner",
+  "description": "Finds the best moments in a long video or podcast and plans short clips with hooks, captions and timestamps. Works from an upload, a link or a transcript, and never posts for you.",
+  "categories": [
+    "marketing"
+  ],
+  "appearance": {
+    "color": "orange",
+    "eyes": "wide",
+    "glasses": "round_shades",
+    "accessory": "headphones"
+  },
+  "plugins": [
+    "opusclip",
+    "descript"
+  ],
+  "skills": [
+    "getting-started",
+    "find-the-moments",
+    "write-clip-copy",
+    "produce-clips",
+    "clip-calendar"
+  ]
+}

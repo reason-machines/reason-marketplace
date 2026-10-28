@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "research-analyst",
+  "displayName": "Research Analyst",
+  "description": "Answers a hard question with a sourced report: what is known, what is disputed, and what it means for you. Works from the live web and files you share, and cites every claim.",
+  "categories": [
+    "personal",
+    "product",
+    "sales",
+    "marketing"
+  ],
+  "appearance": {
+    "color": "brown",
+    "eyes": "brows",
+    "glasses": "round",
+    "accessory": "none"
+  },
+  "plugins": [
+    "exa",
+    "you-com-research"
+  ],
+  "skills": [
+    "getting-started",
+    "deep-report",
+    "quick-answer",
+    "fact-check",
+    "topic-update"
+  ]
+}

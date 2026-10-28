@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "qa-walker",
+  "displayName": "QA Walker",
+  "description": "Walks your app in a real browser like a user would, runs your acceptance checklist and reports pass or fail with screenshots. Works from a URL and your checklist, and never files bugs without you.",
+  "categories": [
+    "engineering",
+    "product"
+  ],
+  "appearance": {
+    "color": "teal",
+    "eyes": "wide",
+    "glasses": "magnifier",
+    "accessory": "none"
+  },
+  "plugins": [
+    "jam",
+    "linear"
+  ],
+  "skills": [
+    "getting-started",
+    "run-an-acceptance-checklist",
+    "daily-smoke-test",
+    "reproduce-a-bug-report",
+    "file-the-bugs"
+  ]
+}

@@ -1,12 +1,145 @@
 # Reason Marketplace
 
-The plugins you can connect to [Reason](https://reasonmachines.com), the autonomous
-software engineer. Each plugin gives Reason's agents the tools of a hosted MCP
+The Reasons and plugins of [Reason](https://reasonmachines.com), the autonomous
+software engineer, as open source.
+
+- **Reasons** are ready-made agents: a job, instructions, playbooks (skills), a face
+  and the plugins they work with. This repository holds 70 ready-made Reasons, every
+  one the Reason team lists in the marketplace, defined as code.
+- **Plugins** connect Reason to the tools you use. Each plugin gives Reason's agents the tools of a hosted MCP
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
 This repository lists 385 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
+
+## Add a Reason
+
+1. Open the **Marketplace** in Reason
+   ([reasonmachines.com/marketplace](https://reasonmachines.com/marketplace)).
+2. Pick a Reason and select **Add**. It arrives with its instructions and skills.
+3. Sign in to the plugins it asks for.
+
+Everything a Reason is lives in its folder under [`reasons/`](reasons), so you can
+read exactly what it will do before you add it, fork it, or copy its skills into
+any agent that reads `SKILL.md` files.
+
+## Reasons as code
+
+```
+reasons/marketplace.json                 which Reasons the marketplace lists, in order, and the Featured row
+reasons/schema/reason.schema.json        JSON Schema for reason.json
+reasons/schema/marketplace.schema.json   JSON Schema for marketplace.json
+reasons/<name>/reason.json               the manifest
+reasons/<name>/INSTRUCTIONS.md           the Reason's instructions
+reasons/<name>/skills/<skill>/SKILL.md   one playbook each
+```
+
+A manifest looks like this:
+
+```json
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "pr-reviewer",
+  "displayName": "PR Reviewer",
+  "description": "Reviews your pull requests for bugs, risky changes and missing tests…",
+  "categories": ["engineering", "product"],
+  "appearance": { "color": "blue", "eyes": "brows", "glasses": "square_shades", "accessory": "none" },
+  "plugins": ["linear", "sentry"],
+  "skills": ["getting-started", "review-a-pull-request", "post-inline-comments"]
+}
+```
+
+- `name` is the Reason's stable id and equals its folder name.
+- `displayName` is at most 40 characters; `description`, the marketplace card line,
+  at most 220.
+- `categories`: the first is its own category; the rest are where else it is listed.
+- `appearance` is its bot face (add `"shape"` for something other than the hexagon).
+- `plugins` are folder names under [`plugins/`](plugins); whoever adds the Reason
+  signs in to each.
+- `skills` are folder names under the Reason's `skills/`, in order; the first is
+  always "Getting started". Each `SKILL.md` has `name` and `description`
+  frontmatter, then the playbook in Markdown.
+- `INSTRUCTIONS.md` is at most 16,000 characters.
+
+Definitions are public, so they hold no credentials, private hostnames or customer
+data. `npm test` checks every manifest against the schemas, every folder it names,
+and that nothing private slipped in. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## All Reasons
+
+| Reason | What it does | Category | Plugins |
+| --- | --- | --- | --- |
+| [PR Reviewer](reasons/pr-reviewer) (featured) | Reviews your pull requests for bugs, risky changes and missing tests, then leaves inline comments. Works from a PR link or your connected GitHub repos, and never approves or merges without you. | Engineering | [linear](plugins/linear), [sentry](plugins/sentry) |
+| [Release Manager](reasons/release-manager) | Turns merged pull requests into release notes, a go/no-go checklist and a post-release health check. Works from your GitHub repos and deploys, and never tags, deploys or announces without you. | Engineering | [linear](plugins/linear), [sentry](plugins/sentry), [vercel](plugins/vercel) |
+| [On-Call Helper](reasons/on-call-helper) | Helps whoever is on call find what broke, why and what to try first. Works from an alert, a Sentry issue or your logs and dashboards, and never restarts, deploys or rolls back without you. | Engineering | [sentry](plugins/sentry), [datadog](plugins/datadog), [axiom](plugins/axiom), [incident-io](plugins/incident-io) |
+| [Standup Summarizer](reasons/standup-summarizer) | Turns your team's merged work, open PRs and issue updates into a short daily standup. Works from GitHub, Linear or Jira, or notes people paste, and never posts to a channel without you. | Engineering | [linear](plugins/linear), [jira](plugins/jira) |
+| [Nightly Code Audit](reasons/nightly-code-audit) | Audits one area of your codebase each night for dead code, bugs and risky patterns, then opens one small cleanup PR. Works from your connected GitHub repos, and never merges without you. | Engineering | [sentry](plugins/sentry) |
+| [Engineering Lead](reasons/engineering-lead) | Keeps your team's work moving: breaks goals into issues, starts agents on clear tasks, chases CI and reviews, and flags what is stuck. Works from GitHub and Linear, and never merges without you. | Engineering | [linear](plugins/linear), [sentry](plugins/sentry), circleci |
+| [QA Walker](reasons/qa-walker) | Walks your app in a real browser like a user would, runs your acceptance checklist and reports pass or fail with screenshots. Works from a URL and your checklist, and never files bugs without you. | Engineering | [jam](plugins/jam), [linear](plugins/linear) |
+| [Sales Prospecting](reasons/sales-prospecting) (featured) | Turns your ideal customer profile into a researched prospect list with a first message for each person. Works from Apollo, HubSpot or a pasted list, and never sends without you. | Sales | [apollo-io](plugins/apollo-io), [hubspot](plugins/hubspot), [hunter](plugins/hunter), [clay](plugins/clay) |
+| [Account Research](reasons/account-research) | Researches one account before a meeting or deal review and writes a one-page brief and account plan. Works from the public web and your HubSpot history, and cites every fact. | Sales | [exa](plugins/exa), [hubspot](plugins/hubspot), [similarweb](plugins/similarweb) |
+| [Sales Call Coach](reasons/sales-call-coach) | Scores your sales calls and tells you the two things to fix before the next one. Works from Gong, Fathom or a pasted transcript, and quotes the call word for word. | Sales | [gong](plugins/gong), [fathom](plugins/fathom) |
+| [Pipeline Review](reasons/pipeline-review) | Scans your whole pipeline for what moved, what stalled and where the forecast is at risk. Works from HubSpot or Attio, or a pipeline export, and never edits a deal without you. | Sales | [hubspot](plugins/hubspot), [attio](plugins/attio) |
+| [Deal Inspector](reasons/deal-inspector) | Checks every deal that moved stage against your qualification criteria using the actual call transcripts. Quotes the evidence, and never changes a deal without you. | Sales | [gong](plugins/gong), [hubspot](plugins/hubspot) |
+| [Call Follow-Ups](reasons/call-follow-ups) | Turns each recorded call into a follow-up email in your voice, a next-steps note and the CRM updates. Works from Granola, Fireflies or a pasted transcript, and never sends without you. | Sales | [granola](plugins/granola), [fireflies](plugins/fireflies), [hubspot](plugins/hubspot), [microsoft-365-mail](plugins/microsoft-365-mail) |
+| [Intent Signals](reasons/intent-signals) | Finds the accounts and people in your CRM and product data that just showed buying intent, ranks them and drafts the outreach. Works from PostHog, HubSpot and Clay, and never sends without you. | Sales | [posthog](plugins/posthog), [hubspot](plugins/hubspot), [clay](plugins/clay) |
+| [Hiring Signals](reasons/hiring-signals) | Tracks job posts at the companies you sell to and tells you when a new role means they need what you sell. Works from a pasted account list or the public web, and links every post. | Sales | [exa](plugins/exa), [clay](plugins/clay) |
+| [Warm Intro Finder](reasons/warm-intros) | Finds credible ways into a target account through people you already know: past conversations, shared history and mutual contacts. Works from Attio and your Outlook mail, and never asks for an intro without you. | Sales | [attio](plugins/attio), [microsoft-365-mail](plugins/microsoft-365-mail) |
+| [QBR Deck Builder](reasons/qbr-deck-builder) | Builds a quarterly business review or value deck for a named account from your CRM, call history and billing. Works from HubSpot, Gong and Stripe, and shows the source of every number. | Sales | [hubspot](plugins/hubspot), [gong](plugins/gong), [stripe](plugins/stripe) |
+| [Customer Proof Writer](reasons/customer-proof) | Turns call transcripts and notes into case studies, testimonials and proof points. Quotes stay word for word, and nothing is published until the customer approves it. | Sales | [gong](plugins/gong), [granola](plugins/granola) |
+| [Renewal Watch](reasons/renewal-watch) | Watches upcoming renewals and flags accounts at risk of churning, with the reasons and a save plan. Works from Stripe, HubSpot and PostHog, and never contacts a customer without you. | Sales | [stripe](plugins/stripe), [hubspot](plugins/hubspot), [posthog](plugins/posthog) |
+| [Battlecards](reasons/battlecards) | Keeps a battlecard for each competitor: how they pitch, where they win, where you win and what to say. Works from the public web and your Gong calls, and cites every claim. | Sales | [exa](plugins/exa), [gong](plugins/gong) |
+| [Docs Q&A](reasons/docs-qa) | Answers product and how-to questions from your docs and knowledge base, and always cites the page. Works from Guru, Notion or your public docs, and says when it doesn't know. | Sales | [guru](plugins/guru), [notion](plugins/notion) |
+| [Content Writer](reasons/content-writer) | Turns a topic, brief or rough notes into a researched draft in your voice: blog posts, guides and landing copy. Works from your past posts and sources, and never publishes without you. | Marketing | [notion](plugins/notion), [wordpress-com](plugins/wordpress-com), [webflow](plugins/webflow) |
+| [AI Search Visibility](reasons/ai-search-visibility) (featured) | Checks whether AI assistants and answer engines recommend you, and who they name instead. Starts from a few buyer questions you care about, and every finding links to the answer it came from. | Marketing | [profound](plugins/profound), [peec-ai](plugins/peec-ai) |
+| [SEO Brief Desk](reasons/seo-briefs) | Turns your keywords into content ideas and writer-ready briefs built for search and AI answers. Works from a pasted list or your Ahrefs or Semrush data, and cites every number. | Marketing | [ahrefs](plugins/ahrefs), [semrush-api-key](plugins/semrush-api-key) |
+| [Ad Spend Watch](reasons/ad-spend-watch) | Watches your ad spend and results and flags what is breaking before it burns budget. Works from a pasted export or your connected ad accounts, and never changes a campaign without you. | Marketing | [adspirer](plugins/adspirer), [supermetrics](plugins/supermetrics) |
+| [Paid Media Report](reasons/paid-media-report) | Turns your search, Meta, LinkedIn, X and TikTok ad results into one weekly report with plain commentary. Works from exports or connected accounts, and every number traces to its source. | Marketing | [supermetrics](plugins/supermetrics), [windsor-ai](plugins/windsor-ai), [x-ads](plugins/x-ads), [tiktok-for-business](plugins/tiktok-for-business) |
+| [Competitor Watch](reasons/competitor-watch) | Tracks competitors' pricing, product, messaging and hiring pages and briefs you only on real changes. Starts from a list of names or URLs, and every change links to the before and after. | Marketing | [firecrawl](plugins/firecrawl), [similarweb](plugins/similarweb) |
+| [Copy Editor](reasons/copy-editor) | Edits your drafts, emails and pages so they read like a person wrote them. Keeps your voice and facts, shows every change and why, and never adds a claim you did not make. | Marketing | None |
+| [Clip Planner](reasons/clip-planner) | Finds the best moments in a long video or podcast and plans short clips with hooks, captions and timestamps. Works from an upload, a link or a transcript, and never posts for you. | Marketing | [opusclip](plugins/opusclip), [descript](plugins/descript) |
+| [Social Post Planner](reasons/social-post-planner) | Turns your launches, posts and ideas into a week of social drafts in your voice for X, LinkedIn and more. Works from your notes and past posts, and nothing is scheduled until you approve it. | Marketing | [buffer](plugins/buffer), [x](plugins/x) |
+| [Newsletter Editor](reasons/newsletter-editor) | Turns your week's links, notes and launches into a newsletter issue in your voice. Works from beehiiv or Kit and your notes, and saves it as a draft; it never sends to subscribers. | Marketing | [beehiiv](plugins/beehiiv), [kit](plugins/kit) |
+| [Lead Router](reasons/lead-router) | Scores your inbound leads, merges duplicates, suggests an owner and flags what is stuck. Works from a CRM export or HubSpot, and never changes a record or emails a lead without your OK. | Marketing | [hubspot](plugins/hubspot), [clay](plugins/clay) |
+| [Mention Watch](reasons/mention-watch) | Watches news, X, forums and blogs for mentions of your brand, people and URLs, then sends you the ones worth acting on. Works from your keywords and Meltwater or X, and never replies for you. | Marketing | [meltwater](plugins/meltwater), [x](plugins/x), [exa](plugins/exa) |
+| [Site Audit](reasons/site-audit) | Audits your website for search, content, speed, accessibility and conversion issues, scored P0 to P2 with evidence URLs. Works from your domain, and can open fixes as PRs if your site repo is on GitHub. | Marketing | [ahrefs](plugins/ahrefs), [firecrawl](plugins/firecrawl) |
+| [Event Producer](reasons/event-producer) | Turns your event details into a run of show, guest list, vendor tracker and day-of checklist. Works from Notion, Airtable or what you paste, and never contacts guests or vendors without you. | Marketing | [notion](plugins/notion), [airtable](plugins/airtable) |
+| [Launch Planner](reasons/launch-planner) | Turns a feature or product launch into a positioning brief, launch plan and every asset draft, from announcement to FAQ. Works from your specs and Linear or Notion, and never publishes for you. | Marketing | [notion](plugins/notion), [linear](plugins/linear) |
+| [Design Critique](reasons/design-critique) | Turns a screenshot, live page or design link into a ranked critique with concrete fixes for hierarchy, type, spacing, color and flow. Works from what you share and real product references. | Design | [mobbin](plugins/mobbin), [refero](plugins/refero) |
+| [Design to Spec](reasons/design-to-spec) | Turns a design frame or screenshot into a build spec engineers can work from: layout, variables, states, behavior and open questions. Works from what you share, and files tickets only when you ask. | Design | [linear](plugins/linear) |
+| [Alt Text Writer](reasons/alt-text-writer) | Writes short, useful alt text for your images, focused on what matters in context. Works from uploads, a page URL or a folder of images, and never changes your site without you. | Design | None |
+| [Social Graphics](reasons/social-graphics) | Turns an announcement, quote or stat into on-brand social graphics in every size you need. Works in Canva from your brand kit and templates, and never posts anything for you. | Design | [canva](plugins/canva) |
+| [Landing Page Builder](reasons/landing-page-builder) | Turns a brief into a working landing page: copy, structure and a live draft. Builds in Framer or Webflow, or as code in your repo, and never publishes without you. | Design | [framer](plugins/framer), [webflow](plugins/webflow) |
+| [Inbox & Calendar Assistant](reasons/inbox-calendar-assistant) (featured) | Sorts your inbox into what needs you today, drafts the replies, and keeps your calendar honest. Works from Outlook or pasted threads, and never sends or books without your OK. | Personal | [microsoft-365-mail](plugins/microsoft-365-mail), [microsoft-365-calendar](plugins/microsoft-365-calendar), [calendly](plugins/calendly) |
+| [Research Analyst](reasons/research-analyst) | Answers a hard question with a sourced report: what is known, what is disputed, and what it means for you. Works from the live web and files you share, and cites every claim. | Personal | [exa](plugins/exa), [you-com-research](plugins/you-com-research) |
+| [Daily News Briefing](reasons/news-briefing) | Writes one short morning briefing on the topics, companies and people you follow, with a link for every story. Works from the web, X and your Readwise saves, and skips anything you've already seen. | Personal | [x](plugins/x), [readwise](plugins/readwise), [you-com](plugins/you-com) |
+| [Writing Partner](reasons/writing-partner) | Helps you draft and revise essays, emails, posts and docs. Asks what the piece must do, works in passes, and shows every change, keeping your voice instead of replacing it. | Personal | None |
+| [Travel Planner](reasons/travel-planner) | Plans trips end to end: options with real prices, a day-by-day itinerary, and a packing and booking checklist. Works from your dates and preferences, and never books or pays for anything. | Personal | None |
+| [Family Logistics](reasons/family-logistics) | Keeps the family calendar, school forms, activities and errands in one place and tells you what's due this week. Works from Outlook, Todoist and pasted school emails, and never signs or pays for you. | Personal | [microsoft-365-calendar](plugins/microsoft-365-calendar), [todoist](plugins/todoist) |
+| [Money Check-In](reasons/money-check-in) | Turns your statements into a clear monthly picture: where money went, subscriptions to cut, and which card to use for what. Works from CSVs or PDFs you upload, and never moves money. | Personal | None |
+| [Training Coach](reasons/training-coach) | Plans your training week, checks in each day, and adjusts the plan when life gets in the way. Works from what you tell it and logs you share, and never gives medical advice. | Personal | None |
+| [Deal Hunter](reasons/deal-hunter) | Finds the real lowest price for something you want, including shipping, tax and returns, and watches it if you like. Works from a product name or link, and never buys anything for you. | Personal | None |
+| [Plant Care Log](reasons/plant-care-log) | Keeps a care journal for your houseplants and reminds you what needs water, light or repotting. Works from photos and notes you share, and tells you when to ask an expert. | Personal | None |
+| [Library Scout](reasons/library-scout) | Picks one promising new library or tool each week from your X feed and saves, then builds a small working demo in a sandbox. Works from accounts and topics you choose, and asks before building. | Personal | [x](plugins/x), [readwise](plugins/readwise) |
+| [Recruiting Screener](reasons/recruiting-screener) | Screens applicants against your role's must-haves and writes a short, evidence-backed note on each. Works from Ashby, Greenhouse, Workable or pasted resumes, and never rejects or contacts anyone without you. | Recruiting & People | [ashby](plugins/ashby), [greenhouse](plugins/greenhouse), [workable](plugins/workable) |
+| [Interview Coordinator](reasons/interview-coordinator) | Schedules interview loops, briefs each interviewer, and chases missing feedback. Works from your Outlook calendar and Ashby or Greenhouse, and never sends an invite or email without your OK. | Recruiting & People | [microsoft-365-calendar](plugins/microsoft-365-calendar), [ashby](plugins/ashby), [greenhouse](plugins/greenhouse) |
+| [Talent Sourcer](reasons/talent-sourcer) | Finds people who fit an open role and aren't already in your pipeline, and drafts a personal first note to each. Works from Juicebox and public profiles, and never messages anyone without you. | Recruiting & People | [juicebox](plugins/juicebox), [exa](plugins/exa) |
+| [New Hire Onboarding](reasons/new-hire-onboarding) | Builds each new hire's first-30-days plan and checklist, and makes sure accounts, buddy and intro meetings are set before day one. Works from Notion, Gusto and your notes, and never changes payroll. | Recruiting & People | [notion](plugins/notion), [gusto](plugins/gusto) |
+| [Product Spec Writer](reasons/product-spec-writer) | Turns a rough idea, a customer ask or a thread into a dated spec: what's in, what's out, and how you'll know it's done. Works from notes you paste or your Linear and Notion, and never files tickets without you. | Product | [linear](plugins/linear), [notion](plugins/notion), [chatprd](plugins/chatprd) |
+| [Data Analyst](reasons/data-analyst) | Answers questions about your product and business with real numbers, charts and the query behind them. Works from a CSV you upload or your PostHog, Hex, Amplitude or Mixpanel, and never guesses a metric. | Product | [posthog](plugins/posthog), [hex](plugins/hex), [amplitude](plugins/amplitude), [mixpanel](plugins/mixpanel) |
+| [Idea Stress Test](reasons/idea-stress-test) | Pressure-tests a product or startup idea: what has to be true, the evidence for and against, and the cheapest test to run next. Works from a one-line pitch or a doc, and cites every source. | Product | [exa](plugins/exa) |
+| [Customer Feedback Digest](reasons/customer-feedback-digest) | Turns support threads, feedback and survey answers into themes ranked by how many customers raised them, with quotes word for word. Works from an export or your Enterpret, Intercom or Plain. | Product | [enterpret](plugins/enterpret), [intercom-api-key](plugins/intercom-api-key), [plain](plugins/plain) |
+| [Prototype Builder](reasons/prototype-builder) | Turns an idea into a working prototype in your real app, opened as a draft pull request with a preview link and screenshots. Works on your connected GitHub repo, and never merges without you. | Product | [vercel](plugins/vercel), [linear](plugins/linear) |
+| [Interview Synthesizer](reasons/interview-synthesizer) | Turns user interviews and usability sessions into findings with quotes, patterns across people, and what to do next. Works from transcripts you upload or your Granola and UserTesting, and quotes word for word. | Product | [granola](plugins/granola), [usertesting](plugins/usertesting) |
+| [Experiment Readout](reasons/experiment-readout) | Reads your A/B tests and feature rollouts and says what won, by how much, and how sure we are. Works from Statsig, LaunchDarkly or PostHog, or an export, and never flips a flag without you. | Product | [statsig](plugins/statsig), [launchdarkly](plugins/launchdarkly), [posthog](plugins/posthog) |
+| [Support Triage](reasons/support-triage) | Sorts incoming support by urgency and topic, drafts answers from your docs, and turns real bugs into tickets. Works from Plain, Intercom or Pylon, or pasted threads, and never replies to a customer without you. | Operations | [plain](plugins/plain), [intercom-api-key](plugins/intercom-api-key), [pylon](plugins/pylon), [linear](plugins/linear) |
+| [Executive Assistant](reasons/executive-assistant) | Runs an executive's week: daily brief, meeting prep, scheduling drafts and follow-ups. Works from Outlook mail and calendar and your Notion, and never sends, accepts or books without you. | Operations | [microsoft-365-calendar](plugins/microsoft-365-calendar), [microsoft-365-mail](plugins/microsoft-365-mail), [notion](plugins/notion) |
+| [Meeting Action Tracker](reasons/meeting-action-tracker) | Finds the promises, decisions and follow-ups left in meetings and makes sure they get done. Works from Granola or Fireflies notes or a pasted transcript, and never files tickets or messages anyone without you. | Operations | [granola](plugins/granola), [fireflies](plugins/fireflies), [linear](plugins/linear) |
+| [Software Spend Review](reasons/software-spend-review) | Lists every software subscription you pay for and finds evidence-backed savings: unused seats, duplicates and renewals to renegotiate. Works from Ramp, Brex or Vantage, or a card export, and never cancels anything. | Operations | [ramp](plugins/ramp), [brex](plugins/brex), [vantage](plugins/vantage) |
+| [Office Ops Desk](reasons/office-ops-desk) | Keeps the office running: visitors, deliveries, supplies, facilities issues and team dates, with a weekly digest. Works from Envoy and Notion or a pasted list, and never orders or books anything without you. | Operations | [envoy](plugins/envoy), [notion](plugins/notion) |
+| [Event Request Desk](reasons/event-request-desk) | Scores every event, sponsorship and speaking invite against your goals and drafts your yes or no. Works from requests you forward or paste, and never accepts, declines or pays without you. | Operations | None |
+| [Invoice Chaser](reasons/invoice-chaser) | Finds overdue invoices, drafts friendly reminders that get paid, and keeps a clean aging report. Works from Stripe or an invoice export, and never sends a reminder or changes an invoice without you. | Operations | [stripe](plugins/stripe) |
 
 ## Connect a plugin in Reason
 
@@ -22,7 +155,7 @@ custom MCP server from the same page.
 Built into Reason, and not listed here: **GitHub** (repositories and pull requests),
 **Slack** (work with Reason in Slack), **Chrome**, and **Computer Use**.
 
-## Layout
+## Plugin layout
 
 ```
 .reason-plugin/marketplace.json     every plugin in this repository

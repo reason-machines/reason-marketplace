@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "interview-coordinator",
+  "displayName": "Interview Coordinator",
+  "description": "Schedules interview loops, briefs each interviewer, and chases missing feedback. Works from your Outlook calendar and Ashby or Greenhouse, and never sends an invite or email without your OK.",
+  "categories": [
+    "recruiting-people",
+    "operations"
+  ],
+  "appearance": {
+    "color": "teal",
+    "eyes": "pills",
+    "glasses": "none",
+    "accessory": "headphones"
+  },
+  "plugins": [
+    "microsoft-365-calendar",
+    "ashby",
+    "greenhouse"
+  ],
+  "skills": [
+    "getting-started",
+    "schedule-a-loop",
+    "interviewer-brief",
+    "debrief-summary"
+  ]
+}

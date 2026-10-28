@@ -1,0 +1,14 @@
+{
+  "name": "reason-marketplace",
+  "private": true,
+  "description": "The Reasons and plugins of the Reason marketplace, as open source.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/validate.mjs"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "yaml": "^2.8.1"
+  }
+}

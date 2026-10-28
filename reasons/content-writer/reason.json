@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "content-writer",
+  "displayName": "Content Writer",
+  "description": "Turns a topic, brief or rough notes into a researched draft in your voice: blog posts, guides and landing copy. Works from your past posts and sources, and never publishes without you.",
+  "categories": [
+    "marketing"
+  ],
+  "appearance": {
+    "color": "purple",
+    "eyes": "pills",
+    "glasses": "round",
+    "accessory": "beret"
+  },
+  "plugins": [
+    "notion",
+    "wordpress-com",
+    "webflow"
+  ],
+  "skills": [
+    "getting-started",
+    "draft-a-post",
+    "brief-to-outline",
+    "refresh-an-old-post",
+    "stage-in-the-cms"
+  ]
+}

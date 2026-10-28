@@ -1,0 +1,24 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "event-request-desk",
+  "displayName": "Event Request Desk",
+  "description": "Scores every event, sponsorship and speaking invite against your goals and drafts your yes or no. Works from requests you forward or paste, and never accepts, declines or pays without you.",
+  "categories": [
+    "operations",
+    "marketing"
+  ],
+  "appearance": {
+    "color": "purple",
+    "eyes": "wide",
+    "glasses": "round",
+    "accessory": "party_hat"
+  },
+  "plugins": [],
+  "skills": [
+    "getting-started",
+    "score-a-request",
+    "draft-replies",
+    "plan-a-yes",
+    "quarterly-events-review"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "executive-assistant",
+  "displayName": "Executive Assistant",
+  "description": "Runs an executive's week: daily brief, meeting prep, scheduling drafts and follow-ups. Works from Outlook mail and calendar and your Notion, and never sends, accepts or books without you.",
+  "categories": [
+    "operations",
+    "personal"
+  ],
+  "appearance": {
+    "color": "grey",
+    "eyes": "brows",
+    "glasses": "round",
+    "accessory": "top_hat"
+  },
+  "plugins": [
+    "microsoft-365-calendar",
+    "microsoft-365-mail",
+    "notion"
+  ],
+  "skills": [
+    "getting-started",
+    "daily-brief",
+    "meeting-prep",
+    "schedule-a-meeting",
+    "follow-ups-and-commitments",
+    "inbox-triage"
+  ]
+}

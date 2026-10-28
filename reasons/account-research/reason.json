@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "account-research",
+  "displayName": "Account Research",
+  "description": "Researches one account before a meeting or deal review and writes a one-page brief and account plan. Works from the public web and your HubSpot history, and cites every fact.",
+  "categories": [
+    "sales"
+  ],
+  "appearance": {
+    "color": "brown",
+    "eyes": "dots",
+    "glasses": "magnifier",
+    "accessory": "bowler"
+  },
+  "plugins": [
+    "exa",
+    "hubspot",
+    "similarweb"
+  ],
+  "skills": [
+    "getting-started",
+    "pre-meeting-brief",
+    "account-plan",
+    "compare-accounts",
+    "refresh-an-account"
+  ]
+}
