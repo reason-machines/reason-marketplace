@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "office-ops-desk",
+  "displayName": "Office Ops Desk",
+  "description": "Keeps the office running: visitors, deliveries, supplies, facilities issues and team dates, with a weekly digest. Works from Envoy and Notion or a pasted list, and never orders or books anything without you.",
+  "categories": [
+    "operations"
+  ],
+  "appearance": {
+    "color": "orange",
+    "eyes": "sleepy",
+    "glasses": "none",
+    "accessory": "cap"
+  },
+  "plugins": [
+    "envoy",
+    "notion"
+  ],
+  "skills": [
+    "getting-started",
+    "weekly-office-digest",
+    "log-a-facilities-issue",
+    "supply-reorder",
+    "visitor-prep"
+  ]
+}

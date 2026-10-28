@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "sales-call-coach",
+  "displayName": "Sales Call Coach",
+  "description": "Scores your sales calls and tells you the two things to fix before the next one. Works from Gong, Fathom or a pasted transcript, and quotes the call word for word.",
+  "categories": [
+    "sales"
+  ],
+  "appearance": {
+    "color": "red",
+    "eyes": "pills",
+    "glasses": "none",
+    "accessory": "headphones"
+  },
+  "plugins": [
+    "gong",
+    "fathom"
+  ],
+  "skills": [
+    "getting-started",
+    "review-one-call",
+    "weekly-scorecard",
+    "prep-for-the-next-call",
+    "objection-library"
+  ]
+}

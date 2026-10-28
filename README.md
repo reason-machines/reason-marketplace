@@ -27,19 +27,22 @@ any agent that reads `SKILL.md` files.
 ## Reasons as code
 
 ```
-reasons/marketplace.json                 which Reasons the marketplace lists, in order, and the Featured row
-reasons/schema/reason.schema.json        JSON Schema for reason.json
-reasons/schema/marketplace.schema.json   JSON Schema for marketplace.json
-reasons/<name>/reason.json               the manifest
-reasons/<name>/INSTRUCTIONS.md           the Reason's instructions
-reasons/<name>/skills/<skill>/SKILL.md   one playbook each
+.reason-plugin/marketplace.json                    everything the marketplace lists: Reasons in order, the Featured row, plugins
+schema/                                            JSON Schemas for the index, reason.json and plugin.json
+reasons/<name>/.reason-plugin/reason.json          the manifest
+reasons/<name>/INSTRUCTIONS.md                     the Reason's instructions
+reasons/<name>/skills/<skill>/SKILL.md             one playbook each
 ```
+
+The layout follows Cursor's [`cursor/plugins`](https://github.com/cursor/plugins) and xAI's
+[`plugin-marketplace`](https://github.com/xai-org/plugin-marketplace): one folder per listing, its manifest in a
+`.reason-plugin/` folder, and one index at the root.
 
 A manifest looks like this:
 
 ```json
 {
-  "$schema": "../schema/reason.schema.json",
+  "$schema": "../../../schema/reason.schema.json",
   "name": "pr-reviewer",
   "displayName": "PR Reviewer",
   "description": "Reviews your pull requests for bugs, risky changes and missing tests…",
@@ -55,28 +58,44 @@ A manifest looks like this:
   at most 220.
 - `categories`: the first is its own category; the rest are where else it is listed.
 - `appearance` is its bot face (add `"shape"` for something other than the hexagon).
-- `plugins` are folder names under [`plugins/`](plugins); whoever adds the Reason
-  signs in to each.
-- `skills` are folder names under the Reason's `skills/`, in order; the first is
+- `plugins` are plugin names from [`plugins/`](plugins) or the third-party plugins;
+  whoever adds the Reason signs in to each.
+- `skills` are folder names under the Reason's `skills/`, in order (at least one); the first is
   always "Getting started". Each `SKILL.md` has `name` and `description`
   frontmatter, then the playbook in Markdown.
 - `INSTRUCTIONS.md` is at most 16,000 characters.
 
 Definitions are public, so they hold no credentials, private hostnames or customer
 data. `npm test` checks every manifest against the schemas, every folder it names,
-and that nothing private slipped in. See [CONTRIBUTING.md](CONTRIBUTING.md).
+listings pinned in other repositories, and that nothing private slipped in. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 The checks are TypeScript in [`scripts/validate.ts`](scripts/validate.ts) and run on
 Node 22.18 or later with no build step. `npm run typecheck` type-checks them.
 
 ## Where these files come from
 
-Reason's own repository is the source of truth. The marketplace and the plugin list
-in the product are built from the same definitions, and a sync job regenerates
-`reasons/`, `plugins/` and `.reason-plugin/marketplace.json` here whenever they
-change. A pull request here is reviewed by the Reason team and, once accepted, is
-ported into the product; it reaches the marketplace with the next release and then
-shows up here through the sync.
+This repository is the source of truth for the marketplace's Reasons and its third-party plugins.
+Reason's product vendors it pinned to one commit: when something merges here, a bot opens a pull
+request in the product that moves the pin and shows exactly what changed. Once that is reviewed and
+merged, the next deploy lists it in the marketplace. CI there checks that the product's copy is
+exactly this repository at the pinned commit.
+
+Reason's own plugins under `plugins/` are the exception. They carry sign-in configuration that lives
+with the product, so `plugins/`, the `plugins` list in the index and the "All plugins" table are
+generated from the product's connector catalog, and edits to them here are overwritten. To change one,
+open an issue.
+
+## Listings in other repositories
+
+A Reason or a third-party plugin can live in your own public GitHub repository, in the same layout,
+and be listed here pinned to one commit:
+
+```json
+{ "name": "my-reason", "source": { "repo": "you/your-repo", "commit": "<full 40-character SHA>", "path": "reasons/my-reason" } }
+```
+
+`npm test` fetches it at that commit and checks it like a folder here. Moving to a newer commit is a
+pull request that changes the SHA, so nothing reaches the marketplace without review.
 
 ## All Reasons
 
@@ -170,9 +189,9 @@ Built into Reason, and not listed here: **GitHub** (repositories and pull reques
 ## Plugin layout
 
 ```
-.reason-plugin/marketplace.json     every plugin in this repository
-plugins/<slug>/.reason-plugin/plugin.json
-plugins/<slug>/logo.svg             brand mark, when the plugin has a local one
+plugins/<slug>/.reason-plugin/plugin.json           Reason's own plugins (generated)
+plugins/<slug>/logo.svg                             brand mark, when the plugin has a local one
+external_plugins/<slug>/.reason-plugin/plugin.json  third-party plugins
 ```
 
 A plugin manifest looks like this:
@@ -197,9 +216,18 @@ when present, links agent skills Reason loads alongside the plugin.
 The MCP URLs are the providers' own public endpoints, so they also work in any
 MCP client that supports remote Streamable HTTP servers.
 
-## Request a plugin
+## Add a third-party plugin
 
-Open an issue with the provider's name and its MCP server URL.
+Add `external_plugins/<slug>/.reason-plugin/plugin.json` (or pin it in your own repository), list it
+under `externalPlugins` in the index, and open a pull request. Reason connects third-party plugins
+that are hosted over HTTPS and either sign in with OAuth (dynamic client registration) or are public,
+so `auth` is `oauth` or `none` and the server sets no headers. To ask for a plugin instead, open an
+issue with the provider's name and its MCP server URL.
+
+## Third-party plugins
+
+| Plugin | What it does | Auth | MCP server | Source |
+|---|---|---|---|---|
 
 ## All plugins
 

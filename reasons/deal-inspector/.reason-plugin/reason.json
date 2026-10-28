@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "deal-inspector",
+  "displayName": "Deal Inspector",
+  "description": "Checks every deal that moved stage against your qualification criteria using the actual call transcripts. Quotes the evidence, and never changes a deal without you.",
+  "categories": [
+    "sales"
+  ],
+  "appearance": {
+    "color": "black",
+    "eyes": "sleepy",
+    "glasses": "monocle",
+    "accessory": "bowler"
+  },
+  "plugins": [
+    "gong",
+    "hubspot"
+  ],
+  "skills": [
+    "getting-started",
+    "inspect-one-deal",
+    "stage-change-sweep",
+    "commit-deal-audit",
+    "qualification-patterns"
+  ]
+}

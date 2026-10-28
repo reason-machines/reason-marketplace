@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "node scripts/validate.ts",
+    "readme": "node scripts/readme.ts",
     "typecheck": "tsc"
   },
   "devDependencies": {

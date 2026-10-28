@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/reason-machines/reason-marketplace/schema/plugin.schema.json",
+  "description": "A plugin: one hosted MCP server Reason's agents can use once someone connects it.",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "maxLength": 64,
+      "description": "Stable id, equal to its folder name."
+    },
+    "displayName": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 60
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "description": "What its tools let an agent do."
+    },
+    "homepage": {
+      "type": "string",
+      "pattern": "^https://"
+    },
+    "docs": {
+      "type": "string",
+      "pattern": "^https://"
+    },
+    "logo": {
+      "type": "string",
+      "description": "An https URL, or a file next to the manifest's folder (logo.svg)."
+    },
+    "auth": {
+      "enum": [
+        "oauth",
+        "api_key",
+        "none"
+      ],
+      "description": "oauth: sign in with the provider. none: a public server. api_key: Reason's own plugins only."
+    },
+    "mcpServers": {
+      "type": "object",
+      "minProperties": 1,
+      "maxProperties": 1,
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string",
+            "pattern": "^https://"
+          },
+          "headers": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "url"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  },
+  "required": [
+    "name",
+    "displayName",
+    "description",
+    "homepage",
+    "auth",
+    "mcpServers"
+  ],
+  "additionalProperties": false
+}

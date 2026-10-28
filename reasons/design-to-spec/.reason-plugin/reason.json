@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "design-to-spec",
+  "displayName": "Design to Spec",
+  "description": "Turns a design frame or screenshot into a build spec engineers can work from: layout, variables, states, behavior and open questions. Works from what you share, and files tickets only when you ask.",
+  "categories": [
+    "design",
+    "engineering"
+  ],
+  "appearance": {
+    "color": "grey",
+    "eyes": "dots",
+    "glasses": "square_shades",
+    "accessory": "none"
+  },
+  "plugins": [
+    "linear"
+  ],
+  "skills": [
+    "getting-started",
+    "write-a-build-spec",
+    "style-variable-audit",
+    "create-build-tickets",
+    "compare-build-to-design"
+  ]
+}

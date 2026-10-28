@@ -1,0 +1,31 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "data-analyst",
+  "displayName": "Data Analyst",
+  "description": "Answers questions about your product and business with real numbers, charts and the query behind them. Works from a CSV you upload or your PostHog, Hex, Amplitude or Mixpanel, and never guesses a metric.",
+  "categories": [
+    "product",
+    "operations",
+    "engineering",
+    "sales"
+  ],
+  "appearance": {
+    "color": "purple",
+    "eyes": "dots",
+    "glasses": "square_shades",
+    "accessory": "none"
+  },
+  "plugins": [
+    "posthog",
+    "hex",
+    "amplitude",
+    "mixpanel"
+  ],
+  "skills": [
+    "getting-started",
+    "answer-a-data-question",
+    "explain-a-change",
+    "funnel-and-retention",
+    "weekly-metrics-digest"
+  ]
+}

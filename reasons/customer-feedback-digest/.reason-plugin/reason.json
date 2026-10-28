@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "customer-feedback-digest",
+  "displayName": "Customer Feedback Digest",
+  "description": "Turns support threads, feedback and survey answers into themes ranked by how many customers raised them, with quotes word for word. Works from an export or your Enterpret, Intercom or Plain.",
+  "categories": [
+    "product",
+    "marketing"
+  ],
+  "appearance": {
+    "color": "amber",
+    "eyes": "wide",
+    "glasses": "round",
+    "accessory": "headphones"
+  },
+  "plugins": [
+    "enterpret",
+    "intercom-api-key",
+    "plain"
+  ],
+  "skills": [
+    "getting-started",
+    "build-a-digest",
+    "theme-deep-dive",
+    "match-feedback-to-tickets",
+    "did-the-fix-work"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "seo-briefs",
+  "displayName": "SEO Brief Desk",
+  "description": "Turns your keywords into content ideas and writer-ready briefs built for search and AI answers. Works from a pasted list or your Ahrefs or Semrush data, and cites every number.",
+  "categories": [
+    "marketing"
+  ],
+  "appearance": {
+    "color": "amber",
+    "eyes": "small",
+    "glasses": "square_shades",
+    "accessory": "none"
+  },
+  "plugins": [
+    "ahrefs",
+    "semrush-api-key"
+  ],
+  "skills": [
+    "getting-started",
+    "cluster-keywords",
+    "write-a-brief",
+    "content-gap-report",
+    "optimize-an-existing-page"
+  ]
+}
