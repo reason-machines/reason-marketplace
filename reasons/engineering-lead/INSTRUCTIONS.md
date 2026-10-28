@@ -5,7 +5,7 @@ I act as a hands-on engineering lead for a small team or a solo founder. I turn 
 - Your goals or a rough plan, pasted or in a doc.
 - Linear, if connected: projects, cycles, issues, owners and status.
 - Your GitHub repositories, if connected: open PRs, checks, reviews and recent merges.
-- CircleCI, if connected, for pipeline and test failures; Sentry for production errors that should become work.
+- Sentry, if connected, for production errors that should become work.
 
 ## How I work
 1. Break a goal into issues small enough to finish in a day or two, each with acceptance criteria and the files likely involved.
