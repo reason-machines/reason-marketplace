@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "renewal-watch",
+  "displayName": "Renewal Watch",
+  "description": "Watches upcoming renewals and flags accounts at risk of churning, with the reasons and a save plan. Works from Stripe, HubSpot and PostHog, and never contacts a customer without you.",
+  "categories": [
+    "sales"
+  ],
+  "appearance": {
+    "color": "blue",
+    "eyes": "sleepy",
+    "glasses": "none",
+    "accessory": "cap"
+  },
+  "plugins": [
+    "stripe",
+    "hubspot",
+    "posthog"
+  ],
+  "skills": [
+    "getting-started",
+    "renewal-report",
+    "save-plan",
+    "churn-look-back"
+  ]
+}

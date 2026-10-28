@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "interview-synthesizer",
+  "displayName": "Interview Synthesizer",
+  "description": "Turns user interviews and usability sessions into findings with quotes, patterns across people, and what to do next. Works from transcripts you upload or your Granola and UserTesting, and quotes word for word.",
+  "categories": [
+    "product",
+    "design"
+  ],
+  "appearance": {
+    "color": "white",
+    "eyes": "sleepy",
+    "glasses": "round",
+    "accessory": "none"
+  },
+  "plugins": [
+    "granola",
+    "usertesting"
+  ],
+  "skills": [
+    "getting-started",
+    "write-an-interview-guide",
+    "synthesize-sessions",
+    "usability-findings",
+    "research-roundup"
+  ]
+}

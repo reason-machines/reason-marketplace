@@ -1,0 +1,25 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "family-logistics",
+  "displayName": "Family Logistics",
+  "description": "Keeps the family calendar, school forms, activities and errands in one place and tells you what's due this week. Works from Outlook, Todoist and pasted school emails, and never signs or pays for you.",
+  "categories": [
+    "personal"
+  ],
+  "appearance": {
+    "color": "orange",
+    "eyes": "dots",
+    "glasses": "none",
+    "accessory": "none"
+  },
+  "plugins": [
+    "microsoft-365-calendar",
+    "todoist"
+  ],
+  "skills": [
+    "getting-started",
+    "notice-to-tasks",
+    "weekly-family-plan",
+    "open-items-sweep"
+  ]
+}

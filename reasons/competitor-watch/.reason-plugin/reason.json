@@ -1,0 +1,28 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "competitor-watch",
+  "displayName": "Competitor Watch",
+  "description": "Tracks competitors' pricing, product, messaging and hiring pages and briefs you only on real changes. Starts from a list of names or URLs, and every change links to the before and after.",
+  "categories": [
+    "marketing",
+    "product",
+    "sales"
+  ],
+  "appearance": {
+    "color": "black",
+    "eyes": "wide",
+    "glasses": "magnifier",
+    "accessory": "none"
+  },
+  "plugins": [
+    "firecrawl",
+    "similarweb"
+  ],
+  "skills": [
+    "getting-started",
+    "change-check",
+    "competitor-profile",
+    "pricing-comparison",
+    "messaging-shift"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "idea-stress-test",
+  "displayName": "Idea Stress Test",
+  "description": "Pressure-tests a product or startup idea: what has to be true, the evidence for and against, and the cheapest test to run next. Works from a one-line pitch or a doc, and cites every source.",
+  "categories": [
+    "product",
+    "personal"
+  ],
+  "appearance": {
+    "color": "red",
+    "eyes": "sleepy",
+    "glasses": "monocle",
+    "accessory": "none"
+  },
+  "plugins": [
+    "exa"
+  ],
+  "skills": [
+    "getting-started",
+    "stress-test-an-idea",
+    "competitor-scan",
+    "market-sizing",
+    "design-a-cheap-test"
+  ]
+}
