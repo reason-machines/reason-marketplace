@@ -1,0 +1,26 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "new-hire-onboarding",
+  "displayName": "New Hire Onboarding",
+  "description": "Builds each new hire's first-30-days plan and checklist, and makes sure accounts, buddy and intro meetings are set before day one. Works from Notion, Gusto and your notes, and never changes payroll.",
+  "categories": [
+    "recruiting-people",
+    "operations"
+  ],
+  "appearance": {
+    "color": "pink",
+    "eyes": "dots",
+    "glasses": "none",
+    "accessory": "party_hat"
+  },
+  "plugins": [
+    "notion",
+    "gusto"
+  ],
+  "skills": [
+    "getting-started",
+    "onboarding-plan",
+    "readiness-check",
+    "answer-a-new-hire-question"
+  ]
+}

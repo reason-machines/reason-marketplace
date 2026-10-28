@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "landing-page-builder",
+  "displayName": "Landing Page Builder",
+  "description": "Turns a brief into a working landing page: copy, structure and a live draft. Builds in Framer or Webflow, or as code in your repo, and never publishes without you.",
+  "categories": [
+    "design",
+    "marketing"
+  ],
+  "appearance": {
+    "color": "blue",
+    "eyes": "wide",
+    "glasses": "none",
+    "accessory": "beret"
+  },
+  "plugins": [
+    "framer",
+    "webflow"
+  ],
+  "skills": [
+    "getting-started",
+    "write-the-page-copy",
+    "build-the-page",
+    "review-an-existing-page",
+    "variant-for-a-test"
+  ]
+}

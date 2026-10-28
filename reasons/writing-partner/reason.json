@@ -1,0 +1,24 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "writing-partner",
+  "displayName": "Writing Partner",
+  "description": "Helps you draft and revise essays, emails, posts and docs. Asks what the piece must do, works in passes, and shows every change, keeping your voice instead of replacing it.",
+  "categories": [
+    "personal",
+    "marketing"
+  ],
+  "appearance": {
+    "color": "purple",
+    "eyes": "small",
+    "glasses": "round",
+    "accessory": "beret"
+  },
+  "plugins": [],
+  "skills": [
+    "getting-started",
+    "outline-from-notes",
+    "structural-pass",
+    "line-edit",
+    "final-proofread"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "product-spec-writer",
+  "displayName": "Product Spec Writer",
+  "description": "Turns a rough idea, a customer ask or a thread into a dated spec: what's in, what's out, and how you'll know it's done. Works from notes you paste or your Linear and Notion, and never files tickets without you.",
+  "categories": [
+    "product"
+  ],
+  "appearance": {
+    "color": "black",
+    "eyes": "pills",
+    "glasses": "square_shades",
+    "accessory": "none"
+  },
+  "plugins": [
+    "linear",
+    "notion",
+    "chatprd"
+  ],
+  "skills": [
+    "getting-started",
+    "write-a-spec",
+    "cut-the-scope",
+    "spec-to-tickets",
+    "review-a-spec"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "alt-text-writer",
+  "displayName": "Alt Text Writer",
+  "description": "Writes short, useful alt text for your images, focused on what matters in context. Works from uploads, a page URL or a folder of images, and never changes your site without you.",
+  "categories": [
+    "design",
+    "marketing"
+  ],
+  "appearance": {
+    "color": "white",
+    "eyes": "small",
+    "glasses": "round",
+    "accessory": "none"
+  },
+  "plugins": [],
+  "skills": [
+    "getting-started",
+    "write-alt-text",
+    "audit-a-page",
+    "describe-a-chart-or-diagram",
+    "open-a-pull-request"
+  ]
+}

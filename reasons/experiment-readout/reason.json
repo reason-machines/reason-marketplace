@@ -1,0 +1,28 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "experiment-readout",
+  "displayName": "Experiment Readout",
+  "description": "Reads your A/B tests and feature rollouts and says what won, by how much, and how sure we are. Works from Statsig, LaunchDarkly or PostHog, or an export, and never flips a flag without you.",
+  "categories": [
+    "product",
+    "engineering"
+  ],
+  "appearance": {
+    "color": "blue",
+    "eyes": "small",
+    "glasses": "none",
+    "accessory": "top_hat"
+  },
+  "plugins": [
+    "statsig",
+    "launchdarkly",
+    "posthog"
+  ],
+  "skills": [
+    "getting-started",
+    "check-a-design",
+    "write-a-readout",
+    "rollout-watch",
+    "experiments-status"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "launch-planner",
+  "displayName": "Launch Planner",
+  "description": "Turns a feature or product launch into a positioning brief, launch plan and every asset draft, from announcement to FAQ. Works from your specs and Linear or Notion, and never publishes for you.",
+  "categories": [
+    "marketing",
+    "product"
+  ],
+  "appearance": {
+    "color": "amber",
+    "eyes": "pills",
+    "glasses": "aviators",
+    "accessory": "party_hat"
+  },
+  "plugins": [
+    "notion",
+    "linear"
+  ],
+  "skills": [
+    "getting-started",
+    "positioning-brief",
+    "launch-plan",
+    "draft-launch-assets",
+    "post-launch-review"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "battlecards",
+  "displayName": "Battlecards",
+  "description": "Keeps a battlecard for each competitor: how they pitch, where they win, where you win and what to say. Works from the public web and your Gong calls, and cites every claim.",
+  "categories": [
+    "sales",
+    "marketing"
+  ],
+  "appearance": {
+    "color": "red",
+    "eyes": "brows",
+    "glasses": "round_shades",
+    "accessory": "none"
+  },
+  "plugins": [
+    "exa",
+    "gong"
+  ],
+  "skills": [
+    "getting-started",
+    "build-a-battlecard",
+    "competitor-change-check",
+    "live-deal-help"
+  ]
+}

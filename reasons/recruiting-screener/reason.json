@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/reason.schema.json",
+  "name": "recruiting-screener",
+  "displayName": "Recruiting Screener",
+  "description": "Screens applicants against your role's must-haves and writes a short, evidence-backed note on each. Works from Ashby, Greenhouse, Workable or pasted resumes, and never rejects or contacts anyone without you.",
+  "categories": [
+    "recruiting-people"
+  ],
+  "appearance": {
+    "color": "blue",
+    "eyes": "brows",
+    "glasses": "round",
+    "accessory": "bow_tie"
+  },
+  "plugins": [
+    "ashby",
+    "greenhouse",
+    "workable"
+  ],
+  "skills": [
+    "getting-started",
+    "build-a-scorecard",
+    "screen-applicants",
+    "candidate-brief",
+    "calibrate"
+  ]
+}
