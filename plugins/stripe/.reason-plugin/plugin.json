@@ -13,11 +13,11 @@
   },
   "skills": [
     {
-      "name": "MCP Stripe",
-      "description": "Execute Stripe MCP customer, product, invoice, payment-link, subscription, refund, and balance workflows safely.",
-      "source": "heyvhuang/ship-faster",
-      "skill": "mcp-stripe",
-      "url": "https://skills.sh/heyvhuang/ship-faster/mcp-stripe"
+      "name": "Stripe Best Practices",
+      "description": "Stripe's guidance for integration decisions: Checkout vs PaymentIntents, Connect, billing and subscriptions, tax, webhooks, and API key security.",
+      "source": "stripe/ai#b3ab9149225f837894b7de08c1b14650d7cc64eb",
+      "skill": "stripe-best-practices",
+      "url": "https://github.com/stripe/ai/tree/b3ab9149225f837894b7de08c1b14650d7cc64eb/skills/stripe-best-practices"
     }
   ]
 }
