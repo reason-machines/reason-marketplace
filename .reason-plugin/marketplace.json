@@ -56,7 +56,6 @@
     "./plugins/buffer",
     "./plugins/buildkite",
     "./plugins/calendly",
-    "./plugins/canva",
     "./plugins/cartesia",
     "./plugins/cdata-connect-ai",
     "./plugins/cello",

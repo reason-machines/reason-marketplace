@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 385 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 384 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -256,7 +256,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Buffer](plugins/buffer) | Manage social media with Buffer: draft, schedule, and publish posts across connected channels, manage the queue and ideas, and review post performance. | OAuth | `https://mcp.buffer.com/mcp` |
 | [Buildkite](plugins/buildkite) | Buildkite's hosted MCP server: inspect pipelines, builds, jobs and logs, trigger and retry builds, and look up test analytics and cluster/agent status. | OAuth | `https://mcp.buildkite.com/mcp` |
 | [Calendly](plugins/calendly) | Check availability and book, cancel, or reschedule. | OAuth | `https://mcp.calendly.com/` |
-| [Canva](plugins/canva) | Official Canva integration for design creation, template management, and visual content generation | OAuth | `https://mcp.canva.com/mcp` |
 | [Cartesia](plugins/cartesia) | Voice AI for agents: Sonic TTS, Ink STT, voice cloning, and Line voice agents. | OAuth | `https://mcp.cartesia.ai/mcp` |
 | [CData Connect AI](plugins/cdata-connect-ai) | CData Connect AI integration for querying 350+ data sources through a managed MCP platform | OAuth | `https://mcp.cloud.cdata.com/mcp` |
 | [Cello](plugins/cello) | Query your Cello referral program: check integration health, inspect events, find top referrers, and review program performance | OAuth | `https://mcp.cello.so/mcp` |
