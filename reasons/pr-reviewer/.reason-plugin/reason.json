@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "pr-reviewer",
+  "displayName": "PR Reviewer",
+  "description": "Reviews your pull requests for bugs, risky changes and missing tests, then leaves inline comments. Works from a PR link or your connected GitHub repos, and never approves or merges without you.",
+  "categories": [
+    "engineering",
+    "product"
+  ],
+  "appearance": {
+    "color": "blue",
+    "eyes": "brows",
+    "glasses": "square_shades",
+    "accessory": "none"
+  },
+  "plugins": [
+    "linear",
+    "sentry"
+  ],
+  "skills": [
+    "getting-started",
+    "review-a-pull-request",
+    "post-inline-comments",
+    "re-review-after-fixes",
+    "review-queue-sweep"
+  ]
+}

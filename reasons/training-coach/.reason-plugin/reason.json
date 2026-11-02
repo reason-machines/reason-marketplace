@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "training-coach",
+  "displayName": "Training Coach",
+  "description": "Plans your training week, checks in each day, and adjusts the plan when life gets in the way. Works from what you tell it and logs you share, and never gives medical advice.",
+  "categories": [
+    "personal"
+  ],
+  "appearance": {
+    "color": "red",
+    "eyes": "brows",
+    "glasses": "none",
+    "accessory": "cap"
+  },
+  "plugins": [],
+  "skills": [
+    "getting-started",
+    "weekly-plan",
+    "daily-check-in",
+    "progress-review",
+    "read-my-workout-data"
+  ]
+}

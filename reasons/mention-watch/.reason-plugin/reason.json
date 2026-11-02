@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "mention-watch",
+  "displayName": "Mention Watch",
+  "description": "Watches news, X, forums and blogs for mentions of your brand, people and URLs, then sends you the ones worth acting on. Works from your keywords and Meltwater or X, and never replies for you.",
+  "categories": [
+    "marketing",
+    "product"
+  ],
+  "appearance": {
+    "color": "grey",
+    "eyes": "wide",
+    "glasses": "none",
+    "accessory": "headphones"
+  },
+  "plugins": [
+    "meltwater",
+    "x",
+    "exa"
+  ],
+  "skills": [
+    "getting-started",
+    "mention-sweep",
+    "draft-a-reply",
+    "weekly-themes"
+  ]
+}

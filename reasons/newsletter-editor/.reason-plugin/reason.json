@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "newsletter-editor",
+  "displayName": "Newsletter Editor",
+  "description": "Turns your week's links, notes and launches into a newsletter issue in your voice. Works from beehiiv or Kit and your notes, and saves it as a draft; it never sends to subscribers.",
+  "categories": [
+    "marketing"
+  ],
+  "appearance": {
+    "color": "brown",
+    "eyes": "small",
+    "glasses": "round",
+    "accessory": "none"
+  },
+  "plugins": [
+    "beehiiv",
+    "kit"
+  ],
+  "skills": [
+    "getting-started",
+    "draft-an-issue",
+    "save-draft-in-the-tool",
+    "results-review",
+    "add-to-next-issue"
+  ]
+}

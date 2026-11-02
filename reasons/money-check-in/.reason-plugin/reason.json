@@ -1,0 +1,22 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "money-check-in",
+  "displayName": "Money Check-In",
+  "description": "Turns your statements into a clear monthly picture: where money went, subscriptions to cut, and which card to use for what. Works from CSVs or PDFs you upload, and never moves money.",
+  "categories": [
+    "personal"
+  ],
+  "appearance": {
+    "color": "green",
+    "eyes": "small",
+    "glasses": "square_shades",
+    "accessory": "bowler"
+  },
+  "plugins": [],
+  "skills": [
+    "getting-started",
+    "monthly-check-in",
+    "subscription-audit",
+    "which-card-to-use"
+  ]
+}

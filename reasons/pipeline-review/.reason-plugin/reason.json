@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "pipeline-review",
+  "displayName": "Pipeline Review",
+  "description": "Scans your whole pipeline for what moved, what stalled and where the forecast is at risk. Works from HubSpot or Attio, or a pipeline export, and never edits a deal without you.",
+  "categories": [
+    "sales"
+  ],
+  "appearance": {
+    "color": "green",
+    "eyes": "small",
+    "glasses": "square_shades",
+    "accessory": "none"
+  },
+  "plugins": [
+    "hubspot",
+    "attio"
+  ],
+  "skills": [
+    "getting-started",
+    "weekly-pipeline-brief",
+    "forecast-check",
+    "hygiene-pass",
+    "deal-deep-dive"
+  ]
+}

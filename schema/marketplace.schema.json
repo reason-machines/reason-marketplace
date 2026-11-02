@@ -1,0 +1,172 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/reason-machines/reason-marketplace/schema/marketplace.schema.json",
+  "description": "Everything the Reason marketplace lists: its Reasons (in order, with the Featured row), Reason's own plugins, and third-party plugins.",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "displayName": {
+      "type": "string",
+      "minLength": 1
+    },
+    "owner": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "additionalProperties": false
+    },
+    "featured": {
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "description": "Names of the Reasons in the Featured row, in order."
+    },
+    "reasons": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Every Reason the marketplace lists, in listing order: a folder here, or one pinned in another repository.",
+      "items": {
+        "oneOf": [
+          {
+            "type": "string",
+            "pattern": "^\\./reasons/[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          {
+            "type": "object",
+            "description": "A Reason kept in another public GitHub repository, pinned to one commit. Its folder there has the same layout as one here.",
+            "properties": {
+              "name": {
+                "type": "string",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Its name, equal to the name in its manifest."
+              },
+              "source": {
+                "type": "object",
+                "properties": {
+                  "repo": {
+                    "type": "string",
+                    "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$",
+                    "description": "owner/name of a public GitHub repository."
+                  },
+                  "commit": {
+                    "type": "string",
+                    "pattern": "^[0-9a-f]{40}$",
+                    "description": "The full commit SHA the listing is pinned to. Updating it is a reviewed change here."
+                  },
+                  "path": {
+                    "type": "string",
+                    "pattern": "^(?:\\.|[A-Za-z0-9_.-]+(?:/[A-Za-z0-9_.-]+)*)$",
+                    "description": "The folder inside that repository; . for its root."
+                  }
+                },
+                "required": [
+                  "repo",
+                  "commit",
+                  "path"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "name",
+              "source"
+            ],
+            "additionalProperties": false
+          }
+        ]
+      }
+    },
+    "plugins": {
+      "type": "array",
+      "description": "Reason's own plugins, generated from the product's connector catalog.",
+      "items": {
+        "type": "string",
+        "pattern": "^\\./plugins/[a-z0-9]+(?:-[a-z0-9]+)*$"
+      }
+    },
+    "externalPlugins": {
+      "type": "array",
+      "description": "Third-party plugins: a folder under external_plugins/, or one pinned in another repository.",
+      "items": {
+        "oneOf": [
+          {
+            "type": "string",
+            "pattern": "^\\./external_plugins/[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          {
+            "type": "object",
+            "description": "A plugin kept in another public GitHub repository, pinned to one commit. Its folder there has the same layout as one here.",
+            "properties": {
+              "name": {
+                "type": "string",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Its name, equal to the name in its manifest."
+              },
+              "source": {
+                "type": "object",
+                "properties": {
+                  "repo": {
+                    "type": "string",
+                    "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$",
+                    "description": "owner/name of a public GitHub repository."
+                  },
+                  "commit": {
+                    "type": "string",
+                    "pattern": "^[0-9a-f]{40}$",
+                    "description": "The full commit SHA the listing is pinned to. Updating it is a reviewed change here."
+                  },
+                  "path": {
+                    "type": "string",
+                    "pattern": "^(?:\\.|[A-Za-z0-9_.-]+(?:/[A-Za-z0-9_.-]+)*)$",
+                    "description": "The folder inside that repository; . for its root."
+                  }
+                },
+                "required": [
+                  "repo",
+                  "commit",
+                  "path"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "name",
+              "source"
+            ],
+            "additionalProperties": false
+          }
+        ]
+      }
+    }
+  },
+  "required": [
+    "name",
+    "displayName",
+    "owner",
+    "featured",
+    "reasons",
+    "plugins",
+    "externalPlugins"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "event-producer",
+  "displayName": "Event Producer",
+  "description": "Turns your event details into a run of show, guest list, vendor tracker and day-of checklist. Works from Notion, Airtable or what you paste, and never contacts guests or vendors without you.",
+  "categories": [
+    "marketing",
+    "operations"
+  ],
+  "appearance": {
+    "color": "purple",
+    "eyes": "brows",
+    "glasses": "none",
+    "accessory": "top_hat"
+  },
+  "plugins": [
+    "notion",
+    "airtable"
+  ],
+  "skills": [
+    "getting-started",
+    "event-plan",
+    "run-of-show",
+    "guest-list-status",
+    "event-recap"
+  ]
+}

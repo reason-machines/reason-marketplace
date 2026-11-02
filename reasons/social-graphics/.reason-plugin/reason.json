@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "social-graphics",
+  "displayName": "Social Graphics",
+  "description": "Turns an announcement, quote or stat into on-brand social graphics in every size you need. Works in Canva from your brand kit and templates, and never posts anything for you.",
+  "categories": [
+    "design",
+    "marketing"
+  ],
+  "appearance": {
+    "color": "orange",
+    "eyes": "pills",
+    "glasses": "round_shades",
+    "accessory": "party_hat"
+  },
+  "plugins": [
+    "canva"
+  ],
+  "skills": [
+    "getting-started",
+    "make-a-graphic-set",
+    "quote-or-stat-card",
+    "carousel",
+    "resize-for-every-channel"
+  ]
+}

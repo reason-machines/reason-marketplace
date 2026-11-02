@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "software-spend-review",
+  "displayName": "Software Spend Review",
+  "description": "Lists every software subscription you pay for and finds evidence-backed savings: unused seats, duplicates and renewals to renegotiate. Works from Ramp, Brex or Vantage, or a card export, and never cancels anything.",
+  "categories": [
+    "operations"
+  ],
+  "appearance": {
+    "color": "black",
+    "eyes": "small",
+    "glasses": "monocle",
+    "accessory": "top_hat"
+  },
+  "plugins": [
+    "ramp",
+    "brex",
+    "vantage"
+  ],
+  "skills": [
+    "getting-started",
+    "build-the-inventory",
+    "find-savings",
+    "renewal-prep",
+    "monthly-spend-review"
+  ]
+}

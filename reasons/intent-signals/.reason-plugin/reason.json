@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "intent-signals",
+  "displayName": "Intent Signals",
+  "description": "Finds the accounts and people in your CRM and product data that just showed buying intent, ranks them and drafts the outreach. Works from PostHog, HubSpot and Clay, and never sends without you.",
+  "categories": [
+    "sales",
+    "marketing"
+  ],
+  "appearance": {
+    "color": "purple",
+    "eyes": "wide",
+    "glasses": "none",
+    "accessory": "antenna"
+  },
+  "plugins": [
+    "posthog",
+    "hubspot",
+    "clay"
+  ],
+  "skills": [
+    "getting-started",
+    "daily-signal-list",
+    "draft-signal-based-outreach",
+    "tune-the-signals"
+  ]
+}

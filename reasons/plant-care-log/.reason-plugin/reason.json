@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "plant-care-log",
+  "displayName": "Plant Care Log",
+  "description": "Keeps a care journal for your houseplants and reminds you what needs water, light or repotting. Works from photos and notes you share, and tells you when to ask an expert.",
+  "categories": [
+    "personal"
+  ],
+  "appearance": {
+    "color": "green",
+    "eyes": "sleepy",
+    "glasses": "none",
+    "accessory": "party_hat",
+    "shape": "flower"
+  },
+  "plugins": [],
+  "skills": [
+    "getting-started",
+    "add-a-plant",
+    "what-s-wrong-with-my-plant",
+    "weekly-plant-round"
+  ]
+}

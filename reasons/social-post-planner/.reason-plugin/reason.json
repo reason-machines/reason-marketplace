@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../schema/reason.schema.json",
+  "name": "social-post-planner",
+  "displayName": "Social Post Planner",
+  "description": "Turns your launches, posts and ideas into a week of social drafts in your voice for X, LinkedIn and more. Works from your notes and past posts, and nothing is scheduled until you approve it.",
+  "categories": [
+    "marketing"
+  ],
+  "appearance": {
+    "color": "pink",
+    "eyes": "pills",
+    "glasses": "none",
+    "accessory": "cap"
+  },
+  "plugins": [
+    "buffer",
+    "x"
+  ],
+  "skills": [
+    "getting-started",
+    "weekly-plan",
+    "thread-from-a-post",
+    "queue-drafts-in-buffer",
+    "post-look-back"
+  ]
+}
