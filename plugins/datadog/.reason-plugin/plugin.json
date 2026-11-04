@@ -13,11 +13,11 @@
   },
   "skills": [
     {
-      "name": "Datadog Agent Skills",
-      "description": "Use Datadog monitoring, logging, tracing, and observability workflows.",
-      "source": "datadog-labs/agent-skills",
-      "skill": "agent-skills",
-      "url": "https://skills.sh/datadog-labs/agent-skills/agent-skills"
+      "name": "Datadog Pup CLI",
+      "description": "Use the Datadog pup CLI for Datadog app URLs and API operations: notebooks, dashboards, metrics, logs, monitors, traces, and SLOs.",
+      "source": "datadog-labs/agent-skills#6bd95cce9e0792c0f27c342214609706e51313c3",
+      "skill": "dd-pup",
+      "url": "https://github.com/datadog-labs/agent-skills/tree/6bd95cce9e0792c0f27c342214609706e51313c3/dd-pup"
     }
   ]
 }
