@@ -1,0 +1,13 @@
+{
+  "name": "contextflo",
+  "displayName": "Contextflo",
+  "description": "Ask your company data.",
+  "homepage": "https://contextflo.com",
+  "docs": "https://contextflo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "contextflo": {
+      "url": "https://mcp.contextflo.com/mcp"
+    }
+  }
+}

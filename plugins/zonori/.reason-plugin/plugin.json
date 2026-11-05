@@ -1,0 +1,13 @@
+{
+  "name": "zonori",
+  "displayName": "Zonori",
+  "description": "What's on in your city.",
+  "homepage": "https://zonori.app/developers",
+  "docs": "https://zonori.app/developers",
+  "auth": "none",
+  "mcpServers": {
+    "zonori": {
+      "url": "https://api.zonori.app/mcp"
+    }
+  }
+}

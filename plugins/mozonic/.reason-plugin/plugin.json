@@ -1,0 +1,13 @@
+{
+  "name": "mozonic",
+  "displayName": "Mozonic",
+  "description": "Analyze, fix & master mixes.",
+  "homepage": "https://mozonic.com",
+  "docs": "https://mozonic.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mozonic": {
+      "url": "https://mcp.mozonic.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ticktick-to-do-list-and-calendar",
+  "displayName": "TickTick:To-Do List & Calendar",
+  "description": "Reminder, Planner, Countdown.",
+  "homepage": "https://ticktick.com",
+  "docs": "https://ticktick.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ticktick-to-do-list-and-calendar": {
+      "url": "https://mcp.ticktick.com/"
+    }
+  }
+}

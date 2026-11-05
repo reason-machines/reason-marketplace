@@ -1,0 +1,13 @@
+{
+  "name": "yet-postroom",
+  "displayName": "Postroom",
+  "description": "Plan, schedule and track posts.",
+  "homepage": "https://social.notacompanynameyet.com",
+  "docs": "https://social.notacompanynameyet.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "yet-postroom": {
+      "url": "https://social.notacompanynameyet.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "honeybook",
+  "displayName": "HoneyBook",
+  "description": "Book clients, get paid.",
+  "homepage": "https://www.honeybook.com/",
+  "docs": "https://www.honeybook.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "honeybook": {
+      "url": "https://mcp.api.honeybook.com/mcp"
+    }
+  }
+}

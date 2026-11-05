@@ -1,0 +1,13 @@
+{
+  "name": "qrsome",
+  "displayName": "QRsome",
+  "description": "Branded QR codes for agents.",
+  "homepage": "https://qrsome.com",
+  "docs": "https://qrsome.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "qrsome": {
+      "url": "https://qrsome.com/mcp"
+    }
+  }
+}

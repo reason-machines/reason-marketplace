@@ -1,0 +1,13 @@
+{
+  "name": "scoutpost",
+  "displayName": "Scoutpost",
+  "description": "Monitor sources for news.",
+  "homepage": "https://scoutpost.ai",
+  "docs": "https://scoutpost.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "scoutpost": {
+      "url": "https://scoutpost.ai/mcp"
+    }
+  }
+}

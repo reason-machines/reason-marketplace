@@ -1,0 +1,13 @@
+{
+  "name": "vino-alert",
+  "displayName": "Vino Alert",
+  "description": "Compare wine prices at stores.",
+  "homepage": "https://vinoalert.com/connect/",
+  "docs": "https://vinoalert.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "vino-alert": {
+      "url": "https://api.vinoalert.com/mcp"
+    }
+  }
+}

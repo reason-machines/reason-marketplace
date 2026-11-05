@@ -1,0 +1,13 @@
+{
+  "name": "cartomante-fc",
+  "displayName": "Cartomante FC",
+  "description": "Análise e times do Cartola FC.",
+  "homepage": "https://cartomantefc.com.br",
+  "docs": "https://cartomantefc.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "cartomante-fc": {
+      "url": "https://mcp.cartomantefc.com.br/mcp"
+    }
+  }
+}

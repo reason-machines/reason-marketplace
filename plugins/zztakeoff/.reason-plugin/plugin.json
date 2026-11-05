@@ -1,0 +1,13 @@
+{
+  "name": "zztakeoff",
+  "displayName": "zzTakeoff",
+  "description": "Construction takeoff tools.",
+  "homepage": "https://www.zztakeoff.com/mcp",
+  "docs": "https://www.zztakeoff.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "zztakeoff": {
+      "url": "https://www.zztakeoff.com/mcp"
+    }
+  }
+}

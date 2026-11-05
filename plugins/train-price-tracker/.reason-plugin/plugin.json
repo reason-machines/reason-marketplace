@@ -1,0 +1,13 @@
+{
+  "name": "train-price-tracker",
+  "displayName": "Train Price Tracker",
+  "description": "Track Eurostar fares & dates.",
+  "homepage": "https://www.trainpricetracker.com/",
+  "docs": "https://www.trainpricetracker.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "train-price-tracker": {
+      "url": "https://mcp.trainpricetracker.com/mcp"
+    }
+  }
+}

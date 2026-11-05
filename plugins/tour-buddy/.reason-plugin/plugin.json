@@ -1,0 +1,13 @@
+{
+  "name": "tour-buddy",
+  "displayName": "Tour Buddy",
+  "description": "Find venues and plan tours.",
+  "homepage": "https://tourbuddy.co",
+  "docs": "https://tourbuddy.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "tour-buddy": {
+      "url": "https://mcp.tourbuddy.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "continuevault",
+  "displayName": "ContinueVault",
+  "description": "Continue your past AI chats.",
+  "homepage": "https://continuevault.com",
+  "docs": "https://continuevault.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "continuevault": {
+      "url": "https://continuevault.com/mcp"
+    }
+  }
+}

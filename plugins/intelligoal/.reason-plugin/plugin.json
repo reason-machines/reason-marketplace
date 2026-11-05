@@ -1,0 +1,13 @@
+{
+  "name": "intelligoal",
+  "displayName": "IntelliGoal",
+  "description": "Match evidence, made clear.",
+  "homepage": "https://theintelligoal.com",
+  "docs": "https://theintelligoal.com",
+  "auth": "none",
+  "mcpServers": {
+    "intelligoal": {
+      "url": "https://theintelligoal.com/mcp"
+    }
+  }
+}

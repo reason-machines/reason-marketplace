@@ -1,0 +1,13 @@
+{
+  "name": "remote-arc",
+  "displayName": "Remote Arc",
+  "description": "Access your computer remotely.",
+  "homepage": "https://remotearc.app",
+  "docs": "https://remotearc.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "remote-arc": {
+      "url": "https://mcp.remotearc.app/mcp"
+    }
+  }
+}

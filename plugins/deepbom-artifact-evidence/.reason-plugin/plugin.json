@@ -1,0 +1,13 @@
+{
+  "name": "deepbom-artifact-evidence",
+  "displayName": "DEEPBOM Artifact Evidence",
+  "description": "Inspect AI model artifacts.",
+  "homepage": "https://deepbom.org/",
+  "docs": "https://deepbom.org/",
+  "auth": "none",
+  "mcpServers": {
+    "deepbom-artifact-evidence": {
+      "url": "https://deepbom.org/mcp"
+    }
+  }
+}

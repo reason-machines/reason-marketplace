@@ -1,0 +1,13 @@
+{
+  "name": "fontesh",
+  "displayName": "Fontesh",
+  "description": "Identify Persian fonts.",
+  "homepage": "https://fontesh.ir/",
+  "docs": "https://fontesh.ir/",
+  "auth": "none",
+  "mcpServers": {
+    "fontesh": {
+      "url": "https://fontesh.ir/mcp"
+    }
+  }
+}

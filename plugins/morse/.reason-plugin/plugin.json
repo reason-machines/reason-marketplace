@@ -1,0 +1,13 @@
+{
+  "name": "morse",
+  "displayName": "Morse",
+  "description": "Find your meeting records.",
+  "homepage": "https://onmorse.com",
+  "docs": "https://tedix.dev/apps/morse/",
+  "auth": "none",
+  "mcpServers": {
+    "morse": {
+      "url": "https://mcp.morsemoney.com/v1"
+    }
+  }
+}

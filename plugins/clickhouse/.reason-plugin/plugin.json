@@ -10,5 +10,35 @@
     "clickhouse": {
       "url": "https://mcp.clickhouse.cloud/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "clickhouse-best-practices",
+      "description": "MUST USE when reviewing ClickHouse schemas, queries, or configurations. Contains 31 rules that MUST be checked before providing recommendations. Always read relevant rule files and cite specific rules in responses.",
+      "source": "clickhouse/agent-skills#d3b2b5ba43a8b80c2d08858b68d53edc701b5ace",
+      "skill": "clickhouse-best-practices",
+      "url": "https://github.com/clickhouse/agent-skills/tree/d3b2b5ba43a8b80c2d08858b68d53edc701b5ace/skills/clickhouse-best-practices"
+    },
+    {
+      "name": "clickhouse-js-node-coding",
+      "description": "Write idiomatic application code with the ClickHouse Node.js client (`@clickhouse/client`). Use this skill whenever a user is *building* against the Node.js client — configuring the client, pinging, inserting rows in JSON or raw formats, selecting and parsing results, binding query parameters, manag",
+      "source": "clickhouse/agent-skills#d3b2b5ba43a8b80c2d08858b68d53edc701b5ace",
+      "skill": "clickhouse-js-node-coding",
+      "url": "https://github.com/clickhouse/agent-skills/tree/d3b2b5ba43a8b80c2d08858b68d53edc701b5ace/skills/clickhouse-js-node-coding"
+    },
+    {
+      "name": "clickhouse-js-node-troubleshooting",
+      "description": "Troubleshoot and resolve common issues with the ClickHouse Node.js client (@clickhouse/client). Use this skill whenever a user reports errors, unexpected behavior, or configuration questions involving the Node.js client specifically — including socket hang-up errors, Keep-Alive problems, stream hand",
+      "source": "clickhouse/agent-skills#d3b2b5ba43a8b80c2d08858b68d53edc701b5ace",
+      "skill": "clickhouse-js-node-troubleshooting",
+      "url": "https://github.com/clickhouse/agent-skills/tree/d3b2b5ba43a8b80c2d08858b68d53edc701b5ace/skills/clickhouse-js-node-troubleshooting"
+    },
+    {
+      "name": "setup",
+      "description": "Guides users through setting up the ClickHouse MCP server connection bundled with this plugin. Use when the user first installs the plugin or has trouble connecting to ClickHouse.",
+      "source": "clickhouse/clickhouse-js#1712aa64d33b0389bbedba0e26ffc6030a0522ca",
+      "skill": "setup",
+      "url": "https://github.com/clickhouse/clickhouse-js/tree/1712aa64d33b0389bbedba0e26ffc6030a0522ca/.claude/skills/setup"
+    }
+  ]
 }

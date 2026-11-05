@@ -1,0 +1,13 @@
+{
+  "name": "leftlane",
+  "displayName": "LeftLane",
+  "description": "Manage your BHPH dealership.",
+  "homepage": "https://www.leftlanesoftware.com/",
+  "docs": "https://www.leftlanesoftware.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "leftlane": {
+      "url": "https://mcp.leftlanesoftware.com/mcp"
+    }
+  }
+}

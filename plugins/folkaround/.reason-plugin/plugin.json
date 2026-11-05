@@ -1,0 +1,13 @@
+{
+  "name": "folkaround",
+  "displayName": "FolkAround",
+  "description": "What's on near you.",
+  "homepage": "https://folkaround.app",
+  "docs": "https://folkaround.app",
+  "auth": "none",
+  "mcpServers": {
+    "folkaround": {
+      "url": "https://folkaround.app/mcp"
+    }
+  }
+}

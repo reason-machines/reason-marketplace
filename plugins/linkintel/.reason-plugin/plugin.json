@@ -1,0 +1,13 @@
+{
+  "name": "linkintel",
+  "displayName": "LinkIntel",
+  "description": "Evidence for your next X post.",
+  "homepage": "https://www.getlinkintel.com",
+  "docs": "https://getlinkintel.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "linkintel": {
+      "url": "https://www.getlinkintel.com/api/mcp"
+    }
+  }
+}

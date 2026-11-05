@@ -1,0 +1,13 @@
+{
+  "name": "quanti-ia",
+  "displayName": "Quanti IA",
+  "description": "Query your marketing warehouse.",
+  "homepage": "https://www.quanti.io",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.quanti",
+  "auth": "oauth",
+  "mcpServers": {
+    "quanti-ia": {
+      "url": "https://ai.quanti.io/mcp"
+    }
+  }
+}

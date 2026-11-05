@@ -1,0 +1,13 @@
+{
+  "name": "rate-my-agent-com-matcher",
+  "displayName": "Rate-My-Agent.com Matcher",
+  "description": "Match to the best Realtor.",
+  "homepage": "https://www.rate-my-agent.com/",
+  "docs": "https://www.rate-my-agent.com/",
+  "auth": "none",
+  "mcpServers": {
+    "rate-my-agent-com-matcher": {
+      "url": "https://mcp.rate-my-agent.com/mcp"
+    }
+  }
+}

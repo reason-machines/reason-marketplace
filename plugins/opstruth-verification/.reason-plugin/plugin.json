@@ -1,0 +1,13 @@
+{
+  "name": "opstruth-verification",
+  "displayName": "OpsTruth Verification",
+  "description": "Verify coding work with proof.",
+  "homepage": "https://opstruth.io",
+  "docs": "https://opstruth.io",
+  "auth": "none",
+  "mcpServers": {
+    "opstruth-verification": {
+      "url": "https://mcp.opstruth.io/mcp"
+    }
+  }
+}

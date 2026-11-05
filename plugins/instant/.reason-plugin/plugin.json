@@ -1,0 +1,13 @@
+{
+  "name": "instant",
+  "displayName": "Instant",
+  "description": "Domain search and name ideas.",
+  "homepage": "https://instant.ai",
+  "docs": "https://instant.ai",
+  "auth": "none",
+  "mcpServers": {
+    "instant": {
+      "url": "https://mcp.instant.ai/mcp"
+    }
+  }
+}

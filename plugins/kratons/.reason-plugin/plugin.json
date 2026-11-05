@@ -1,0 +1,13 @@
+{
+  "name": "kratons",
+  "displayName": "Kratons",
+  "description": "Spain, Portugal, Morocco trips.",
+  "homepage": "https://www.kratons.com/en/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.kratons/public",
+  "auth": "none",
+  "mcpServers": {
+    "kratons": {
+      "url": "https://api.kratons.com/api/mcp"
+    }
+  }
+}

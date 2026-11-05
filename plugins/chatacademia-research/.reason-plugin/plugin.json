@@ -1,0 +1,13 @@
+{
+  "name": "chatacademia-research",
+  "displayName": "ChatAcademia",
+  "description": "Research papers and grants.",
+  "homepage": "https://chatacademia.com",
+  "docs": "https://chatacademia.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "chatacademia-research": {
+      "url": "https://api.chatacademia.com/mcp"
+    }
+  }
+}

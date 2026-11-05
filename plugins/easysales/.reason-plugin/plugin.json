@@ -1,0 +1,13 @@
+{
+  "name": "easysales",
+  "displayName": "easySales",
+  "description": "CRM and sales management.",
+  "homepage": "https://easysales.work",
+  "docs": "https://app.easysales.work/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "easysales": {
+      "url": "https://app.easysales.work/mcp"
+    }
+  }
+}

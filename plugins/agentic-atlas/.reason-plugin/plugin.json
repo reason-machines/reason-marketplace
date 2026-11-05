@@ -1,0 +1,13 @@
+{
+  "name": "agentic-atlas",
+  "displayName": "Agentic Atlas",
+  "description": "Design better agent systems.",
+  "homepage": "https://agentic-atlas.dev/",
+  "docs": "https://agentic-atlas.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "agentic-atlas": {
+      "url": "https://mcp.agentic-atlas.dev/mcp"
+    }
+  }
+}

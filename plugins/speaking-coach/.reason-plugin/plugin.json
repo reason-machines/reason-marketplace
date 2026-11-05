@@ -1,0 +1,13 @@
+{
+  "name": "speaking-coach",
+  "displayName": "Speaking Coach",
+  "description": "Practice aloud. Improve.",
+  "homepage": "https://speaking-coach-plugin.vercel.app/",
+  "docs": "https://speaking-coach-plugin.vercel.app/",
+  "auth": "none",
+  "mcpServers": {
+    "speaking-coach": {
+      "url": "https://speaking-coach-plugin.vercel.app/mcp"
+    }
+  }
+}

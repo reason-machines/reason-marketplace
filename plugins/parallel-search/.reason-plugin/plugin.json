@@ -1,0 +1,13 @@
+{
+  "name": "parallel-search",
+  "displayName": "Parallel Search",
+  "description": "Web search for AI.",
+  "homepage": "https://parallel.ai/",
+  "docs": "https://parallel.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "parallel-search": {
+      "url": "https://mcp.parallel.ai/mcp"
+    }
+  }
+}

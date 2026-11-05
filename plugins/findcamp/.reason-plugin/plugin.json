@@ -1,0 +1,13 @@
+{
+  "name": "findcamp",
+  "displayName": "FindCamp",
+  "description": "Does this campsite fit you?",
+  "homepage": "https://findcamp.cc",
+  "docs": "https://findcamp.cc/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "findcamp": {
+      "url": "https://findcamp.cc/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "toolmatch",
+  "displayName": "ToolMatch",
+  "description": "Find Reason apps.",
+  "homepage": "https://plugin.chat-prompt.com",
+  "docs": "https://plugin.chat-prompt.com",
+  "auth": "none",
+  "mcpServers": {
+    "toolmatch": {
+      "url": "https://plugin.chat-prompt.com/mcp"
+    }
+  }
+}

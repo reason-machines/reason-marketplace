@@ -1,0 +1,13 @@
+{
+  "name": "dr-nutrition",
+  "displayName": "Dr Nutrition",
+  "description": "Shop nutrition products.",
+  "homepage": "https://drnutrition.com",
+  "docs": "https://drnutrition.com",
+  "auth": "none",
+  "mcpServers": {
+    "dr-nutrition": {
+      "url": "https://mcp.drnutrition.com/mcp"
+    }
+  }
+}

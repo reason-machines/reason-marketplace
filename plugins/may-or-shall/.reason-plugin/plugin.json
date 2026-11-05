@@ -1,0 +1,13 @@
+{
+  "name": "may-or-shall",
+  "displayName": "May or Shall",
+  "description": "Search and cite your case file.",
+  "homepage": "https://app.mayorshall.com",
+  "docs": "https://app.mayorshall.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "may-or-shall": {
+      "url": "https://app.mayorshall.com/api/mcp"
+    }
+  }
+}

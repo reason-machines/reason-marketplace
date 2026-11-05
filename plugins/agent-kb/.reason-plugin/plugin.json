@@ -1,0 +1,13 @@
+{
+  "name": "agent-kb",
+  "displayName": "Agent KB",
+  "description": "整理你的筆記與學習知識.",
+  "homepage": "https://agent-kb.cooperation.tw",
+  "docs": "https://agent-kb.cooperation.tw/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "agent-kb": {
+      "url": "https://agent-kb.cooperation.tw/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "changelly",
+  "displayName": "Changelly",
+  "description": "Crypto swap rates & estimates.",
+  "homepage": "https://changelly.com",
+  "docs": "https://tedix.dev/apps/changelly/",
+  "auth": "none",
+  "mcpServers": {
+    "changelly": {
+      "url": "https://gpt-widget.changelly.com/mcp"
+    }
+  }
+}

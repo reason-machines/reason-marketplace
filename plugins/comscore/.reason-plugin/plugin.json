@@ -1,0 +1,13 @@
+{
+  "name": "comscore",
+  "displayName": "Comscore",
+  "description": "Digital, TV and Social data.",
+  "homepage": "https://comscore.com/",
+  "docs": "https://comscore.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "comscore": {
+      "url": "https://mcp.comscore.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vianto-piata-imobiliara",
+  "displayName": "Vianto - piața imobiliară",
+  "description": "Piața imobiliară din România.",
+  "homepage": "https://viantoproperties.ro/piata-imobiliara/conector-ai/",
+  "docs": "https://viantoproperties.ro/piata-imobiliara/conector-ai/",
+  "auth": "none",
+  "mcpServers": {
+    "vianto-piata-imobiliara": {
+      "url": "https://mcp.viantoproperties.ro/piata-imobiliara"
+    }
+  }
+}

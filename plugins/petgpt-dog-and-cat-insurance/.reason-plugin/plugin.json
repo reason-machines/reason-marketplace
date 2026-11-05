@@ -1,0 +1,13 @@
+{
+  "name": "petgpt-dog-and-cat-insurance",
+  "displayName": "PetGPT - Dog & Cat Insurance",
+  "description": "Compare dog & cat insurance.",
+  "homepage": "https://petgpt.com/",
+  "docs": "https://tedix.dev/apps/petgpt-dog-cat-insurance/",
+  "auth": "none",
+  "mcpServers": {
+    "petgpt-dog-and-cat-insurance": {
+      "url": "https://petgpt-backend.onrender.com/mcp"
+    }
+  }
+}

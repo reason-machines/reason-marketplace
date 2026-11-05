@@ -1,0 +1,13 @@
+{
+  "name": "ticketbox-vn",
+  "displayName": "Ticketbox.vn",
+  "description": "Find events in Vietnam.",
+  "homepage": "https://ticketbox.vn",
+  "docs": "https://ticketbox.vn",
+  "auth": "none",
+  "mcpServers": {
+    "ticketbox-vn": {
+      "url": "https://mcp.ticketbox.vn/mcp"
+    }
+  }
+}

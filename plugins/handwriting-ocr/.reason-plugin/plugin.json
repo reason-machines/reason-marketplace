@@ -1,0 +1,13 @@
+{
+  "name": "handwriting-ocr",
+  "displayName": "Handwriting OCR",
+  "description": "Transcribe scans and PDFs.",
+  "homepage": "https://www.handwritingocr.com/",
+  "docs": "https://www.handwritingocr.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "handwriting-ocr": {
+      "url": "https://mcp.handwritingocr.com/"
+    }
+  }
+}

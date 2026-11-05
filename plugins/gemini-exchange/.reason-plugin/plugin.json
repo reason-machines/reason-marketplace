@@ -1,0 +1,13 @@
+{
+  "name": "gemini-exchange",
+  "displayName": "Gemini Exchange",
+  "description": "Account & market data access.",
+  "homepage": "https://gemini.com",
+  "docs": "https://tedix.dev/apps/gemini-exchange/",
+  "auth": "none",
+  "mcpServers": {
+    "gemini-exchange": {
+      "url": "https://api.gemini.com/mcp"
+    }
+  }
+}

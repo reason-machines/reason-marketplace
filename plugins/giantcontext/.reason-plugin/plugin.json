@@ -1,0 +1,13 @@
+{
+  "name": "giantcontext",
+  "displayName": "Giant Context",
+  "description": "Manage websites, CRM and email.",
+  "homepage": "https://giantcontext.com",
+  "docs": "https://giantcontext.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "giantcontext": {
+      "url": "https://mcp.giantcontext.com/mcp"
+    }
+  }
+}

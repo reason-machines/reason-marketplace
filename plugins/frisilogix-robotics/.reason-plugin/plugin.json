@@ -1,0 +1,13 @@
+{
+  "name": "frisilogix-robotics",
+  "displayName": "FrisiLogix Robotics Advisory",
+  "description": "Cleaning robotics information.",
+  "homepage": "https://frisilogix.de/de/",
+  "docs": "https://frisilogix.de/de/",
+  "auth": "none",
+  "mcpServers": {
+    "frisilogix-robotics": {
+      "url": "https://frisilogix.de/mcp"
+    }
+  }
+}

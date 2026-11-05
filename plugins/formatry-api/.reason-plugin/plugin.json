@@ -1,0 +1,13 @@
+{
+  "name": "formatry-api",
+  "displayName": "Formatry",
+  "description": "Create ads from photos & copy.",
+  "homepage": "https://formatry.cc",
+  "docs": "https://formatry.cc/developers/codex",
+  "auth": "none",
+  "mcpServers": {
+    "formatry-api": {
+      "url": "https://formatry.cc/api/mcp"
+    }
+  }
+}

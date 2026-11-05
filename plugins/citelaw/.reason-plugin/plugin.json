@@ -1,0 +1,13 @@
+{
+  "name": "citelaw",
+  "displayName": "CiteLaw",
+  "description": "Legal research & firm ops.",
+  "homepage": "https://citelaw.org",
+  "docs": "https://citelaw.org/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "citelaw": {
+      "url": "https://citelaw.org/api/mcp/protocol"
+    }
+  }
+}

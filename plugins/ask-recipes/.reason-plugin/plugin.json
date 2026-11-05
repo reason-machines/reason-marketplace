@@ -1,0 +1,13 @@
+{
+  "name": "ask-recipes",
+  "displayName": "ask.recipes",
+  "description": "Your AI cooking assistant.",
+  "homepage": "https://ask.recipes",
+  "docs": "https://ask.recipes",
+  "auth": "oauth",
+  "mcpServers": {
+    "ask-recipes": {
+      "url": "https://mcp.ask.recipes/mcp"
+    }
+  }
+}

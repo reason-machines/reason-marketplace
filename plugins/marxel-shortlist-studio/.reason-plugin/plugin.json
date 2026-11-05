@@ -1,0 +1,13 @@
+{
+  "name": "marxel-shortlist-studio",
+  "displayName": "Marxel",
+  "description": "Your recruitment workspace.",
+  "homepage": "https://www.marxel.co",
+  "docs": "https://www.marxel.co",
+  "auth": "none",
+  "mcpServers": {
+    "marxel-shortlist-studio": {
+      "url": "https://mcp.marxel.co/mcp"
+    }
+  }
+}

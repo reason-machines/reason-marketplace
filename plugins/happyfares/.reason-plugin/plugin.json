@@ -1,0 +1,13 @@
+{
+  "name": "happyfares",
+  "displayName": "HappyFares",
+  "description": "AI Flight Booking Made Easy.",
+  "homepage": "https://www.happyfares.in",
+  "docs": "https://www.happyfares.in",
+  "auth": "none",
+  "mcpServers": {
+    "happyfares": {
+      "url": "https://mcp.happyfares.in/mcp"
+    }
+  }
+}

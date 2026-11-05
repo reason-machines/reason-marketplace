@@ -1,0 +1,13 @@
+{
+  "name": "kalori",
+  "displayName": "Kalori: Chat Nutrition Tracker",
+  "description": "Nutrition for 490+ JP chains.",
+  "homepage": "https://kalori.jp",
+  "docs": "https://kalori.jp",
+  "auth": "oauth",
+  "mcpServers": {
+    "kalori": {
+      "url": "https://mcp.kalori.jp/mcp"
+    }
+  }
+}

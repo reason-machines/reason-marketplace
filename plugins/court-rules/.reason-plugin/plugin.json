@@ -1,0 +1,13 @@
+{
+  "name": "court-rules",
+  "displayName": "Court Rules",
+  "description": "Judge and court filing rules.",
+  "homepage": "https://www.courtrules.app",
+  "docs": "https://www.courtrules.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "court-rules": {
+      "url": "https://mcp.courtrules.app/mcp"
+    }
+  }
+}

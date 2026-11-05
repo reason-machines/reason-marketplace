@@ -1,0 +1,13 @@
+{
+  "name": "oceantoken",
+  "displayName": "OceanToken",
+  "description": "Create images, video, speech.",
+  "homepage": "https://oceantoken.ai",
+  "docs": "https://oceantoken.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "oceantoken": {
+      "url": "https://mcp.oceantoken.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "release-notes-coverage-checker",
+  "displayName": "Release Notes Coverage Checker",
+  "description": "Check release note coverage.",
+  "homepage": "https://release-notes-coverage-checker.sidcraigau.workers.dev",
+  "docs": "https://release-notes-coverage-checker.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "release-notes-coverage-checker": {
+      "url": "https://release-notes-coverage-checker.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

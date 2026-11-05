@@ -1,0 +1,13 @@
+{
+  "name": "postnitro",
+  "displayName": "PostNitro",
+  "description": "Design. Schedule. Publish.",
+  "homepage": "https://postnitro.ai",
+  "docs": "https://postnitro.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "postnitro": {
+      "url": "https://mcp.postnitro.ai/mcp"
+    }
+  }
+}

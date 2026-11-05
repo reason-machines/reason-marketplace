@@ -1,0 +1,13 @@
+{
+  "name": "georetina-ai",
+  "displayName": "GeoRetina AI",
+  "description": "Conservation and risk analysis.",
+  "homepage": "https://georetina.com/",
+  "docs": "https://georetina.com/docs/platform-capabilities/mcp-connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "georetina-ai": {
+      "url": "https://app.georetina.ai/mcp"
+    }
+  }
+}

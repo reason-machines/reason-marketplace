@@ -1,0 +1,13 @@
+{
+  "name": "memocore",
+  "displayName": "Memocore",
+  "description": "Persistent shared AI memory.",
+  "homepage": "https://memocore.ai",
+  "docs": "https://memocore.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "memocore": {
+      "url": "https://memocore.ai/mcp"
+    }
+  }
+}

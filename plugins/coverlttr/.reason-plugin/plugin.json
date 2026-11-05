@@ -1,0 +1,13 @@
+{
+  "name": "coverlttr",
+  "displayName": "Coverlttr",
+  "description": "Write tailored cover letters.",
+  "homepage": "https://www.coverlttr.com/",
+  "docs": "https://www.coverlttr.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "coverlttr": {
+      "url": "https://mcp.coverlttr.com/mcp"
+    }
+  }
+}

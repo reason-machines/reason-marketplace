@@ -1,0 +1,13 @@
+{
+  "name": "layzr",
+  "displayName": "Layzr",
+  "description": "Audit websites with Layzr.",
+  "homepage": "https://www.layzr.ai/",
+  "docs": "https://www.layzr.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "layzr": {
+      "url": "https://www.layzr.ai/api/mcp"
+    }
+  }
+}

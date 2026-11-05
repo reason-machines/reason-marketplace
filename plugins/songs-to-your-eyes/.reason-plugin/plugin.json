@@ -1,0 +1,13 @@
+{
+  "name": "songs-to-your-eyes",
+  "displayName": "Songs To Your Eyes",
+  "description": "Find music for video and film.",
+  "homepage": "https://songstoyoureyes.com",
+  "docs": "https://songstoyoureyes.com",
+  "auth": "none",
+  "mcpServers": {
+    "songs-to-your-eyes": {
+      "url": "https://mcp.songstoyoureyes.com/mcp"
+    }
+  }
+}

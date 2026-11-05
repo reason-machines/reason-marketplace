@@ -1,0 +1,13 @@
+{
+  "name": "ugc-chart",
+  "displayName": "UGC Chart",
+  "description": "Find the right Trybe creators.",
+  "homepage": "https://ugcchart.com",
+  "docs": "https://ugcchart.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ugc-chart": {
+      "url": "https://ugcchart.com/mcp"
+    }
+  }
+}

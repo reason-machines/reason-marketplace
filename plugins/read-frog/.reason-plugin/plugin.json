@@ -1,0 +1,13 @@
+{
+  "name": "read-frog",
+  "displayName": "Read Frog",
+  "description": "Manage notes and flashcards.",
+  "homepage": "https://www.readfrog.app",
+  "docs": "https://readfrog.app/llms-full.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "read-frog": {
+      "url": "https://api.readfrog.app/api/mcp"
+    }
+  }
+}

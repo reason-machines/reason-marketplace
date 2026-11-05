@@ -1,0 +1,13 @@
+{
+  "name": "shipink",
+  "displayName": "Shipink",
+  "description": "Ship and track your parcels.",
+  "homepage": "https://shipink.io",
+  "docs": "https://shipink.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "shipink": {
+      "url": "https://mcp.shipink.io/mcp"
+    }
+  }
+}

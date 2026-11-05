@@ -1,0 +1,13 @@
+{
+  "name": "configure-memory",
+  "displayName": "Configure Memory",
+  "description": "Memory you own across AI apps.",
+  "homepage": "https://configure.dev",
+  "docs": "https://configure.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "configure-memory": {
+      "url": "https://mcp.configure.dev/mcp"
+    }
+  }
+}

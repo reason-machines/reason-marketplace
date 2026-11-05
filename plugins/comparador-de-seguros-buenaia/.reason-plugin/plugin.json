@@ -1,0 +1,13 @@
+{
+  "name": "comparador-de-seguros-buenaia",
+  "displayName": "Comparador de seguros BuenaIA",
+  "description": "Compara catálogo de seguros.",
+  "homepage": "https://buenaia.ai",
+  "docs": "https://buenaia.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "comparador-de-seguros-buenaia": {
+      "url": "https://mcp.buenaia.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "visualink",
+  "displayName": "Visualink",
+  "description": "View project analytics.",
+  "homepage": "https://visua.link",
+  "docs": "https://visua.link",
+  "auth": "none",
+  "mcpServers": {
+    "visualink": {
+      "url": "https://visua.link/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "best-lawyers",
+  "displayName": "Best Lawyers",
+  "description": "Search peer-recognized lawyers.",
+  "homepage": "https://www.bestlawyers.com",
+  "docs": "https://www.bestlawyers.com",
+  "auth": "none",
+  "mcpServers": {
+    "best-lawyers": {
+      "url": "https://mcp.bestlawyers.com/"
+    }
+  }
+}

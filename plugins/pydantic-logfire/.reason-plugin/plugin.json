@@ -1,0 +1,13 @@
+{
+  "name": "pydantic-logfire",
+  "displayName": "Pydantic Logfire",
+  "description": "Query and manage telemetry.",
+  "homepage": "https://pydantic.dev/logfire",
+  "docs": "https://pydantic.dev/docs/logfire/guides/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "pydantic-logfire": {
+      "url": "https://logfire-us.pydantic.dev/mcp"
+    }
+  }
+}

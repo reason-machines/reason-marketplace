@@ -1,0 +1,13 @@
+{
+  "name": "triple-whale",
+  "displayName": "Triple Whale",
+  "description": "Analyze e-commerce data.",
+  "homepage": "https://www.triplewhale.com/",
+  "docs": "https://www.triplewhale.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "triple-whale": {
+      "url": "https://mcp.triplewhale.com/"
+    }
+  }
+}

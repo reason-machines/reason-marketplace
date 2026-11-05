@@ -1,0 +1,13 @@
+{
+  "name": "rescuetime",
+  "displayName": "RescueTime",
+  "description": "Track time and control focus.",
+  "homepage": "https://www.rescuetime.com",
+  "docs": "https://www.rescuetime.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "rescuetime": {
+      "url": "https://rescuetime.com/mcp"
+    }
+  }
+}

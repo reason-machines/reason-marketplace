@@ -1,0 +1,13 @@
+{
+  "name": "optionedge-ai",
+  "displayName": "OptionEdge AI",
+  "description": "AI stock research and screens.",
+  "homepage": "https://optionedge.ai",
+  "docs": "https://tedix.dev/apps/optionedge-ai/",
+  "auth": "none",
+  "mcpServers": {
+    "optionedge-ai": {
+      "url": "https://api.optionedge.ai/mcp"
+    }
+  }
+}

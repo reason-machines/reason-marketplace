@@ -1,0 +1,13 @@
+{
+  "name": "agentplatform-rettfrabonden",
+  "displayName": "Rett fra Bonden",
+  "description": "Find Norwegian farm food.",
+  "homepage": "https://rettfrabonden.com",
+  "docs": "https://rettfrabonden.com",
+  "auth": "none",
+  "mcpServers": {
+    "agentplatform-rettfrabonden": {
+      "url": "https://rettfrabonden.com/mcp"
+    }
+  }
+}

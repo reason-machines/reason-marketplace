@@ -1,0 +1,13 @@
+{
+  "name": "domainwisp",
+  "displayName": "DomainWisp",
+  "description": "Find available domain names.",
+  "homepage": "https://domainwisp.com",
+  "docs": "https://domainwisp.com",
+  "auth": "none",
+  "mcpServers": {
+    "domainwisp": {
+      "url": "https://domainwisp.com/mcp"
+    }
+  }
+}

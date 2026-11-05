@@ -1,0 +1,13 @@
+{
+  "name": "league-and-tournament-scheduler",
+  "displayName": "League & Tournament Scheduler",
+  "description": "Schedule leagues & tournaments.",
+  "homepage": "https://seasonsolver.com",
+  "docs": "https://seasonsolver.com",
+  "auth": "none",
+  "mcpServers": {
+    "league-and-tournament-scheduler": {
+      "url": "https://seasonsolver.com/mcp"
+    }
+  }
+}

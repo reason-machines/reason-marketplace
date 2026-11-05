@@ -1,0 +1,13 @@
+{
+  "name": "siesta-ai",
+  "displayName": "Siesta AI",
+  "description": "Agents, knowledge & workflows.",
+  "homepage": "https://siesta.ai",
+  "docs": "https://api.siesta.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "siesta-ai": {
+      "url": "https://api.siesta.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "boring-data-platform",
+  "displayName": "Boring Data Platform",
+  "description": "Federal procurement research.",
+  "homepage": "https://www.boringdataplatform.com/developers",
+  "docs": "https://www.boringdataplatform.com/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "boring-data-platform": {
+      "url": "https://www.boringdataplatform.com/api/mcp"
+    }
+  }
+}

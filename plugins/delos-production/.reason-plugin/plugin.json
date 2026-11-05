@@ -1,0 +1,13 @@
+{
+  "name": "delos-production",
+  "displayName": "Delos",
+  "description": "Explore and submit enquiries.",
+  "homepage": "https://www.delos.international/",
+  "docs": "https://tedix.dev/apps/delos/",
+  "auth": "none",
+  "mcpServers": {
+    "delos-production": {
+      "url": "https://api.delosintelligence.com/mcp"
+    }
+  }
+}

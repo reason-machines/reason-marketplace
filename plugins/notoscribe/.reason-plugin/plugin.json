@@ -1,0 +1,13 @@
+{
+  "name": "notoscribe",
+  "displayName": "NotoScribe",
+  "description": "Search recordings and notes.",
+  "homepage": "https://notoscribe.com",
+  "docs": "https://notoscribe.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "notoscribe": {
+      "url": "https://notoscribe.com/api/mcp"
+    }
+  }
+}

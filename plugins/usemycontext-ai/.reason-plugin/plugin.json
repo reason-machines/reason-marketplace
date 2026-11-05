@@ -1,0 +1,13 @@
+{
+  "name": "usemycontext-ai",
+  "displayName": "UseMyContext.ai",
+  "description": "Personal context for Reason.",
+  "homepage": "https://UseMyContext.ai",
+  "docs": "https://UseMyContext.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "usemycontext-ai": {
+      "url": "https://mcp.usemycontext.ai/mcp"
+    }
+  }
+}

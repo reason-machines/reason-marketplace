@@ -1,0 +1,13 @@
+{
+  "name": "socialclaw",
+  "displayName": "SocialClaw",
+  "description": "Schedule social media posts.",
+  "homepage": "https://getsocialclaw.com",
+  "docs": "https://getsocialclaw.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "socialclaw": {
+      "url": "https://getsocialclaw.com/mcp"
+    }
+  }
+}

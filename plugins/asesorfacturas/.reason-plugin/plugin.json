@@ -1,0 +1,13 @@
+{
+  "name": "asesorfacturas",
+  "displayName": "AsesorFacturas",
+  "description": "Search and draft invoices.",
+  "homepage": "https://www.asesorfacturas.es",
+  "docs": "https://www.asesorfacturas.es",
+  "auth": "oauth",
+  "mcpServers": {
+    "asesorfacturas": {
+      "url": "https://mcp.asesorfacturas.es/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "knowify",
+  "displayName": "Knowify",
+  "description": "Explore project data.",
+  "homepage": "https://knowify.com",
+  "docs": "https://developer.knowify.com/docs/guide/mcp-overview.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "knowify": {
+      "url": "https://assistant.knowify.com/api/v2/mcp"
+    }
+  }
+}

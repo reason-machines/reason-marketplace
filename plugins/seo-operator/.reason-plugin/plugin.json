@@ -1,0 +1,13 @@
+{
+  "name": "seo-operator",
+  "displayName": "SEO Operator",
+  "description": "Read-only on-page SEO audits.",
+  "homepage": "https://seooperator.io/",
+  "docs": "https://seooperator.io/",
+  "auth": "none",
+  "mcpServers": {
+    "seo-operator": {
+      "url": "https://mcp.seooperator.io/mcp"
+    }
+  }
+}

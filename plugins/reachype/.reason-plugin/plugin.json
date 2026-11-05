@@ -1,0 +1,13 @@
+{
+  "name": "reachype",
+  "displayName": "Reachype",
+  "description": "Your marketing workspace.",
+  "homepage": "https://reachype.com/",
+  "docs": "https://reachype.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "reachype": {
+      "url": "https://mcp.reachype.com/mcp"
+    }
+  }
+}

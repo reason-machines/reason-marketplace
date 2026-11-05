@@ -1,0 +1,13 @@
+{
+  "name": "process-documentation-ai",
+  "displayName": "Process Documentation AI",
+  "description": "By Tallyfy. Free.",
+  "homepage": "https://tallyfy.com/tools/process-documentation-ai/",
+  "docs": "https://tallyfy.com/tools/process-documentation-ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "process-documentation-ai": {
+      "url": "https://mcp.tallyfy.com/mcp"
+    }
+  }
+}

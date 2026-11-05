@@ -1,0 +1,13 @@
+{
+  "name": "alpy-com",
+  "displayName": "Alpy.com",
+  "description": "Best ski rental on earth.",
+  "homepage": "https://alpy.com",
+  "docs": "https://alpy.com",
+  "auth": "none",
+  "mcpServers": {
+    "alpy-com": {
+      "url": "https://mcp.alpy.com/mcp"
+    }
+  }
+}

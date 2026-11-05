@@ -1,0 +1,13 @@
+{
+  "name": "shopitup",
+  "displayName": "ShopItUp",
+  "description": "Shop secondhand clothing.",
+  "homepage": "https://shopitup.ca",
+  "docs": "https://shopitup.ca",
+  "auth": "none",
+  "mcpServers": {
+    "shopitup": {
+      "url": "https://shopitup.ca/mcp"
+    }
+  }
+}

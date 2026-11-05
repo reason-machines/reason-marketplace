@@ -1,0 +1,13 @@
+{
+  "name": "hushword",
+  "displayName": "Hushword Imposter",
+  "description": "Impostor party word game.",
+  "homepage": "https://hushword.ambientapp.ai",
+  "docs": "https://hushword.ambientapp.ai/docs",
+  "auth": "none",
+  "mcpServers": {
+    "hushword": {
+      "url": "https://hushword.ambientapp.ai/mcp/claude"
+    }
+  }
+}

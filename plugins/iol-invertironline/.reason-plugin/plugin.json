@@ -1,0 +1,13 @@
+{
+  "name": "iol-invertironline",
+  "displayName": "IOL invertironline",
+  "description": "Trade Argentine investments.",
+  "homepage": "https://www.invertironline.com/",
+  "docs": "https://www.invertironline.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "iol-invertironline": {
+      "url": "https://mcp.invertironline.com/mcp"
+    }
+  }
+}

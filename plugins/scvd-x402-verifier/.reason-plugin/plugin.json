@@ -1,0 +1,13 @@
+{
+  "name": "scvd-x402-verifier",
+  "displayName": "SCVD x402 Verifier",
+  "description": "Check x402 doors and receipts.",
+  "homepage": "https://scvd.store",
+  "docs": "https://scvd.store",
+  "auth": "none",
+  "mcpServers": {
+    "scvd-x402-verifier": {
+      "url": "https://scvd.store/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "weprofit",
+  "displayName": "WeProfit",
+  "description": "Store profit and ad analytics.",
+  "homepage": "https://www.weprofit.com",
+  "docs": "https://www.weprofit.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "weprofit": {
+      "url": "https://api.weprofit.com/mcp"
+    }
+  }
+}

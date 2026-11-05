@@ -1,0 +1,13 @@
+{
+  "name": "destaire",
+  "displayName": "Déstaire",
+  "description": "Find luxury hotels and stays.",
+  "homepage": "https://destaire.com",
+  "docs": "https://destaire.com",
+  "auth": "none",
+  "mcpServers": {
+    "destaire": {
+      "url": "https://destaire.com/mcp"
+    }
+  }
+}

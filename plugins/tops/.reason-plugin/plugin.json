@@ -1,0 +1,13 @@
+{
+  "name": "tops",
+  "displayName": "TÕPS",
+  "description": "Lesson preparation in Estonian.",
+  "homepage": "https://tehisarud.ee",
+  "docs": "https://tehisarud.ee",
+  "auth": "none",
+  "mcpServers": {
+    "tops": {
+      "url": "https://mcp.tehisarud.ee/mcp"
+    }
+  }
+}

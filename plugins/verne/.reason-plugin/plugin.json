@@ -1,0 +1,13 @@
+{
+  "name": "verne",
+  "displayName": "Verne",
+  "description": "Save and refine travel plans.",
+  "homepage": "https://verne.me",
+  "docs": "https://verne.me/",
+  "auth": "oauth",
+  "mcpServers": {
+    "verne": {
+      "url": "https://api.verne.me/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ancuria-rentas-vallarta",
+  "displayName": "Ancuria — Rentas en Vallarta",
+  "description": "Rentas en Puerto Vallarta.",
+  "homepage": "https://ancuria.mx",
+  "docs": "https://ancuria.mx",
+  "auth": "none",
+  "mcpServers": {
+    "ancuria-rentas-vallarta": {
+      "url": "https://mcp.ancuria.mx/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "epk-properties",
+  "displayName": "EPK Properties",
+  "description": "Find homes and guides.",
+  "homepage": "https://epkproperties.com",
+  "docs": "https://epkproperties.com",
+  "auth": "none",
+  "mcpServers": {
+    "epk-properties": {
+      "url": "https://mcp.epkproperties.com/mcp"
+    }
+  }
+}

@@ -10,5 +10,154 @@
     "cockroachdb": {
       "url": "https://cockroachlabs.cloud/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "auditing-cis-benchmark",
+      "description": "Audits a self-hosted CockroachDB cluster against the CIS CockroachDB Benchmark v1.0.0 Level 1 controls. Supports two audit depths — quick automated scans and full CIS audit procedures. Produces a structured PASS/FAIL/MANUAL report covering installation, system hardening, logging, user access, data p",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "auditing-cis-benchmark",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-security-and-governance/auditing-cis-benchmark"
+    },
+    {
+      "name": "auditing-table-statistics",
+      "description": "Audits optimizer table statistics for staleness, missing coverage, and data quality issues using SHOW STATISTICS. Use when diagnosing poor query performance, unexpected plan changes, or after bulk data changes to identify stale statistics requiring refresh via CREATE STATISTICS.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "auditing-table-statistics",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-observability-and-diagnostics/auditing-table-statistics"
+    },
+    {
+      "name": "cockroachdb-sql",
+      "description": "Use when writing, generating, or optimizing SQL for CockroachDB, designing CockroachDB schemas, or when the user asks about CockroachDB-specific SQL patterns, type mappings, and distributed database best practices. Also use when encountering CockroachDB anti-patterns like missing primary keys, seque",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "cockroachdb-sql",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-query-and-schema-design/cockroachdb-sql"
+    },
+    {
+      "name": "configuring-audit-logging",
+      "description": "Configures SQL audit logging on CockroachDB clusters to capture security-relevant events including authentication, privilege changes, and sensitive data access. Use when enabling audit logging for compliance, setting up role-based audit policies, or verifying audit configuration.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "configuring-audit-logging",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-security-and-governance/configuring-audit-logging"
+    },
+    {
+      "name": "configuring-ip-allowlists",
+      "description": "Configures and hardens IP allowlists for CockroachDB Cloud clusters to restrict network access to authorized CIDR ranges. Use when tightening network security, removing overly permissive allowlist entries like 0.0.0.0/0, or setting up allowlists for a new cluster.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "configuring-ip-allowlists",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-security-and-governance/configuring-ip-allowlists"
+    },
+    {
+      "name": "configuring-log-export",
+      "description": "Configures log and metric export for CockroachDB Cloud clusters to external monitoring services including AWS CloudWatch, GCP Cloud Logging, and Datadog. Use when setting up log export for audit compliance, configuring metric export for monitoring, or troubleshooting log delivery issues.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "configuring-log-export",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-security-and-governance/configuring-log-export"
+    },
+    {
+      "name": "configuring-sso-and-scim",
+      "description": "Configures SSO authentication and SCIM 2.0 provisioning for CockroachDB across four distinct layers — Cloud Console SSO (SAML/OIDC), DB Console SSO (OIDC), SQL/Cluster SSO (JWT or LDAP/AD), and SCIM 2.0 automated provisioning. Use when enabling centralized identity management, setting up SSO for com",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "configuring-sso-and-scim",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-security-and-governance/configuring-sso-and-scim"
+    },
+    {
+      "name": "enabling-cmek-encryption",
+      "description": "Enables Customer-Managed Encryption Keys (CMEK) on CockroachDB Cloud clusters with the Advanced plan and Advanced Security Add-on to give organizations control over data-at-rest encryption keys via their cloud provider's KMS. Use when enabling CMEK for compliance, rotating encryption keys, or verify",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "enabling-cmek-encryption",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-security-and-governance/enabling-cmek-encryption"
+    },
+    {
+      "name": "enforcing-password-policies",
+      "description": "Configures and enforces password policies on CockroachDB clusters including minimum length, complexity requirements, and hash cost settings. Use when strengthening authentication requirements, setting up password policies for a new cluster, or meeting compliance password standards.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "enforcing-password-policies",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-security-and-governance/enforcing-password-policies"
+    },
+    {
+      "name": "hardening-user-privileges",
+      "description": "Hardens CockroachDB user privileges by auditing and tightening role-based access control, reducing admin grants, restricting PUBLIC role permissions, and applying least-privilege principles. Use when reducing excessive privileges, cleaning up admin access, or implementing RBAC best practices.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "hardening-user-privileges",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-security-and-governance/hardening-user-privileges"
+    },
+    {
+      "name": "managing-cluster-capacity",
+      "description": "Manages CockroachDB cluster capacity across all tiers. Self-Hosted covers node decommissioning for permanent removal and adding nodes for expansion. Advanced/BYOC covers scaling node count and machine size via Cloud Console, API, or Terraform. Standard covers adjusting provisioned compute (vCPUs). B",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "managing-cluster-capacity",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-operations-and-lifecycle/managing-cluster-capacity"
+    },
+    {
+      "name": "managing-cluster-settings",
+      "description": "Reviews, audits, and modifies CockroachDB cluster settings. Self-Hosted has full control over all settings and start flags. Advanced/BYOC can modify most SQL-level settings but infrastructure settings are managed by CRL. Standard has limited settings access — session variables are the primary tuning",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "managing-cluster-settings",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-operations-and-lifecycle/managing-cluster-settings"
+    },
+    {
+      "name": "managing-tls-certificates",
+      "description": "Manages TLS certificates for CockroachDB clusters including CA certificate configuration, client certificate authentication, certificate rotation, and troubleshooting SSL/TLS connection errors. Use when setting up client certificate auth, resolving SSL connection failures, rotating certificates, or ",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "managing-tls-certificates",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-security-and-governance/managing-tls-certificates"
+    },
+    {
+      "name": "molt-fetch",
+      "description": "Guide for using molt fetch to migrate data from PostgreSQL, MySQL, Oracle, or MSSQL to CockroachDB. Use when running molt fetch commands, configuring storage backends, handling fetch failures/resumption, or chaining fetch with verify.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "molt-fetch",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-onboarding-and-migrations/molt-fetch"
+    },
+    {
+      "name": "molt-replicator",
+      "description": "Guide for using the CockroachDB replicator to continuously replicate changes from PostgreSQL, MySQL, or Oracle to CockroachDB after an initial molt fetch data load. Use when setting up CDC replication, configuring pglogical/mylogical/oraclelogminer, or managing the fetch → replicator cutover workflo",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "molt-replicator",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-onboarding-and-migrations/molt-replicator"
+    },
+    {
+      "name": "molt-verify",
+      "description": "Guide for using molt verify to compare source and target databases for schema and row-level consistency after a migration. Use when running verify commands, tuning concurrency/sharding, handling schema mismatches, or validating data integrity post-migration.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "molt-verify",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-onboarding-and-migrations/molt-verify"
+    },
+    {
+      "name": "monitoring-background-jobs",
+      "description": "Monitors CockroachDB background job health by identifying failed, paused, and long-running jobs using SHOW JOBS and SHOW AUTOMATIC JOBS. Surfaces schema changes, backups/restores, automatic statistics collection, and SQL stats compaction jobs without DB Console access. Use when investigating schema ",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "monitoring-background-jobs",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-observability-and-diagnostics/monitoring-background-jobs"
+    },
+    {
+      "name": "reviewing-cluster-health",
+      "description": "Performs a comprehensive health check of a CockroachDB cluster. Gathers deployment context first, then provides tier-appropriate diagnostics. Self-Hosted uses SQL against node-level system tables and CLI. Advanced/BYOC use Cloud Console and SQL with node visibility. Standard monitors provisioned com",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "reviewing-cluster-health",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-operations-and-lifecycle/reviewing-cluster-health"
+    },
+    {
+      "name": "setting-up-local-cluster",
+      "description": "Downloads and starts a local CockroachDB cluster for development using the official binary. Use when a developer needs a local CockroachDB instance, when no cluster is available, or when setting up a new development environment.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "setting-up-local-cluster",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-onboarding-and-migrations/setting-up-local-cluster"
+    },
+    {
+      "name": "triaging-live-sql-activity",
+      "description": "Diagnoses live CockroachDB cluster performance issues by identifying long-running queries, busy sessions, and active transactions using SQL-only interfaces. Use when users report cluster slowness, high CPU, or need to find runaway queries and their source applications without DB Console access.",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "triaging-live-sql-activity",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-observability-and-diagnostics/triaging-live-sql-activity"
+    },
+    {
+      "name": "upgrading-cluster-version",
+      "description": "Guides CockroachDB version upgrades with tier-appropriate procedures. Self-Hosted covers manual rolling binary replacement with finalization control. Advanced/BYOC covers Console-initiated major upgrades, maintenance windows for patches, and release channel selection. Standard and Basic upgrades are",
+      "source": "cockroachlabs/cockroachdb-skills#e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd",
+      "skill": "upgrading-cluster-version",
+      "url": "https://github.com/cockroachlabs/cockroachdb-skills/tree/e14e86d23ce8ee2e7e40a34ce2944c2502b6eadd/skills/cockroachdb-operations-and-lifecycle/upgrading-cluster-version"
+    }
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "name": "mini-course-generator",
+  "displayName": "Mini Course Generator",
+  "description": "Create and manage courses.",
+  "homepage": "https://minicoursegenerator.com/",
+  "docs": "https://minicoursegenerator.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mini-course-generator": {
+      "url": "https://mcp.minicoursegenerator.com/mcp"
+    }
+  }
+}

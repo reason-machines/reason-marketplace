@@ -1,0 +1,13 @@
+{
+  "name": "signal-six",
+  "displayName": "Signal Six",
+  "description": "Competitive intelligence.",
+  "homepage": "https://signalsix.ai",
+  "docs": "https://signalsix.ai/connect/claude",
+  "auth": "oauth",
+  "mcpServers": {
+    "signal-six": {
+      "url": "https://signalsix.ai/api/mcp"
+    }
+  }
+}

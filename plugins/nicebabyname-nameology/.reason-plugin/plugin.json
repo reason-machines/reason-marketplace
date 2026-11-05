@@ -1,0 +1,13 @@
+{
+  "name": "nicebabyname-nameology",
+  "displayName": "NiceBabyName — Nameology",
+  "description": "Baby names with Nameology.",
+  "homepage": "https://nicebabyname.com",
+  "docs": "https://nicebabyname.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "nicebabyname-nameology": {
+      "url": "https://www.nicebabyname.com/mcp"
+    }
+  }
+}

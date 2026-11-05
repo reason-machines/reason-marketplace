@@ -1,0 +1,13 @@
+{
+  "name": "cotokim",
+  "displayName": "Cotokim",
+  "description": "Baby layette by city climate.",
+  "homepage": "https://cotokim.com/en-us",
+  "docs": "https://cotokim.com/en-us",
+  "auth": "none",
+  "mcpServers": {
+    "cotokim": {
+      "url": "https://cotokim.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pine-labs-payment-assistant",
+  "displayName": "Pine Labs Payment Assistant",
+  "description": "Know your payments better.",
+  "homepage": "https://www.pinelabs.com/",
+  "docs": "https://www.pinelabs.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "pine-labs-payment-assistant": {
+      "url": "https://mcp.pinelabs.com/mcp"
+    }
+  }
+}

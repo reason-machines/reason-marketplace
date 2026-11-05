@@ -1,0 +1,13 @@
+{
+  "name": "hostinger-mail",
+  "displayName": "Hostinger Mail",
+  "description": "Use Hostinger Mail.",
+  "homepage": "https://hostinger.com",
+  "docs": "https://hostinger.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hostinger-mail": {
+      "url": "https://mcp.hostinger.com/"
+    }
+  }
+}

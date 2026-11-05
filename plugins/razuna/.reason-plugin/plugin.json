@@ -1,0 +1,13 @@
+{
+  "name": "razuna",
+  "displayName": "Razuna",
+  "description": "Search and manage DAM assets.",
+  "homepage": "https://razuna.com",
+  "docs": "https://razuna.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "razuna": {
+      "url": "https://mcp.razuna.com/mcp"
+    }
+  }
+}

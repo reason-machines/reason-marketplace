@@ -1,0 +1,13 @@
+{
+  "name": "scovell",
+  "displayName": "Scovell by Rotunda",
+  "description": "Name screening and reviews.",
+  "homepage": "https://scovell.rotundahq.com",
+  "docs": "https://scovell.rotundahq.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "scovell": {
+      "url": "https://scovell.rotundahq.com/mcp"
+    }
+  }
+}

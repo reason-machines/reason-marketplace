@@ -1,0 +1,13 @@
+{
+  "name": "boxtoplay",
+  "displayName": "BoxToPlay",
+  "description": "Manage game servers and VPS.",
+  "homepage": "https://www.boxtoplay.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.boxtoplay",
+  "auth": "oauth",
+  "mcpServers": {
+    "boxtoplay": {
+      "url": "https://api.boxtoplay.com/mcp"
+    }
+  }
+}

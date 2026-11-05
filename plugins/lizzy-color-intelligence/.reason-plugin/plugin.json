@@ -1,0 +1,13 @@
+{
+  "name": "lizzy-color-intelligence",
+  "displayName": "Lizzy",
+  "description": "Color trends and forecasts.",
+  "homepage": "https://golizzy.com",
+  "docs": "https://golizzy.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lizzy-color-intelligence": {
+      "url": "https://mcp.golizzy.com/mcp"
+    }
+  }
+}

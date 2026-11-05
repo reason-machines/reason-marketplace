@@ -1,0 +1,13 @@
+{
+  "name": "pitch-1024",
+  "displayName": "Pitch 1024",
+  "description": "Reference pitches, real voices.",
+  "homepage": "https://pitch1024.com",
+  "docs": "https://pitch1024.com",
+  "auth": "none",
+  "mcpServers": {
+    "pitch-1024": {
+      "url": "https://mcp.pitch1024.com/mcp"
+    }
+  }
+}

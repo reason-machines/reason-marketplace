@@ -1,0 +1,13 @@
+{
+  "name": "cognee",
+  "displayName": "Cognee",
+  "description": "Long-term memory for Reason.",
+  "homepage": "https://www.cognee.ai",
+  "docs": "https://docs.cognee.ai/cognee-mcp/integrations/claude-code",
+  "auth": "oauth",
+  "mcpServers": {
+    "cognee": {
+      "url": "https://mcp.aws.cognee.ai/mcp"
+    }
+  }
+}

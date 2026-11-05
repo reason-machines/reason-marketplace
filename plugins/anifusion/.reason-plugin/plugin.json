@@ -1,0 +1,13 @@
+{
+  "name": "anifusion",
+  "displayName": "Anifusion",
+  "description": "Create anime, manga & comics.",
+  "homepage": "https://anifusion.ai/developers/api/",
+  "docs": "https://anifusion.ai/developers/api/",
+  "auth": "oauth",
+  "mcpServers": {
+    "anifusion": {
+      "url": "https://anifusion.ai/mcp"
+    }
+  }
+}

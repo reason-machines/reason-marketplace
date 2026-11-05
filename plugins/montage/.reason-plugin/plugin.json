@@ -1,0 +1,13 @@
+{
+  "name": "montage",
+  "displayName": "Montage",
+  "description": "Import videos and cut clips.",
+  "homepage": "https://montage.app/",
+  "docs": "https://montage.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "montage": {
+      "url": "https://mcp.montage.app/mcp"
+    }
+  }
+}

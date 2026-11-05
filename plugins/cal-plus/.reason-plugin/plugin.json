@@ -1,0 +1,13 @@
+{
+  "name": "cal-plus",
+  "displayName": "Cal Plus",
+  "description": "Personal Nutrition Coach.",
+  "homepage": "https://calplus.app/",
+  "docs": "https://calplus.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "cal-plus": {
+      "url": "https://mcp.calplus.app/mcp"
+    }
+  }
+}

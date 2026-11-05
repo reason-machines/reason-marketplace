@@ -1,0 +1,13 @@
+{
+  "name": "share-artifacts",
+  "displayName": "Share Artifacts",
+  "description": "Publish reports and slides.",
+  "homepage": "https://shareartifacts.dev",
+  "docs": "https://shareartifacts.dev/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "share-artifacts": {
+      "url": "https://shareartifacts.dev/api/mcp"
+    }
+  }
+}

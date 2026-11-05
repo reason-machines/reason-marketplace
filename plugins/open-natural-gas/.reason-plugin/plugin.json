@@ -1,0 +1,13 @@
+{
+  "name": "open-natural-gas",
+  "displayName": "Open Natural Gas",
+  "description": "Compare Georgia gas costs.",
+  "homepage": "https://opennaturalgas.org/",
+  "docs": "https://opennaturalgas.org/",
+  "auth": "none",
+  "mcpServers": {
+    "open-natural-gas": {
+      "url": "https://mcp.opennaturalgas.org/mcp"
+    }
+  }
+}

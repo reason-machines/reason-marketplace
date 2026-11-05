@@ -1,0 +1,13 @@
+{
+  "name": "greatquestion",
+  "displayName": "Great Question",
+  "description": "Search and run user research.",
+  "homepage": "https://www.greatquestion.com",
+  "docs": "https://www.greatquestion.com/resources/the-ultimate-guide-to-ux-research-with-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "greatquestion": {
+      "url": "https://greatquestion.co/api/mcp/v1"
+    }
+  }
+}

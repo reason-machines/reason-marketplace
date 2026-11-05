@@ -1,0 +1,13 @@
+{
+  "name": "satisfit",
+  "displayName": "SatisFIT",
+  "description": "Track workouts and progress.",
+  "homepage": "https://satis.fit",
+  "docs": "https://satis.fit/",
+  "auth": "oauth",
+  "mcpServers": {
+    "satisfit": {
+      "url": "https://api.satis.fit/mcp"
+    }
+  }
+}

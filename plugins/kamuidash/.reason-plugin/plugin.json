@@ -1,0 +1,13 @@
+{
+  "name": "kamuidash",
+  "displayName": "KamuiDash",
+  "description": "Manage apps on KamuiDash.",
+  "homepage": "https://dashboard.kamui-platform.com/",
+  "docs": "https://docs.kamui-platform.com/mcp.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "kamuidash": {
+      "url": "https://api.kamui-platform.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "everythings",
+  "displayName": "Everythings",
+  "description": "Review what your agents write.",
+  "homepage": "https://www.everythings.app",
+  "docs": "https://everythings.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "everythings": {
+      "url": "https://www.everythings.app/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lucid-beads",
+  "displayName": "Lucid Beads",
+  "description": "Create your dream bracelet.",
+  "homepage": "https://www.lucidbeads.com",
+  "docs": "https://www.lucidbeads.com",
+  "auth": "none",
+  "mcpServers": {
+    "lucid-beads": {
+      "url": "https://mcp.lucidbeads.com/mcp"
+    }
+  }
+}

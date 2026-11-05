@@ -1,0 +1,13 @@
+{
+  "name": "padeltrue-racket-finder",
+  "displayName": "PadelTrue Racket Finder",
+  "description": "Sourced padel racket specs.",
+  "homepage": "https://padeltrue.com/",
+  "docs": "https://padeltrue.com/",
+  "auth": "none",
+  "mcpServers": {
+    "padeltrue-racket-finder": {
+      "url": "https://padeltrue.com/mcp"
+    }
+  }
+}

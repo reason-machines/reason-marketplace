@@ -1,0 +1,13 @@
+{
+  "name": "caretta",
+  "displayName": "Caretta",
+  "description": "Unlock your sales calls.",
+  "homepage": "https://caretta.so",
+  "docs": "https://caretta.so/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "caretta": {
+      "url": "https://gateway.caretta.app/mcp"
+    }
+  }
+}

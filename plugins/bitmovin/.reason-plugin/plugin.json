@@ -1,0 +1,13 @@
+{
+  "name": "bitmovin",
+  "displayName": "Bitmovin",
+  "description": "Invoke Bitmovin with API tools.",
+  "homepage": "https://bitmovin.com/",
+  "docs": "https://bitmovin.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "bitmovin": {
+      "url": "https://mcp.bitmovin.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "super-carl",
+  "displayName": "Super Carl",
+  "description": "AI relationship intelligence.",
+  "homepage": "https://supercarl.ai",
+  "docs": "https://supercarl.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "super-carl": {
+      "url": "https://api.supercarl.ai/mcp"
+    }
+  }
+}

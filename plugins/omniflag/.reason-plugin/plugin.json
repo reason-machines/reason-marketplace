@@ -1,0 +1,13 @@
+{
+  "name": "omniflag",
+  "displayName": "OmniFlag",
+  "description": "Income tax and country matches.",
+  "homepage": "https://omniflag.app",
+  "docs": "https://omniflag.app",
+  "auth": "none",
+  "mcpServers": {
+    "omniflag": {
+      "url": "https://omniflag.app/mcp"
+    }
+  }
+}

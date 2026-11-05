@@ -1,0 +1,13 @@
+{
+  "name": "catchr",
+  "displayName": "Catchr",
+  "description": "Analyze your marketing data.",
+  "homepage": "https://catchr.io",
+  "docs": "https://catchr.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "catchr": {
+      "url": "https://api.catchr.io/mcp"
+    }
+  }
+}

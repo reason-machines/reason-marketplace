@@ -1,0 +1,13 @@
+{
+  "name": "batch-banana",
+  "displayName": "Batch Banana",
+  "description": "AI image and video generation.",
+  "homepage": "https://batchbanana.com",
+  "docs": "https://batchbanana.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "batch-banana": {
+      "url": "https://mcp.batchbanana.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sonny",
+  "displayName": "Sonny",
+  "description": "Manage customer support.",
+  "homepage": "https://www.usesonny.com",
+  "docs": "https://www.usesonny.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sonny": {
+      "url": "https://usesonny.com/mcp"
+    }
+  }
+}

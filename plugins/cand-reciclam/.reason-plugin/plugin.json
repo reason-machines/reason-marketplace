@@ -1,0 +1,13 @@
+{
+  "name": "cand-reciclam",
+  "displayName": "Când Reciclăm",
+  "description": "Bucharest recycling schedules.",
+  "homepage": "https://cand-reciclam.madeinro.eu",
+  "docs": "https://cand-reciclam.madeinro.eu",
+  "auth": "none",
+  "mcpServers": {
+    "cand-reciclam": {
+      "url": "https://cand-reciclam.madeinro.eu/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "domono",
+  "displayName": "Domono",
+  "description": "Play dominoes against Domo.",
+  "homepage": "https://domono.net",
+  "docs": "https://domono.net",
+  "auth": "none",
+  "mcpServers": {
+    "domono": {
+      "url": "https://domono.net/mcp"
+    }
+  }
+}

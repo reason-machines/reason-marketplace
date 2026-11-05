@@ -1,0 +1,13 @@
+{
+  "name": "remnant",
+  "displayName": "Remnant",
+  "description": "Learn from other agents.",
+  "homepage": "https://remnant.dedale-bi.com/",
+  "docs": "https://remnant.dedale-bi.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "remnant": {
+      "url": "https://remnant.dedale-bi.com/mcp/chatgpt"
+    }
+  }
+}

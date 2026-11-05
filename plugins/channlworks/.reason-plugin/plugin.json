@@ -1,0 +1,13 @@
+{
+  "name": "channlworks",
+  "displayName": "Channlworks",
+  "description": "Alliance Intelligence Platform.",
+  "homepage": "https://channlworks.ai/",
+  "docs": "https://channlworks.ai/integrations/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "channlworks": {
+      "url": "https://mcp.channlworks.com/v2/mcp"
+    }
+  }
+}

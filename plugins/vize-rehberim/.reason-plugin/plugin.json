@@ -1,0 +1,13 @@
+{
+  "name": "vize-rehberim",
+  "displayName": "Vize Rehberim",
+  "description": "Visa info for 172 countries.",
+  "homepage": "https://vizerehberim.net/",
+  "docs": "https://vizerehberim.net/",
+  "auth": "none",
+  "mcpServers": {
+    "vize-rehberim": {
+      "url": "https://mcp.vizerehberim.net/mcp"
+    }
+  }
+}

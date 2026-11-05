@@ -1,0 +1,13 @@
+{
+  "name": "velora-shuttle",
+  "displayName": "Velora Shuttle",
+  "description": "Private transfer requests.",
+  "homepage": "https://velora-shuttle.cz/chatgpt",
+  "docs": "https://velora-shuttle.cz/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "velora-shuttle": {
+      "url": "https://velora-shuttle.cz/api/mcp"
+    }
+  }
+}

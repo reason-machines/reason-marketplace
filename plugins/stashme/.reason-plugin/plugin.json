@@ -1,0 +1,13 @@
+{
+  "name": "stashme",
+  "displayName": "СтэшМи",
+  "description": "Your saved posts as lists.",
+  "homepage": "https://stashme.ru",
+  "docs": "https://stashme.ru",
+  "auth": "oauth",
+  "mcpServers": {
+    "stashme": {
+      "url": "https://stashme.ru/mcp"
+    }
+  }
+}

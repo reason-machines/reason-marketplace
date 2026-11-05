@@ -1,0 +1,13 @@
+{
+  "name": "superlinkin",
+  "displayName": "SuperLinkin",
+  "description": "LinkedIn inbox & reply drafts.",
+  "homepage": "https://superlinkin.com/chatgpt/",
+  "docs": "https://superlinkin.com/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "superlinkin": {
+      "url": "https://superlinkin.com/api/mcp"
+    }
+  }
+}

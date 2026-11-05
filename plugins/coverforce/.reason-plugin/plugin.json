@@ -1,0 +1,13 @@
+{
+  "name": "coverforce",
+  "displayName": "CoverForce",
+  "description": "Compare insurance quotes.",
+  "homepage": "https://www.coverforce.com/",
+  "docs": "https://tedix.dev/apps/coverforce/",
+  "auth": "oauth",
+  "mcpServers": {
+    "coverforce": {
+      "url": "https://mcp.api.coverforce.com/mcp"
+    }
+  }
+}

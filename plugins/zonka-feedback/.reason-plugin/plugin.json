@@ -1,0 +1,13 @@
+{
+  "name": "zonka-feedback",
+  "displayName": "Zonka Feedback",
+  "description": "Customer Feedback Intelligence.",
+  "homepage": "https://www.zonkafeedback.com",
+  "docs": "https://www.zonkafeedback.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "zonka-feedback": {
+      "url": "https://mcp.zonkafeedback.com/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gurusup-brain",
+  "displayName": "GuruSup Brain",
+  "description": "Your company brain.",
+  "homepage": "https://gurusup.com/brain/mcp",
+  "docs": "https://gurusup.com/brain/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "gurusup-brain": {
+      "url": "https://mcp.brain.gurusup.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "adneuron-meta-ads",
+  "displayName": "AdNeuron Ads Manager",
+  "description": "Your AI advertising copilot.",
+  "homepage": "https://adneuron.ai",
+  "docs": "https://adneuron.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "adneuron-meta-ads": {
+      "url": "https://mcp.adneuron.ai/mcp"
+    }
+  }
+}

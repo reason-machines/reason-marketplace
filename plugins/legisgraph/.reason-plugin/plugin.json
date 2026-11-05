@@ -1,0 +1,13 @@
+{
+  "name": "legisgraph",
+  "displayName": "LegisGraph",
+  "description": "Get access to legal content.",
+  "homepage": "https://legisratio.com",
+  "docs": "https://legisratio.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "legisgraph": {
+      "url": "https://mcp.legisratio.com/mcp"
+    }
+  }
+}

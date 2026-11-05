@@ -1,0 +1,13 @@
+{
+  "name": "ai-vaerk-werkstatt",
+  "displayName": "AI Værk Werkstatt",
+  "description": "Büroarbeit vorbereiten.",
+  "homepage": "https://werkstatt.ai-vaerk.de/info",
+  "docs": "https://werkstatt.ai-vaerk.de/info",
+  "auth": "none",
+  "mcpServers": {
+    "ai-vaerk-werkstatt": {
+      "url": "https://werkstatt.ai-vaerk.de/mcp"
+    }
+  }
+}

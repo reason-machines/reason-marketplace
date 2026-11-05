@@ -1,0 +1,13 @@
+{
+  "name": "focala",
+  "displayName": "Focala: AEO & GEO Analytics",
+  "description": "Brand & competitor tracking.",
+  "homepage": "https://focala.ai/",
+  "docs": "https://focala.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "focala": {
+      "url": "https://app.focala.ai/api/mcp"
+    }
+  }
+}

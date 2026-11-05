@@ -1,0 +1,13 @@
+{
+  "name": "scene-dept",
+  "displayName": "Scene Dept.",
+  "description": "Plan productions with AI.",
+  "homepage": "https://www.scenedept.com",
+  "docs": "https://www.scenedept.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "scene-dept": {
+      "url": "https://scenedept.com/mcp"
+    }
+  }
+}

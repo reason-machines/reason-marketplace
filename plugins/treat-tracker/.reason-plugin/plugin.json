@@ -1,0 +1,13 @@
+{
+  "name": "treat-tracker",
+  "displayName": "Treat Tracker",
+  "description": "Find trick-or-treat houses.",
+  "homepage": "https://treattracker.org",
+  "docs": "https://treattracker.org",
+  "auth": "none",
+  "mcpServers": {
+    "treat-tracker": {
+      "url": "https://mcp.treattracker.org/mcp"
+    }
+  }
+}

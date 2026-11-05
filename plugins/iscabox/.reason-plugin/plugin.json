@@ -1,0 +1,13 @@
+{
+  "name": "iscabox",
+  "displayName": "iscabox",
+  "description": "Pesca no Brasil: locais, marés.",
+  "homepage": "https://www.iscabox.com",
+  "docs": "https://iscabox.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "iscabox": {
+      "url": "https://www.iscabox.com/mcp"
+    }
+  }
+}

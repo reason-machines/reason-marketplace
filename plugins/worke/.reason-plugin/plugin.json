@@ -1,0 +1,13 @@
+{
+  "name": "worke",
+  "displayName": "Worke",
+  "description": "Read and analyse company data.",
+  "homepage": "https://www.worke.cz",
+  "docs": "https://www.worke.cz",
+  "auth": "oauth",
+  "mcpServers": {
+    "worke": {
+      "url": "https://mcp.worke.cz/mcp"
+    }
+  }
+}

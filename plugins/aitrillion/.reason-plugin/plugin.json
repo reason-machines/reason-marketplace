@@ -1,0 +1,13 @@
+{
+  "name": "aitrillion",
+  "displayName": "AiTrillion",
+  "description": "Ask about your store data.",
+  "homepage": "https://www.aitrillion.com",
+  "docs": "https://www.aitrillion.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "aitrillion": {
+      "url": "https://mcp.aitrillion.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "drivr",
+  "displayName": "DRIVR",
+  "description": "Cars & rentals in Tunisia.",
+  "homepage": "https://drivr.tn",
+  "docs": "https://drivr.tn",
+  "auth": "none",
+  "mcpServers": {
+    "drivr": {
+      "url": "https://mcp.drivr.tn/mcp"
+    }
+  }
+}

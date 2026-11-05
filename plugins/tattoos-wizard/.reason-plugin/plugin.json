@@ -1,0 +1,13 @@
+{
+  "name": "tattoos-wizard",
+  "displayName": "Tattoos Wizard",
+  "description": "Tattoo prices, artists, guides.",
+  "homepage": "https://tattooswizard.com/",
+  "docs": "https://tattooswizard.com/",
+  "auth": "none",
+  "mcpServers": {
+    "tattoos-wizard": {
+      "url": "https://mcp.tattooswizard.com/mcp"
+    }
+  }
+}

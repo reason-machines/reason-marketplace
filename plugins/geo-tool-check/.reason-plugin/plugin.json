@@ -1,0 +1,13 @@
+{
+  "name": "geo-tool-check",
+  "displayName": "GEO Tool Check",
+  "description": "Technical score on AI search.",
+  "homepage": "https://www.geo-tool.com/",
+  "docs": "https://www.geo-tool.com/",
+  "auth": "none",
+  "mcpServers": {
+    "geo-tool-check": {
+      "url": "https://geo-tool.com/mcp"
+    }
+  }
+}

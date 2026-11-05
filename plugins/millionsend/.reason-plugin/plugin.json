@@ -1,0 +1,13 @@
+{
+  "name": "millionsend",
+  "displayName": "MillionSend",
+  "description": "Send and track email.",
+  "homepage": "https://millionsend.com",
+  "docs": "https://millionsend.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "millionsend": {
+      "url": "https://api.millionsend.com/mcp"
+    }
+  }
+}

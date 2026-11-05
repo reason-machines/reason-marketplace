@@ -1,0 +1,13 @@
+{
+  "name": "dev-6abceb9234cc8191b8403f75f5940137",
+  "displayName": "Intelli",
+  "description": "Manage customer engagement.",
+  "homepage": "https://www.intelliconcierge.com/llms.txt",
+  "docs": "https://www.intelliconcierge.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "dev-6abceb9234cc8191b8403f75f5940137": {
+      "url": "https://mcp.intelliconcierge.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lovie",
+  "displayName": "Lovie",
+  "description": "Trademark and domain checks.",
+  "homepage": "https://www.lovie.co/",
+  "docs": "https://www.lovie.co/",
+  "auth": "oauth",
+  "mcpServers": {
+    "lovie": {
+      "url": "https://mcp.lovie.co/mcp"
+    }
+  }
+}

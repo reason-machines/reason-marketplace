@@ -1,0 +1,13 @@
+{
+  "name": "trustmrr",
+  "displayName": "TrustMRR",
+  "description": "Discover verified startups.",
+  "homepage": "https://trustmrr.com",
+  "docs": "https://trustmrr.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "trustmrr": {
+      "url": "https://trustmrr.com/api/mcp"
+    }
+  }
+}

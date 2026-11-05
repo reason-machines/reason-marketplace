@@ -1,0 +1,13 @@
+{
+  "name": "vaktim",
+  "displayName": "Vaktim",
+  "description": "Quran and prayer times.",
+  "homepage": "https://vaktim.app/en",
+  "docs": "https://vaktim.app/en",
+  "auth": "none",
+  "mcpServers": {
+    "vaktim": {
+      "url": "https://mcp.vaktim.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vaultsage",
+  "displayName": "VaultSage",
+  "description": "Search and store files.",
+  "homepage": "https://vaultsage.ai",
+  "docs": "https://vaultsage.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "vaultsage": {
+      "url": "https://mcp.vaultsage.ai/mcp"
+    }
+  }
+}

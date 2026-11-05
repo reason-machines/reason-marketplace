@@ -1,0 +1,13 @@
+{
+  "name": "phish-in",
+  "displayName": "Phish.in",
+  "description": "Live Phish audio archive.",
+  "homepage": "https://phish.in",
+  "docs": "https://phish.in",
+  "auth": "none",
+  "mcpServers": {
+    "phish-in": {
+      "url": "https://phish.in/mcp"
+    }
+  }
+}

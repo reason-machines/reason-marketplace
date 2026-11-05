@@ -1,0 +1,13 @@
+{
+  "name": "wounded-warriors",
+  "displayName": "Wounded Warriors",
+  "description": "Veteran help and giving info.",
+  "homepage": "https://warriorsfund.org/",
+  "docs": "https://warriorsfund.org/",
+  "auth": "none",
+  "mcpServers": {
+    "wounded-warriors": {
+      "url": "https://warriorsfund.org/mcp"
+    }
+  }
+}

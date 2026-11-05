@@ -1,0 +1,13 @@
+{
+  "name": "binary",
+  "displayName": "Binary ATS",
+  "description": "Manage hiring workflows.",
+  "homepage": "https://binary.so",
+  "docs": "https://binary.so/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "binary": {
+      "url": "https://api.binary.so/mcp"
+    }
+  }
+}

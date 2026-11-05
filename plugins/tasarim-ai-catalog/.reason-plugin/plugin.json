@@ -1,0 +1,13 @@
+{
+  "name": "tasarim-ai-catalog",
+  "displayName": "tasarim.ai AI Catalog",
+  "description": "Find and compare AI tools.",
+  "homepage": "https://tasarim.ai",
+  "docs": "https://tasarim.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "tasarim-ai-catalog": {
+      "url": "https://tasarim.ai/api/mcp"
+    }
+  }
+}

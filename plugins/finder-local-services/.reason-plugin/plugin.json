@@ -1,0 +1,13 @@
+{
+  "name": "finder-local-services",
+  "displayName": "Finder: local tradespeople",
+  "description": "Find local trades and services.",
+  "homepage": "https://finder-marketing.se/ai",
+  "docs": "https://finder-marketing.se/ai",
+  "auth": "none",
+  "mcpServers": {
+    "finder-local-services": {
+      "url": "https://mcp.finder-marketing.se/mcp"
+    }
+  }
+}

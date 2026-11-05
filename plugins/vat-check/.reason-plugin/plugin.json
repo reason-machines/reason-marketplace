@@ -1,0 +1,13 @@
+{
+  "name": "vat-check",
+  "displayName": "Zovo VAT Number Check",
+  "description": "EU VAT checks and dated logs.",
+  "homepage": "https://vat-check.zovo.one",
+  "docs": "https://vat-check.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "vat-check": {
+      "url": "https://vat-check.zovo.one/mcp"
+    }
+  }
+}

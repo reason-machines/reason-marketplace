@@ -1,0 +1,13 @@
+{
+  "name": "europea-seguros",
+  "displayName": "Europea Seguros",
+  "description": "Insurance quotes.",
+  "homepage": "https://europeaseguros.es/",
+  "docs": "https://tedix.dev/apps/europea-seguros/",
+  "auth": "none",
+  "mcpServers": {
+    "europea-seguros": {
+      "url": "https://v1.europea-seguros.mcp.waniwani.run/mcp"
+    }
+  }
+}

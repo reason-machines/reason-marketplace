@@ -1,0 +1,13 @@
+{
+  "name": "orderli",
+  "displayName": "Orderli",
+  "description": "QR ordering for restaurants.",
+  "homepage": "https://www.orderli.com",
+  "docs": "https://www.orderli.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "orderli": {
+      "url": "https://mcp.orderli.com/mcp"
+    }
+  }
+}

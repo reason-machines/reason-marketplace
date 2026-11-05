@@ -1,0 +1,13 @@
+{
+  "name": "draft-jobs",
+  "displayName": "Draft",
+  "description": "Your in-house hiring assistant.",
+  "homepage": "https://draft.jobs",
+  "docs": "https://draft.jobs/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "draft-jobs": {
+      "url": "https://draft.jobs/api/mcp"
+    }
+  }
+}

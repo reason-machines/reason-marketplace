@@ -1,0 +1,13 @@
+{
+  "name": "docteur-bet",
+  "displayName": "Docteur Bet",
+  "description": "Football match probabilities.",
+  "homepage": "https://docteurbet.fr/en/methodologie",
+  "docs": "https://docteurbet.fr/en/methodologie",
+  "auth": "none",
+  "mcpServers": {
+    "docteur-bet": {
+      "url": "https://mcp.docteurbet.fr/mcp"
+    }
+  }
+}

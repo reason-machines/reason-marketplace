@@ -1,0 +1,13 @@
+{
+  "name": "scoutee",
+  "displayName": "Scoutee",
+  "description": "Find public tenders.",
+  "homepage": "https://scoutee.org",
+  "docs": "https://scoutee.org/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "scoutee": {
+      "url": "https://scoutee.org/api/mcp/public"
+    }
+  }
+}

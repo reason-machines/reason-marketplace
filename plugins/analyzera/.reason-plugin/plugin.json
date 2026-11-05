@@ -1,0 +1,13 @@
+{
+  "name": "analyzera",
+  "displayName": "Analyzera",
+  "description": "Build and backtest strategies.",
+  "homepage": "https://analyzera.com",
+  "docs": "https://analyzera.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "analyzera": {
+      "url": "https://api.analyzera.com/mcp"
+    }
+  }
+}

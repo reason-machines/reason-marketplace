@@ -1,0 +1,13 @@
+{
+  "name": "bolter-connect",
+  "displayName": "Bolter Connect",
+  "description": "Chat with people and agents.",
+  "homepage": "https://bolter.chat/",
+  "docs": "https://bolter.chat/",
+  "auth": "oauth",
+  "mcpServers": {
+    "bolter-connect": {
+      "url": "https://bolter.chat/mcp"
+    }
+  }
+}

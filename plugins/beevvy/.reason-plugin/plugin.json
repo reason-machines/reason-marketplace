@@ -1,0 +1,13 @@
+{
+  "name": "beevvy",
+  "displayName": "Beevvy",
+  "description": "Loyalty, missions and rewards.",
+  "homepage": "https://beevvy.com",
+  "docs": "https://beevvy.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "beevvy": {
+      "url": "https://mcp.beevvy.com/mcp"
+    }
+  }
+}

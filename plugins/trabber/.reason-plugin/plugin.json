@@ -1,0 +1,13 @@
+{
+  "name": "trabber",
+  "displayName": "Trabber",
+  "description": "Find flights, hotels and cars.",
+  "homepage": "https://www.trabber.com",
+  "docs": "https://www.trabber.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "trabber": {
+      "url": "https://trabber.com/mcp"
+    }
+  }
+}

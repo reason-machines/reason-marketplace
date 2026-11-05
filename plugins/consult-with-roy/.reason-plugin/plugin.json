@@ -1,0 +1,13 @@
+{
+  "name": "consult-with-roy",
+  "displayName": "Consult with Roy",
+  "description": "Talk to Roy's Concierge Agent.",
+  "homepage": "https://www.consult-with-roy.com",
+  "docs": "https://www.consult-with-roy.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "consult-with-roy": {
+      "url": "https://mcp.consult-with-roy.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "found",
+  "displayName": "Found",
+  "description": "Banking, bookkeeping and taxes.",
+  "homepage": "https://found.com",
+  "docs": "https://found.com/help/manage-account/",
+  "auth": "oauth",
+  "mcpServers": {
+    "found": {
+      "url": "https://my.found.com/api/mcp"
+    }
+  }
+}

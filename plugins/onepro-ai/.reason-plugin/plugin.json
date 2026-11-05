@@ -1,0 +1,13 @@
+{
+  "name": "onepro-ai",
+  "displayName": "OnePro AI",
+  "description": "Análise de investimentos.",
+  "homepage": "https://etf1.com.br/",
+  "docs": "https://etf1.com.br/",
+  "auth": "oauth",
+  "mcpServers": {
+    "onepro-ai": {
+      "url": "https://etf1.com.br/mcp"
+    }
+  }
+}

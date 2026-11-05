@@ -1,0 +1,13 @@
+{
+  "name": "creddy",
+  "displayName": "Creddy: Credit Card Rewards",
+  "description": "Card perks, credits and points.",
+  "homepage": "https://getcreddy.com",
+  "docs": "https://getcreddy.com",
+  "auth": "none",
+  "mcpServers": {
+    "creddy": {
+      "url": "https://getcreddy.com/mcp"
+    }
+  }
+}

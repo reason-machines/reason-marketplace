@@ -1,0 +1,13 @@
+{
+  "name": "wikibrand",
+  "displayName": "WikiBrand",
+  "description": "Brand logos, colors and fonts.",
+  "homepage": "https://wikibrand.org",
+  "docs": "https://wikibrand.org/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "wikibrand": {
+      "url": "https://wikibrand.org/api/mcp"
+    }
+  }
+}

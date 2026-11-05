@@ -1,0 +1,13 @@
+{
+  "name": "atlante-clinico",
+  "displayName": "Atlante Clinico",
+  "description": "Find psychotherapy techniques.",
+  "homepage": "https://atlanteclinico.it",
+  "docs": "https://atlanteclinico.it/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlante-clinico": {
+      "url": "https://atlanteclinico.it/api/mcp"
+    }
+  }
+}

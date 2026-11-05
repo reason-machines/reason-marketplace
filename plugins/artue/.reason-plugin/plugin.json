@@ -1,0 +1,13 @@
+{
+  "name": "artue",
+  "displayName": "artue",
+  "description": "Find art with natural language.",
+  "homepage": "https://artue.io",
+  "docs": "https://artue.io/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "artue": {
+      "url": "https://artue.io/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "quickchat-ai",
+  "displayName": "Quickchat AI",
+  "description": "Build and manage AI Agents.",
+  "homepage": "https://quickchat.ai",
+  "docs": "https://docs.quickchat.ai/manage-with-ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "quickchat-ai": {
+      "url": "https://app.quickchat.ai/v1/api/mcp/rpc"
+    }
+  }
+}

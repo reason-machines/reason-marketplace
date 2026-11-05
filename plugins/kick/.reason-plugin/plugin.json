@@ -1,0 +1,13 @@
+{
+  "name": "kick",
+  "displayName": "Kick",
+  "description": "Read and update your books.",
+  "homepage": "https://www.kick.co/",
+  "docs": "https://docs.kick.co/ai/developer-tools/mcp/tool-reference.md",
+  "auth": "oauth",
+  "mcpServers": {
+    "kick": {
+      "url": "https://use.kick.co/mcp"
+    }
+  }
+}

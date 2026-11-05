@@ -1,0 +1,13 @@
+{
+  "name": "wild-calf-coffee",
+  "displayName": "Wild Calf Coffee",
+  "description": "Find and brew better coffee.",
+  "homepage": "https://wildcalf.com/",
+  "docs": "https://wildcalf.com/",
+  "auth": "none",
+  "mcpServers": {
+    "wild-calf-coffee": {
+      "url": "https://mcp.wildcalf.com/mcp"
+    }
+  }
+}

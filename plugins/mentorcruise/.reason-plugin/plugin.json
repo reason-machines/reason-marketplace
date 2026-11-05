@@ -1,0 +1,13 @@
+{
+  "name": "mentorcruise",
+  "displayName": "MentorCruise",
+  "description": "Find and apply to mentors.",
+  "homepage": "https://mentorcruise.com",
+  "docs": "https://mentorcruise.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mentorcruise": {
+      "url": "https://mentorcruise.com/mcp"
+    }
+  }
+}

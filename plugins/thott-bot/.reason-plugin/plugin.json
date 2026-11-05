@@ -1,0 +1,13 @@
+{
+  "name": "thott-bot",
+  "displayName": "thott.bot",
+  "description": "Reason knows WoW Forever.",
+  "homepage": "https://thott.bot",
+  "docs": "https://thott.bot",
+  "auth": "oauth",
+  "mcpServers": {
+    "thott-bot": {
+      "url": "https://mcp.thott.bot/mcp"
+    }
+  }
+}

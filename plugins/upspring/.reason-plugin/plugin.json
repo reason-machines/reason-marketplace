@@ -1,0 +1,13 @@
+{
+  "name": "upspring",
+  "displayName": "Upspring",
+  "description": "Live ads as AI context.",
+  "homepage": "https://upspring.ai",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.RonDaha/upspring",
+  "auth": "oauth",
+  "mcpServers": {
+    "upspring": {
+      "url": "https://api.upspring.ai/mcp"
+    }
+  }
+}

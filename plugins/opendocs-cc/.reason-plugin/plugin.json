@@ -1,0 +1,13 @@
+{
+  "name": "opendocs-cc",
+  "displayName": "OpenDocs.cc",
+  "description": "Markdown to shareable docs.",
+  "homepage": "https://opendocs.cc/llms.txt",
+  "docs": "https://opendocs.cc/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "opendocs-cc": {
+      "url": "https://mcp.opendocs.cc/mcp"
+    }
+  }
+}

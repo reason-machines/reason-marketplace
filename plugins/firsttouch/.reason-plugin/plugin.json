@@ -1,0 +1,13 @@
+{
+  "name": "firsttouch",
+  "displayName": "FirstTouch",
+  "description": "Run outreach flows and tasks.",
+  "homepage": "https://www.firsttouch.com/",
+  "docs": "https://www.firsttouch.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "firsttouch": {
+      "url": "https://mcp.firsttouch.com/mcp"
+    }
+  }
+}

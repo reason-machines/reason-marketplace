@@ -1,0 +1,13 @@
+{
+  "name": "kaebox",
+  "displayName": "Kaebox",
+  "description": "Compare Live Shipping Rates.",
+  "homepage": "https://kaebox.com",
+  "docs": "https://kaebox.com",
+  "auth": "none",
+  "mcpServers": {
+    "kaebox": {
+      "url": "https://mcp.kaebox.com/mcp"
+    }
+  }
+}

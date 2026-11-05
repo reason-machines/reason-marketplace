@@ -1,0 +1,13 @@
+{
+  "name": "auntbird-practice-management",
+  "displayName": "AuntBird Practice Management",
+  "description": "Access Auntbird.",
+  "homepage": "https://auntbird.com/",
+  "docs": "https://auntbird.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "auntbird-practice-management": {
+      "url": "https://mcp.auntbird.com/mcp"
+    }
+  }
+}

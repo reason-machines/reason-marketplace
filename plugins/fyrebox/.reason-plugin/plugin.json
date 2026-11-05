@@ -1,0 +1,13 @@
+{
+  "name": "fyrebox",
+  "displayName": "Fyrebox",
+  "description": "Create quizzes from chat.",
+  "homepage": "https://www.fyrebox.com/",
+  "docs": "https://www.fyrebox.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "fyrebox": {
+      "url": "https://fyrebox.com/mcp"
+    }
+  }
+}

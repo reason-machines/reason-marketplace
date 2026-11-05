@@ -1,0 +1,13 @@
+{
+  "name": "zeno-household",
+  "displayName": "Zeno Household",
+  "description": "Household money, guided.",
+  "homepage": "https://zenonest.com",
+  "docs": "https://zenonest.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "zeno-household": {
+      "url": "https://api.zenonest.com/mcp"
+    }
+  }
+}

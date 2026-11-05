@@ -1,0 +1,13 @@
+{
+  "name": "theia-insights",
+  "displayName": "Theia Insights",
+  "description": "Thematic investing data.",
+  "homepage": "https://www.theiainsights.com",
+  "docs": "https://www.theiainsights.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "theia-insights": {
+      "url": "https://mcp.theiainsights.com/mcp"
+    }
+  }
+}

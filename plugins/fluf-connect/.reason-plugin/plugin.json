@@ -1,0 +1,13 @@
+{
+  "name": "fluf-connect",
+  "displayName": "FLUF Connect",
+  "description": "Crosslist to every marketplace.",
+  "homepage": "https://fluf.io/",
+  "docs": "https://fluf.io/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "fluf-connect": {
+      "url": "https://fluf.io/wp-json/fc/mcp"
+    }
+  }
+}

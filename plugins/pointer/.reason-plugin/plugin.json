@@ -1,0 +1,13 @@
+{
+  "name": "pointer",
+  "displayName": "Pointer",
+  "description": "Build and run automations.",
+  "homepage": "https://www.pointer.ai",
+  "docs": "https://api.pointer.ai/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "pointer": {
+      "url": "https://api.pointer.ai/mcp"
+    }
+  }
+}

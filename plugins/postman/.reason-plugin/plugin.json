@@ -10,5 +10,126 @@
     "postman": {
       "url": "https://mcp.postman.com/minimal"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "ai-readiness",
+      "description": "Use when assessing or improving how well AI agents can discover, call, and recover from errors with an API. Scores an existing Postman collection or OpenAPI spec and turns measured gaps into contract improvements; supports a separate CI readiness threshold. Use for requests such as \"is this API read",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "ai-readiness",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/ai-readiness"
+    },
+    {
+      "name": "api-discovery",
+      "description": "Use when finding an API or owner, integrating a public provider, locating Postman resources, or investigating consumers and change impact across services. Turns discovered contracts and mocks into reusable dependencies and identifies evidence outside the current checkout. Use for requests such as \"w",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "api-discovery",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/api-discovery"
+    },
+    {
+      "name": "api-documentation",
+      "description": "Use when defining or improving an API contract, generating documentation from a collection or OpenAPI spec, publishing API docs, or sharing a documentation link. Makes auth, inputs, responses, and examples reusable by callers, tests, and mocks. Use for requests such as \"publish API docs\".",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "api-documentation",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/api-documentation"
+    },
+    {
+      "name": "api-engineer",
+      "description": "Use when designing, implementing, mocking, testing, monitoring, documenting, or deploying an API. Guides decisions using reusable local API contracts, tests, and mocks, plus organization-wide dependency context, and routes to the relevant Postman skills. Use for requests such as \"implement this endp",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "api-engineer",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/api-engineer"
+    },
+    {
+      "name": "api-mocking",
+      "description": "Finds, builds, runs and publishes a stand-in for one API — the owning team's published mock when there is one, otherwise one built from its spec or collection that behaves like the real API, stateful when callers write then read. Use when something needs an API that isn't built or reachable yet (a f",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "api-mocking",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/api-mocking"
+    },
+    {
+      "name": "api-monitoring",
+      "description": "Use when setting up recurring API checks, running or diagnosing a Postman Monitor, changing its schedule, or reaching private APIs through a self-hosted runner. Reuses collection assertions to detect live regressions and traces failures to individual run evidence. Use for requests such as \"check thi",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "api-monitoring",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/api-monitoring"
+    },
+    {
+      "name": "api-simulation",
+      "description": "Runs services, frontends, tests or demos against stand-ins for their HTTP dependencies, served as one environment locally or at a deployed URL. Use when you add or change code that calls other services and need to run it, test it, prove a fix or reproduce an upstream failure (timeouts, 5xx, 409, 429",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "api-simulation",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/api-simulation"
+    },
+    {
+      "name": "api-testing",
+      "description": "Use when testing an endpoint, running collection assertions, or checking real application traffic against an API contract. Reuses saved requests and reports what live, mocked, or captured-traffic results actually establish. Use for requests such as \"test this endpoint\".",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "api-testing",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/api-testing"
+    },
+    {
+      "name": "application-testing",
+      "description": "Sets up, runs, debugs, and interprets results from `postman application test` — the Postman layer that runs your Playwright tests, captures their network traffic, matches it against a collection contract, runs pm.test assertions, and publishes results to Application Inventory. Covers the Postman sid",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "application-testing",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/application-testing"
+    },
+    {
+      "name": "ci-integration",
+      "description": "Use when adding API tests, structural or governance lint, or AI-readiness gates to CI, or publishing reviewed API artifacts to a Postman workspace after merge. Makes contract checks repeatable and separates validation from shared workspace changes. Use for requests such as \"run this collection on ev",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "ci-integration",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/ci-integration"
+    },
+    {
+      "name": "collection-schema-v3",
+      "description": "Use when writing or debugging local Postman v3 collection and environment YAML, including collection lint failures. Preserves the per-entity files, inherited context, and schema shapes that make API changes reusable and reviewable in Git. Use for requests such as \"fix this request YAML\".",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "collection-schema-v3",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/collection-schema-v3"
+    },
+    {
+      "name": "datasets",
+      "description": "Use when a collection needs queried or joined test inputs, a reusable named view, spreadsheet worksheet data, live database rows, or script access through pm.datasets(). Chooses between a simple iteration file and a dataset while preserving query semantics, portability, and credential boundaries. Us",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "datasets",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/datasets"
+    },
+    {
+      "name": "flows",
+      "description": "Use when running, deploying, or debugging an existing Postman Flow. Distinguishes local graph execution from a deployed webhook, reuses named input scenarios, and follows a run to the failing block rather than treating an HTTP response as whole-flow success. Use for requests such as \"why did this fl",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "flows",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/flows"
+    },
+    {
+      "name": "performance-testing",
+      "description": "Use when load-testing or benchmarking an API with concurrent virtual users and latency or error thresholds. Reuses a collection to probe a chosen failure mode and distinguishes target limits from load-generator limits. Use for requests such as \"load test this API\".",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "performance-testing",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/performance-testing"
+    },
+    {
+      "name": "postman-mcp-server",
+      "description": "Use when working through Postman MCP tools to inspect or change workspace resources, choose a targeted operation, or handle MCP limitations. Supports hosted workflows when the CLI is unavailable and distinguishes tool completion from a usable result. Use for requests such as \"use Postman MCP to insp",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "postman-mcp-server",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/postman-mcp-server"
+    },
+    {
+      "name": "variables",
+      "description": "Use when parameterizing requests across environments, choosing variable scopes, chaining values in scripts, or referencing credentials without committing or exposing them. Keeps one reusable collection while separating target configuration from secret values. Use for requests such as \"where should I",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "variables",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/variables"
+    },
+    {
+      "name": "webhook-testing",
+      "description": "Capture, forward to localhost, replay, and validate webhook deliveries using a reusable public URL. Keep sender configuration across debugging sessions and record arrivals even while local forwarding is stopped, helping distinguish delivery failures from local connectivity issues. Use for implementi",
+      "source": "postmanlabs/postman-plugin#9d5544f815a1d636dbd0126c609e827bf06fc0d7",
+      "skill": "webhook-testing",
+      "url": "https://github.com/postmanlabs/postman-plugin/tree/9d5544f815a1d636dbd0126c609e827bf06fc0d7/skills/webhook-testing"
+    }
+  ]
 }

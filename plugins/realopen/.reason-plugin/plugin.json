@@ -1,0 +1,13 @@
+{
+  "name": "realopen",
+  "displayName": "RealOpen",
+  "description": "Buy a home with crypto.",
+  "homepage": "https://realopen.com",
+  "docs": "https://github.com/realopengroup/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "realopen": {
+      "url": "https://mcp.realopen.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "quibity",
+  "displayName": "Quibity",
+  "description": "Travel eSIMs, plans and usage.",
+  "homepage": "https://quibity.com",
+  "docs": "https://quibity.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "quibity": {
+      "url": "https://mcp.quibity.com/mcp"
+    }
+  }
+}

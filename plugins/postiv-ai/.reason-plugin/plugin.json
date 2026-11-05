@@ -1,0 +1,13 @@
+{
+  "name": "postiv-ai",
+  "displayName": "Postiv AI",
+  "description": "Create & manage social content.",
+  "homepage": "https://postiv.ai",
+  "docs": "https://postiv.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "postiv-ai": {
+      "url": "https://postiv.ai/mcp"
+    }
+  }
+}

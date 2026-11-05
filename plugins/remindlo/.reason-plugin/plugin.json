@@ -1,0 +1,13 @@
+{
+  "name": "remindlo",
+  "displayName": "Remindlo",
+  "description": "Appointment reminders by SMS.",
+  "homepage": "https://www.remindlo.co.uk",
+  "docs": "https://www.remindlo.co.uk",
+  "auth": "oauth",
+  "mcpServers": {
+    "remindlo": {
+      "url": "https://mcp.remindlo.co.uk/mcp"
+    }
+  }
+}

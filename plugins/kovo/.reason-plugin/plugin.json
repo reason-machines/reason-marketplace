@@ -1,0 +1,13 @@
+{
+  "name": "kovo",
+  "displayName": "Kovo",
+  "description": "Your fitness command center.",
+  "homepage": "https://kovofitness.com",
+  "docs": "https://www.kovofitness.com/ai-assistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "kovo": {
+      "url": "https://api.kovofitness.com/mcp"
+    }
+  }
+}

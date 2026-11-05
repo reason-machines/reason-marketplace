@@ -1,0 +1,13 @@
+{
+  "name": "merano",
+  "displayName": "MeranO",
+  "description": "Hotels, hikes, events, food.",
+  "homepage": "https://app.merano.eu/",
+  "docs": "https://app.merano.eu/",
+  "auth": "none",
+  "mcpServers": {
+    "merano": {
+      "url": "https://app.merano.eu/mcp"
+    }
+  }
+}

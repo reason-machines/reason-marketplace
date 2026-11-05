@@ -1,0 +1,13 @@
+{
+  "name": "open-medicine",
+  "displayName": "Open Medicine",
+  "description": "Search clinical algorithms.",
+  "homepage": "https://myopenmedicine.com",
+  "docs": "https://myopenmedicine.com",
+  "auth": "none",
+  "mcpServers": {
+    "open-medicine": {
+      "url": "https://myopenmedicine.com/mcp"
+    }
+  }
+}

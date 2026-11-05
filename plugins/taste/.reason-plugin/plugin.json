@@ -1,0 +1,13 @@
+{
+  "name": "taste",
+  "displayName": "Taste",
+  "description": "Find your design references.",
+  "homepage": "https://buildwithtaste.com",
+  "docs": "https://buildwithtaste.com",
+  "auth": "none",
+  "mcpServers": {
+    "taste": {
+      "url": "https://mcp.buildwithtaste.com/mcp"
+    }
+  }
+}

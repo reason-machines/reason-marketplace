@@ -1,0 +1,13 @@
+{
+  "name": "drag",
+  "displayName": "Drag",
+  "description": "Gmail shared inbox for teams.",
+  "homepage": "https://www.dragapp.com",
+  "docs": "https://www.dragapp.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "drag": {
+      "url": "https://app.dragapp.com/mcp"
+    }
+  }
+}

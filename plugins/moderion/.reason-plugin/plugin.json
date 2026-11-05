@@ -1,0 +1,13 @@
+{
+  "name": "moderion",
+  "displayName": "Moderion",
+  "description": "Design your life intentionally.",
+  "homepage": "https://moderion.ai",
+  "docs": "https://moderion.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "moderion": {
+      "url": "https://mcp.moderion.ai/"
+    }
+  }
+}

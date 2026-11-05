@@ -1,0 +1,13 @@
+{
+  "name": "one-u-education",
+  "displayName": "One U Education",
+  "description": "Australian courses & migration.",
+  "homepage": "https://www.oneuedu.com",
+  "docs": "https://www.oneuedu.com",
+  "auth": "none",
+  "mcpServers": {
+    "one-u-education": {
+      "url": "https://mcp.oneuedu.com/mcp"
+    }
+  }
+}

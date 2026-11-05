@@ -1,0 +1,13 @@
+{
+  "name": "blitzreels",
+  "displayName": "BlitzReels",
+  "description": "Turn recordings into clips.",
+  "homepage": "https://www.blitzreels.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.blitzreels/blitzreels",
+  "auth": "oauth",
+  "mcpServers": {
+    "blitzreels": {
+      "url": "https://blitzreels.com/api/mcp"
+    }
+  }
+}

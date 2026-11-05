@@ -1,0 +1,13 @@
+{
+  "name": "eventmatch",
+  "displayName": "EventMatch",
+  "description": "Prioritize event prospects.",
+  "homepage": "https://eventmatch.ai",
+  "docs": "https://eventmatch.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "eventmatch": {
+      "url": "https://eventmatch.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "access-yami",
+  "displayName": "Access Yami",
+  "description": "Shop all of Asia's best.",
+  "homepage": "https://www.yami.com",
+  "docs": "https://www.yami.com",
+  "auth": "none",
+  "mcpServers": {
+    "access-yami": {
+      "url": "https://mcp.yami.com/mcp"
+    }
+  }
+}

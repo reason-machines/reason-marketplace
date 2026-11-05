@@ -1,0 +1,13 @@
+{
+  "name": "speak-to-your-database",
+  "displayName": "Speak To Your Database",
+  "description": "Ask your Odoo or SQL database.",
+  "homepage": "https://speaktoyourdatabase.com",
+  "docs": "https://speaktoyourdatabase.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "speak-to-your-database": {
+      "url": "https://speaktoyourdatabase.com/mcp"
+    }
+  }
+}

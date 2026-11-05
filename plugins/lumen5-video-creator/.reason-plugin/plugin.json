@@ -1,0 +1,13 @@
+{
+  "name": "lumen5-video-creator",
+  "displayName": "Lumen5 Video Creator",
+  "description": "Create videos in Lumen5.",
+  "homepage": "https://lumen5.com/",
+  "docs": "https://lumen5.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "lumen5-video-creator": {
+      "url": "https://lumen5.com/mcp"
+    }
+  }
+}

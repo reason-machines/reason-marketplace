@@ -1,0 +1,13 @@
+{
+  "name": "helios",
+  "displayName": "Helios",
+  "description": "Workouts, meals, and progress.",
+  "homepage": "https://www.getheliosapp.com/",
+  "docs": "https://www.getheliosapp.com/docs/mcp-tools/",
+  "auth": "oauth",
+  "mcpServers": {
+    "helios": {
+      "url": "https://api.getheliosapp.com/mcp"
+    }
+  }
+}

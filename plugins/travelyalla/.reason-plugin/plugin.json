@@ -1,0 +1,13 @@
+{
+  "name": "travelyalla",
+  "displayName": "TravelYalla",
+  "description": "Find cheap flights & hotels.",
+  "homepage": "https://travelyalla.com",
+  "docs": "https://travelyalla.com",
+  "auth": "none",
+  "mcpServers": {
+    "travelyalla": {
+      "url": "https://mcp.travelyalla.com/mcp"
+    }
+  }
+}

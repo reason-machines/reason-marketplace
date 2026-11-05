@@ -1,0 +1,13 @@
+{
+  "name": "finlens",
+  "displayName": "FinLens",
+  "description": "Vietnam finance data.",
+  "homepage": "https://finlens.vn/",
+  "docs": "https://finlens.vn/",
+  "auth": "oauth",
+  "mcpServers": {
+    "finlens": {
+      "url": "https://mcp.finlens.vn/mcp"
+    }
+  }
+}

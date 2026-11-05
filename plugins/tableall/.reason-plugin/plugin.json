@@ -1,0 +1,13 @@
+{
+  "name": "tableall",
+  "displayName": "TABLEALL",
+  "description": "Reserve fine dining in Japan.",
+  "homepage": "https://www.tableall.com",
+  "docs": "https://tableall.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "tableall": {
+      "url": "https://mcp.tableall.com/sse"
+    }
+  }
+}

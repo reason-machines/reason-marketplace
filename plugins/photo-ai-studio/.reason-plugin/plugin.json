@@ -1,0 +1,13 @@
+{
+  "name": "photo-ai-studio",
+  "displayName": "Photo AI Studio",
+  "description": "AI headshots from your photos.",
+  "homepage": "https://www.photoaistudio.com",
+  "docs": "https://photoaistudio.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "photo-ai-studio": {
+      "url": "https://www.photoaistudio.com/api/mcp"
+    }
+  }
+}

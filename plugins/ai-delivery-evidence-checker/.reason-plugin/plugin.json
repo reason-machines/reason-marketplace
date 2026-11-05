@@ -1,0 +1,13 @@
+{
+  "name": "ai-delivery-evidence-checker",
+  "displayName": "AI Delivery Evidence Checker",
+  "description": "Verify AI delivery evidence.",
+  "homepage": "https://ai-delivery-evidence-checker.sidcraigau.workers.dev",
+  "docs": "https://ai-delivery-evidence-checker.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "ai-delivery-evidence-checker": {
+      "url": "https://ai-delivery-evidence-checker.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

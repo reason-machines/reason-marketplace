@@ -1,0 +1,13 @@
+{
+  "name": "fillo",
+  "displayName": "Fillo",
+  "description": "Build and publish forms.",
+  "homepage": "https://fillo.so",
+  "docs": "https://fillo.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "fillo": {
+      "url": "https://fillo.so/mcp"
+    }
+  }
+}

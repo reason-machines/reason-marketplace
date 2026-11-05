@@ -1,0 +1,13 @@
+{
+  "name": "clera",
+  "displayName": "Clera",
+  "description": "Find talent and manage hiring.",
+  "homepage": "https://www.getclera.com/",
+  "docs": "https://www.getclera.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "clera": {
+      "url": "https://mcp.getclera.com/mcp"
+    }
+  }
+}

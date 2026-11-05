@@ -1,0 +1,13 @@
+{
+  "name": "pathrule",
+  "displayName": "Pathrule",
+  "description": "Project memory, rules, skills.",
+  "homepage": "https://pathrule.io",
+  "docs": "https://pathrule.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "pathrule": {
+      "url": "https://mcp.pathrule.io/mcp"
+    }
+  }
+}

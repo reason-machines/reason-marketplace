@@ -1,0 +1,13 @@
+{
+  "name": "consultant-dev",
+  "displayName": "Consultant.dev",
+  "description": "Find consultant assignments.",
+  "homepage": "https://consultant.dev",
+  "docs": "https://consultant.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "consultant-dev": {
+      "url": "https://mcp.consultant.dev/mcp"
+    }
+  }
+}

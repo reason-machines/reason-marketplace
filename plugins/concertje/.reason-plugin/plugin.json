@@ -1,0 +1,13 @@
+{
+  "name": "concertje",
+  "displayName": "Concertje",
+  "description": "Find concerts and tickets.",
+  "homepage": "https://concertje.be",
+  "docs": "https://concertje.be/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "concertje": {
+      "url": "https://ai.concertje.be/mcp"
+    }
+  }
+}

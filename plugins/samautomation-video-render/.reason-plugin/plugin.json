@@ -1,0 +1,13 @@
+{
+  "name": "samautomation-video-render",
+  "displayName": "Samautomation Video",
+  "description": "Assemble media into an MP4.",
+  "homepage": "https://samautomation.work/plugin/",
+  "docs": "https://samautomation.work/plugin/",
+  "auth": "oauth",
+  "mcpServers": {
+    "samautomation-video-render": {
+      "url": "https://samautomation.work/mcp"
+    }
+  }
+}

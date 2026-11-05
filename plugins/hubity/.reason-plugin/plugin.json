@@ -1,0 +1,13 @@
+{
+  "name": "hubity",
+  "displayName": "Hubity",
+  "description": "Bill the month, draft invoices.",
+  "homepage": "https://hubity.io/integrations/chatgpt?utm_source=chatgpt_directory&utm_medium=listing",
+  "docs": "https://hubity.io/integrations/chatgpt?utm_source=chatgpt_directory&utm_medium=listing",
+  "auth": "oauth",
+  "mcpServers": {
+    "hubity": {
+      "url": "https://hubity.io/api/mcp"
+    }
+  }
+}

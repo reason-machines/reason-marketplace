@@ -1,0 +1,13 @@
+{
+  "name": "memco-shared-memory",
+  "displayName": "Memco Shared Memory",
+  "description": "Shared memory for agents.",
+  "homepage": "https://memco.ai",
+  "docs": "https://docs.memco.ai/quickstart/",
+  "auth": "oauth",
+  "mcpServers": {
+    "memco-shared-memory": {
+      "url": "https://spark.memco.ai/mcp"
+    }
+  }
+}

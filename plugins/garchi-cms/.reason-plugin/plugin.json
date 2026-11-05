@@ -1,0 +1,13 @@
+{
+  "name": "garchi-cms",
+  "displayName": "Garchi CMS",
+  "description": "Manage web and social content.",
+  "homepage": "https://garchi.co.uk",
+  "docs": "https://garchi.co.uk",
+  "auth": "oauth",
+  "mcpServers": {
+    "garchi-cms": {
+      "url": "https://garchi.co.uk/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sharedbrief",
+  "displayName": "SharedBrief",
+  "description": "Proposals with read receipts.",
+  "homepage": "https://www.sharedbrief.com",
+  "docs": "https://www.sharedbrief.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sharedbrief": {
+      "url": "https://sharedbrief.com/mcp"
+    }
+  }
+}

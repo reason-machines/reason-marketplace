@@ -1,0 +1,13 @@
+{
+  "name": "magic-tips",
+  "displayName": "Magic Tips",
+  "description": "Find quiet Disney park days.",
+  "homepage": "https://magic-tips.app",
+  "docs": "https://magic-tips.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "magic-tips": {
+      "url": "https://magic-tips.app/api/mcp"
+    }
+  }
+}

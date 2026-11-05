@@ -1,0 +1,13 @@
+{
+  "name": "fit-file-forge",
+  "displayName": "Fit File Forge",
+  "description": "Your training, analyzed.",
+  "homepage": "https://www.fitfileforge.com/ai",
+  "docs": "https://www.fitfileforge.com/ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "fit-file-forge": {
+      "url": "https://mcp.fitfileforge.com/mcp"
+    }
+  }
+}

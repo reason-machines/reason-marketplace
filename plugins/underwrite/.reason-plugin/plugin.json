@@ -1,0 +1,13 @@
+{
+  "name": "underwrite",
+  "displayName": "Underwrite",
+  "description": "Dubai property facts, sourced.",
+  "homepage": "https://www.underwrite.ae",
+  "docs": "https://www.underwrite.ae/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "underwrite": {
+      "url": "https://www.underwrite.ae/api/mcp/mcp"
+    }
+  }
+}

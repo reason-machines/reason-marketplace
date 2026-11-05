@@ -1,0 +1,13 @@
+{
+  "name": "hustle-got-real",
+  "displayName": "Hustle Got Real",
+  "description": "Run your dropshipping store.",
+  "homepage": "https://hustlegotreal.com",
+  "docs": "https://hustlegotreal.com",
+  "auth": "none",
+  "mcpServers": {
+    "hustle-got-real": {
+      "url": "https://mcp.hustlegotreal.com/mcp"
+    }
+  }
+}

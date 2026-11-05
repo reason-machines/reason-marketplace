@@ -1,0 +1,13 @@
+{
+  "name": "featpaper",
+  "displayName": "FeatPaper",
+  "description": "Make and share documents.",
+  "homepage": "https://featpaper.com",
+  "docs": "https://featpaper.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "featpaper": {
+      "url": "https://mcp.featpaper.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "doitong",
+  "displayName": "Doitong",
+  "description": "Make AI videos and films.",
+  "homepage": "https://doitong.com",
+  "docs": "https://doitong.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "doitong": {
+      "url": "https://mcp.doitong.com/mcp"
+    }
+  }
+}

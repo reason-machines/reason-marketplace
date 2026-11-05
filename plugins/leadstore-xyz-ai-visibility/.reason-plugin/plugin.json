@@ -1,0 +1,13 @@
+{
+  "name": "leadstore-xyz-ai-visibility",
+  "displayName": "Leadstore.xyz: AI Visibility",
+  "description": "SEO, AEO, GEO, LLMO and ASO.",
+  "homepage": "https://www.leadstore.xyz",
+  "docs": "https://www.leadstore.xyz",
+  "auth": "oauth",
+  "mcpServers": {
+    "leadstore-xyz-ai-visibility": {
+      "url": "https://mcp.leadstore.xyz/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "global-database",
+  "displayName": "Global Database",
+  "description": "Official company registry data.",
+  "homepage": "https://globaldatabase.com",
+  "docs": "https://globaldatabase.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "global-database": {
+      "url": "https://mcp.globaldatabase.com/mcp"
+    }
+  }
+}

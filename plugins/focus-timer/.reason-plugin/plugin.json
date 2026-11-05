@@ -1,0 +1,13 @@
+{
+  "name": "focus-timer",
+  "displayName": "Zovo Focus Timer",
+  "description": "Pomodoro & countdown timer.",
+  "homepage": "https://focus-timer.zovo.one",
+  "docs": "https://focus-timer.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "focus-timer": {
+      "url": "https://focus-timer.zovo.one/mcp"
+    }
+  }
+}

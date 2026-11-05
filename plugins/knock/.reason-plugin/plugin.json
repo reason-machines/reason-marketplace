@@ -10,5 +10,56 @@
     "knock": {
       "url": "https://mcp.knock.app/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "knock-cli",
+      "description": "Guidelines for working with the Knock CLI to manage workflows, templates, and other notification resources in a Knock project.",
+      "source": "knocklabs/skills#f4753b8f2960358c483f60e73eab2a58753cd589",
+      "skill": "knock-cli",
+      "url": "https://github.com/knocklabs/skills/tree/f4753b8f2960358c483f60e73eab2a58753cd589/skills/knock-cli"
+    },
+    {
+      "name": "knock-in-app-ui",
+      "description": "Guidance for implementing Knock in-app UI in a web app, with a focus on setting up, rendering, and debugging Knock guides in React.",
+      "source": "knocklabs/skills#f4753b8f2960358c483f60e73eab2a58753cd589",
+      "skill": "knock-in-app-ui",
+      "url": "https://github.com/knocklabs/skills/tree/f4753b8f2960358c483f60e73eab2a58753cd589/skills/knock-in-app-ui"
+    },
+    {
+      "name": "knock-lifecycle-opportunities",
+      "description": "Scan a product codebase for activation, engagement, and retention moments and recommend lifecycle messaging opportunities. Use when finding onboarding, churn, trial, or habit-forming notification candidates without creating Knock resources.",
+      "source": "knocklabs/skills#f4753b8f2960358c483f60e73eab2a58753cd589",
+      "skill": "knock-lifecycle-opportunities",
+      "url": "https://github.com/knocklabs/skills/tree/f4753b8f2960358c483f60e73eab2a58753cd589/skills/knock-lifecycle-opportunities"
+    },
+    {
+      "name": "knock-migrate-to-knock",
+      "description": "Investigate existing messaging infrastructure in a codebase and recommend how it maps to Knock. Use when migrating from Braze, Courier, Customer.io, Iterable, SendGrid, or custom notification code, or when planning a move to Knock.",
+      "source": "knocklabs/skills#f4753b8f2960358c483f60e73eab2a58753cd589",
+      "skill": "knock-migrate-to-knock",
+      "url": "https://github.com/knocklabs/skills/tree/f4753b8f2960358c483f60e73eab2a58753cd589/skills/knock-migrate-to-knock"
+    },
+    {
+      "name": "knock-notification-best-practices",
+      "description": "Comprehensive guidelines for designing, writing, and implementing effective notification systems across email, push, SMS, in-app, and chat channels.",
+      "source": "knocklabs/skills#f4753b8f2960358c483f60e73eab2a58753cd589",
+      "skill": "knock-notification-best-practices",
+      "url": "https://github.com/knocklabs/skills/tree/f4753b8f2960358c483f60e73eab2a58753cd589/skills/knock-notification-best-practices"
+    },
+    {
+      "name": "knock-product-messaging-strategy",
+      "description": "Design a cross-channel product messaging system that drives activation, engagement, and retention while controlling fatigue. Use when planning lifecycle messaging, auditing notification strategy, prioritizing workflows, or turning product moments into Knock workflows, guides, preferences, and measur",
+      "source": "knocklabs/skills#f4753b8f2960358c483f60e73eab2a58753cd589",
+      "skill": "knock-product-messaging-strategy",
+      "url": "https://github.com/knocklabs/skills/tree/f4753b8f2960358c483f60e73eab2a58753cd589/skills/knock-product-messaging-strategy"
+    },
+    {
+      "name": "knock-setup",
+      "description": "Connect Knock to your coding agent, discover and build notification workflows, and recommend how to trigger them from your application.",
+      "source": "knocklabs/skills#f4753b8f2960358c483f60e73eab2a58753cd589",
+      "skill": "knock-setup",
+      "url": "https://github.com/knocklabs/skills/tree/f4753b8f2960358c483f60e73eab2a58753cd589/skills/knock-setup"
+    }
+  ]
 }

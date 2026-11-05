@@ -1,0 +1,13 @@
+{
+  "name": "unfenced",
+  "displayName": "Unfenced",
+  "description": "Browse and act on websites.",
+  "homepage": "https://unfenced.ai/.well-known/oauth-protected-resource",
+  "docs": "https://unfenced.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "unfenced": {
+      "url": "https://unfenced.ai/api/mcp"
+    }
+  }
+}

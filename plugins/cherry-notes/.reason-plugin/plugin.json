@@ -1,0 +1,13 @@
+{
+  "name": "cherry-notes",
+  "displayName": "Cherry Notes",
+  "description": "A todo list AI can finish.",
+  "homepage": "https://cherrynotes.app",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=app.cherrynotes",
+  "auth": "oauth",
+  "mcpServers": {
+    "cherry-notes": {
+      "url": "https://api.cherrynotes.app/mcp"
+    }
+  }
+}

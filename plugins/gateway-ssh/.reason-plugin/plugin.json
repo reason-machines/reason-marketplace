@@ -1,0 +1,13 @@
+{
+  "name": "gateway-ssh",
+  "displayName": "Gateway SSH",
+  "description": "Manage servers through SSH.",
+  "homepage": "https://trygateway.sh",
+  "docs": "https://trygateway.sh",
+  "auth": "oauth",
+  "mcpServers": {
+    "gateway-ssh": {
+      "url": "https://trygateway.sh/mcp"
+    }
+  }
+}

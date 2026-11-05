@@ -1,0 +1,13 @@
+{
+  "name": "ciarem",
+  "displayName": "Ciarem AI",
+  "description": "WhatsApp & Instagram AI agent.",
+  "homepage": "https://www.ciarem.ai/",
+  "docs": "https://help.ciarem.ai/integrations/ai-assistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "ciarem": {
+      "url": "https://api.ciarem.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "squidlor",
+  "displayName": "Squidlor",
+  "description": "Oracle prices and transfers.",
+  "homepage": "https://squidlor.com",
+  "docs": "https://tedix.dev/apps/squidlor/",
+  "auth": "none",
+  "mcpServers": {
+    "squidlor": {
+      "url": "https://api.squidlor.com/mcp"
+    }
+  }
+}

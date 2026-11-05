@@ -1,0 +1,13 @@
+{
+  "name": "livecase",
+  "displayName": "LiveCase",
+  "description": "Create and edit case studies.",
+  "homepage": "https://www.livecase.com",
+  "docs": "https://livecase.com/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "livecase": {
+      "url": "https://www.livecase.com/api/v2/mcp"
+    }
+  }
+}

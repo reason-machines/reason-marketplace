@@ -1,0 +1,13 @@
+{
+  "name": "make-a-viz",
+  "displayName": "Make A Viz",
+  "description": "Create and edit flowcharts.",
+  "homepage": "https://makeaviz.com/",
+  "docs": "https://makeaviz.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "make-a-viz": {
+      "url": "https://mcp.makeaviz.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vocaneo",
+  "displayName": "Vocaneo",
+  "description": "French careers and training.",
+  "homepage": "https://vocaneo.com",
+  "docs": "https://vocaneo.com",
+  "auth": "none",
+  "mcpServers": {
+    "vocaneo": {
+      "url": "https://mcp.vocaneo.com/mcp"
+    }
+  }
+}

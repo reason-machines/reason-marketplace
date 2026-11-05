@@ -1,0 +1,13 @@
+{
+  "name": "buywise",
+  "displayName": "BuyWise",
+  "description": "Find best prices, real reviews.",
+  "homepage": "https://deeplumen.shop",
+  "docs": "https://deeplumen.shop",
+  "auth": "none",
+  "mcpServers": {
+    "buywise": {
+      "url": "https://deeplumen.shop/mcp"
+    }
+  }
+}

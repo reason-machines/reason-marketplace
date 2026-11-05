@@ -1,0 +1,13 @@
+{
+  "name": "sikkeraftale",
+  "displayName": "Sikkeraftale",
+  "description": "Lav en slutseddel i samtalen.",
+  "homepage": "https://www.sikkeraftale.dk",
+  "docs": "https://sikkeraftale.dk/integrations/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "sikkeraftale": {
+      "url": "https://www.sikkeraftale.dk/api/mcp"
+    }
+  }
+}

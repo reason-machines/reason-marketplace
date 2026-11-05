@@ -1,0 +1,13 @@
+{
+  "name": "levelup",
+  "displayName": "LevelUp",
+  "description": "Run your real estate business.",
+  "homepage": "https://relevelup.com",
+  "docs": "https://relevelup.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "levelup": {
+      "url": "https://mcp.relevelup.com/mcp"
+    }
+  }
+}

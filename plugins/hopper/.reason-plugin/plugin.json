@@ -1,0 +1,13 @@
+{
+  "name": "hopper",
+  "displayName": "Hopper",
+  "description": "The latest open-source models.",
+  "homepage": "https://withhopper.com",
+  "docs": "https://withhopper.com",
+  "auth": "none",
+  "mcpServers": {
+    "hopper": {
+      "url": "https://withhopper.com/mcp"
+    }
+  }
+}

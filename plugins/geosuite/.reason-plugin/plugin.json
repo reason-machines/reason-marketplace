@@ -1,0 +1,13 @@
+{
+  "name": "geosuite",
+  "displayName": "GeoSuite",
+  "description": "AI visibility for your brand.",
+  "homepage": "https://trygeosuite.it",
+  "docs": "https://trygeosuite.it/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "geosuite": {
+      "url": "https://trygeosuite.it/api/mcp"
+    }
+  }
+}

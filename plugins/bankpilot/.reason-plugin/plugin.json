@@ -1,0 +1,13 @@
+{
+  "name": "bankpilot",
+  "displayName": "BankPilot",
+  "description": "Recurring payment monitoring.",
+  "homepage": "https://bankpilot.eu",
+  "docs": "https://bankpilot.eu",
+  "auth": "oauth",
+  "mcpServers": {
+    "bankpilot": {
+      "url": "https://bankpilot.eu/mcp"
+    }
+  }
+}

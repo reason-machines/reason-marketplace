@@ -1,0 +1,13 @@
+{
+  "name": "dukkani",
+  "displayName": "Dukkani",
+  "description": "Explore your Dukkani store.",
+  "homepage": "https://dukani.ai",
+  "docs": "https://dukani.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "dukkani": {
+      "url": "https://mcp.dukani.ai/mcp"
+    }
+  }
+}

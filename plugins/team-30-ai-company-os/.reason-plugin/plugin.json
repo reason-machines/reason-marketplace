@@ -1,0 +1,13 @@
+{
+  "name": "team-30-ai-company-os",
+  "displayName": "TEAM 30 — AI Company OS",
+  "description": "Plan work with 31 AI roles.",
+  "homepage": "https://team30-ai-company-os.fly.dev/",
+  "docs": "https://team30-ai-company-os.fly.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "team-30-ai-company-os": {
+      "url": "https://team30-ai-company-os.fly.dev/mcp"
+    }
+  }
+}

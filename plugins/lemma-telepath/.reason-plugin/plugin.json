@@ -1,0 +1,13 @@
+{
+  "name": "lemma-telepath",
+  "displayName": "Telepath",
+  "description": "Your Telegram, in Reason.",
+  "homepage": "https://telepath.lemma.company",
+  "docs": "https://telepath.lemma.company/start",
+  "auth": "oauth",
+  "mcpServers": {
+    "lemma-telepath": {
+      "url": "https://telepath.lemma.company/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "call4me",
+  "displayName": "call4me",
+  "description": "Calls businesses for you.",
+  "homepage": "https://call4.me",
+  "docs": "https://call4.me",
+  "auth": "oauth",
+  "mcpServers": {
+    "call4me": {
+      "url": "https://call4.me/mcp"
+    }
+  }
+}

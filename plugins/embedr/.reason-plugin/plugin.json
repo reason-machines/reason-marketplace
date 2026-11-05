@@ -1,0 +1,13 @@
+{
+  "name": "embedr",
+  "displayName": "Embedr",
+  "description": "Design circuits and PCBs.",
+  "homepage": "https://www.embedr.app",
+  "docs": "https://www.embedr.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "embedr": {
+      "url": "https://mcp.embedr.app/mcp"
+    }
+  }
+}

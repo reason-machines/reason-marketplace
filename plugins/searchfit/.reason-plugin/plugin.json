@@ -1,0 +1,13 @@
+{
+  "name": "searchfit",
+  "displayName": "SearchFit",
+  "description": "AI visibility and content.",
+  "homepage": "https://searchfit.ai",
+  "docs": "https://searchfit.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "searchfit": {
+      "url": "https://api.searchfit.ai/mcp"
+    }
+  }
+}

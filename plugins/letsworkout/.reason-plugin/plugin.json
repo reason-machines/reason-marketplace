@@ -1,0 +1,13 @@
+{
+  "name": "letsworkout",
+  "displayName": "Let's Workout",
+  "description": "Your strength-training log.",
+  "homepage": "https://letsworkout.app",
+  "docs": "https://letsworkout.app/ai-assistants.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "letsworkout": {
+      "url": "https://letsworkout.app/api/mcp"
+    }
+  }
+}

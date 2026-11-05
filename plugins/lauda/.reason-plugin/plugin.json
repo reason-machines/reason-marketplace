@@ -1,0 +1,13 @@
+{
+  "name": "lauda",
+  "displayName": "Lauda",
+  "description": "Cálculos jurídicos do Brasil.",
+  "homepage": "https://www.uselauda.com",
+  "docs": "https://www.uselauda.com",
+  "auth": "none",
+  "mcpServers": {
+    "lauda": {
+      "url": "https://uselauda.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fluv-hub",
+  "displayName": "Fluv Hub",
+  "description": "Manage marketplace operations.",
+  "homepage": "https://fluvhub.com",
+  "docs": "https://fluvhub.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fluv-hub": {
+      "url": "https://fluvhub.com/mcp"
+    }
+  }
+}

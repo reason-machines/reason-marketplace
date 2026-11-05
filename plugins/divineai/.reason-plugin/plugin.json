@@ -1,0 +1,13 @@
+{
+  "name": "divineai",
+  "displayName": "DivineAI",
+  "description": "Panchang and festival dates.",
+  "homepage": "https://divineai.dharmikvibes.com/en/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.dharmikvibes/divineai",
+  "auth": "none",
+  "mcpServers": {
+    "divineai": {
+      "url": "https://divineai-mcp.dharmikvibes.com/divineai"
+    }
+  }
+}

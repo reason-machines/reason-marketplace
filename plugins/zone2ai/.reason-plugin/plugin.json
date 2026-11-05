@@ -1,0 +1,13 @@
+{
+  "name": "zone2ai",
+  "displayName": "Zone2AI",
+  "description": "Your real Zone 2 heart rate.",
+  "homepage": "https://www.zone2ai.com",
+  "docs": "https://www.zone2ai.com",
+  "auth": "none",
+  "mcpServers": {
+    "zone2ai": {
+      "url": "https://mcp.zone2ai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "blendstra",
+  "displayName": "Blendstra",
+  "description": "Create and edit 3D in chat.",
+  "homepage": "https://blendstra.com",
+  "docs": "https://blendstra.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "blendstra": {
+      "url": "https://blendstra.com/mcp"
+    }
+  }
+}

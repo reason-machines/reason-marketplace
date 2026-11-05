@@ -1,0 +1,13 @@
+{
+  "name": "quicktion",
+  "displayName": "Quicktion",
+  "description": "Save emails to Notion & more.",
+  "homepage": "https://quicktion.io",
+  "docs": "https://quicktion.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "quicktion": {
+      "url": "https://quicktion.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "buzzterms",
+  "displayName": "Buzzterms",
+  "description": "Tech terms, explained simply.",
+  "homepage": "https://www.buzzterms.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.buzzterms/buzzterms",
+  "auth": "none",
+  "mcpServers": {
+    "buzzterms": {
+      "url": "https://buzzterms.com/api/mcp"
+    }
+  }
+}

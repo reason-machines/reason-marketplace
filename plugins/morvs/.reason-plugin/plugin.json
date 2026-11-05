@@ -1,0 +1,13 @@
+{
+  "name": "morvs",
+  "displayName": "MORVS",
+  "description": "Source-linked public records.",
+  "homepage": "https://morvs.ai/",
+  "docs": "https://morvs.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "morvs": {
+      "url": "https://api.morvs.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "zeffy",
+  "displayName": "Zeffy",
+  "description": "Fundraising data analytics.",
+  "homepage": "https://www.zeffy.com",
+  "docs": "https://support.zeffy.com/connect-zeffy-to-claude-or-chatgpt-189ze",
+  "auth": "oauth",
+  "mcpServers": {
+    "zeffy": {
+      "url": "https://api.zeffy.com/mcp"
+    }
+  }
+}

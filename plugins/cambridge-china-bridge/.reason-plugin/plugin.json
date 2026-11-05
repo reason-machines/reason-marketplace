@@ -1,0 +1,13 @@
+{
+  "name": "cambridge-china-bridge",
+  "displayName": "Cambridge China Bridge",
+  "description": "UK import duty and sourcing.",
+  "homepage": "https://camchinabridge.co.uk/",
+  "docs": "https://camchinabridge.co.uk/",
+  "auth": "none",
+  "mcpServers": {
+    "cambridge-china-bridge": {
+      "url": "https://camchinabridge.co.uk/mcp"
+    }
+  }
+}

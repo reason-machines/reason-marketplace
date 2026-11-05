@@ -1,0 +1,13 @@
+{
+  "name": "just-flow-it",
+  "displayName": "Just Flow It",
+  "description": "Draw and edit BPMN diagrams.",
+  "homepage": "https://justflow.it",
+  "docs": "https://justflow.it/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "just-flow-it": {
+      "url": "https://justflow.it/api/mcp"
+    }
+  }
+}

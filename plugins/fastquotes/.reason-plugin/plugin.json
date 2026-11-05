@@ -1,0 +1,13 @@
+{
+  "name": "fastquotes",
+  "displayName": "FastQuotes",
+  "description": "Get freight shipping quotes.",
+  "homepage": "https://www.fastquotes.io",
+  "docs": "https://www.fastquotes.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "fastquotes": {
+      "url": "https://fastquotes.io/mcp"
+    }
+  }
+}

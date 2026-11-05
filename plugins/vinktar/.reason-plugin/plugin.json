@@ -1,0 +1,13 @@
+{
+  "name": "vinktar",
+  "displayName": "Vinktar",
+  "description": "Error tracking and analytics.",
+  "homepage": "https://vinktar.com",
+  "docs": "https://vinktar.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "vinktar": {
+      "url": "https://mcp.vinktar.com/mcp"
+    }
+  }
+}

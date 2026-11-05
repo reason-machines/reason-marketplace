@@ -1,0 +1,13 @@
+{
+  "name": "grocer",
+  "displayName": "Grocer",
+  "description": "Grocery lists from recipes.",
+  "homepage": "https://usegrocer.com",
+  "docs": "https://usegrocer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "grocer": {
+      "url": "https://usegrocer.com/mcp"
+    }
+  }
+}

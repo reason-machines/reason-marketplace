@@ -1,0 +1,13 @@
+{
+  "name": "magister",
+  "displayName": "Magister",
+  "description": "Answer board-game rules.",
+  "homepage": "https://askmagister.com",
+  "docs": "https://askmagister.com",
+  "auth": "none",
+  "mcpServers": {
+    "magister": {
+      "url": "https://mcp.askmagister.com/mcp"
+    }
+  }
+}

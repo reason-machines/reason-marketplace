@@ -1,0 +1,13 @@
+{
+  "name": "subscriptionflow",
+  "displayName": "SubscriptionFlow",
+  "description": "Manage Subscriptions With AI.",
+  "homepage": "https://www.subscriptionflow.com/",
+  "docs": "https://www.subscriptionflow.com/",
+  "auth": "none",
+  "mcpServers": {
+    "subscriptionflow": {
+      "url": "https://mcp.subscriptionflow.com/mcp"
+    }
+  }
+}

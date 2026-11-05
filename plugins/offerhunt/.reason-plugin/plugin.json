@@ -1,0 +1,13 @@
+{
+  "name": "offerhunt",
+  "displayName": "OfferHunt",
+  "description": "Find and manage jobs.",
+  "homepage": "https://www.offerhunt.ai/",
+  "docs": "https://www.offerhunt.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "offerhunt": {
+      "url": "https://offerhunt.ai/mcp"
+    }
+  }
+}

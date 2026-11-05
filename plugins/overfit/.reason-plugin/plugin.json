@@ -1,0 +1,13 @@
+{
+  "name": "overfit",
+  "displayName": "Overfit Datensatz",
+  "description": "Ausschreibungen & Firmendaten.",
+  "homepage": "https://www.overfit.de/agenten",
+  "docs": "https://www.overfit.de/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "overfit": {
+      "url": "https://www.overfit.de/mcp"
+    }
+  }
+}

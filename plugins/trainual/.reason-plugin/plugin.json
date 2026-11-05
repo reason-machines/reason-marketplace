@@ -1,0 +1,13 @@
+{
+  "name": "trainual",
+  "displayName": "Trainual",
+  "description": "Find how your company works.",
+  "homepage": "https://trainual.com",
+  "docs": "https://trainual.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "trainual": {
+      "url": "https://mcp.trainual.com/mcp"
+    }
+  }
+}

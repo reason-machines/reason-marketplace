@@ -1,0 +1,13 @@
+{
+  "name": "sensei-knowledge-base",
+  "displayName": "Sensei Knowledge Base",
+  "description": "Search and manage knowledge.",
+  "homepage": "https://sensei.red",
+  "docs": "https://sensei.red",
+  "auth": "oauth",
+  "mcpServers": {
+    "sensei-knowledge-base": {
+      "url": "https://sensei.red/mcp"
+    }
+  }
+}

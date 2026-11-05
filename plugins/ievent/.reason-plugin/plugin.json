@@ -1,0 +1,13 @@
+{
+  "name": "ievent",
+  "displayName": "ievent.ro",
+  "description": "Găsește locații și furnizori.",
+  "homepage": "https://ievent.ro",
+  "docs": "https://ievent.ro",
+  "auth": "none",
+  "mcpServers": {
+    "ievent": {
+      "url": "https://ievent.ro/mcp"
+    }
+  }
+}

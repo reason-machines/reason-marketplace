@@ -1,0 +1,13 @@
+{
+  "name": "mlscolombia",
+  "displayName": "MLS Colombia",
+  "description": "Home value, listings, agencies.",
+  "homepage": "https://mlscolombia.co/chatgpt/",
+  "docs": "https://mlscolombia.co/chatgpt/",
+  "auth": "none",
+  "mcpServers": {
+    "mlscolombia": {
+      "url": "https://mlscolombia.co/mcp"
+    }
+  }
+}

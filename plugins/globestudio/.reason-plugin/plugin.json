@@ -1,0 +1,13 @@
+{
+  "name": "globestudio",
+  "displayName": "Globestudio",
+  "description": "Dotted maps and 3D globes.",
+  "homepage": "https://globestudio.app",
+  "docs": "https://globestudio.app",
+  "auth": "none",
+  "mcpServers": {
+    "globestudio": {
+      "url": "https://globestudio.app/mcp"
+    }
+  }
+}

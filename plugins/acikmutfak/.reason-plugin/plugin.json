@@ -1,0 +1,13 @@
+{
+  "name": "acikmutfak",
+  "displayName": "AcikMutfak",
+  "description": "Discover, save, share recipes.",
+  "homepage": "https://acikmutfak.vercel.app",
+  "docs": "https://acikmutfak.vercel.app",
+  "auth": "none",
+  "mcpServers": {
+    "acikmutfak": {
+      "url": "https://acikmutfak.vercel.app/api/mcp"
+    }
+  }
+}

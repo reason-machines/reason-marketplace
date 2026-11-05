@@ -1,0 +1,13 @@
+{
+  "name": "topograph",
+  "displayName": "Topograph",
+  "description": "Official company evidence.",
+  "homepage": "https://topograph.co/developers/mcp",
+  "docs": "https://topograph.co/developers/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "topograph": {
+      "url": "https://mcp.topograph.co/mcp"
+    }
+  }
+}

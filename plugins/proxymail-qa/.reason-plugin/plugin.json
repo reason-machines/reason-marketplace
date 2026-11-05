@@ -1,0 +1,13 @@
+{
+  "name": "proxymail-qa",
+  "displayName": "Proxy Mail QA",
+  "description": "Test inboxes for app sign-ups.",
+  "homepage": "https://proxymail.qa",
+  "docs": "https://proxymail.qa/features/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "proxymail-qa": {
+      "url": "https://api.proxymail.qa/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mixmax",
+  "displayName": "Mixmax",
+  "description": "Sales engagement platform.",
+  "homepage": "https://www.mixmax.com",
+  "docs": "https://www.mixmax.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mixmax": {
+      "url": "https://mcp.mixmax.com/mcp"
+    }
+  }
+}

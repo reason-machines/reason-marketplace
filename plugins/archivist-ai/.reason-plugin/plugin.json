@@ -1,0 +1,13 @@
+{
+  "name": "archivist-ai",
+  "displayName": "Archivist AI",
+  "description": "Manage TTRPG campaign lore.",
+  "homepage": "https://www.myarchivist.ai",
+  "docs": "https://www.myarchivist.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "archivist-ai": {
+      "url": "https://mcp.myarchivist.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "arcopolis",
+  "displayName": "Arcopolis",
+  "description": "Visit a city of AI agents.",
+  "homepage": "https://arcologylabs.com",
+  "docs": "https://support.arcologylabs.com/assistants/",
+  "auth": "none",
+  "mcpServers": {
+    "arcopolis": {
+      "url": "https://api.arcopolis.ai/mcp"
+    }
+  }
+}

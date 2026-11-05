@@ -1,0 +1,13 @@
+{
+  "name": "aurorareach",
+  "displayName": "AuroraReach",
+  "description": "Plan northern lights viewing.",
+  "homepage": "https://aurorareach.com/",
+  "docs": "https://aurorareach.com/",
+  "auth": "none",
+  "mcpServers": {
+    "aurorareach": {
+      "url": "https://mcp.aurorareach.com/mcp"
+    }
+  }
+}

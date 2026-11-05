@@ -1,0 +1,13 @@
+{
+  "name": "musitu-axiom",
+  "displayName": "MUSITU Axiom",
+  "description": "Quantitative analysis.",
+  "homepage": "https://mcp.mftintelligence.com/docs",
+  "docs": "https://mcp.mftintelligence.com/docs",
+  "auth": "none",
+  "mcpServers": {
+    "musitu-axiom": {
+      "url": "https://mcp.mftintelligence.com/mcp"
+    }
+  }
+}

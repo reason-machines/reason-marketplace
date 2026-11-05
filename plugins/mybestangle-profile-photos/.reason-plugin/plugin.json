@@ -1,0 +1,13 @@
+{
+  "name": "mybestangle-profile-photos",
+  "displayName": "MyBestAngle — Profile Photos",
+  "description": "Natural AI photos from selfies.",
+  "homepage": "https://www.mybestangle.com",
+  "docs": "https://www.mybestangle.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mybestangle-profile-photos": {
+      "url": "https://mcp.mybestangle.com/mcp"
+    }
+  }
+}

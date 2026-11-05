@@ -1,0 +1,13 @@
+{
+  "name": "keyword-tool-free-seo-ideas",
+  "displayName": "Keyword Tool: Free SEO Ideas",
+  "description": "Free keyword research.",
+  "homepage": "https://keywordtool.io/mcp/guest",
+  "docs": "https://keywordtool.io/mcp/guest",
+  "auth": "none",
+  "mcpServers": {
+    "keyword-tool-free-seo-ideas": {
+      "url": "https://mcp.keywordtool.io/guest"
+    }
+  }
+}

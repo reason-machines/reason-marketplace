@@ -1,0 +1,13 @@
+{
+  "name": "passim-ai",
+  "displayName": "Passim AI",
+  "description": "U.S. immigration law research.",
+  "homepage": "https://passimai.com",
+  "docs": "https://passimai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "passim-ai": {
+      "url": "https://mcp.biaedge.com/mcp"
+    }
+  }
+}

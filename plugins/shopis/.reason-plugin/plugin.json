@@ -1,0 +1,13 @@
+{
+  "name": "shopis",
+  "displayName": "Shopis",
+  "description": "Run your store from chat.",
+  "homepage": "https://shopis.ai",
+  "docs": "https://shopis.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "shopis": {
+      "url": "https://shopis.ai/api/mcp"
+    }
+  }
+}

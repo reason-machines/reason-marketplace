@@ -1,0 +1,13 @@
+{
+  "name": "blog2video",
+  "displayName": "Blog2Video",
+  "description": "Convert link/doc to video.",
+  "homepage": "https://blog2video.app",
+  "docs": "https://blog2video.app/blogs/blog2video-mcp-server-n8n",
+  "auth": "oauth",
+  "mcpServers": {
+    "blog2video": {
+      "url": "https://api.blog2video.app/mcp/sse"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lowpi",
+  "displayName": "Lowpi - Price Comparison",
+  "description": "Research product prices.",
+  "homepage": "https://lowpi.com",
+  "docs": "https://lowpi.com",
+  "auth": "none",
+  "mcpServers": {
+    "lowpi": {
+      "url": "https://lowpi.com/mcp"
+    }
+  }
+}

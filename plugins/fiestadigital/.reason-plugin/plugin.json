@@ -1,0 +1,13 @@
+{
+  "name": "fiestadigital",
+  "displayName": "FiestaDigital",
+  "description": "Manage sites and content.",
+  "homepage": "https://fiestadigital.es/",
+  "docs": "https://fiestadigital.es/",
+  "auth": "oauth",
+  "mcpServers": {
+    "fiestadigital": {
+      "url": "https://fiestadigital.es/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "toursbylocals",
+  "displayName": "ToursByLocals",
+  "description": "Book tours with local guides.",
+  "homepage": "https://www.toursbylocals.com",
+  "docs": "https://www.toursbylocals.com",
+  "auth": "none",
+  "mcpServers": {
+    "toursbylocals": {
+      "url": "https://mcp.toursbylocals.com/mcp"
+    }
+  }
+}

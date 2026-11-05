@@ -1,0 +1,13 @@
+{
+  "name": "url-shortener-by-a-af",
+  "displayName": "URL Shortener by A.af",
+  "description": "Create and manage short links.",
+  "homepage": "https://a.af",
+  "docs": "https://a.af",
+  "auth": "oauth",
+  "mcpServers": {
+    "url-shortener-by-a-af": {
+      "url": "https://a.af/mcp"
+    }
+  }
+}

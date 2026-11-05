@@ -1,0 +1,13 @@
+{
+  "name": "instagram-and-tiktok-by-1social",
+  "displayName": "Instagram & TikTok by 1Social",
+  "description": "Post to Facebook, LinkedIn, X.",
+  "homepage": "https://1social.dev/",
+  "docs": "https://1social.dev/",
+  "auth": "oauth",
+  "mcpServers": {
+    "instagram-and-tiktok-by-1social": {
+      "url": "https://mcp.1social.dev/mcp"
+    }
+  }
+}

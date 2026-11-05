@@ -1,0 +1,13 @@
+{
+  "name": "memostem",
+  "displayName": "MemoStem",
+  "description": "Save knowledge that matters.",
+  "homepage": "https://www.memostem.com/plugins",
+  "docs": "https://memostem.com/",
+  "auth": "none",
+  "mcpServers": {
+    "memostem": {
+      "url": "https://www.memostem.com/api/mcp"
+    }
+  }
+}

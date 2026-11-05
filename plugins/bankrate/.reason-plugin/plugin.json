@@ -1,0 +1,13 @@
+{
+  "name": "bankrate",
+  "displayName": "Bankrate",
+  "description": "Browse savings products.",
+  "homepage": "https://www.bankrate.com",
+  "docs": "https://tedix.dev/apps/bankrate/",
+  "auth": "none",
+  "mcpServers": {
+    "bankrate": {
+      "url": "https://bankrate-openai-mcp.bankrate.com/mcp"
+    }
+  }
+}

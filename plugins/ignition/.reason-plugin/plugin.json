@@ -1,0 +1,13 @@
+{
+  "name": "ignition",
+  "displayName": "Ignition",
+  "description": "Manage client work.",
+  "homepage": "https://www.ignitionapp.com",
+  "docs": "https://www.ignitionapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ignition": {
+      "url": "https://mcp.ignitionapp.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wetrip",
+  "displayName": "WeTrip",
+  "description": "Plan China tours with WeTrip.",
+  "homepage": "https://www.wetrip.global",
+  "docs": "https://www.wetrip.global",
+  "auth": "none",
+  "mcpServers": {
+    "wetrip": {
+      "url": "https://mcp.wetrip.global/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "company-dossier",
+  "displayName": "Company Dossier",
+  "description": "Sourced company dossiers.",
+  "homepage": "https://companydossier.lol/",
+  "docs": "https://companydossier.lol/",
+  "auth": "none",
+  "mcpServers": {
+    "company-dossier": {
+      "url": "https://mcp.companydossier.lol/mcp"
+    }
+  }
+}

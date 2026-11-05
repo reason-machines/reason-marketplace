@@ -1,0 +1,13 @@
+{
+  "name": "gsa-per-diem-by-1102tools",
+  "displayName": "GSA Per Diem by 1102tools",
+  "description": "Find federal per diem rates.",
+  "homepage": "https://1102tools.com",
+  "docs": "https://1102tools.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "gsa-per-diem-by-1102tools": {
+      "url": "https://gsa-perdiem.1102tools.com/mcp"
+    }
+  }
+}

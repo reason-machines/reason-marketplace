@@ -1,0 +1,13 @@
+{
+  "name": "stringspec",
+  "displayName": "StringSpec",
+  "description": "Lab-measured tennis strings.",
+  "homepage": "https://stringspec.com",
+  "docs": "https://stringspec.com",
+  "auth": "none",
+  "mcpServers": {
+    "stringspec": {
+      "url": "https://stringspec.com/mcp"
+    }
+  }
+}

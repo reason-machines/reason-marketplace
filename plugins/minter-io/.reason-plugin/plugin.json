@@ -1,0 +1,13 @@
+{
+  "name": "minter-io",
+  "displayName": "Minter.io",
+  "description": "Social Media Analytics.",
+  "homepage": "https://minter.io",
+  "docs": "https://minter.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "minter-io": {
+      "url": "https://minter.io/mcp"
+    }
+  }
+}

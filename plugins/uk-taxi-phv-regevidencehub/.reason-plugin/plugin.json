@@ -1,0 +1,13 @@
+{
+  "name": "uk-taxi-phv-regevidencehub",
+  "displayName": "UK Taxi PHV — RegEvidenceHub",
+  "description": "Taxi/PHV licensing preflight.",
+  "homepage": "https://regevidencehub.com/products/taxi.html",
+  "docs": "https://regevidencehub.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "uk-taxi-phv-regevidencehub": {
+      "url": "https://taxi.regevidencehub.com/ai/mcp"
+    }
+  }
+}

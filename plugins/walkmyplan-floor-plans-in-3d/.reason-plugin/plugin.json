@@ -1,0 +1,13 @@
+{
+  "name": "walkmyplan-floor-plans-in-3d",
+  "displayName": "WalkMyPlan — Floor Plans in 3D",
+  "description": "Home design by chat, in 3D.",
+  "homepage": "https://www.walkmyplan.com",
+  "docs": "https://www.walkmyplan.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "walkmyplan-floor-plans-in-3d": {
+      "url": "https://mcp.walkmyplan.com/mcp"
+    }
+  }
+}

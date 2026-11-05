@@ -1,0 +1,13 @@
+{
+  "name": "tendersai",
+  "displayName": "TendersAI",
+  "description": "Public tenders and award data.",
+  "homepage": "https://tendersai.com",
+  "docs": "https://tendersai.com",
+  "auth": "none",
+  "mcpServers": {
+    "tendersai": {
+      "url": "https://tendersai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "securelend",
+  "displayName": "SecureLend",
+  "description": "Compare loans and financing.",
+  "homepage": "https://securelend.ai/",
+  "docs": "https://securelend.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "securelend": {
+      "url": "https://mcp.securelend.ai/mcp"
+    }
+  }
+}

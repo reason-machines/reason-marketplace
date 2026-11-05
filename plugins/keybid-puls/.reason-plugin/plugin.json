@@ -1,0 +1,13 @@
+{
+  "name": "keybid-puls",
+  "displayName": "KeyBid Puls",
+  "description": "Evaluate Buy for STR Viability.",
+  "homepage": "https://keybid.eu",
+  "docs": "https://keybid.eu",
+  "auth": "none",
+  "mcpServers": {
+    "keybid-puls": {
+      "url": "https://keybid.eu/mcp"
+    }
+  }
+}

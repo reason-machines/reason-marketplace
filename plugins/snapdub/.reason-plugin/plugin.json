@@ -1,0 +1,13 @@
+{
+  "name": "snapdub",
+  "displayName": "SnapDub",
+  "description": "Turn long videos into clips.",
+  "homepage": "https://snapdub.ai/mcp-server",
+  "docs": "https://snapdub.ai/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "snapdub": {
+      "url": "https://snapdub.ai/mcp"
+    }
+  }
+}

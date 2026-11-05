@@ -1,0 +1,13 @@
+{
+  "name": "nisaa-app",
+  "displayName": "Nisaa",
+  "description": "Period rulings by madhab.",
+  "homepage": "https://www.getnisaa.com",
+  "docs": "https://www.getnisaa.com",
+  "auth": "none",
+  "mcpServers": {
+    "nisaa-app": {
+      "url": "https://getnisaa.com/mcp"
+    }
+  }
+}

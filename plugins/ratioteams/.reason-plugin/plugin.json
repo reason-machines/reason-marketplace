@@ -1,0 +1,13 @@
+{
+  "name": "ratioteams",
+  "displayName": "Ratio",
+  "description": "Projects and tasks with AI.",
+  "homepage": "https://ratioteams.com",
+  "docs": "https://ratioteams.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ratioteams": {
+      "url": "https://ratioteams.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "attackerview",
+  "displayName": "AttackerView",
+  "description": "Website security check.",
+  "homepage": "https://attackerview.com/docs/chatgpt",
+  "docs": "https://attackerview.com/docs/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "attackerview": {
+      "url": "https://attackerview.com/api/public/mcp"
+    }
+  }
+}

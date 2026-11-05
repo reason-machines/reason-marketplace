@@ -1,0 +1,13 @@
+{
+  "name": "mi-basket",
+  "displayName": "Mi Basket",
+  "description": "Uruguayan basketball stats.",
+  "homepage": "https://mibasket.app",
+  "docs": "https://mibasket.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "mi-basket": {
+      "url": "https://mibasket.app/mcp"
+    }
+  }
+}

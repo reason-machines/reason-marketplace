@@ -1,0 +1,13 @@
+{
+  "name": "adg-events",
+  "displayName": "ADG Events",
+  "description": "Manage events and send email.",
+  "homepage": "https://adgevents.com",
+  "docs": "https://adgevents.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "adg-events": {
+      "url": "https://mcp.adgevents.com/mcp"
+    }
+  }
+}

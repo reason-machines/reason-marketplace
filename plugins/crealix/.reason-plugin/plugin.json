@@ -1,0 +1,13 @@
+{
+  "name": "crealix",
+  "displayName": "Crealix",
+  "description": "Create finished videos in chat.",
+  "homepage": "https://www.crealix.ai",
+  "docs": "https://www.crealix.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "crealix": {
+      "url": "https://mcp.crealix.ai/mcp"
+    }
+  }
+}

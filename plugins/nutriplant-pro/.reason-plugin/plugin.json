@@ -1,0 +1,13 @@
+{
+  "name": "nutriplant-pro",
+  "displayName": "NutriPlant PRO",
+  "description": "Nutrición vegetal + VPD.",
+  "homepage": "https://nutriplantpro.com",
+  "docs": "https://nutriplantpro.com",
+  "auth": "none",
+  "mcpServers": {
+    "nutriplant-pro": {
+      "url": "https://nutriplantpro.com/mcp"
+    }
+  }
+}

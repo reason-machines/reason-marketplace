@@ -1,0 +1,13 @@
+{
+  "name": "finmode",
+  "displayName": "Finmode",
+  "description": "Stock & ETF research.",
+  "homepage": "https://finmode.app/",
+  "docs": "https://finmode.app/",
+  "auth": "none",
+  "mcpServers": {
+    "finmode": {
+      "url": "https://mcp.finmode.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "daily-social",
+  "displayName": "Daily Social",
+  "description": "Brand ideas and content drafts.",
+  "homepage": "https://nextbig.app/apps/daily-social",
+  "docs": "https://nextbig.app/apps/daily-social/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "daily-social": {
+      "url": "https://api.daily-social.app/mcp"
+    }
+  }
+}

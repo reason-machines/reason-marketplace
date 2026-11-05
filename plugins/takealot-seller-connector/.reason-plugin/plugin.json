@@ -1,0 +1,13 @@
+{
+  "name": "takealot-seller-connector",
+  "displayName": "Takealot Seller Connector",
+  "description": "Takealot seller data in chat.",
+  "homepage": "https://takealot-mcp-production.up.railway.app/setup",
+  "docs": "https://takealot-mcp-production.up.railway.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "takealot-seller-connector": {
+      "url": "https://takealot-mcp-production.up.railway.app/mcp"
+    }
+  }
+}

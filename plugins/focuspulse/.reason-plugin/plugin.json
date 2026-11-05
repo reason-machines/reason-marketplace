@@ -1,0 +1,13 @@
+{
+  "name": "focuspulse",
+  "displayName": "FocusPulse",
+  "description": "Market-linked news, sourced.",
+  "homepage": "https://www.focuspulse.pro",
+  "docs": "https://www.focuspulse.pro",
+  "auth": "none",
+  "mcpServers": {
+    "focuspulse": {
+      "url": "https://mcp.focuspulse.pro/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "acoustic-index",
+  "displayName": "Acoustic Index",
+  "description": "Room acoustics and absorbers.",
+  "homepage": "https://acousticindex.com",
+  "docs": "https://acousticindex.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "acoustic-index": {
+      "url": "https://acousticindex.com/api/mcp/v1"
+    }
+  }
+}

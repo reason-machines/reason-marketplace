@@ -1,0 +1,13 @@
+{
+  "name": "versive",
+  "displayName": "Versive",
+  "description": "Run surveys and AI interviews.",
+  "homepage": "https://www.getversive.com/",
+  "docs": "https://www.getversive.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "versive": {
+      "url": "https://mcp.getversive.com/mcp"
+    }
+  }
+}

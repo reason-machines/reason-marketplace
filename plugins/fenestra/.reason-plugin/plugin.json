@@ -1,0 +1,13 @@
+{
+  "name": "fenestra",
+  "displayName": "Fenestra",
+  "description": "AI renders for architects.",
+  "homepage": "https://www.fenestra.app",
+  "docs": "https://www.fenestra.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "fenestra": {
+      "url": "https://mcp.fenestra.app/mcp"
+    }
+  }
+}

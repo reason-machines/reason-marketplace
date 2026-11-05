@@ -1,0 +1,13 @@
+{
+  "name": "car-dealer-tracker",
+  "displayName": "Car Dealer Tracker",
+  "description": "Review dealership records.",
+  "homepage": "https://cardealertracker.app",
+  "docs": "https://cardealertracker.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "car-dealer-tracker": {
+      "url": "https://mcp.cardealertracker.app/mcp"
+    }
+  }
+}

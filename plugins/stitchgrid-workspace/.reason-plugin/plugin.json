@@ -1,0 +1,13 @@
+{
+  "name": "stitchgrid-workspace",
+  "displayName": "StitchGrid",
+  "description": "Your apparel production office.",
+  "homepage": "https://www.stitchgrid.com",
+  "docs": "https://stitchgrid.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "stitchgrid-workspace": {
+      "url": "https://www.stitchgrid.com/api/mcp"
+    }
+  }
+}

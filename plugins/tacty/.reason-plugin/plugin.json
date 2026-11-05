@@ -1,0 +1,13 @@
+{
+  "name": "tacty",
+  "displayName": "Tacty",
+  "description": "Loyalty cards via NFC and QR.",
+  "homepage": "https://www.tacty.co",
+  "docs": "https://www.tacty.co/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "tacty": {
+      "url": "https://www.tacty.co/mcp"
+    }
+  }
+}

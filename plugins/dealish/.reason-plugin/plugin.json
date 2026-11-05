@@ -1,0 +1,13 @@
+{
+  "name": "dealish",
+  "displayName": "Dealish",
+  "description": "Toronto food & drink deals.",
+  "homepage": "https://www.dealish.io",
+  "docs": "https://www.dealish.io",
+  "auth": "none",
+  "mcpServers": {
+    "dealish": {
+      "url": "https://mcp.dealish.io/mcp"
+    }
+  }
+}

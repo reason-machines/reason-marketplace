@@ -1,0 +1,13 @@
+{
+  "name": "1102tools-federal-register",
+  "displayName": "1102tools for Federal Register",
+  "description": "Explore federal rulemaking.",
+  "homepage": "https://1102tools.com",
+  "docs": "https://1102tools.com/mcp/federal-register",
+  "auth": "none",
+  "mcpServers": {
+    "1102tools-federal-register": {
+      "url": "https://federal-register.1102tools.com/mcp"
+    }
+  }
+}

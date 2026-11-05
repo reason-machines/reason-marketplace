@@ -1,0 +1,13 @@
+{
+  "name": "luma",
+  "displayName": "Luma",
+  "description": "Find and manage events.",
+  "homepage": "https://luma.com",
+  "docs": "https://luma.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "luma": {
+      "url": "https://mcp.luma.com/"
+    }
+  }
+}

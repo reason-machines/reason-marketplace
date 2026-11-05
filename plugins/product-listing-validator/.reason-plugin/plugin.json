@@ -1,0 +1,13 @@
+{
+  "name": "product-listing-validator",
+  "displayName": "Product Listing Validator",
+  "description": "Check listing fields.",
+  "homepage": "https://product-listing-validator.sidcraigau.workers.dev",
+  "docs": "https://product-listing-validator.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "product-listing-validator": {
+      "url": "https://product-listing-validator.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

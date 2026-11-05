@@ -1,0 +1,13 @@
+{
+  "name": "pane",
+  "displayName": "Pane",
+  "description": "Chat with Your Finances.",
+  "homepage": "https://pane.money",
+  "docs": "https://pane.money",
+  "auth": "oauth",
+  "mcpServers": {
+    "pane": {
+      "url": "https://mcp.pane.money/mcp"
+    }
+  }
+}

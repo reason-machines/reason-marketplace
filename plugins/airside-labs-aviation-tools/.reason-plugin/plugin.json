@@ -1,0 +1,13 @@
+{
+  "name": "airside-labs-aviation-tools",
+  "displayName": "Airside Labs Aviation Tools",
+  "description": "Aviation facts and use cases.",
+  "homepage": "https://airsidelabs.com",
+  "docs": "https://airsidelabs.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "airside-labs-aviation-tools": {
+      "url": "https://mcp.airsidelabs.com/mcp"
+    }
+  }
+}

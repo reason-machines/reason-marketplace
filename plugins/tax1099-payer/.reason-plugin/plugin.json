@@ -1,0 +1,13 @@
+{
+  "name": "tax1099-payer",
+  "displayName": "Tax1099Payer",
+  "description": "Create and manage Payers.",
+  "homepage": "https://www.tax1099.com/",
+  "docs": "https://www.tax1099.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "tax1099-payer": {
+      "url": "https://mcp.tax1099.com/mcp"
+    }
+  }
+}

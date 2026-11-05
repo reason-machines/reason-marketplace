@@ -1,0 +1,13 @@
+{
+  "name": "cutpro",
+  "displayName": "CutPro",
+  "description": "AI videos, clips, music & more.",
+  "homepage": "https://cut.pro",
+  "docs": "https://cut.pro",
+  "auth": "oauth",
+  "mcpServers": {
+    "cutpro": {
+      "url": "https://mcp.cut.pro/"
+    }
+  }
+}

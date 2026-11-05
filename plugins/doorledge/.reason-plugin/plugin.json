@@ -1,0 +1,13 @@
+{
+  "name": "doorledge",
+  "displayName": "doorledge",
+  "description": "Send rental receipts to review.",
+  "homepage": "https://www.doorledge.com",
+  "docs": "https://doorledge.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "doorledge": {
+      "url": "https://www.doorledge.com/api/mcp"
+    }
+  }
+}

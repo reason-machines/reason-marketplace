@@ -1,0 +1,13 @@
+{
+  "name": "aiseo-plagiarism-checker",
+  "displayName": "AISEO Plagiarism Checker",
+  "description": "Check text and review sources.",
+  "homepage": "https://aiseo.ai/",
+  "docs": "https://aiseo.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "aiseo-plagiarism-checker": {
+      "url": "https://mcp.aiseo.ai/mcp"
+    }
+  }
+}

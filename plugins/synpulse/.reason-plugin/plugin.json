@@ -1,0 +1,13 @@
+{
+  "name": "synpulse",
+  "displayName": "SynPulse",
+  "description": "B2B Email & LinkedIn outreach.",
+  "homepage": "https://synpulse.app",
+  "docs": "https://synpulse.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "synpulse": {
+      "url": "https://mcp.synpulse.app/mcp"
+    }
+  }
+}

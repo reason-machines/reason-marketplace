@@ -1,0 +1,13 @@
+{
+  "name": "docket",
+  "displayName": "Docket",
+  "description": "Your product knowledge expert.",
+  "homepage": "https://www.docket.io/",
+  "docs": "https://help.docket.io/articles/8225942528-connect-docket-demand-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "docket": {
+      "url": "https://demand-mcp.app.docketai.com/mcp"
+    }
+  }
+}

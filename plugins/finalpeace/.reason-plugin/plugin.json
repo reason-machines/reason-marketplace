@@ -1,0 +1,13 @@
+{
+  "name": "finalpeace",
+  "displayName": "FinalPeace",
+  "description": "Will rules and loss checklist.",
+  "homepage": "https://finalpeace.co",
+  "docs": "https://finalpeace.co",
+  "auth": "none",
+  "mcpServers": {
+    "finalpeace": {
+      "url": "https://mcp.finalpeace.co/mcp"
+    }
+  }
+}

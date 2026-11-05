@@ -1,0 +1,13 @@
+{
+  "name": "velocity",
+  "displayName": "Velocity",
+  "description": "Plan and publish social posts.",
+  "homepage": "https://www.velocity.li",
+  "docs": "https://www.velocity.li",
+  "auth": "oauth",
+  "mcpServers": {
+    "velocity": {
+      "url": "https://velocity.li/mcp"
+    }
+  }
+}

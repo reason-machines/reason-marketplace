@@ -1,0 +1,13 @@
+{
+  "name": "rallies",
+  "displayName": "Rallies",
+  "description": "Research stocks, track wealth.",
+  "homepage": "https://rallies.ai",
+  "docs": "https://rallies.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "rallies": {
+      "url": "https://rallies.ai/mcp"
+    }
+  }
+}

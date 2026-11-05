@@ -1,0 +1,13 @@
+{
+  "name": "rio-las-vegas",
+  "displayName": "Rio Las Vegas",
+  "description": "Rooms and hotel help.",
+  "homepage": "https://www.riolasvegas.com",
+  "docs": "https://www.riolasvegas.com",
+  "auth": "none",
+  "mcpServers": {
+    "rio-las-vegas": {
+      "url": "https://mcp.riolasvegas.com/mcp"
+    }
+  }
+}

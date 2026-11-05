@@ -1,0 +1,13 @@
+{
+  "name": "idea-to-prototype-beta",
+  "displayName": "Idea To Prototype Beta",
+  "description": "Plan prototypes from ideas.",
+  "homepage": "https://idea-to-prototype-app.vercel.app",
+  "docs": "https://idea-to-prototype-app.vercel.app",
+  "auth": "none",
+  "mcpServers": {
+    "idea-to-prototype-beta": {
+      "url": "https://idea-to-prototype-app.vercel.app/mcp"
+    }
+  }
+}

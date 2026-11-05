@@ -1,0 +1,13 @@
+{
+  "name": "portravo",
+  "displayName": "Portravo",
+  "description": "Review plan takeoffs.",
+  "homepage": "https://portravo.com",
+  "docs": "https://portravo.com",
+  "auth": "none",
+  "mcpServers": {
+    "portravo": {
+      "url": "https://portravo.com/mcp"
+    }
+  }
+}

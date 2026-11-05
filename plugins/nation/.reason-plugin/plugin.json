@@ -1,0 +1,13 @@
+{
+  "name": "nation",
+  "displayName": "Nation",
+  "description": "Run your online store.",
+  "homepage": "https://withnation.ai/",
+  "docs": "https://withnation.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "nation": {
+      "url": "https://mcp.withnation.ai/mcp"
+    }
+  }
+}

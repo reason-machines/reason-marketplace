@@ -1,0 +1,13 @@
+{
+  "name": "seeyatrip",
+  "displayName": "SeeyaTrip",
+  "description": "Find hotels and flights.",
+  "homepage": "https://www.seeyatrip.com",
+  "docs": "https://www.seeyatrip.com",
+  "auth": "none",
+  "mcpServers": {
+    "seeyatrip": {
+      "url": "https://mcp.seeyatrip.com/mcp"
+    }
+  }
+}

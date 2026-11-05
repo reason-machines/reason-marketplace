@@ -1,0 +1,13 @@
+{
+  "name": "ai-endurance",
+  "displayName": "AI Endurance",
+  "description": "AI Running, Cycling, Triathlon.",
+  "homepage": "https://aiendurance.com",
+  "docs": "https://aiendurance.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai-endurance": {
+      "url": "https://aiendurance.com/mcp"
+    }
+  }
+}

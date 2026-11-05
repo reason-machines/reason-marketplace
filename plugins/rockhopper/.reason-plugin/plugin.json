@@ -1,0 +1,13 @@
+{
+  "name": "rockhopper",
+  "displayName": "Rockhopper",
+  "description": "File governance & audit trails.",
+  "homepage": "https://www.rockhopper.co",
+  "docs": "https://www.rockhopper.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "rockhopper": {
+      "url": "https://mcp.rockhopper.co/mcp"
+    }
+  }
+}

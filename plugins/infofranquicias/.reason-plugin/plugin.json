@@ -1,0 +1,13 @@
+{
+  "name": "infofranquicias",
+  "displayName": "InfoFranquicias",
+  "description": "Busca franquicias en Reason.",
+  "homepage": "https://www.infofranquicias.com/",
+  "docs": "https://www.infofranquicias.com/",
+  "auth": "none",
+  "mcpServers": {
+    "infofranquicias": {
+      "url": "https://mcp.infofranquicias.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vaatun",
+  "displayName": "Vaatun",
+  "description": "Find best InsurTech Solutions.",
+  "homepage": "https://www.vaatun.com/",
+  "docs": "https://tedix.dev/apps/vaatun/",
+  "auth": "none",
+  "mcpServers": {
+    "vaatun": {
+      "url": "https://www.vaatun.com/api/mcp"
+    }
+  }
+}

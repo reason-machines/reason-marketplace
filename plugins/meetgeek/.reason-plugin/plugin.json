@@ -1,0 +1,13 @@
+{
+  "name": "meetgeek",
+  "displayName": "MeetGeek",
+  "description": "Search meeting transcripts.",
+  "homepage": "https://meetgeek.ai/",
+  "docs": "https://meetgeek.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "meetgeek": {
+      "url": "https://mcp.meetgeek.ai/mcp"
+    }
+  }
+}

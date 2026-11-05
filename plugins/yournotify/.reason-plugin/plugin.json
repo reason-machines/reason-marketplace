@@ -1,0 +1,13 @@
+{
+  "name": "yournotify",
+  "displayName": "Yournotify",
+  "description": "Manage campaigns and contacts.",
+  "homepage": "https://yournotify.com",
+  "docs": "https://yournotify.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "yournotify": {
+      "url": "https://mcp.yournotify.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sitetrax-io",
+  "displayName": "SiteTrax.io",
+  "description": "Logistics operations analytics.",
+  "homepage": "https://sitetrax.io/",
+  "docs": "https://sitetrax.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sitetrax-io": {
+      "url": "https://mcp.sitetrax.io/mcp"
+    }
+  }
+}

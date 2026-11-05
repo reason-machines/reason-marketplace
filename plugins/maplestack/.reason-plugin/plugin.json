@@ -1,0 +1,13 @@
+{
+  "name": "maplestack",
+  "displayName": "MapleStack",
+  "description": "Search jobs across Canada.",
+  "homepage": "https://maplestack.ca",
+  "docs": "https://maplestack.ca/assistants",
+  "auth": "none",
+  "mcpServers": {
+    "maplestack": {
+      "url": "https://maplestack.ca/_api/mcp"
+    }
+  }
+}

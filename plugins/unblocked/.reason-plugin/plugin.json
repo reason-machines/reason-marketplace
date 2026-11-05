@@ -1,0 +1,13 @@
+{
+  "name": "unblocked",
+  "displayName": "Unblocked",
+  "description": "Search engineering context.",
+  "homepage": "https://getunblocked.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.getunblocked",
+  "auth": "oauth",
+  "mcpServers": {
+    "unblocked": {
+      "url": "https://getunblocked.com/api/mcpsse"
+    }
+  }
+}

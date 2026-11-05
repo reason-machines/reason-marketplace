@@ -1,0 +1,13 @@
+{
+  "name": "kickwise",
+  "displayName": "Kickwise",
+  "description": "AI football predictions.",
+  "homepage": "https://kickwise.ai",
+  "docs": "https://kickwise.ai",
+  "auth": "none",
+  "mcpServers": {
+    "kickwise": {
+      "url": "https://kickwise.ai/mcp"
+    }
+  }
+}

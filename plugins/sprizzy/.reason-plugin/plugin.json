@@ -1,0 +1,13 @@
+{
+  "name": "sprizzy",
+  "displayName": "Sprizzy",
+  "description": "YouTube video promotion.",
+  "homepage": "https://sprizzy.com/",
+  "docs": "https://sprizzy.com/",
+  "auth": "none",
+  "mcpServers": {
+    "sprizzy": {
+      "url": "https://mcp.sprizzy.com/mcp"
+    }
+  }
+}

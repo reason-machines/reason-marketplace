@@ -1,0 +1,13 @@
+{
+  "name": "artifactbridge",
+  "displayName": "ArtifactBridge",
+  "description": "Search docs, propose changes.",
+  "homepage": "https://artifactbridge.com",
+  "docs": "https://artifactbridge.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "artifactbridge": {
+      "url": "https://app.artifactbridge.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "instavar-video-templates",
+  "displayName": "Instavar Video Templates",
+  "description": "For use with Remotion.",
+  "homepage": "https://instavar.com/remotion",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.instavar/mcp-server",
+  "auth": "none",
+  "mcpServers": {
+    "instavar-video-templates": {
+      "url": "https://instavar.com/api/mcp/templates"
+    }
+  }
+}

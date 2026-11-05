@@ -1,0 +1,13 @@
+{
+  "name": "empleovivo",
+  "displayName": "EmpleoVivo",
+  "description": "Open jobs in Chile.",
+  "homepage": "https://empleovivo.cl/",
+  "docs": "https://empleovivo.cl/",
+  "auth": "none",
+  "mcpServers": {
+    "empleovivo": {
+      "url": "https://empleovivo.cl/mcp"
+    }
+  }
+}

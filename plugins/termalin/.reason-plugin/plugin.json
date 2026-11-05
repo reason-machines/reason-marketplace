@@ -1,0 +1,13 @@
+{
+  "name": "termalin",
+  "displayName": "Termalin",
+  "description": "SSH to your servers from chat.",
+  "homepage": "https://termal.in",
+  "docs": "https://termal.in",
+  "auth": "oauth",
+  "mcpServers": {
+    "termalin": {
+      "url": "https://termal.in/mcp"
+    }
+  }
+}

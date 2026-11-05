@@ -1,0 +1,13 @@
+{
+  "name": "leo-training",
+  "displayName": "Leo Training",
+  "description": "Train for what matters.",
+  "homepage": "https://leotraining.app",
+  "docs": "https://leotraining.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "leo-training": {
+      "url": "https://mcp.leotraining.app/mcp"
+    }
+  }
+}

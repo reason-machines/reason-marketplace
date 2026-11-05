@@ -1,0 +1,13 @@
+{
+  "name": "bilance",
+  "displayName": "Bilance",
+  "description": "Your spending and net worth.",
+  "homepage": "https://bilanceapp.com",
+  "docs": "https://bilanceapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "bilance": {
+      "url": "https://mcp.bilanceapp.com/mcp"
+    }
+  }
+}

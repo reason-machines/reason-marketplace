@@ -1,0 +1,13 @@
+{
+  "name": "sunlet",
+  "displayName": "Sunlet: Tasks & Daily Planner",
+  "description": "Save tasks and plan your day.",
+  "homepage": "https://sunlet.app",
+  "docs": "https://sunlet.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "sunlet": {
+      "url": "https://sunlet.app/mcp"
+    }
+  }
+}

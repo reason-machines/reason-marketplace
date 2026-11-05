@@ -1,0 +1,13 @@
+{
+  "name": "ppcadsweep",
+  "displayName": "PPC Ad Sweep",
+  "description": "Review Amazon PPC waste.",
+  "homepage": "https://ppcadsweep.com",
+  "docs": "https://ppcadsweep.com",
+  "auth": "none",
+  "mcpServers": {
+    "ppcadsweep": {
+      "url": "https://ppcadsweep.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "en-training",
+  "displayName": "EN Training",
+  "description": "Practise English grammar.",
+  "homepage": "https://en.ruslan.pro/",
+  "docs": "https://en.ruslan.pro/",
+  "auth": "none",
+  "mcpServers": {
+    "en-training": {
+      "url": "https://ruslan.pro/mcp"
+    }
+  }
+}

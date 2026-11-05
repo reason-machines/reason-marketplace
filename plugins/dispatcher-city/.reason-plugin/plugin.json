@@ -1,0 +1,13 @@
+{
+  "name": "dispatcher-city",
+  "displayName": "Dispatcher.City",
+  "description": "Search Berlin property.",
+  "homepage": "https://dispatcher.city",
+  "docs": "https://dispatcher.city",
+  "auth": "none",
+  "mcpServers": {
+    "dispatcher-city": {
+      "url": "https://mcp.dispatcher.city/mcp"
+    }
+  }
+}

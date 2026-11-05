@@ -1,0 +1,13 @@
+{
+  "name": "moknah",
+  "displayName": "Moknah",
+  "description": "Make audiobooks from text.",
+  "homepage": "https://moknah.io",
+  "docs": "https://moknah.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "moknah": {
+      "url": "https://moknah.io/mcp"
+    }
+  }
+}

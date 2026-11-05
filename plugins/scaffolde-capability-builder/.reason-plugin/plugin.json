@@ -1,0 +1,13 @@
+{
+  "name": "scaffolde-capability-builder",
+  "displayName": "Scaffolde Capability Builder",
+  "description": "Draft reusable capabilities.",
+  "homepage": "https://scaffolde.ai/",
+  "docs": "https://scaffolde.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "scaffolde-capability-builder": {
+      "url": "https://mcp.scaffolde.ai/mcp"
+    }
+  }
+}

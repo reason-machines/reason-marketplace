@@ -1,0 +1,13 @@
+{
+  "name": "asklane",
+  "displayName": "Asklane",
+  "description": "Send a vendor your inquiry.",
+  "homepage": "https://www.asklane.io",
+  "docs": "https://www.asklane.io",
+  "auth": "none",
+  "mcpServers": {
+    "asklane": {
+      "url": "https://mcp.asklane.io/mcp"
+    }
+  }
+}

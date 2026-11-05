@@ -1,0 +1,13 @@
+{
+  "name": "mettlespark",
+  "displayName": "Mettlespark",
+  "description": "Tech job ads and skills.",
+  "homepage": "https://mettlespark.com",
+  "docs": "https://mettlespark.com/",
+  "auth": "none",
+  "mcpServers": {
+    "mettlespark": {
+      "url": "https://app.mettlespark.com/mcp"
+    }
+  }
+}

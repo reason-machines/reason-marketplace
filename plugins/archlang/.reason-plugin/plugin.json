@@ -1,0 +1,13 @@
+{
+  "name": "archlang",
+  "displayName": "ArchLang",
+  "description": "Floor plans as checked code.",
+  "homepage": "https://archlang.uk",
+  "docs": "https://archlang.uk",
+  "auth": "none",
+  "mcpServers": {
+    "archlang": {
+      "url": "https://mcp.archlang.uk/mcp"
+    }
+  }
+}

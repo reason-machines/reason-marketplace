@@ -1,0 +1,13 @@
+{
+  "name": "textmagic",
+  "displayName": "Textmagic",
+  "description": "Send SMS and manage contacts.",
+  "homepage": "https://www.textmagic.com/",
+  "docs": "https://www.textmagic.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "textmagic": {
+      "url": "https://mcp.textmagic.com/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "new-york-llc-publication",
+  "displayName": "New York LLC Publication",
+  "description": "Costs & newspapers by county.",
+  "homepage": "https://www.llcpublishers.com/",
+  "docs": "https://www.llcpublishers.com/",
+  "auth": "none",
+  "mcpServers": {
+    "new-york-llc-publication": {
+      "url": "https://mcp.llcpublishers.com/mcp"
+    }
+  }
+}

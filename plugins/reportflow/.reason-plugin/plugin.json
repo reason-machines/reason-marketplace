@@ -1,0 +1,13 @@
+{
+  "name": "reportflow",
+  "displayName": "ReportFlow",
+  "description": "Generate professional PDFs.",
+  "homepage": "https://lp.re-port-flow.com",
+  "docs": "https://lp.re-port-flow.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "reportflow": {
+      "url": "https://mcp.re-port-flow.com/mcp"
+    }
+  }
+}

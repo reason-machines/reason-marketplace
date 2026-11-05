@@ -1,0 +1,13 @@
+{
+  "name": "snapvisor",
+  "displayName": "SnapVisor",
+  "description": "Review visual regression tests.",
+  "homepage": "https://snapvisor.io/",
+  "docs": "https://snapvisor.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "snapvisor": {
+      "url": "https://mcp.snapvisor.io/"
+    }
+  }
+}

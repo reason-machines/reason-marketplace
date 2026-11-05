@@ -1,0 +1,13 @@
+{
+  "name": "visalaw-ai-immigration-law",
+  "displayName": "Visalaw AI",
+  "description": "Immigration research & skills.",
+  "homepage": "https://visalaw.ai",
+  "docs": "https://visalaw.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "visalaw-ai-immigration-law": {
+      "url": "https://mcp.visalaw.ai/mcp"
+    }
+  }
+}

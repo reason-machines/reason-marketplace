@@ -1,0 +1,13 @@
+{
+  "name": "dimhour",
+  "displayName": "Dim Hour",
+  "description": "Find restaurants and bars.",
+  "homepage": "https://dimhour.com",
+  "docs": "https://dimhour.com",
+  "auth": "none",
+  "mcpServers": {
+    "dimhour": {
+      "url": "https://mcp.dimhour.com/mcp"
+    }
+  }
+}

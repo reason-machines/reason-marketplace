@@ -1,0 +1,13 @@
+{
+  "name": "schengen-days",
+  "displayName": "Stayspan Schengen Days",
+  "description": "Count and plan Schengen stays.",
+  "homepage": "https://schengen-days.zovo.one",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.theluckystrike/schengen-days",
+  "auth": "none",
+  "mcpServers": {
+    "schengen-days": {
+      "url": "https://schengen-days.zovo.one/mcp"
+    }
+  }
+}

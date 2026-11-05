@@ -1,0 +1,13 @@
+{
+  "name": "domainroc-domain-advisor",
+  "displayName": "DomainROC Domain Advisor",
+  "description": "Compare Domain Prices.",
+  "homepage": "https://www.domainroc.com/domain-advisor",
+  "docs": "https://www.domainroc.com/domain-advisor",
+  "auth": "none",
+  "mcpServers": {
+    "domainroc-domain-advisor": {
+      "url": "https://domainroc.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "warp-dd-tech-due-diligence",
+  "displayName": "WARP DD — Tech Due Diligence",
+  "description": "Find and score tech companies.",
+  "homepage": "https://warpdd.com",
+  "docs": "https://warpdd.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "warp-dd-tech-due-diligence": {
+      "url": "https://mcp.warpdd.com/mcp"
+    }
+  }
+}

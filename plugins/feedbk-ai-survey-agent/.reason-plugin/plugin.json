@@ -1,0 +1,13 @@
+{
+  "name": "feedbk-ai-survey-agent",
+  "displayName": "Feedbk.ai Survey Agent",
+  "description": "Create AI-powered surveys.",
+  "homepage": "https://feedbk.ai",
+  "docs": "https://feedbk.ai",
+  "auth": "none",
+  "mcpServers": {
+    "feedbk-ai-survey-agent": {
+      "url": "https://mcp.feedbk.ai/mcp"
+    }
+  }
+}

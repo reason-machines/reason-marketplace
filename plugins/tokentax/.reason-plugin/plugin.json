@@ -1,0 +1,13 @@
+{
+  "name": "tokentax",
+  "displayName": "TokenTax",
+  "description": "Review your crypto taxes.",
+  "homepage": "https://tokentax.co",
+  "docs": "https://tokentax.co/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "tokentax": {
+      "url": "https://api.app.tokentax.co/mcp"
+    }
+  }
+}

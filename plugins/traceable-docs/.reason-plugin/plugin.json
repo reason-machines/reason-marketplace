@@ -1,0 +1,13 @@
+{
+  "name": "traceable-docs",
+  "displayName": "Traceable",
+  "description": "Create and edit documents.",
+  "homepage": "https://traceabledocs.com/llms.txt",
+  "docs": "https://traceabledocs.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "traceable-docs": {
+      "url": "https://app.traceabledocs.com/api/mcp/mcp"
+    }
+  }
+}

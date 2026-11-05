@@ -1,0 +1,13 @@
+{
+  "name": "gleanmark",
+  "displayName": "GleanMark",
+  "description": "Trademark search and research.",
+  "homepage": "https://gleanmark.com",
+  "docs": "https://gleanmark.com",
+  "auth": "none",
+  "mcpServers": {
+    "gleanmark": {
+      "url": "https://gleanmark.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "moody-lenses",
+  "displayName": "moody lenses",
+  "description": "Buy colored contact lenses.",
+  "homepage": "https://moodylenses.com/",
+  "docs": "https://moodylenses.com/",
+  "auth": "none",
+  "mcpServers": {
+    "moody-lenses": {
+      "url": "https://mcp.moodylenses.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shapelessai",
+  "displayName": "ShapelessAI",
+  "description": "Post to LinkedIn, X and more.",
+  "homepage": "https://shapelessai.com",
+  "docs": "https://shapelessai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "shapelessai": {
+      "url": "https://shapelessai.com/mcp"
+    }
+  }
+}

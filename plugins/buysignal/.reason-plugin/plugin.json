@@ -1,0 +1,13 @@
+{
+  "name": "buysignal",
+  "displayName": "BuySignal",
+  "description": "Find live UK & CA deals.",
+  "homepage": "https://buysignal.deals",
+  "docs": "https://buysignal.deals",
+  "auth": "none",
+  "mcpServers": {
+    "buysignal": {
+      "url": "https://buysignal.deals/mcp"
+    }
+  }
+}

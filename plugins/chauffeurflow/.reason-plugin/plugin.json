@@ -1,0 +1,13 @@
+{
+  "name": "chauffeurflow",
+  "displayName": "ChauffeurFlow",
+  "description": "Find private chauffeurs.",
+  "homepage": "https://chauffeurflow.com/ai",
+  "docs": "https://chauffeurflow.com/ai",
+  "auth": "none",
+  "mcpServers": {
+    "chauffeurflow": {
+      "url": "https://chauffeurflow.com/mcp"
+    }
+  }
+}

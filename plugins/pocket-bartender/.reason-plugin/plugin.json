@@ -1,0 +1,13 @@
+{
+  "name": "pocket-bartender",
+  "displayName": "Pocket Bartender",
+  "description": "Cocktail Recipe & Mixology App.",
+  "homepage": "https://pocketbartender.app",
+  "docs": "https://pocketbartender.app",
+  "auth": "none",
+  "mcpServers": {
+    "pocket-bartender": {
+      "url": "https://mcp.pocketbartender.app/mcp"
+    }
+  }
+}

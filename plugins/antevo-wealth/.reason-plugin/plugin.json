@@ -1,0 +1,13 @@
+{
+  "name": "antevo-wealth",
+  "displayName": "Antevo Wealth",
+  "description": "Ask about your own portfolio.",
+  "homepage": "https://antevo.ch/wealth",
+  "docs": "https://antevo.ch/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "antevo-wealth": {
+      "url": "https://api.antevo.ch/mcp/wealth/mcp"
+    }
+  }
+}

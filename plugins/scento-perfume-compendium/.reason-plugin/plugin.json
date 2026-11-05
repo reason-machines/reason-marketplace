@@ -1,0 +1,13 @@
+{
+  "name": "scento-perfume-compendium",
+  "displayName": "Scento Perfume Compendium",
+  "description": "Perfume notes, houses & edits.",
+  "homepage": "https://www.scento.com/developers",
+  "docs": "https://www.scento.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "scento-perfume-compendium": {
+      "url": "https://scento.com/mcp"
+    }
+  }
+}

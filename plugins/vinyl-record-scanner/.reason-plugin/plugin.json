@@ -1,0 +1,13 @@
+{
+  "name": "vinyl-record-scanner",
+  "displayName": "Vinyl Record Scanner - VinylAI",
+  "description": "Identify vinyl from a photo.",
+  "homepage": "https://vinylai.app/chatgpt/",
+  "docs": "https://vinylai.app/chatgpt/",
+  "auth": "none",
+  "mcpServers": {
+    "vinyl-record-scanner": {
+      "url": "https://vinylai.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "anny",
+  "displayName": "Anny AI",
+  "description": "Hotel intelligence and actions.",
+  "homepage": "https://www.anny.ai",
+  "docs": "https://www.anny.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "anny": {
+      "url": "https://www.anny.ai/api/mcp"
+    }
+  }
+}

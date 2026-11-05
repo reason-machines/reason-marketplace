@@ -1,0 +1,13 @@
+{
+  "name": "tablego",
+  "displayName": "TableGo",
+  "description": "Find a table at TableGo venues.",
+  "homepage": "https://tablego.uk",
+  "docs": "https://tablego.uk",
+  "auth": "none",
+  "mcpServers": {
+    "tablego": {
+      "url": "https://mcp.tablego.uk/mcp"
+    }
+  }
+}

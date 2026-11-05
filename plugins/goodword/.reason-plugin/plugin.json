@@ -1,0 +1,13 @@
+{
+  "name": "goodword",
+  "displayName": "Goodword",
+  "description": "Search and manage your network.",
+  "homepage": "https://goodword.com",
+  "docs": "https://goodword.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "goodword": {
+      "url": "https://mcp.goodword.com/mcp"
+    }
+  }
+}

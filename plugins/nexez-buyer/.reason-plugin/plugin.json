@@ -1,0 +1,13 @@
+{
+  "name": "nexez-buyer",
+  "displayName": "Nexez Buyer",
+  "description": "Find and validate offers.",
+  "homepage": "https://nexez.ai/agents",
+  "docs": "https://nexez.ai/agents",
+  "auth": "none",
+  "mcpServers": {
+    "nexez-buyer": {
+      "url": "https://nexez.ai/mcp"
+    }
+  }
+}

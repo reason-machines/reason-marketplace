@@ -1,0 +1,13 @@
+{
+  "name": "emem",
+  "displayName": "emem",
+  "description": "Signed facts about real places.",
+  "homepage": "https://emem.dev",
+  "docs": "https://emem.dev",
+  "auth": "none",
+  "mcpServers": {
+    "emem": {
+      "url": "https://emem.dev/mcp"
+    }
+  }
+}

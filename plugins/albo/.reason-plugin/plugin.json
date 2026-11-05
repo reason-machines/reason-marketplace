@@ -1,0 +1,13 @@
+{
+  "name": "albo",
+  "displayName": "Albo",
+  "description": "Save, find and plan with Albo.",
+  "homepage": "https://albo.inc",
+  "docs": "https://albo.inc",
+  "auth": "oauth",
+  "mcpServers": {
+    "albo": {
+      "url": "https://mcp.albo.inc/mcp"
+    }
+  }
+}

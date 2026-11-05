@@ -1,0 +1,13 @@
+{
+  "name": "aige-carousel-studio",
+  "displayName": "AIGE Carousel Studio",
+  "description": "Instagram & LinkedIn carousels.",
+  "homepage": "https://aige.ws/mcp",
+  "docs": "https://aige.ws/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "aige-carousel-studio": {
+      "url": "https://aige.ws/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "patch",
+  "displayName": "Patch MCP",
+  "description": "AI answering & outbound calls.",
+  "homepage": "https://www.patchmcp.com",
+  "docs": "https://www.patchmcp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "patch": {
+      "url": "https://patchmcp.com/mcp"
+    }
+  }
+}

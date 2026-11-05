@@ -1,0 +1,13 @@
+{
+  "name": "marble",
+  "displayName": "Marble",
+  "description": "Turn ideas into shared notes.",
+  "homepage": "https://marble.md",
+  "docs": "https://marble.md",
+  "auth": "oauth",
+  "mcpServers": {
+    "marble": {
+      "url": "https://marble.md/mcp"
+    }
+  }
+}

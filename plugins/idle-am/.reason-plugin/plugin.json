@@ -1,0 +1,13 @@
+{
+  "name": "idle-am",
+  "displayName": "idle.am",
+  "description": "Play your idle MMO character.",
+  "homepage": "https://idle.am",
+  "docs": "https://idle.am/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "idle-am": {
+      "url": "https://api.idle.am/mcp"
+    }
+  }
+}

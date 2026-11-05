@@ -1,0 +1,13 @@
+{
+  "name": "trivis",
+  "displayName": "Trivis",
+  "description": "Bookkeeping for your company.",
+  "homepage": "https://trivis.ee",
+  "docs": "https://trivis.ee/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "trivis": {
+      "url": "https://ai-api.trivis.ee/mcp"
+    }
+  }
+}

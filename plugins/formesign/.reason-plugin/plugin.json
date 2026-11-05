@@ -1,0 +1,13 @@
+{
+  "name": "formesign",
+  "displayName": "Formesign",
+  "description": "Create forms with eSignature.",
+  "homepage": "https://formesign.com",
+  "docs": "https://formesign.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "formesign": {
+      "url": "https://formesign.com/mcp/103888281684397228046"
+    }
+  }
+}

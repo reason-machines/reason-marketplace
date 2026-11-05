@@ -1,0 +1,13 @@
+{
+  "name": "cytado",
+  "displayName": "cytado",
+  "description": "Citations with page numbers.",
+  "homepage": "https://cytado.com",
+  "docs": "https://cytado.com/claude-mcp-citations",
+  "auth": "oauth",
+  "mcpServers": {
+    "cytado": {
+      "url": "https://cytado.com/api/mcp"
+    }
+  }
+}

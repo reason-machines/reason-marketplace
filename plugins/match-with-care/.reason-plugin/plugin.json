@@ -1,0 +1,13 @@
+{
+  "name": "match-with-care",
+  "displayName": "Match with Care",
+  "description": "UK elderly care consultant.",
+  "homepage": "https://matchwithcare.co.uk",
+  "docs": "https://matchwithcare.co.uk",
+  "auth": "none",
+  "mcpServers": {
+    "match-with-care": {
+      "url": "https://mcp.matchwithcare.co.uk/mcp"
+    }
+  }
+}

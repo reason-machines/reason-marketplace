@@ -1,0 +1,13 @@
+{
+  "name": "sellwinners",
+  "displayName": "SellWinners",
+  "description": "Find winning products and ads.",
+  "homepage": "https://sellwinners.com",
+  "docs": "https://sellwinners.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sellwinners": {
+      "url": "https://mcp.sellwinners.com/mcp"
+    }
+  }
+}

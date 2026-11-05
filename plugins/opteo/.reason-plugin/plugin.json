@@ -1,0 +1,13 @@
+{
+  "name": "opteo",
+  "displayName": "Opteo",
+  "description": "Analyse and optimise your ads.",
+  "homepage": "https://opteo.com/docs/en/articles/15564041-opteo-mcp",
+  "docs": "https://opteo.com/docs/en/articles/15564041-opteo-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "opteo": {
+      "url": "https://api.opteo.com/mcp"
+    }
+  }
+}

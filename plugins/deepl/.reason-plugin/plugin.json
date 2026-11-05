@@ -1,0 +1,13 @@
+{
+  "name": "deepl",
+  "displayName": "DeepL",
+  "description": "Translate text and documents.",
+  "homepage": "https://www.deepl.com",
+  "docs": "https://mcp.deepl.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "deepl": {
+      "url": "https://mcp.deepl.com/v1/mcp"
+    }
+  }
+}

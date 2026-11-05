@@ -1,0 +1,13 @@
+{
+  "name": "repeatpost",
+  "displayName": "RepeatPost",
+  "description": "Schedule social media posts.",
+  "homepage": "https://www.repeatpost.com",
+  "docs": "https://repeatpost.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "repeatpost": {
+      "url": "https://api.repeatpost.com/mcp"
+    }
+  }
+}

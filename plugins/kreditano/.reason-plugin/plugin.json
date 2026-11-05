@@ -1,0 +1,13 @@
+{
+  "name": "kreditano",
+  "displayName": "Kreditano",
+  "description": "Romanian loan cost scenarios.",
+  "homepage": "https://kreditano.ro",
+  "docs": "https://kreditano.ro",
+  "auth": "none",
+  "mcpServers": {
+    "kreditano": {
+      "url": "https://mcp.kreditano.ro/mcp"
+    }
+  }
+}

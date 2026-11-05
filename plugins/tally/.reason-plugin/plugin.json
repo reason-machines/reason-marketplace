@@ -1,0 +1,13 @@
+{
+  "name": "tally",
+  "displayName": "Tally",
+  "description": "Create free forms and surveys.",
+  "homepage": "https://tally.so",
+  "docs": "https://tally.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "tally": {
+      "url": "https://mcp.tally.so/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "launchlist",
+  "displayName": "LaunchList",
+  "description": "Test an idea with a waitlist.",
+  "homepage": "https://getlaunchlist.com",
+  "docs": "https://getlaunchlist.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "launchlist": {
+      "url": "https://mcp.getlaunchlist.com/"
+    }
+  }
+}

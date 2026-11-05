@@ -1,0 +1,13 @@
+{
+  "name": "untap",
+  "displayName": "Untap",
+  "description": "UK refunds you are owed.",
+  "homepage": "https://untap.money/connect",
+  "docs": "https://untap.money/connect",
+  "auth": "none",
+  "mcpServers": {
+    "untap": {
+      "url": "https://untap.money/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "spaceship",
+  "displayName": "Spaceship",
+  "description": "Search domain availability.",
+  "homepage": "https://www.spaceship.com",
+  "docs": "https://www.spaceship.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "spaceship": {
+      "url": "https://mcp.spaceship.com/mcp"
+    }
+  }
+}

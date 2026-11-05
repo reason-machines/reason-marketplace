@@ -1,0 +1,13 @@
+{
+  "name": "project-desk",
+  "displayName": "Project Desk",
+  "description": "Track projects and issues.",
+  "homepage": "https://atlier.ai",
+  "docs": "https://atlier.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "project-desk": {
+      "url": "https://atlier.ai/mcp"
+    }
+  }
+}

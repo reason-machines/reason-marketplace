@@ -1,0 +1,13 @@
+{
+  "name": "ecoexperten-energieausweis",
+  "displayName": "ecoExperten Energieausweis",
+  "description": "Energieausweis bestellen.",
+  "homepage": "https://ecoexperten.com",
+  "docs": "https://ecoexperten.com",
+  "auth": "none",
+  "mcpServers": {
+    "ecoexperten-energieausweis": {
+      "url": "https://mcp.ecoexperten.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rollcage",
+  "displayName": "Rollcage",
+  "description": "Check agent commands first.",
+  "homepage": "https://rollcage.app",
+  "docs": "https://rollcage.app",
+  "auth": "none",
+  "mcpServers": {
+    "rollcage": {
+      "url": "https://rollcage.app/mcp"
+    }
+  }
+}

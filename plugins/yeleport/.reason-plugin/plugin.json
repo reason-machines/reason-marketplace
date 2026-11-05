@@ -1,0 +1,13 @@
+{
+  "name": "yeleport",
+  "displayName": "Yeleport",
+  "description": "Book Local Services 24/7.",
+  "homepage": "https://yeleport.com",
+  "docs": "https://yeleport.com",
+  "auth": "none",
+  "mcpServers": {
+    "yeleport": {
+      "url": "https://mcp.yeleport.com/mcp"
+    }
+  }
+}

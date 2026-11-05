@@ -1,0 +1,13 @@
+{
+  "name": "swiss-touristy",
+  "displayName": "Swiss Touristy",
+  "description": "Swiss private transfer quotes.",
+  "homepage": "https://swisstouristy.com/en",
+  "docs": "https://swisstouristy.com/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "swiss-touristy": {
+      "url": "https://mcp.swisstouristy.com/mcp"
+    }
+  }
+}

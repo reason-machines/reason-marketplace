@@ -1,0 +1,13 @@
+{
+  "name": "yield-clarity",
+  "displayName": "Yield Clarity",
+  "description": "Your financial plan in chat.",
+  "homepage": "https://yieldclarity.com/ai-assistants",
+  "docs": "https://tedix.dev/apps/yield-clarity/",
+  "auth": "oauth",
+  "mcpServers": {
+    "yield-clarity": {
+      "url": "https://app.yieldclarity.com/mcp"
+    }
+  }
+}

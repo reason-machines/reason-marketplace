@@ -1,0 +1,13 @@
+{
+  "name": "listening",
+  "displayName": "Listening",
+  "description": "Text, files & docs into audio.",
+  "homepage": "https://listening.com",
+  "docs": "https://listening.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "listening": {
+      "url": "https://www.listening.com/api/mcp"
+    }
+  }
+}

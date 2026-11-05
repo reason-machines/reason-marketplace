@@ -1,0 +1,13 @@
+{
+  "name": "korea-concierge",
+  "displayName": "Korea Concierge",
+  "description": "Korea help with proof.",
+  "homepage": "https://concierge.youngji.kim",
+  "docs": "https://concierge.youngji.kim",
+  "auth": "none",
+  "mcpServers": {
+    "korea-concierge": {
+      "url": "https://concierge.youngji.kim/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dockflow",
+  "displayName": "Dockflow",
+  "description": "Search/track ocean containers.",
+  "homepage": "https://dockflow.com",
+  "docs": "https://dockflow.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dockflow": {
+      "url": "https://mcp.dockflow.com/mcp"
+    }
+  }
+}

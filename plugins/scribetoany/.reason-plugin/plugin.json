@@ -1,0 +1,13 @@
+{
+  "name": "scribetoany",
+  "displayName": "ScribeToAny",
+  "description": "Transcribe audio and video.",
+  "homepage": "https://scribetoany.com",
+  "docs": "https://scribetoany.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "scribetoany": {
+      "url": "https://scribetoany.com/api/mcp"
+    }
+  }
+}

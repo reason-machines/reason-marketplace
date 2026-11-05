@@ -1,0 +1,13 @@
+{
+  "name": "apim-galaxy",
+  "displayName": "APiM Galaxy",
+  "description": "B2B market-entry research.",
+  "homepage": "https://galaxy.apieceofmap.com/connector",
+  "docs": "https://galaxy.apieceofmap.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "apim-galaxy": {
+      "url": "https://galaxy.apieceofmap.com/mcp"
+    }
+  }
+}

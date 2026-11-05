@@ -1,0 +1,13 @@
+{
+  "name": "fridey",
+  "displayName": "Fridey",
+  "description": "Your travel assistant.",
+  "homepage": "https://fridey-travel.com",
+  "docs": "https://fridey-travel.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fridey": {
+      "url": "https://mcp.fridey-travel.com/mcp"
+    }
+  }
+}

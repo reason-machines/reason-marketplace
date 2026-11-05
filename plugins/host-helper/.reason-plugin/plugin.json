@@ -1,0 +1,13 @@
+{
+  "name": "host-helper",
+  "displayName": "Host Helper",
+  "description": "Manage vacation rentals.",
+  "homepage": "https://www.hosthelperai.com",
+  "docs": "https://www.hosthelperai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "host-helper": {
+      "url": "https://hosthelperai.com/mcp"
+    }
+  }
+}

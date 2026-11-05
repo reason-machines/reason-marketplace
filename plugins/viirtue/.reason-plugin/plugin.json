@@ -1,0 +1,13 @@
+{
+  "name": "viirtue",
+  "displayName": "Viirtue",
+  "description": "Ask your cloud phone system.",
+  "homepage": "https://viirtue.com/",
+  "docs": "https://viirtue.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "viirtue": {
+      "url": "https://mcp.viirtue.com/mcp"
+    }
+  }
+}

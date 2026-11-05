@@ -1,0 +1,13 @@
+{
+  "name": "morning-consult",
+  "displayName": "Morning Consult",
+  "description": "Global market intelligence.",
+  "homepage": "https://morningconsult.com/",
+  "docs": "https://morningconsult.com/articles/how-the-morning-consult-ai-connector-mcp-works",
+  "auth": "oauth",
+  "mcpServers": {
+    "morning-consult": {
+      "url": "https://api.morningconsult.com/mcp"
+    }
+  }
+}

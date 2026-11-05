@@ -1,0 +1,13 @@
+{
+  "name": "draiv",
+  "displayName": "DRAIV",
+  "description": "Rent a car in Zurich.",
+  "homepage": "https://draiv.ch",
+  "docs": "https://draiv.ch",
+  "auth": "none",
+  "mcpServers": {
+    "draiv": {
+      "url": "https://draiv.ch/mcp"
+    }
+  }
+}

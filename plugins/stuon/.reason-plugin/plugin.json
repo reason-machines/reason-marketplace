@@ -1,0 +1,13 @@
+{
+  "name": "stuon",
+  "displayName": "Stuon",
+  "description": "Study data, goals, and habits.",
+  "homepage": "https://stuon.space",
+  "docs": "https://stuon.space",
+  "auth": "oauth",
+  "mcpServers": {
+    "stuon": {
+      "url": "https://mcp.stuon.space/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "geoviz",
+  "displayName": "GeoViz",
+  "description": "Website AI-readiness checks.",
+  "homepage": "https://www.geoviz.ai",
+  "docs": "https://www.geoviz.ai",
+  "auth": "none",
+  "mcpServers": {
+    "geoviz": {
+      "url": "https://geoviz.ai/mcp"
+    }
+  }
+}

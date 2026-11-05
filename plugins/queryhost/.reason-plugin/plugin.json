@@ -1,0 +1,13 @@
+{
+  "name": "queryhost",
+  "displayName": "QueryHost",
+  "description": "Check and compare game servers.",
+  "homepage": "https://query.host",
+  "docs": "https://query.host",
+  "auth": "none",
+  "mcpServers": {
+    "queryhost": {
+      "url": "https://query.host/mcp"
+    }
+  }
+}

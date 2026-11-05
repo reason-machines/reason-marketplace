@@ -1,0 +1,13 @@
+{
+  "name": "hunr",
+  "displayName": "Hunr",
+  "description": "Engineering take-homes.",
+  "homepage": "https://hunr.ai",
+  "docs": "https://hunr.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "hunr": {
+      "url": "https://mcp.hunr.ai/mcp"
+    }
+  }
+}

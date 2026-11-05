@@ -1,0 +1,13 @@
+{
+  "name": "digitalocean",
+  "displayName": "DigitalOcean",
+  "description": "Provision a DigitalOcean VM.",
+  "homepage": "https://www.digitalocean.com/",
+  "docs": "https://www.digitalocean.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "digitalocean": {
+      "url": "https://mcp.digitalocean.com/mcp"
+    }
+  }
+}

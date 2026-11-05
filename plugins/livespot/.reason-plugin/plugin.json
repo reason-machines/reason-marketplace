@@ -1,0 +1,13 @@
+{
+  "name": "livespot",
+  "displayName": "LiveSpot",
+  "description": "Find events in Sweden.",
+  "homepage": "https://livespot.se",
+  "docs": "https://livespot.se",
+  "auth": "none",
+  "mcpServers": {
+    "livespot": {
+      "url": "https://livespot.se/mcp"
+    }
+  }
+}

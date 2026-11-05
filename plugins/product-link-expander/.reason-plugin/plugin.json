@@ -1,0 +1,13 @@
+{
+  "name": "product-link-expander",
+  "displayName": "Product Link Expander",
+  "description": "Expand product links.",
+  "homepage": "https://amazon-expander.ccdesign.workers.dev/",
+  "docs": "https://amazon-expander.ccdesign.workers.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "product-link-expander": {
+      "url": "https://amazon-expander.ccdesign.workers.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sec-filings",
+  "displayName": "Zovo SEC Filings",
+  "description": "SEC filings and financials.",
+  "homepage": "https://sec-filings.zovo.one",
+  "docs": "https://sec-filings.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "sec-filings": {
+      "url": "https://sec-filings.zovo.one/mcp"
+    }
+  }
+}

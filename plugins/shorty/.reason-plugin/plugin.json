@@ -1,0 +1,13 @@
+{
+  "name": "shorty",
+  "displayName": "Shorty",
+  "description": "Summarize and transcribe media.",
+  "homepage": "https://aishorty.com",
+  "docs": "https://aishorty.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "shorty": {
+      "url": "https://aishorty.com/api/mcp"
+    }
+  }
+}

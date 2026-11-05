@@ -1,0 +1,13 @@
+{
+  "name": "seo-keywords-by-vibeseo",
+  "displayName": "SEO Keywords by VibeSEO",
+  "description": "Keyword research, AI blogging.",
+  "homepage": "https://vibeseo.dev",
+  "docs": "https://vibeseo.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "seo-keywords-by-vibeseo": {
+      "url": "https://mcp.vibeseo.dev/mcp"
+    }
+  }
+}

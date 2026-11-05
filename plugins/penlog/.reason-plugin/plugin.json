@@ -1,0 +1,13 @@
+{
+  "name": "penlog",
+  "displayName": "Penlog",
+  "description": "Search your handwritten notes.",
+  "homepage": "https://penlog.app",
+  "docs": "https://penlog.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "penlog": {
+      "url": "https://mcp.penlog.app/"
+    }
+  }
+}

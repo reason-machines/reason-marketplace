@@ -1,0 +1,13 @@
+{
+  "name": "fitin",
+  "displayName": "FiTin",
+  "description": "Ask AI about your FiTin logs.",
+  "homepage": "https://fitin.co.jp",
+  "docs": "https://fitin.co.jp",
+  "auth": "oauth",
+  "mcpServers": {
+    "fitin": {
+      "url": "https://fitin.co.jp/mcp"
+    }
+  }
+}

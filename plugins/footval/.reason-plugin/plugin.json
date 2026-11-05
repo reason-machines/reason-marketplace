@@ -1,0 +1,13 @@
+{
+  "name": "footval",
+  "displayName": "FootVal",
+  "description": "Predictions, values & scores.",
+  "homepage": "https://footval.com/llms.txt",
+  "docs": "https://footval.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "footval": {
+      "url": "https://api.footval.com/mcp"
+    }
+  }
+}

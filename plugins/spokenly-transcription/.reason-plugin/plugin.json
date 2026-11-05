@@ -1,0 +1,13 @@
+{
+  "name": "spokenly-transcription",
+  "displayName": "Spokenly",
+  "description": "Transcribe and discuss audio.",
+  "homepage": "https://spokenly.app/support#chatgpt",
+  "docs": "https://spokenly.app/support#chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "spokenly-transcription": {
+      "url": "https://api.spokenly.app/mcp"
+    }
+  }
+}

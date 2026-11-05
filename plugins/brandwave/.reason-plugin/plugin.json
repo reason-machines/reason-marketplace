@@ -1,0 +1,13 @@
+{
+  "name": "brandwave",
+  "displayName": "Brandwave",
+  "description": "See what your marketing did.",
+  "homepage": "https://gobrandwave.com",
+  "docs": "https://gobrandwave.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "brandwave": {
+      "url": "https://mcp.gobrandwave.com/mcp"
+    }
+  }
+}

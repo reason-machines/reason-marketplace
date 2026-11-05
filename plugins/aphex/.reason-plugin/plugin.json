@@ -1,0 +1,13 @@
+{
+  "name": "aphex",
+  "displayName": "Aphex",
+  "description": "Talk to your construction data.",
+  "homepage": "https://www.aphex.co/",
+  "docs": "https://app.aphex.co/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "aphex": {
+      "url": "https://app.aphex.co/mcp"
+    }
+  }
+}

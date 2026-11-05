@@ -1,0 +1,13 @@
+{
+  "name": "thesisai",
+  "displayName": "ThesisAI",
+  "description": "Research drafts with citations.",
+  "homepage": "https://www.thesisai.io",
+  "docs": "https://www.thesisai.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "thesisai": {
+      "url": "https://thesisai.io/mcp"
+    }
+  }
+}

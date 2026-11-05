@@ -1,0 +1,13 @@
+{
+  "name": "scamchecker",
+  "displayName": "Scamchecker.nl",
+  "description": "Check messages for scams.",
+  "homepage": "https://scamchecker.nl/",
+  "docs": "https://scamchecker.nl/",
+  "auth": "none",
+  "mcpServers": {
+    "scamchecker": {
+      "url": "https://scamchecker.nl/mcp"
+    }
+  }
+}

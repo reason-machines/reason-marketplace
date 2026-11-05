@@ -1,0 +1,13 @@
+{
+  "name": "pandachef",
+  "displayName": "PandaChef",
+  "description": "Recipes, pantry & meal plans.",
+  "homepage": "https://www.99pandas.de",
+  "docs": "https://www.99pandas.de",
+  "auth": "oauth",
+  "mcpServers": {
+    "pandachef": {
+      "url": "https://99pandas.de/mcp"
+    }
+  }
+}

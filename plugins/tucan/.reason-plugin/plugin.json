@@ -1,0 +1,13 @@
+{
+  "name": "tucan",
+  "displayName": "Tucan",
+  "description": "Plan your content calendar.",
+  "homepage": "https://usetucan.com",
+  "docs": "https://usetucan.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "tucan": {
+      "url": "https://api.usetucan.com/mcp"
+    }
+  }
+}

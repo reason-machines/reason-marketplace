@@ -1,0 +1,13 @@
+{
+  "name": "dopost-chatgpt-marketplace",
+  "displayName": "dopost",
+  "description": "Plan and publish social posts.",
+  "homepage": "https://dopost.co",
+  "docs": "https://dopost.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "dopost-chatgpt-marketplace": {
+      "url": "https://mcp.dopost.co/mcp"
+    }
+  }
+}

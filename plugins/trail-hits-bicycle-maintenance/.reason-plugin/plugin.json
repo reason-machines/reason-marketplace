@@ -1,0 +1,13 @@
+{
+  "name": "trail-hits-bicycle-maintenance",
+  "displayName": "Trail Hits:Bicycle Maintenance",
+  "description": "Track your Bike's maintenance.",
+  "homepage": "https://trailhits.com",
+  "docs": "https://trailhits.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "trail-hits-bicycle-maintenance": {
+      "url": "https://mcp.trailhits.com/mcp"
+    }
+  }
+}

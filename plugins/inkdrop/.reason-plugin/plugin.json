@@ -1,0 +1,13 @@
+{
+  "name": "inkdrop",
+  "displayName": "Inkdrop",
+  "description": "Turn artwork into products.",
+  "homepage": "https://inkdrop.fun",
+  "docs": "https://inkdrop.fun",
+  "auth": "none",
+  "mcpServers": {
+    "inkdrop": {
+      "url": "https://mcp.inkdrop.fun/mcp"
+    }
+  }
+}

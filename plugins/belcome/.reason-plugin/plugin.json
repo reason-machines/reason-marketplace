@@ -1,0 +1,13 @@
+{
+  "name": "belcome",
+  "displayName": "Belcome",
+  "description": "Book salons, spas and med spas.",
+  "homepage": "https://www.belcome.app/",
+  "docs": "https://www.belcome.app/",
+  "auth": "none",
+  "mcpServers": {
+    "belcome": {
+      "url": "https://belcome.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "thepicks",
+  "displayName": "ThePicks",
+  "description": "K-beauty picked by real people.",
+  "homepage": "https://thepicks.io",
+  "docs": "https://thepicks.io",
+  "auth": "none",
+  "mcpServers": {
+    "thepicks": {
+      "url": "https://mcp.thepicks.io/mcp"
+    }
+  }
+}

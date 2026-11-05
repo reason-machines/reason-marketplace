@@ -1,0 +1,13 @@
+{
+  "name": "drugfree",
+  "displayName": "DrugFree",
+  "description": "View days and savings.",
+  "homepage": "https://drugfree.app/chatgpt/",
+  "docs": "https://drugfree.app/chatgpt/",
+  "auth": "none",
+  "mcpServers": {
+    "drugfree": {
+      "url": "https://drugfree.app/chatgpt/mcp"
+    }
+  }
+}

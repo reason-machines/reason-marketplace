@@ -1,0 +1,13 @@
+{
+  "name": "owner-connect-beacon",
+  "displayName": "BEACON by Owner Connect",
+  "description": "Private jet charter and sales.",
+  "homepage": "https://owners.virtualhangar.com/connect-your-ai",
+  "docs": "https://owners.virtualhangar.com/connect-your-ai",
+  "auth": "none",
+  "mcpServers": {
+    "owner-connect-beacon": {
+      "url": "https://owners.virtualhangar.com/mcp/beacon"
+    }
+  }
+}

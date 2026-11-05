@@ -1,0 +1,13 @@
+{
+  "name": "cleverprep-interview-research",
+  "displayName": "CleverPrep Interview Research",
+  "description": "Company interview research.",
+  "homepage": "https://www.cleverprep.com",
+  "docs": "https://www.cleverprep.com",
+  "auth": "none",
+  "mcpServers": {
+    "cleverprep-interview-research": {
+      "url": "https://mcp.cleverprep.com/mcp"
+    }
+  }
+}

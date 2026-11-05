@@ -1,0 +1,13 @@
+{
+  "name": "domscan",
+  "displayName": "DomScan",
+  "description": "Domain intelligence.",
+  "homepage": "https://domscan.net/mcp-domain-checker",
+  "docs": "https://domscan.net/mcp-domain-checker",
+  "auth": "oauth",
+  "mcpServers": {
+    "domscan": {
+      "url": "https://domscan.net/mcp"
+    }
+  }
+}

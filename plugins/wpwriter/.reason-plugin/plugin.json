@@ -1,0 +1,13 @@
+{
+  "name": "wpwriter",
+  "displayName": "WPWriter",
+  "description": "Manage WordPress from chat.",
+  "homepage": "https://www.wpwriter.com",
+  "docs": "https://www.wpwriter.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "wpwriter": {
+      "url": "https://mcp.wpwriter.com/mcp"
+    }
+  }
+}

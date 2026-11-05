@@ -1,0 +1,13 @@
+{
+  "name": "superbot",
+  "displayName": "SuperBot",
+  "description": "Support insights & training.",
+  "homepage": "https://superbotapp.ai",
+  "docs": "https://superbotapp.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "superbot": {
+      "url": "https://superbotapp.ai/api/mcp"
+    }
+  }
+}

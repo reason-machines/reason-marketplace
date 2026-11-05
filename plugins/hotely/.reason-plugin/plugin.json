@@ -1,0 +1,13 @@
+{
+  "name": "hotely",
+  "displayName": "Hotely",
+  "description": "Exclusive hotel deals.",
+  "homepage": "https://hotely.travel",
+  "docs": "https://hotely.travel",
+  "auth": "oauth",
+  "mcpServers": {
+    "hotely": {
+      "url": "https://mcp.hotely.travel/mcp"
+    }
+  }
+}

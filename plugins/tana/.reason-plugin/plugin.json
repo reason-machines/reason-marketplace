@@ -1,0 +1,13 @@
+{
+  "name": "tana",
+  "displayName": "Tana",
+  "description": "Meetings, transcripts, tasks.",
+  "homepage": "https://tana.inc",
+  "docs": "https://tana.inc/integrations/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "tana": {
+      "url": "https://home.tana.inc/mcp"
+    }
+  }
+}

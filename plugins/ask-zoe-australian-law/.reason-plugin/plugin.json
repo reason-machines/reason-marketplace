@@ -1,0 +1,13 @@
+{
+  "name": "ask-zoe-australian-law",
+  "displayName": "Ask Zoe – Australian Law",
+  "description": "Australian law, cases & help.",
+  "homepage": "https://zoelaw.ai",
+  "docs": "https://zoelaw.ai/connect",
+  "auth": "none",
+  "mcpServers": {
+    "ask-zoe-australian-law": {
+      "url": "https://zoelaw.ai/api/mcp"
+    }
+  }
+}

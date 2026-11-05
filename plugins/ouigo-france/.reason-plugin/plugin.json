@@ -1,0 +1,13 @@
+{
+  "name": "ouigo-france",
+  "displayName": "Ouigo France",
+  "description": "Trouver billets OUIGO.",
+  "homepage": "https://ventes.ouigo.com/fr-FR/",
+  "docs": "https://ventes.ouigo.com/fr-FR/",
+  "auth": "none",
+  "mcpServers": {
+    "ouigo-france": {
+      "url": "https://mcp.ouigo.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "muslim-prayer-reminder",
+  "displayName": "Muslim Prayer Reminder",
+  "description": "Accurate prayer times & alerts.",
+  "homepage": "https://tareq7.github.io/muslim-prayer-mcp/",
+  "docs": "https://tareq7.github.io/muslim-prayer-mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "muslim-prayer-reminder": {
+      "url": "https://muslim-prayer-mcp.najetareqz.workers.dev/mcp"
+    }
+  }
+}

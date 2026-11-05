@@ -1,0 +1,13 @@
+{
+  "name": "git-diff-patcher-bridge",
+  "displayName": "Git Diff Patcher Bridge",
+  "description": "Review AI code patches safely.",
+  "homepage": "https://mcp.methe.tech/llms.txt",
+  "docs": "https://mcp.methe.tech/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "git-diff-patcher-bridge": {
+      "url": "https://mcp.methe.tech/gdp/mcp"
+    }
+  }
+}

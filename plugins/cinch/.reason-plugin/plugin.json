@@ -1,0 +1,13 @@
+{
+  "name": "cinch",
+  "displayName": "Cinch",
+  "description": "Manage project work.",
+  "homepage": "https://www.cinch.work",
+  "docs": "https://www.cinch.work",
+  "auth": "oauth",
+  "mcpServers": {
+    "cinch": {
+      "url": "https://app.cinch.work/mcp"
+    }
+  }
+}

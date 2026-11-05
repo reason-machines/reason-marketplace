@@ -1,0 +1,13 @@
+{
+  "name": "replo",
+  "displayName": "Replo",
+  "description": "Manage Replo sites and data.",
+  "homepage": "https://replo.app",
+  "docs": "https://docs.replo.app/mcp/connect-with-other-ai-clients",
+  "auth": "none",
+  "mcpServers": {
+    "replo": {
+      "url": "https://api.replo.app/v1/mcp"
+    }
+  }
+}

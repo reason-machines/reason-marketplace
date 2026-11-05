@@ -1,0 +1,13 @@
+{
+  "name": "khattet",
+  "displayName": "Khattet",
+  "description": "University schedules and GPA.",
+  "homepage": "https://www.khattet.app/",
+  "docs": "https://www.khattet.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "khattet": {
+      "url": "https://mcp.khattet.app/mcp"
+    }
+  }
+}

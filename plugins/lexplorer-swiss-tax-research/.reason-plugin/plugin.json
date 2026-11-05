@@ -1,0 +1,13 @@
+{
+  "name": "lexplorer-swiss-tax-research",
+  "displayName": "Lexplorer Swiss Tax Research",
+  "description": "Research Swiss tax law.",
+  "homepage": "https://lexplorer.ch",
+  "docs": "https://lexplorer.ch",
+  "auth": "oauth",
+  "mcpServers": {
+    "lexplorer-swiss-tax-research": {
+      "url": "https://mcp.lexplorer.ch/mcp"
+    }
+  }
+}

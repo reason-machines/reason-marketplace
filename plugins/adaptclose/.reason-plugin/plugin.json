@@ -1,0 +1,13 @@
+{
+  "name": "adaptclose",
+  "displayName": "AdaptClose",
+  "description": "Sales call scores and coaching.",
+  "homepage": "https://adaptclose.com",
+  "docs": "https://adaptclose.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "adaptclose": {
+      "url": "https://mcp.adaptclose.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "backstory",
+  "displayName": "Backstory",
+  "description": "Get answers on every deal.",
+  "homepage": "https://www.backstory.ai",
+  "docs": "https://www.backstory.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "backstory": {
+      "url": "https://mcp.backstory.ai/mcp"
+    }
+  }
+}

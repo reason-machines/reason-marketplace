@@ -1,0 +1,13 @@
+{
+  "name": "secret-world-hidden-gems",
+  "displayName": "Secret World — Hidden Gems",
+  "description": "Find hidden gems worldwide.",
+  "homepage": "https://sworld.co.uk",
+  "docs": "https://sworld.co.uk",
+  "auth": "none",
+  "mcpServers": {
+    "secret-world-hidden-gems": {
+      "url": "https://sworld.co.uk/mcp"
+    }
+  }
+}

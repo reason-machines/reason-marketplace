@@ -1,0 +1,13 @@
+{
+  "name": "marq",
+  "displayName": "Marq",
+  "description": "Create on-brand content.",
+  "homepage": "https://www.marq.com",
+  "docs": "https://www.marq.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "marq": {
+      "url": "https://mcp.marq.com/mcp"
+    }
+  }
+}

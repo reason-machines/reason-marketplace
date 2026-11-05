@@ -1,0 +1,13 @@
+{
+  "name": "finn",
+  "displayName": "FINN",
+  "description": "Just drive FINN.",
+  "homepage": "https://www.finn.com/de-DE",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.finn.www/auto",
+  "auth": "none",
+  "mcpServers": {
+    "finn": {
+      "url": "https://www.finn.com/api/mcp"
+    }
+  }
+}

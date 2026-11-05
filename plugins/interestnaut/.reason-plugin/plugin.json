@@ -1,0 +1,13 @@
+{
+  "name": "interestnaut",
+  "displayName": "Interestnaut",
+  "description": "Find what to watch, read, play.",
+  "homepage": "https://interestnaut.com",
+  "docs": "https://interestnaut.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "interestnaut": {
+      "url": "https://api.interestnaut.com"
+    }
+  }
+}

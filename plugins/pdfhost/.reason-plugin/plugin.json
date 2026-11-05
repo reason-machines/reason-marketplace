@@ -1,0 +1,13 @@
+{
+  "name": "pdfhost",
+  "displayName": "PDFHost",
+  "description": "Host and analyze PDFs.",
+  "homepage": "https://pdfhost.se",
+  "docs": "https://pdfhost.se",
+  "auth": "oauth",
+  "mcpServers": {
+    "pdfhost": {
+      "url": "https://pdfhost.se/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kontainer",
+  "displayName": "Kontainer",
+  "description": "Manage assets and products.",
+  "homepage": "https://kontainer.com",
+  "docs": "https://kontainer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "kontainer": {
+      "url": "https://mcp.kontainer.com/mcp"
+    }
+  }
+}

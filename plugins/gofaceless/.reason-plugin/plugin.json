@@ -1,0 +1,13 @@
+{
+  "name": "gofaceless",
+  "displayName": "GoFaceless",
+  "description": "Put yourself in video trends.",
+  "homepage": "https://gofaceless.ai",
+  "docs": "https://gofaceless.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "gofaceless": {
+      "url": "https://mcp.gofaceless.ai/mcp"
+    }
+  }
+}

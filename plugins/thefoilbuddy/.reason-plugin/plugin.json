@@ -1,0 +1,13 @@
+{
+  "name": "thefoilbuddy",
+  "displayName": "TheFoilBuddy",
+  "description": "Foil spot wind & conditions.",
+  "homepage": "https://thefoilbuddy.com",
+  "docs": "https://thefoilbuddy.com",
+  "auth": "none",
+  "mcpServers": {
+    "thefoilbuddy": {
+      "url": "https://mcp.thefoilbuddy.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "superprompter",
+  "displayName": "SuperPrompter",
+  "description": "Guarda y organiza guiones.",
+  "homepage": "https://nomad.ooo",
+  "docs": "https://docs.nomad.ooo/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "superprompter": {
+      "url": "https://app.nomad.ooo/api/mcp"
+    }
+  }
+}

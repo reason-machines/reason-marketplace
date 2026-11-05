@@ -1,0 +1,13 @@
+{
+  "name": "hl-business-advisor",
+  "displayName": "HL Business Advisor",
+  "description": "Research hub for entrepreneurs.",
+  "homepage": "https://hustlerslibrary.com",
+  "docs": "https://hustlerslibrary.com",
+  "auth": "none",
+  "mcpServers": {
+    "hl-business-advisor": {
+      "url": "https://hustlerslibrary.com/mcp"
+    }
+  }
+}

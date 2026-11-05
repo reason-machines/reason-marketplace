@@ -1,0 +1,13 @@
+{
+  "name": "mavvrik",
+  "displayName": "Mavvrik",
+  "description": "Cloud cost intelligence.",
+  "homepage": "https://www.mavvrik.ai",
+  "docs": "https://www.mavvrik.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "mavvrik": {
+      "url": "https://mcp.mavvrik.ai/mcp"
+    }
+  }
+}

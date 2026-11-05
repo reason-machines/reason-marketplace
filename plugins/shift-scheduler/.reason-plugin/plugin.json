@@ -1,0 +1,13 @@
+{
+  "name": "shift-scheduler",
+  "displayName": "Rotawise Shift Scheduler",
+  "description": "Weekly staff shift schedules.",
+  "homepage": "https://shift-scheduler.zovo.one",
+  "docs": "https://shift-scheduler.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "shift-scheduler": {
+      "url": "https://shift-scheduler.zovo.one/mcp"
+    }
+  }
+}

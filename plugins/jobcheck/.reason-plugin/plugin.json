@@ -1,0 +1,13 @@
+{
+  "name": "jobcheck",
+  "displayName": "Job Status Checker",
+  "description": "Compare job status snapshots.",
+  "homepage": "https://jobcheck-mcp.sunrysetech.com/",
+  "docs": "https://jobcheck-mcp.sunrysetech.com/",
+  "auth": "none",
+  "mcpServers": {
+    "jobcheck": {
+      "url": "https://jobcheck-mcp.sunrysetech.com/mcp"
+    }
+  }
+}

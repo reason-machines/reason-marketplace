@@ -1,0 +1,13 @@
+{
+  "name": "ehour",
+  "displayName": "eHour",
+  "description": "Track time and project hours.",
+  "homepage": "https://ehour.com/",
+  "docs": "https://app.ehour.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "ehour": {
+      "url": "https://app.ehour.com/mcp"
+    }
+  }
+}

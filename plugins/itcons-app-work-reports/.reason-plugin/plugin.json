@@ -1,0 +1,13 @@
+{
+  "name": "itcons-app-work-reports",
+  "displayName": "Itcons.app Work Reports",
+  "description": "view your work reports.",
+  "homepage": "https://itcons.app",
+  "docs": "https://itcons.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "itcons-app-work-reports": {
+      "url": "https://mcp.itcons.app/mcp"
+    }
+  }
+}

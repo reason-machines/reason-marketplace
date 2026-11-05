@@ -1,0 +1,13 @@
+{
+  "name": "verbex-lab-tools",
+  "displayName": "Verbex Lab Tools",
+  "description": "Bench math and lab templates.",
+  "homepage": "https://www.verbalexperiment.com/tools",
+  "docs": "https://www.verbalexperiment.com/tools",
+  "auth": "none",
+  "mcpServers": {
+    "verbex-lab-tools": {
+      "url": "https://verbalexperiment.com/mcp"
+    }
+  }
+}

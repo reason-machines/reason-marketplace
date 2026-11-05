@@ -1,0 +1,13 @@
+{
+  "name": "picturebooks",
+  "displayName": "PictureBooks",
+  "description": "Create illustrated storybooks.",
+  "homepage": "https://picturebooks.io",
+  "docs": "https://picturebooks.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "picturebooks": {
+      "url": "https://picturebooks.io/mcp"
+    }
+  }
+}

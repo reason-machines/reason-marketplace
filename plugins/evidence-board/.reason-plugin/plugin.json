@@ -1,0 +1,13 @@
+{
+  "name": "evidence-board",
+  "displayName": "Evidence Board",
+  "description": "Case boards for investigations.",
+  "homepage": "https://evidence.mtgtechnical.com",
+  "docs": "https://evidence.mtgtechnical.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "evidence-board": {
+      "url": "https://evidence.mtgtechnical.com/api/mcp"
+    }
+  }
+}

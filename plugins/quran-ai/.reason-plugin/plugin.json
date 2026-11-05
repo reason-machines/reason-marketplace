@@ -1,0 +1,13 @@
+{
+  "name": "quran-ai",
+  "displayName": "quran.ai",
+  "description": "Interactive tools by quran.com.",
+  "homepage": "https://quran.ai",
+  "docs": "https://quran.ai",
+  "auth": "none",
+  "mcpServers": {
+    "quran-ai": {
+      "url": "https://mcp.quran.ai/"
+    }
+  }
+}

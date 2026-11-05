@@ -1,0 +1,13 @@
+{
+  "name": "wordbyword-learn-languages",
+  "displayName": "WordByWord – Learn Languages",
+  "description": "Build and practice vocabulary.",
+  "homepage": "https://wordbyword.io/",
+  "docs": "https://wordbyword.io/en/docs/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "wordbyword-learn-languages": {
+      "url": "https://api.wordbyword.io/mcp"
+    }
+  }
+}

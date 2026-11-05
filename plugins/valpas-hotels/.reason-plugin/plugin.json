@@ -1,0 +1,13 @@
+{
+  "name": "valpas-hotels",
+  "displayName": "Valpas Hotels",
+  "description": "Find bed bug free hotels.",
+  "homepage": "https://valpashotels.com",
+  "docs": "https://valpashotels.com",
+  "auth": "none",
+  "mcpServers": {
+    "valpas-hotels": {
+      "url": "https://mcp.valpashotels.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "getmattered",
+  "displayName": "GetMattered",
+  "description": "Find jobs and auto-apply.",
+  "homepage": "https://getmattered.com",
+  "docs": "https://getmattered.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "getmattered": {
+      "url": "https://mcp.getmattered.com/mcp"
+    }
+  }
+}

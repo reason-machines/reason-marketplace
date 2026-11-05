@@ -1,0 +1,13 @@
+{
+  "name": "launchaf",
+  "displayName": "LaunchAF",
+  "description": "Launch products on LaunchAF.",
+  "homepage": "https://launchaf.com",
+  "docs": "https://launchaf.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "launchaf": {
+      "url": "https://launchaf.com/api/mcp"
+    }
+  }
+}

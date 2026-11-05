@@ -1,0 +1,13 @@
+{
+  "name": "inblog",
+  "displayName": "inblog",
+  "description": "Write and publish blog posts.",
+  "homepage": "https://inblog.ai",
+  "docs": "https://inblog.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "inblog": {
+      "url": "https://inblog.ai/api/mcp"
+    }
+  }
+}

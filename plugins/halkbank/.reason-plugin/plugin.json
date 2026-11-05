@@ -1,0 +1,13 @@
+{
+  "name": "halkbank",
+  "displayName": "Halkbank",
+  "description": "Banking Products and Services.",
+  "homepage": "https://www.halkbank.com.tr/",
+  "docs": "https://tedix.dev/apps/halkbank/",
+  "auth": "none",
+  "mcpServers": {
+    "halkbank": {
+      "url": "https://halkbankgpt.halkbank.com.tr/mcp"
+    }
+  }
+}

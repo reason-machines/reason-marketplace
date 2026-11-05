@@ -1,0 +1,13 @@
+{
+  "name": "openrush",
+  "displayName": "OpenRush",
+  "description": "SEO and competitor analysis.",
+  "homepage": "https://openrush.com/",
+  "docs": "https://openrush.com/mcp-setup",
+  "auth": "oauth",
+  "mcpServers": {
+    "openrush": {
+      "url": "https://api.openrush.com/mcp"
+    }
+  }
+}

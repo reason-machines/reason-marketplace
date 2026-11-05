@@ -1,0 +1,13 @@
+{
+  "name": "quallie-ai",
+  "displayName": "Quallie.Ai",
+  "description": "Integration with Quallie.Ai.",
+  "homepage": "https://quallie.ai",
+  "docs": "https://app.quallie.ai/api/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "quallie-ai": {
+      "url": "https://quallie.ai/api/mcp"
+    }
+  }
+}

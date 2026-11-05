@@ -10,5 +10,42 @@
     "datahub": {
       "url": "https://mcp.datahub.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "datahub-lineage",
+      "description": "Use this skill when the user wants to explore lineage, trace data dependencies, perform impact analysis, find root causes, map data pipelines, or understand how data flows between systems. Triggers on: \"what feeds into X\", \"what depends on X\", \"show lineage for X\", \"impact analysis\", \"trace the pipe",
+      "source": "datahub-project/datahub-skills#a27f8e7bb514591a3ccecd7598e4056989c0db9b",
+      "skill": "datahub-lineage",
+      "url": "https://github.com/datahub-project/datahub-skills/tree/a27f8e7bb514591a3ccecd7598e4056989c0db9b/skills/datahub-lineage"
+    },
+    {
+      "name": "datahub-quality",
+      "description": "Use this skill when the user wants to manage data quality in DataHub: create or run assertions, check assertion outcomes, raise or resolve incidents, create notification subscriptions, or diagnose health problems across their estate. Triggers on: \"create assertion\", \"run assertion\", \"check quality\",",
+      "source": "datahub-project/datahub-skills#a27f8e7bb514591a3ccecd7598e4056989c0db9b",
+      "skill": "datahub-quality",
+      "url": "https://github.com/datahub-project/datahub-skills/tree/a27f8e7bb514591a3ccecd7598e4056989c0db9b/skills/datahub-quality"
+    },
+    {
+      "name": "datahub-search",
+      "description": "Search and explore the DataHub Cloud data catalog — find datasets, dashboards, pipelines, columns, owners, tags, domains, and any metadata. Use when the user wants to find, discover, or look up anything in their data catalog.",
+      "source": "datahub-project/datahub-skills#a27f8e7bb514591a3ccecd7598e4056989c0db9b",
+      "skill": "datahub-search",
+      "url": "https://github.com/datahub-project/datahub-skills/tree/a27f8e7bb514591a3ccecd7598e4056989c0db9b/skills/datahub-search"
+    },
+    {
+      "name": "datahub-setup",
+      "description": "Verify and troubleshoot the DataHub Cloud connection — confirm the MCP server is reachable, authentication is working, and Claude can access the catalog. Use when the user wants to set up DataHub, test the connection, or fix connectivity issues.",
+      "source": "datahub-project/datahub-skills#a27f8e7bb514591a3ccecd7598e4056989c0db9b",
+      "skill": "datahub-setup",
+      "url": "https://github.com/datahub-project/datahub-skills/tree/a27f8e7bb514591a3ccecd7598e4056989c0db9b/skills/datahub-setup"
+    },
+    {
+      "name": "datahub-sql-workflow",
+      "description": "Ground text-to-SQL work in DataHub catalog evidence. Use when a user asks to write, draft, debug, or execute SQL; answer a data question that requires SQL; calculate a metric; query named tables; or investigate SQL results with DataHub MCP tools available. Always begin with find_sql_context, even wh",
+      "source": "datahub-project/datahub-skills#a27f8e7bb514591a3ccecd7598e4056989c0db9b",
+      "skill": "datahub-sql-workflow",
+      "url": "https://github.com/datahub-project/datahub-skills/tree/a27f8e7bb514591a3ccecd7598e4056989c0db9b/skills/datahub-sql-workflow"
+    }
+  ]
 }

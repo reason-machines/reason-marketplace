@@ -1,0 +1,13 @@
+{
+  "name": "meetnotes",
+  "displayName": "MeetNotes",
+  "description": "Minutes from your meetings.",
+  "homepage": "https://getmeetnotes.com",
+  "docs": "https://getmeetnotes.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "meetnotes": {
+      "url": "https://getmeetnotes.com/mcp"
+    }
+  }
+}

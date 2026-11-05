@@ -1,0 +1,13 @@
+{
+  "name": "autorfp-ai-au-hosted",
+  "displayName": "AutoRFP.ai (AU-Hosted)",
+  "description": "Quality responses that win.",
+  "homepage": "https://autorfp.ai",
+  "docs": "https://autorfp.ai/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "autorfp-ai-au-hosted": {
+      "url": "https://api.autorfp.ai/mcp"
+    }
+  }
+}

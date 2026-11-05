@@ -1,0 +1,13 @@
+{
+  "name": "brandi-ai",
+  "displayName": "Brandi AI",
+  "description": "Analyze and refine your brand.",
+  "homepage": "https://meet-brandi.com/",
+  "docs": "https://meet-brandi.com/",
+  "auth": "none",
+  "mcpServers": {
+    "brandi-ai": {
+      "url": "https://mcp.meet-brandi.com/mcp"
+    }
+  }
+}

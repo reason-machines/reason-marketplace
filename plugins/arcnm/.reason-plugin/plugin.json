@@ -1,0 +1,13 @@
+{
+  "name": "arcnm",
+  "displayName": "ARCNM",
+  "description": "Manufacturing cost insights.",
+  "homepage": "https://arcnm.io",
+  "docs": "https://arcnm.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "arcnm": {
+      "url": "https://api.arcnm.io/mcp-server/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fielddraft",
+  "displayName": "FieldDraft",
+  "description": "Job notes to Jobber quotes.",
+  "homepage": "https://fielddraftapp.com",
+  "docs": "https://fielddraftapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fielddraft": {
+      "url": "https://fielddraftapp.com/mcp"
+    }
+  }
+}

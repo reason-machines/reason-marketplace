@@ -1,0 +1,13 @@
+{
+  "name": "domus-homeowners-ai",
+  "displayName": "Domus - Homeowners Ai",
+  "description": "Track appliances & upkeep.",
+  "homepage": "https://getdomus.app",
+  "docs": "https://api.getdomus.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "domus-homeowners-ai": {
+      "url": "https://api.getdomus.app/mcp"
+    }
+  }
+}

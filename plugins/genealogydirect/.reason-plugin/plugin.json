@@ -1,0 +1,13 @@
+{
+  "name": "genealogydirect",
+  "displayName": "GenealogyDirect",
+  "description": "Get or offer genealogy help.",
+  "homepage": "https://www.genealogydirect.net",
+  "docs": "https://www.genealogydirect.net",
+  "auth": "oauth",
+  "mcpServers": {
+    "genealogydirect": {
+      "url": "https://mcp.genealogydirect.net/mcp"
+    }
+  }
+}

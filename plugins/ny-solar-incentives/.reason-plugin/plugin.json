@@ -1,0 +1,13 @@
+{
+  "name": "ny-solar-incentives",
+  "displayName": "NY Solar Incentives",
+  "description": "Home solar savings by county.",
+  "homepage": "https://nysolarincentives.org/ny-solar-savings-calculator/",
+  "docs": "https://nysolarincentives.org/ny-solar-savings-calculator/",
+  "auth": "none",
+  "mcpServers": {
+    "ny-solar-incentives": {
+      "url": "https://nysolarincentives.org/mcp"
+    }
+  }
+}

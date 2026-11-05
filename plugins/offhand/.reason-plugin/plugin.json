@@ -1,0 +1,13 @@
+{
+  "name": "offhand",
+  "displayName": "Offhand",
+  "description": "A to-do list your agents share.",
+  "homepage": "https://offhandapp.com",
+  "docs": "https://offhandapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "offhand": {
+      "url": "https://offhandapp.com/mcp"
+    }
+  }
+}

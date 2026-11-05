@@ -1,0 +1,13 @@
+{
+  "name": "printgen",
+  "displayName": "PrintGen",
+  "description": "Create personalized apparel.",
+  "homepage": "https://printgen.ai/developers",
+  "docs": "https://printgen.ai/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "printgen": {
+      "url": "https://mcp.printgen.ai/mcp"
+    }
+  }
+}

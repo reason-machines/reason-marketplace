@@ -1,0 +1,13 @@
+{
+  "name": "visualping",
+  "displayName": "Visualping",
+  "description": "Monitor website changes.",
+  "homepage": "https://www.visualping.io",
+  "docs": "https://www.visualping.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "visualping": {
+      "url": "https://visualping.io/mcp"
+    }
+  }
+}

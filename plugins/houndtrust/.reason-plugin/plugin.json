@@ -1,0 +1,13 @@
+{
+  "name": "houndtrust",
+  "displayName": "HoundTrust",
+  "description": "Pet-care quotes & invoices.",
+  "homepage": "https://houndtrust.com",
+  "docs": "https://houndtrust.com/.well-known/oauth-protected-resource",
+  "auth": "none",
+  "mcpServers": {
+    "houndtrust": {
+      "url": "https://houndtrust.com/api/plugin/mcp"
+    }
+  }
+}

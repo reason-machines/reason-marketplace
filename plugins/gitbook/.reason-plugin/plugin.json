@@ -10,5 +10,49 @@
     "gitbook": {
       "url": "https://mcp.gitbook.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "build-integration",
+      "description": "Build, develop, and publish GitBook integrations — apps that run inside GitBook to add custom blocks, react to events, connect external services via OAuth, and extend the editor. Use this skill whenever a task involves the GitBook integrations platform: scaffolding an integration with the GitBook CL",
+      "source": "gitbookio/gitbook-skills#3cf296758fecb5ece7e720ff7f20b0da1f1b5101",
+      "skill": "build-integration",
+      "url": "https://github.com/gitbookio/gitbook-skills/tree/3cf296758fecb5ece7e720ff7f20b0da1f1b5101/skills/build-integration"
+    },
+    {
+      "name": "configure-site",
+      "description": "Create and maintain entire GitBook documentation sites end-to-end — design the site structure from source content, scaffold a Git repository in monorepo layout, set up the GitHub/GitLab remote, drive the GitBook API (via its REST API or MCP server) to create the site/sections/spaces, apply branded c",
+      "source": "gitbookio/gitbook-skills#3cf296758fecb5ece7e720ff7f20b0da1f1b5101",
+      "skill": "configure-site",
+      "url": "https://github.com/gitbookio/gitbook-skills/tree/3cf296758fecb5ece7e720ff7f20b0da1f1b5101/skills/configure-site"
+    },
+    {
+      "name": "cr-create",
+      "description": "Drive an end-to-end GitBook docs review flow from Claude Code by calling the GitBook REST API directly with curl (no CLI) — create a change request, push content (update an existing page AND create a new page), request reviewers, notify Slack, then pull review comments back in, fix them, re-push, an",
+      "source": "gitbookio/gitbook-skills#3cf296758fecb5ece7e720ff7f20b0da1f1b5101",
+      "skill": "cr-create",
+      "url": "https://github.com/gitbookio/gitbook-skills/tree/3cf296758fecb5ece7e720ff7f20b0da1f1b5101/skills/cr-create"
+    },
+    {
+      "name": "cr-review",
+      "description": "Review GitBook change requests from Claude Code by calling the GitBook REST API directly with curl (no CLI) — the reviewer-side companion to cr-create (the authoring side over the same API). Discover the change requests that need review (filter by who opened them, by space, or across a whole org), g",
+      "source": "gitbookio/gitbook-skills#3cf296758fecb5ece7e720ff7f20b0da1f1b5101",
+      "skill": "cr-review",
+      "url": "https://github.com/gitbookio/gitbook-skills/tree/3cf296758fecb5ece7e720ff7f20b0da1f1b5101/skills/cr-review"
+    },
+    {
+      "name": "write-docs",
+      "description": "Write, author, edit, and format GitBook documentation pages in Git-synced repos, IDEs, or any text editor. Use whenever a task involves creating or editing a GitBook markdown page, writing or updating a README.md or SUMMARY.md, inserting a hint, tab, stepper, card, or other GitBook block, configurin",
+      "source": "gitbookio/gitbook-skills#3cf296758fecb5ece7e720ff7f20b0da1f1b5101",
+      "skill": "write-docs",
+      "url": "https://github.com/gitbookio/gitbook-skills/tree/3cf296758fecb5ece7e720ff7f20b0da1f1b5101/skills/write-docs"
+    },
+    {
+      "name": "write-openapi",
+      "description": "Author, configure, structure, and troubleshoot OpenAPI/Swagger API reference documentation in GitBook. Use this whenever a task involves a GitBook OpenAPI block or `{% openapi %}` block, adding or updating an OpenAPI/Swagger spec in GitBook (by file or URL, via the API, MCP, CLI, or app UI), generat",
+      "source": "gitbookio/gitbook-skills#3cf296758fecb5ece7e720ff7f20b0da1f1b5101",
+      "skill": "write-openapi",
+      "url": "https://github.com/gitbookio/gitbook-skills/tree/3cf296758fecb5ece7e720ff7f20b0da1f1b5101/skills/write-openapi"
+    }
+  ]
 }

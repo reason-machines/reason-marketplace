@@ -1,0 +1,13 @@
+{
+  "name": "ideakiller",
+  "displayName": "IdeaKiller",
+  "description": "Validate startup ideas.",
+  "homepage": "https://ideakiller.app",
+  "docs": "https://ideakiller.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ideakiller": {
+      "url": "https://api.ideakiller.app/mcp"
+    }
+  }
+}

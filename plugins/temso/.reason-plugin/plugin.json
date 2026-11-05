@@ -1,0 +1,13 @@
+{
+  "name": "temso",
+  "displayName": "Temso",
+  "description": "Track your brand in AI chats.",
+  "homepage": "https://temso.ai",
+  "docs": "https://www.docs.temso.ai/docs/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "temso": {
+      "url": "https://app.temso.ai/api/v1/mcp"
+    }
+  }
+}

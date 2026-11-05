@@ -10,5 +10,14 @@
     "refero": {
       "url": "https://api.refero.design/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "refero-design",
+      "description": "Primary/default skill for UI design, product design, web design, landing pages, dashboards, product screens, redesigns, visual polish, frontend/CSS styling, design systems, components, responsive design, typography, color, spacing, motion, icons, accessibility, copywriting, conversion, and anti-AI-s",
+      "source": "referodesign/refero_skill#2382e518f90096df607196b9a635da2d1bc142f9",
+      "skill": "refero-design",
+      "url": "https://github.com/referodesign/refero_skill/tree/2382e518f90096df607196b9a635da2d1bc142f9/skills/refero-design"
+    }
+  ]
 }

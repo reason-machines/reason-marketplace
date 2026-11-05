@@ -1,0 +1,13 @@
+{
+  "name": "cflow",
+  "displayName": "Cflow",
+  "description": "Manage Cflow workflows.",
+  "homepage": "https://www.cflowapps.com",
+  "docs": "https://www.cflowapps.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cflow": {
+      "url": "https://mcp.cflowapps.com/mcp"
+    }
+  }
+}

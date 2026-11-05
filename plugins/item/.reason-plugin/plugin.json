@@ -1,0 +1,13 @@
+{
+  "name": "item",
+  "displayName": "item",
+  "description": "Search, analyze, manage CRM.",
+  "homepage": "https://item.app",
+  "docs": "https://item.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "item": {
+      "url": "https://mcp.item.app/mcp"
+    }
+  }
+}

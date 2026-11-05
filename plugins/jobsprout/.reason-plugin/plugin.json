@@ -1,0 +1,13 @@
+{
+  "name": "jobsprout",
+  "displayName": "JobSprout",
+  "description": "Score and build your resume.",
+  "homepage": "https://www.jobsprout.ai",
+  "docs": "https://www.jobsprout.ai",
+  "auth": "none",
+  "mcpServers": {
+    "jobsprout": {
+      "url": "https://jobsprout.ai/mcp"
+    }
+  }
+}

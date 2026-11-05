@@ -1,0 +1,13 @@
+{
+  "name": "linko",
+  "displayName": "Linko",
+  "description": "Save and recall what you learn.",
+  "homepage": "https://www.linko.study",
+  "docs": "https://www.linko.study",
+  "auth": "oauth",
+  "mcpServers": {
+    "linko": {
+      "url": "https://mcp.linko.study/mcp"
+    }
+  }
+}

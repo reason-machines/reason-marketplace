@@ -1,0 +1,13 @@
+{
+  "name": "scentverdict",
+  "displayName": "ScentVerdict",
+  "description": "Find and compare fragrances.",
+  "homepage": "https://scentverdict.com",
+  "docs": "https://scentverdict.com",
+  "auth": "none",
+  "mcpServers": {
+    "scentverdict": {
+      "url": "https://scentverdict.com/mcp"
+    }
+  }
+}

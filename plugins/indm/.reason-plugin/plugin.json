@@ -1,0 +1,13 @@
+{
+  "name": "indm",
+  "displayName": "inDM",
+  "description": "Instagram comment-to-DM.",
+  "homepage": "https://indm.social",
+  "docs": "https://indm.social/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "indm": {
+      "url": "https://api.indm.social/mcp"
+    }
+  }
+}

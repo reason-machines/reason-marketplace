@@ -1,0 +1,13 @@
+{
+  "name": "bookbidder",
+  "displayName": "BookBidder",
+  "description": "Amazon Ads and book profits.",
+  "homepage": "https://bookbidder.ai",
+  "docs": "https://bookbidder.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "bookbidder": {
+      "url": "https://mcp.bookbidder.ai/mcp"
+    }
+  }
+}

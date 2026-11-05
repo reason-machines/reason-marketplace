@@ -1,0 +1,13 @@
+{
+  "name": "relvato",
+  "displayName": "Relvato",
+  "description": "Monitor and fix your websites.",
+  "homepage": "https://www.relvato.com",
+  "docs": "https://www.relvato.com/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "relvato": {
+      "url": "https://app.relvato.com/api/mcp"
+    }
+  }
+}

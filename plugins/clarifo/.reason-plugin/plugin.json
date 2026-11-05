@@ -1,0 +1,13 @@
+{
+  "name": "clarifo",
+  "displayName": "Clarifo",
+  "description": "Company financial research.",
+  "homepage": "https://www.clarifo.com",
+  "docs": "https://www.clarifo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "clarifo": {
+      "url": "https://mcp.clarifo.com/mcp"
+    }
+  }
+}

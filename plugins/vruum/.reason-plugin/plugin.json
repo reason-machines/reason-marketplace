@@ -1,0 +1,13 @@
+{
+  "name": "vruum",
+  "displayName": "Vruum",
+  "description": "Manage your revenue work.",
+  "homepage": "https://vruum.ai",
+  "docs": "https://vruum.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "vruum": {
+      "url": "https://api.vruum.ai/mcp"
+    }
+  }
+}

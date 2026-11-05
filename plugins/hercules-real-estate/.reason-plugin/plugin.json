@@ -1,0 +1,13 @@
+{
+  "name": "hercules-real-estate",
+  "displayName": "Hercules Real Estate Data",
+  "description": "Property owners & foreclosures.",
+  "homepage": "https://hercules.properties",
+  "docs": "https://hercules.properties",
+  "auth": "none",
+  "mcpServers": {
+    "hercules-real-estate": {
+      "url": "https://hercules.properties/mcp"
+    }
+  }
+}

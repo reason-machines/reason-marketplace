@@ -1,0 +1,13 @@
+{
+  "name": "kindora",
+  "displayName": "Kindora",
+  "description": "Social sector funder research.",
+  "homepage": "https://www.kindora.co",
+  "docs": "https://www.kindora.co",
+  "auth": "none",
+  "mcpServers": {
+    "kindora": {
+      "url": "https://mcp.kindora.co/mcp"
+    }
+  }
+}

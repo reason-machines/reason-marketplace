@@ -1,0 +1,13 @@
+{
+  "name": "taglogger",
+  "displayName": "TagLogger",
+  "description": "Find your tagged equipment.",
+  "homepage": "https://taglogger.com",
+  "docs": "https://taglogger.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "taglogger": {
+      "url": "https://api.taglogger.com/mcp"
+    }
+  }
+}

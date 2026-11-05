@@ -1,0 +1,13 @@
+{
+  "name": "lesso",
+  "displayName": "Lesso",
+  "description": "Lesso lessons & Talk rooms.",
+  "homepage": "https://www.lesso.me",
+  "docs": "https://www.lesso.me",
+  "auth": "oauth",
+  "mcpServers": {
+    "lesso": {
+      "url": "https://mcp.lesso.me/"
+    }
+  }
+}

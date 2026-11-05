@@ -1,0 +1,13 @@
+{
+  "name": "handymade",
+  "displayName": "Handymade",
+  "description": "DIY cosmetics & soap supplies.",
+  "homepage": "https://www.handymade.store",
+  "docs": "https://www.handymade.store",
+  "auth": "none",
+  "mcpServers": {
+    "handymade": {
+      "url": "https://mcp.handymade.store/mcp"
+    }
+  }
+}

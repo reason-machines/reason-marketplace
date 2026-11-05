@@ -1,0 +1,13 @@
+{
+  "name": "npi-lookup",
+  "displayName": "Zovo NPI Lookup",
+  "description": "Provider rosters & NPI checks.",
+  "homepage": "https://npi-lookup.zovo.one",
+  "docs": "https://npi-lookup.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "npi-lookup": {
+      "url": "https://npi-lookup.zovo.one/mcp"
+    }
+  }
+}

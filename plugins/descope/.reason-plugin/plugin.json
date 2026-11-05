@@ -1,0 +1,13 @@
+{
+  "name": "descope",
+  "displayName": "Descope",
+  "description": "Add auth to your apps and MCPs.",
+  "homepage": "https://www.descope.com",
+  "docs": "https://www.descope.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "descope": {
+      "url": "https://mcp.descope.com/mcp"
+    }
+  }
+}

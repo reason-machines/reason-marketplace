@@ -10,5 +10,14 @@
     "wrike": {
       "url": "https://mcp.wrike.com/v2"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "wrike-meeting-sync",
+      "description": "Turn a meeting transcript into approved Wrike updates, end to end. Extract terse factual Markdown notes from a transcript, match every action item to existing or new Wrike work, preview the proposed changes, and apply only the ones the user approves — creation, statuses, assignees, dates, descriptio",
+      "source": "wrike/agent-skills#c084444cab94c24bd3baa8f3c9731986e3c516e5",
+      "skill": "wrike-meeting-sync",
+      "url": "https://github.com/wrike/agent-skills/tree/c084444cab94c24bd3baa8f3c9731986e3c516e5/.plugins/openai/wrike/skills/wrike-meeting-sync"
+    }
+  ]
 }

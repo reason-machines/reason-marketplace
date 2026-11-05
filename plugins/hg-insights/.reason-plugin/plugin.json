@@ -1,0 +1,13 @@
+{
+  "name": "hg-insights",
+  "displayName": "HG Insights - RGI",
+  "description": "Prospect intelligence for sale.",
+  "homepage": "https://hginsights.com",
+  "docs": "https://hginsights.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hg-insights": {
+      "url": "https://mcp.hginsights.com/mcp"
+    }
+  }
+}

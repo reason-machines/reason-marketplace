@@ -1,0 +1,13 @@
+{
+  "name": "accountable",
+  "displayName": "Accountable",
+  "description": "AI Bookkeeping for Startups.",
+  "homepage": "https://accountable.im",
+  "docs": "https://accountable.im",
+  "auth": "oauth",
+  "mcpServers": {
+    "accountable": {
+      "url": "https://accountable.im/mcp"
+    }
+  }
+}

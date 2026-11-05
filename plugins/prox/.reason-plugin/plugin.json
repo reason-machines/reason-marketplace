@@ -1,0 +1,13 @@
+{
+  "name": "prox",
+  "displayName": "Prox",
+  "description": "Work with product knowledge.",
+  "homepage": "https://useprox.com",
+  "docs": "https://useprox.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "prox": {
+      "url": "https://mcp.useprox.com/mcp"
+    }
+  }
+}

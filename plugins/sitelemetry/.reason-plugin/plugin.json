@@ -1,0 +1,13 @@
+{
+  "name": "sitelemetry",
+  "displayName": "Sitelemetry",
+  "description": "Audit and improve websites.",
+  "homepage": "https://sitelemetry.com",
+  "docs": "https://sitelemetry.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sitelemetry": {
+      "url": "https://sitelemetry.com/mcp"
+    }
+  }
+}

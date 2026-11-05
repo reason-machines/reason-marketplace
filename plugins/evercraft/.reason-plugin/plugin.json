@@ -1,0 +1,13 @@
+{
+  "name": "evercraft",
+  "displayName": "Evercraft",
+  "description": "Route into Evercraft.",
+  "homepage": "https://fabric.systemiacommandcenters.com/",
+  "docs": "https://systemiacommandcenters.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "evercraft": {
+      "url": "https://fabric.systemiacommandcenters.com/mcp"
+    }
+  }
+}

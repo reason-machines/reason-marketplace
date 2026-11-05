@@ -1,0 +1,13 @@
+{
+  "name": "seocrawl-ai",
+  "displayName": "SEOcrawl AI",
+  "description": "SEO and AI visibility data.",
+  "homepage": "https://seocrawl.ai",
+  "docs": "https://seocrawl.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "seocrawl-ai": {
+      "url": "https://mcp.seocrawl.ai/mcp"
+    }
+  }
+}

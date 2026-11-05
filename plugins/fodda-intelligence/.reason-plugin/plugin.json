@@ -1,0 +1,13 @@
+{
+  "name": "fodda-intelligence",
+  "displayName": "Fodda Intelligence",
+  "description": "Market intelligence & data.",
+  "homepage": "https://www.fodda.ai",
+  "docs": "https://www.fodda.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "fodda-intelligence": {
+      "url": "https://mcp.fodda.ai/mcp"
+    }
+  }
+}

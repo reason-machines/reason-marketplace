@@ -1,0 +1,13 @@
+{
+  "name": "crayon",
+  "displayName": "Crayon",
+  "description": "Real-time competitive intel.",
+  "homepage": "https://crayon.co",
+  "docs": "https://crayon.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "crayon": {
+      "url": "https://mcp.crayon.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "agentic-search-by-liner",
+  "displayName": "Agentic Search by Liner",
+  "description": "Web, papers & PDFs — cited.",
+  "homepage": "https://liner.com/developers",
+  "docs": "https://liner.com/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentic-search-by-liner": {
+      "url": "https://platform.liner.com/api/v1/mcp"
+    }
+  }
+}

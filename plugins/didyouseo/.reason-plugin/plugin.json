@@ -1,0 +1,13 @@
+{
+  "name": "didyouseo",
+  "displayName": "DidYouSEO",
+  "description": "SEO audits and Search Console.",
+  "homepage": "https://didyouseo.com",
+  "docs": "https://didyouseo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "didyouseo": {
+      "url": "https://didyouseo.com/mcp"
+    }
+  }
+}

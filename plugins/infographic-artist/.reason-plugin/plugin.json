@@ -1,0 +1,13 @@
+{
+  "name": "infographic-artist",
+  "displayName": "Infographic Artist",
+  "description": "Principes et critique visuelle.",
+  "homepage": "https://infographic-artist-1w7v.hatchable.site",
+  "docs": "https://infographic-artist-1w7v.hatchable.site",
+  "auth": "oauth",
+  "mcpServers": {
+    "infographic-artist": {
+      "url": "https://mcp.hatchable.site/"
+    }
+  }
+}

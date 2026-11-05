@@ -1,0 +1,13 @@
+{
+  "name": "opafex",
+  "displayName": "Opafex",
+  "description": "Where AI fits in your firm.",
+  "homepage": "https://opafex.com/assistant-tools",
+  "docs": "https://opafex.com/assistant-tools",
+  "auth": "none",
+  "mcpServers": {
+    "opafex": {
+      "url": "https://opafex.com/api/mcp"
+    }
+  }
+}

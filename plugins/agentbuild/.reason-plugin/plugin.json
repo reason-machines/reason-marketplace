@@ -1,0 +1,13 @@
+{
+  "name": "agentbuild",
+  "displayName": "AgentBuild",
+  "description": "Build and run your website.",
+  "homepage": "https://agentbuild.it",
+  "docs": "https://agentbuild.it/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentbuild": {
+      "url": "https://api.agentbuild.it/v1/mcp"
+    }
+  }
+}

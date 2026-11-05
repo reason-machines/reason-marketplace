@@ -1,0 +1,13 @@
+{
+  "name": "boluda",
+  "displayName": "Boluda",
+  "description": "Find courses and podcasts.",
+  "homepage": "https://boluda.com/",
+  "docs": "https://boluda.com/",
+  "auth": "none",
+  "mcpServers": {
+    "boluda": {
+      "url": "https://mcp.boluda.com/mcp"
+    }
+  }
+}

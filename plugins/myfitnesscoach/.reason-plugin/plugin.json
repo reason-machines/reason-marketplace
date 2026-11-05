@@ -1,0 +1,13 @@
+{
+  "name": "myfitnesscoach",
+  "displayName": "MyFitnessCoach",
+  "description": "All in One Fitness Solution.",
+  "homepage": "https://myfitnesscoach.fit/",
+  "docs": "https://myfitnesscoach.fit/",
+  "auth": "none",
+  "mcpServers": {
+    "myfitnesscoach": {
+      "url": "https://mcp.myfitnesscoach.fit/mcp"
+    }
+  }
+}

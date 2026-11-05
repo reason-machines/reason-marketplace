@@ -1,0 +1,13 @@
+{
+  "name": "the-vanya-adventure",
+  "displayName": "The Vanya Adventure",
+  "description": "Tours and day trips in Vietnam.",
+  "homepage": "https://dv-tours.com/en/",
+  "docs": "https://dv-tours.com/en/",
+  "auth": "none",
+  "mcpServers": {
+    "the-vanya-adventure": {
+      "url": "https://dv-tours.com/mcp"
+    }
+  }
+}

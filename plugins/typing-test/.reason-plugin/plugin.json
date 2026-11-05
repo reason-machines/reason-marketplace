@@ -1,0 +1,13 @@
+{
+  "name": "typing-test",
+  "displayName": "Zovo Typing Test",
+  "description": "Live typing speed test and WPM.",
+  "homepage": "https://typing-test.zovo.one",
+  "docs": "https://typing-test.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "typing-test": {
+      "url": "https://typing-test.zovo.one/mcp"
+    }
+  }
+}

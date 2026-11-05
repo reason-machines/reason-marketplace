@@ -1,0 +1,13 @@
+{
+  "name": "teachmeto",
+  "displayName": "TeachMe.To",
+  "description": "Find your next local coach.",
+  "homepage": "https://teachme.to",
+  "docs": "https://teachme.to/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "teachmeto": {
+      "url": "https://api.teachme.to/agent/mcp"
+    }
+  }
+}

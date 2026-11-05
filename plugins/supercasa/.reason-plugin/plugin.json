@@ -1,0 +1,13 @@
+{
+  "name": "supercasa",
+  "displayName": "SUPERCASA",
+  "description": "Find your new home in Portugal.",
+  "homepage": "https://supercasa.pt",
+  "docs": "https://supercasa.pt",
+  "auth": "none",
+  "mcpServers": {
+    "supercasa": {
+      "url": "https://mcp.supercasa.pt/mcp"
+    }
+  }
+}

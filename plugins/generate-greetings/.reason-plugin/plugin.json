@@ -1,0 +1,13 @@
+{
+  "name": "generate-greetings",
+  "displayName": "Generate Greetings",
+  "description": "Create greetings and cards.",
+  "homepage": "https://generategreetings.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.generategreetings/greetings",
+  "auth": "none",
+  "mcpServers": {
+    "generate-greetings": {
+      "url": "https://generategreetings.com/api/mcp"
+    }
+  }
+}

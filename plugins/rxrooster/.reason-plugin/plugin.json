@@ -1,0 +1,13 @@
+{
+  "name": "rxrooster",
+  "displayName": "RxRooster",
+  "description": "Paste anesthesia requisitions.",
+  "homepage": "https://rxrooster.com",
+  "docs": "https://rxrooster.com",
+  "auth": "none",
+  "mcpServers": {
+    "rxrooster": {
+      "url": "https://api.rxrooster.com/mcp"
+    }
+  }
+}

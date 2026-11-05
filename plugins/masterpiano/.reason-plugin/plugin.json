@@ -1,0 +1,13 @@
+{
+  "name": "masterpiano",
+  "displayName": "MasterPiano",
+  "description": "Piano sheet music and levels.",
+  "homepage": "https://www.masterpiano.com/chatgpt-and-claude",
+  "docs": "https://www.masterpiano.com/chatgpt-and-claude",
+  "auth": "none",
+  "mcpServers": {
+    "masterpiano": {
+      "url": "https://masterpiano.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hiretalent-lat",
+  "displayName": "HireTalent.lat",
+  "description": "Hire remote talent in LATAM.",
+  "homepage": "https://hiretalent.lat",
+  "docs": "https://hiretalent.lat",
+  "auth": "none",
+  "mcpServers": {
+    "hiretalent-lat": {
+      "url": "https://hiretalent.lat/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "instant-dscr-term-sheet",
+  "displayName": "Instant DSCR Term Sheet",
+  "description": "Term sheets for DSCR loans.",
+  "homepage": "https://dominickprevete.com/instant-term-sheet",
+  "docs": "https://dominickprevete.com/instant-term-sheet",
+  "auth": "none",
+  "mcpServers": {
+    "instant-dscr-term-sheet": {
+      "url": "https://dominickprevete.com/api/mcp/pricing"
+    }
+  }
+}

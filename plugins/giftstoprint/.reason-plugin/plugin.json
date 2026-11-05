@@ -1,0 +1,13 @@
+{
+  "name": "giftstoprint",
+  "displayName": "GiftsToPrint",
+  "description": "Personalised newspaper posters.",
+  "homepage": "https://giftstoprint.com",
+  "docs": "https://giftstoprint.com",
+  "auth": "none",
+  "mcpServers": {
+    "giftstoprint": {
+      "url": "https://mcp.giftstoprint.com/mcp"
+    }
+  }
+}

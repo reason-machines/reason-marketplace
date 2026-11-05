@@ -1,0 +1,13 @@
+{
+  "name": "corte",
+  "displayName": "Corte",
+  "description": "Create and publish brand media.",
+  "homepage": "https://corte.so",
+  "docs": "https://corte.so/features/",
+  "auth": "oauth",
+  "mcpServers": {
+    "corte": {
+      "url": "https://api.corte.so/mcp"
+    }
+  }
+}

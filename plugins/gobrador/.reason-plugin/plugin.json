@@ -1,0 +1,13 @@
+{
+  "name": "gobrador",
+  "displayName": "Gobrador",
+  "description": "Find public tenders in Spain.",
+  "homepage": "https://gobrador.com",
+  "docs": "https://gobrador.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "gobrador": {
+      "url": "https://gobrador.com/api/mcp"
+    }
+  }
+}

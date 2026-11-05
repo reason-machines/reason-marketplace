@@ -1,0 +1,13 @@
+{
+  "name": "pretto",
+  "displayName": "Pretto",
+  "description": "Finance your home in France.",
+  "homepage": "https://pretto.fr",
+  "docs": "https://tedix.dev/apps/pretto/",
+  "auth": "none",
+  "mcpServers": {
+    "pretto": {
+      "url": "https://mcp.production.pretto.fr/mcp"
+    }
+  }
+}

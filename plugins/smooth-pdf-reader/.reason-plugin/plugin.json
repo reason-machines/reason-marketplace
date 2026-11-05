@@ -1,0 +1,13 @@
+{
+  "name": "smooth-pdf-reader",
+  "displayName": "Smooth PDF Reader",
+  "description": "Smooth PDFs. Ask for change.",
+  "homepage": "https://smooth-pdf-reader.smooth-pdf-reader-cloudflare.workers.dev",
+  "docs": "https://smooth-pdf-reader.smooth-pdf-reader-cloudflare.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "smooth-pdf-reader": {
+      "url": "https://smooth-pdf-reader.smooth-pdf-reader-cloudflare.workers.dev/mcp"
+    }
+  }
+}

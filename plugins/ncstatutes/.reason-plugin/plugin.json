@@ -1,0 +1,13 @@
+{
+  "name": "ncstatutes",
+  "displayName": "NC General Statutes",
+  "description": "Search and read NC statutes.",
+  "homepage": "https://ncstatutes.com",
+  "docs": "https://ncstatutes.com",
+  "auth": "none",
+  "mcpServers": {
+    "ncstatutes": {
+      "url": "https://mcp.ncstatutes.com/mcp"
+    }
+  }
+}

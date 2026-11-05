@@ -1,0 +1,13 @@
+{
+  "name": "ocd-bees",
+  "displayName": "OCDBees",
+  "description": "Clients, projects, and tasks.",
+  "homepage": "https://ocdbees.com/",
+  "docs": "https://app.ocdbees.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "ocd-bees": {
+      "url": "https://app.ocdbees.com/mcp"
+    }
+  }
+}

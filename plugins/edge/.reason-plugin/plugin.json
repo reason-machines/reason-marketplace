@@ -1,0 +1,13 @@
+{
+  "name": "edge",
+  "displayName": "Edge Skills",
+  "description": "Find and load the right skill.",
+  "homepage": "https://getedge.cc/",
+  "docs": "https://getedge.cc/",
+  "auth": "none",
+  "mcpServers": {
+    "edge": {
+      "url": "https://getedge.cc/mcp"
+    }
+  }
+}

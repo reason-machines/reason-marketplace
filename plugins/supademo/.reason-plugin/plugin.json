@@ -1,0 +1,13 @@
+{
+  "name": "supademo",
+  "displayName": "Supademo",
+  "description": "Create and manage demos.",
+  "homepage": "https://supademo.com",
+  "docs": "https://supademo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "supademo": {
+      "url": "https://mcp.supademo.com/mcp"
+    }
+  }
+}

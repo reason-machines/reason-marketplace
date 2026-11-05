@@ -1,0 +1,13 @@
+{
+  "name": "cardboard",
+  "displayName": "Cardboard",
+  "description": "Edit videos right in Reason.",
+  "homepage": "https://www.cardboard.ai",
+  "docs": "https://www.cardboard.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "cardboard": {
+      "url": "https://mcp.cardboard.ai/mcp"
+    }
+  }
+}

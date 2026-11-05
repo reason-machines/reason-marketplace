@@ -1,0 +1,13 @@
+{
+  "name": "blotato",
+  "displayName": "Blotato",
+  "description": "Schedule social posts & DMs.",
+  "homepage": "https://www.blotato.com",
+  "docs": "https://www.blotato.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "blotato": {
+      "url": "https://mcp.blotato.com/mcp"
+    }
+  }
+}

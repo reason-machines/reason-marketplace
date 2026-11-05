@@ -1,0 +1,13 @@
+{
+  "name": "prodverity",
+  "displayName": "ProdVerity",
+  "description": "Verify production releases.",
+  "homepage": "https://greatskillsacademy.com/prodverity/",
+  "docs": "https://greatskillsacademy.com/prodverity/",
+  "auth": "oauth",
+  "mcpServers": {
+    "prodverity": {
+      "url": "https://greatskillsacademy.com/mcp"
+    }
+  }
+}

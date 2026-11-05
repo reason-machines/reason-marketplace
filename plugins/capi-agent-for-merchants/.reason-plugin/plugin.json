@@ -1,0 +1,13 @@
+{
+  "name": "capi-agent-for-merchants",
+  "displayName": "Capi Agent for Merchants",
+  "description": "Run your store from Reason.",
+  "homepage": "https://capiagent.com",
+  "docs": "https://capiagent.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "capi-agent-for-merchants": {
+      "url": "https://capiagent.com/api/mcp/merchant"
+    }
+  }
+}

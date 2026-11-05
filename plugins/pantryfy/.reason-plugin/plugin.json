@@ -1,0 +1,13 @@
+{
+  "name": "pantryfy",
+  "displayName": "Pantryfy",
+  "description": "Plan meals and shopping.",
+  "homepage": "https://pantryfy.ai",
+  "docs": "https://pantryfy.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "pantryfy": {
+      "url": "https://api.pantryfy.ai/mcp/"
+    }
+  }
+}

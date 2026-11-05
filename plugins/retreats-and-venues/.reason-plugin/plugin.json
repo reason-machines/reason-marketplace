@@ -1,0 +1,13 @@
+{
+  "name": "retreats-and-venues",
+  "displayName": "Retreats and Venues",
+  "description": "Find the best venues.",
+  "homepage": "https://retreatsandvenues.com/",
+  "docs": "https://retreatsandvenues.com/",
+  "auth": "none",
+  "mcpServers": {
+    "retreats-and-venues": {
+      "url": "https://retreatsandvenues.com/mcp"
+    }
+  }
+}

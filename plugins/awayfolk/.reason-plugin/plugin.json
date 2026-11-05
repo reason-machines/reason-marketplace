@@ -1,0 +1,13 @@
+{
+  "name": "awayfolk",
+  "displayName": "Awayfolk",
+  "description": "Plan trips together.",
+  "homepage": "https://awayfolk.app",
+  "docs": "https://awayfolk.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "awayfolk": {
+      "url": "https://awayfolk.app/mcp"
+    }
+  }
+}

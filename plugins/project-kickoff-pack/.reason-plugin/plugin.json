@@ -1,0 +1,13 @@
+{
+  "name": "project-kickoff-pack",
+  "displayName": "Project Kickoff Pack",
+  "description": "Create project kickoff packs.",
+  "homepage": "https://project-kickoff-pack.sidcraigau.workers.dev",
+  "docs": "https://project-kickoff-pack.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "project-kickoff-pack": {
+      "url": "https://project-kickoff-pack.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bright",
+  "displayName": "Bright",
+  "description": "Evidence for AI progress.",
+  "homepage": "https://brightaifuture.com",
+  "docs": "https://brightaifuture.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "bright": {
+      "url": "https://brightaifuture.com/api/mcp"
+    }
+  }
+}

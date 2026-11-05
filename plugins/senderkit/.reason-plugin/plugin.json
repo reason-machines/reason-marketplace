@@ -1,0 +1,13 @@
+{
+  "name": "senderkit",
+  "displayName": "SenderKit",
+  "description": "Email, SMS & push for your app.",
+  "homepage": "https://www.senderkit.com",
+  "docs": "https://www.senderkit.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "senderkit": {
+      "url": "https://mcp.senderkit.com/"
+    }
+  }
+}

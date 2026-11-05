@@ -1,0 +1,13 @@
+{
+  "name": "eli",
+  "displayName": "Eli",
+  "description": "Test if AI can do business.",
+  "homepage": "https://www.hireeli.io",
+  "docs": "https://www.hireeli.io",
+  "auth": "none",
+  "mcpServers": {
+    "eli": {
+      "url": "https://hireeli.io/api/mcp-public/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "autalo-car-rental",
+  "displayName": "Autalo car rental",
+  "description": "Local car rental offers.",
+  "homepage": "https://autalo.com",
+  "docs": "https://autalo.com",
+  "auth": "none",
+  "mcpServers": {
+    "autalo-car-rental": {
+      "url": "https://autalo.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "balancos-ai",
+  "displayName": "Balanços.AI",
+  "description": "Brazilian company financials.",
+  "homepage": "https://balancos.ai",
+  "docs": "https://balancos.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "balancos-ai": {
+      "url": "https://mcp.balancos.ai/mcp"
+    }
+  }
+}

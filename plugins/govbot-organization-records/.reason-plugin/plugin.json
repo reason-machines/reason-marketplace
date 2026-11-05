@@ -1,0 +1,13 @@
+{
+  "name": "govbot-organization-records",
+  "displayName": "GovBot Organization Records",
+  "description": "Research federal records.",
+  "homepage": "https://govbot.ai",
+  "docs": "https://govbot.ai",
+  "auth": "none",
+  "mcpServers": {
+    "govbot-organization-records": {
+      "url": "https://mcp.govbot.ai/mcp"
+    }
+  }
+}

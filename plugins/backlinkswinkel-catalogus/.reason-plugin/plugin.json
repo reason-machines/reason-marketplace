@@ -1,0 +1,13 @@
+{
+  "name": "backlinkswinkel-catalogus",
+  "displayName": "BacklinksWinkel Catalogus",
+  "description": "Vergelijk relevante websites.",
+  "homepage": "https://backlinkswinkel.nl/chatgpt/",
+  "docs": "https://backlinkswinkel.nl/chatgpt/",
+  "auth": "oauth",
+  "mcpServers": {
+    "backlinkswinkel-catalogus": {
+      "url": "https://backlinkswinkel.nl/mcp"
+    }
+  }
+}

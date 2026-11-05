@@ -1,0 +1,13 @@
+{
+  "name": "latchbell",
+  "displayName": "Latchbell",
+  "description": "Book local home service pros.",
+  "homepage": "https://latchbell.com",
+  "docs": "https://latchbell.com",
+  "auth": "none",
+  "mcpServers": {
+    "latchbell": {
+      "url": "https://latchbell.com/mcp"
+    }
+  }
+}

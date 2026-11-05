@@ -1,0 +1,13 @@
+{
+  "name": "speed-reader",
+  "displayName": "Paceword Speed Reader",
+  "description": "Paced reading practice.",
+  "homepage": "https://speed-reader.zovo.one",
+  "docs": "https://speed-reader.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "speed-reader": {
+      "url": "https://speed-reader.zovo.one/mcp"
+    }
+  }
+}

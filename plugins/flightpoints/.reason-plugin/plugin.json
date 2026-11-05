@@ -1,0 +1,13 @@
+{
+  "name": "flightpoints",
+  "displayName": "FlightPoints",
+  "description": "Find award flights.",
+  "homepage": "https://flightpoints.com",
+  "docs": "https://flightpoints.com",
+  "auth": "none",
+  "mcpServers": {
+    "flightpoints": {
+      "url": "https://mcp.flightpoints.com/mcp"
+    }
+  }
+}

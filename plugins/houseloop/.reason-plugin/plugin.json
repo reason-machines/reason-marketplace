@@ -1,0 +1,13 @@
+{
+  "name": "houseloop",
+  "displayName": "HouseLoop",
+  "description": "Kansas City home photo search.",
+  "homepage": "https://houseloop.ai",
+  "docs": "https://houseloop.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "houseloop": {
+      "url": "https://houseloop.ai/api/mcp"
+    }
+  }
+}

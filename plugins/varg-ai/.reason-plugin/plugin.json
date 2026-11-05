@@ -1,0 +1,13 @@
+{
+  "name": "varg-ai",
+  "displayName": "varg.ai",
+  "description": "AI ads, image, video & music.",
+  "homepage": "https://varg.ai",
+  "docs": "https://varg.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "varg-ai": {
+      "url": "https://mcp.varg.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "genesispay-catalog",
+  "displayName": "GenesisPay Catalog",
+  "description": "Find products and shops.",
+  "homepage": "https://genesispay.finance",
+  "docs": "https://genesispay.finance/docs/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "genesispay-catalog": {
+      "url": "https://genesispay.finance/mcp/catalog"
+    }
+  }
+}

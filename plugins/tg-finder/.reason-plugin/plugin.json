@@ -1,0 +1,13 @@
+{
+  "name": "tg-finder",
+  "displayName": "TG Finder",
+  "description": "Find anyone on Telegram.",
+  "homepage": "https://www.telegram-finder.io",
+  "docs": "https://www.telegram-finder.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "tg-finder": {
+      "url": "https://telegram-finder.io/mcp"
+    }
+  }
+}

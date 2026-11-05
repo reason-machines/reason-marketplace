@@ -1,0 +1,13 @@
+{
+  "name": "vo",
+  "displayName": "VO",
+  "description": "Your listening, in your AI.",
+  "homepage": "https://vo.fm/connectors/chatgpt",
+  "docs": "https://vo.fm/connectors/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "vo": {
+      "url": "https://mcp.vo.fm/mcp"
+    }
+  }
+}

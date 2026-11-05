@@ -1,0 +1,13 @@
+{
+  "name": "nectar",
+  "displayName": "Nectar",
+  "description": "Your social operating system.",
+  "homepage": "https://www.nectarsocial.com/",
+  "docs": "https://www.nectarsocial.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "nectar": {
+      "url": "https://mcp.nectarsocial.com/mcp"
+    }
+  }
+}

@@ -10,5 +10,49 @@
     "mcp-mail": {
       "url": "https://mcp.mail.superhuman.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "batch-draft-writer",
+      "description": "Drafts multiple email replies or follow-ups in batch using the Superhuman Mail MCP server — processing your inbox in bulk rather than one email at a time. Use this skill whenever someone asks to \"draft replies to my unread emails\", \"respond to all my emails\", \"write follow-ups for my meetings this w",
+      "source": "superhuman/mcp-mail#d997b669ff6abe1869028aaabe35d81391e543d8",
+      "skill": "batch-draft-writer",
+      "url": "https://github.com/superhuman/mcp-mail/tree/d997b669ff6abe1869028aaabe35d81391e543d8/skills/batch-draft-writer"
+    },
+    {
+      "name": "deal-tracker",
+      "description": "Builds a relationship or deal summary using the Superhuman Mail MCP server — pulling together all email history, read receipts, and calendar interactions with a specific person or company to act as a lightweight CRM. Use this skill whenever someone asks to \"show me all communication with [person/com",
+      "source": "superhuman/mcp-mail#d997b669ff6abe1869028aaabe35d81391e543d8",
+      "skill": "deal-tracker",
+      "url": "https://github.com/superhuman/mcp-mail/tree/d997b669ff6abe1869028aaabe35d81391e543d8/skills/deal-tracker"
+    },
+    {
+      "name": "eod-wrapup",
+      "description": "Generates an end-of-day wrap-up using the Superhuman Mail MCP server — identifies open loops, unanswered emails, and action items from your day so you can leave work with a clear head. Use this skill whenever someone asks to \"wrap up my day\", \"what's still open in my inbox\", \"end of day summary\", \"w",
+      "source": "superhuman/mcp-mail#d997b669ff6abe1869028aaabe35d81391e543d8",
+      "skill": "eod-wrapup",
+      "url": "https://github.com/superhuman/mcp-mail/tree/d997b669ff6abe1869028aaabe35d81391e543d8/skills/eod-wrapup"
+    },
+    {
+      "name": "meeting-scheduler",
+      "description": "Handles end-to-end meeting scheduling using the Superhuman Mail MCP server — from finding available times to sending the invite or proposing times via email. Use this skill whenever someone asks to \"schedule a meeting with [person]\", \"find a time to meet\", \"book a call\", \"set up a meeting\", \"when am",
+      "source": "superhuman/mcp-mail#d997b669ff6abe1869028aaabe35d81391e543d8",
+      "skill": "meeting-scheduler",
+      "url": "https://github.com/superhuman/mcp-mail/tree/d997b669ff6abe1869028aaabe35d81391e543d8/skills/meeting-scheduler"
+    },
+    {
+      "name": "morning-briefing",
+      "description": "Generates a morning briefing that triages your inbox and previews your day using the Superhuman Mail MCP server — acting as an AI chief of staff. Use this skill whenever someone asks to \"brief me on my day\", \"triage my inbox\", \"what's important in my email\", \"summarize my unread emails\", \"what do I ",
+      "source": "superhuman/mcp-mail#d997b669ff6abe1869028aaabe35d81391e543d8",
+      "skill": "morning-briefing",
+      "url": "https://github.com/superhuman/mcp-mail/tree/d997b669ff6abe1869028aaabe35d81391e543d8/skills/morning-briefing"
+    },
+    {
+      "name": "welcome-to-superhuman-mail",
+      "description": "Welcome and onboard a new user to Superhuman Mail MCP. Use when the user is new to Superhuman Mail, asks what Superhuman Mail can do, wants a guided tour, setup walkthrough, first actions, examples for email or calendar workflows, help adding accounts, client-specific tool approval settings, Gmail/O",
+      "source": "superhuman/mcp-mail#d997b669ff6abe1869028aaabe35d81391e543d8",
+      "skill": "welcome-to-superhuman-mail",
+      "url": "https://github.com/superhuman/mcp-mail/tree/d997b669ff6abe1869028aaabe35d81391e543d8/skills/welcome-to-superhuman-mail"
+    }
+  ]
 }

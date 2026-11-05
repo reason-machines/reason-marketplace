@@ -1,0 +1,13 @@
+{
+  "name": "spectr",
+  "displayName": "Spectr",
+  "description": "Specs, stories and budgets.",
+  "homepage": "https://spectr.pm",
+  "docs": "https://spectr.pm",
+  "auth": "oauth",
+  "mcpServers": {
+    "spectr": {
+      "url": "https://mcp.spectr.pm/mcp"
+    }
+  }
+}

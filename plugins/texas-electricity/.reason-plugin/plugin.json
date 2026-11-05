@@ -1,0 +1,13 @@
+{
+  "name": "texas-electricity",
+  "displayName": "Texas Electricity",
+  "description": "Compare plans using real usage.",
+  "homepage": "https://meterplan.com",
+  "docs": "https://meterplan.com",
+  "auth": "none",
+  "mcpServers": {
+    "texas-electricity": {
+      "url": "https://mcp.meterplan.com/mcp"
+    }
+  }
+}

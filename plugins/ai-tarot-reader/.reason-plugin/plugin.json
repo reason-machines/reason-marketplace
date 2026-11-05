@@ -1,0 +1,13 @@
+{
+  "name": "ai-tarot-reader",
+  "displayName": "Tarot Card Picker",
+  "description": "Choose cards. Read the spread.",
+  "homepage": "https://aitarotreaders.com/",
+  "docs": "https://aitarotreaders.com/",
+  "auth": "none",
+  "mcpServers": {
+    "ai-tarot-reader": {
+      "url": "https://mcp.aitarotreaders.com/mcp"
+    }
+  }
+}

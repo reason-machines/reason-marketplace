@@ -1,0 +1,13 @@
+{
+  "name": "best-of-motivation",
+  "displayName": "Best Of Motivation",
+  "description": "Leadership quizzes and advice.",
+  "homepage": "https://bestofmotivation.com/",
+  "docs": "https://bestofmotivation.com/",
+  "auth": "none",
+  "mcpServers": {
+    "best-of-motivation": {
+      "url": "https://mcp.bestofmotivation.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "revhost",
+  "displayName": "RevHost",
+  "description": "Manage your Turo fleet.",
+  "homepage": "https://www.revhosthq.com",
+  "docs": "https://revhosthq.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "revhost": {
+      "url": "https://api.revhosthq.com/mcp"
+    }
+  }
+}

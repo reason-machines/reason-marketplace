@@ -1,0 +1,13 @@
+{
+  "name": "adzviser-snapchat-ads",
+  "displayName": "Adzviser Snapchat Ads",
+  "description": "Talk to your Snapchat Ads data.",
+  "homepage": "https://adzviser.com",
+  "docs": "https://adzviser.com/mcp/snapchat-ads",
+  "auth": "oauth",
+  "mcpServers": {
+    "adzviser-snapchat-ads": {
+      "url": "https://mcp.adzviser.com/http"
+    }
+  }
+}

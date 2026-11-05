@@ -1,0 +1,13 @@
+{
+  "name": "stoic",
+  "displayName": "Stoic",
+  "description": "Daily Stoic journal.",
+  "homepage": "https://safrow.com/mcp/stoic",
+  "docs": "https://safrow.com/mcp/stoic",
+  "auth": "none",
+  "mcpServers": {
+    "stoic": {
+      "url": "https://stoic.host.safrow.com/mcp"
+    }
+  }
+}

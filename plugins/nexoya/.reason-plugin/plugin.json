@@ -1,0 +1,13 @@
+{
+  "name": "nexoya",
+  "displayName": "Nexoya",
+  "description": "Marketing analytics.",
+  "homepage": "https://www.nexoya.com",
+  "docs": "https://www.nexoya.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "nexoya": {
+      "url": "https://mcp.nexoya.com/mcp"
+    }
+  }
+}

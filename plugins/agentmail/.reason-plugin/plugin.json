@@ -10,5 +10,28 @@
     "agentmail": {
       "url": "https://mcp.agentmail.to/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "check-email",
+      "description": "Read, search, summarize, and triage AgentMail inboxes through the connected MCP server. Use when the user asks to check for new mail, find messages or threads, summarize conversations, inspect attachments, or identify messages needing a reply.",
+      "source": "agentmail-to/agentmail-plugins#cd2a14987b4bca9698681dbafe38e0ce2c08ebae",
+      "skill": "check-email",
+      "url": "https://github.com/agentmail-to/agentmail-plugins/tree/cd2a14987b4bca9698681dbafe38e0ce2c08ebae/skills/check-email"
+    },
+    {
+      "name": "manage-inboxes",
+      "description": "Create, list, inspect, update, or delete AgentMail inboxes through the connected MCP server. Use when the user asks for a new agent email address, wants to inspect available inboxes, change an inbox display name or metadata, or remove an inbox.",
+      "source": "agentmail-to/agentmail-plugins#cd2a14987b4bca9698681dbafe38e0ce2c08ebae",
+      "skill": "manage-inboxes",
+      "url": "https://github.com/agentmail-to/agentmail-plugins/tree/cd2a14987b4bca9698681dbafe38e0ce2c08ebae/skills/manage-inboxes"
+    },
+    {
+      "name": "send-email",
+      "description": "Draft, send, reply to, or forward email through the connected AgentMail MCP server. Use when the user asks to compose an AgentMail message, create or schedule a draft, send to named recipients, reply to a specific email, or forward an existing message.",
+      "source": "agentmail-to/agentmail-plugins#cd2a14987b4bca9698681dbafe38e0ce2c08ebae",
+      "skill": "send-email",
+      "url": "https://github.com/agentmail-to/agentmail-plugins/tree/cd2a14987b4bca9698681dbafe38e0ce2c08ebae/skills/send-email"
+    }
+  ]
 }

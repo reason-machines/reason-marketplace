@@ -1,0 +1,13 @@
+{
+  "name": "worktivity",
+  "displayName": "Worktivity",
+  "description": "Ask AI about your team's work.",
+  "homepage": "https://useworktivity.com",
+  "docs": "https://useworktivity.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "worktivity": {
+      "url": "https://mcp.useworktivity.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "uncle",
+  "displayName": "UNCLE",
+  "description": "Run your UNCLE workspace.",
+  "homepage": "https://uncleapp.co",
+  "docs": "https://uncleapp.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "uncle": {
+      "url": "https://mcp.uncleapp.co/mcp"
+    }
+  }
+}

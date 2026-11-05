@@ -1,0 +1,13 @@
+{
+  "name": "neosapien",
+  "displayName": "NeoSapien",
+  "description": "Your Personal AI Assistant.",
+  "homepage": "https://neosapien.ai/",
+  "docs": "https://api.neosapien.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "neosapien": {
+      "url": "https://api.neosapien.ai/mcp"
+    }
+  }
+}

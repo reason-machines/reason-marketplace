@@ -1,0 +1,13 @@
+{
+  "name": "adplane",
+  "displayName": "adplane",
+  "description": "Manage Google Ads and Meta Ads.",
+  "homepage": "https://adplane.ai",
+  "docs": "https://adplane.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "adplane": {
+      "url": "https://mcp.adplane.ai/mcp"
+    }
+  }
+}

@@ -10,5 +10,28 @@
     "krea": {
       "url": "https://api.krea.ai/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "krea-generate",
+      "description": "Use before any image, video, edit, or enhancement generation (beyond the simplest one-shot request) for model recommendations and prompting guides. Route marketing, campaign, UGC, marketplace, and paid-social work to krea-marketing.",
+      "source": "krea-ai/skills#9239bb449a8acefd5effef73a548b7322b5d1f10",
+      "skill": "krea-generate",
+      "url": "https://github.com/krea-ai/skills/tree/9239bb449a8acefd5effef73a548b7322b5d1f10/krea-generate"
+    },
+    {
+      "name": "krea-marketing",
+      "description": "Use for marketing and paid-social creative: packaging design and mockups, product photoshoots, marketplace cards, static/UGC/video ads, campaign key visuals, ad storyboards, product launches, and Meta Ads. For generic media generation use krea-generate.",
+      "source": "krea-ai/skills#9239bb449a8acefd5effef73a548b7322b5d1f10",
+      "skill": "krea-marketing",
+      "url": "https://github.com/krea-ai/skills/tree/9239bb449a8acefd5effef73a548b7322b5d1f10/krea-marketing"
+    },
+    {
+      "name": "krea-motion",
+      "description": "Use for product, brand, and marketing motion: animating a product still, render, logo, or mark; reveal films; web and PDP loops. Not for anime, character, or narrative animation — use krea-generate for those. For ad creative use krea-marketing.",
+      "source": "krea-ai/skills#9239bb449a8acefd5effef73a548b7322b5d1f10",
+      "skill": "krea-motion",
+      "url": "https://github.com/krea-ai/skills/tree/9239bb449a8acefd5effef73a548b7322b5d1f10/krea-motion"
+    }
+  ]
 }

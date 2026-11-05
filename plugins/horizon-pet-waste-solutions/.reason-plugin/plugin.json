@@ -1,0 +1,13 @@
+{
+  "name": "horizon-pet-waste-solutions",
+  "displayName": "Horizon Pet Waste Solutions",
+  "description": "Get a pet waste removal quote.",
+  "homepage": "https://www.horizonpetwastesolutions.com",
+  "docs": "https://horizonpetwastesolutions.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "horizon-pet-waste-solutions": {
+      "url": "https://www.horizonpetwastesolutions.com/mcp"
+    }
+  }
+}

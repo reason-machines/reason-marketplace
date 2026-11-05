@@ -1,0 +1,13 @@
+{
+  "name": "scopture",
+  "displayName": "Scopture",
+  "description": "Work on engineering projects.",
+  "homepage": "https://site.scopture.com/",
+  "docs": "https://site.scopture.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "scopture": {
+      "url": "https://api.scopture.com/mcp"
+    }
+  }
+}

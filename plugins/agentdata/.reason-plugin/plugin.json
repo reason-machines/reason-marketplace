@@ -1,0 +1,13 @@
+{
+  "name": "agentdata",
+  "displayName": "AgentData",
+  "description": "Research companies and people.",
+  "homepage": "https://agentdata.run",
+  "docs": "https://agentdata.run",
+  "auth": "none",
+  "mcpServers": {
+    "agentdata": {
+      "url": "https://mcp.agentdata.run/mcp"
+    }
+  }
+}

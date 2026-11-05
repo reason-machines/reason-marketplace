@@ -1,0 +1,13 @@
+{
+  "name": "agentplatform-opplevagent",
+  "displayName": "Opplevagent",
+  "description": "Find Norwegian experiences.",
+  "homepage": "https://opplevagent.no",
+  "docs": "https://opplevagent.no",
+  "auth": "none",
+  "mcpServers": {
+    "agentplatform-opplevagent": {
+      "url": "https://opplevagent.no/mcp"
+    }
+  }
+}

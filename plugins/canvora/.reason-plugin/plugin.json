@@ -1,0 +1,13 @@
+{
+  "name": "canvora",
+  "displayName": "Canvora",
+  "description": "Create on-brand visuals.",
+  "homepage": "https://canvora.ai",
+  "docs": "https://canvora.ai/integrations",
+  "auth": "oauth",
+  "mcpServers": {
+    "canvora": {
+      "url": "https://api.canvora.ai/mcp"
+    }
+  }
+}

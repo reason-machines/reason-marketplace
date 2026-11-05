@@ -1,0 +1,13 @@
+{
+  "name": "life4rent",
+  "displayName": "Life4Rent",
+  "description": "Find rentals or list an item.",
+  "homepage": "https://life4rent.app",
+  "docs": "https://life4rent.app",
+  "auth": "none",
+  "mcpServers": {
+    "life4rent": {
+      "url": "https://life4rent.app/mcp"
+    }
+  }
+}

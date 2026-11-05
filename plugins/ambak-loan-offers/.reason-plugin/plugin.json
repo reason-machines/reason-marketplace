@@ -1,0 +1,13 @@
+{
+  "name": "ambak-loan-offers",
+  "displayName": "Ambak Loan Offers",
+  "description": "Compare home loan offers.",
+  "homepage": "https://ambak.com",
+  "docs": "https://ambak.com",
+  "auth": "none",
+  "mcpServers": {
+    "ambak-loan-offers": {
+      "url": "https://mcp.ambak.com/mcp"
+    }
+  }
+}

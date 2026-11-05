@@ -1,0 +1,13 @@
+{
+  "name": "vehicle-recalls",
+  "displayName": "Zovo VIN Recall Check",
+  "description": "VIN decode and recall reports.",
+  "homepage": "https://vehicle-recalls.zovo.one",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.theluckystrike/vehicle-recalls",
+  "auth": "none",
+  "mcpServers": {
+    "vehicle-recalls": {
+      "url": "https://vehicle-recalls.zovo.one/mcp"
+    }
+  }
+}

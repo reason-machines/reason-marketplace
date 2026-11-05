@@ -1,0 +1,13 @@
+{
+  "name": "markloop",
+  "displayName": "Markloop",
+  "description": "Share AI docs, get comments.",
+  "homepage": "https://markloop.io",
+  "docs": "https://markloop.io/blog/claude-artifact-comments/",
+  "auth": "oauth",
+  "mcpServers": {
+    "markloop": {
+      "url": "https://app.markloop.io/api/mcp"
+    }
+  }
+}

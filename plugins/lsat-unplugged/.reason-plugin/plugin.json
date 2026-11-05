@@ -1,0 +1,13 @@
+{
+  "name": "lsat-unplugged",
+  "displayName": "LSAT Unplugged",
+  "description": "LSAT and law school data.",
+  "homepage": "https://unpluggedprep.com",
+  "docs": "https://unpluggedprep.com",
+  "auth": "none",
+  "mcpServers": {
+    "lsat-unplugged": {
+      "url": "https://mcp.unpluggedprep.com/mcp"
+    }
+  }
+}

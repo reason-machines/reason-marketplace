@@ -1,0 +1,13 @@
+{
+  "name": "jars-lt",
+  "displayName": "JARS LT",
+  "description": "Lithuanian business data.",
+  "homepage": "https://jars.lt",
+  "docs": "https://jars.lt/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "jars-lt": {
+      "url": "https://api.jars.lt/mcp"
+    }
+  }
+}

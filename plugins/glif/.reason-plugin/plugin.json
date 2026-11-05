@@ -1,0 +1,13 @@
+{
+  "name": "glif",
+  "displayName": "Glif",
+  "description": "Create images, video & audio.",
+  "homepage": "https://glif.app",
+  "docs": "https://glif.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "glif": {
+      "url": "https://glif.app/api/mcp"
+    }
+  }
+}

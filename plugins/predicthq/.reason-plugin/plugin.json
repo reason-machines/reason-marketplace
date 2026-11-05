@@ -1,0 +1,13 @@
+{
+  "name": "predicthq",
+  "displayName": "PredictHQ",
+  "description": "See what's driving your demand.",
+  "homepage": "https://www.predicthq.com",
+  "docs": "https://docs.predicthq.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "predicthq": {
+      "url": "https://mcp.predicthq.com/v1/mcp"
+    }
+  }
+}

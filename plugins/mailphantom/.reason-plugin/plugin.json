@@ -1,0 +1,13 @@
+{
+  "name": "mailphantom",
+  "displayName": "Mailphantom",
+  "description": "Reusable private email aliases.",
+  "homepage": "https://mailphantom.io",
+  "docs": "https://mailphantom.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "mailphantom": {
+      "url": "https://mailphantom.io/mcp"
+    }
+  }
+}

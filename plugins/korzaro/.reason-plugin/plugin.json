@@ -1,0 +1,13 @@
+{
+  "name": "korzaro",
+  "displayName": "Korzaro",
+  "description": "Explore your shop results.",
+  "homepage": "https://korzaro.com/en/",
+  "docs": "https://korzaro.com/en/",
+  "auth": "oauth",
+  "mcpServers": {
+    "korzaro": {
+      "url": "https://mcp.korzaro.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vovv-ai",
+  "displayName": "VOVV",
+  "description": "Product visuals & ad intel.",
+  "homepage": "https://vovv.ai",
+  "docs": "https://vovv.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "vovv-ai": {
+      "url": "https://mcp.vovv.ai/mcp"
+    }
+  }
+}

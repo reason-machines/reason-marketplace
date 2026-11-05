@@ -1,0 +1,13 @@
+{
+  "name": "the-founding-reader",
+  "displayName": "The Founding Reader",
+  "description": "Founding debates, verbatim.",
+  "homepage": "https://foundingreader.com/plugin",
+  "docs": "https://foundingreader.com/plugin",
+  "auth": "none",
+  "mcpServers": {
+    "the-founding-reader": {
+      "url": "https://foundingreader.com/mcp"
+    }
+  }
+}

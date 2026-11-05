@@ -1,0 +1,13 @@
+{
+  "name": "weather-by-windborne",
+  "displayName": "Weather by WindBorne",
+  "description": "Forecasts tailored to you.",
+  "homepage": "https://windbornesystems.com/",
+  "docs": "https://windbornesystems.com/",
+  "auth": "none",
+  "mcpServers": {
+    "weather-by-windborne": {
+      "url": "https://mcp.windbornesystems.com/mcp"
+    }
+  }
+}

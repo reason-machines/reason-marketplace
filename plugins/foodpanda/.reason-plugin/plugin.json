@@ -1,0 +1,13 @@
+{
+  "name": "foodpanda",
+  "displayName": "foodpanda",
+  "description": "Find restaurants and menus.",
+  "homepage": "https://www.foodpanda.com/",
+  "docs": "https://www.foodpanda.com/",
+  "auth": "none",
+  "mcpServers": {
+    "foodpanda": {
+      "url": "https://mcp.foodpanda.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "melius",
+  "displayName": "Melius",
+  "description": "Create images and videos.",
+  "homepage": "https://melius.com",
+  "docs": "https://melius.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "melius": {
+      "url": "https://mcp.melius.com/mcp"
+    }
+  }
+}

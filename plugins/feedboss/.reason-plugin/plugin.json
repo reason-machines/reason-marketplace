@@ -1,0 +1,13 @@
+{
+  "name": "feedboss",
+  "displayName": "FeedBoss",
+  "description": "Draft and score LinkedIn posts.",
+  "homepage": "https://feedboss.ai",
+  "docs": "https://feedboss.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "feedboss": {
+      "url": "https://server.feedboss.ai/api/v1/mcp"
+    }
+  }
+}

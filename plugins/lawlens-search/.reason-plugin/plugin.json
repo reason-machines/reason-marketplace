@@ -1,0 +1,13 @@
+{
+  "name": "lawlens-search",
+  "displayName": "LawLens Search",
+  "description": "Indian legal source search.",
+  "homepage": "https://lawlens.in/",
+  "docs": "https://lawlens.in/docs/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "lawlens-search": {
+      "url": "https://api-sgn.lawlens.in/mcp"
+    }
+  }
+}

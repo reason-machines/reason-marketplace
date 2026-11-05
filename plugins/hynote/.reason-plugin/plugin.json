@@ -1,0 +1,13 @@
+{
+  "name": "hynote",
+  "displayName": "HyNote",
+  "description": "Search, read, and create notes.",
+  "homepage": "https://hynote.ai",
+  "docs": "https://hynote.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "hynote": {
+      "url": "https://hynote.ai/mcp"
+    }
+  }
+}

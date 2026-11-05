@@ -1,0 +1,13 @@
+{
+  "name": "signatureapi",
+  "displayName": "SignatureAPI",
+  "description": "E-signatures for developers.",
+  "homepage": "https://signatureapi.com",
+  "docs": "https://signatureapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "signatureapi": {
+      "url": "https://mcp.signatureapi.com/mcp"
+    }
+  }
+}

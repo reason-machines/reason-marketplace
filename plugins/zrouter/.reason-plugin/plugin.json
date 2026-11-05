@@ -1,0 +1,13 @@
+{
+  "name": "zrouter",
+  "displayName": "ZRouter",
+  "description": "Manage your AI gateway.",
+  "homepage": "https://zrouter.si",
+  "docs": "https://zrouter.si",
+  "auth": "oauth",
+  "mcpServers": {
+    "zrouter": {
+      "url": "https://zrouter.si/mcp"
+    }
+  }
+}

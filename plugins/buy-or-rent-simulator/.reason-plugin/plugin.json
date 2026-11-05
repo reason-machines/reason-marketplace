@@ -1,0 +1,13 @@
+{
+  "name": "buy-or-rent-simulator",
+  "displayName": "Buy Or Rent Simulator",
+  "description": "Compare buying vs renting home.",
+  "homepage": "https://buy-or-rent.net",
+  "docs": "https://tedix.dev/apps/buy-or-rent-simulator/",
+  "auth": "none",
+  "mcpServers": {
+    "buy-or-rent-simulator": {
+      "url": "https://acheter-ou-louer-mcp.petirico.workers.dev/mcp"
+    }
+  }
+}

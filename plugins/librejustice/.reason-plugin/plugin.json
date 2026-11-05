@@ -1,0 +1,29 @@
+{
+  "name": "librejustice",
+  "displayName": "LibreJustice",
+  "description": "Case law and legal texts.",
+  "homepage": "https://librejustice.fr",
+  "docs": "https://librejustice.fr",
+  "auth": "oauth",
+  "mcpServers": {
+    "librejustice": {
+      "url": "https://librejustice.fr/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "recherche-jurisprudence",
+      "description": "Search and cite French and European case law with the LibreJustice MCP tools. Use whenever the user asks about court decisions (Cour de cassation, Conseil d'État, cours d'appel, TJ/TA, CNDA, Conseil constitutionnel, CNIL, CEDH, CJUE), needs authorities for a brief, requête, référé or consultation, w",
+      "source": "librejustice/librejustice#ca1d06062ec4bb2cb332b0e9d41a45309fa3ad75",
+      "skill": "recherche-jurisprudence",
+      "url": "https://github.com/librejustice/librejustice/tree/ca1d06062ec4bb2cb332b0e9d41a45309fa3ad75/plugins/librejustice/skills/recherche-jurisprudence"
+    },
+    {
+      "name": "recherche-normes",
+      "description": "Find and quote legal texts and administrative guidance with the LibreJustice MCP tools, covering French codes at any date, EU law, treaties and bilateral accords, foreign codes (59 countries), collective agreements, BOFiP and circulaires. Use whenever the user asks what a text says or said at a give",
+      "source": "librejustice/librejustice#ca1d06062ec4bb2cb332b0e9d41a45309fa3ad75",
+      "skill": "recherche-normes",
+      "url": "https://github.com/librejustice/librejustice/tree/ca1d06062ec4bb2cb332b0e9d41a45309fa3ad75/plugins/librejustice/skills/recherche-normes"
+    }
+  ]
+}

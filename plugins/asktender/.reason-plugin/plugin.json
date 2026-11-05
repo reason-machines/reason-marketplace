@@ -1,0 +1,13 @@
+{
+  "name": "asktender",
+  "displayName": "askTender",
+  "description": "Government tenders worldwide.",
+  "homepage": "https://asktender.org/connector",
+  "docs": "https://asktender.org/connector",
+  "auth": "none",
+  "mcpServers": {
+    "asktender": {
+      "url": "https://asktender.org/mcp"
+    }
+  }
+}

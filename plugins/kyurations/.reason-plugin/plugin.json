@@ -1,0 +1,13 @@
+{
+  "name": "kyurations",
+  "displayName": "Kyurations",
+  "description": "Bookmarks and read-later lists.",
+  "homepage": "https://www.kyurations.in",
+  "docs": "https://kyurations.in/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "kyurations": {
+      "url": "https://www.kyurations.in/api/mcp"
+    }
+  }
+}

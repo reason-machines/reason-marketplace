@@ -1,0 +1,13 @@
+{
+  "name": "peloton",
+  "displayName": "Peloton",
+  "description": "Discover Peloton workouts.",
+  "homepage": "https://www.onepeloton.com",
+  "docs": "https://www.onepeloton.com",
+  "auth": "none",
+  "mcpServers": {
+    "peloton": {
+      "url": "https://mcp.onepeloton.com/mcp"
+    }
+  }
+}

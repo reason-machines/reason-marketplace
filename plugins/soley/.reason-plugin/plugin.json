@@ -1,0 +1,13 @@
+{
+  "name": "soley",
+  "displayName": "Sóley",
+  "description": "Soley: book Iceland travel.",
+  "homepage": "https://soley.travel/en/about",
+  "docs": "https://soley.travel/",
+  "auth": "oauth",
+  "mcpServers": {
+    "soley": {
+      "url": "https://api.soley.travel/mcp"
+    }
+  }
+}

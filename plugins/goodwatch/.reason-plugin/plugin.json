@@ -1,0 +1,13 @@
+{
+  "name": "goodwatch",
+  "displayName": "GoodWatch",
+  "description": "Find your next movie or show.",
+  "homepage": "https://goodwatch.app",
+  "docs": "https://goodwatch.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "goodwatch": {
+      "url": "https://goodwatch.app/mcp"
+    }
+  }
+}

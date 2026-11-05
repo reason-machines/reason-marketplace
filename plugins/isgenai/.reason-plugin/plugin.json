@@ -1,0 +1,13 @@
+{
+  "name": "isgenai",
+  "displayName": "isGenAI",
+  "description": "Check content for AI evidence.",
+  "homepage": "https://isgenai.com",
+  "docs": "https://isgenai.com",
+  "auth": "none",
+  "mcpServers": {
+    "isgenai": {
+      "url": "https://isgenai.com/mcp"
+    }
+  }
+}

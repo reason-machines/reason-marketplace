@@ -1,0 +1,13 @@
+{
+  "name": "perfectpost",
+  "displayName": "PerfectPost",
+  "description": "LinkedIn stats and scheduling.",
+  "homepage": "https://perfectpost.social",
+  "docs": "https://perfectpost.social",
+  "auth": "oauth",
+  "mcpServers": {
+    "perfectpost": {
+      "url": "https://mcp.perfectpost.social/mcp"
+    }
+  }
+}

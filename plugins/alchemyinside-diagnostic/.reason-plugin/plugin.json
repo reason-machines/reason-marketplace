@@ -1,0 +1,13 @@
+{
+  "name": "alchemyinside-diagnostic",
+  "displayName": "Alchemy Inside Diagnostic",
+  "description": "Find your practice's leaks.",
+  "homepage": "https://alchemyinside.com/scorecard/",
+  "docs": "https://alchemyinside.com/scorecard/",
+  "auth": "none",
+  "mcpServers": {
+    "alchemyinside-diagnostic": {
+      "url": "https://mcp.alchemyinside.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dredge-studio",
+  "displayName": "DREDGE Studio",
+  "description": "Review your Studio research.",
+  "homepage": "https://dredgeoriongateway.com",
+  "docs": "https://dredgeoriongateway.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dredge-studio": {
+      "url": "https://dredgeoriongateway.com/mcp"
+    }
+  }
+}

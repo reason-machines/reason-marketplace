@@ -1,0 +1,13 @@
+{
+  "name": "whizi-canadian-tax",
+  "displayName": "Whizi Canadian Tax",
+  "description": "CRA figures and deadlines.",
+  "homepage": "https://whizi.io/tax/",
+  "docs": "https://whizi.io/tax/",
+  "auth": "none",
+  "mcpServers": {
+    "whizi-canadian-tax": {
+      "url": "https://whizi.io/mcp"
+    }
+  }
+}

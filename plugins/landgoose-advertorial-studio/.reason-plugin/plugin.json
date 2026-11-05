@@ -1,0 +1,13 @@
+{
+  "name": "landgoose-advertorial-studio",
+  "displayName": "LandGoose Advertorial Studio",
+  "description": "Create advertorial pages.",
+  "homepage": "https://landgoose.com/",
+  "docs": "https://landgoose.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "landgoose-advertorial-studio": {
+      "url": "https://landgoose.com/mcp"
+    }
+  }
+}

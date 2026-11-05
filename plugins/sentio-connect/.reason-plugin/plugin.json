@@ -1,0 +1,13 @@
+{
+  "name": "sentio-connect",
+  "displayName": "Sentio Connect",
+  "description": "Wallet balances and DeFi.",
+  "homepage": "https://www.sentio.xyz/connect/",
+  "docs": "https://www.sentio.xyz/connect/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sentio-connect": {
+      "url": "https://connect.sentio.xyz/v1/mcp"
+    }
+  }
+}

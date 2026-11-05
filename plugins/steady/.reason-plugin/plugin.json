@@ -1,0 +1,13 @@
+{
+  "name": "steady",
+  "displayName": "Steady",
+  "description": "Stay in sync with your team.",
+  "homepage": "https://runsteady.com/",
+  "docs": "https://runsteady.com/docs/article/mcp-server/",
+  "auth": "oauth",
+  "mcpServers": {
+    "steady": {
+      "url": "https://app.steady.space/mcp"
+    }
+  }
+}

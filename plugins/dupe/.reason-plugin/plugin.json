@@ -1,0 +1,13 @@
+{
+  "name": "dupe",
+  "displayName": "Dupe",
+  "description": "Find similar products for less.",
+  "homepage": "https://dupe.com",
+  "docs": "https://dupe.com",
+  "auth": "none",
+  "mcpServers": {
+    "dupe": {
+      "url": "https://mcp.dupe.com/mcp"
+    }
+  }
+}

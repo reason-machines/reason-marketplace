@@ -1,0 +1,13 @@
+{
+  "name": "buildfire",
+  "displayName": "Buildfire",
+  "description": "Manage app operations.",
+  "homepage": "https://buildfire.com",
+  "docs": "https://buildfire.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "buildfire": {
+      "url": "https://mcp.buildfire.com/mcp"
+    }
+  }
+}

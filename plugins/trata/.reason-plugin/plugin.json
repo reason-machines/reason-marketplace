@@ -1,0 +1,13 @@
+{
+  "name": "trata",
+  "displayName": "Trata",
+  "description": "AI-powered research desk.",
+  "homepage": "https://www.trata.com/",
+  "docs": "https://www.trata.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "trata": {
+      "url": "https://api.trata.com/mcp"
+    }
+  }
+}

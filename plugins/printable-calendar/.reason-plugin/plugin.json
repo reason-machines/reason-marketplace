@@ -1,0 +1,13 @@
+{
+  "name": "printable-calendar",
+  "displayName": "Printable Calendar Maker",
+  "description": "Print-ready calendar PDFs.",
+  "homepage": "https://printable-calendar.zovo.one",
+  "docs": "https://printable-calendar.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "printable-calendar": {
+      "url": "https://printable-calendar.zovo.one/mcp"
+    }
+  }
+}

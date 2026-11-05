@@ -1,0 +1,13 @@
+{
+  "name": "rainbrand",
+  "displayName": "Rainbrand",
+  "description": "The brand layer for agents.",
+  "homepage": "https://www.rainbrand.com/",
+  "docs": "https://www.rainbrand.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "rainbrand": {
+      "url": "https://mcp.rainbrand.com/mcp"
+    }
+  }
+}

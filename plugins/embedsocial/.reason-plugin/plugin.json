@@ -1,0 +1,13 @@
+{
+  "name": "embedsocial",
+  "displayName": "EmbedSocial",
+  "description": "Your UGC and widget analytics.",
+  "homepage": "https://embedsocial.com/docs/api-access/chatgpt-mcp-connector/",
+  "docs": "https://embedsocial.com/docs/api-access/chatgpt-mcp-connector/",
+  "auth": "oauth",
+  "mcpServers": {
+    "embedsocial": {
+      "url": "https://embedsocial.com/admin/mcp"
+    }
+  }
+}

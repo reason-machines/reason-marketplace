@@ -1,0 +1,13 @@
+{
+  "name": "moda-slides-and-designs",
+  "displayName": "Moda - Slides & Designs",
+  "description": "Editable slides and designs.",
+  "homepage": "https://moda.app",
+  "docs": "https://moda.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "moda-slides-and-designs": {
+      "url": "https://mcp.moda.app/mcp"
+    }
+  }
+}

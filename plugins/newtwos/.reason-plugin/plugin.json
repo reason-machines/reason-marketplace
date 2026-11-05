@@ -1,0 +1,13 @@
+{
+  "name": "newtwos",
+  "displayName": "NewTwos",
+  "description": "Capture lists, to-dos & notes.",
+  "homepage": "https://www.WriteThingsDown.com",
+  "docs": "https://www.WriteThingsDown.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "newtwos": {
+      "url": "https://writethingsdown.com/mcp"
+    }
+  }
+}

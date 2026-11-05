@@ -1,0 +1,13 @@
+{
+  "name": "kleanapp",
+  "displayName": "KleanApp",
+  "description": "Cleaning operations at hand.",
+  "homepage": "https://www.kleanapp.net",
+  "docs": "https://www.kleanapp.net",
+  "auth": "oauth",
+  "mcpServers": {
+    "kleanapp": {
+      "url": "https://kleanapp.net/mcp"
+    }
+  }
+}

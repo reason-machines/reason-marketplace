@@ -1,0 +1,13 @@
+{
+  "name": "tickerlayer",
+  "displayName": "TickerLayer",
+  "description": "Stocks, forex & crypto data.",
+  "homepage": "https://tickerlayer.com",
+  "docs": "https://tickerlayer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "tickerlayer": {
+      "url": "https://mcp.tickerlayer.com/mcp"
+    }
+  }
+}

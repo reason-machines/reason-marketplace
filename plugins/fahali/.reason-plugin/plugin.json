@@ -1,0 +1,13 @@
+{
+  "name": "fahali",
+  "displayName": "Fahali",
+  "description": "Market intel for AI agents.",
+  "homepage": "https://app.fahaliai.com",
+  "docs": "https://app.fahaliai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fahali": {
+      "url": "https://mcp.fahaliai.com/mcp"
+    }
+  }
+}

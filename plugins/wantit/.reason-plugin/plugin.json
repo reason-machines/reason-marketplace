@@ -1,0 +1,13 @@
+{
+  "name": "wantit",
+  "displayName": "WantIt",
+  "description": "Post what you want to buy.",
+  "homepage": "https://wantit.live",
+  "docs": "https://wantit.live",
+  "auth": "oauth",
+  "mcpServers": {
+    "wantit": {
+      "url": "https://wantit.live/mcp"
+    }
+  }
+}

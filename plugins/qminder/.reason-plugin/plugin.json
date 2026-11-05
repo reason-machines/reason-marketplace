@@ -1,0 +1,13 @@
+{
+  "name": "qminder",
+  "displayName": "Qminder",
+  "description": "Manage queues and appointments.",
+  "homepage": "https://www.qminder.com/",
+  "docs": "https://www.qminder.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "qminder": {
+      "url": "https://mcp.qminder.com/mcp"
+    }
+  }
+}

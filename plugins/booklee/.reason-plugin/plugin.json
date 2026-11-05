@@ -1,0 +1,13 @@
+{
+  "name": "booklee",
+  "displayName": "Booklee",
+  "description": "Bookings and business tools.",
+  "homepage": "https://booklee.app",
+  "docs": "https://booklee.app/plugins/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "booklee": {
+      "url": "https://booklee.app/api/mcp/chatgpt"
+    }
+  }
+}

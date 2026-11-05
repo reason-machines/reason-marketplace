@@ -1,0 +1,13 @@
+{
+  "name": "daysync",
+  "displayName": "Daysync: Tour Manager",
+  "description": "Run your tour from chat.",
+  "homepage": "https://daysync.com",
+  "docs": "https://daysync.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "daysync": {
+      "url": "https://mcp.daysync.com/mcp"
+    }
+  }
+}

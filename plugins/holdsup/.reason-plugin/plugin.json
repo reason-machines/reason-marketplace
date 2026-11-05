@@ -1,0 +1,13 @@
+{
+  "name": "holdsup",
+  "displayName": "HoldsUp",
+  "description": "Podcast claims vs the research.",
+  "homepage": "https://holdsup.app",
+  "docs": "https://holdsup.app",
+  "auth": "none",
+  "mcpServers": {
+    "holdsup": {
+      "url": "https://holdsup.app/mcp"
+    }
+  }
+}

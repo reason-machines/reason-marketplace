@@ -1,0 +1,13 @@
+{
+  "name": "translations-universe",
+  "displayName": "Translations Universe",
+  "description": "Translation service quotes.",
+  "homepage": "https://www.translationsuniverse.com",
+  "docs": "https://www.translationsuniverse.com",
+  "auth": "none",
+  "mcpServers": {
+    "translations-universe": {
+      "url": "https://mcp.translationsuniverse.com/mcp"
+    }
+  }
+}

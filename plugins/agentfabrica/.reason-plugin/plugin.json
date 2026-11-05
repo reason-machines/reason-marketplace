@@ -1,0 +1,13 @@
+{
+  "name": "agentfabrica",
+  "displayName": "AgentFabrica",
+  "description": "Draft posts, check approvals.",
+  "homepage": "https://agentfabrica.com/en",
+  "docs": "https://agentfabrica.com/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentfabrica": {
+      "url": "https://agentfabrica.com/api/mcp"
+    }
+  }
+}

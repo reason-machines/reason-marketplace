@@ -1,0 +1,13 @@
+{
+  "name": "goodbyematrix-residency-index",
+  "displayName": "GoodbyeMatrix Residency Index",
+  "description": "Residency & second passports.",
+  "homepage": "https://ai.goodbyematrix.com/cbi/api/agent/v1/docs#index-en",
+  "docs": "https://ai.goodbyematrix.com/cbi/api/agent/v1/docs#index-en",
+  "auth": "none",
+  "mcpServers": {
+    "goodbyematrix-residency-index": {
+      "url": "https://ai.goodbyematrix.com/cbi/api/agent/v1/residency-index/mcp"
+    }
+  }
+}

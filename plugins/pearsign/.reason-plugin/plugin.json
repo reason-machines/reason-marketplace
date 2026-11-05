@@ -1,0 +1,13 @@
+{
+  "name": "pearsign",
+  "displayName": "PearSign",
+  "description": "Sign PDFs and get signatures.",
+  "homepage": "https://pearsign.com",
+  "docs": "https://pearsign.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "pearsign": {
+      "url": "https://pearsign.com/api/mcp"
+    }
+  }
+}

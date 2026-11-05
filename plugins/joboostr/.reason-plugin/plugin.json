@@ -1,0 +1,13 @@
+{
+  "name": "joboostr",
+  "displayName": "Joboostr",
+  "description": "Find jobs with Joboostr.",
+  "homepage": "https://www.joboostr.com/en/jobs",
+  "docs": "https://www.joboostr.com/en/jobs",
+  "auth": "oauth",
+  "mcpServers": {
+    "joboostr": {
+      "url": "https://mcp.joboostr.com/mcp"
+    }
+  }
+}

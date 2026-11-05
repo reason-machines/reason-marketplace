@@ -1,0 +1,13 @@
+{
+  "name": "the-chute",
+  "displayName": "The Chute",
+  "description": "Cattle and ranch records.",
+  "homepage": "https://www.thechute.app/",
+  "docs": "https://thechute.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "the-chute": {
+      "url": "https://www.thechute.app/api/mcp"
+    }
+  }
+}

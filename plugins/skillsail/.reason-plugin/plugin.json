@@ -1,0 +1,13 @@
+{
+  "name": "skillsail",
+  "displayName": "Skillsail",
+  "description": "Create and preview training.",
+  "homepage": "https://skillsail.com",
+  "docs": "https://skillsail.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "skillsail": {
+      "url": "https://skillsail.com/mcp"
+    }
+  }
+}

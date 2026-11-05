@@ -1,0 +1,13 @@
+{
+  "name": "hfs-research",
+  "displayName": "HFS Research",
+  "description": "Search HFS Research Website.",
+  "homepage": "https://www.hfsresearch.com/",
+  "docs": "https://www.hfsresearch.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hfs-research": {
+      "url": "https://mcp.hfsresearch.com/mcp"
+    }
+  }
+}

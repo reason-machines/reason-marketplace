@@ -1,0 +1,13 @@
+{
+  "name": "intellist",
+  "displayName": "Intellist",
+  "description": "Find anything in your home.",
+  "homepage": "https://intellist.app/",
+  "docs": "https://intellist.app/connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "intellist": {
+      "url": "https://intellist.app/api/mcp"
+    }
+  }
+}

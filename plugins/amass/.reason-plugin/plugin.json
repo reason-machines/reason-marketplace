@@ -1,0 +1,13 @@
+{
+  "name": "amass",
+  "displayName": "Amass",
+  "description": "Life sciences intelligence.",
+  "homepage": "https://amass.tech",
+  "docs": "https://amass.tech",
+  "auth": "oauth",
+  "mcpServers": {
+    "amass": {
+      "url": "https://mcp.amass.tech/mcp"
+    }
+  }
+}

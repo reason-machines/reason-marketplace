@@ -1,0 +1,13 @@
+{
+  "name": "china-footnotes",
+  "displayName": "China Footnotes",
+  "description": "China travel facts & tips.",
+  "homepage": "https://chinafootnotes.com",
+  "docs": "https://chinafootnotes.com",
+  "auth": "none",
+  "mcpServers": {
+    "china-footnotes": {
+      "url": "https://chinafootnotes.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mirabello-immigration",
+  "displayName": "Mirabello Immigration",
+  "description": "Citizenship and golden visas.",
+  "homepage": "https://www.mirabelloconsultancy.com",
+  "docs": "https://www.mirabelloconsultancy.com",
+  "auth": "none",
+  "mcpServers": {
+    "mirabello-immigration": {
+      "url": "https://mcp.mirabelloconsultancy.com/mcp"
+    }
+  }
+}

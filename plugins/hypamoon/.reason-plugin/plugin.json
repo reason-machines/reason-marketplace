@@ -1,0 +1,13 @@
+{
+  "name": "hypamoon",
+  "displayName": "Hypamoon",
+  "description": "Your app, live and connected.",
+  "homepage": "https://hypamoon.com",
+  "docs": "https://hypamoon.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "hypamoon": {
+      "url": "https://api.hypamoon.com/api/v1/mcp"
+    }
+  }
+}

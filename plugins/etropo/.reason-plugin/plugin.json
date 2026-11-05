@@ -1,0 +1,13 @@
+{
+  "name": "etropo",
+  "displayName": "Etropo",
+  "description": "Plan and track marketing spend.",
+  "homepage": "https://www.etropo.com/",
+  "docs": "https://www.etropo.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "etropo": {
+      "url": "https://app.etropo.com/api/mcp"
+    }
+  }
+}

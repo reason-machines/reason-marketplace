@@ -1,0 +1,13 @@
+{
+  "name": "refix",
+  "displayName": "Refix",
+  "description": "Answers from your company data.",
+  "homepage": "https://www.refix.ai/",
+  "docs": "https://www.refix.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "refix": {
+      "url": "https://mcp.refix.ai/mcp"
+    }
+  }
+}

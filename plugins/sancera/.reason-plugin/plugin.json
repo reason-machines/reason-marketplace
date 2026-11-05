@@ -1,0 +1,13 @@
+{
+  "name": "sancera",
+  "displayName": "Sancera",
+  "description": "Officiell statistik med källa.",
+  "homepage": "https://sancera.ai",
+  "docs": "https://sancera.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "sancera": {
+      "url": "https://mcp.sancera.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "table12",
+  "displayName": "Table12",
+  "description": "Find and book a table.",
+  "homepage": "https://table12.com",
+  "docs": "https://table12.com",
+  "auth": "none",
+  "mcpServers": {
+    "table12": {
+      "url": "https://table12.com/mcp"
+    }
+  }
+}

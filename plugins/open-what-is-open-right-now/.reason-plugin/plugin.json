@@ -1,0 +1,13 @@
+{
+  "name": "open-what-is-open-right-now",
+  "displayName": "OPEN - what is open right now",
+  "description": "See what's open right now.",
+  "homepage": "https://openow.app",
+  "docs": "https://openow.app",
+  "auth": "none",
+  "mcpServers": {
+    "open-what-is-open-right-now": {
+      "url": "https://mcp.openow.app/mcp"
+    }
+  }
+}

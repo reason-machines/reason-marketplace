@@ -1,0 +1,13 @@
+{
+  "name": "swigs-cloud",
+  "displayName": "Swigs Cloud",
+  "description": "Deploy and host in Switzerland.",
+  "homepage": "https://swigs.cloud",
+  "docs": "https://swigs.cloud/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "swigs-cloud": {
+      "url": "https://swigs.cloud/api/mcp"
+    }
+  }
+}

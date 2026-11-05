@@ -1,0 +1,13 @@
+{
+  "name": "settle-group-decisions",
+  "displayName": "Settle - Group Decisions",
+  "description": "Quick group votes, settled.",
+  "homepage": "https://settle.ink/",
+  "docs": "https://settle.ink/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "settle-group-decisions": {
+      "url": "https://settle.ink/api/mcp"
+    }
+  }
+}

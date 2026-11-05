@@ -1,0 +1,13 @@
+{
+  "name": "kreatoai",
+  "displayName": "Kreatoai",
+  "description": "Publish to all your socials.",
+  "homepage": "https://kreatoai.com",
+  "docs": "https://kreatoai.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "kreatoai": {
+      "url": "https://api.kreatoai.com/mcp"
+    }
+  }
+}

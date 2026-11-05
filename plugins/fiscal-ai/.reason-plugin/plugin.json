@@ -1,0 +1,13 @@
+{
+  "name": "fiscal-ai",
+  "displayName": "Fiscal.ai",
+  "description": "Research public companies.",
+  "homepage": "https://fiscal.ai",
+  "docs": "https://docs.fiscal.ai/docs/guides/mcp-integration",
+  "auth": "oauth",
+  "mcpServers": {
+    "fiscal-ai": {
+      "url": "https://api.fiscal.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "coool",
+  "displayName": "COooL",
+  "description": "Real-Time Public Transport.",
+  "homepage": "https://www.getcoool.app",
+  "docs": "https://www.getcoool.app",
+  "auth": "none",
+  "mcpServers": {
+    "coool": {
+      "url": "https://getcoool.app/mcp"
+    }
+  }
+}

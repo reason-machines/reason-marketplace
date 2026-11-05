@@ -1,0 +1,13 @@
+{
+  "name": "leaseswap",
+  "displayName": "Buzzedin",
+  "description": "Find your next NYC apartment.",
+  "homepage": "https://buzzedin.com/",
+  "docs": "https://buzzedin.com/",
+  "auth": "none",
+  "mcpServers": {
+    "leaseswap": {
+      "url": "https://buzzedin.com/mcp"
+    }
+  }
+}

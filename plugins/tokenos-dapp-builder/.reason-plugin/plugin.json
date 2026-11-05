@@ -1,0 +1,13 @@
+{
+  "name": "tokenos-dapp-builder",
+  "displayName": "TokenOS dApp Builder",
+  "description": "Idea to buildable dApp spec.",
+  "homepage": "https://tokenos.ai/chatgpt-apps/dapp-builder",
+  "docs": "https://tokenos.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "tokenos-dapp-builder": {
+      "url": "https://tokenos.ai/api/mcp/apps/dapp-builder"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shipday",
+  "displayName": "Shipday",
+  "description": "Automated Local Delivery.",
+  "homepage": "https://www.shipday.com/",
+  "docs": "https://www.shipday.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "shipday": {
+      "url": "https://api.shipday.com/v2/mcp"
+    }
+  }
+}

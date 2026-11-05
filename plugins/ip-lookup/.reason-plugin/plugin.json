@@ -1,0 +1,13 @@
+{
+  "name": "ip-lookup",
+  "displayName": "Zovo IP Lookup",
+  "description": "Who owns an IP address?",
+  "homepage": "https://ip-lookup.zovo.one",
+  "docs": "https://ip-lookup.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "ip-lookup": {
+      "url": "https://ip-lookup.zovo.one/mcp"
+    }
+  }
+}

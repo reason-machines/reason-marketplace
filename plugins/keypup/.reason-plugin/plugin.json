@@ -1,0 +1,13 @@
+{
+  "name": "keypup",
+  "displayName": "Keypup",
+  "description": "Engineering Analytics.",
+  "homepage": "https://www.keypup.io",
+  "docs": "https://keypup.io/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "keypup": {
+      "url": "https://hq.keypup.io/mcp"
+    }
+  }
+}

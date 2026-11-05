@@ -1,0 +1,13 @@
+{
+  "name": "timecamp",
+  "displayName": "TimeCamp",
+  "description": "Track time and projects.",
+  "homepage": "https://www.timecamp.com",
+  "docs": "https://www.timecamp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "timecamp": {
+      "url": "https://mcp.timecamp.com/mcp"
+    }
+  }
+}

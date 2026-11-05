@@ -1,0 +1,13 @@
+{
+  "name": "learn-to-invest-with-aj-bell",
+  "displayName": "Learn to invest with AJ Bell",
+  "description": "Investing explained simply.",
+  "homepage": "https://www.ajbell.co.uk/learn",
+  "docs": "https://tedix.dev/apps/learn-to-invest-with-aj-bell/",
+  "auth": "none",
+  "mcpServers": {
+    "learn-to-invest-with-aj-bell": {
+      "url": "https://public-mcps.ajbpoc.co.uk/learn-to-invest/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "panda-tierversicherung",
+  "displayName": "PANDA Tierversicherung",
+  "description": "Non-binding quote estimator.",
+  "homepage": "https://panda-tierversicherung.com/",
+  "docs": "https://tedix.dev/apps/panda-tierversicherung/",
+  "auth": "none",
+  "mcpServers": {
+    "panda-tierversicherung": {
+      "url": "https://panda-gpt-app-mcp-app-ghcwgtgth0bjh3bz.canadacentral-01.azurewebsites.net/mcp"
+    }
+  }
+}

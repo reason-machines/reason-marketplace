@@ -1,0 +1,13 @@
+{
+  "name": "pegel-jobs",
+  "displayName": "Pegel: Jobs from the source",
+  "description": "Berlin, Hamburg & Munich roles.",
+  "homepage": "https://pegel.berlin",
+  "docs": "https://pegel.berlin",
+  "auth": "none",
+  "mcpServers": {
+    "pegel-jobs": {
+      "url": "https://pegel.berlin/api/mcp"
+    }
+  }
+}

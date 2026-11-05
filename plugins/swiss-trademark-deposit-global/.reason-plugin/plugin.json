@@ -1,0 +1,13 @@
+{
+  "name": "swiss-trademark-deposit-global",
+  "displayName": "Swiss Trademark Deposit",
+  "description": "Prepare Swiss trademark work.",
+  "homepage": "https://trademarks.ogram.swiss/",
+  "docs": "https://trademarks.ogram.swiss/",
+  "auth": "none",
+  "mcpServers": {
+    "swiss-trademark-deposit-global": {
+      "url": "https://trademarks.ogram.swiss/mcp"
+    }
+  }
+}

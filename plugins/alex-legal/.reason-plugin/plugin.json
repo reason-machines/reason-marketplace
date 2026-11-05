@@ -1,0 +1,13 @@
+{
+  "name": "alex-legal",
+  "displayName": "Alex Legal",
+  "description": "Company records and documents.",
+  "homepage": "https://alexlegal.fr",
+  "docs": "https://alexlegal.fr",
+  "auth": "oauth",
+  "mcpServers": {
+    "alex-legal": {
+      "url": "https://mcp.alexlegal.fr/mcp"
+    }
+  }
+}

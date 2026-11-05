@@ -1,0 +1,13 @@
+{
+  "name": "linkupapi",
+  "displayName": "LinkupAPI",
+  "description": "LinkedIn & email outreach.",
+  "homepage": "https://linkupapi.com/",
+  "docs": "https://linkupapi.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "linkupapi": {
+      "url": "https://mcp.linkupapi.com/mcp"
+    }
+  }
+}

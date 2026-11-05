@@ -1,0 +1,13 @@
+{
+  "name": "kadenzo",
+  "displayName": "Kadenzo",
+  "description": "Schedule social media posts.",
+  "homepage": "https://kadenzo.app",
+  "docs": "https://kadenzo.app/features/api",
+  "auth": "oauth",
+  "mcpServers": {
+    "kadenzo": {
+      "url": "https://studio.kadenzo.app/api/mcp"
+    }
+  }
+}

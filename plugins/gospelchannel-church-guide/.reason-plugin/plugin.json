@@ -1,0 +1,13 @@
+{
+  "name": "gospelchannel-church-guide",
+  "displayName": "GospelChannel Church Guide",
+  "description": "Find churches near you.",
+  "homepage": "https://gospelchannel.com",
+  "docs": "https://gospelchannel.com",
+  "auth": "none",
+  "mcpServers": {
+    "gospelchannel-church-guide": {
+      "url": "https://gospelchannel.com/mcp"
+    }
+  }
+}

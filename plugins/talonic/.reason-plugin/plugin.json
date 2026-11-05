@@ -1,0 +1,13 @@
+{
+  "name": "talonic",
+  "displayName": "Talonic",
+  "description": "Extract data and talk to docs.",
+  "homepage": "https://talonic.com/",
+  "docs": "https://talonic.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "talonic": {
+      "url": "https://mcp.talonic.com/mcp"
+    }
+  }
+}

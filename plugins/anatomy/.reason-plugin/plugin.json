@@ -1,0 +1,13 @@
+{
+  "name": "anatomy",
+  "displayName": "Anatomy",
+  "description": "See human anatomy in 3D.",
+  "homepage": "https://anatomy.autark.sh",
+  "docs": "https://anatomy.autark.sh",
+  "auth": "none",
+  "mcpServers": {
+    "anatomy": {
+      "url": "https://anatomy.autark.sh/mcp"
+    }
+  }
+}

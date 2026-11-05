@@ -1,0 +1,13 @@
+{
+  "name": "insurancemarket",
+  "displayName": "Insurancemarket.ae",
+  "description": "Car Insurance UAE.",
+  "homepage": "https://insurancemarket.ae",
+  "docs": "https://insurancemarket.ae",
+  "auth": "none",
+  "mcpServers": {
+    "insurancemarket": {
+      "url": "https://mcp.insurancemarket.ae/mcp"
+    }
+  }
+}

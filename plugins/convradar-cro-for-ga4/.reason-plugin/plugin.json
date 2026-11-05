@@ -1,0 +1,13 @@
+{
+  "name": "convradar-cro-for-ga4",
+  "displayName": "ConvRadar: CRO for GA4",
+  "description": "Audit your GA4 conversion rate.",
+  "homepage": "https://convradar.com/",
+  "docs": "https://convradar.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "convradar-cro-for-ga4": {
+      "url": "https://mcp.convradar.com/mcp"
+    }
+  }
+}

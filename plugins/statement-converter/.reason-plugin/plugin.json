@@ -1,0 +1,13 @@
+{
+  "name": "statement-converter",
+  "displayName": "Tallyproof Statement Converter",
+  "description": "Bank statement PDF to XLSX/CSV.",
+  "homepage": "https://statement-converter.zovo.one",
+  "docs": "https://statement-converter.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "statement-converter": {
+      "url": "https://statement-converter.zovo.one/mcp"
+    }
+  }
+}

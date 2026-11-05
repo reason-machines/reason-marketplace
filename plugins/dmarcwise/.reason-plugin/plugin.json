@@ -1,0 +1,13 @@
+{
+  "name": "dmarcwise",
+  "displayName": "DMARCwise",
+  "description": "Monitor email authentication.",
+  "homepage": "https://dmarcwise.io",
+  "docs": "https://dmarcwise.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "dmarcwise": {
+      "url": "https://mcp.dmarcwise.io/mcp"
+    }
+  }
+}

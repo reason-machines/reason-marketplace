@@ -1,0 +1,13 @@
+{
+  "name": "vibeday",
+  "displayName": "VibeDay",
+  "description": "Plan and publish social posts.",
+  "homepage": "https://vibeday.com",
+  "docs": "https://vibeday.com/social-media-mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "vibeday": {
+      "url": "https://vibeday.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "endless-u",
+  "displayName": "Endless U",
+  "description": "Structured learning in Chat.",
+  "homepage": "https://www.endlessu.ai",
+  "docs": "https://www.endlessu.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "endless-u": {
+      "url": "https://mcp.endlessu.ai/mcp"
+    }
+  }
+}

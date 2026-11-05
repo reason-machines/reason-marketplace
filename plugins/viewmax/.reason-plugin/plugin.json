@@ -1,0 +1,13 @@
+{
+  "name": "viewmax",
+  "displayName": "ViewMax",
+  "description": "Create video, images and audio.",
+  "homepage": "https://viewmax.studio",
+  "docs": "https://viewmax.studio/",
+  "auth": "none",
+  "mcpServers": {
+    "viewmax": {
+      "url": "https://viewmax.studio/api/mcp"
+    }
+  }
+}

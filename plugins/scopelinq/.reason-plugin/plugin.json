@@ -1,0 +1,13 @@
+{
+  "name": "scopelinq",
+  "displayName": "ScopeLinq",
+  "description": "What did we actually agree to?",
+  "homepage": "https://scopelinq.com",
+  "docs": "https://scopelinq.com",
+  "auth": "none",
+  "mcpServers": {
+    "scopelinq": {
+      "url": "https://mcp.scopelinq.com/mcp"
+    }
+  }
+}

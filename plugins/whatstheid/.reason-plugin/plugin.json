@@ -1,0 +1,13 @@
+{
+  "name": "whatstheid",
+  "displayName": "WhatsTheID",
+  "description": "DJ set tracklists from YouTube.",
+  "homepage": "https://whatstheid.com",
+  "docs": "https://whatstheid.com",
+  "auth": "none",
+  "mcpServers": {
+    "whatstheid": {
+      "url": "https://whatstheid.com/mcp"
+    }
+  }
+}

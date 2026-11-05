@@ -1,0 +1,13 @@
+{
+  "name": "notesix",
+  "displayName": "Notesix",
+  "description": "Manage calls and integrations.",
+  "homepage": "https://notesix.ai",
+  "docs": "https://notesix.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "notesix": {
+      "url": "https://mcp.notesix.ai/mcp"
+    }
+  }
+}

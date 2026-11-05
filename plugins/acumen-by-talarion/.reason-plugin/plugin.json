@@ -1,0 +1,13 @@
+{
+  "name": "acumen-by-talarion",
+  "displayName": "Acumen by Talarion",
+  "description": "Keep your AI up to date.",
+  "homepage": "https://talarion.com",
+  "docs": "https://talarion.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "acumen-by-talarion": {
+      "url": "https://mcp.talarion.com/mcp"
+    }
+  }
+}

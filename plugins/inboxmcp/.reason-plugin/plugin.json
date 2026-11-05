@@ -1,0 +1,13 @@
+{
+  "name": "inboxmcp",
+  "displayName": "inboxmcp",
+  "description": "Your email, your agent.",
+  "homepage": "https://inboxmcp.ai",
+  "docs": "https://inboxmcp.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "inboxmcp": {
+      "url": "https://app.inboxmcp.ai/mcp"
+    }
+  }
+}

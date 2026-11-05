@@ -1,0 +1,106 @@
+{
+  "name": "tanstack",
+  "displayName": "TanStack",
+  "description": "Build with the TanStack stack.",
+  "homepage": "https://tanstack.com",
+  "docs": "https://tanstack.com",
+  "auth": "none",
+  "mcpServers": {
+    "tanstack": {
+      "url": "https://mcp.tanstack.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "tanstack-ai",
+      "description": "Introduce, add, debug, or migrate TanStack AI for provider adapters, streaming, tools, and typed AI application flows.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-ai",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-ai/skills/tanstack-ai"
+    },
+    {
+      "name": "tanstack-cli",
+      "description": "Introduce, add, debug, or migrate TanStack CLI for create TanStack projects and inspect starter capabilities.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-cli",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-cli/skills/tanstack-cli"
+    },
+    {
+      "name": "tanstack-config",
+      "description": "Introduce, add, debug, or migrate TanStack Config for shared configuration for maintaining and publishing JavaScript packages.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-config",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-config/skills/tanstack-config"
+    },
+    {
+      "name": "tanstack-db",
+      "description": "Introduce, add, debug, or migrate TanStack DB for reactive collections, live queries, and optimistic local updates.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-db",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-db/skills/tanstack-db"
+    },
+    {
+      "name": "tanstack-devtools",
+      "description": "Introduce, add, debug, or migrate TanStack Devtools for a shared development panel for library inspectors and custom plugins.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-devtools",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-devtools/skills/tanstack-devtools"
+    },
+    {
+      "name": "tanstack-form",
+      "description": "Introduce, add, debug, or migrate TanStack Form for typed form state, field validation, and submission.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-form",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-form/skills/tanstack-form"
+    },
+    {
+      "name": "tanstack-pacer",
+      "description": "Introduce, add, debug, or migrate TanStack Pacer for debouncing, throttling, rate limiting, batching, and queues.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-pacer",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-pacer/skills/tanstack-pacer"
+    },
+    {
+      "name": "tanstack-query",
+      "description": "Introduce, add, debug, or migrate TanStack Query for cache and coordinate asynchronous server state.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-query",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-query/skills/tanstack-query"
+    },
+    {
+      "name": "tanstack-router",
+      "description": "Introduce, add, debug, or migrate TanStack Router for type-safe navigation, route loading, and URL state.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-router",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-router/skills/tanstack-router"
+    },
+    {
+      "name": "tanstack-start",
+      "description": "Introduce TanStack Start or build, extend, debug, migrate, preview, and deploy a Start application. Use for full stack React or Solid apps and existing Start projects.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-start",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-start/skills/tanstack-start"
+    },
+    {
+      "name": "tanstack-store",
+      "description": "Introduce, add, debug, or migrate TanStack Store for a small reactive core for local application state.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-store",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-store/skills/tanstack-store"
+    },
+    {
+      "name": "tanstack-table",
+      "description": "Introduce, add, debug, or migrate TanStack Table for headless row, column, and table feature logic.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-table",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-table/skills/tanstack-table"
+    },
+    {
+      "name": "tanstack-virtual",
+      "description": "Introduce, add, debug, or migrate TanStack Virtual for render only visible items in large scrollable lists or grids.",
+      "source": "tanstack-skills/tanstack-skills#6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03",
+      "skill": "tanstack-virtual",
+      "url": "https://github.com/tanstack-skills/tanstack-skills/tree/6f5521ecbdfbfa3d54d335eba6c8b4df0b804c03/plugins/tanstack-virtual/skills/tanstack-virtual"
+    }
+  ]
+}

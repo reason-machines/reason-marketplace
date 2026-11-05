@@ -1,0 +1,13 @@
+{
+  "name": "speakapp",
+  "displayName": "SpeakApp",
+  "description": "Search meeting transcripts.",
+  "homepage": "https://speakapp.com",
+  "docs": "https://speakapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "speakapp": {
+      "url": "https://mcp.speakapp.com/mcp"
+    }
+  }
+}

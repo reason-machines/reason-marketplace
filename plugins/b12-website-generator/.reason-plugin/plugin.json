@@ -1,0 +1,13 @@
+{
+  "name": "b12-website-generator",
+  "displayName": "B12 Website Generator",
+  "description": "Create a website in seconds.",
+  "homepage": "https://www.b12.io",
+  "docs": "https://www.b12.io",
+  "auth": "none",
+  "mcpServers": {
+    "b12-website-generator": {
+      "url": "https://mcp.b12.io/mcp"
+    }
+  }
+}

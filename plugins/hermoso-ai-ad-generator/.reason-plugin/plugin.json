@@ -1,0 +1,13 @@
+{
+  "name": "hermoso-ai-ad-generator",
+  "displayName": "Hermoso: AI Ad Generator",
+  "description": "Video ads, image ads & posts.",
+  "homepage": "https://hermoso.ai",
+  "docs": "https://hermoso.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hermoso-ai-ad-generator": {
+      "url": "https://app.hermoso.ai/mcp"
+    }
+  }
+}

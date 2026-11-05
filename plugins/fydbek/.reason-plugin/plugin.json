@@ -1,0 +1,13 @@
+{
+  "name": "fydbek",
+  "displayName": "fydbek",
+  "description": "Website feedback for agents.",
+  "homepage": "https://fydbek.com",
+  "docs": "https://fydbek.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fydbek": {
+      "url": "https://mcp.fydbek.com/mcp"
+    }
+  }
+}

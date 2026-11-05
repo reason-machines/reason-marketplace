@@ -1,0 +1,13 @@
+{
+  "name": "compi",
+  "displayName": "Compi",
+  "description": "Trip planner & packing lists.",
+  "homepage": "https://heycompi.com",
+  "docs": "https://heycompi.com/help/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "compi": {
+      "url": "https://heycompi.com/api/mcp"
+    }
+  }
+}

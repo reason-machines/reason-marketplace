@@ -1,0 +1,13 @@
+{
+  "name": "sequence-training",
+  "displayName": "Sequence Training",
+  "description": "Explore your climbing training.",
+  "homepage": "https://docs.sequence-app.com/help/integrations/mcp-connector",
+  "docs": "https://docs.sequence-app.com/help/integrations/mcp-connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "sequence-training": {
+      "url": "https://dashboard.sequence-app.com/mcp"
+    }
+  }
+}

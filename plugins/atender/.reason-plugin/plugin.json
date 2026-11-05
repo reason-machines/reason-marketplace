@@ -1,0 +1,13 @@
+{
+  "name": "atender",
+  "displayName": "Atender",
+  "description": "Support answers and staffing.",
+  "homepage": "https://www.atender.com",
+  "docs": "https://www.atender.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "atender": {
+      "url": "https://v3.atender.com/api/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "travcozy",
+  "displayName": "TravCozy",
+  "description": "All your trips in one place.",
+  "homepage": "https://travcozy.com",
+  "docs": "https://travcozy.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "travcozy": {
+      "url": "https://travcozy.com/v1/mcp-server"
+    }
+  }
+}

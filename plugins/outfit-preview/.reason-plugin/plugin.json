@@ -1,0 +1,13 @@
+{
+  "name": "outfit-preview",
+  "displayName": "Outfit Preview: Virtual Try-On",
+  "description": "Try clothes on your own photo.",
+  "homepage": "https://firemoon.studio/outfit-preview",
+  "docs": "https://firemoon.studio/outfit-preview",
+  "auth": "oauth",
+  "mcpServers": {
+    "outfit-preview": {
+      "url": "https://mcp.firemoon.studio/mcp"
+    }
+  }
+}

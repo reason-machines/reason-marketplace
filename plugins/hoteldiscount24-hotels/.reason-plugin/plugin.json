@@ -1,0 +1,13 @@
+{
+  "name": "hoteldiscount24-hotels",
+  "displayName": "hoteldiscount24 Hotels",
+  "description": "Hotels by amenity, worldwide.",
+  "homepage": "https://www.hoteldiscount24.com/",
+  "docs": "https://hoteldiscount24.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "hoteldiscount24-hotels": {
+      "url": "https://www.hoteldiscount24.com/mcp"
+    }
+  }
+}

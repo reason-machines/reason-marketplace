@@ -1,0 +1,13 @@
+{
+  "name": "steadily",
+  "displayName": "Steadily",
+  "description": "Get landlord insurance quotes.",
+  "homepage": "https://www.steadily.com",
+  "docs": "https://www.steadily.com",
+  "auth": "none",
+  "mcpServers": {
+    "steadily": {
+      "url": "https://mcp.steadily.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tranmere-web",
+  "displayName": "Tranmere-Web",
+  "description": "Explore Rovers history.",
+  "homepage": "https://www.tranmere-web.com",
+  "docs": "https://www.tranmere-web.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "tranmere-web": {
+      "url": "https://mcp.tranmere-web.com/mcp"
+    }
+  }
+}

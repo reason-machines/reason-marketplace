@@ -1,0 +1,13 @@
+{
+  "name": "vcomply",
+  "displayName": "VComply",
+  "description": "Manage GRC work in VComply.",
+  "homepage": "https://www.v-comply.com/",
+  "docs": "https://www.v-comply.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "vcomply": {
+      "url": "https://mcp.v-comply.com/mcp"
+    }
+  }
+}

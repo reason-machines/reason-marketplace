@@ -1,0 +1,13 @@
+{
+  "name": "reevl",
+  "displayName": "Reevl",
+  "description": "Korea real transaction prices.",
+  "homepage": "https://reevl.co.kr",
+  "docs": "https://reevl.co.kr/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "reevl": {
+      "url": "https://reevl.co.kr/api/mcp"
+    }
+  }
+}

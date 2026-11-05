@@ -1,0 +1,13 @@
+{
+  "name": "fluenticons",
+  "displayName": "Fluenticons",
+  "description": "Fluent UI icon search for code.",
+  "homepage": "https://fluenticons.co/ai/",
+  "docs": "https://fluenticons.co/ai/",
+  "auth": "none",
+  "mcpServers": {
+    "fluenticons": {
+      "url": "https://fluenticons.co/mcp"
+    }
+  }
+}

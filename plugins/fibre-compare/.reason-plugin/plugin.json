@@ -1,0 +1,13 @@
+{
+  "name": "fibre-compare",
+  "displayName": "Fibre Compare",
+  "description": "UK fibre broadband checker.",
+  "homepage": "https://fibrecompare.com",
+  "docs": "https://fibrecompare.com",
+  "auth": "none",
+  "mcpServers": {
+    "fibre-compare": {
+      "url": "https://fibrecompare.com/mcp"
+    }
+  }
+}

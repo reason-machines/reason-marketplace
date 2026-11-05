@@ -1,0 +1,13 @@
+{
+  "name": "trade-chart",
+  "displayName": "Trade Chart",
+  "description": "Candlestick price chart.",
+  "homepage": "https://tools.openkrill.app/",
+  "docs": "https://tools.openkrill.app/",
+  "auth": "none",
+  "mcpServers": {
+    "trade-chart": {
+      "url": "https://chart.openkrill.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sytex",
+  "displayName": "Sytex",
+  "description": "Automate Projects End-to-End.",
+  "homepage": "https://sytex.io",
+  "docs": "https://sytex.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "sytex": {
+      "url": "https://mcp.sytex.io/mcp"
+    }
+  }
+}

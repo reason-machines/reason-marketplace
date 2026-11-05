@@ -1,0 +1,13 @@
+{
+  "name": "vybit",
+  "displayName": "Vybit Push Notifications",
+  "description": "Custom sound notifications.",
+  "homepage": "https://www.vybit.net",
+  "docs": "https://www.vybit.net",
+  "auth": "oauth",
+  "mcpServers": {
+    "vybit": {
+      "url": "https://api.vybit.net/v1/mcp"
+    }
+  }
+}

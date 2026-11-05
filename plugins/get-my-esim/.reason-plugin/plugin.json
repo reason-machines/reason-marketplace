@@ -1,0 +1,13 @@
+{
+  "name": "get-my-esim",
+  "displayName": "Get My eSIM",
+  "description": "Compare travel eSIMs.",
+  "homepage": "https://www.getmyesim.com/",
+  "docs": "https://www.getmyesim.com/",
+  "auth": "none",
+  "mcpServers": {
+    "get-my-esim": {
+      "url": "https://mcp.getmyesim.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "briefcase",
+  "displayName": "Briefcase",
+  "description": "AI-native bookkeeping & ledger.",
+  "homepage": "https://briefcase.so",
+  "docs": "https://briefcase.so/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "briefcase": {
+      "url": "https://api.briefcase.so/mcp"
+    }
+  }
+}

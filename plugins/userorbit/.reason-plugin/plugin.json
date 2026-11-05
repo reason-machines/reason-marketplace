@@ -1,0 +1,13 @@
+{
+  "name": "userorbit",
+  "displayName": "Userorbit",
+  "description": "Feedback, support & insights.",
+  "homepage": "https://userorbit.com/help/en/userorbit-mcp-server",
+  "docs": "https://userorbit.com/help/en/userorbit-mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "userorbit": {
+      "url": "https://api.userorbit.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "caly",
+  "displayName": "Caly",
+  "description": "Book and manage meetings.",
+  "homepage": "https://trycaly.com",
+  "docs": "https://trycaly.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "caly": {
+      "url": "https://mcp.trycaly.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "booking-meetings",
+      "description": "Books a meeting in Caly on one of the user's event types: finds a free slot, collects the attendee's details and the event type's required booking questions, confirms with the user, then creates the booking so Caly sends the invites. Use when the user asks 'book a call with Sam on Tuesday at 3', 'sc",
+      "source": "devinosolutions/mcp-servers#1ce24b317c314944f312c962800f7305fc9b1ab0",
+      "skill": "booking-meetings",
+      "url": "https://github.com/devinosolutions/mcp-servers/tree/1ce24b317c314944f312c962800f7305fc9b1ab0/agent-plugins/caly/skills/booking-meetings"
+    },
+    {
+      "name": "finding-meeting-times",
+      "description": "Finds open times to meet in Caly: lists the user's event types, reads their working-hours schedules, and returns the free slots for an event type over a date range, in the right time zone. Use when the user asks 'when am I free', 'find a time for a 30 minute call next week', 'what slots do I have on",
+      "source": "devinosolutions/mcp-servers#1ce24b317c314944f312c962800f7305fc9b1ab0",
+      "skill": "finding-meeting-times",
+      "url": "https://github.com/devinosolutions/mcp-servers/tree/1ce24b317c314944f312c962800f7305fc9b1ab0/agent-plugins/caly/skills/finding-meeting-times"
+    },
+    {
+      "name": "managing-bookings",
+      "description": "Reviews and changes the user's Caly bookings: lists upcoming, past, cancelled or unconfirmed meetings, looks one up by attendee or time, reschedules it to a free slot, or cancels it through Caly's two-step confirmation. Use when the user asks 'what meetings do I have tomorrow', 'show my bookings wit",
+      "source": "devinosolutions/mcp-servers#1ce24b317c314944f312c962800f7305fc9b1ab0",
+      "skill": "managing-bookings",
+      "url": "https://github.com/devinosolutions/mcp-servers/tree/1ce24b317c314944f312c962800f7305fc9b1ab0/agent-plugins/caly/skills/managing-bookings"
+    }
+  ]
+}

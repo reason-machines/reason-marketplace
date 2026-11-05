@@ -1,0 +1,13 @@
+{
+  "name": "traviz-planner",
+  "displayName": "Traviz",
+  "description": "Plan trips. See them clearly.",
+  "homepage": "https://traviz-plugin.ahi-lab.com",
+  "docs": "https://traviz-plugin.ahi-lab.com",
+  "auth": "none",
+  "mcpServers": {
+    "traviz-planner": {
+      "url": "https://traviz-plugin.ahi-lab.com/mcp"
+    }
+  }
+}

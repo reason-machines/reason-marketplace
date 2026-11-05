@@ -1,0 +1,13 @@
+{
+  "name": "officehubb",
+  "displayName": "OfficeHubb",
+  "description": "Quotes from local agencies.",
+  "homepage": "https://www.officehubb.net/docs/ai-access",
+  "docs": "https://www.officehubb.net/docs/ai-access",
+  "auth": "none",
+  "mcpServers": {
+    "officehubb": {
+      "url": "https://www.officehubb.net/api/mcp"
+    }
+  }
+}

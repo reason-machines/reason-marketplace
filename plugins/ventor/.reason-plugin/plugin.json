@@ -1,0 +1,13 @@
+{
+  "name": "ventor",
+  "displayName": "Ventor",
+  "description": "AI sales and support.",
+  "homepage": "https://www.ventorchat.com",
+  "docs": "https://www.ventorchat.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "ventor": {
+      "url": "https://api.ventorchat.com/api/mcp"
+    }
+  }
+}

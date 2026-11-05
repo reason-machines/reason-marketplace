@@ -1,0 +1,13 @@
+{
+  "name": "savvy",
+  "displayName": "Savvy",
+  "description": "Savant for Finance AI.",
+  "homepage": "https://www.savantlabs.io",
+  "docs": "https://tedix.dev/apps/savvy/",
+  "auth": "oauth",
+  "mcpServers": {
+    "savvy": {
+      "url": "https://savvy.savantlabs.io/mcp?surface=plugin"
+    }
+  }
+}

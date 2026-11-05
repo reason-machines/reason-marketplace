@@ -1,0 +1,13 @@
+{
+  "name": "undermind",
+  "displayName": "Undermind",
+  "description": "Find and read research papers.",
+  "homepage": "https://undermind.ai",
+  "docs": "https://undermind.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "undermind": {
+      "url": "https://mcp.undermind.ai/mcp"
+    }
+  }
+}

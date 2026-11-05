@@ -1,0 +1,13 @@
+{
+  "name": "talentin-ai",
+  "displayName": "Talentin AI",
+  "description": "Source match & hire candidates.",
+  "homepage": "https://www.talentin.ai",
+  "docs": "https://www.talentin.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "talentin-ai": {
+      "url": "https://mcp.talentin.ai/mcp"
+    }
+  }
+}

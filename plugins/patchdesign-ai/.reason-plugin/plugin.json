@@ -1,0 +1,13 @@
+{
+  "name": "patchdesign-ai",
+  "displayName": "PatchDesign.AI",
+  "description": "Design custom patches.",
+  "homepage": "https://patchdesign.ai",
+  "docs": "https://patchdesign.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "patchdesign-ai": {
+      "url": "https://patchdesign.ai/api/mcp"
+    }
+  }
+}

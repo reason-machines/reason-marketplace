@@ -1,0 +1,13 @@
+{
+  "name": "costkits-procedure-costs",
+  "displayName": "CostKits Procedure Costs",
+  "description": "Typical US procedure prices.",
+  "homepage": "https://www.costkits.com",
+  "docs": "https://www.costkits.com",
+  "auth": "none",
+  "mcpServers": {
+    "costkits-procedure-costs": {
+      "url": "https://mcp.costkits.com/mcp"
+    }
+  }
+}

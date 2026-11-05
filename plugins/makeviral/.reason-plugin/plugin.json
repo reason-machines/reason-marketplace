@@ -1,0 +1,13 @@
+{
+  "name": "makeviral",
+  "displayName": "MakeViral",
+  "description": "Viral trends and AI videos.",
+  "homepage": "https://www.makeviral.ai",
+  "docs": "https://www.makeviral.ai",
+  "auth": "none",
+  "mcpServers": {
+    "makeviral": {
+      "url": "https://makeviral.ai/mcp"
+    }
+  }
+}

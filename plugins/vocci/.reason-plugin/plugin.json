@@ -1,0 +1,13 @@
+{
+  "name": "vocci",
+  "displayName": "Vocci",
+  "description": "Access Vocci AI Ring.",
+  "homepage": "https://vocci.ai",
+  "docs": "https://vocci.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "vocci": {
+      "url": "https://mcp.vocci.ai/mcp"
+    }
+  }
+}

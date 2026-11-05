@@ -1,0 +1,13 @@
+{
+  "name": "haulest",
+  "displayName": "Haulest",
+  "description": "Plan a move and vet movers.",
+  "homepage": "https://haulest.com",
+  "docs": "https://haulest.com",
+  "auth": "none",
+  "mcpServers": {
+    "haulest": {
+      "url": "https://haulest.com/mcp"
+    }
+  }
+}

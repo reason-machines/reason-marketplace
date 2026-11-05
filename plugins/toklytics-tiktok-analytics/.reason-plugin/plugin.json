@@ -1,0 +1,13 @@
+{
+  "name": "toklytics-tiktok-analytics",
+  "displayName": "Toklytics",
+  "description": "Live TikTok analytics.",
+  "homepage": "https://toklytics.app",
+  "docs": "https://toklytics.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "toklytics-tiktok-analytics": {
+      "url": "https://mcp.toklytics.app/mcp"
+    }
+  }
+}

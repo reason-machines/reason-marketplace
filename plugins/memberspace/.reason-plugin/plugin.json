@@ -1,0 +1,13 @@
+{
+  "name": "memberspace",
+  "displayName": "MemberSpace",
+  "description": "Membership analytics.",
+  "homepage": "https://www.memberspace.com/",
+  "docs": "https://www.memberspace.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "memberspace": {
+      "url": "https://mcp.memberspace.com/mcp"
+    }
+  }
+}

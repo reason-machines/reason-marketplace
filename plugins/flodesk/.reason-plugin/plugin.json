@@ -1,0 +1,13 @@
+{
+  "name": "flodesk",
+  "displayName": "Flodesk",
+  "description": "Analyze your email audience.",
+  "homepage": "https://flodesk.com",
+  "docs": "https://flodesk.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "flodesk": {
+      "url": "https://mcp.flodesk.com/mcp"
+    }
+  }
+}

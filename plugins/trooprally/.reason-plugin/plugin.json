@@ -1,0 +1,13 @@
+{
+  "name": "trooprally",
+  "displayName": "TroopRally",
+  "description": "Polls, signups & appointments.",
+  "homepage": "https://trooprally.com/integrations",
+  "docs": "https://trooprally.com/integrations",
+  "auth": "oauth",
+  "mcpServers": {
+    "trooprally": {
+      "url": "https://mcp.trooprally.com/mcp"
+    }
+  }
+}

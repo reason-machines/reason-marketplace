@@ -1,0 +1,13 @@
+{
+  "name": "centre-pilotage-biz-yourself",
+  "displayName": "Centre Biz Yourself™",
+  "description": "Tes Coachs IA Biz Yourself.",
+  "homepage": "https://biz-yourself-zone-genie.round-base-41e7.workers.dev/",
+  "docs": "https://biz-yourself-zone-genie.round-base-41e7.workers.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "centre-pilotage-biz-yourself": {
+      "url": "https://biz-yourself-zone-genie.round-base-41e7.workers.dev/mcp"
+    }
+  }
+}

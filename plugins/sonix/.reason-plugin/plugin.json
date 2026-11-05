@@ -1,0 +1,13 @@
+{
+  "name": "sonix",
+  "displayName": "Sonix",
+  "description": "Use Sonix transcripts.",
+  "homepage": "https://sonix.ai",
+  "docs": "https://sonix.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "sonix": {
+      "url": "https://api.sonix.ai/mcp"
+    }
+  }
+}

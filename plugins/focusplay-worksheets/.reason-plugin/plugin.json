@@ -1,0 +1,13 @@
+{
+  "name": "focusplay-worksheets",
+  "displayName": "FocusPlay Worksheets",
+  "description": "Printable K–8 activities.",
+  "homepage": "https://focusplay.ai/worksheets",
+  "docs": "https://focusplay.ai/worksheets",
+  "auth": "none",
+  "mcpServers": {
+    "focusplay-worksheets": {
+      "url": "https://focusplay.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "word-solver",
+  "displayName": "LetterLab Word Solver",
+  "description": "Word game solver & unscrambler.",
+  "homepage": "https://word-solver.zovo.one",
+  "docs": "https://word-solver.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "word-solver": {
+      "url": "https://word-solver.zovo.one/mcp"
+    }
+  }
+}

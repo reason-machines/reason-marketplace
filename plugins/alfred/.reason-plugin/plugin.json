@@ -1,0 +1,13 @@
+{
+  "name": "alfred",
+  "displayName": "alfred_",
+  "description": "Email, calendar, and to-dos.",
+  "homepage": "https://get-alfred.ai",
+  "docs": "https://get-alfred.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "alfred": {
+      "url": "https://get-alfred.ai/api/mcp"
+    }
+  }
+}

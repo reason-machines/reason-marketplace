@@ -1,0 +1,13 @@
+{
+  "name": "pickaxe",
+  "displayName": "Pickaxe",
+  "description": "Build and manage AI agents.",
+  "homepage": "https://pickaxe.co",
+  "docs": "https://pickaxe.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "pickaxe": {
+      "url": "https://mcp.pickaxe.co/"
+    }
+  }
+}

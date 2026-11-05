@@ -1,0 +1,13 @@
+{
+  "name": "unthread",
+  "displayName": "Unthread",
+  "description": "Manage your support tickets.",
+  "homepage": "https://unthread.io/",
+  "docs": "https://docs.unthread.io/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "unthread": {
+      "url": "https://app.unthread.io/api/mcp"
+    }
+  }
+}

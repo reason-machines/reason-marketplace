@@ -1,0 +1,13 @@
+{
+  "name": "tabiori",
+  "displayName": "tabiori",
+  "description": "Create travel plans.",
+  "homepage": "https://tabiori.com/",
+  "docs": "https://tabiori.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "tabiori": {
+      "url": "https://mcp.tabiori.com/editor"
+    }
+  }
+}

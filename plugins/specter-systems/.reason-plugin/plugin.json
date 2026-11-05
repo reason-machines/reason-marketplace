@@ -1,0 +1,13 @@
+{
+  "name": "specter-systems",
+  "displayName": "Specter Systems",
+  "description": "CRM, tasks & workflows.",
+  "homepage": "https://spectersystems.io",
+  "docs": "https://spectersystems.io",
+  "auth": "none",
+  "mcpServers": {
+    "specter-systems": {
+      "url": "https://mcp.spectersystems.io/mcp"
+    }
+  }
+}

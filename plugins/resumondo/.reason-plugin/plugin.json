@@ -1,0 +1,13 @@
+{
+  "name": "resumondo",
+  "displayName": "Resumondo",
+  "description": "ATS-ready resumes & letters.",
+  "homepage": "https://resumondo.com",
+  "docs": "https://resumondo.com/integrations/claude-code",
+  "auth": "oauth",
+  "mcpServers": {
+    "resumondo": {
+      "url": "https://resumondo.com/api/mcp"
+    }
+  }
+}

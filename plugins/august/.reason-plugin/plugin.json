@@ -1,0 +1,13 @@
+{
+  "name": "august",
+  "displayName": "august",
+  "description": "Understand your users.",
+  "homepage": "https://www.getaugust.ai/",
+  "docs": "https://www.getaugust.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "august": {
+      "url": "https://mcp.getaugust.ai/mcp"
+    }
+  }
+}

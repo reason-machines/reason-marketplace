@@ -1,0 +1,13 @@
+{
+  "name": "higgs-hub",
+  "displayName": "Higgs Hub",
+  "description": "Gmail + Outlook for your agent.",
+  "homepage": "https://higgshub.pro",
+  "docs": "https://higgshub.pro/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "higgs-hub": {
+      "url": "https://higgshub.pro/api/mcp/mcp"
+    }
+  }
+}

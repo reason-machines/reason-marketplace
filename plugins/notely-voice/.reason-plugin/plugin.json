@@ -1,0 +1,13 @@
+{
+  "name": "notely-voice",
+  "displayName": "Notely Voice",
+  "description": "Search voice notes & summaries.",
+  "homepage": "https://notelyvoice.ai",
+  "docs": "https://notelyvoice.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "notely-voice": {
+      "url": "https://mcp.notelyvoice.ai/mcp"
+    }
+  }
+}

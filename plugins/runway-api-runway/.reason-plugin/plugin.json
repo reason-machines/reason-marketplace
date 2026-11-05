@@ -1,0 +1,13 @@
+{
+  "name": "runway-api-runway",
+  "displayName": "Runway Dev",
+  "description": "Runway API integration help.",
+  "homepage": "https://dev.runway.com/agents",
+  "docs": "https://dev.runway.com/agents",
+  "auth": "oauth",
+  "mcpServers": {
+    "runway-api-runway": {
+      "url": "https://dev.runway.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "indicadoreschilenos",
+  "displayName": "IndicadoresChilenos",
+  "description": "Indicadores económicos CL.",
+  "homepage": "https://indicadores.amestica.tech",
+  "docs": "https://tedix.dev/apps/indicadoreschilenos/",
+  "auth": "none",
+  "mcpServers": {
+    "indicadoreschilenos": {
+      "url": "https://indicadores.amestica.tech/mcp"
+    }
+  }
+}

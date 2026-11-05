@@ -1,0 +1,13 @@
+{
+  "name": "disc-golf-scout",
+  "displayName": "Disc Golf Scout",
+  "description": "Disc values, stock and drops.",
+  "homepage": "https://www.discgolfscout.com/ai-assistants",
+  "docs": "https://www.discgolfscout.com/ai-assistants",
+  "auth": "none",
+  "mcpServers": {
+    "disc-golf-scout": {
+      "url": "https://discgolfscout.com/mcp"
+    }
+  }
+}

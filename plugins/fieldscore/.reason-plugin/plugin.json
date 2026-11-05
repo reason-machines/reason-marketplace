@@ -1,0 +1,13 @@
+{
+  "name": "fieldscore",
+  "displayName": "FieldScore",
+  "description": "Spørg til danske marker.",
+  "homepage": "https://fieldscore.dk",
+  "docs": "https://fieldscore.dk/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "fieldscore": {
+      "url": "https://fieldscore.dk/api/mcp"
+    }
+  }
+}

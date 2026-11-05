@@ -1,0 +1,13 @@
+{
+  "name": "lytical",
+  "displayName": "Lytical",
+  "description": "Website analytics and insights.",
+  "homepage": "https://www.lytical.ai",
+  "docs": "https://www.lytical.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "lytical": {
+      "url": "https://mcp.lytical.ai/"
+    }
+  }
+}

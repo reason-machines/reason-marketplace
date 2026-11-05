@@ -1,0 +1,13 @@
+{
+  "name": "returnos-hospitality-commerce",
+  "displayName": "ReturnOS Hospitality Commerce",
+  "description": "Find stays & live direct rates.",
+  "homepage": "https://returnos.my4u.travel/",
+  "docs": "https://returnos.my4u.travel/",
+  "auth": "none",
+  "mcpServers": {
+    "returnos-hospitality-commerce": {
+      "url": "https://mcp.my4u.travel/mcp"
+    }
+  }
+}

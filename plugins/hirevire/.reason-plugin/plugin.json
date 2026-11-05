@@ -1,0 +1,13 @@
+{
+  "name": "hirevire",
+  "displayName": "Hirevire",
+  "description": "Manage jobs and candidates.",
+  "homepage": "https://hirevire.com",
+  "docs": "https://hirevire.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "hirevire": {
+      "url": "https://app.hirevire.com/api/mcp"
+    }
+  }
+}

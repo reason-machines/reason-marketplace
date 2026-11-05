@@ -1,0 +1,13 @@
+{
+  "name": "free100leads",
+  "displayName": "free100leads.com",
+  "description": "B2B contact coverage checker.",
+  "homepage": "https://free100leads.com",
+  "docs": "https://free100leads.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "free100leads": {
+      "url": "https://free100leads.com/api/mcp"
+    }
+  }
+}

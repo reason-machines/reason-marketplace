@@ -1,0 +1,13 @@
+{
+  "name": "qualifybase",
+  "displayName": "QualifyBase",
+  "description": "Qualify leads with AI.",
+  "homepage": "https://www.qualifybase.com",
+  "docs": "https://www.qualifybase.com/developer-guide",
+  "auth": "oauth",
+  "mcpServers": {
+    "qualifybase": {
+      "url": "https://www.qualifybase.com/api/mcp"
+    }
+  }
+}

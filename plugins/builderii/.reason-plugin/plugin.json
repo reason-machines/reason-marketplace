@@ -1,0 +1,13 @@
+{
+  "name": "builderii",
+  "displayName": "Builderii",
+  "description": "Design screens and diagrams.",
+  "homepage": "https://www.builderii.com",
+  "docs": "https://www.builderii.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "builderii": {
+      "url": "https://app.builderii.com/mcp"
+    }
+  }
+}

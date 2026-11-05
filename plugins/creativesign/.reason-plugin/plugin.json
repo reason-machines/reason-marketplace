@@ -1,0 +1,13 @@
+{
+  "name": "creativesign",
+  "displayName": "CreativeSign",
+  "description": "CreativeSign product search.",
+  "homepage": "https://creativesign.ro/",
+  "docs": "https://creativesign.ro/",
+  "auth": "none",
+  "mcpServers": {
+    "creativesign": {
+      "url": "https://creativesign.ro/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "specialized-bicycle-components",
+  "displayName": "Specialized Bicycle Components",
+  "description": "Discover Specialized Bikes.",
+  "homepage": "https://specialized.com",
+  "docs": "https://specialized.com",
+  "auth": "none",
+  "mcpServers": {
+    "specialized-bicycle-components": {
+      "url": "https://mcp.specialized.com/mcp"
+    }
+  }
+}

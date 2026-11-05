@@ -1,0 +1,13 @@
+{
+  "name": "packing-optimizer",
+  "displayName": "Packing Optimizer",
+  "description": "Optimize box & pallet packing.",
+  "homepage": "https://www.packing-optimizer.com",
+  "docs": "https://www.packing-optimizer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "packing-optimizer": {
+      "url": "https://packing-optimizer.com/mcp"
+    }
+  }
+}

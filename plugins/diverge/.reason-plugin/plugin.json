@@ -1,0 +1,13 @@
+{
+  "name": "diverge",
+  "displayName": "Diverge",
+  "description": "Build and update your persona.",
+  "homepage": "https://diverge.one",
+  "docs": "https://diverge.one/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "diverge": {
+      "url": "https://green.diverge.one/mcp"
+    }
+  }
+}

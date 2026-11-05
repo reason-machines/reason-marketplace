@@ -1,0 +1,13 @@
+{
+  "name": "atlassian-rovo",
+  "displayName": "Atlassian Rovo (Legacy)",
+  "description": "Manage Jira and Confluence.",
+  "homepage": "https://www.atlassian.com",
+  "docs": "https://www.atlassian.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlassian-rovo": {
+      "url": "https://mcp.atlassian.com/v1/mcp/authv2"
+    }
+  }
+}

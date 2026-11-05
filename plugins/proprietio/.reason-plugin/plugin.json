@@ -1,0 +1,13 @@
+{
+  "name": "proprietio",
+  "displayName": "Proprietio",
+  "description": "Property ops & accounting.",
+  "homepage": "https://proprietio.com",
+  "docs": "https://proprietio.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "proprietio": {
+      "url": "https://mcp.proprietio.com/mcp"
+    }
+  }
+}

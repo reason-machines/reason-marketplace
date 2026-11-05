@@ -1,0 +1,13 @@
+{
+  "name": "invoice-maker",
+  "displayName": "Billwise Invoice Maker",
+  "description": "Invoices as polished PDFs.",
+  "homepage": "https://invoice-maker.zovo.one",
+  "docs": "https://invoice-maker.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "invoice-maker": {
+      "url": "https://invoice-maker.zovo.one/mcp"
+    }
+  }
+}

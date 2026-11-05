@@ -1,0 +1,13 @@
+{
+  "name": "quillm",
+  "displayName": "Quillm",
+  "description": "Pages your agents keep current.",
+  "homepage": "https://quillm.ai",
+  "docs": "https://quillm.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "quillm": {
+      "url": "https://quillm.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "growthbook",
+  "displayName": "GrowthBook",
+  "description": "Feature flags and A/B testing.",
+  "homepage": "https://www.growthbook.io",
+  "docs": "https://www.growthbook.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "growthbook": {
+      "url": "https://mcp.growthbook.io/mcp"
+    }
+  }
+}

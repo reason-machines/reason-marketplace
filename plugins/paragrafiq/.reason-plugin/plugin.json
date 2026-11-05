@@ -1,0 +1,13 @@
+{
+  "name": "paragrafiq",
+  "displayName": "Paragrafiq",
+  "description": "Czech law, cases, sources.",
+  "homepage": "https://www.paragrafiq.cz",
+  "docs": "https://www.paragrafiq.cz/chatgpt-claude",
+  "auth": "oauth",
+  "mcpServers": {
+    "paragrafiq": {
+      "url": "https://www.paragrafiq.cz/api/mcp"
+    }
+  }
+}

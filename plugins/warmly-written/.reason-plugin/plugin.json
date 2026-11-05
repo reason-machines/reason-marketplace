@@ -1,0 +1,13 @@
+{
+  "name": "warmly-written",
+  "displayName": "Warmly Written",
+  "description": "Your photo, mailed. No errand.",
+  "homepage": "https://warmlywritten.com",
+  "docs": "https://warmlywritten.com/connect",
+  "auth": "none",
+  "mcpServers": {
+    "warmly-written": {
+      "url": "https://warmlywritten.com/api/mcp"
+    }
+  }
+}

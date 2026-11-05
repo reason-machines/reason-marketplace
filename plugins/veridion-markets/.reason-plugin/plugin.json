@@ -1,0 +1,13 @@
+{
+  "name": "veridion-markets",
+  "displayName": "Veridion Markets",
+  "description": "Government trade disclosures.",
+  "homepage": "https://www.veridionmarkets.com",
+  "docs": "https://www.veridionmarkets.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "veridion-markets": {
+      "url": "https://www.veridionmarkets.com/api/mcp"
+    }
+  }
+}

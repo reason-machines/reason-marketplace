@@ -1,0 +1,13 @@
+{
+  "name": "dove-living",
+  "displayName": "Dove Living",
+  "description": "Apartments in Schwandorf.",
+  "homepage": "https://buchen.dove-living.de",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=de.dove-living.buchen/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "dove-living": {
+      "url": "https://buchen.dove-living.de/mcp"
+    }
+  }
+}

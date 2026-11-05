@@ -1,0 +1,13 @@
+{
+  "name": "govcontractscout",
+  "displayName": "GovContractScout",
+  "description": "US state & local gov contracts.",
+  "homepage": "https://scout.govbidportals.com",
+  "docs": "https://scout.govbidportals.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "govcontractscout": {
+      "url": "https://scout.govbidportals.com/mcp"
+    }
+  }
+}

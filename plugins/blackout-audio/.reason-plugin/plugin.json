@@ -1,0 +1,13 @@
+{
+  "name": "blackout-audio",
+  "displayName": "Blackout Audio",
+  "description": "Gear setups for any budget.",
+  "homepage": "https://blackoutaudio.com",
+  "docs": "https://blackoutaudio.com",
+  "auth": "none",
+  "mcpServers": {
+    "blackout-audio": {
+      "url": "https://mcp.blackoutaudio.com/mcp"
+    }
+  }
+}

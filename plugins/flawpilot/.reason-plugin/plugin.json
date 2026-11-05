@@ -1,0 +1,13 @@
+{
+  "name": "flawpilot",
+  "displayName": "FlawPilot",
+  "description": "Web Security & SEO Scanner.",
+  "homepage": "https://flawpilot.com",
+  "docs": "https://flawpilot.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "flawpilot": {
+      "url": "https://mcp.flawpilot.com/mcp"
+    }
+  }
+}

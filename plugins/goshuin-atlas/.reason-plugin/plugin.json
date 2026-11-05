@@ -1,0 +1,13 @@
+{
+  "name": "goshuin-atlas",
+  "displayName": "Goshuin Atlas",
+  "description": "Explore Japan's sacred places.",
+  "homepage": "https://goshuin.com/",
+  "docs": "https://goshuin.com/",
+  "auth": "none",
+  "mcpServers": {
+    "goshuin-atlas": {
+      "url": "https://mcp.goshuin.com/mcp"
+    }
+  }
+}

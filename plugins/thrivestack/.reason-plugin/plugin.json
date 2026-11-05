@@ -1,0 +1,13 @@
+{
+  "name": "thrivestack",
+  "displayName": "ThriveStack Citedby",
+  "description": "AI search visibility insights.",
+  "homepage": "https://www.thrivestack.ai",
+  "docs": "https://docs.thrivestack.ai/public/mcp/setup.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "thrivestack": {
+      "url": "https://api.app.thrivestack.ai/mcp"
+    }
+  }
+}

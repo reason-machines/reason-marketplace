@@ -1,0 +1,13 @@
+{
+  "name": "elecz-electricity-prices",
+  "displayName": "Elecz - Electricity Prices",
+  "description": "Real-time Electricity Prices.",
+  "homepage": "https://elecz.com",
+  "docs": "https://elecz.com",
+  "auth": "none",
+  "mcpServers": {
+    "elecz-electricity-prices": {
+      "url": "https://elecz.com/mcp"
+    }
+  }
+}

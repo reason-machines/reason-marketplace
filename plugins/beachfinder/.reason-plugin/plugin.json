@@ -1,0 +1,13 @@
+{
+  "name": "beachfinder",
+  "displayName": "BeachFinder",
+  "description": "184,900 swim spots worldwide.",
+  "homepage": "https://getbeachfinder.com",
+  "docs": "https://getbeachfinder.com",
+  "auth": "none",
+  "mcpServers": {
+    "beachfinder": {
+      "url": "https://getbeachfinder.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "datalayer",
+  "displayName": "DataLayer",
+  "description": "B2B company and contact data.",
+  "homepage": "https://datalayer.sh",
+  "docs": "https://datalayer.sh/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "datalayer": {
+      "url": "https://api.datalayer.sh/mcp"
+    }
+  }
+}

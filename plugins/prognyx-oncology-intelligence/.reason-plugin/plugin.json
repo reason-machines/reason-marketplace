@@ -1,0 +1,13 @@
+{
+  "name": "prognyx-oncology-intelligence",
+  "displayName": "Prognyx oncology intelligence",
+  "description": "Compare oncology trials.",
+  "homepage": "https://prognyx.com/mcp",
+  "docs": "https://prognyx.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "prognyx-oncology-intelligence": {
+      "url": "https://prognyx.com/api/mcp"
+    }
+  }
+}

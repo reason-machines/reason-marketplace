@@ -1,0 +1,13 @@
+{
+  "name": "soul-family-ai",
+  "displayName": "Soul Family AI",
+  "description": "Meditations and teachings.",
+  "homepage": "https://www.soulfamily.ai/",
+  "docs": "https://www.soulfamily.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "soul-family-ai": {
+      "url": "https://soulfamily.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "koala-for-work",
+  "displayName": "Koala",
+  "description": "Plan work around your capacity.",
+  "homepage": "https://koalaforwork.com",
+  "docs": "https://koalaforwork.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "koala-for-work": {
+      "url": "https://mcp.koalaforwork.com/mcp"
+    }
+  }
+}

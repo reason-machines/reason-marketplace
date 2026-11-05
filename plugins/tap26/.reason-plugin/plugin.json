@@ -1,0 +1,13 @@
+{
+  "name": "tap26",
+  "displayName": "Tap26",
+  "description": "Create and manage short links.",
+  "homepage": "https://tap26.com",
+  "docs": "https://tap26.com/mcp-ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "tap26": {
+      "url": "https://tap26.com/api/v1/mcp"
+    }
+  }
+}

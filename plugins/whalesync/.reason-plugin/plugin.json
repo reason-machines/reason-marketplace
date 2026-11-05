@@ -1,0 +1,13 @@
+{
+  "name": "whalesync",
+  "displayName": "Whalesync",
+  "description": "Two-way sync between your apps.",
+  "homepage": "https://whalesync.com",
+  "docs": "https://whalesync.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "whalesync": {
+      "url": "https://api.whalesync.com/mcp"
+    }
+  }
+}

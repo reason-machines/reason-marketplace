@@ -10,5 +10,28 @@
     "airtable": {
       "url": "https://mcp.airtable.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "airtable-cli",
+      "description": "Lists bases, reads and writes records, manages tables and fields, filters and searches data in Airtable via the `airtable-mcp` CLI. Use when the task involves Airtable data or the user mentions airtable-mcp, bases, tables, records, or fields.",
+      "source": "airtable/skills#812ee67f1fd3d76fb45ff8df40afaa0448602ba8",
+      "skill": "airtable-cli",
+      "url": "https://github.com/airtable/skills/tree/812ee67f1fd3d76fb45ff8df40afaa0448602ba8/plugins/airtable/skills/airtable-cli"
+    },
+    {
+      "name": "airtable-filters",
+      "description": "Use this skill when the user wants to find, filter, or narrow down Airtable records by field values, even when they don't explicitly say \"filter.\"",
+      "source": "airtable/skills#812ee67f1fd3d76fb45ff8df40afaa0448602ba8",
+      "skill": "airtable-filters",
+      "url": "https://github.com/airtable/skills/tree/812ee67f1fd3d76fb45ff8df40afaa0448602ba8/plugins/airtable/skills/airtable-filters"
+    },
+    {
+      "name": "airtable-overview",
+      "description": "Explains what Airtable is and how data is structured — bases, tables, fields, records, views, automations, and interfaces. Use when you need context about the Airtable data model.",
+      "source": "airtable/skills#812ee67f1fd3d76fb45ff8df40afaa0448602ba8",
+      "skill": "airtable-overview",
+      "url": "https://github.com/airtable/skills/tree/812ee67f1fd3d76fb45ff8df40afaa0448602ba8/plugins/airtable/skills/airtable-overview"
+    }
+  ]
 }

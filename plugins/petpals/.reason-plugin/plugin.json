@@ -1,0 +1,13 @@
+{
+  "name": "petpals",
+  "displayName": "PetPals",
+  "description": "Pet toys & supplies store.",
+  "homepage": "https://platform.zen7.com",
+  "docs": "https://platform.zen7.com",
+  "auth": "none",
+  "mcpServers": {
+    "petpals": {
+      "url": "https://platform.zen7.com/mcp"
+    }
+  }
+}

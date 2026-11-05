@@ -1,0 +1,13 @@
+{
+  "name": "whimbrel-medtech-analyst",
+  "displayName": "Whimbrel: Medtech Research",
+  "description": "Find and rank device companies.",
+  "homepage": "https://whimbrelresearch.com",
+  "docs": "https://whimbrelresearch.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "whimbrel-medtech-analyst": {
+      "url": "https://whimbrelresearch.com/mcp"
+    }
+  }
+}

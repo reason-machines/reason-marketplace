@@ -1,0 +1,13 @@
+{
+  "name": "elen-story-ai",
+  "displayName": "ELEN Story AI",
+  "description": "Read and create family stories.",
+  "homepage": "https://elenstoryai.com",
+  "docs": "https://elenstoryai.com",
+  "auth": "none",
+  "mcpServers": {
+    "elen-story-ai": {
+      "url": "https://elenstoryai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "steep",
+  "displayName": "Steep",
+  "description": "Query Steep workspace data.",
+  "homepage": "https://steep.app/",
+  "docs": "https://steep.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "steep": {
+      "url": "https://mcp.steep.app/mcp"
+    }
+  }
+}

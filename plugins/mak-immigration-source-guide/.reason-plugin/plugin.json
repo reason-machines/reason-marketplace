@@ -1,0 +1,13 @@
+{
+  "name": "mak-immigration-source-guide",
+  "displayName": "MAK Immigration Source Guide",
+  "description": "Canadian immigration sources.",
+  "homepage": "https://www.makimmigration.ca/",
+  "docs": "https://www.makimmigration.ca/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mak-immigration-source-guide": {
+      "url": "https://makimmigration.ca/mcp"
+    }
+  }
+}

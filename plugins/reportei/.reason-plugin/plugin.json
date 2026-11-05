@@ -1,0 +1,13 @@
+{
+  "name": "reportei",
+  "displayName": "Reportei",
+  "description": "Reports from multiple channels.",
+  "homepage": "https://reportei.com/en",
+  "docs": "https://reportei.com/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "reportei": {
+      "url": "https://app.reportei.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "findchildcare",
+  "displayName": "FindChildcare.ca",
+  "description": "Find childcare across Canada.",
+  "homepage": "https://findchildcare.ca",
+  "docs": "https://findchildcare.ca/assistants",
+  "auth": "none",
+  "mcpServers": {
+    "findchildcare": {
+      "url": "https://findchildcare.ca/api/mcp/claude"
+    }
+  }
+}

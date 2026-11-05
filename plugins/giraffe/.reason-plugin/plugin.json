@@ -1,0 +1,13 @@
+{
+  "name": "giraffe",
+  "displayName": "Giraffe",
+  "description": "Keep your AI projects clear.",
+  "homepage": "https://withgiraffe.com",
+  "docs": "https://withgiraffe.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "giraffe": {
+      "url": "https://mcp.withgiraffe.com/mcp"
+    }
+  }
+}

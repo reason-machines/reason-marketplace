@@ -1,0 +1,13 @@
+{
+  "name": "prepublish",
+  "displayName": "Prepublish",
+  "description": "Audit YouTube scripts.",
+  "homepage": "https://prepublish.ai",
+  "docs": "https://prepublish.ai",
+  "auth": "none",
+  "mcpServers": {
+    "prepublish": {
+      "url": "https://mcp.prepublish.ai/mcp"
+    }
+  }
+}

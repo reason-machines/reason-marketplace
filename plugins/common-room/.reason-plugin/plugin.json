@@ -1,0 +1,13 @@
+{
+  "name": "common-room",
+  "displayName": "Common Room",
+  "description": "Find contacts and accounts.",
+  "homepage": "https://commonroom.io",
+  "docs": "https://commonroom.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "common-room": {
+      "url": "https://mcp.commonroom.io/mcp"
+    }
+  }
+}

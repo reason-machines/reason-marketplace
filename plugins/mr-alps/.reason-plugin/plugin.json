@@ -1,0 +1,13 @@
+{
+  "name": "mr-alps",
+  "displayName": "MR. ALPS",
+  "description": "Where to ski or hike today.",
+  "homepage": "https://mralps.com",
+  "docs": "https://mralps.com",
+  "auth": "none",
+  "mcpServers": {
+    "mr-alps": {
+      "url": "https://mralps.com/mcp"
+    }
+  }
+}

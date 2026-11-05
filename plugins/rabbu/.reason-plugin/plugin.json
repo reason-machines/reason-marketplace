@@ -1,0 +1,13 @@
+{
+  "name": "rabbu",
+  "displayName": "Rabbu",
+  "description": "Find Airbnbs for sale and more.",
+  "homepage": "https://rabbu.com",
+  "docs": "https://rabbu.com",
+  "auth": "none",
+  "mcpServers": {
+    "rabbu": {
+      "url": "https://rabbu.com/mcp"
+    }
+  }
+}

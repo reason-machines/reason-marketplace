@@ -1,0 +1,13 @@
+{
+  "name": "converly",
+  "displayName": "Converly",
+  "description": "Easy conversion tracking.",
+  "homepage": "https://converly.io/",
+  "docs": "https://converly.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "converly": {
+      "url": "https://app.converly.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "virlow",
+  "displayName": "Virlow",
+  "description": "Private notes and AI memory.",
+  "homepage": "https://virlow.com",
+  "docs": "https://virlow.com/ai-connections.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "virlow": {
+      "url": "https://api.virlow.com/api/connector/mcp"
+    }
+  }
+}

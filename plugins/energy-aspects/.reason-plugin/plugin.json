@@ -1,0 +1,13 @@
+{
+  "name": "energy-aspects",
+  "displayName": "Energy Aspects",
+  "description": "Commodities insights.",
+  "homepage": "https://www.energyaspects.com/",
+  "docs": "https://www.energyaspects.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "energy-aspects": {
+      "url": "https://mcp.energyaspects.com/mcp"
+    }
+  }
+}

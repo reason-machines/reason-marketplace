@@ -1,0 +1,13 @@
+{
+  "name": "robosystems",
+  "displayName": "RoboSystems",
+  "description": "SEC filings knowledge graph.",
+  "homepage": "https://robosystems.ai",
+  "docs": "https://robosystems.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "robosystems": {
+      "url": "https://api.robosystems.ai/v1/graphs/sec/mcp"
+    }
+  }
+}

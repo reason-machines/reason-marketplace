@@ -1,0 +1,13 @@
+{
+  "name": "spera",
+  "displayName": "Spera",
+  "description": "Build and test strategies.",
+  "homepage": "https://www.spera.bot",
+  "docs": "https://www.spera.bot/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "spera": {
+      "url": "https://api.spera.bot/mcp?mode=authoring&quot"
+    }
+  }
+}

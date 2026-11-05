@@ -1,0 +1,13 @@
+{
+  "name": "verso",
+  "displayName": "Verso",
+  "description": "AI customer research insights.",
+  "homepage": "https://www.askverso.ai",
+  "docs": "https://docs.askverso.ai/developers/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "verso": {
+      "url": "https://api.askverso.ai/mcp"
+    }
+  }
+}

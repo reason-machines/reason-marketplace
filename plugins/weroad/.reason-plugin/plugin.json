@@ -1,0 +1,13 @@
+{
+  "name": "weroad",
+  "displayName": "WeRoad",
+  "description": "Find trips & explore the world.",
+  "homepage": "https://www.weroad.com",
+  "docs": "https://www.weroad.com",
+  "auth": "none",
+  "mcpServers": {
+    "weroad": {
+      "url": "https://mcp.weroad.com/mcp"
+    }
+  }
+}

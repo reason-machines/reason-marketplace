@@ -1,0 +1,13 @@
+{
+  "name": "easygerber",
+  "displayName": "EasyGerber",
+  "description": "AI PCB design and layout.",
+  "homepage": "https://easygerber.com/agents",
+  "docs": "https://easygerber.com/agents",
+  "auth": "oauth",
+  "mcpServers": {
+    "easygerber": {
+      "url": "https://www.easygerber.com/api/mcp"
+    }
+  }
+}

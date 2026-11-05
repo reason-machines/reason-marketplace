@@ -1,0 +1,13 @@
+{
+  "name": "datassist-net-brut-hesaplama",
+  "displayName": "Datassist Net Brut Hesaplama",
+  "description": "Net ve brüt maaş hesaplama.",
+  "homepage": "https://www.datassist.com",
+  "docs": "https://tedix.dev/apps/datassist-net-brut-hesaplama/",
+  "auth": "none",
+  "mcpServers": {
+    "datassist-net-brut-hesaplama": {
+      "url": "https://net-brut-mcp.datassist.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nicehub-services",
+  "displayName": "NiceHub Services",
+  "description": "Artisans BTP & Dépannage.",
+  "homepage": "https://services.nicehub.app",
+  "docs": "https://services.nicehub.app",
+  "auth": "none",
+  "mcpServers": {
+    "nicehub-services": {
+      "url": "https://services.nicehub.app/api/mcp"
+    }
+  }
+}

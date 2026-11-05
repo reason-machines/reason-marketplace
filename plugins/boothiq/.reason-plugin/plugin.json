@@ -1,0 +1,13 @@
+{
+  "name": "boothiq",
+  "displayName": "BoothIQ",
+  "description": "Ask about your event leads.",
+  "homepage": "https://getboothiq.com",
+  "docs": "https://getboothiq.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "boothiq": {
+      "url": "https://getboothiq.com/mcp"
+    }
+  }
+}

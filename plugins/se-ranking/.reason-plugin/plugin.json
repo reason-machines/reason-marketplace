@@ -1,0 +1,13 @@
+{
+  "name": "se-ranking",
+  "displayName": "SE Ranking",
+  "description": "SEO data & rank tracking.",
+  "homepage": "https://seranking.com/api/integrations/mcp/",
+  "docs": "https://seranking.com/api/integrations/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "se-ranking": {
+      "url": "https://api.seranking.com/mcp"
+    }
+  }
+}

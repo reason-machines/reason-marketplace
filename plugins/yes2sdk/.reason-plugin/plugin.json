@@ -1,0 +1,13 @@
+{
+  "name": "yes2sdk",
+  "displayName": "Yes2SDK",
+  "description": "Integrate and verify web games.",
+  "homepage": "https://developer.yes2games.com",
+  "docs": "https://developer.yes2games.com",
+  "auth": "none",
+  "mcpServers": {
+    "yes2sdk": {
+      "url": "https://mcp.yes2games.com/mcp"
+    }
+  }
+}

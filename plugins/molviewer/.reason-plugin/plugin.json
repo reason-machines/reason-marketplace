@@ -1,0 +1,13 @@
+{
+  "name": "molviewer",
+  "displayName": "MolViewer",
+  "description": "Interactive 3D molecules.",
+  "homepage": "https://molviewer.bio",
+  "docs": "https://molviewer.bio",
+  "auth": "none",
+  "mcpServers": {
+    "molviewer": {
+      "url": "https://mcp.molviewer.bio/mcp"
+    }
+  }
+}

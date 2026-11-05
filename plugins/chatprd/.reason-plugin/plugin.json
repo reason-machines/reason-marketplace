@@ -10,5 +10,56 @@
     "chatprd": {
       "url": "https://app.chatprd.ai/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "check-prd-alignment",
+      "description": "Compare code changes in the current repository against a ChatPRD PRD to find gaps, deviations, and opportunities. Use in a coding workspace before opening a PR, after finishing a feature, or to verify requirement coverage.",
+      "source": "chatprd/cursor-plugin#faa23a6bda4ece6fe0347a1ab70567dab739a69e",
+      "skill": "check-prd-alignment",
+      "url": "https://github.com/chatprd/cursor-plugin/tree/faa23a6bda4ece6fe0347a1ab70567dab739a69e/skills/check-prd-alignment"
+    },
+    {
+      "name": "doc-to-artifact",
+      "description": "Turn a PRD, brief, or spec into a single self-contained interactive HTML page — the document's narrative with diagrams (user flows, system sequences, states, timelines) and clickable UI prototypes embedded inline where the doc describes them. Works on pasted or shared docs without a ChatPRD account,",
+      "source": "chatprd/cursor-plugin#faa23a6bda4ece6fe0347a1ab70567dab739a69e",
+      "skill": "doc-to-artifact",
+      "url": "https://github.com/chatprd/cursor-plugin/tree/faa23a6bda4ece6fe0347a1ab70567dab739a69e/skills/doc-to-artifact"
+    },
+    {
+      "name": "get-started",
+      "description": "Introduce the ChatPRD plugin, check whether a ChatPRD account is connected, and suggest a first task. Use when the user first installs ChatPRD, asks what ChatPRD can do, or asks how to get started.",
+      "source": "chatprd/cursor-plugin#faa23a6bda4ece6fe0347a1ab70567dab739a69e",
+      "skill": "get-started",
+      "url": "https://github.com/chatprd/cursor-plugin/tree/faa23a6bda4ece6fe0347a1ab70567dab739a69e/skills/get-started"
+    },
+    {
+      "name": "implement-from-prd",
+      "description": "Fetch a PRD from ChatPRD and generate a scoped implementation plan for the current code repository. Use in a coding workspace when starting work on a spec, breaking down a PRD into tasks, or planning how to build a feature.",
+      "source": "chatprd/cursor-plugin#faa23a6bda4ece6fe0347a1ab70567dab739a69e",
+      "skill": "implement-from-prd",
+      "url": "https://github.com/chatprd/cursor-plugin/tree/faa23a6bda4ece6fe0347a1ab70567dab739a69e/skills/implement-from-prd"
+    },
+    {
+      "name": "review-doc",
+      "description": "Review a PRD, brief, or spec the way ChatPRD's \"Review my doc\" does — a strategy-first scorecard (Strategy, Structure, Clarity, Completeness), top priorities, and 3-5 exact, quotable edit suggestions. Works on pasted or shared docs without a ChatPRD account, or on ChatPRD documents when connected. U",
+      "source": "chatprd/cursor-plugin#faa23a6bda4ece6fe0347a1ab70567dab739a69e",
+      "skill": "review-doc",
+      "url": "https://github.com/chatprd/cursor-plugin/tree/faa23a6bda4ece6fe0347a1ab70567dab739a69e/skills/review-doc"
+    },
+    {
+      "name": "update-prd",
+      "description": "Update an existing ChatPRD document with new decisions, feedback, or what was actually built. Use when the user wants to revise a PRD, add or change a section, or capture implementation decisions, trade-offs, and deviations after building.",
+      "source": "chatprd/cursor-plugin#faa23a6bda4ece6fe0347a1ab70567dab739a69e",
+      "skill": "update-prd",
+      "url": "https://github.com/chatprd/cursor-plugin/tree/faa23a6bda4ece6fe0347a1ab70567dab739a69e/skills/update-prd"
+    },
+    {
+      "name": "write-prd",
+      "description": "Write a product requirements document (PRD) from a feature idea, notes, transcripts, or codebase context, using ChatPRD's templates. Works without a ChatPRD account (Markdown output or a connected doc tool like Notion or Google Drive); with a connected account, saves to ChatPRD with the user's own t",
+      "source": "chatprd/cursor-plugin#faa23a6bda4ece6fe0347a1ab70567dab739a69e",
+      "skill": "write-prd",
+      "url": "https://github.com/chatprd/cursor-plugin/tree/faa23a6bda4ece6fe0347a1ab70567dab739a69e/skills/write-prd"
+    }
+  ]
 }

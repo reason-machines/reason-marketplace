@@ -1,0 +1,13 @@
+{
+  "name": "ragic",
+  "displayName": "Ragic",
+  "description": "Talk to your no-code database.",
+  "homepage": "https://www.ragic.com",
+  "docs": "https://ragic.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "ragic": {
+      "url": "https://www.ragic.com/api/mcp"
+    }
+  }
+}

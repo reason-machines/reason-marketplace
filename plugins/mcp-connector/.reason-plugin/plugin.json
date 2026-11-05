@@ -1,0 +1,13 @@
+{
+  "name": "mcp-connector",
+  "displayName": "Mail Merge for Gmail",
+  "description": "Send bulk emails via Gmail.",
+  "homepage": "https://merge.email/",
+  "docs": "https://merge.email/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mcp-connector": {
+      "url": "https://merge.email/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "flight-queue",
+  "displayName": "Flight Queue",
+  "description": "Airport waits and delays.",
+  "homepage": "https://flightqueue.com",
+  "docs": "https://flightqueue.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "flight-queue": {
+      "url": "https://mcp.flightqueue.com/mcp"
+    }
+  }
+}

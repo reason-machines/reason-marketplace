@@ -1,0 +1,13 @@
+{
+  "name": "querypanel",
+  "displayName": "Querypanel",
+  "description": "Tenant-safe analytics tools.",
+  "homepage": "https://querypanel.io",
+  "docs": "https://querypanel.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "querypanel": {
+      "url": "https://mcp.querypanel.io/mcp"
+    }
+  }
+}

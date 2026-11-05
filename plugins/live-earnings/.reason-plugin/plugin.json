@@ -1,0 +1,13 @@
+{
+  "name": "live-earnings",
+  "displayName": "Live Earnings",
+  "description": "Earnings calls, by speaker.",
+  "homepage": "https://live-earnings.com",
+  "docs": "https://live-earnings.com/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "live-earnings": {
+      "url": "https://live-earnings.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "metaprona",
+  "displayName": "Metaprona",
+  "description": "Find property in Albania.",
+  "homepage": "https://metaprona.com",
+  "docs": "https://metaprona.com",
+  "auth": "none",
+  "mcpServers": {
+    "metaprona": {
+      "url": "https://metaprona.com/mcp"
+    }
+  }
+}

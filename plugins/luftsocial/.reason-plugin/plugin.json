@@ -1,0 +1,13 @@
+{
+  "name": "luftsocial",
+  "displayName": "LuftSocial",
+  "description": "Social media management.",
+  "homepage": "https://luftsocial.com",
+  "docs": "https://luftsocial.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "luftsocial": {
+      "url": "https://mcp.luftsocial.com/mcp"
+    }
+  }
+}

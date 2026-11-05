@@ -1,0 +1,13 @@
+{
+  "name": "cron-explorer",
+  "displayName": "Tempo Cron Explorer",
+  "description": "Cron runs across timezones.",
+  "homepage": "https://cron-explorer.zovo.one",
+  "docs": "https://cron-explorer.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "cron-explorer": {
+      "url": "https://cron-explorer.zovo.one/mcp"
+    }
+  }
+}

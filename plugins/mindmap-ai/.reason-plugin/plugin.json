@@ -1,0 +1,13 @@
+{
+  "name": "mindmap-ai",
+  "displayName": "MindMap AI",
+  "description": "Mind maps, concept maps & more.",
+  "homepage": "https://mindmapai.app/",
+  "docs": "https://mindmapai.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mindmap-ai": {
+      "url": "https://mindmapai.app/mcp"
+    }
+  }
+}

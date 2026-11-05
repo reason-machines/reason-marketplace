@@ -1,0 +1,13 @@
+{
+  "name": "littlebird",
+  "displayName": "Littlebird",
+  "description": "Your meetings and work memory.",
+  "homepage": "https://littlebird.ai/features/mcp",
+  "docs": "https://littlebird.ai/features/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "littlebird": {
+      "url": "https://mcp.littlebird.ai/mcp"
+    }
+  }
+}

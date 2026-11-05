@@ -1,0 +1,13 @@
+{
+  "name": "auto-message",
+  "displayName": "AutoMessage",
+  "description": "Find a personal assistant.",
+  "homepage": "https://textwithassistants.com/",
+  "docs": "https://textwithassistants.com/",
+  "auth": "none",
+  "mcpServers": {
+    "auto-message": {
+      "url": "https://textwithassistants.com/mcp"
+    }
+  }
+}

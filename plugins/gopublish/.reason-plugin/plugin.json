@@ -1,0 +1,13 @@
+{
+  "name": "gopublish",
+  "displayName": "GoPublish",
+  "description": "Publish content to WordPress.",
+  "homepage": "https://gopublish.io",
+  "docs": "https://gopublish.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "gopublish": {
+      "url": "https://mcp.gopublish.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kineticist",
+  "displayName": "Kineticist",
+  "description": "Pinball news and game database.",
+  "homepage": "https://www.kineticist.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.kineticist/mcp-server",
+  "auth": "none",
+  "mcpServers": {
+    "kineticist": {
+      "url": "https://kineticist.com/api/mcp"
+    }
+  }
+}

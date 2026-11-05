@@ -1,0 +1,13 @@
+{
+  "name": "the-org",
+  "displayName": "The Org",
+  "description": "Public org charts.",
+  "homepage": "https://theorg.com/",
+  "docs": "https://developers.theorg.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "the-org": {
+      "url": "https://api.theorg.com/v1.1/mcp"
+    }
+  }
+}

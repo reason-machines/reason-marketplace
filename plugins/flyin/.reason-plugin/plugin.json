@@ -1,0 +1,13 @@
+{
+  "name": "flyin",
+  "displayName": "Flyin",
+  "description": "Cheap flight @flyin.",
+  "homepage": "https://www.flyin.com/en",
+  "docs": "https://www.flyin.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "flyin": {
+      "url": "https://mcp.flyin.com/mcp"
+    }
+  }
+}

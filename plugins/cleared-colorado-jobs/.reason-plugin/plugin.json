@@ -1,0 +1,13 @@
+{
+  "name": "cleared-colorado-jobs",
+  "displayName": "Cleared Colorado Jobs",
+  "description": "Find cleared Colorado jobs.",
+  "homepage": "https://clearedcolorado.com",
+  "docs": "https://clearedcolorado.com",
+  "auth": "none",
+  "mcpServers": {
+    "cleared-colorado-jobs": {
+      "url": "https://clearedcolorado.com/mcp"
+    }
+  }
+}

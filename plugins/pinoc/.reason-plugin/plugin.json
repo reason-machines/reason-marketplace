@@ -1,0 +1,13 @@
+{
+  "name": "pinoc",
+  "displayName": "PINOC",
+  "description": "3D characters and motion.",
+  "homepage": "https://viggle.ai/pinoc",
+  "docs": "https://viggle.ai/pinoc/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "pinoc": {
+      "url": "https://pinoc.mcp.viggle.ai/mcp"
+    }
+  }
+}

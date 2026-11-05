@@ -1,0 +1,13 @@
+{
+  "name": "sonilo",
+  "displayName": "Sonilo",
+  "description": "AI Music and Sound Effects.",
+  "homepage": "https://platform.sonilo.com",
+  "docs": "https://sonilo.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "sonilo": {
+      "url": "https://api.sonilo.com/mcp"
+    }
+  }
+}

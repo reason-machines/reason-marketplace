@@ -1,0 +1,13 @@
+{
+  "name": "miniup",
+  "displayName": "MiniUp",
+  "description": "Turn chat into live web apps.",
+  "homepage": "https://www.miniup.io",
+  "docs": "https://www.miniup.io/chatgptapp",
+  "auth": "none",
+  "mcpServers": {
+    "miniup": {
+      "url": "https://www.miniup.io/api/mcp"
+    }
+  }
+}

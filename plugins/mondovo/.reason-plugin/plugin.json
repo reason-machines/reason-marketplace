@@ -1,0 +1,13 @@
+{
+  "name": "mondovo",
+  "displayName": "Mondovo",
+  "description": "Design and publish websites.",
+  "homepage": "https://mondovo.com",
+  "docs": "https://app.mondovo.com/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "mondovo": {
+      "url": "https://app.mondovo.com/api/mcp/sites"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "weweb",
+  "displayName": "WeWeb",
+  "description": "Build full-stack apps & sites.",
+  "homepage": "https://docs.weweb.io/weweb-mcp/chatgpt-plugin.html",
+  "docs": "https://docs.weweb.io/weweb-mcp/intro-to-weweb-mcp.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "weweb": {
+      "url": "https://ai-api.weweb.io/v1/mcp"
+    }
+  }
+}

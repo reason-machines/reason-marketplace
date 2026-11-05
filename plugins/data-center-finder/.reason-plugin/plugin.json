@@ -1,0 +1,13 @@
+{
+  "name": "data-center-finder",
+  "displayName": "Data Center Finder",
+  "description": "Find U.S. data center space.",
+  "homepage": "https://colocationscout.com/",
+  "docs": "https://colocationscout.com/",
+  "auth": "none",
+  "mcpServers": {
+    "data-center-finder": {
+      "url": "https://mcp.colocationscout.com/mcp"
+    }
+  }
+}

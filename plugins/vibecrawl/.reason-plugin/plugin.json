@@ -1,0 +1,13 @@
+{
+  "name": "vibecrawl",
+  "displayName": "VibeCrawl",
+  "description": "Let your vibes decide.",
+  "homepage": "https://vibecrawl.app",
+  "docs": "https://vibecrawl.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "vibecrawl": {
+      "url": "https://vibecrawl.app/mcp"
+    }
+  }
+}

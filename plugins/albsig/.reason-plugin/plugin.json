@@ -1,0 +1,13 @@
+{
+  "name": "albsig",
+  "displayName": "Albsig",
+  "description": "Get Albsig insurance.",
+  "homepage": "https://www.albsig.al/",
+  "docs": "https://www.albsig.al/",
+  "auth": "none",
+  "mcpServers": {
+    "albsig": {
+      "url": "https://mcp.albsig.al/mcp"
+    }
+  }
+}

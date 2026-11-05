@@ -1,0 +1,13 @@
+{
+  "name": "mortgage-industry-regulations",
+  "displayName": "Mortgage Industry Regulations",
+  "description": "FNMA + FHA + VA + Compliance.",
+  "homepage": "https://claudeforcompliance.com/",
+  "docs": "https://claudeforcompliance.com/",
+  "auth": "none",
+  "mcpServers": {
+    "mortgage-industry-regulations": {
+      "url": "https://mcp.claudeforcompliance.com/mcp"
+    }
+  }
+}

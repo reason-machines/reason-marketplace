@@ -1,0 +1,13 @@
+{
+  "name": "tineo",
+  "displayName": "Tineo",
+  "description": "Organize your travel plans.",
+  "homepage": "https://tineo.ai",
+  "docs": "https://tineo.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "tineo": {
+      "url": "https://api.tineo.ai"
+    }
+  }
+}

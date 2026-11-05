@@ -1,0 +1,13 @@
+{
+  "name": "onelence",
+  "displayName": "OneLence",
+  "description": "Marketing and growth analytics.",
+  "homepage": "https://onelence.com",
+  "docs": "https://onelence.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "onelence": {
+      "url": "https://mcp.onelence.com/mcp"
+    }
+  }
+}

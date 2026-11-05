@@ -1,0 +1,13 @@
+{
+  "name": "zimare-homefit",
+  "displayName": "HomeFit: Rent vs Buy",
+  "description": "Rent vs buy calculator.",
+  "homepage": "https://homefit.zimarelabs.com",
+  "docs": "https://homefit.zimarelabs.com",
+  "auth": "none",
+  "mcpServers": {
+    "zimare-homefit": {
+      "url": "https://homefit.zimarelabs.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "brick-and-mortar-public-records",
+  "displayName": "Brick & Mortar Public Records",
+  "description": "Public records and teardowns.",
+  "homepage": "https://brickandmortar.dev/",
+  "docs": "https://brickandmortar.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "brick-and-mortar-public-records": {
+      "url": "https://brickandmortar.dev/mcp"
+    }
+  }
+}

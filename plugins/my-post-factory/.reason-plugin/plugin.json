@@ -1,0 +1,13 @@
+{
+  "name": "my-post-factory",
+  "displayName": "My Post Factory",
+  "description": "Prepare and schedule posts.",
+  "homepage": "https://mypostfactory.com/en/",
+  "docs": "https://mypostfactory.com/en/",
+  "auth": "oauth",
+  "mcpServers": {
+    "my-post-factory": {
+      "url": "https://mypostfactory.com/mcp"
+    }
+  }
+}

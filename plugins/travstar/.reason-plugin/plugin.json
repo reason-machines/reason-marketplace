@@ -1,0 +1,13 @@
+{
+  "name": "travstar",
+  "displayName": "TravStar",
+  "description": "Australian tours & day trips.",
+  "homepage": "https://www.travstar.com/use-with-ai",
+  "docs": "https://travstar.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "travstar": {
+      "url": "https://www.travstar.com/mcp"
+    }
+  }
+}

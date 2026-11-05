@@ -1,0 +1,13 @@
+{
+  "name": "rtst",
+  "displayName": "RTST AI",
+  "description": "Create AI images and videos.",
+  "homepage": "https://rtst.ai",
+  "docs": "https://rtst.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "rtst": {
+      "url": "https://mcp.rtst.ai/mcp"
+    }
+  }
+}

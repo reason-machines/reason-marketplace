@@ -1,0 +1,13 @@
+{
+  "name": "doola",
+  "displayName": "doola",
+  "description": "Form your US LLC in minutes.",
+  "homepage": "https://www.doola.com",
+  "docs": "https://www.doola.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "doola": {
+      "url": "https://mcp.doola.com/"
+    }
+  }
+}

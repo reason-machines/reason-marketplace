@@ -1,0 +1,13 @@
+{
+  "name": "supercool",
+  "displayName": "SuperCool",
+  "description": "Videos, sites, decks and more.",
+  "homepage": "https://supercool.com",
+  "docs": "https://supercool.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "supercool": {
+      "url": "https://mcp.supercool.com/mcp"
+    }
+  }
+}

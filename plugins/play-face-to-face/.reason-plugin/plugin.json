@@ -1,0 +1,13 @@
+{
+  "name": "play-face-to-face",
+  "displayName": "Play Face to Face",
+  "description": "Play games with friends.",
+  "homepage": "https://playfacetoface.com",
+  "docs": "https://playfacetoface.com",
+  "auth": "none",
+  "mcpServers": {
+    "play-face-to-face": {
+      "url": "https://mcp.playfacetoface.com/mcp"
+    }
+  }
+}

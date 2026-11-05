@@ -1,0 +1,13 @@
+{
+  "name": "longbridge",
+  "displayName": "Longbridge",
+  "description": "Stock quotes, financial data.",
+  "homepage": "https://longbridge.com",
+  "docs": "https://longbridge.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "longbridge": {
+      "url": "https://mcp.longbridge.com/mcp"
+    }
+  }
+}

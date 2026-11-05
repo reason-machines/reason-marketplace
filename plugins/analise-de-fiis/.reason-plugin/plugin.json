@@ -1,0 +1,13 @@
+{
+  "name": "analise-de-fiis",
+  "displayName": "Análise de FIIs",
+  "description": "Brazilian REIT research.",
+  "homepage": "https://analisedefiis.com.br",
+  "docs": "https://analisedefiis.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "analise-de-fiis": {
+      "url": "https://analisedefiis.com.br/mcp"
+    }
+  }
+}

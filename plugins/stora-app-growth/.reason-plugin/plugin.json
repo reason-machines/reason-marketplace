@@ -1,0 +1,13 @@
+{
+  "name": "stora-app-growth",
+  "displayName": "Stora: ASO & Apple Ads",
+  "description": "Grow installs. Make ads count.",
+  "homepage": "https://stora.rocks",
+  "docs": "https://stora.rocks",
+  "auth": "oauth",
+  "mcpServers": {
+    "stora-app-growth": {
+      "url": "https://stora.rocks/mcp"
+    }
+  }
+}

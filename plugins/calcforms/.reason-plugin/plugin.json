@@ -1,0 +1,13 @@
+{
+  "name": "calcforms",
+  "displayName": "CalcForms",
+  "description": "Build and publish calculators.",
+  "homepage": "https://forms.badabingapp.cc/",
+  "docs": "https://forms.badabingapp.cc/",
+  "auth": "oauth",
+  "mcpServers": {
+    "calcforms": {
+      "url": "https://badabingapp.cc/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "roadops",
+  "displayName": "RoadOps",
+  "description": "Plan. Share. Execute.",
+  "homepage": "https://www.roadops.app/",
+  "docs": "https://developer.roadops.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "roadops": {
+      "url": "https://api.roadops.app/mcp"
+    }
+  }
+}

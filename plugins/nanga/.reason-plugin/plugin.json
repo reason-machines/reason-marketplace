@@ -1,0 +1,13 @@
+{
+  "name": "nanga",
+  "displayName": "Nanga",
+  "description": "Your marketing data, read-only.",
+  "homepage": "https://nanga.spark.do",
+  "docs": "https://nanga.spark.do/connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "nanga": {
+      "url": "https://app.nanga.tech/api/mcp"
+    }
+  }
+}

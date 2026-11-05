@@ -1,0 +1,13 @@
+{
+  "name": "petipa",
+  "displayName": "Petipa",
+  "description": "Your plan, one step at a time.",
+  "homepage": "https://petipa.app",
+  "docs": "https://petipa.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "petipa": {
+      "url": "https://petipa.app/mcp"
+    }
+  }
+}

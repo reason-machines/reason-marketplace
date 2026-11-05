@@ -1,0 +1,13 @@
+{
+  "name": "dillr",
+  "displayName": "Dillr",
+  "description": "Save recipes, plan meals, cook.",
+  "homepage": "https://dillr.ai",
+  "docs": "https://dillr.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "dillr": {
+      "url": "https://mcp.dillr.ai/mcp"
+    }
+  }
+}

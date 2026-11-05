@@ -1,0 +1,13 @@
+{
+  "name": "revise",
+  "displayName": "Revise",
+  "description": "Create and edit documents.",
+  "homepage": "https://revise.io",
+  "docs": "https://revise.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "revise": {
+      "url": "https://mcp.revise.io/mcp"
+    }
+  }
+}

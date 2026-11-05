@@ -1,0 +1,13 @@
+{
+  "name": "tabularia",
+  "displayName": "Tabularia",
+  "description": "Read and revise your book.",
+  "homepage": "https://tabularia.app",
+  "docs": "https://tabularia.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "tabularia": {
+      "url": "https://mcp.tabularia.app/mcp"
+    }
+  }
+}

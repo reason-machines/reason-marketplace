@@ -1,0 +1,13 @@
+{
+  "name": "quotemoto-ratefoundry",
+  "displayName": "QuoteMoto RateFoundry",
+  "description": "CA auto estimates & SR-22.",
+  "homepage": "https://www.quotemoto.com",
+  "docs": "https://www.quotemoto.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "quotemoto-ratefoundry": {
+      "url": "https://mcp.quotemoto.com/api/mcp"
+    }
+  }
+}

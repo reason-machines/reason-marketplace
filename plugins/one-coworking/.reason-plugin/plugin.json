@@ -1,0 +1,13 @@
+{
+  "name": "one-coworking",
+  "displayName": "One Coworking",
+  "description": "Find coworking and offices.",
+  "homepage": "https://www.onecoworking.com/ai-assistants",
+  "docs": "https://www.onecoworking.com/ai-assistants",
+  "auth": "none",
+  "mcpServers": {
+    "one-coworking": {
+      "url": "https://www.onecoworking.com/api/mcp"
+    }
+  }
+}

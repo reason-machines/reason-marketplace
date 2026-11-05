@@ -1,0 +1,13 @@
+{
+  "name": "repslog",
+  "displayName": "REPSLog",
+  "description": "Log real estate work hours.",
+  "homepage": "https://www.reps-log.com",
+  "docs": "https://www.reps-log.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "repslog": {
+      "url": "https://api.reps-log.com/api/mcp"
+    }
+  }
+}

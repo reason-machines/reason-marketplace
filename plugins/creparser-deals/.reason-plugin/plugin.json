@@ -1,0 +1,13 @@
+{
+  "name": "creparser-deals",
+  "displayName": "CREparser Deal Review",
+  "description": "Rent rolls, T12s, OMs, loans.",
+  "homepage": "https://www.creparser.com",
+  "docs": "https://www.creparser.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "creparser-deals": {
+      "url": "https://mcp.creparser.com/leases/mcp"
+    }
+  }
+}

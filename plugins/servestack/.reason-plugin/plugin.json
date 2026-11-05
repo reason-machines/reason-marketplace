@@ -1,0 +1,13 @@
+{
+  "name": "servestack",
+  "displayName": "ServeStack",
+  "description": "Tools for restaurant owners.",
+  "homepage": "https://servestack.ai",
+  "docs": "https://servestack.ai",
+  "auth": "none",
+  "mcpServers": {
+    "servestack": {
+      "url": "https://mcp.servestack.ai/mcp"
+    }
+  }
+}

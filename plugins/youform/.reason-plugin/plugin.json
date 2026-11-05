@@ -1,0 +1,13 @@
+{
+  "name": "youform",
+  "displayName": "Youform",
+  "description": "Forms, surveys & quizzes.",
+  "homepage": "https://youform.com",
+  "docs": "https://youform.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "youform": {
+      "url": "https://app.youform.com/mcp"
+    }
+  }
+}

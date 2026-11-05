@@ -1,0 +1,13 @@
+{
+  "name": "servicem8",
+  "displayName": "ServiceM8",
+  "description": "Automate your trade business.",
+  "homepage": "https://www.servicem8.com",
+  "docs": "https://www.servicem8.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "servicem8": {
+      "url": "https://servicem8.com/mcp"
+    }
+  }
+}

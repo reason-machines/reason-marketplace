@@ -1,0 +1,13 @@
+{
+  "name": "pocket-ledger-expense-tracker",
+  "displayName": "Pocket Ledger Expense Tracker",
+  "description": "Expense & budget tracker chat.",
+  "homepage": "https://pocketledger.baronsa.dev",
+  "docs": "https://pocketledger.baronsa.dev/docs/oauth",
+  "auth": "oauth",
+  "mcpServers": {
+    "pocket-ledger-expense-tracker": {
+      "url": "https://pocketledger.baronsa.dev/mcp"
+    }
+  }
+}

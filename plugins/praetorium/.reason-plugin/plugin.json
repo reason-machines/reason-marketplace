@@ -1,0 +1,13 @@
+{
+  "name": "praetorium",
+  "displayName": "Praetorium",
+  "description": "Warhammer 40K army builder.",
+  "homepage": "https://praetorium.gg",
+  "docs": "https://praetorium.gg",
+  "auth": "oauth",
+  "mcpServers": {
+    "praetorium": {
+      "url": "https://praetorium.gg/mcp"
+    }
+  }
+}

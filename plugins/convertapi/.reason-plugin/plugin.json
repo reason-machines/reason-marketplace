@@ -1,0 +1,13 @@
+{
+  "name": "convertapi",
+  "displayName": "ConvertAPI",
+  "description": "File conversion and PDF tools.",
+  "homepage": "https://www.convertapi.com",
+  "docs": "https://convertapi.com/docs/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "convertapi": {
+      "url": "https://mcp.convertapi.io/"
+    }
+  }
+}

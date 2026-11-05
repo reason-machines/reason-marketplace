@@ -1,0 +1,13 @@
+{
+  "name": "bulls-crm",
+  "displayName": "BULLS CRM",
+  "description": "Your phone prospecting CRM.",
+  "homepage": "https://bullaria.com/crm-connecteur-ia-claude-chatgpt",
+  "docs": "https://bullaria.com/crm-connecteur-ia-claude-chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "bulls-crm": {
+      "url": "https://bulls-crm.bullaria.com/mcp"
+    }
+  }
+}

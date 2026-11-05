@@ -1,0 +1,13 @@
+{
+  "name": "brickfact",
+  "displayName": "Brickfact",
+  "description": "Compare LEGO shopping offers.",
+  "homepage": "https://brickfact.com",
+  "docs": "https://brickfact.com",
+  "auth": "none",
+  "mcpServers": {
+    "brickfact": {
+      "url": "https://mcp.brickfact.com/mcp"
+    }
+  }
+}

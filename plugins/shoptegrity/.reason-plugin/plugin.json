@@ -1,0 +1,13 @@
+{
+  "name": "shoptegrity",
+  "displayName": "Shoptegrity",
+  "description": "Shop local and independent.",
+  "homepage": "https://shopteg.com",
+  "docs": "https://shopteg.com",
+  "auth": "none",
+  "mcpServers": {
+    "shoptegrity": {
+      "url": "https://mcp.shopteg.com/mcp"
+    }
+  }
+}

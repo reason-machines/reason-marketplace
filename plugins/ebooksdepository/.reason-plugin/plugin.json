@@ -1,0 +1,13 @@
+{
+  "name": "ebooksdepository",
+  "displayName": "EbooksDepository",
+  "description": "Books, ebooks & audiobooks.",
+  "homepage": "https://ebooksdepository.com",
+  "docs": "https://ebooksdepository.com",
+  "auth": "none",
+  "mcpServers": {
+    "ebooksdepository": {
+      "url": "https://ebooksdepository.com/mcp"
+    }
+  }
+}

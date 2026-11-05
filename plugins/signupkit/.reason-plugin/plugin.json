@@ -1,0 +1,13 @@
+{
+  "name": "signupkit",
+  "displayName": "SignupKit",
+  "description": "Signup sheets from a chat.",
+  "homepage": "https://www.signupkit.co",
+  "docs": "https://www.signupkit.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "signupkit": {
+      "url": "https://signupkit.co/mcp"
+    }
+  }
+}

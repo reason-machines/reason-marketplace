@@ -1,0 +1,13 @@
+{
+  "name": "road-trip-planner",
+  "displayName": "Road Trip Planner",
+  "description": "Find campground stays.",
+  "homepage": "https://parkwith.us/road-trips",
+  "docs": "https://parkwith.us/road-trips",
+  "auth": "none",
+  "mcpServers": {
+    "road-trip-planner": {
+      "url": "https://mcp.parkwith.us/mcp"
+    }
+  }
+}

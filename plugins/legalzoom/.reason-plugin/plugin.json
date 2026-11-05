@@ -1,0 +1,13 @@
+{
+  "name": "legalzoom",
+  "displayName": "LegalZoom",
+  "description": "Get legal info for business.",
+  "homepage": "https://www.legalzoom.com",
+  "docs": "https://www.legalzoom.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "legalzoom": {
+      "url": "https://www.legalzoom.com/mcp"
+    }
+  }
+}

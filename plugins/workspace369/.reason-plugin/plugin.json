@@ -1,0 +1,13 @@
+{
+  "name": "workspace369",
+  "displayName": "Workspace369",
+  "description": "Manage clients, jobs, invoices.",
+  "homepage": "https://workspace369.com",
+  "docs": "https://workspace369.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "workspace369": {
+      "url": "https://mcp.workspace369.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ugcbuilder",
+  "displayName": "UGCBuilder",
+  "description": "Product images and UGC videos.",
+  "homepage": "https://ugcbuilder.com/mcp",
+  "docs": "https://ugcbuilder.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "ugcbuilder": {
+      "url": "https://ugcbuilder.com/api/mcp"
+    }
+  }
+}

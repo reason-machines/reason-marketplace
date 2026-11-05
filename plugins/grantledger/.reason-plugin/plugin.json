@@ -1,0 +1,13 @@
+{
+  "name": "grantledger",
+  "displayName": "GrantLedger",
+  "description": "Public funding across Europe.",
+  "homepage": "https://grantledger.eu/assistant",
+  "docs": "https://grantledger.eu/assistant",
+  "auth": "oauth",
+  "mcpServers": {
+    "grantledger": {
+      "url": "https://grantledger.eu/mcp"
+    }
+  }
+}

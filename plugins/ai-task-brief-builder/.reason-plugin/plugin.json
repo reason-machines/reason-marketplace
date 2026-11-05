@@ -1,0 +1,13 @@
+{
+  "name": "ai-task-brief-builder",
+  "displayName": "AI Task Brief Builder",
+  "description": "Build evidence-based briefs.",
+  "homepage": "https://ai-task-brief-builder.sidcraigau.workers.dev",
+  "docs": "https://ai-task-brief-builder.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "ai-task-brief-builder": {
+      "url": "https://ai-task-brief-builder.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

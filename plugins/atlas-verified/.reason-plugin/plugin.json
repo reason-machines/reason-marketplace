@@ -1,0 +1,13 @@
+{
+  "name": "atlas-verified",
+  "displayName": "Atlas Verified",
+  "description": "Trade intelligence and ops.",
+  "homepage": "https://atlasverified.ai",
+  "docs": "https://api.atlasverified.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlas-verified": {
+      "url": "https://api.atlasverified.ai/mcp"
+    }
+  }
+}

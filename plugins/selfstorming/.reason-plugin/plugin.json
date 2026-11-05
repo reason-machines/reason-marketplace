@@ -1,0 +1,13 @@
+{
+  "name": "selfstorming",
+  "displayName": "Selfstorming",
+  "description": "Marketing ideas and evidence.",
+  "homepage": "https://www.selfstorming.com",
+  "docs": "https://www.selfstorming.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "selfstorming": {
+      "url": "https://www.selfstorming.com/api/mcp"
+    }
+  }
+}

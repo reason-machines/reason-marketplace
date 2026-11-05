@@ -1,0 +1,13 @@
+{
+  "name": "magnific",
+  "displayName": "Magnific",
+  "description": "Create images, video and audio.",
+  "homepage": "https://www.magnific.com/app",
+  "docs": "https://www.magnific.com/app",
+  "auth": "oauth",
+  "mcpServers": {
+    "magnific": {
+      "url": "https://mcp.magnific.com/mcp"
+    }
+  }
+}

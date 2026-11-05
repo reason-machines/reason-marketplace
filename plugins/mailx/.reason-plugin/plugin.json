@@ -1,0 +1,13 @@
+{
+  "name": "mailx",
+  "displayName": "mailX",
+  "description": "Find why your emails hit spam.",
+  "homepage": "https://themailx.com",
+  "docs": "https://themailx.com",
+  "auth": "none",
+  "mcpServers": {
+    "mailx": {
+      "url": "https://themailx.com/mcp"
+    }
+  }
+}

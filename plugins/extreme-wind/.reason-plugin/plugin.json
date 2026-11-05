@@ -1,0 +1,13 @@
+{
+  "name": "extreme-wind",
+  "displayName": "Extreme Wind",
+  "description": "Wind & waves for beach days.",
+  "homepage": "https://www.extremeapp.app",
+  "docs": "https://www.extremeapp.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "extreme-wind": {
+      "url": "https://extremeapp.app/mcp"
+    }
+  }
+}

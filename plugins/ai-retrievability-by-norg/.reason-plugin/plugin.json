@@ -1,0 +1,13 @@
+{
+  "name": "ai-retrievability-by-norg",
+  "displayName": "Norg.AI Retrievability AEO GEO",
+  "description": "Make your website AI-readable.",
+  "homepage": "https://www.norg.ai/",
+  "docs": "https://www.norg.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "ai-retrievability-by-norg": {
+      "url": "https://norg.ai/mcp"
+    }
+  }
+}

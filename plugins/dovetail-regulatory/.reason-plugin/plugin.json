@@ -1,0 +1,13 @@
+{
+  "name": "dovetail-regulatory",
+  "displayName": "Dovetail Regulatory",
+  "description": "Connect to your eQMS.",
+  "homepage": "https://www.withdovetail.com/",
+  "docs": "https://www.withdovetail.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "dovetail-regulatory": {
+      "url": "https://mcp.withdovetail.com/mcp"
+    }
+  }
+}

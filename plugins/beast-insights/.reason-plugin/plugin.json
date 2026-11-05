@@ -1,0 +1,13 @@
+{
+  "name": "beast-insights",
+  "displayName": "Beast Insights",
+  "description": "Decline & dispute answers.",
+  "homepage": "https://beastinsights.com",
+  "docs": "https://beastinsights.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "beast-insights": {
+      "url": "https://mcp.beastinsights.com/mcp"
+    }
+  }
+}

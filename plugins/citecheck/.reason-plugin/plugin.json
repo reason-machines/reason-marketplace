@@ -1,0 +1,13 @@
+{
+  "name": "citecheck",
+  "displayName": "CiteCheck",
+  "description": "Check citation, find authority.",
+  "homepage": "https://objectionacademy.com/",
+  "docs": "https://objectionacademy.com/",
+  "auth": "none",
+  "mcpServers": {
+    "citecheck": {
+      "url": "https://objectionacademy.com/mcp"
+    }
+  }
+}

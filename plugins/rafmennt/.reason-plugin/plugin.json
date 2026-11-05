@@ -1,0 +1,13 @@
+{
+  "name": "rafmennt",
+  "displayName": "Rafmennt",
+  "description": "Courses and exams in Iceland.",
+  "homepage": "https://www.rafmennt.is",
+  "docs": "https://rafmennt.is/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "rafmennt": {
+      "url": "https://www.rafmennt.is/mcp"
+    }
+  }
+}

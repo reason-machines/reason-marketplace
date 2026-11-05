@@ -10,5 +10,14 @@
     "treg": {
       "url": "https://treg.to/mcp/"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "treg",
+      "description": "People and company enrichment, AEO and SEO, ads, social, web scraping, image and video generation through the treg connector. Use when a task needs external or live data; search the catalog by the task, check the endpoint, then call it.",
+      "source": "superdesigndev/treg#c6a4533fffe1a7bf1d3bfceb2ee05df48a21121b",
+      "skill": "treg",
+      "url": "https://github.com/superdesigndev/treg/tree/c6a4533fffe1a7bf1d3bfceb2ee05df48a21121b/dsh/skills/treg"
+    }
+  ]
 }

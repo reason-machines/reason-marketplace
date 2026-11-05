@@ -1,0 +1,13 @@
+{
+  "name": "eat-or-yeet",
+  "displayName": "Eat or Yeet",
+  "description": "Check food warning coverage.",
+  "homepage": "https://www.eatoryeet.app",
+  "docs": "https://www.eatoryeet.app",
+  "auth": "none",
+  "mcpServers": {
+    "eat-or-yeet": {
+      "url": "https://eatoryeet.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "xtiles",
+  "displayName": "xTiles",
+  "description": "Life & Company OS for Reason.",
+  "homepage": "https://xtiles.app/",
+  "docs": "https://xtiles.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "xtiles": {
+      "url": "https://mcp.xtiles.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "petalie",
+  "displayName": "Petalie",
+  "description": "Public TikTok account stats.",
+  "homepage": "https://petalie.ai",
+  "docs": "https://petalie.ai",
+  "auth": "none",
+  "mcpServers": {
+    "petalie": {
+      "url": "https://petalie.ai/mcp"
+    }
+  }
+}

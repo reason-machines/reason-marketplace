@@ -1,0 +1,13 @@
+{
+  "name": "chargen",
+  "displayName": "CharGen",
+  "description": "RPG worlds, media, game assets.",
+  "homepage": "https://char-gen.com/llms.txt",
+  "docs": "https://char-gen.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "chargen": {
+      "url": "https://api.char-gen.com/mcp"
+    }
+  }
+}

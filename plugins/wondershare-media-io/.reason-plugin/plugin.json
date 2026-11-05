@@ -1,0 +1,13 @@
+{
+  "name": "wondershare-media-io",
+  "displayName": "Wondershare Media.io",
+  "description": "Create images and videos.",
+  "homepage": "https://www.media.io/ai/home",
+  "docs": "https://www.media.io/ai/home",
+  "auth": "oauth",
+  "mcpServers": {
+    "wondershare-media-io": {
+      "url": "https://mcp.media.io/mcp"
+    }
+  }
+}

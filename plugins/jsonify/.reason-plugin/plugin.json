@@ -1,0 +1,13 @@
+{
+  "name": "jsonify",
+  "displayName": "Jsonify",
+  "description": "Reliable web data, on repeat.",
+  "homepage": "https://www.jsonify.com",
+  "docs": "https://www.jsonify.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "jsonify": {
+      "url": "https://factory.jsonify.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wever-brief",
+  "displayName": "Wever Brief",
+  "description": "Daily briefs for operators.",
+  "homepage": "https://weverlabs.com",
+  "docs": "https://weverlabs.com",
+  "auth": "none",
+  "mcpServers": {
+    "wever-brief": {
+      "url": "https://weverlabs.com/mcp"
+    }
+  }
+}

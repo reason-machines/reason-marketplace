@@ -1,0 +1,13 @@
+{
+  "name": "tourer-travel",
+  "displayName": "Tourer Travel",
+  "description": "Private transfers in Turkey.",
+  "homepage": "https://tourertravel.com/en/",
+  "docs": "https://tourertravel.com/en/",
+  "auth": "none",
+  "mcpServers": {
+    "tourer-travel": {
+      "url": "https://tourertravel.com/mcp"
+    }
+  }
+}

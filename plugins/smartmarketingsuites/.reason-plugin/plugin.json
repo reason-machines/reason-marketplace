@@ -1,0 +1,13 @@
+{
+  "name": "smartmarketingsuites",
+  "displayName": "SmartMarketingSuites",
+  "description": "Diagnoses revenue leaks.",
+  "homepage": "https://smartmarketingsuites.com/",
+  "docs": "https://smartmarketingsuites.com/",
+  "auth": "none",
+  "mcpServers": {
+    "smartmarketingsuites": {
+      "url": "https://mcp.smartmarketingsuites.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "viddyscribe",
+  "displayName": "ViddyScribe",
+  "description": "Audio descriptions for video.",
+  "homepage": "https://viddyscribe.com",
+  "docs": "https://viddyscribe.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "viddyscribe": {
+      "url": "https://mcp.viddyscribe.com/mcp"
+    }
+  }
+}

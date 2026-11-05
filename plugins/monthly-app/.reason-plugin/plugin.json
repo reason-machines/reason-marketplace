@@ -1,0 +1,13 @@
+{
+  "name": "monthly-app",
+  "displayName": "Monthly",
+  "description": "Your monthly budget.",
+  "homepage": "https://monthly.com.ar/",
+  "docs": "https://monthly.com.ar/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "monthly-app": {
+      "url": "https://app.monthly.com.ar/api/mcp"
+    }
+  }
+}

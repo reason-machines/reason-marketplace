@@ -1,0 +1,13 @@
+{
+  "name": "moa",
+  "displayName": "moa",
+  "description": "Ask your meeting notes.",
+  "homepage": "https://moa.codes/connect",
+  "docs": "https://moa.codes/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "moa": {
+      "url": "https://mcp.moa.codes/mcp"
+    }
+  }
+}

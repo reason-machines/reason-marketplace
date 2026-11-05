@@ -1,0 +1,13 @@
+{
+  "name": "cranes",
+  "displayName": "Cranes",
+  "description": "You are what you think.",
+  "homepage": "https://usecranes.com",
+  "docs": "https://usecranes.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cranes": {
+      "url": "https://usecranes.com/mcp"
+    }
+  }
+}

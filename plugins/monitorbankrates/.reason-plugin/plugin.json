@@ -1,0 +1,13 @@
+{
+  "name": "monitorbankrates",
+  "displayName": "MonitorBankRates",
+  "description": "Find the Best Rates.",
+  "homepage": "https://www.monitorbankrates.com/",
+  "docs": "https://www.monitorbankrates.com/",
+  "auth": "none",
+  "mcpServers": {
+    "monitorbankrates": {
+      "url": "https://mcp.monitorbankrates.com/mcp"
+    }
+  }
+}

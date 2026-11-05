@@ -1,0 +1,13 @@
+{
+  "name": "auracalcs-paycheck",
+  "displayName": "AuraCalcs Paycheck Estimates",
+  "description": "2026 paycheck and 1099 taxes.",
+  "homepage": "https://auracalcs.com/",
+  "docs": "https://auracalcs.com/",
+  "auth": "none",
+  "mcpServers": {
+    "auracalcs-paycheck": {
+      "url": "https://mcp.auracalcs.com/mcp"
+    }
+  }
+}

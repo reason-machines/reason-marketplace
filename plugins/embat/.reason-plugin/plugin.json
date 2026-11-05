@@ -1,0 +1,13 @@
+{
+  "name": "embat",
+  "displayName": "Embat",
+  "description": "Chat with Embat.",
+  "homepage": "https://www.embat.io/",
+  "docs": "https://tedix.dev/apps/embat/",
+  "auth": "oauth",
+  "mcpServers": {
+    "embat": {
+      "url": "https://tellme.embat.io/mcp"
+    }
+  }
+}

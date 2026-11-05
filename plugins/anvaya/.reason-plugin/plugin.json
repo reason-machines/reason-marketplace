@@ -1,0 +1,13 @@
+{
+  "name": "anvaya",
+  "displayName": "Anvaya",
+  "description": "Plan your multi-event Wedding.",
+  "homepage": "https://anvaya.love/",
+  "docs": "https://anvaya.love/",
+  "auth": "oauth",
+  "mcpServers": {
+    "anvaya": {
+      "url": "https://mcp.anvaya.love/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rentalcal",
+  "displayName": "RentalCal",
+  "description": "Book vacation rentals direct.",
+  "homepage": "https://www.rentalcal.com",
+  "docs": "https://rentalcal.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "rentalcal": {
+      "url": "https://api.rentalcal.com/mcp"
+    }
+  }
+}

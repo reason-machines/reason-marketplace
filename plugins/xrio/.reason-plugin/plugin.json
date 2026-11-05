@@ -1,0 +1,13 @@
+{
+  "name": "xrio",
+  "displayName": "xrio",
+  "description": "Check and create e-invoices.",
+  "homepage": "https://xrio.de",
+  "docs": "https://xrio.de/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "xrio": {
+      "url": "https://api.xrio.de/mcp"
+    }
+  }
+}

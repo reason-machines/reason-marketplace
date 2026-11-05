@@ -1,0 +1,13 @@
+{
+  "name": "infrabase",
+  "displayName": "Infrabase",
+  "description": "AI infra directory and prices.",
+  "homepage": "https://infrabase.ai",
+  "docs": "https://infrabase.ai",
+  "auth": "none",
+  "mcpServers": {
+    "infrabase": {
+      "url": "https://infrabase.ai/mcp"
+    }
+  }
+}

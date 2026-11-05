@@ -1,0 +1,13 @@
+{
+  "name": "strategytune-backtesting",
+  "displayName": "StrategyTune: Backtesting",
+  "description": "Research and backtest ideas.",
+  "homepage": "https://strategytune.com",
+  "docs": "https://strategytune.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "strategytune-backtesting": {
+      "url": "https://strategytune.com/mcp"
+    }
+  }
+}

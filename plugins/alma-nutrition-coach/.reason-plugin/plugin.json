@@ -1,0 +1,13 @@
+{
+  "name": "alma-nutrition-coach",
+  "displayName": "Alma: Nutrition Coach",
+  "description": "Find what your diet misses.",
+  "homepage": "https://alma.food",
+  "docs": "https://alma.food",
+  "auth": "oauth",
+  "mcpServers": {
+    "alma-nutrition-coach": {
+      "url": "https://mcp.alma.food/"
+    }
+  }
+}

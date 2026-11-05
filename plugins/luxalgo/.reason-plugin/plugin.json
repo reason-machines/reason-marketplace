@@ -1,0 +1,13 @@
+{
+  "name": "luxalgo",
+  "displayName": "LuxAlgo",
+  "description": "Trading research and journal.",
+  "homepage": "https://www.luxalgo.com/",
+  "docs": "https://www.luxalgo.com/",
+  "auth": "none",
+  "mcpServers": {
+    "luxalgo": {
+      "url": "https://mcp.luxalgo.com/mcp"
+    }
+  }
+}

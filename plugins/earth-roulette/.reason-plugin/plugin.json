@@ -1,0 +1,13 @@
+{
+  "name": "earth-roulette",
+  "displayName": "Earth Roulette",
+  "description": "Random trips and cheap flights.",
+  "homepage": "https://earthroulette.com",
+  "docs": "https://earthroulette.com",
+  "auth": "none",
+  "mcpServers": {
+    "earth-roulette": {
+      "url": "https://earthroulette.com/mcp"
+    }
+  }
+}

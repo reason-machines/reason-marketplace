@@ -1,0 +1,13 @@
+{
+  "name": "tchin",
+  "displayName": "Tchin",
+  "description": "Mobile Money payments in FCFA.",
+  "homepage": "https://tchin.tech",
+  "docs": "https://tchin.tech",
+  "auth": "oauth",
+  "mcpServers": {
+    "tchin": {
+      "url": "https://tchin.tech/mcp"
+    }
+  }
+}

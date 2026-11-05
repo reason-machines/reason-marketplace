@@ -1,0 +1,13 @@
+{
+  "name": "dealmachine",
+  "displayName": "DealMachine",
+  "description": "Find property and owner leads.",
+  "homepage": "https://www.dealmachine.com",
+  "docs": "https://www.dealmachine.com",
+  "auth": "none",
+  "mcpServers": {
+    "dealmachine": {
+      "url": "https://mcp.dealmachine.com/mcp"
+    }
+  }
+}

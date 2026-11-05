@@ -1,0 +1,13 @@
+{
+  "name": "arctic-white",
+  "displayName": "Arctic White",
+  "description": "Lab consumables in stock.",
+  "homepage": "https://arcticsci.com/ai",
+  "docs": "https://arcticsci.com/ai",
+  "auth": "none",
+  "mcpServers": {
+    "arctic-white": {
+      "url": "https://arcticsci.com/mcp"
+    }
+  }
+}

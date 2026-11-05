@@ -1,0 +1,13 @@
+{
+  "name": "hooklayer",
+  "displayName": "HookLayer",
+  "description": "Creator & commerce insights.",
+  "homepage": "https://hooklayer.dev",
+  "docs": "https://hooklayer.dev/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "hooklayer": {
+      "url": "https://hooklayer.dev/api/mcp"
+    }
+  }
+}

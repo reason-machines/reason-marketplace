@@ -1,0 +1,13 @@
+{
+  "name": "moviegroupies",
+  "displayName": "moviegroupies",
+  "description": "movie watchlists, with friends.",
+  "homepage": "https://moviegroupies.app/",
+  "docs": "https://moviegroupies.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "moviegroupies": {
+      "url": "https://mcp.moviegroupies.app/mcp"
+    }
+  }
+}

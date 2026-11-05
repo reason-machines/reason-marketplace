@@ -1,0 +1,13 @@
+{
+  "name": "finology-software",
+  "displayName": "Finology Software",
+  "description": "Student loan repayment math.",
+  "homepage": "https://finology.tech/",
+  "docs": "https://finology.tech/",
+  "auth": "oauth",
+  "mcpServers": {
+    "finology-software": {
+      "url": "https://mcp.finology.tech/mcp"
+    }
+  }
+}

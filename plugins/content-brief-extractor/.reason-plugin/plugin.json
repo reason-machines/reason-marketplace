@@ -1,0 +1,13 @@
+{
+  "name": "content-brief-extractor",
+  "displayName": "Content Brief Extractor",
+  "description": "Extract content brief fields.",
+  "homepage": "https://task-app-hub-content-chain.belong514829670.workers.dev/content-brief-extractor",
+  "docs": "https://task-app-hub-content-chain.belong514829670.workers.dev/content-brief-extractor",
+  "auth": "none",
+  "mcpServers": {
+    "content-brief-extractor": {
+      "url": "https://task-app-hub-content-chain.belong514829670.workers.dev/content-brief-extractor/mcp"
+    }
+  }
+}

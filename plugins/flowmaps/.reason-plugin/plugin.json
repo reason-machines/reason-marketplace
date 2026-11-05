@@ -1,0 +1,13 @@
+{
+  "name": "flowmaps",
+  "displayName": "Flowmaps",
+  "description": "Plan your app in build order.",
+  "homepage": "https://flowmaps.app",
+  "docs": "https://flowmaps.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "flowmaps": {
+      "url": "https://flowmaps.app/api/mcp"
+    }
+  }
+}

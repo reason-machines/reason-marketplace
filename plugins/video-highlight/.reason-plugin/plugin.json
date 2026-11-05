@@ -1,0 +1,13 @@
+{
+  "name": "video-highlight",
+  "displayName": "Video Highlight",
+  "description": "Search your video library.",
+  "homepage": "https://videohighlight.com/connectors",
+  "docs": "https://videohighlight.com/connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "video-highlight": {
+      "url": "https://mcp.videohighlight.com/mcp"
+    }
+  }
+}

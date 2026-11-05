@@ -1,0 +1,13 @@
+{
+  "name": "triathlon-pace",
+  "displayName": "Triathlon Pace",
+  "description": "Triathlon races and training.",
+  "homepage": "https://triathlonpace.com",
+  "docs": "https://triathlonpace.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "triathlon-pace": {
+      "url": "https://mcp.triathlonpace.com/mcp"
+    }
+  }
+}

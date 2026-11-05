@@ -1,0 +1,13 @@
+{
+  "name": "autoprint",
+  "displayName": "AutoPrint",
+  "description": "Print your art.",
+  "homepage": "https://autoprintstudio.com/",
+  "docs": "https://autoprintstudio.com/",
+  "auth": "none",
+  "mcpServers": {
+    "autoprint": {
+      "url": "https://autoprintstudio.com/mcp"
+    }
+  }
+}

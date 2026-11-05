@@ -1,0 +1,13 @@
+{
+  "name": "planned",
+  "displayName": "Planned",
+  "description": "Plan and manage events.",
+  "homepage": "https://planned.com",
+  "docs": "https://planned.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "planned": {
+      "url": "https://mcp.planned.com/mcp"
+    }
+  }
+}

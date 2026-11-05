@@ -1,0 +1,13 @@
+{
+  "name": "rxiq",
+  "displayName": "RxIQ",
+  "description": "NHS primary care prescribing.",
+  "homepage": "https://rxiq.co.uk/connect",
+  "docs": "https://rxiq.co.uk/connect",
+  "auth": "none",
+  "mcpServers": {
+    "rxiq": {
+      "url": "https://rxiq.co.uk/mcp"
+    }
+  }
+}

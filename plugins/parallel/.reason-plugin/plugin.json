@@ -1,0 +1,13 @@
+{
+  "name": "parallel",
+  "displayName": "Parallel",
+  "description": "Access Parallel financial data.",
+  "homepage": "https://getparallel.com",
+  "docs": "https://tedix.dev/apps/parallel/",
+  "auth": "oauth",
+  "mcpServers": {
+    "parallel": {
+      "url": "https://api.getparallel.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "storyflow",
+  "displayName": "Storyflow",
+  "description": "Plan projects on visual boards.",
+  "homepage": "https://storyflow.so",
+  "docs": "https://storyflow.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "storyflow": {
+      "url": "https://mcp.storyflow.so/mcp"
+    }
+  }
+}

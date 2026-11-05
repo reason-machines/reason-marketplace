@@ -1,0 +1,13 @@
+{
+  "name": "bookyolo",
+  "displayName": "BookYolo",
+  "description": "Sanity Check Your Next Stay.",
+  "homepage": "https://bookyolo.com/",
+  "docs": "https://bookyolo.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "bookyolo": {
+      "url": "https://mcp.bookyolo.com/mcp"
+    }
+  }
+}

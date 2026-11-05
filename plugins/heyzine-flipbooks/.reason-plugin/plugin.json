@@ -1,0 +1,13 @@
+{
+  "name": "heyzine-flipbooks",
+  "displayName": "Heyzine Flipbooks",
+  "description": "Publish interactive flipbooks.",
+  "homepage": "https://heyzine.com",
+  "docs": "https://heyzine.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "heyzine-flipbooks": {
+      "url": "https://heyzine.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wevi",
+  "displayName": "Wevi",
+  "description": "Product videos from templates.",
+  "homepage": "https://wevi.ai",
+  "docs": "https://wevi.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "wevi": {
+      "url": "https://mcp.wevi.ai/mcp"
+    }
+  }
+}

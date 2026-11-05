@@ -1,0 +1,43 @@
+{
+  "name": "tough-tongue-ai",
+  "displayName": "Tough Tongue AI",
+  "description": "Automate and practice calls.",
+  "homepage": "https://app.toughtongueai.com",
+  "docs": "https://app.toughtongueai.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "tough-tongue-ai": {
+      "url": "https://api.toughtongueai.com/api/public/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "ttai-agent",
+      "description": "Creates, edits, and refines Tough Tongue AI Scenarios, the definitions behind voice agents (sales calls, lead qualification, demos, screening, support, booking) and practice roleplays (negotiations, interviews, coaching). Writes ai_instructions, ai_model_config, strategy, tools_config, and rubrik th",
+      "source": "tough-tongue/toughtongue-skills#c700f74491314dd08513dfd41bb273ab4e11dd2c",
+      "skill": "ttai-agent",
+      "url": "https://github.com/tough-tongue/toughtongue-skills/tree/c700f74491314dd08513dfd41bb273ab4e11dd2c/skills/ttai-agent"
+    },
+    {
+      "name": "ttai-agent-apps",
+      "description": "Creates and maintains Agent Desktop apps for Tough Tongue AI voice agents: small React packages (README.md, code, an editable data or control file, and spec.json) that the agent opens and drives beside a live session, such as a board, checklist, scorecard, or presentation deck. Finds, creates, write",
+      "source": "tough-tongue/toughtongue-skills#c700f74491314dd08513dfd41bb273ab4e11dd2c",
+      "skill": "ttai-agent-apps",
+      "url": "https://github.com/tough-tongue/toughtongue-skills/tree/c700f74491314dd08513dfd41bb273ab4e11dd2c/skills/ttai-agent-apps"
+    },
+    {
+      "name": "ttai-browser-demo-builder",
+      "description": "Scripts deterministic browser demo steps (tools_config.tools.browser.tool_settings.steps) on an existing Tough Tongue AI Scenario, so its voice agent clicks exact XPath selectors instead of improvising. Signs the demo browser in with ttai:authenticate_browser, converts a pasted browser recording or ",
+      "source": "tough-tongue/toughtongue-skills#c700f74491314dd08513dfd41bb273ab4e11dd2c",
+      "skill": "ttai-browser-demo-builder",
+      "url": "https://github.com/tough-tongue/toughtongue-skills/tree/c700f74491314dd08513dfd41bb273ab4e11dd2c/skills/ttai-browser-demo-builder"
+    },
+    {
+      "name": "ttai-session-analyst",
+      "description": "Turns Tough Tongue AI sessions into evidence-backed reports. Reads sessions, scores, report cards, strengths, weaknesses, and transcripts from practice roleplays, AI phone calls, and meeting-bot calls for a Scenario, person, or date range, then writes team performance, Scenario health, or individual",
+      "source": "tough-tongue/toughtongue-skills#c700f74491314dd08513dfd41bb273ab4e11dd2c",
+      "skill": "ttai-session-analyst",
+      "url": "https://github.com/tough-tongue/toughtongue-skills/tree/c700f74491314dd08513dfd41bb273ab4e11dd2c/skills/ttai-session-analyst"
+    }
+  ]
+}

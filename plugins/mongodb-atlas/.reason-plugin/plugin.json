@@ -10,5 +10,49 @@
     "mongodb-atlas": {
       "url": "https://mcp.mongodb.com"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "mongodb-atlas-stream-processing",
+      "description": "Manages MongoDB Atlas Stream Processing (ASP) workflows. Handles workspace provisioning, data source/sink connections, processor lifecycle operations, debugging diagnostics, and tier sizing. Supports Kafka, Atlas clusters, S3, HTTPS, and Lambda integrations for streaming data workloads and event pro",
+      "source": "mongodb/agent-skills#155bb9c4b42a9a3e019f47be0669de0e4547d1ea",
+      "skill": "mongodb-atlas-stream-processing",
+      "url": "https://github.com/mongodb/agent-skills/tree/155bb9c4b42a9a3e019f47be0669de0e4547d1ea/plugins/mongodb-atlas/skills/mongodb-atlas-stream-processing"
+    },
+    {
+      "name": "mongodb-connection",
+      "description": "Optimize MongoDB client connection configuration (pools, timeouts, patterns) for any supported driver language. Use this skill when working/updating/reviewing on functions that instantiate or configure a MongoDB client (eg, when calling `connect()`), configuring connection pools, troubleshooting con",
+      "source": "mongodb/agent-skills#155bb9c4b42a9a3e019f47be0669de0e4547d1ea",
+      "skill": "mongodb-connection",
+      "url": "https://github.com/mongodb/agent-skills/tree/155bb9c4b42a9a3e019f47be0669de0e4547d1ea/plugins/mongodb-atlas/skills/mongodb-connection"
+    },
+    {
+      "name": "mongodb-natural-language-querying",
+      "description": "Generate read-only MongoDB queries (find) or aggregation pipelines using natural language, with collection schema context and sample documents. Use this skill whenever the user asks to write, create, or generate MongoDB queries, wants to filter/query/aggregate data in MongoDB, asks \"how do I query..",
+      "source": "mongodb/agent-skills#155bb9c4b42a9a3e019f47be0669de0e4547d1ea",
+      "skill": "mongodb-natural-language-querying",
+      "url": "https://github.com/mongodb/agent-skills/tree/155bb9c4b42a9a3e019f47be0669de0e4547d1ea/plugins/mongodb-atlas/skills/mongodb-natural-language-querying"
+    },
+    {
+      "name": "mongodb-query-optimizer",
+      "description": "Help with MongoDB query optimization and indexing. Use only when the user asks for optimization or performance: \"How do I optimize this query?\", \"How do I index this?\", \"Why is this query slow?\", \"Can you fix my slow queries?\", \"What are the slow queries on my cluster?\", etc. Do not invoke for gener",
+      "source": "mongodb/agent-skills#155bb9c4b42a9a3e019f47be0669de0e4547d1ea",
+      "skill": "mongodb-query-optimizer",
+      "url": "https://github.com/mongodb/agent-skills/tree/155bb9c4b42a9a3e019f47be0669de0e4547d1ea/plugins/mongodb-atlas/skills/mongodb-query-optimizer"
+    },
+    {
+      "name": "mongodb-schema-design",
+      "description": "MongoDB schema design patterns and anti-patterns. Use when designing data models, reviewing schemas, migrating from SQL, or troubleshooting performance issues caused by schema problems. Triggers on \"design schema\", \"embed vs reference\", \"MongoDB data model\", \"schema review\", \"unbounded arrays\", \"one",
+      "source": "mongodb/agent-skills#155bb9c4b42a9a3e019f47be0669de0e4547d1ea",
+      "skill": "mongodb-schema-design",
+      "url": "https://github.com/mongodb/agent-skills/tree/155bb9c4b42a9a3e019f47be0669de0e4547d1ea/plugins/mongodb-atlas/skills/mongodb-schema-design"
+    },
+    {
+      "name": "mongodb-search-and-ai",
+      "description": "Guides MongoDB users through implementing and optimizing Atlas Search (full-text), Vector Search (semantic), and Hybrid Search solutions. Use this skill when users need to build search functionality for text-based queries (autocomplete, fuzzy matching, faceted search), semantic similarity (embedding",
+      "source": "mongodb/agent-skills#155bb9c4b42a9a3e019f47be0669de0e4547d1ea",
+      "skill": "mongodb-search-and-ai",
+      "url": "https://github.com/mongodb/agent-skills/tree/155bb9c4b42a9a3e019f47be0669de0e4547d1ea/plugins/mongodb-atlas/skills/mongodb-search-and-ai"
+    }
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "name": "saive",
+  "displayName": "Saive",
+  "description": "Your saved reading, in chat.",
+  "homepage": "https://saive.my",
+  "docs": "https://app.saive.my/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "saive": {
+      "url": "https://app.saive.my/api/mcp"
+    }
+  }
+}

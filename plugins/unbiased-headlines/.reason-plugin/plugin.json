@@ -1,0 +1,13 @@
+{
+  "name": "unbiased-headlines",
+  "displayName": "Unbiased Headlines",
+  "description": "Facts. Not Spin. No bias.",
+  "homepage": "https://unbiasedheadlines.com",
+  "docs": "https://unbiasedheadlines.com",
+  "auth": "none",
+  "mcpServers": {
+    "unbiased-headlines": {
+      "url": "https://unbiasedheadlines.com/mcp"
+    }
+  }
+}

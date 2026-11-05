@@ -1,0 +1,13 @@
+{
+  "name": "egnyte",
+  "displayName": "Egnyte",
+  "description": "Find and manage Egnyte files.",
+  "homepage": "https://www.egnyte.com",
+  "docs": "https://developers.egnyte.com/integration/cfs/api-docs/remote-mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "egnyte": {
+      "url": "https://mcp-server.egnyte.com/mcp"
+    }
+  }
+}

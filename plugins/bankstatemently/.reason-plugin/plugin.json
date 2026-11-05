@@ -1,0 +1,13 @@
+{
+  "name": "bankstatemently",
+  "displayName": "Bankstatemently",
+  "description": "Convert bank statements.",
+  "homepage": "https://bankstatemently.com/",
+  "docs": "https://bankstatemently.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "bankstatemently": {
+      "url": "https://api.bankstatemently.com/mcp"
+    }
+  }
+}

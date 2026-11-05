@@ -1,0 +1,13 @@
+{
+  "name": "to3d",
+  "displayName": "to3D",
+  "description": "Convert 2D images into 3D glTF.",
+  "homepage": "https://to3d.app/",
+  "docs": "https://to3d.app/",
+  "auth": "none",
+  "mcpServers": {
+    "to3d": {
+      "url": "https://mcp.to3d.app/mcp"
+    }
+  }
+}

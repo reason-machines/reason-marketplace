@@ -1,0 +1,13 @@
+{
+  "name": "document360",
+  "displayName": "Document360",
+  "description": "Manage knowledge base content.",
+  "homepage": "https://document360.com/",
+  "docs": "https://document360.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "document360": {
+      "url": "https://mcp.document360.io/mcp"
+    }
+  }
+}

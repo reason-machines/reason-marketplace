@@ -1,0 +1,13 @@
+{
+  "name": "nghe-content-public-directory",
+  "displayName": "Kho tri thức Nghề Content",
+  "description": "Kiến thức viết content viral.",
+  "homepage": "https://khotrithuc.vn",
+  "docs": "https://khotrithuc.vn",
+  "auth": "none",
+  "mcpServers": {
+    "nghe-content-public-directory": {
+      "url": "https://mcp.khotrithuc.vn/mcp"
+    }
+  }
+}

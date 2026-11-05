@@ -1,0 +1,78 @@
+{
+  "name": "ubersuggest",
+  "displayName": "Ubersuggest",
+  "description": "SEO research tools.",
+  "homepage": "https://ubersuggest.com",
+  "docs": "https://neilpatel.com/blog/ubersuggest-mcp-connector-guide/",
+  "auth": "oauth",
+  "mcpServers": {
+    "ubersuggest": {
+      "url": "https://ubersuggest-mcp.neilpatelapi.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "ai-visibility",
+      "description": "Report how visible a brand is inside AI answers (ChatGPT, Perplexity, Google AI Overviews, Claude) using Ubersuggest's AI Search Visibility data. Use when the user asks whether ChatGPT or other AI tools mention their brand, about AI search visibility, share of voice in AI answers, AEO or GEO, brand ",
+      "source": "ubersuggest/seo-skills#52164a19bfde7280348424f7dcdaad37f1c8409d",
+      "skill": "ai-visibility",
+      "url": "https://github.com/ubersuggest/seo-skills/tree/52164a19bfde7280348424f7dcdaad37f1c8409d/plugins/ubersuggest/skills/ai-visibility"
+    },
+    {
+      "name": "competitor-analysis",
+      "description": "Analyse a domain and its organic competitors, then report the keyword and content gaps. Use when the user asks who their competitors are, why a competitor outranks them, what keywords a competitor ranks for, which pages drive a competitor's traffic, how their domain compares to another, or asks for ",
+      "source": "ubersuggest/seo-skills#52164a19bfde7280348424f7dcdaad37f1c8409d",
+      "skill": "competitor-analysis",
+      "url": "https://github.com/ubersuggest/seo-skills/tree/52164a19bfde7280348424f7dcdaad37f1c8409d/plugins/ubersuggest/skills/competitor-analysis"
+    },
+    {
+      "name": "content-brief",
+      "description": "Build a data-backed content brief for a target keyword by analysing who currently ranks and why. Use when the user asks what to write about a keyword, how to outline or structure an article, what headings or topics to cover, how long a post should be, how to beat the pages currently ranking, or asks",
+      "source": "ubersuggest/seo-skills#52164a19bfde7280348424f7dcdaad37f1c8409d",
+      "skill": "content-brief",
+      "url": "https://github.com/ubersuggest/seo-skills/tree/52164a19bfde7280348424f7dcdaad37f1c8409d/plugins/ubersuggest/skills/content-brief"
+    },
+    {
+      "name": "content-demand-finder",
+      "description": "Turn a business description into 50 customer-driven content opportunities — a Content Demand Map of problem clusters, the questions customers ask, and the articles or videos that answer them. Use when the user does not know what to write about, asks for a content plan, content strategy, editorial ca",
+      "source": "ubersuggest/seo-skills#52164a19bfde7280348424f7dcdaad37f1c8409d",
+      "skill": "content-demand-finder",
+      "url": "https://github.com/ubersuggest/seo-skills/tree/52164a19bfde7280348424f7dcdaad37f1c8409d/plugins/ubersuggest/skills/content-demand-finder"
+    },
+    {
+      "name": "keyword-research",
+      "description": "Run a full keyword research pass for a topic, niche, product or business and return a prioritised keyword list grouped into clusters. Use when the user asks to find keywords, do keyword research, discover what people search for, check search volume or difficulty for a topic, or find long-tail or low",
+      "source": "ubersuggest/seo-skills#52164a19bfde7280348424f7dcdaad37f1c8409d",
+      "skill": "keyword-research",
+      "url": "https://github.com/ubersuggest/seo-skills/tree/52164a19bfde7280348424f7dcdaad37f1c8409d/plugins/ubersuggest/skills/keyword-research"
+    },
+    {
+      "name": "project-setup",
+      "description": "Set a website up in Ubersuggest for the first time — create the project, describe the business, pick competitors, choose the topics and prompts tracked in AI answers, and select keywords to rank-track. Use when the user has no project yet, says they just signed up, asks how to get started, wants to ",
+      "source": "ubersuggest/seo-skills#52164a19bfde7280348424f7dcdaad37f1c8409d",
+      "skill": "project-setup",
+      "url": "https://github.com/ubersuggest/seo-skills/tree/52164a19bfde7280348424f7dcdaad37f1c8409d/plugins/ubersuggest/skills/project-setup"
+    },
+    {
+      "name": "seo-action-plan",
+      "description": "Look at a website and decide what its owner should do next about SEO, in plain language, without making them choose. Use when the user does not know where to start, asks what is wrong with their site, whether their SEO is any good, why they get no traffic, what to do first, or hands over a domain wi",
+      "source": "ubersuggest/seo-skills#52164a19bfde7280348424f7dcdaad37f1c8409d",
+      "skill": "seo-action-plan",
+      "url": "https://github.com/ubersuggest/seo-skills/tree/52164a19bfde7280348424f7dcdaad37f1c8409d/plugins/ubersuggest/skills/seo-action-plan"
+    },
+    {
+      "name": "seo-foundations",
+      "description": "Core SEO know-how and the map from a user's goal to the right Ubersuggest MCP tool. Use whenever the user asks anything about SEO, keywords, search volume, rankings, organic traffic, competitors, backlinks, domain authority, site health, Core Web Vitals, content strategy, or brand visibility in AI a",
+      "source": "ubersuggest/seo-skills#52164a19bfde7280348424f7dcdaad37f1c8409d",
+      "skill": "seo-foundations",
+      "url": "https://github.com/ubersuggest/seo-skills/tree/52164a19bfde7280348424f7dcdaad37f1c8409d/plugins/ubersuggest/skills/seo-foundations"
+    },
+    {
+      "name": "site-audit",
+      "description": "Crawl a site for technical SEO problems and report prioritised fixes with Core Web Vitals. Use when the user asks for a site audit, a technical SEO check, why their site is slow, whether their site has SEO errors, about broken links, missing titles or H1s, duplicate content, Core Web Vitals, PageSpe",
+      "source": "ubersuggest/seo-skills#52164a19bfde7280348424f7dcdaad37f1c8409d",
+      "skill": "site-audit",
+      "url": "https://github.com/ubersuggest/seo-skills/tree/52164a19bfde7280348424f7dcdaad37f1c8409d/plugins/ubersuggest/skills/site-audit"
+    }
+  ]
+}

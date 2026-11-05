@@ -1,0 +1,13 @@
+{
+  "name": "dex",
+  "displayName": "Dex",
+  "description": "Manage contacts and follow-ups.",
+  "homepage": "https://getdex.com",
+  "docs": "https://getdex.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dex": {
+      "url": "https://mcp.getdex.com/mcp"
+    }
+  }
+}

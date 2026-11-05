@@ -1,0 +1,13 @@
+{
+  "name": "inline",
+  "displayName": "Inline",
+  "description": "Work chats in Reason.",
+  "homepage": "https://inline.chat",
+  "docs": "https://inline.chat",
+  "auth": "oauth",
+  "mcpServers": {
+    "inline": {
+      "url": "https://mcp.inline.chat/mcp"
+    }
+  }
+}

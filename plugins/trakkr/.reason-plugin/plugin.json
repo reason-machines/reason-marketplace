@@ -1,0 +1,13 @@
+{
+  "name": "trakkr",
+  "displayName": "Trakkr",
+  "description": "Track AI search visibility.",
+  "homepage": "https://trakkr.ai",
+  "docs": "https://trakkr.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "trakkr": {
+      "url": "https://api.trakkr.ai/mcp"
+    }
+  }
+}

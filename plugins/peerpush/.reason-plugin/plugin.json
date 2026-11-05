@@ -1,0 +1,13 @@
+{
+  "name": "peerpush",
+  "displayName": "PeerPush",
+  "description": "Find & compare software tools.",
+  "homepage": "https://peerpush.com",
+  "docs": "https://peerpush.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "peerpush": {
+      "url": "https://peerpush.com/api/mcp"
+    }
+  }
+}

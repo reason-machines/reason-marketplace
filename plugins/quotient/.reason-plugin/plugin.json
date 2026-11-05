@@ -1,0 +1,13 @@
+{
+  "name": "quotient",
+  "displayName": "Quotient",
+  "description": "GTM & marketing automation.",
+  "homepage": "https://www.getquotient.ai",
+  "docs": "https://www.getquotient.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "quotient": {
+      "url": "https://getquotient.ai/mcp"
+    }
+  }
+}

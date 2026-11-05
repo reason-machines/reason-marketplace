@@ -1,0 +1,13 @@
+{
+  "name": "homeholding",
+  "displayName": "Home Holding",
+  "description": "Cabinetry quotes & invoices.",
+  "homepage": "https://homeholding.om",
+  "docs": "https://homeholding.om",
+  "auth": "oauth",
+  "mcpServers": {
+    "homeholding": {
+      "url": "https://homeholding.om/mcp"
+    }
+  }
+}

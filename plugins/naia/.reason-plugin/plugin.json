@@ -1,0 +1,13 @@
+{
+  "name": "naia",
+  "displayName": "naia GEO",
+  "description": "AI visibility for your brand.",
+  "homepage": "https://naia.today",
+  "docs": "https://naia.today",
+  "auth": "oauth",
+  "mcpServers": {
+    "naia": {
+      "url": "https://naia.today/api/v1/mcp"
+    }
+  }
+}

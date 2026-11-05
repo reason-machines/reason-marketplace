@@ -1,0 +1,13 @@
+{
+  "name": "perilscore",
+  "displayName": "PerilScore",
+  "description": "Score natural catastrophe risk.",
+  "homepage": "https://perilscore.com",
+  "docs": "https://perilscore.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "perilscore": {
+      "url": "https://app.perilscore.com/mcp"
+    }
+  }
+}

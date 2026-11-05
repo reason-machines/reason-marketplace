@@ -1,0 +1,13 @@
+{
+  "name": "partforge",
+  "displayName": "PartForge",
+  "description": "Design 3D models to print.",
+  "homepage": "https://www.partforge.ai/",
+  "docs": "https://www.partforge.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "partforge": {
+      "url": "https://partforge.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "investboard",
+  "displayName": "Investboard",
+  "description": "Second brain for investing.",
+  "homepage": "https://investboard.com",
+  "docs": "https://investboard.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "investboard": {
+      "url": "https://investboard.com/mcp"
+    }
+  }
+}

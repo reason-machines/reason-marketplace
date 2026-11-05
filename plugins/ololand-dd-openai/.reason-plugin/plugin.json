@@ -1,0 +1,13 @@
+{
+  "name": "ololand-dd-openai",
+  "displayName": "OloLand DD",
+  "description": "Institutional due diligence.",
+  "homepage": "https://ololand.ai",
+  "docs": "https://api.ololand.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "ololand-dd-openai": {
+      "url": "https://api.ololand.ai/mcp"
+    }
+  }
+}

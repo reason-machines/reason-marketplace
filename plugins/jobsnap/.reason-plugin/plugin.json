@@ -1,0 +1,13 @@
+{
+  "name": "jobsnap",
+  "displayName": "JobSnap",
+  "description": "Jobs, crews, hours, invoices.",
+  "homepage": "https://jobsnap.ca",
+  "docs": "https://jobsnap.ca",
+  "auth": "oauth",
+  "mcpServers": {
+    "jobsnap": {
+      "url": "https://mcp.jobsnap.ca/mcp"
+    }
+  }
+}

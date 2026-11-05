@@ -1,0 +1,13 @@
+{
+  "name": "taxfilingcenter",
+  "displayName": "Tax Filing Center",
+  "description": "Business tax deadlines & rates.",
+  "homepage": "https://taxfilingcenter.com",
+  "docs": "https://taxfilingcenter.com",
+  "auth": "none",
+  "mcpServers": {
+    "taxfilingcenter": {
+      "url": "https://mcp.taxfilingcenter.com/mcp"
+    }
+  }
+}

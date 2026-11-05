@@ -1,0 +1,13 @@
+{
+  "name": "hemory",
+  "displayName": "Hemory",
+  "description": "Search your real memory.",
+  "homepage": "https://www.hemory.com/",
+  "docs": "https://www.hemory.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hemory": {
+      "url": "https://mcp.hemory.com/mcp"
+    }
+  }
+}

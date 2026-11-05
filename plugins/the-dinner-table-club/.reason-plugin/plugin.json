@@ -1,0 +1,13 @@
+{
+  "name": "the-dinner-table-club",
+  "displayName": "The Dinner Table Club",
+  "description": "Dinner parties with strangers.",
+  "homepage": "https://www.thedinnertable.club",
+  "docs": "https://www.thedinnertable.club",
+  "auth": "none",
+  "mcpServers": {
+    "the-dinner-table-club": {
+      "url": "https://thedinnertable.club/mcp"
+    }
+  }
+}

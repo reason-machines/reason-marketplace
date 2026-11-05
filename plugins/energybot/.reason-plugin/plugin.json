@@ -1,0 +1,13 @@
+{
+  "name": "energybot",
+  "displayName": "EnergyBot",
+  "description": "Compare Electricity Rates.",
+  "homepage": "https://www.energybot.com/",
+  "docs": "https://www.energybot.com/",
+  "auth": "none",
+  "mcpServers": {
+    "energybot": {
+      "url": "https://mcp.energybot.com/mcp"
+    }
+  }
+}

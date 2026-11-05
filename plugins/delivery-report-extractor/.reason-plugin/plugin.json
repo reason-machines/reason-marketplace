@@ -1,0 +1,13 @@
+{
+  "name": "delivery-report-extractor",
+  "displayName": "Delivery Report Extractor",
+  "description": "Extract delivery reports.",
+  "homepage": "https://delivery-report-extractor.sidcraigau.workers.dev",
+  "docs": "https://delivery-report-extractor.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "delivery-report-extractor": {
+      "url": "https://delivery-report-extractor.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

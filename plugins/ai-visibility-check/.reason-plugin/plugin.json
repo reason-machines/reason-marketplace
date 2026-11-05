@@ -1,0 +1,13 @@
+{
+  "name": "ai-visibility-check",
+  "displayName": "AI Visibility Check",
+  "description": "Audit a site's AI visibility.",
+  "homepage": "https://aivisibilitycheck.io",
+  "docs": "https://aivisibilitycheck.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai-visibility-check": {
+      "url": "https://aivisibilitycheck.io/mcp"
+    }
+  }
+}

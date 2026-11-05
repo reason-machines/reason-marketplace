@@ -1,0 +1,13 @@
+{
+  "name": "brickbudget",
+  "displayName": "Brick Budget",
+  "description": "Explore LEGO® sets and prices.",
+  "homepage": "https://www.brickbudget.com",
+  "docs": "https://brickbudget.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "brickbudget": {
+      "url": "https://mcp.brickbudget.com/api/mcp"
+    }
+  }
+}

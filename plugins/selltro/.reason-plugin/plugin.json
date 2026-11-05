@@ -1,0 +1,13 @@
+{
+  "name": "selltro",
+  "displayName": "Selltro",
+  "description": "Your Selltro store, in chat.",
+  "homepage": "https://selltro.com",
+  "docs": "https://selltro.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "selltro": {
+      "url": "https://mcp.selltro.com/mcp"
+    }
+  }
+}

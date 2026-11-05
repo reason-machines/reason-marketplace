@@ -1,0 +1,13 @@
+{
+  "name": "letx",
+  "displayName": "letX",
+  "description": "Write and compile LaTeX.",
+  "homepage": "https://letx.app/",
+  "docs": "https://letx.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "letx": {
+      "url": "https://api.letx.app/mcp"
+    }
+  }
+}

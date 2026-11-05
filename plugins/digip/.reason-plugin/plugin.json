@@ -1,0 +1,13 @@
+{
+  "name": "digip",
+  "displayName": "Digip",
+  "description": "Trademark conflict search.",
+  "homepage": "https://www.digip.com",
+  "docs": "https://www.digip.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "digip": {
+      "url": "https://mcp.digip.com/"
+    }
+  }
+}

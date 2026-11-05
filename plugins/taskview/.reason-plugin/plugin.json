@@ -1,0 +1,13 @@
+{
+  "name": "taskview",
+  "displayName": "TaskView",
+  "description": "Manage projects and tasks.",
+  "homepage": "https://taskview.tech",
+  "docs": "https://api.taskview.tech/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "taskview": {
+      "url": "https://api.taskview.tech/mcp"
+    }
+  }
+}

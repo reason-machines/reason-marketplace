@@ -1,0 +1,13 @@
+{
+  "name": "whatsync-search",
+  "displayName": "WhatSync Search",
+  "description": "Search WhatsApp chats & groups.",
+  "homepage": "https://construction.whasupcrm.com/",
+  "docs": "https://whasupcrm.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "whatsync-search": {
+      "url": "https://whatsync.app/api/mcp"
+    }
+  }
+}

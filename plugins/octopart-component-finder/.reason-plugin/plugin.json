@@ -1,0 +1,13 @@
+{
+  "name": "octopart-component-finder",
+  "displayName": "Octopart Component Finder",
+  "description": "Find parts and prices.",
+  "homepage": "https://nbse-octopart.com",
+  "docs": "https://nbse-octopart.com",
+  "auth": "none",
+  "mcpServers": {
+    "octopart-component-finder": {
+      "url": "https://nbse-octopart.com/mcp"
+    }
+  }
+}

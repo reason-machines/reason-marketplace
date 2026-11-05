@@ -1,0 +1,13 @@
+{
+  "name": "distill-markets",
+  "displayName": "Distill Markets",
+  "description": "Verified SEC filing data.",
+  "homepage": "https://www.distillmarkets.com",
+  "docs": "https://www.distillmarkets.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "distill-markets": {
+      "url": "https://mcp.distillmarkets.com/mcp"
+    }
+  }
+}

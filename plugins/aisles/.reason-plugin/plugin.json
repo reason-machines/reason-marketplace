@@ -1,0 +1,13 @@
+{
+  "name": "aisles",
+  "displayName": "Aisles Inventory",
+  "description": "Find in-stock items nearby.",
+  "homepage": "https://aislesinventory.com",
+  "docs": "https://aislesinventory.com",
+  "auth": "none",
+  "mcpServers": {
+    "aisles": {
+      "url": "https://aislesinventory.com/mcp"
+    }
+  }
+}

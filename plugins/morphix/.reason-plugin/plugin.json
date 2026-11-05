@@ -1,0 +1,13 @@
+{
+  "name": "morphix",
+  "displayName": "Morphix",
+  "description": "Create image, video and audio.",
+  "homepage": "https://morphix.pro/",
+  "docs": "https://morphix.pro/",
+  "auth": "oauth",
+  "mcpServers": {
+    "morphix": {
+      "url": "https://mcp.morphix.pro/mcp"
+    }
+  }
+}

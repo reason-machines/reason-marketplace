@@ -1,0 +1,13 @@
+{
+  "name": "stride",
+  "displayName": "Stride AI",
+  "description": "Work your Stride backlog.",
+  "homepage": "https://www.stride.page",
+  "docs": "https://stride.page/integrations/claude-code",
+  "auth": "oauth",
+  "mcpServers": {
+    "stride": {
+      "url": "https://www.stride.page/api/mcp/stride"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sandersaar-videos",
+  "displayName": "Sander Saar Videos",
+  "description": "Search Sander Saar's videos.",
+  "homepage": "https://agentcdn.com/creators/sandersaar",
+  "docs": "https://agentcdn.com/creators/sandersaar",
+  "auth": "none",
+  "mcpServers": {
+    "sandersaar-videos": {
+      "url": "https://mcp.agentcdn.com/mcp"
+    }
+  }
+}

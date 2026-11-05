@@ -1,0 +1,13 @@
+{
+  "name": "superdb",
+  "displayName": "SuperDB",
+  "description": "Your app database in Reason.",
+  "homepage": "https://superdb.com.br/mcp",
+  "docs": "https://superdb.com.br/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "superdb": {
+      "url": "https://mcp.superdb.com.br/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "legal-data-hunter",
+  "displayName": "Legal Data Hunter",
+  "description": "Find laws and cases worldwide.",
+  "homepage": "https://legaldatahunter.com",
+  "docs": "https://legaldatahunter.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "legal-data-hunter": {
+      "url": "https://legaldatahunter.com/mcp"
+    }
+  }
+}

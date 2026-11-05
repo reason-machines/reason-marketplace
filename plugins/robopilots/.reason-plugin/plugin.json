@@ -1,0 +1,13 @@
+{
+  "name": "robopilots",
+  "displayName": "RoboPilots",
+  "description": "Remote operators for robots.",
+  "homepage": "https://www.robopilots.ai",
+  "docs": "https://www.robopilots.ai",
+  "auth": "none",
+  "mcpServers": {
+    "robopilots": {
+      "url": "https://robopilots.ai/mcp"
+    }
+  }
+}

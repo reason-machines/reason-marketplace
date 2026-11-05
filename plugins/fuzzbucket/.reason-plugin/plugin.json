@@ -1,0 +1,13 @@
+{
+  "name": "fuzzbucket",
+  "displayName": "Fuzzbucket",
+  "description": "On-brand marketing content.",
+  "homepage": "https://fuzzbucket.ai",
+  "docs": "https://fuzzbucket.ai/llms-full.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "fuzzbucket": {
+      "url": "https://api.fuzzbucket.ai/mcp"
+    }
+  }
+}

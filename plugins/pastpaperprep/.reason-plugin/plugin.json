@@ -1,0 +1,13 @@
+{
+  "name": "pastpaperprep",
+  "displayName": "PastPaperPrep",
+  "description": "Past-paper practice by topic.",
+  "homepage": "https://pastpaperprep.com",
+  "docs": "https://pastpaperprep.com",
+  "auth": "none",
+  "mcpServers": {
+    "pastpaperprep": {
+      "url": "https://mcp.pastpaperprep.com/mcp"
+    }
+  }
+}

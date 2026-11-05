@@ -1,0 +1,13 @@
+{
+  "name": "jinko",
+  "displayName": "Jinko",
+  "description": "Book flights and hotels.",
+  "homepage": "https://gojinko.com",
+  "docs": "https://gojinko.com",
+  "auth": "none",
+  "mcpServers": {
+    "jinko": {
+      "url": "https://mcp.gojinko.com/mcp"
+    }
+  }
+}

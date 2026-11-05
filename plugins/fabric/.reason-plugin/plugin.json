@@ -1,0 +1,13 @@
+{
+  "name": "fabric",
+  "displayName": "Fabric",
+  "description": "Ask your knowledge base.",
+  "homepage": "https://fabric.so",
+  "docs": "https://fabric.so/guide/ai-tools/MCP-setup",
+  "auth": "oauth",
+  "mcpServers": {
+    "fabric": {
+      "url": "https://mcp.api.fabric.so/mcp"
+    }
+  }
+}

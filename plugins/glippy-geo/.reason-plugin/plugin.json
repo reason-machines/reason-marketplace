@@ -1,0 +1,13 @@
+{
+  "name": "glippy-geo",
+  "displayName": "Glippy GEO",
+  "description": "Website AI readiness checker.",
+  "homepage": "https://www.glippy.dev/",
+  "docs": "https://www.glippy.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "glippy-geo": {
+      "url": "https://mcp.glippy.dev/mcp"
+    }
+  }
+}

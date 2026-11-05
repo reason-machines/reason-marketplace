@@ -1,0 +1,13 @@
+{
+  "name": "express-legal-funding",
+  "displayName": "Express Legal Funding",
+  "description": "Apply for legal funding.",
+  "homepage": "https://expresslegalfunding.com",
+  "docs": "https://expresslegalfunding.com",
+  "auth": "none",
+  "mcpServers": {
+    "express-legal-funding": {
+      "url": "https://mcp.expresslegalfunding.com/mcp"
+    }
+  }
+}

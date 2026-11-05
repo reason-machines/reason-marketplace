@@ -1,0 +1,13 @@
+{
+  "name": "farmbit",
+  "displayName": "Farmbit",
+  "description": "Plan your orchard scout.",
+  "homepage": "https://farmbit.ai",
+  "docs": "https://farmbit.ai",
+  "auth": "none",
+  "mcpServers": {
+    "farmbit": {
+      "url": "https://farmbit.ai/mcp"
+    }
+  }
+}

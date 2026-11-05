@@ -1,0 +1,13 @@
+{
+  "name": "medtech-by-10xand",
+  "displayName": "MedTech by 10xAnd",
+  "description": "510(k), MAUDE and part quotes.",
+  "homepage": "https://10xand.com",
+  "docs": "https://10xand.com",
+  "auth": "none",
+  "mcpServers": {
+    "medtech-by-10xand": {
+      "url": "https://10xand.com/mcp"
+    }
+  }
+}

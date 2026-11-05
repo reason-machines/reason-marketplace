@@ -1,0 +1,13 @@
+{
+  "name": "droneclear-thailand",
+  "displayName": "DroneClear Thailand",
+  "description": "Thailand drone rules check.",
+  "homepage": "https://www.droneclearthailand.com",
+  "docs": "https://www.droneclearthailand.com/ai-assistants",
+  "auth": "none",
+  "mcpServers": {
+    "droneclear-thailand": {
+      "url": "https://www.droneclearthailand.com/mcp"
+    }
+  }
+}

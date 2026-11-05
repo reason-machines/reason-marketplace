@@ -1,0 +1,13 @@
+{
+  "name": "meltflex",
+  "displayName": "MeltFlex",
+  "description": "AI Interior Design.",
+  "homepage": "https://www.meltflexai.com",
+  "docs": "https://www.meltflexai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "meltflex": {
+      "url": "https://meltflexai.com/mcp"
+    }
+  }
+}

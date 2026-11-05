@@ -10,5 +10,14 @@
     "mintlify": {
       "url": "https://mcp.mintlify.com"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "mintlify",
+      "description": "Set up, write, and publish documentation sites with Mintlify, and work on existing Mintlify projects. Use when the user wants to create a docs site for a repo or product, turn a docs/ folder or README into a hosted docs site, document an API from an OpenAPI spec, migrate docs from Docusaurus, GitBoo",
+      "source": "mintlify/docs#6bc550569079265536d97c436095155c8d582d35",
+      "skill": "mintlify",
+      "url": "https://github.com/mintlify/docs/tree/6bc550569079265536d97c436095155c8d582d35/agent-context/context/skills/mintlify"
+    }
+  ]
 }

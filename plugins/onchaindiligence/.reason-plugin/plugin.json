@@ -1,0 +1,13 @@
+{
+  "name": "onchaindiligence",
+  "displayName": "OnChainDiligence",
+  "description": "Inspect and verify payments.",
+  "homepage": "https://onchaindiligence.com",
+  "docs": "https://onchaindiligence.com",
+  "auth": "none",
+  "mcpServers": {
+    "onchaindiligence": {
+      "url": "https://mcp.onchaindiligence.com/mcp"
+    }
+  }
+}

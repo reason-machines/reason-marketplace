@@ -1,0 +1,13 @@
+{
+  "name": "sessionkeeper",
+  "displayName": "SessionKeeper",
+  "description": "Explore your D&D campaigns.",
+  "homepage": "https://www.sessionkeeper.ai/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.sessionkeeper/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "sessionkeeper": {
+      "url": "https://api.sessionkeeper.ai/mcp"
+    }
+  }
+}

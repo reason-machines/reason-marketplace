@@ -1,0 +1,13 @@
+{
+  "name": "emailit",
+  "displayName": "Emailit",
+  "description": "Send email and run campaigns.",
+  "homepage": "https://emailit.com",
+  "docs": "https://emailit.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "emailit": {
+      "url": "https://api.emailit.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "capycash",
+  "displayName": "Capycash",
+  "description": "Track spending and savings.",
+  "homepage": "https://tedix.dev/apps/capycash/",
+  "docs": "https://tedix.dev/apps/capycash/",
+  "auth": "oauth",
+  "mcpServers": {
+    "capycash": {
+      "url": "https://mcp-server.capycashapp.com/mcp"
+    }
+  }
+}

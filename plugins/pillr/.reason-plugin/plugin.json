@@ -1,0 +1,13 @@
+{
+  "name": "pillr",
+  "displayName": "Pillr",
+  "description": "Get French real estate data.",
+  "homepage": "https://pillr.fr",
+  "docs": "https://pillr.fr/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "pillr": {
+      "url": "https://pillr.fr/api/mcp"
+    }
+  }
+}

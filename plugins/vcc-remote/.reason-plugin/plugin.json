@@ -1,0 +1,13 @@
+{
+  "name": "vcc-remote",
+  "displayName": "Vibe Coding Control",
+  "description": "Projects and AI work history.",
+  "homepage": "https://vibecodingcontrol.com",
+  "docs": "https://vibecodingcontrol.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "vcc-remote": {
+      "url": "https://vibecodingcontrol.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mukscan-food-facts",
+  "displayName": "Mukscan Food Facts",
+  "description": "Korean packaged food nutrition.",
+  "homepage": "https://mukscan.com",
+  "docs": "https://mukscan.com",
+  "auth": "none",
+  "mcpServers": {
+    "mukscan-food-facts": {
+      "url": "https://mcp.mukscan.com/mcp"
+    }
+  }
+}

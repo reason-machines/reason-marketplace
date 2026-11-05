@@ -1,0 +1,13 @@
+{
+  "name": "gem",
+  "displayName": "Gem",
+  "description": "Analyze and manage Gem data.",
+  "homepage": "https://www.gem.com/",
+  "docs": "https://www.gem.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "gem": {
+      "url": "https://mcp.gem.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sixtyfour-intelligence",
+  "displayName": "Sixtyfour Intelligence",
+  "description": "AI agents for intelligence.",
+  "homepage": "https://www.sixtyfour.ai/",
+  "docs": "https://www.sixtyfour.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sixtyfour-intelligence": {
+      "url": "https://mcp.sixtyfour.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "trendkia-news",
+  "displayName": "Trendkia News",
+  "description": "Find latest global news.",
+  "homepage": "https://trendkia.com/",
+  "docs": "https://trendkia.com/",
+  "auth": "none",
+  "mcpServers": {
+    "trendkia-news": {
+      "url": "https://mcp.trendkia.com/mcp"
+    }
+  }
+}

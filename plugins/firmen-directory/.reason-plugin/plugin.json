@@ -1,0 +1,13 @@
+{
+  "name": "firmen-directory",
+  "displayName": "FIRMEN.directory",
+  "description": "Swiss & Austrian company facts.",
+  "homepage": "https://firmen.directory/",
+  "docs": "https://firmen.directory/",
+  "auth": "none",
+  "mcpServers": {
+    "firmen-directory": {
+      "url": "https://mcp.firmen.directory/mcp"
+    }
+  }
+}

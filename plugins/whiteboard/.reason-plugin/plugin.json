@@ -1,0 +1,13 @@
+{
+  "name": "whiteboard",
+  "displayName": "Whiteboard by Lumin",
+  "description": "Your ideas. Your device.",
+  "homepage": "https://lumininnovates.com/",
+  "docs": "https://lumininnovates.com/",
+  "auth": "none",
+  "mcpServers": {
+    "whiteboard": {
+      "url": "https://lumininnovates.com/mcp"
+    }
+  }
+}

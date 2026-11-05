@@ -1,0 +1,13 @@
+{
+  "name": "mailsoftly",
+  "displayName": "Mailsoftly",
+  "description": "Email marketing and automation.",
+  "homepage": "https://mailsoftly.com",
+  "docs": "https://app.mailsoftly.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "mailsoftly": {
+      "url": "https://app.mailsoftly.com/mcp"
+    }
+  }
+}

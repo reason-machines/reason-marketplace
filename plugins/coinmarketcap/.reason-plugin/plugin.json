@@ -1,0 +1,13 @@
+{
+  "name": "coinmarketcap",
+  "displayName": "CoinMarketCap",
+  "description": "Real-time crypto market data.",
+  "homepage": "https://coinmarketcap.com",
+  "docs": "https://coinmarketcap.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "coinmarketcap": {
+      "url": "https://mcp.coinmarketcap.com/mcp"
+    }
+  }
+}

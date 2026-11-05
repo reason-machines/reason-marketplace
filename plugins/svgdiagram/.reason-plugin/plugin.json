@@ -1,0 +1,13 @@
+{
+  "name": "svgdiagram",
+  "displayName": "SVG Diagram",
+  "description": "Ideas into editable diagrams.",
+  "homepage": "https://svgdiagram.ai/chatgpt/",
+  "docs": "https://svgdiagram.ai/chatgpt/",
+  "auth": "none",
+  "mcpServers": {
+    "svgdiagram": {
+      "url": "https://api.svgdiagram.ai/rest/v1/chatgpt/mcp"
+    }
+  }
+}

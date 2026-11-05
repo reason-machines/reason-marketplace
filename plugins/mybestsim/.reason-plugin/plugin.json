@@ -1,0 +1,13 @@
+{
+  "name": "mybestsim",
+  "displayName": "MyBestSim",
+  "description": "Compare eSIM travel plans.",
+  "homepage": "https://mybestsim.com",
+  "docs": "https://mybestsim.com",
+  "auth": "none",
+  "mcpServers": {
+    "mybestsim": {
+      "url": "https://mcp.mybestsim.com/mcp"
+    }
+  }
+}

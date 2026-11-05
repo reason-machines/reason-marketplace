@@ -1,0 +1,13 @@
+{
+  "name": "zelta-calorie-target",
+  "displayName": "Zelta Daily Calorie Target",
+  "description": "Daily Calorie Target.",
+  "homepage": "https://zelta.in",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=in.zelta/calorie-target",
+  "auth": "none",
+  "mcpServers": {
+    "zelta-calorie-target": {
+      "url": "https://calorie-mcp.zelta.in/mcp"
+    }
+  }
+}

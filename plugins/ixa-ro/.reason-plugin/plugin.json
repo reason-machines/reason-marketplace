@@ -1,0 +1,13 @@
+{
+  "name": "ixa-ro",
+  "displayName": "IXA.RO - Comparator de preturi",
+  "description": "Compare prices in Romania.",
+  "homepage": "https://ixa.ro",
+  "docs": "https://ixa.ro",
+  "auth": "none",
+  "mcpServers": {
+    "ixa-ro": {
+      "url": "https://ixa.ro/mcp"
+    }
+  }
+}

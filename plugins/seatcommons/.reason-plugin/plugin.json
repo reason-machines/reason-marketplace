@@ -1,0 +1,13 @@
+{
+  "name": "seatcommons",
+  "displayName": "SeatCommons",
+  "description": "Find events and tickets.",
+  "homepage": "https://www.seatcommons.com",
+  "docs": "https://www.seatcommons.com",
+  "auth": "none",
+  "mcpServers": {
+    "seatcommons": {
+      "url": "https://mcp.seatcommons.com/mcp"
+    }
+  }
+}

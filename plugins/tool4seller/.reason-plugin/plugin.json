@@ -1,0 +1,13 @@
+{
+  "name": "tool4seller",
+  "displayName": "tool4seller",
+  "description": "Amazon analytics & ad tools.",
+  "homepage": "https://www.tool4seller.com/ai/mcp/",
+  "docs": "https://www.tool4seller.com/ai/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "tool4seller": {
+      "url": "https://das-server.tool4seller.com/mcp"
+    }
+  }
+}

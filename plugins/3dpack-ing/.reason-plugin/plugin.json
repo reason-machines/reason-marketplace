@@ -1,0 +1,13 @@
+{
+  "name": "3dpack-ing",
+  "displayName": "3DPACK.ING",
+  "description": "3D container & truck loading.",
+  "homepage": "https://3dpack.ing",
+  "docs": "https://3dpack.ing",
+  "auth": "oauth",
+  "mcpServers": {
+    "3dpack-ing": {
+      "url": "https://3dpack.ing/mcp"
+    }
+  }
+}

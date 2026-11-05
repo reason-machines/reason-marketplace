@@ -1,0 +1,13 @@
+{
+  "name": "tarsolution-tools",
+  "displayName": "Tarsolution Tools",
+  "description": "Format and inspect data.",
+  "homepage": "https://tools.tarsolution.com/",
+  "docs": "https://tools.tarsolution.com/mcp-gateway",
+  "auth": "none",
+  "mcpServers": {
+    "tarsolution-tools": {
+      "url": "https://tools.tarsolution.com/mcp"
+    }
+  }
+}

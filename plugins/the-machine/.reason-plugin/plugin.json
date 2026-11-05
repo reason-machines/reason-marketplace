@@ -1,0 +1,13 @@
+{
+  "name": "the-machine",
+  "displayName": "The Machine",
+  "description": "Your to-dos, people, promises.",
+  "homepage": "https://themachine.computer",
+  "docs": "https://themachine.computer",
+  "auth": "oauth",
+  "mcpServers": {
+    "the-machine": {
+      "url": "https://mcp.themachine.computer/mcp"
+    }
+  }
+}

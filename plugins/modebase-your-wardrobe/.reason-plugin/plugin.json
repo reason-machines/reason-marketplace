@@ -1,0 +1,13 @@
+{
+  "name": "modebase-your-wardrobe",
+  "displayName": "Modebase - Your Wardrobe",
+  "description": "Outfits from your own clothes.",
+  "homepage": "https://www.modebase.co",
+  "docs": "https://modebase.co/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "modebase-your-wardrobe": {
+      "url": "https://www.modebase.co/api/mcp"
+    }
+  }
+}

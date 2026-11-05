@@ -1,0 +1,13 @@
+{
+  "name": "there-s-an-ai-for-that",
+  "displayName": "There's An AI For That",
+  "description": "Find AI tools for any task.",
+  "homepage": "https://theresanaiforthat.com/",
+  "docs": "https://theresanaiforthat.com/",
+  "auth": "none",
+  "mcpServers": {
+    "there-s-an-ai-for-that": {
+      "url": "https://theresanaiforthat.com/mcp"
+    }
+  }
+}

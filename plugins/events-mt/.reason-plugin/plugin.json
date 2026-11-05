@@ -1,0 +1,13 @@
+{
+  "name": "events-mt",
+  "displayName": "Events.lc",
+  "description": "Find events in Malta.",
+  "homepage": "https://events.lc",
+  "docs": "https://events.lc",
+  "auth": "none",
+  "mcpServers": {
+    "events-mt": {
+      "url": "https://events.lc/mcp"
+    }
+  }
+}

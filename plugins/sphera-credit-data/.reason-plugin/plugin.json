@@ -1,0 +1,13 @@
+{
+  "name": "sphera-credit-data",
+  "displayName": "Sphera Credit Data",
+  "description": "Canadian interest rate data.",
+  "homepage": "https://data.spheracredit.com",
+  "docs": "https://data.spheracredit.com",
+  "auth": "none",
+  "mcpServers": {
+    "sphera-credit-data": {
+      "url": "https://data.spheracredit.com/mcp"
+    }
+  }
+}

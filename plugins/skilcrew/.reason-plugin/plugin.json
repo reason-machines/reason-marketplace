@@ -1,0 +1,13 @@
+{
+  "name": "skilcrew",
+  "displayName": "Skilcrew",
+  "description": "Jobs & services marketplace.",
+  "homepage": "https://welcome.skilcrew.com",
+  "docs": "https://welcome.skilcrew.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "skilcrew": {
+      "url": "https://mcp.skilcrew.com/mcp"
+    }
+  }
+}

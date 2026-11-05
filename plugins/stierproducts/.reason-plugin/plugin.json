@@ -1,0 +1,13 @@
+{
+  "name": "stierproducts",
+  "displayName": "stierproducts",
+  "description": "Product tier lists, all cited.",
+  "homepage": "https://stierproducts.com/mcp",
+  "docs": "https://stierproducts.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "stierproducts": {
+      "url": "https://mcp.stierproducts.com/mcp"
+    }
+  }
+}

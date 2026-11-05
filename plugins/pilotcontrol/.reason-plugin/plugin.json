@@ -1,0 +1,13 @@
+{
+  "name": "pilotcontrol",
+  "displayName": "PilotControl",
+  "description": "Manage social media in Reason.",
+  "homepage": "https://app.pilot0.app/mcp",
+  "docs": "https://app.pilot0.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "pilotcontrol": {
+      "url": "https://app.pilot0.app/api/mcp"
+    }
+  }
+}

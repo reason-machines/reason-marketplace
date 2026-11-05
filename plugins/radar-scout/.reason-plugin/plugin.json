@@ -1,0 +1,13 @@
+{
+  "name": "radar-scout",
+  "displayName": "Radar Scout",
+  "description": "Manage your Amazon business.",
+  "homepage": "https://www.radarscout.com.br",
+  "docs": "https://www.radarscout.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "radar-scout": {
+      "url": "https://mcp.radarscout.com.br/mcp"
+    }
+  }
+}

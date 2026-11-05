@@ -1,0 +1,13 @@
+{
+  "name": "bizvizcards",
+  "displayName": "BizVizCards",
+  "description": "Manage business leads.",
+  "homepage": "https://bizvizcards.com/",
+  "docs": "https://bizvizcards.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "bizvizcards": {
+      "url": "https://bizvizcards.com/api/mcp"
+    }
+  }
+}

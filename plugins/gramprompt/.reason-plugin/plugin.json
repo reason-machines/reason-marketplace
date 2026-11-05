@@ -1,0 +1,13 @@
+{
+  "name": "gramprompt",
+  "displayName": "GramPrompt",
+  "description": "Create, sell & shop by chat.",
+  "homepage": "https://gramprompt.com",
+  "docs": "https://gramprompt.com",
+  "auth": "none",
+  "mcpServers": {
+    "gramprompt": {
+      "url": "https://gramprompt.com/mcp"
+    }
+  }
+}

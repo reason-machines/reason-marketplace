@@ -1,0 +1,13 @@
+{
+  "name": "msza-ai",
+  "displayName": "MszaAI",
+  "description": "Find and compare homilies.",
+  "homepage": "https://msza.ai/?lang=en",
+  "docs": "https://msza.ai/?lang=en",
+  "auth": "none",
+  "mcpServers": {
+    "msza-ai": {
+      "url": "https://msza.ai/mcp"
+    }
+  }
+}

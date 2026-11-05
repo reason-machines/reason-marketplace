@@ -1,0 +1,13 @@
+{
+  "name": "anew",
+  "displayName": "anew",
+  "description": "free webpages.",
+  "homepage": "https://anew.page",
+  "docs": "https://anew.page",
+  "auth": "none",
+  "mcpServers": {
+    "anew": {
+      "url": "https://mcp.anew.page/mcp"
+    }
+  }
+}

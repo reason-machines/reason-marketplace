@@ -1,0 +1,13 @@
+{
+  "name": "taxdome",
+  "displayName": "TaxDome",
+  "description": "Tax firm and client portal.",
+  "homepage": "https://taxdome.com",
+  "docs": "https://taxdome.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "taxdome": {
+      "url": "https://mcp.taxdome.com/mcp"
+    }
+  }
+}

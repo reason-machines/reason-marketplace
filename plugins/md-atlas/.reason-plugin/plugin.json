@@ -1,0 +1,13 @@
+{
+  "name": "md-atlas",
+  "displayName": "MD Atlas",
+  "description": "Search medical-device data.",
+  "homepage": "https://md-atlas.com/mcp/docs",
+  "docs": "https://md-atlas.com/mcp/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "md-atlas": {
+      "url": "https://mcp.md-atlas.com/mcp"
+    }
+  }
+}

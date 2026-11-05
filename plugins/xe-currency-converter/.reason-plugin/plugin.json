@@ -1,0 +1,13 @@
+{
+  "name": "xe-currency-converter",
+  "displayName": "XE Currency Converter",
+  "description": "Convert live currencies.",
+  "homepage": "https://www.xe.com/",
+  "docs": "https://tedix.dev/apps/xe-currency-converter/",
+  "auth": "none",
+  "mcpServers": {
+    "xe-currency-converter": {
+      "url": "https://chatgpt-api.xe.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sequenzy",
+  "displayName": "Sequenzy",
+  "description": "Run your email marketing.",
+  "homepage": "https://sequenzy.com",
+  "docs": "https://sequenzy.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sequenzy": {
+      "url": "https://api.sequenzy.com/v1/mcp"
+    }
+  }
+}

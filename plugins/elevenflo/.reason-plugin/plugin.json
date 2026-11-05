@@ -1,0 +1,13 @@
+{
+  "name": "elevenflo",
+  "displayName": "ElevenFlo",
+  "description": "Bankruptcy data & research.",
+  "homepage": "https://elevenflo.com",
+  "docs": "https://elevenflo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "elevenflo": {
+      "url": "https://elevenflo.com/mcp"
+    }
+  }
+}

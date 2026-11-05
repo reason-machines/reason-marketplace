@@ -1,0 +1,13 @@
+{
+  "name": "ecfr-by-1102tools",
+  "displayName": "eCFR by 1102tools",
+  "description": "Explore federal regulations.",
+  "homepage": "https://1102tools.com",
+  "docs": "https://1102tools.com/mcp/ecfr",
+  "auth": "none",
+  "mcpServers": {
+    "ecfr-by-1102tools": {
+      "url": "https://ecfr.1102tools.com/mcp"
+    }
+  }
+}

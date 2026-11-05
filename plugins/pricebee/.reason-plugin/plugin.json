@@ -1,0 +1,13 @@
+{
+  "name": "pricebee",
+  "displayName": "PriceBee",
+  "description": "Baltic prices and mobile plans.",
+  "homepage": "https://pricebee.lt/en/ai-assistants",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=lt.pricebee/pricebee",
+  "auth": "none",
+  "mcpServers": {
+    "pricebee": {
+      "url": "https://pricebee.lt/mcp/pricebee"
+    }
+  }
+}

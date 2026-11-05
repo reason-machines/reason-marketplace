@@ -1,0 +1,13 @@
+{
+  "name": "der-erste-notenpunkt",
+  "displayName": "Der erste Notenpunkt",
+  "description": "Math coach for Bavaria 2027.",
+  "homepage": "https://der-erste-notenpunkt.de",
+  "docs": "https://der-erste-notenpunkt.de",
+  "auth": "none",
+  "mcpServers": {
+    "der-erste-notenpunkt": {
+      "url": "https://mcp.der-erste-notenpunkt.de/mcp"
+    }
+  }
+}

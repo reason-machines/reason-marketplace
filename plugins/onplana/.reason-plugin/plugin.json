@@ -1,0 +1,13 @@
+{
+  "name": "onplana",
+  "displayName": "Onplana",
+  "description": "Plan projects and track work.",
+  "homepage": "https://onplana.com/mcp",
+  "docs": "https://onplana.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "onplana": {
+      "url": "https://mcp.onplana.com/mcp"
+    }
+  }
+}

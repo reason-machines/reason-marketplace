@@ -1,0 +1,13 @@
+{
+  "name": "embarka",
+  "displayName": "Embarka",
+  "description": "Family trips paced for kids.",
+  "homepage": "https://www.embarka.ai/",
+  "docs": "https://www.embarka.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "embarka": {
+      "url": "https://embarka.ai/mcp"
+    }
+  }
+}

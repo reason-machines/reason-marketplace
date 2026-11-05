@@ -1,0 +1,13 @@
+{
+  "name": "konvertira",
+  "displayName": "Konvertira",
+  "description": "Convert and clean files.",
+  "homepage": "https://konvertira.com",
+  "docs": "https://konvertira.com",
+  "auth": "none",
+  "mcpServers": {
+    "konvertira": {
+      "url": "https://mcp.konvertira.com/mcp"
+    }
+  }
+}

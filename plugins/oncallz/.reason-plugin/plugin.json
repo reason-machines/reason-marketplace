@@ -1,0 +1,13 @@
+{
+  "name": "oncallz",
+  "displayName": "Oncallz",
+  "description": "On-call, incidents and reviews.",
+  "homepage": "https://oncallz.com",
+  "docs": "https://oncallz.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "oncallz": {
+      "url": "https://oncallz.com/mcp"
+    }
+  }
+}

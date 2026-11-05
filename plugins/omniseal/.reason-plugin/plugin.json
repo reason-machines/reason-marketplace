@@ -1,0 +1,13 @@
+{
+  "name": "omniseal",
+  "displayName": "OmniSeal",
+  "description": "Seal and verify files.",
+  "homepage": "https://purecipher.com/solutions/omniseal",
+  "docs": "https://purecipher.com/solutions/omniseal",
+  "auth": "none",
+  "mcpServers": {
+    "omniseal": {
+      "url": "https://api.purecipher.com/mcp"
+    }
+  }
+}

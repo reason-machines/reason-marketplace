@@ -1,0 +1,13 @@
+{
+  "name": "gyroscope",
+  "displayName": "Gyroscope",
+  "description": "Food, fitness, places & more.",
+  "homepage": "https://gyrosco.pe/help/mcp-bridge/",
+  "docs": "https://gyrosco.pe/help/mcp-bridge/",
+  "auth": "oauth",
+  "mcpServers": {
+    "gyroscope": {
+      "url": "https://mcp.gyrosco.pe/mcp"
+    }
+  }
+}

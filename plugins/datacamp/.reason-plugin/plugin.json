@@ -1,0 +1,13 @@
+{
+  "name": "datacamp",
+  "displayName": "DataCamp",
+  "description": "Learn AI and data skills.",
+  "homepage": "https://datacamp.com",
+  "docs": "https://datacamp.com",
+  "auth": "none",
+  "mcpServers": {
+    "datacamp": {
+      "url": "https://mcp.datacamp.com/mcp"
+    }
+  }
+}

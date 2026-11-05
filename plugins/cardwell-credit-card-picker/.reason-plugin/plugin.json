@@ -1,0 +1,13 @@
+{
+  "name": "cardwell-credit-card-picker",
+  "displayName": "Cardwell: Credit Card Picker",
+  "description": "Find the right credit card.",
+  "homepage": "https://trycardwell.com",
+  "docs": "https://tedix.dev/apps/cardwell-credit-card-picker/",
+  "auth": "none",
+  "mcpServers": {
+    "cardwell-credit-card-picker": {
+      "url": "https://cardwell-card-match.cabaci.chatgpt.site/api/mcp"
+    }
+  }
+}

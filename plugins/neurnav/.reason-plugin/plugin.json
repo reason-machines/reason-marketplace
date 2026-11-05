@@ -1,0 +1,13 @@
+{
+  "name": "neurnav",
+  "displayName": "Neurnav",
+  "description": "Write document with provenance.",
+  "homepage": "https://neurnav.com",
+  "docs": "https://neurnav.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "neurnav": {
+      "url": "https://neurnav.com/mcp"
+    }
+  }
+}

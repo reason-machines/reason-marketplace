@@ -1,0 +1,13 @@
+{
+  "name": "moosyc",
+  "displayName": "MOOSYC",
+  "description": "Your streams & earnings.",
+  "homepage": "https://moosyc.com",
+  "docs": "https://help.moosyc.com/article/use-moosyc-in-claude",
+  "auth": "oauth",
+  "mcpServers": {
+    "moosyc": {
+      "url": "https://api.moosyc.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "twelfth",
+  "displayName": "Twelfth",
+  "description": "Read your Twelfth workspace.",
+  "homepage": "https://twelfth.ai/developers/mcp",
+  "docs": "https://twelfth.ai/developers/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "twelfth": {
+      "url": "https://api.twelfth.ai/mcp"
+    }
+  }
+}

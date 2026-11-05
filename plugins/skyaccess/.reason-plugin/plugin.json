@@ -1,0 +1,13 @@
+{
+  "name": "skyaccess",
+  "displayName": "SkyAccess",
+  "description": "Find private jet empty legs.",
+  "homepage": "https://skyaccess.com",
+  "docs": "https://skyaccess.com",
+  "auth": "none",
+  "mcpServers": {
+    "skyaccess": {
+      "url": "https://mcp.skyaccess.com/mcp"
+    }
+  }
+}

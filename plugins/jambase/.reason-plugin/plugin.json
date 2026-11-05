@@ -1,0 +1,13 @@
+{
+  "name": "jambase",
+  "displayName": "JamBase",
+  "description": "Go See Live Music!",
+  "homepage": "https://jambase.com",
+  "docs": "https://jambase.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "jambase": {
+      "url": "https://mcp.jambase.com/mcp"
+    }
+  }
+}

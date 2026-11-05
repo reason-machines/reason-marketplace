@@ -1,0 +1,13 @@
+{
+  "name": "postyourstartup",
+  "displayName": "PostYourStartup",
+  "description": "Discover and launch startups.",
+  "homepage": "https://postyourstartup.co",
+  "docs": "https://postyourstartup.co",
+  "auth": "none",
+  "mcpServers": {
+    "postyourstartup": {
+      "url": "https://postyourstartup.co/mcp"
+    }
+  }
+}

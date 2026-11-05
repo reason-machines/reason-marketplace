@@ -1,0 +1,13 @@
+{
+  "name": "data-market",
+  "displayName": "Data Market",
+  "description": "Consulte preços no varejo.",
+  "homepage": "https://datamarket.cnovatech.com.br",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=br.com.cnovatech",
+  "auth": "oauth",
+  "mcpServers": {
+    "data-market": {
+      "url": "https://mcp.datamarket.cnovatech.com.br/mcp"
+    }
+  }
+}

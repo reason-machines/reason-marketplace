@@ -1,0 +1,13 @@
+{
+  "name": "lead-recorder",
+  "displayName": "Lead Recorder",
+  "description": "See where every lead came from.",
+  "homepage": "https://www.leadrecorder.com/",
+  "docs": "https://www.leadrecorder.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "lead-recorder": {
+      "url": "https://mcp.leadrecorder.com/mcp"
+    }
+  }
+}

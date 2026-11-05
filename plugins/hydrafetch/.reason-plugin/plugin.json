@@ -1,0 +1,13 @@
+{
+  "name": "hydrafetch",
+  "displayName": "Hydrafetch",
+  "description": "Read the live web as markdown.",
+  "homepage": "https://hydrafetch.com",
+  "docs": "https://hydrafetch.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hydrafetch": {
+      "url": "https://api.hydrafetch.com/mcp"
+    }
+  }
+}

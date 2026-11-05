@@ -1,0 +1,13 @@
+{
+  "name": "lockbox",
+  "displayName": "Lockbox",
+  "description": "E2E-encrypted secret sharing.",
+  "homepage": "https://lockbox.run",
+  "docs": "https://lockbox.run",
+  "auth": "oauth",
+  "mcpServers": {
+    "lockbox": {
+      "url": "https://lockbox.run/mcp"
+    }
+  }
+}

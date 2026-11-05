@@ -1,0 +1,13 @@
+{
+  "name": "hirenimbus-book-home-services",
+  "displayName": "HireNimbus: Book Home Services",
+  "description": "Book handyman, HVAC, plumber.",
+  "homepage": "https://hirenimbus.com/pro",
+  "docs": "https://hirenimbus.com/pro",
+  "auth": "none",
+  "mcpServers": {
+    "hirenimbus-book-home-services": {
+      "url": "https://mcp.hirenimbus.com/mcp"
+    }
+  }
+}

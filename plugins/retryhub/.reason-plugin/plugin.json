@@ -1,0 +1,13 @@
+{
+  "name": "retryhub",
+  "displayName": "RetryHub",
+  "description": "Fit, shutdown, and disputes.",
+  "homepage": "https://retryhub.com/",
+  "docs": "https://tedix.dev/apps/retryhub/",
+  "auth": "none",
+  "mcpServers": {
+    "retryhub": {
+      "url": "https://retryhub-chatgpt-app.vercel.app/mcp"
+    }
+  }
+}

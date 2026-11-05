@@ -1,0 +1,13 @@
+{
+  "name": "resvo",
+  "displayName": "Resvo Bookings",
+  "description": "Read appointment availability.",
+  "homepage": "https://www.resvo.de",
+  "docs": "https://www.resvo.de/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "resvo": {
+      "url": "https://www.resvo.de/api/mcp"
+    }
+  }
+}

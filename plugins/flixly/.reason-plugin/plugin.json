@@ -1,0 +1,13 @@
+{
+  "name": "flixly",
+  "displayName": "Flixly",
+  "description": "Create images & short videos.",
+  "homepage": "https://www.flixly.ai",
+  "docs": "https://flixly.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "flixly": {
+      "url": "https://www.flixly.ai/api/mcp"
+    }
+  }
+}

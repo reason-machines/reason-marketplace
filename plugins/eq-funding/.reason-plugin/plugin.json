@@ -1,0 +1,13 @@
+{
+  "name": "eq-funding",
+  "displayName": "EQ Funding",
+  "description": "Find business lenders.",
+  "homepage": "https://www.eqfunding.com",
+  "docs": "https://www.eqfunding.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "eq-funding": {
+      "url": "https://www.eqfunding.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "povver",
+  "displayName": "Povver",
+  "description": "Strength training with AI.",
+  "homepage": "https://povver.ai",
+  "docs": "https://povver.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "povver": {
+      "url": "https://mcp.povver.ai/mcp"
+    }
+  }
+}

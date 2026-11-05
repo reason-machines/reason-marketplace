@@ -1,0 +1,13 @@
+{
+  "name": "modern-collections",
+  "displayName": "Modern Collections",
+  "description": "Collect unpaid B2B invoices.",
+  "homepage": "https://moderncollections.io",
+  "docs": "https://moderncollections.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "modern-collections": {
+      "url": "https://api.moderncollections.io/mcp"
+    }
+  }
+}

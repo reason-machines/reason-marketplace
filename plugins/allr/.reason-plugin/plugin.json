@@ -1,0 +1,13 @@
+{
+  "name": "allr",
+  "displayName": "ALLR Motorcycle Gear",
+  "description": "Compare moto gear landed costs.",
+  "homepage": "https://allr.io",
+  "docs": "https://allr.io",
+  "auth": "none",
+  "mcpServers": {
+    "allr": {
+      "url": "https://allr.io/mcp"
+    }
+  }
+}

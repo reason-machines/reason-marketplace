@@ -1,0 +1,13 @@
+{
+  "name": "solve-plugin",
+  "displayName": "Solve CRM",
+  "description": "Search and update your CRM.",
+  "homepage": "https://solve360.com",
+  "docs": "https://solve360.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "solve-plugin": {
+      "url": "https://mcp.solve360.com/mcp"
+    }
+  }
+}

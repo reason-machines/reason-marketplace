@@ -1,0 +1,13 @@
+{
+  "name": "iyigelir",
+  "displayName": "İyi Gelir",
+  "description": "Turkish mutual fund data.",
+  "homepage": "https://iyigelir.net",
+  "docs": "https://iyigelir.net",
+  "auth": "oauth",
+  "mcpServers": {
+    "iyigelir": {
+      "url": "https://mcp.iyigelir.net/mcp"
+    }
+  }
+}

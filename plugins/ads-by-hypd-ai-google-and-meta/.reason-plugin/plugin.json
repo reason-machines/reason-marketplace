@@ -1,0 +1,13 @@
+{
+  "name": "ads-by-hypd-ai-google-and-meta",
+  "displayName": "Ads by HYPD AI: Google & Meta",
+  "description": "Use Google Ads, Meta Ads & PPC.",
+  "homepage": "https://www.hypd.ai/",
+  "docs": "https://www.hypd.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "ads-by-hypd-ai-google-and-meta": {
+      "url": "https://mcp.hypd.ai/mcp"
+    }
+  }
+}

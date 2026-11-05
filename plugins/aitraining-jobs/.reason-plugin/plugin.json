@@ -1,0 +1,13 @@
+{
+  "name": "aitraining-jobs",
+  "displayName": "AITraining.jobs",
+  "description": "Find AI training jobs with pay.",
+  "homepage": "https://aitraining.jobs/apps",
+  "docs": "https://aitraining.jobs/apps",
+  "auth": "none",
+  "mcpServers": {
+    "aitraining-jobs": {
+      "url": "https://aitraining.jobs/api/mcp"
+    }
+  }
+}

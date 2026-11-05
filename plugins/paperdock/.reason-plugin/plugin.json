@@ -1,0 +1,13 @@
+{
+  "name": "paperdock",
+  "displayName": "PaperDock",
+  "description": "Use your Reason for LaTeX.",
+  "homepage": "https://paperdock.dev/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=dev.paperdock/paperdock",
+  "auth": "oauth",
+  "mcpServers": {
+    "paperdock": {
+      "url": "https://app.paperdock.dev/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "infinitewatch",
+  "displayName": "InfiniteWatch",
+  "description": "Operations observability.",
+  "homepage": "https://infinitewatch.ai/",
+  "docs": "https://infinitewatch.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "infinitewatch": {
+      "url": "https://mcp.infinitewatch.ai/mcp"
+    }
+  }
+}

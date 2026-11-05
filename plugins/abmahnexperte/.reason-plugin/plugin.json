@@ -1,0 +1,13 @@
+{
+  "name": "abmahnexperte",
+  "displayName": "Abmahnexperte.de",
+  "description": "Abmahnung prüfen lassen.",
+  "homepage": "https://abmahnexperte.de",
+  "docs": "https://abmahnexperte.de/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "abmahnexperte": {
+      "url": "https://mein.abmahnexperte.de/mcp"
+    }
+  }
+}

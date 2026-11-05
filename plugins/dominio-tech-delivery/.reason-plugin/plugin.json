@@ -1,0 +1,13 @@
+{
+  "name": "dominio-tech-delivery",
+  "displayName": "Dominio Tech Delivery",
+  "description": "Build food orders.",
+  "homepage": "https://dominio.tech",
+  "docs": "https://dominio.tech",
+  "auth": "oauth",
+  "mcpServers": {
+    "dominio-tech-delivery": {
+      "url": "https://mcp.dominio.tech/mcp"
+    }
+  }
+}

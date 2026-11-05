@@ -1,0 +1,13 @@
+{
+  "name": "comavenai-aeo",
+  "displayName": "CoMavenAI AEO",
+  "description": "Evidence-backed website fixes.",
+  "homepage": "https://www.comavenai.com/aeo",
+  "docs": "https://www.comavenai.com/aeo",
+  "auth": "none",
+  "mcpServers": {
+    "comavenai-aeo": {
+      "url": "https://mcp.comavenai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "insumer",
+  "displayName": "InsumerAPI",
+  "description": "Wallet auth for AI agents.",
+  "homepage": "https://insumermodel.com",
+  "docs": "https://insumermodel.com",
+  "auth": "none",
+  "mcpServers": {
+    "insumer": {
+      "url": "https://api.insumermodel.com/mcp"
+    }
+  }
+}

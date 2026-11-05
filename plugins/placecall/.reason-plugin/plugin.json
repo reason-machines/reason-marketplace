@@ -1,0 +1,13 @@
+{
+  "name": "placecall",
+  "displayName": "PlaceCall",
+  "description": "Calls US businesses for you.",
+  "homepage": "https://voygr.tech/placecall/",
+  "docs": "https://voygr.tech/placecall/",
+  "auth": "oauth",
+  "mcpServers": {
+    "placecall": {
+      "url": "https://api.voygr.tech/mcp"
+    }
+  }
+}

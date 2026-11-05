@@ -1,0 +1,13 @@
+{
+  "name": "oira",
+  "displayName": "Oira",
+  "description": "Share work updates with Oira.",
+  "homepage": "https://oira-oira.com",
+  "docs": "https://oira-oira.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "oira": {
+      "url": "https://oira-oira.com/mcp"
+    }
+  }
+}

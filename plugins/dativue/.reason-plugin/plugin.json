@@ -1,0 +1,13 @@
+{
+  "name": "dativue",
+  "displayName": "Dativue",
+  "description": "Search and social research.",
+  "homepage": "https://dativue.com",
+  "docs": "https://dativue.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dativue": {
+      "url": "https://dativue.com/mcp"
+    }
+  }
+}

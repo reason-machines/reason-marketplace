@@ -1,0 +1,13 @@
+{
+  "name": "invoice-generator",
+  "displayName": "Invoice Generator by FieldHive",
+  "description": "Invoice template, tax and PDF.",
+  "homepage": "https://tools.fieldhive.com/invoice-generator",
+  "docs": "https://tools.fieldhive.com/invoice-generator",
+  "auth": "none",
+  "mcpServers": {
+    "invoice-generator": {
+      "url": "https://tools.fieldhive.com/invoice-generator/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mbx-reach",
+  "displayName": "MBX Reach",
+  "description": "Email marketing drafts.",
+  "homepage": "https://mbxreach.com",
+  "docs": "https://mbxreach.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mbx-reach": {
+      "url": "https://mbxreach.com/mcp"
+    }
+  }
+}

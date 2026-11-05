@@ -1,0 +1,13 @@
+{
+  "name": "reps-time",
+  "displayName": "REPS Time",
+  "description": "Log REPS hours from chat.",
+  "homepage": "https://repstime.com",
+  "docs": "https://repstime.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "reps-time": {
+      "url": "https://reps-app-323d0.web.app/mcp"
+    }
+  }
+}

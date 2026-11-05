@@ -1,0 +1,13 @@
+{
+  "name": "competitorflow",
+  "displayName": "CompetitorFlow",
+  "description": "Explore competitor insights.",
+  "homepage": "https://competitorflow.com/en",
+  "docs": "https://competitorflow.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "competitorflow": {
+      "url": "https://mcp.competitorflow.com/mcp"
+    }
+  }
+}

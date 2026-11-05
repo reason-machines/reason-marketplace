@@ -1,0 +1,13 @@
+{
+  "name": "lobu",
+  "displayName": "Lobu",
+  "description": "Connect data, devices & agents.",
+  "homepage": "https://lobu.ai",
+  "docs": "https://lobu.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "lobu": {
+      "url": "https://mcp.lobu.ai/mcp"
+    }
+  }
+}

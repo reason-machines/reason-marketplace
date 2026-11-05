@@ -1,0 +1,13 @@
+{
+  "name": "statshawk",
+  "displayName": "StatsHawk",
+  "description": "Scores, stats, and standings.",
+  "homepage": "https://www.statshawk.ai",
+  "docs": "https://www.statshawk.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "statshawk": {
+      "url": "https://mcp.statshawk.ai/mcp"
+    }
+  }
+}

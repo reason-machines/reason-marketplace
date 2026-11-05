@@ -1,0 +1,13 @@
+{
+  "name": "bizora-tax-research",
+  "displayName": "Bizora Tax Research",
+  "description": "Research tax questions.",
+  "homepage": "https://www.bizora.ai",
+  "docs": "https://tedix.dev/apps/bizora-tax-research/",
+  "auth": "oauth",
+  "mcpServers": {
+    "bizora-tax-research": {
+      "url": "https://mcp.api-bizora.ai/mcp"
+    }
+  }
+}

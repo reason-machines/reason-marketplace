@@ -1,0 +1,13 @@
+{
+  "name": "givebutter",
+  "displayName": "Givebutter",
+  "description": "Manage your fundraising.",
+  "homepage": "https://givebutter.com",
+  "docs": "https://givebutter.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "givebutter": {
+      "url": "https://mcp.givebutter.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cote-r-crc-quebec",
+  "displayName": "Cote R (CRC) Québec",
+  "description": "Quebec college R-score (CRC).",
+  "homepage": "https://cote-r.mmcco.co",
+  "docs": "https://cote-r.mmcco.co",
+  "auth": "none",
+  "mcpServers": {
+    "cote-r-crc-quebec": {
+      "url": "https://cote-r.mmcco.co/mcp"
+    }
+  }
+}

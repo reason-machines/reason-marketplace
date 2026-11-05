@@ -1,0 +1,13 @@
+{
+  "name": "mfloow",
+  "displayName": "mfloow",
+  "description": "mfloow: AI Workflow Platform.",
+  "homepage": "https://www.mfloow.com/",
+  "docs": "https://www.mfloow.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mfloow": {
+      "url": "https://mcp.mfloow.com/mcp"
+    }
+  }
+}

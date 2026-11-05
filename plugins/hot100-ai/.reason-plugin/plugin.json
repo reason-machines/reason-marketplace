@@ -1,0 +1,13 @@
+{
+  "name": "hot100-ai",
+  "displayName": "Hot100.ai",
+  "description": "The weekly AI project chart.",
+  "homepage": "https://www.hot100.ai/",
+  "docs": "https://www.hot100.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "hot100-ai": {
+      "url": "https://www.hot100.ai/mcp"
+    }
+  }
+}

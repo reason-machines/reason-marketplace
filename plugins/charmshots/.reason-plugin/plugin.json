@@ -1,0 +1,13 @@
+{
+  "name": "charmshots",
+  "displayName": "Charmshots",
+  "description": "Browse saved photoshoots.",
+  "homepage": "https://charmshots.com",
+  "docs": "https://charmshots.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "charmshots": {
+      "url": "https://mcp.charmshots.com/mcp"
+    }
+  }
+}

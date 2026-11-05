@@ -1,0 +1,13 @@
+{
+  "name": "myinvestor",
+  "displayName": "MyInvestor",
+  "description": "Explore investments.",
+  "homepage": "https://www.myinvestor.es",
+  "docs": "https://www.myinvestor.es",
+  "auth": "none",
+  "mcpServers": {
+    "myinvestor": {
+      "url": "https://mcp.myinvestor.es/mcp"
+    }
+  }
+}

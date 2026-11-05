@@ -1,0 +1,13 @@
+{
+  "name": "bls-oews-by-1102tools",
+  "displayName": "BLS OEWS by 1102tools",
+  "description": "Explore occupational wages.",
+  "homepage": "https://1102tools.com",
+  "docs": "https://1102tools.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "bls-oews-by-1102tools": {
+      "url": "https://bls-oews.1102tools.com/mcp"
+    }
+  }
+}

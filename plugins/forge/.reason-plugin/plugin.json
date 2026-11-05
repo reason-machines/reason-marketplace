@@ -1,0 +1,13 @@
+{
+  "name": "forge",
+  "displayName": "Forge",
+  "description": "A visual brain for your agents.",
+  "homepage": "https://ui8.ai/forge/",
+  "docs": "https://ui8.ai/forge/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "forge": {
+      "url": "https://forge.ui8.ai/mcp"
+    }
+  }
+}

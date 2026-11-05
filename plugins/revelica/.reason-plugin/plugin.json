@@ -1,0 +1,13 @@
+{
+  "name": "revelica",
+  "displayName": "Revelica",
+  "description": "Your team's product context.",
+  "homepage": "https://revelica.com",
+  "docs": "https://revelica.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "revelica": {
+      "url": "https://api.revelica.com/mcp"
+    }
+  }
+}

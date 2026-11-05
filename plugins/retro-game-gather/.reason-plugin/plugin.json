@@ -1,0 +1,13 @@
+{
+  "name": "retro-game-gather",
+  "displayName": "Retro Game Gather",
+  "description": "Japanese retro game collection.",
+  "homepage": "https://retrogather.com/",
+  "docs": "https://docs.retrogather.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "retro-game-gather": {
+      "url": "https://game.retrogather.com/mcp"
+    }
+  }
+}

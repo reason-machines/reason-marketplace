@@ -1,0 +1,13 @@
+{
+  "name": "linkly-url-shortener",
+  "displayName": "Linkly URL Shortener",
+  "description": "URL Shortener for Marketers.",
+  "homepage": "https://linklyhq.com/",
+  "docs": "https://linklyhq.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "linkly-url-shortener": {
+      "url": "https://mcp.linklyhq.com/mcp"
+    }
+  }
+}

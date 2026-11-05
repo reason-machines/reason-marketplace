@@ -1,0 +1,13 @@
+{
+  "name": "btoo",
+  "displayName": "Btoo",
+  "description": "Manage business ops.",
+  "homepage": "https://btoo.in",
+  "docs": "https://btoo.in",
+  "auth": "oauth",
+  "mcpServers": {
+    "btoo": {
+      "url": "https://mcp.btoo.in/mcp"
+    }
+  }
+}

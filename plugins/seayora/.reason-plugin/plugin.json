@@ -1,0 +1,13 @@
+{
+  "name": "seayora",
+  "displayName": "Seayora",
+  "description": "Rental property management.",
+  "homepage": "https://seayora.com",
+  "docs": "https://seayora.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "seayora": {
+      "url": "https://seayora.com/mcp"
+    }
+  }
+}

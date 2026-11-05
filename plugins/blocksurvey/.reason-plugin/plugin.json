@@ -1,0 +1,13 @@
+{
+  "name": "blocksurvey",
+  "displayName": "BlockSurvey",
+  "description": "Create and manage surveys.",
+  "homepage": "https://blocksurvey.io/",
+  "docs": "https://blocksurvey.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "blocksurvey": {
+      "url": "https://mcp.blocksurvey.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gangwaze",
+  "displayName": "Gangwaze",
+  "description": "Find the perfect cruise.",
+  "homepage": "https://gangwaze.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.gangwaze/cruise",
+  "auth": "none",
+  "mcpServers": {
+    "gangwaze": {
+      "url": "https://gangwaze.com/api/mcp"
+    }
+  }
+}

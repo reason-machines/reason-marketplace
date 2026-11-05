@@ -1,0 +1,13 @@
+{
+  "name": "hatchable",
+  "displayName": "Hatchable",
+  "description": "Host apps and websites.",
+  "homepage": "https://hatchable.com",
+  "docs": "https://hatchable.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hatchable": {
+      "url": "https://mcp.hatchable.com/mcp"
+    }
+  }
+}

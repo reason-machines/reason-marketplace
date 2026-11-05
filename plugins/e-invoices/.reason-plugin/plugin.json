@@ -1,0 +1,13 @@
+{
+  "name": "e-invoices",
+  "displayName": "e-invoices.it",
+  "description": "Understand Italian e-invoices.",
+  "homepage": "https://e-invoices.it/en/",
+  "docs": "https://e-invoices.it/en/",
+  "auth": "none",
+  "mcpServers": {
+    "e-invoices": {
+      "url": "https://e-invoices.it/mcp"
+    }
+  }
+}

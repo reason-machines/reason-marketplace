@@ -1,0 +1,13 @@
+{
+  "name": "revnu",
+  "displayName": "Revnu",
+  "description": "GTM on autopilot.",
+  "homepage": "https://revnu.com/mcp",
+  "docs": "https://revnu.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "revnu": {
+      "url": "https://revnu.com/api/mcp"
+    }
+  }
+}

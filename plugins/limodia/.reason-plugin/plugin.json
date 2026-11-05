@@ -1,0 +1,13 @@
+{
+  "name": "limodia",
+  "displayName": "Limodia",
+  "description": "Find luxury car services.",
+  "homepage": "https://limodia.com/",
+  "docs": "https://limodia.com/",
+  "auth": "none",
+  "mcpServers": {
+    "limodia": {
+      "url": "https://limodia.com/mcp"
+    }
+  }
+}

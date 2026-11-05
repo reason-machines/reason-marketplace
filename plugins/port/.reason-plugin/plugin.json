@@ -10,5 +10,70 @@
     "port": {
       "url": "https://mcp.port.io/v1"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "port-blueprints",
+      "description": "Model a Port context lake data model using blueprints, defining identifiers, titles, icons, properties, relations, and calculation, mirror, or aggregation properties, then author them with the raw Port API. Use when asked to create a Port blueprint, define a Port data model, add a property to a blue",
+      "source": "port-labs/port-skills#0340aea84107d03d6db191043310f9f897e4f7ee",
+      "skill": "port-blueprints",
+      "url": "https://github.com/port-labs/port-skills/tree/0340aea84107d03d6db191043310f9f897e4f7ee/skills/port-blueprints"
+    },
+    {
+      "name": "port-context-lake",
+      "description": "Design and build a Port context lake: a connected, semantically-rich data model of blueprints, relations, and mirror/aggregation properties that AI agents, scorecards, and workflows can query and act on, not just a plain software catalog. Use when asked to 'build a context lake', 'design a Port data",
+      "source": "port-labs/port-skills#0340aea84107d03d6db191043310f9f897e4f7ee",
+      "skill": "port-context-lake",
+      "url": "https://github.com/port-labs/port-skills/tree/0340aea84107d03d6db191043310f9f897e4f7ee/skills/port-context-lake"
+    },
+    {
+      "name": "port-create-custom-oauth-app",
+      "description": "Register an org-scoped external interface app (a public/PKCE Auth0 OAuth client) for a custom UI, such as a Lovable-, v0- or bolt.new-built app, using Port's MCP tools, then wire the Authorization Code + PKCE grant into that UI so it can sign users in and call the Port API. Use when asked to 'build ",
+      "source": "port-labs/port-skills#0340aea84107d03d6db191043310f9f897e4f7ee",
+      "skill": "port-create-custom-oauth-app",
+      "url": "https://github.com/port-labs/port-skills/tree/0340aea84107d03d6db191043310f9f897e4f7ee/skills/port-create-custom-oauth-app"
+    },
+    {
+      "name": "port-dashboards",
+      "description": "Build and update Port dashboard pages: widgets (table, number chart, pie chart, bar chart, multi-line chart, markdown, iframe, links, action card, action-runs table, entity details, AI agent), the 12-column row layout, sidebar placement, and private-page rules. Covers dataset filter syntax so a widg",
+      "source": "port-labs/port-skills#0340aea84107d03d6db191043310f9f897e4f7ee",
+      "skill": "port-dashboards",
+      "url": "https://github.com/port-labs/port-skills/tree/0340aea84107d03d6db191043310f9f897e4f7ee/skills/port-dashboards"
+    },
+    {
+      "name": "port-getting-started",
+      "description": "Set up Port and connect it to your coding agent: sign up for a Port account, install Port's MCP server, and optionally the Port CLI. Use when asked to 'get started with Port', 'set up Port', 'connect Port MCP', 'install the Port MCP server', 'how do I use Port from Claude Code/Cursor/VS Code', or be",
+      "source": "port-labs/port-skills#0340aea84107d03d6db191043310f9f897e4f7ee",
+      "skill": "port-getting-started",
+      "url": "https://github.com/port-labs/port-skills/tree/0340aea84107d03d6db191043310f9f897e4f7ee/skills/port-getting-started"
+    },
+    {
+      "name": "port-integrations",
+      "description": "Configure and troubleshoot Port integrations: mapping YAML, resources, selectors, JQ-based entity mappings, relations, and advanced options like createMissingRelatedEntities and itemsToParse. Use when asked to 'write a Port mapping', 'map API or tool data to a Port blueprint', 'configure an Ocean in",
+      "source": "port-labs/port-skills#0340aea84107d03d6db191043310f9f897e4f7ee",
+      "skill": "port-integrations",
+      "url": "https://github.com/port-labs/port-skills/tree/0340aea84107d03d6db191043310f9f897e4f7ee/skills/port-integrations"
+    },
+    {
+      "name": "port-permissions",
+      "description": "Configure Port's role-based access control: context lake (blueprint/entity) permissions (read, register, update, or delete entities, down to a single property or relation) and page/dashboard view/edit permissions. Use when asked to 'set up Port permissions', 'restrict who can edit an entity', 'only ",
+      "source": "port-labs/port-skills#0340aea84107d03d6db191043310f9f897e4f7ee",
+      "skill": "port-permissions",
+      "url": "https://github.com/port-labs/port-skills/tree/0340aea84107d03d6db191043310f9f897e4f7ee/skills/port-permissions"
+    },
+    {
+      "name": "port-terraform",
+      "description": "Author and manage Port blueprints, entities, scorecards, and self-service actions with the official Terraform provider (port-labs/port-labs). Covers provider setup and auth, every resource type (port_blueprint, port_entity, port_scorecard, port_action, port_webhook, port_integration, port_aggregatio",
+      "source": "port-labs/port-skills#0340aea84107d03d6db191043310f9f897e4f7ee",
+      "skill": "port-terraform",
+      "url": "https://github.com/port-labs/port-skills/tree/0340aea84107d03d6db191043310f9f897e4f7ee/skills/port-terraform"
+    },
+    {
+      "name": "port-workflows",
+      "description": "Build Port workflows: node-based automations made of triggers (self-service forms, context lake events), action nodes (webhook, upsert entity, GitHub/GitLab/Azure DevOps/Claude managed agents integration actions, Kafka, Cursor Agent, AI), condition and input nodes, JQ templating between nodes, and s",
+      "source": "port-labs/port-skills#0340aea84107d03d6db191043310f9f897e4f7ee",
+      "skill": "port-workflows",
+      "url": "https://github.com/port-labs/port-skills/tree/0340aea84107d03d6db191043310f9f897e4f7ee/skills/port-workflows"
+    }
+  ]
 }

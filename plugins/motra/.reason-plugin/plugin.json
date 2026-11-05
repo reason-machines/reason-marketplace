@@ -1,0 +1,13 @@
+{
+  "name": "motra",
+  "displayName": "Motra",
+  "description": "Your personal AI Trainer.",
+  "homepage": "https://motra.com",
+  "docs": "https://motra.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "motra": {
+      "url": "https://mcp.motra.com/mcp"
+    }
+  }
+}

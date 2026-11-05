@@ -1,0 +1,22 @@
+{
+  "name": "thrixel",
+  "displayName": "Thrixel",
+  "description": "Your 3D creation engine.",
+  "homepage": "https://thrixel.com",
+  "docs": "https://thrixel.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "thrixel": {
+      "url": "https://api.thrixel.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "build-world",
+      "description": "Builds polished, fully playable 3D browser games in three.js, with high-quality .glb models from the Thrixel API, and publishes each finished game to a public thrixel.world link that anyone can play. Use when the user wants to make a game, build a playable prototype, or generate 3D assets, and also ",
+      "source": "thrixel/build-world#362fd6641656dbffba108cf70ba7f1a1db60ca4f",
+      "skill": "build-world",
+      "url": "https://github.com/thrixel/build-world/tree/362fd6641656dbffba108cf70ba7f1a1db60ca4f/skills/build-world"
+    }
+  ]
+}

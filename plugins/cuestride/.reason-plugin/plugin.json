@@ -1,0 +1,13 @@
+{
+  "name": "cuestride",
+  "displayName": "CueStride Timer",
+  "description": "Shared countdown timers.",
+  "homepage": "https://cuestride.com",
+  "docs": "https://cuestride.com",
+  "auth": "none",
+  "mcpServers": {
+    "cuestride": {
+      "url": "https://app.cuestride.com/mcp"
+    }
+  }
+}

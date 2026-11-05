@@ -1,0 +1,13 @@
+{
+  "name": "bidpatch",
+  "displayName": "Document Change Checker",
+  "description": "Compare public document edits.",
+  "homepage": "https://bidpatch-mcp.sunrysetech.com/",
+  "docs": "https://bidpatch-mcp.sunrysetech.com/",
+  "auth": "none",
+  "mcpServers": {
+    "bidpatch": {
+      "url": "https://bidpatch-mcp.sunrysetech.com/mcp"
+    }
+  }
+}

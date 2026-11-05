@@ -1,0 +1,13 @@
+{
+  "name": "1102tools-sam-gov",
+  "displayName": "1102tools for SAM.gov",
+  "description": "Find contract opportunities.",
+  "homepage": "https://1102tools.com",
+  "docs": "https://1102tools.com/mcp/sam-gov",
+  "auth": "none",
+  "mcpServers": {
+    "1102tools-sam-gov": {
+      "url": "https://sam.1102tools.com/mcp"
+    }
+  }
+}

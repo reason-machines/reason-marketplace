@@ -1,0 +1,13 @@
+{
+  "name": "autosheet",
+  "displayName": "Autosheet",
+  "description": "Agent for Google Sheets work.",
+  "homepage": "https://autosheet.com",
+  "docs": "https://autosheet.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "autosheet": {
+      "url": "https://mcp.autosheet.com/mcp"
+    }
+  }
+}

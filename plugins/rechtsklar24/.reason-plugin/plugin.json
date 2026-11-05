@@ -1,0 +1,13 @@
+{
+  "name": "rechtsklar24",
+  "displayName": "Rechtsklar24",
+  "description": "Onlineshop-Recht mit Quellen.",
+  "homepage": "https://rechtsklar24.de",
+  "docs": "https://rechtsklar24.de",
+  "auth": "none",
+  "mcpServers": {
+    "rechtsklar24": {
+      "url": "https://rechtsklar24.de/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "secondhand-marketplace",
+  "displayName": "Secondhand Marketplace",
+  "description": "Search used marketplaces.",
+  "homepage": "https://secondhandmcp.com",
+  "docs": "https://secondhandmcp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "secondhand-marketplace": {
+      "url": "https://secondhandmcp.com/mcp"
+    }
+  }
+}

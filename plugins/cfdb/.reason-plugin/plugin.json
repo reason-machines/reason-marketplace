@@ -1,0 +1,13 @@
+{
+  "name": "cfdb",
+  "displayName": "CFDB",
+  "description": "Consulta el fútbol chileno.",
+  "homepage": "https://www.cfdb.cl",
+  "docs": "https://www.cfdb.cl",
+  "auth": "oauth",
+  "mcpServers": {
+    "cfdb": {
+      "url": "https://mcp.cfdb.cl/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "zacks-financial-data",
+  "displayName": "Zacks Financial Data",
+  "description": "Zacks Trusted Financial Data.",
+  "homepage": "https://ai.zacksdata.com",
+  "docs": "https://ai.zacksdata.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "zacks-financial-data": {
+      "url": "https://mcp.zacksdata.com/"
+    }
+  }
+}

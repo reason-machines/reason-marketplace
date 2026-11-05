@@ -1,0 +1,13 @@
+{
+  "name": "cirra-ai",
+  "displayName": "Cirra AI",
+  "description": "Administer your CRM.",
+  "homepage": "https://cirra.ai",
+  "docs": "https://cirra.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "cirra-ai": {
+      "url": "https://mcp.cirra.ai/mcp"
+    }
+  }
+}

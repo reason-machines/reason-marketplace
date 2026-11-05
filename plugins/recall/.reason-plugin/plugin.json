@@ -1,0 +1,13 @@
+{
+  "name": "recall",
+  "displayName": "Recall",
+  "description": "Create flashcards.",
+  "homepage": "https://recall.cards/",
+  "docs": "https://recall.cards/",
+  "auth": "oauth",
+  "mcpServers": {
+    "recall": {
+      "url": "https://mcp.recall.cards/mcp"
+    }
+  }
+}

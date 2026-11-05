@@ -1,0 +1,13 @@
+{
+  "name": "keel-stats",
+  "displayName": "Keel Stats",
+  "description": "NBA & NFL advanced stats.",
+  "homepage": "https://keelstats.com",
+  "docs": "https://keelstats.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "keel-stats": {
+      "url": "https://api.keelstats.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cleanwhale-booking",
+  "displayName": "CleanWhale Booking",
+  "description": "Book cleanings worldwide.",
+  "homepage": "https://cleanwhale.pl",
+  "docs": "https://cleanwhale.pl",
+  "auth": "none",
+  "mcpServers": {
+    "cleanwhale-booking": {
+      "url": "https://mcp.cleanwhale.pl/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "promptcrew",
+  "displayName": "PromptCrew",
+  "description": "Reuse team AI workflows.",
+  "homepage": "https://promptcrew.io/",
+  "docs": "https://promptcrew.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "promptcrew": {
+      "url": "https://mcp.promptcrew.io/mcp"
+    }
+  }
+}

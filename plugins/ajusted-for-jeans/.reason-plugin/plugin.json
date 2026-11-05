@@ -1,0 +1,13 @@
+{
+  "name": "ajusted-for-jeans",
+  "displayName": "Ajusted for Jeans",
+  "description": "Your jeans size at any brand.",
+  "homepage": "https://getajusted.com",
+  "docs": "https://getajusted.com",
+  "auth": "none",
+  "mcpServers": {
+    "ajusted-for-jeans": {
+      "url": "https://api.getajusted.com/mcp"
+    }
+  }
+}

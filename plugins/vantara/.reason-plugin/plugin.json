@@ -1,0 +1,13 @@
+{
+  "name": "vantara",
+  "displayName": "Vantara",
+  "description": "Governed sales operations.",
+  "homepage": "https://ai-vantara.com/",
+  "docs": "https://ai-vantara.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "vantara": {
+      "url": "https://mcp.ai-vantara.com/mcp"
+    }
+  }
+}

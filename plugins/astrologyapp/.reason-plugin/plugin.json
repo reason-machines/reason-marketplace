@@ -1,0 +1,13 @@
+{
+  "name": "astrologyapp",
+  "displayName": "AstrologyApp.net",
+  "description": "Your birth chart, in chat.",
+  "homepage": "https://www.astrologyapp.net",
+  "docs": "https://www.astrologyapp.net/mapa-astral-no-chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "astrologyapp": {
+      "url": "https://www.astrologyapp.net/mcp"
+    }
+  }
+}

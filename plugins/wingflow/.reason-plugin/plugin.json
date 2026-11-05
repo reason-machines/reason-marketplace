@@ -1,0 +1,13 @@
+{
+  "name": "wingflow",
+  "displayName": "Wingflow",
+  "description": "LinkedIn outreach stats.",
+  "homepage": "https://wingflow.ai",
+  "docs": "https://wingflow.ai/connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "wingflow": {
+      "url": "https://wingflow.ai/api/mcp"
+    }
+  }
+}

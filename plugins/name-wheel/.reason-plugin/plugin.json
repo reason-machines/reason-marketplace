@@ -1,0 +1,13 @@
+{
+  "name": "name-wheel",
+  "displayName": "Zovo Name Wheel",
+  "description": "Spin a wheel, pick a name.",
+  "homepage": "https://name-wheel.zovo.one",
+  "docs": "https://name-wheel.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "name-wheel": {
+      "url": "https://name-wheel.zovo.one/mcp"
+    }
+  }
+}

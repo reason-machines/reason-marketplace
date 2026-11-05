@@ -1,0 +1,13 @@
+{
+  "name": "get-ai-cited",
+  "displayName": "Get AI Cited",
+  "description": "AI visibility for B2B brands.",
+  "homepage": "https://www.getaicited.co",
+  "docs": "https://www.getaicited.co/en/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "get-ai-cited": {
+      "url": "https://www.getaicited.co/mcp"
+    }
+  }
+}

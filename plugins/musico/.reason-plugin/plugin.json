@@ -1,0 +1,13 @@
+{
+  "name": "musico",
+  "displayName": "Musico",
+  "description": "Hire live music.",
+  "homepage": "https://getmusico.com",
+  "docs": "https://getmusico.com",
+  "auth": "none",
+  "mcpServers": {
+    "musico": {
+      "url": "https://mcp.getmusico.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dubai-wealth-index",
+  "displayName": "Dubai Wealth Index Real Estate",
+  "description": "Property prices, rents, yields.",
+  "homepage": "https://dubaiwealthindex.com",
+  "docs": "https://dubaiwealthindex.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dubai-wealth-index": {
+      "url": "https://dubaiwealthindex.com/api/mcp"
+    }
+  }
+}

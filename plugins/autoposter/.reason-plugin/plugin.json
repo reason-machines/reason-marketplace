@@ -1,0 +1,13 @@
+{
+  "name": "autoposter",
+  "displayName": "Auto Poster AI",
+  "description": "Schedule social media posts.",
+  "homepage": "https://autoposter.ai",
+  "docs": "https://autoposter.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "autoposter": {
+      "url": "https://agent.autoposter.ai/mcp"
+    }
+  }
+}

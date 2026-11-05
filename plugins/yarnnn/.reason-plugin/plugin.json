@@ -1,0 +1,13 @@
+{
+  "name": "yarnnn",
+  "displayName": "yarnnn",
+  "description": "Save, find and share your work.",
+  "homepage": "https://www.yarnnn.com",
+  "docs": "https://www.yarnnn.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "yarnnn": {
+      "url": "https://mcp.yarnnn.com/"
+    }
+  }
+}

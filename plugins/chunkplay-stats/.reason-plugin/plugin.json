@@ -1,0 +1,13 @@
+{
+  "name": "chunkplay-stats",
+  "displayName": "Chunkplay Stats",
+  "description": "NFL stats with sources.",
+  "homepage": "https://chunkplaystats.com",
+  "docs": "https://chunkplaystats.com",
+  "auth": "none",
+  "mcpServers": {
+    "chunkplay-stats": {
+      "url": "https://chunkplaystats.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "jotter",
+  "displayName": "Jotter",
+  "description": "Carry context between AI chats.",
+  "homepage": "https://jotter.fyi",
+  "docs": "https://jotter.fyi",
+  "auth": "oauth",
+  "mcpServers": {
+    "jotter": {
+      "url": "https://jotter.fyi/mcp"
+    }
+  }
+}

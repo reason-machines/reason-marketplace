@@ -1,0 +1,13 @@
+{
+  "name": "levitate",
+  "displayName": "Levitate",
+  "description": "Manage your relationships.",
+  "homepage": "https://www.levitate.ai/",
+  "docs": "https://www.levitate.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "levitate": {
+      "url": "https://mcp.levitate.ai/mcp"
+    }
+  }
+}

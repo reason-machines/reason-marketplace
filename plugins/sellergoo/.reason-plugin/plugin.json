@@ -1,0 +1,13 @@
+{
+  "name": "sellergoo",
+  "displayName": "Sellergoo",
+  "description": "Profit analytics for sellers.",
+  "homepage": "https://sellergoo.com",
+  "docs": "https://sellergoo.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "sellergoo": {
+      "url": "https://sellergoo.com/api/mcp"
+    }
+  }
+}

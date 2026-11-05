@@ -1,0 +1,13 @@
+{
+  "name": "simply-asking",
+  "displayName": "Simply Asking",
+  "description": "Ask your company knowledge.",
+  "homepage": "https://simplyasking.io",
+  "docs": "https://simplyasking.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "simply-asking": {
+      "url": "https://simplyasking.io/mcp"
+    }
+  }
+}

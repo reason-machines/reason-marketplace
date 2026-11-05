@@ -1,0 +1,13 @@
+{
+  "name": "esimtc",
+  "displayName": "esim.tc eSIM Paketleri",
+  "description": "Yurt dışı eSIM paket bul.",
+  "homepage": "https://esim.tc",
+  "docs": "https://esim.tc",
+  "auth": "none",
+  "mcpServers": {
+    "esimtc": {
+      "url": "https://esim.tc/mcp"
+    }
+  }
+}

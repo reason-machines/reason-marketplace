@@ -1,0 +1,13 @@
+{
+  "name": "smarts-bio-ai-for-biology",
+  "displayName": "smarts.bio: AI for biology",
+  "description": "Bioinformatics tools pipelines.",
+  "homepage": "https://smarts.bio",
+  "docs": "https://smarts.bio",
+  "auth": "oauth",
+  "mcpServers": {
+    "smarts-bio-ai-for-biology": {
+      "url": "https://mcp.smarts.bio/mcp"
+    }
+  }
+}

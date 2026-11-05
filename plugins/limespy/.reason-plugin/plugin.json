@@ -1,0 +1,13 @@
+{
+  "name": "limespy",
+  "displayName": "LimeSpy",
+  "description": "Explore shopping with AI.",
+  "homepage": "https://limespy.com",
+  "docs": "https://limespy.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "limespy": {
+      "url": "https://limespy.com/mcp"
+    }
+  }
+}

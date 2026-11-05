@@ -1,0 +1,13 @@
+{
+  "name": "airtasker",
+  "displayName": "Airtasker",
+  "description": "Post tasks and hire taskers.",
+  "homepage": "https://www.airtasker.com",
+  "docs": "https://www.airtasker.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "airtasker": {
+      "url": "https://mcp.airtasker.com/mcp"
+    }
+  }
+}

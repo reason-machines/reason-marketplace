@@ -1,0 +1,13 @@
+{
+  "name": "insurify",
+  "displayName": "Insurify",
+  "description": "Compare car insurance quotes.",
+  "homepage": "https://insurify.com/",
+  "docs": "https://insurify.com/",
+  "auth": "none",
+  "mcpServers": {
+    "insurify": {
+      "url": "https://mcp.insurify.com/mcp"
+    }
+  }
+}

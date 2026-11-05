@@ -1,0 +1,13 @@
+{
+  "name": "componecat",
+  "displayName": "Componecat",
+  "description": "Explore your software catalog.",
+  "homepage": "https://www.shaftware.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.shaftware/componecat",
+  "auth": "oauth",
+  "mcpServers": {
+    "componecat": {
+      "url": "https://app.componecat.ai/api/mcp"
+    }
+  }
+}

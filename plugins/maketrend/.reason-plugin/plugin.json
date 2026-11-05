@@ -1,0 +1,13 @@
+{
+  "name": "maketrend",
+  "displayName": "MakeTrend",
+  "description": "Help AI recommend you.",
+  "homepage": "https://www.maketrend.ai",
+  "docs": "https://www.maketrend.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "maketrend": {
+      "url": "https://www.maketrend.ai/api/mcp"
+    }
+  }
+}

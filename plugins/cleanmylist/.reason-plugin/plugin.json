@@ -1,0 +1,13 @@
+{
+  "name": "cleanmylist",
+  "displayName": "CleanMyList",
+  "description": "Verify emails and clean lists.",
+  "homepage": "https://www.cleanmylist.io",
+  "docs": "https://www.cleanmylist.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "cleanmylist": {
+      "url": "https://cleanmylist.io/mcp"
+    }
+  }
+}

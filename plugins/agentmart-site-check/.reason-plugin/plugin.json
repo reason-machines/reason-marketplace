@@ -1,0 +1,13 @@
+{
+  "name": "agentmart-site-check",
+  "displayName": "AgentMart Site Check",
+  "description": "Check a website's public setup.",
+  "homepage": "https://agentmart.ciphyr.ai/c",
+  "docs": "https://agentmart.ciphyr.ai/c",
+  "auth": "none",
+  "mcpServers": {
+    "agentmart-site-check": {
+      "url": "https://agentmart.ciphyr.ai/mcp/check"
+    }
+  }
+}

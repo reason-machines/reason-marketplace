@@ -1,0 +1,13 @@
+{
+  "name": "gainium",
+  "displayName": "Gainium",
+  "description": "Read trading data.",
+  "homepage": "https://gainium.io",
+  "docs": "https://gainium.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "gainium": {
+      "url": "https://mcp.gainium.io/mcp"
+    }
+  }
+}

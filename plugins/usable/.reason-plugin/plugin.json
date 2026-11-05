@@ -1,0 +1,13 @@
+{
+  "name": "usable",
+  "displayName": "Usable",
+  "description": "Shared organisational memory.",
+  "homepage": "https://www.usable.dev",
+  "docs": "https://usable.dev/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "usable": {
+      "url": "https://usable.dev/api/mcp"
+    }
+  }
+}

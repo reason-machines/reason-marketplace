@@ -1,0 +1,13 @@
+{
+  "name": "rhizome-ai",
+  "displayName": "Rhizome AI",
+  "description": "Know what the FDA thinks.",
+  "homepage": "https://rhizomeai.com",
+  "docs": "https://rhizomeai.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "rhizome-ai": {
+      "url": "https://rhizomeai.com/api/mcp"
+    }
+  }
+}

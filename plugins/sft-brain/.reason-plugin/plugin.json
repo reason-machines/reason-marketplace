@@ -1,0 +1,13 @@
+{
+  "name": "sft-brain",
+  "displayName": "SFT Brain",
+  "description": "Create and review flashcards.",
+  "homepage": "https://sftbrain.com",
+  "docs": "https://sftbrain.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sft-brain": {
+      "url": "https://sftbrain.com/mcp"
+    }
+  }
+}

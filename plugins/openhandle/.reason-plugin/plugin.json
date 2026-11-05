@@ -1,0 +1,13 @@
+{
+  "name": "openhandle",
+  "displayName": "Openhandle",
+  "description": "Read public social media data.",
+  "homepage": "https://openhandle.dev",
+  "docs": "https://openhandle.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "openhandle": {
+      "url": "https://openhandle.dev/mcp"
+    }
+  }
+}

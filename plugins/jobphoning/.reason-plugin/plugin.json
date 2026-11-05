@@ -1,0 +1,13 @@
+{
+  "name": "jobphoning",
+  "displayName": "JobPhoning",
+  "description": "Vos chiffres clés JobPhoning.",
+  "homepage": "https://jobphoning.com/",
+  "docs": "https://jobphoning.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "jobphoning": {
+      "url": "https://mcp.jobphoning.com/"
+    }
+  }
+}

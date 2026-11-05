@@ -1,0 +1,13 @@
+{
+  "name": "rawnd",
+  "displayName": "Rawnd",
+  "description": "Open RAW photos in chat.",
+  "homepage": "https://rawnd.app",
+  "docs": "https://rawnd.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "rawnd": {
+      "url": "https://rawnd.app/api/mcp"
+    }
+  }
+}

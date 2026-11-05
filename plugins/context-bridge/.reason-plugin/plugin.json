@@ -1,0 +1,13 @@
+{
+  "name": "context-bridge",
+  "displayName": "Context Bridge",
+  "description": "Persistent project continuity.",
+  "homepage": "https://sites.google.com/view/context-bridge/home",
+  "docs": "https://sites.google.com/view/context-bridge/home",
+  "auth": "none",
+  "mcpServers": {
+    "context-bridge": {
+      "url": "https://context-bridge.contextbridge.workers.dev/mcp"
+    }
+  }
+}

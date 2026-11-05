@@ -1,0 +1,13 @@
+{
+  "name": "smoothspeak-replies",
+  "displayName": "Smoothspeak",
+  "description": "Write your next reply.",
+  "homepage": "https://smoothspeak.ai/",
+  "docs": "https://smoothspeak.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "smoothspeak-replies": {
+      "url": "https://smoothspeak.ai/mcp"
+    }
+  }
+}

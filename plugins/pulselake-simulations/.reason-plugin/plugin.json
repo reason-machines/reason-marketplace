@@ -1,0 +1,13 @@
+{
+  "name": "pulselake-simulations",
+  "displayName": "PulseLake Simulations",
+  "description": "Explore ideas and scenarios.",
+  "homepage": "https://pulselake.co",
+  "docs": "https://www.pulselake.co/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "pulselake-simulations": {
+      "url": "https://ai-consultants.pulselake.co/oauth/pulselake-mcp"
+    }
+  }
+}

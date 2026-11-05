@@ -1,0 +1,13 @@
+{
+  "name": "welltory",
+  "displayName": "Welltory",
+  "description": "Your Welltory health data.",
+  "homepage": "https://welltory.com/",
+  "docs": "https://welltory.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "welltory": {
+      "url": "https://mcp.welltory.com/mcp"
+    }
+  }
+}

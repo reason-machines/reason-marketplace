@@ -1,0 +1,13 @@
+{
+  "name": "choosecruise",
+  "displayName": "ChooseCruise",
+  "description": "Find and compare cruises.",
+  "homepage": "https://choose-cruise.com/",
+  "docs": "https://choose-cruise.com/",
+  "auth": "none",
+  "mcpServers": {
+    "choosecruise": {
+      "url": "https://mcp.choose-cruise.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "covenant",
+  "displayName": "Covenant",
+  "description": "Your fund terms, in Reason.",
+  "homepage": "https://covenant.co",
+  "docs": "https://docs.covenant.co/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "covenant": {
+      "url": "https://covenant.co/api/mcp"
+    }
+  }
+}

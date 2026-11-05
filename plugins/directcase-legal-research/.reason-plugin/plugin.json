@@ -1,0 +1,13 @@
+{
+  "name": "directcase-legal-research",
+  "displayName": "DirectCase Legal Research",
+  "description": "Verified legal research.",
+  "homepage": "https://www.directcase.ai/",
+  "docs": "https://www.directcase.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "directcase-legal-research": {
+      "url": "https://mcp.directcase.ai/mcp"
+    }
+  }
+}

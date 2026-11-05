@@ -1,0 +1,13 @@
+{
+  "name": "aegeanbot-direct-stays",
+  "displayName": "AegeanBot Direct Stays",
+  "description": "Find stays across Greece.",
+  "homepage": "https://aegeanbot.com",
+  "docs": "https://aegeanbot.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "aegeanbot-direct-stays": {
+      "url": "https://app.aegeanbot.com/mcp"
+    }
+  }
+}

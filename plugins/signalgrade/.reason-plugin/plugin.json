@@ -1,0 +1,13 @@
+{
+  "name": "signalgrade",
+  "displayName": "SignalGrade",
+  "description": "Analyze and improve your music.",
+  "homepage": "https://signalgrade.com",
+  "docs": "https://signalgrade.com/",
+  "auth": "none",
+  "mcpServers": {
+    "signalgrade": {
+      "url": "https://api.signalgrade.com/mcp"
+    }
+  }
+}

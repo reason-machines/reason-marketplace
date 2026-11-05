@@ -1,0 +1,13 @@
+{
+  "name": "metricool",
+  "displayName": "Metricool",
+  "description": "Analyze and schedule posts.",
+  "homepage": "https://metricool.com/",
+  "docs": "https://metricool.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "metricool": {
+      "url": "https://ai.metricool.com/mcp"
+    }
+  }
+}

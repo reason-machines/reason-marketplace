@@ -1,0 +1,13 @@
+{
+  "name": "tradingnx-risk-manager",
+  "displayName": "TradingNX Risk Manager",
+  "description": "Manage trade risk.",
+  "homepage": "https://tradingnx.com",
+  "docs": "https://tedix.dev/apps/tradingnx-risk-manager/",
+  "auth": "none",
+  "mcpServers": {
+    "tradingnx-risk-manager": {
+      "url": "https://api.tradingnx.com/mcp"
+    }
+  }
+}

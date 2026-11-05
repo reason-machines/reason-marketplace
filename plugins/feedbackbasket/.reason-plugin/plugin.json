@@ -1,0 +1,13 @@
+{
+  "name": "feedbackbasket",
+  "displayName": "FeedbackBasket",
+  "description": "Manage feedback and bugs.",
+  "homepage": "https://feedbackbasket.com",
+  "docs": "https://feedbackbasket.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "feedbackbasket": {
+      "url": "https://feedbackbasket.com/.well-known/mcp"
+    }
+  }
+}

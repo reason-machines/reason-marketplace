@@ -1,0 +1,13 @@
+{
+  "name": "multiples-vc",
+  "displayName": "Multiples.vc",
+  "description": "Public comps, M&A and VC data.",
+  "homepage": "https://multiples.vc",
+  "docs": "https://multiples.vc/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "multiples-vc": {
+      "url": "https://multiples.vc/api/mcp-server/mcp"
+    }
+  }
+}

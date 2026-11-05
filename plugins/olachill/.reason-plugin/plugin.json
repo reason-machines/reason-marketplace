@@ -1,0 +1,13 @@
+{
+  "name": "olachill",
+  "displayName": "OlaChill Travel",
+  "description": "Japan tours & transport.",
+  "homepage": "https://olachill.com/en",
+  "docs": "https://olachill.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "olachill": {
+      "url": "https://olachill.com/mcp"
+    }
+  }
+}

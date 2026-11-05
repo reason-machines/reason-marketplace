@@ -1,0 +1,13 @@
+{
+  "name": "scaleskus",
+  "displayName": "ScaleSKUs",
+  "description": "Analyse & manage Amazon Ads.",
+  "homepage": "https://scaleskus.com",
+  "docs": "https://scaleskus.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "scaleskus": {
+      "url": "https://scaleskus.com/mcp"
+    }
+  }
+}

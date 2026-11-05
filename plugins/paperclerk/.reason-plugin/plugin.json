@@ -1,0 +1,13 @@
+{
+  "name": "paperclerk",
+  "displayName": "PaperClerk",
+  "description": "Generate PDFs from templates.",
+  "homepage": "https://usepaperclerk.com",
+  "docs": "https://usepaperclerk.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "paperclerk": {
+      "url": "https://usepaperclerk.com/api/mcp"
+    }
+  }
+}

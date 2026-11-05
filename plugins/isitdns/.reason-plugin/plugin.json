@@ -1,0 +1,13 @@
+{
+  "name": "isitdns",
+  "displayName": "is it DNS?",
+  "description": "Live DNS checks, public seats.",
+  "homepage": "https://isitdns.net",
+  "docs": "https://isitdns.net",
+  "auth": "none",
+  "mcpServers": {
+    "isitdns": {
+      "url": "https://isitdns.net/mcp"
+    }
+  }
+}

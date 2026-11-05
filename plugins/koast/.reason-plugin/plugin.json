@@ -1,0 +1,13 @@
+{
+  "name": "koast",
+  "displayName": "Koast",
+  "description": "Manage your Meta ad campaigns.",
+  "homepage": "https://koast.ai",
+  "docs": "https://koast.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "koast": {
+      "url": "https://mcp.koast.ai/mcp"
+    }
+  }
+}

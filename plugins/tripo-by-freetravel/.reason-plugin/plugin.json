@@ -1,0 +1,13 @@
+{
+  "name": "tripo-by-freetravel",
+  "displayName": "TripO by FreeTravel",
+  "description": "Book global hotels with perks.",
+  "homepage": "https://www.freetravel.me/",
+  "docs": "https://www.freetravel.me/",
+  "auth": "none",
+  "mcpServers": {
+    "tripo-by-freetravel": {
+      "url": "https://mcp.freetravel.me/mcp"
+    }
+  }
+}

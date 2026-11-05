@@ -1,0 +1,13 @@
+{
+  "name": "mergado",
+  "displayName": "Mergado",
+  "description": "Manage ecommerce data.",
+  "homepage": "https://www.mergado.com",
+  "docs": "https://www.mergado.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mergado": {
+      "url": "https://mcp.mergado.com/mcp"
+    }
+  }
+}

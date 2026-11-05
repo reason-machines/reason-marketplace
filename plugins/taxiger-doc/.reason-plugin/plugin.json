@@ -1,0 +1,13 @@
+{
+  "name": "taxiger-doc",
+  "displayName": "Taxiger Doc",
+  "description": "Learn Belgian Taxi Rules.",
+  "homepage": "https://www.taxiger.com",
+  "docs": "https://www.taxiger.com",
+  "auth": "none",
+  "mcpServers": {
+    "taxiger-doc": {
+      "url": "https://taxiger.com/mcp"
+    }
+  }
+}

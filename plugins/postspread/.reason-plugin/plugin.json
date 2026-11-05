@@ -1,0 +1,13 @@
+{
+  "name": "postspread",
+  "displayName": "PostSpread",
+  "description": "Schedule social media posts.",
+  "homepage": "https://postspread.com",
+  "docs": "https://postspread.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "postspread": {
+      "url": "https://mcp.postspread.com/mcp"
+    }
+  }
+}

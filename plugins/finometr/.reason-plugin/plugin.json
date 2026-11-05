@@ -1,0 +1,13 @@
+{
+  "name": "finometr",
+  "displayName": "Finometr",
+  "description": "Cash flow, forecast, budgets.",
+  "homepage": "https://finometr.com",
+  "docs": "https://finometr.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "finometr": {
+      "url": "https://finometr.com/mcp"
+    }
+  }
+}

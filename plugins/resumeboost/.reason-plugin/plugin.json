@@ -1,0 +1,13 @@
+{
+  "name": "resumeboost",
+  "displayName": "ResumeBoost",
+  "description": "Optimize resume, cover letter.",
+  "homepage": "https://mvp.mom",
+  "docs": "https://mvp.mom",
+  "auth": "none",
+  "mcpServers": {
+    "resumeboost": {
+      "url": "https://mvp.mom/api/mcp"
+    }
+  }
+}

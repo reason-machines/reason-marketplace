@@ -1,0 +1,13 @@
+{
+  "name": "unreasonable-eco",
+  "displayName": "Unreasonable Eco",
+  "description": "Your Unreasonable community.",
+  "homepage": "https://unreasonable.eco",
+  "docs": "https://unreasonable.eco",
+  "auth": "oauth",
+  "mcpServers": {
+    "unreasonable-eco": {
+      "url": "https://unreasonable.eco/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "zumba",
+  "displayName": "Zumba",
+  "description": "Find Zumba classes.",
+  "homepage": "https://www.zumba.com",
+  "docs": "https://www.zumba.com",
+  "auth": "none",
+  "mcpServers": {
+    "zumba": {
+      "url": "https://mcp.zumba.com/mcp"
+    }
+  }
+}

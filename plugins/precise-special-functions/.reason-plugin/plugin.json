@@ -1,0 +1,13 @@
+{
+  "name": "precise-special-functions",
+  "displayName": "Precise Special Functions",
+  "description": "High-precision math functions.",
+  "homepage": "https://bessel-eval-poc.fly.dev/",
+  "docs": "https://bessel-eval-poc.fly.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "precise-special-functions": {
+      "url": "https://bessel-eval-poc.fly.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tickadoo",
+  "displayName": "tickadoo",
+  "description": "Find & book live experiences.",
+  "homepage": "https://tickadoo.com",
+  "docs": "https://tickadoo.com",
+  "auth": "none",
+  "mcpServers": {
+    "tickadoo": {
+      "url": "https://mcp.tickadoo.com/mcp"
+    }
+  }
+}

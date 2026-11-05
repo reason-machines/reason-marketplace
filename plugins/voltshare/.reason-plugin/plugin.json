@@ -1,0 +1,13 @@
+{
+  "name": "voltshare",
+  "displayName": "VoltShare",
+  "description": "Find EV chargers near you.",
+  "homepage": "https://voltshare.app",
+  "docs": "https://voltshare.app",
+  "auth": "none",
+  "mcpServers": {
+    "voltshare": {
+      "url": "https://mcp.voltshare.app/mcp"
+    }
+  }
+}

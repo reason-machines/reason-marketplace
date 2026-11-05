@@ -1,0 +1,13 @@
+{
+  "name": "poredi-ba",
+  "displayName": "Poredi.ba",
+  "description": "Uporedi cijene u BiH.",
+  "homepage": "https://poredi.ba/",
+  "docs": "https://poredi.ba/",
+  "auth": "none",
+  "mcpServers": {
+    "poredi-ba": {
+      "url": "https://poredi.ba/mcp"
+    }
+  }
+}

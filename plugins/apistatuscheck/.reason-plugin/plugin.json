@@ -1,0 +1,13 @@
+{
+  "name": "apistatuscheck",
+  "displayName": "API Status Check",
+  "description": "Is a service down right now?",
+  "homepage": "https://apistatuscheck.com/",
+  "docs": "https://apistatuscheck.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "apistatuscheck": {
+      "url": "https://apistatuscheck.com/api/mcp/claude"
+    }
+  }
+}

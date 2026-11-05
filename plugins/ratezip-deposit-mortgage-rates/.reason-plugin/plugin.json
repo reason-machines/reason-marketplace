@@ -1,0 +1,13 @@
+{
+  "name": "ratezip-deposit-mortgage-rates",
+  "displayName": "RateZip Deposit/Mortgage Rates",
+  "description": "Current US APYs & loan rates.",
+  "homepage": "https://www.ratezip.com/",
+  "docs": "https://www.ratezip.com/",
+  "auth": "none",
+  "mcpServers": {
+    "ratezip-deposit-mortgage-rates": {
+      "url": "https://mcp.ratezip.com/mcp"
+    }
+  }
+}

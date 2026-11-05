@@ -1,0 +1,13 @@
+{
+  "name": "praetor-health",
+  "displayName": "Praetor Health",
+  "description": "Find and compare blood tests.",
+  "homepage": "https://praetor.health",
+  "docs": "https://praetor.health/articles/inside-praetor/using-praetor-in-claude",
+  "auth": "none",
+  "mcpServers": {
+    "praetor-health": {
+      "url": "https://mcp.praetor.health/api/mcp"
+    }
+  }
+}

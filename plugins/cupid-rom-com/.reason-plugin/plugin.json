@@ -1,0 +1,13 @@
+{
+  "name": "cupid-rom-com",
+  "displayName": "Cupid",
+  "description": "Play matchmaker in a rom-com.",
+  "homepage": "https://playfulscience.ai",
+  "docs": "https://cupid-mcp.playfulscience.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "cupid-rom-com": {
+      "url": "https://cupid-mcp.playfulscience.ai/mcp"
+    }
+  }
+}

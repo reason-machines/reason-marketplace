@@ -1,0 +1,13 @@
+{
+  "name": "bingetube",
+  "displayName": "BingeTube",
+  "description": "Find short dramas to watch.",
+  "homepage": "https://binge.tube",
+  "docs": "https://binge.tube",
+  "auth": "none",
+  "mcpServers": {
+    "bingetube": {
+      "url": "https://binge.tube/mcp"
+    }
+  }
+}

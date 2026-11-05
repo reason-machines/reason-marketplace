@@ -1,0 +1,13 @@
+{
+  "name": "rooquiz",
+  "displayName": "RooQuiz",
+  "description": "Build and manage assessments.",
+  "homepage": "https://rooquiz.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.rooquiz/rooquiz-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "rooquiz": {
+      "url": "https://payload.rooquiz.com/api/mcp"
+    }
+  }
+}

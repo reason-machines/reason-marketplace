@@ -1,0 +1,13 @@
+{
+  "name": "jawz",
+  "displayName": "Jawz",
+  "description": "Read markets, check portfolio.",
+  "homepage": "https://jawz.ai",
+  "docs": "https://jawz.ai/docs/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "jawz": {
+      "url": "https://jawz.ai/api/mcp"
+    }
+  }
+}

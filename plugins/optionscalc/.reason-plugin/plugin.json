@@ -1,0 +1,13 @@
+{
+  "name": "optionscalc",
+  "displayName": "OptionsCalc",
+  "description": "Construct option strategies.",
+  "homepage": "https://optionscalc.app",
+  "docs": "https://tedix.dev/apps/optionscalc/",
+  "auth": "none",
+  "mcpServers": {
+    "optionscalc": {
+      "url": "https://api.optionscalc.app/mcp"
+    }
+  }
+}

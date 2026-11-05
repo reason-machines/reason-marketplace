@@ -1,0 +1,13 @@
+{
+  "name": "openregister",
+  "displayName": "OpenRegister",
+  "description": "Find German company data.",
+  "homepage": "https://openregister.de",
+  "docs": "https://openregister.de",
+  "auth": "oauth",
+  "mcpServers": {
+    "openregister": {
+      "url": "https://mcp.openregister.de/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "socialstats",
+  "displayName": "Socialstats",
+  "description": "Social performance analytics.",
+  "homepage": "https://socialstats.com",
+  "docs": "https://developers.stats.company/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "socialstats": {
+      "url": "https://api.socialstats.com/mcp"
+    }
+  }
+}

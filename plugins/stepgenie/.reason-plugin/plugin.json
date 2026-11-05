@@ -1,0 +1,13 @@
+{
+  "name": "stepgenie",
+  "displayName": "StepGenie",
+  "description": "USMLE questions and flashcards.",
+  "homepage": "https://www.stepgenie.app",
+  "docs": "https://www.stepgenie.app",
+  "auth": "none",
+  "mcpServers": {
+    "stepgenie": {
+      "url": "https://mcp.stepgenie.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "savantis-memory",
+  "displayName": "Savantis Memory",
+  "description": "Memory and AI professionals.",
+  "homepage": "https://www.savantisai.com/connectors",
+  "docs": "https://www.savantisai.com/connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "savantis-memory": {
+      "url": "https://context.savantisai.com/mcp"
+    }
+  }
+}

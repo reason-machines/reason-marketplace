@@ -1,0 +1,13 @@
+{
+  "name": "nepternship",
+  "displayName": "Nepternship",
+  "description": "Warm intros for internships.",
+  "homepage": "https://www.nepternship.com",
+  "docs": "https://www.nepternship.com",
+  "auth": "none",
+  "mcpServers": {
+    "nepternship": {
+      "url": "https://mcp.nepternship.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "propovo",
+  "displayName": "Propovo – AI Proposal Maker",
+  "description": "Sales copilot to win clients.",
+  "homepage": "https://propovo.com",
+  "docs": "https://propovo.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "propovo": {
+      "url": "https://api.propovo.com/mcp"
+    }
+  }
+}

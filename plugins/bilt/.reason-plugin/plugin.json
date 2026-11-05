@@ -1,0 +1,13 @@
+{
+  "name": "bilt",
+  "displayName": "Bilt",
+  "description": "Build mobile apps with AI.",
+  "homepage": "https://bilt.me",
+  "docs": "https://bilt.me",
+  "auth": "oauth",
+  "mcpServers": {
+    "bilt": {
+      "url": "https://mcp.bilt.me/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "openpublica",
+  "displayName": "OpenPublica",
+  "description": "Cited civic meeting research.",
+  "homepage": "https://www.openpublica.com",
+  "docs": "https://www.openpublica.com",
+  "auth": "none",
+  "mcpServers": {
+    "openpublica": {
+      "url": "https://openpublica.com/mcp"
+    }
+  }
+}

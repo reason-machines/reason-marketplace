@@ -1,0 +1,13 @@
+{
+  "name": "edgebreak",
+  "displayName": "EdgeBreak",
+  "description": "NASDAQ market intelligence.",
+  "homepage": "https://www.edgebreak.ai/chatgpt-stock-scanner.html",
+  "docs": "https://www.edgebreak.ai/chatgpt-stock-scanner.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "edgebreak": {
+      "url": "https://edgebreak.ai/mcp"
+    }
+  }
+}

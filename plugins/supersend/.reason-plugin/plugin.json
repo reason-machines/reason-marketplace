@@ -1,0 +1,13 @@
+{
+  "name": "supersend",
+  "displayName": "SuperSend",
+  "description": "B2B sales outreach.",
+  "homepage": "https://supersend.io",
+  "docs": "https://supersend.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "supersend": {
+      "url": "https://mcp.supersend.io/mcp"
+    }
+  }
+}

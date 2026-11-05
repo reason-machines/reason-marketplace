@@ -1,0 +1,13 @@
+{
+  "name": "signitic",
+  "displayName": "Positive Signitic",
+  "description": "Manage Signitic workspaces.",
+  "homepage": "https://developers.signitic.app/reference/mcp-server",
+  "docs": "https://developers.signitic.app/reference/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "signitic": {
+      "url": "https://mcp.signitic.com/mcp"
+    }
+  }
+}

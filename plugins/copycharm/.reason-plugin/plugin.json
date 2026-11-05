@@ -1,0 +1,13 @@
+{
+  "name": "copycharm",
+  "displayName": "CopyCharm",
+  "description": "Access your CopyCharm context.",
+  "homepage": "https://copycharm.ai",
+  "docs": "https://copycharm.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "copycharm": {
+      "url": "https://copycharm.ai/api/mcp"
+    }
+  }
+}

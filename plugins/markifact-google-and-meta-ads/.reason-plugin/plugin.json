@@ -1,0 +1,13 @@
+{
+  "name": "markifact-google-and-meta-ads",
+  "displayName": "Markifact - Google & Meta Ads",
+  "description": "Run Google Ads, Meta + 50 More.",
+  "homepage": "https://www.markifact.com/",
+  "docs": "https://www.markifact.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "markifact-google-and-meta-ads": {
+      "url": "https://api.markifact.com/mcp"
+    }
+  }
+}

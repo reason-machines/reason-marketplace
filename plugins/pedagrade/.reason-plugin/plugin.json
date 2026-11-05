@@ -1,0 +1,13 @@
+{
+  "name": "pedagrade",
+  "displayName": "Pedagrade",
+  "description": "Catches what AI misses.",
+  "homepage": "https://pedagrade.com",
+  "docs": "https://app.pedagrade.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "pedagrade": {
+      "url": "https://app.pedagrade.com/mcp"
+    }
+  }
+}

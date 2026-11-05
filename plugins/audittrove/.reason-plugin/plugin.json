@@ -1,0 +1,13 @@
+{
+  "name": "audittrove",
+  "displayName": "AuditTrove",
+  "description": "Review contracts & documents.",
+  "homepage": "https://audittrove.com",
+  "docs": "https://audittrove.com",
+  "auth": "none",
+  "mcpServers": {
+    "audittrove": {
+      "url": "https://audittrove.com/mcp"
+    }
+  }
+}

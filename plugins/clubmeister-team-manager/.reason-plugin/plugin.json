@@ -1,0 +1,13 @@
+{
+  "name": "clubmeister-team-manager",
+  "displayName": "ClubMeister: Team Manager",
+  "description": "Manage your sports team.",
+  "homepage": "https://clubmeister.app/mcp",
+  "docs": "https://clubmeister.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "clubmeister-team-manager": {
+      "url": "https://admin.clubmeister.app/mcp"
+    }
+  }
+}

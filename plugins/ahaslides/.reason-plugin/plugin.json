@@ -1,0 +1,13 @@
+{
+  "name": "ahaslides",
+  "displayName": "AhaSlides",
+  "description": "Interactive slides & polls.",
+  "homepage": "https://ahaslides.com",
+  "docs": "https://ahaslides.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ahaslides": {
+      "url": "https://mcp.ahaslides.com/mcp"
+    }
+  }
+}

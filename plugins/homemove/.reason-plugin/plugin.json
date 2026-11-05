@@ -1,0 +1,13 @@
+{
+  "name": "homemove",
+  "displayName": "Homemove",
+  "description": "Your UK home move, priced.",
+  "homepage": "https://homemove.com/",
+  "docs": "https://homemove.com/",
+  "auth": "none",
+  "mcpServers": {
+    "homemove": {
+      "url": "https://mcp.homemove.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "autocontent-api",
+  "displayName": "AutoContent API",
+  "description": "Create and preview media.",
+  "homepage": "https://autocontentapi.com",
+  "docs": "https://autocontentapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "autocontent-api": {
+      "url": "https://mcp.autocontentapi.com/mcp"
+    }
+  }
+}

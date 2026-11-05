@@ -1,0 +1,13 @@
+{
+  "name": "clonerrr",
+  "displayName": "Clonerrr",
+  "description": "App ad research & ASO audits.",
+  "homepage": "https://clonerrr.com",
+  "docs": "https://clonerrr.com",
+  "auth": "none",
+  "mcpServers": {
+    "clonerrr": {
+      "url": "https://clonerrr.com/mcp"
+    }
+  }
+}

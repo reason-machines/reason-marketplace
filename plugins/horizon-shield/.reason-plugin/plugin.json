@@ -1,0 +1,13 @@
+{
+  "name": "horizon-shield",
+  "displayName": "HORIZON SHIELD",
+  "description": "Check Japan reform estimates.",
+  "homepage": "https://shield.the-horizons-innovation.com",
+  "docs": "https://shield.the-horizons-innovation.com",
+  "auth": "none",
+  "mcpServers": {
+    "horizon-shield": {
+      "url": "https://mcp.horizonshield.dev/"
+    }
+  }
+}

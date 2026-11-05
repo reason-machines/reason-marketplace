@@ -1,0 +1,13 @@
+{
+  "name": "innernet",
+  "displayName": "innernet",
+  "description": "one memory for every AI tool.",
+  "homepage": "https://innernet.live",
+  "docs": "https://innernet.live",
+  "auth": "oauth",
+  "mcpServers": {
+    "innernet": {
+      "url": "https://innernet.live/api/mcp"
+    }
+  }
+}

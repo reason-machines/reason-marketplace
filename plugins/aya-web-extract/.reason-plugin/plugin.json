@@ -1,0 +1,13 @@
+{
+  "name": "aya-web-extract",
+  "displayName": "Aya Web Extract",
+  "description": "Public pages to datasets.",
+  "homepage": "https://extract.yourfriendaya.com",
+  "docs": "https://extract.yourfriendaya.com",
+  "auth": "none",
+  "mcpServers": {
+    "aya-web-extract": {
+      "url": "https://extract.yourfriendaya.com/mcp"
+    }
+  }
+}

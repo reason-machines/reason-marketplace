@@ -1,0 +1,13 @@
+{
+  "name": "matchaa",
+  "displayName": "Matchaa",
+  "description": "Tailored CVs, finished PDFs.",
+  "homepage": "https://matchaa.fr",
+  "docs": "https://matchaa.fr",
+  "auth": "none",
+  "mcpServers": {
+    "matchaa": {
+      "url": "https://matchaa.fr/api/mcp"
+    }
+  }
+}

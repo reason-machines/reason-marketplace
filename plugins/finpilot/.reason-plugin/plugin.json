@@ -1,0 +1,13 @@
+{
+  "name": "finpilot",
+  "displayName": "FinPilot",
+  "description": "Controle financeiro pessoal.",
+  "homepage": "https://finpilot.ia.br",
+  "docs": "https://tedix.dev/apps/finpilot/",
+  "auth": "oauth",
+  "mcpServers": {
+    "finpilot": {
+      "url": "https://mcp.finpilot.ia.br/mcp"
+    }
+  }
+}

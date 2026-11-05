@@ -1,0 +1,13 @@
+{
+  "name": "obratec",
+  "displayName": "Obratec",
+  "description": "Manage site reports.",
+  "homepage": "https://obratec.app/",
+  "docs": "https://obratec.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "obratec": {
+      "url": "https://mcp.obratec.app/mcp"
+    }
+  }
+}

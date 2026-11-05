@@ -1,0 +1,13 @@
+{
+  "name": "distilla",
+  "displayName": "Distilla Investment Research",
+  "description": "Financial and equity research.",
+  "homepage": "https://agents.distilla.ai",
+  "docs": "https://agents.distilla.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "distilla": {
+      "url": "https://api.distilla.ai/mcp"
+    }
+  }
+}

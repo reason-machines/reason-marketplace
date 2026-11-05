@@ -1,0 +1,13 @@
+{
+  "name": "commonplace",
+  "displayName": "Commonplace",
+  "description": "Large used items, delivered.",
+  "homepage": "https://trycommonplace.com",
+  "docs": "https://trycommonplace.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "commonplace": {
+      "url": "https://mcp.trycommonplace.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "frondy",
+  "displayName": "Frondy",
+  "description": "Send documents for e-signature.",
+  "homepage": "https://frondy.co.il",
+  "docs": "https://frondy.co.il",
+  "auth": "oauth",
+  "mcpServers": {
+    "frondy": {
+      "url": "https://mcp.frondy.co.il/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dip-rest",
+  "displayName": "dip.rest",
+  "description": "Explore Georgia food.",
+  "homepage": "https://dip.rest",
+  "docs": "https://dip.rest",
+  "auth": "none",
+  "mcpServers": {
+    "dip-rest": {
+      "url": "https://dip.rest/mcp"
+    }
+  }
+}

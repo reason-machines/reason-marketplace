@@ -1,0 +1,13 @@
+{
+  "name": "scenef-showtimes",
+  "displayName": "SceneF Showtimes",
+  "description": "Movie showtimes in CA, HI & FL.",
+  "homepage": "https://scenef.com",
+  "docs": "https://scenef.com",
+  "auth": "none",
+  "mcpServers": {
+    "scenef-showtimes": {
+      "url": "https://scenef.com/mcp"
+    }
+  }
+}

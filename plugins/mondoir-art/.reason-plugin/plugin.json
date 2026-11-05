@@ -1,0 +1,13 @@
+{
+  "name": "mondoir-art",
+  "displayName": "Mondoir.art",
+  "description": "Find artworks for your space.",
+  "homepage": "https://mondoir.art",
+  "docs": "https://mondoir.art",
+  "auth": "none",
+  "mcpServers": {
+    "mondoir-art": {
+      "url": "https://mondoir.art/mcp"
+    }
+  }
+}

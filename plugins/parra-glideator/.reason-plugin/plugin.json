@@ -1,0 +1,13 @@
+{
+  "name": "parra-glideator",
+  "displayName": "Parra-Glideator",
+  "description": "Plan your next flight.",
+  "homepage": "https://www.parra-glideator.com",
+  "docs": "https://www.parra-glideator.com",
+  "auth": "none",
+  "mcpServers": {
+    "parra-glideator": {
+      "url": "https://parra-glideator.com/mcp"
+    }
+  }
+}

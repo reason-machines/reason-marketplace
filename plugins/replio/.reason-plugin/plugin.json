@@ -1,0 +1,13 @@
+{
+  "name": "replio",
+  "displayName": "Replio",
+  "description": "Create AI voice training.",
+  "homepage": "https://replio.eu",
+  "docs": "https://replio.eu/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "replio": {
+      "url": "https://api.replio.eu/mcp"
+    }
+  }
+}

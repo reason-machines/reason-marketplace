@@ -1,0 +1,13 @@
+{
+  "name": "adrio",
+  "displayName": "Adrio",
+  "description": "AI media buyer for Meta ads.",
+  "homepage": "https://adrio.ai",
+  "docs": "https://adrio.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "adrio": {
+      "url": "https://api.adrio.ai/mcp"
+    }
+  }
+}

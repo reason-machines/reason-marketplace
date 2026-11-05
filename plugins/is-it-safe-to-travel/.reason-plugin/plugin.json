@@ -1,0 +1,13 @@
+{
+  "name": "is-it-safe-to-travel",
+  "displayName": "Is It Safe To Travel?",
+  "description": "Check official travel advice.",
+  "homepage": "https://travelsafety-un15.onrender.com",
+  "docs": "https://travelsafety-un15.onrender.com",
+  "auth": "none",
+  "mcpServers": {
+    "is-it-safe-to-travel": {
+      "url": "https://travelsafety-un15.onrender.com/mcp"
+    }
+  }
+}

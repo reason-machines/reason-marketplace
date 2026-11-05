@@ -1,0 +1,13 @@
+{
+  "name": "preuve-ai-startup-validation",
+  "displayName": "Preuve AI - Startup Validation",
+  "description": "Validate & score startup ideas.",
+  "homepage": "https://preuve.ai",
+  "docs": "https://preuve.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "preuve-ai-startup-validation": {
+      "url": "https://mcp.preuve.ai/mcp"
+    }
+  }
+}

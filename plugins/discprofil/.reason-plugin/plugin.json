@@ -1,0 +1,13 @@
+{
+  "name": "discprofil",
+  "displayName": "DiSCPROFiL",
+  "description": "disc kişilik envanteri.",
+  "homepage": "https://discprofil.com.tr/",
+  "docs": "https://discprofil.com.tr/",
+  "auth": "oauth",
+  "mcpServers": {
+    "discprofil": {
+      "url": "https://mcp.discprofil.com.tr/mcp"
+    }
+  }
+}

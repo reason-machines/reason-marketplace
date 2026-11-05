@@ -1,0 +1,13 @@
+{
+  "name": "uichemy-create-website-with-ai",
+  "displayName": "UiChemy AI Website Creator",
+  "description": "Create WordPress sites with AI.",
+  "homepage": "https://uichemy.com/ai-website-creator/",
+  "docs": "https://uichemy.com/ai-website-creator/",
+  "auth": "none",
+  "mcpServers": {
+    "uichemy-create-website-with-ai": {
+      "url": "https://mcp.uichemy.com/mcp"
+    }
+  }
+}

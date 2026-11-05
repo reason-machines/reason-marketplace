@@ -1,0 +1,13 @@
+{
+  "name": "mention-ma",
+  "displayName": "Mention.ma",
+  "description": "Track brand visibility in AI.",
+  "homepage": "https://www.mention.ma/",
+  "docs": "https://www.mention.ma/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mention-ma": {
+      "url": "https://mcp.mention.ma/mcp"
+    }
+  }
+}

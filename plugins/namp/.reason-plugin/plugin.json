@@ -1,0 +1,13 @@
+{
+  "name": "namp",
+  "displayName": "Namp",
+  "description": "Manage project data.",
+  "homepage": "https://namp.me",
+  "docs": "https://namp.me",
+  "auth": "oauth",
+  "mcpServers": {
+    "namp": {
+      "url": "https://mcp.namp.me/mcp"
+    }
+  }
+}

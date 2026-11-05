@@ -1,0 +1,13 @@
+{
+  "name": "octagon-ai",
+  "displayName": "Octagon AI",
+  "description": "Stock & prediction market data.",
+  "homepage": "https://www.octagonai.co/",
+  "docs": "https://www.octagonai.co/",
+  "auth": "oauth",
+  "mcpServers": {
+    "octagon-ai": {
+      "url": "https://mcp.octagonai.co/mcp"
+    }
+  }
+}

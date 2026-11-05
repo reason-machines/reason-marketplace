@@ -1,0 +1,13 @@
+{
+  "name": "unsora",
+  "displayName": "Unsora",
+  "description": "Clip videos & schedule posts.",
+  "homepage": "https://tryunsora.com",
+  "docs": "https://tryunsora.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "unsora": {
+      "url": "https://mcp.tryunsora.com/mcp"
+    }
+  }
+}

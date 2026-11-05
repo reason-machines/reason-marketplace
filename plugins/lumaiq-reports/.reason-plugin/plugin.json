@@ -1,0 +1,13 @@
+{
+  "name": "lumaiq-reports",
+  "displayName": "LumaIQ Reports",
+  "description": "Self-storage team reporting.",
+  "homepage": "https://www.lumaiq.dev/plugins",
+  "docs": "https://www.lumaiq.dev/plugins",
+  "auth": "oauth",
+  "mcpServers": {
+    "lumaiq-reports": {
+      "url": "https://lumaiq.dev/mcp"
+    }
+  }
+}

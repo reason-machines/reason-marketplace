@@ -10,5 +10,98 @@
     "cloudflare": {
       "url": "https://mcp.cloudflare.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "agents-sdk",
+      "description": "Build AI agents on Cloudflare Workers using the Agents SDK. Load when creating stateful agents, durable workflows, real-time WebSocket apps, scheduled tasks, MCP servers, chat applications, voice agents, or browser automation. Covers Agent class, state management, callable RPC, Workflows, durable ex",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "agents-sdk",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/agents-sdk"
+    },
+    {
+      "name": "cloudflare",
+      "description": "Comprehensive Cloudflare platform skill covering Workers, Pages, storage (KV, D1, R2), AI (Workers AI, Vectorize, Agents SDK), feature flags (Flagship), networking (Tunnel, Spectrum), security (WAF, DDoS), and infrastructure-as-code (Terraform, Pulumi). Use for any Cloudflare development task. Biase",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "cloudflare",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/cloudflare"
+    },
+    {
+      "name": "cloudflare-email-service",
+      "description": "Send and receive transactional emails with Cloudflare Email Service (Email Sending + Email Routing). Use when building email sending (Workers binding or REST API), email routing, Agents SDK email handling, or integrating email into any app — Workers, Node.js, Python, Go, etc. Also use for email deli",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "cloudflare-email-service",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/cloudflare-email-service"
+    },
+    {
+      "name": "cloudflare-one",
+      "description": "Guides Cloudflare One Zero Trust and SASE work across Access, Gateway, WARP, Tunnel, Cloudflare WAN, DLP, CASB, device posture, and identity. Use when designing, configuring, troubleshooting, or reviewing Cloudflare One deployments. Retrieval-first: use current Cloudflare docs/API schemas instead of",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "cloudflare-one",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/cloudflare-one"
+    },
+    {
+      "name": "cloudflare-one-migrations",
+      "description": "Plans migrations from Zscaler ZIA/ZPA, Palo Alto, legacy VPN, SWG, or SASE stacks to Cloudflare One. Use for migration assessments, policy mapping, rollout plans, and parity/gap analysis.",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "cloudflare-one-migrations",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/cloudflare-one-migrations"
+    },
+    {
+      "name": "durable-objects",
+      "description": "Create and review Cloudflare Durable Objects. Use when building stateful coordination (chat rooms, multiplayer games, booking systems), implementing RPC methods, SQLite storage, alarms, WebSockets, or reviewing DO code for best practices. Covers Workers integration, wrangler config, and testing with",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "durable-objects",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/durable-objects"
+    },
+    {
+      "name": "sandbox-migrate-to-next",
+      "description": "Use when porting a Cloudflare Sandbox app from stable @cloudflare/sandbox to @cloudflare/sandbox@next (Sandbox SDK 1.0 preview), or when the user asks to migrate or upgrade to Sandbox 1.0 / @next. Not for day-to-day stable work (sandbox-stable) or new @next apps (sandbox-next).",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "sandbox-migrate-to-next",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/sandbox-migrate-to-next"
+    },
+    {
+      "name": "sandbox-next",
+      "description": "Use when building or changing Cloudflare Sandbox apps on @cloudflare/sandbox@next (Sandbox SDK 1.0 preview)—code execution, AI runners, interpreters, CI-like jobs, terminals, files, mounts, tunnels, preview URLs, lifecycle, or errors. Not for the default stable package (use sandbox-stable) or for po",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "sandbox-next",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/sandbox-next"
+    },
+    {
+      "name": "sandbox-stable",
+      "description": "Use when building or changing Cloudflare Sandbox apps on the current stable @cloudflare/sandbox package (default npm tag)—commands, sessions, files, ports, tunnels, terminals, bridge, production, or deprecated-API cleanup while staying on stable. Not for @cloudflare/sandbox@next (use sandbox-next) o",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "sandbox-stable",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/sandbox-stable"
+    },
+    {
+      "name": "turnstile-spin",
+      "description": "Set up Cloudflare Turnstile end-to-end in a project. Scan the codebase, create the widget via the Cloudflare API, embed it where user requests need bot verification (form submissions, SPA actions, API endpoints, download links, comment or vote submissions, etc.), wire canonical server-side siteverif",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "turnstile-spin",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/turnstile-spin"
+    },
+    {
+      "name": "web-perf",
+      "description": "Analyzes web performance using Chrome DevTools MCP. Measures Core Web Vitals (LCP, INP, CLS) and supplementary metrics (FCP, TBT, Speed Index), identifies render-blocking resources, network dependency chains, layout shifts, caching issues, and accessibility gaps. Use when asked to audit, profile, de",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "web-perf",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/web-perf"
+    },
+    {
+      "name": "workers-best-practices",
+      "description": "Reviews and authors Cloudflare Workers code against production best practices. Load when writing new Workers, reviewing Worker code, configuring wrangler.jsonc, or checking for common Workers anti-patterns (streaming, floating promises, global state, secrets, bindings, observability). Biases towards",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "workers-best-practices",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/workers-best-practices"
+    },
+    {
+      "name": "wrangler",
+      "description": "Cloudflare Workers CLI for deploying, developing, and managing Workers, KV, R2, D1, Vectorize, Hyperdrive, Workers AI, Containers, Queues, Workflows, Pipelines, and Secrets Store. Load before running wrangler commands to ensure correct syntax and best practices. Biases towards retrieval from Cloudfl",
+      "source": "cloudflare/skills#1f2cd0a19588e2c6197c91dd7c71729df1fb6156",
+      "skill": "wrangler",
+      "url": "https://github.com/cloudflare/skills/tree/1f2cd0a19588e2c6197c91dd7c71729df1fb6156/skills/wrangler"
+    }
+  ]
 }

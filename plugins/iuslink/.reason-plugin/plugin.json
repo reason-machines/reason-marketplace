@@ -1,0 +1,13 @@
+{
+  "name": "iuslink",
+  "displayName": "iusLink",
+  "description": "Swiss statutes and case law.",
+  "homepage": "https://iuslink.ch",
+  "docs": "https://iuslink.ch",
+  "auth": "oauth",
+  "mcpServers": {
+    "iuslink": {
+      "url": "https://iuslink.ch/mcp"
+    }
+  }
+}

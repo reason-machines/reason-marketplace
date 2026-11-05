@@ -1,0 +1,13 @@
+{
+  "name": "property-hazard",
+  "displayName": "Property Hazard MCP",
+  "description": "Hazard Lookup & Risk Analysis.",
+  "homepage": "https://risk.zipquote.ai",
+  "docs": "https://risk.zipquote.ai",
+  "auth": "none",
+  "mcpServers": {
+    "property-hazard": {
+      "url": "https://mcp.zipquote.ai/mcp"
+    }
+  }
+}

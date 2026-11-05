@@ -1,0 +1,13 @@
+{
+  "name": "ramus",
+  "displayName": "Ramus",
+  "description": "Cloud Android emulators.",
+  "homepage": "https://ramus.dev",
+  "docs": "https://ramus.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "ramus": {
+      "url": "https://api.ramus.dev/api/mcp"
+    }
+  }
+}

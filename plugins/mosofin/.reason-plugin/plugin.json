@@ -1,0 +1,13 @@
+{
+  "name": "mosofin",
+  "displayName": "MosoFin",
+  "description": "Profit, cash & sales together.",
+  "homepage": "https://www.mosofin.com",
+  "docs": "https://www.mosofin.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mosofin": {
+      "url": "https://mcp.mosofin.com/mcp"
+    }
+  }
+}

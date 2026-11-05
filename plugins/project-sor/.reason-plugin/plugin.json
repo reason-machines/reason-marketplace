@@ -1,0 +1,13 @@
+{
+  "name": "project-sor",
+  "displayName": "Schedule of Reductions (SOR)",
+  "description": "Direct Loan SOR calculator.",
+  "homepage": "https://sor.myproduct.life",
+  "docs": "https://sor.myproduct.life/mcp-guide",
+  "auth": "none",
+  "mcpServers": {
+    "project-sor": {
+      "url": "https://sor.myproduct.life/mcp"
+    }
+  }
+}

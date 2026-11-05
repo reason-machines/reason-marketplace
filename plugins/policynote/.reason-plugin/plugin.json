@@ -1,0 +1,13 @@
+{
+  "name": "policynote",
+  "displayName": "PolicyNote",
+  "description": "Search global policy data.",
+  "homepage": "https://fiscalnote.com/products/policynote-api",
+  "docs": "https://fiscalnote.com/products/policynote-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "policynote": {
+      "url": "https://data.policynote.com/v0/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "realai",
+  "displayName": "RealAI",
+  "description": "Residential real estate data.",
+  "homepage": "https://realai.com/",
+  "docs": "https://realai.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "realai": {
+      "url": "https://mcp.realai.com/mcp"
+    }
+  }
+}

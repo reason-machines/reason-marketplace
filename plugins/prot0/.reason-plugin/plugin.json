@@ -1,0 +1,13 @@
+{
+  "name": "prot0",
+  "displayName": "Prot0",
+  "description": "Build and manage web apps.",
+  "homepage": "https://prot0.com",
+  "docs": "https://prot0.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "prot0": {
+      "url": "https://mcp.prot0.com/mcp"
+    }
+  }
+}

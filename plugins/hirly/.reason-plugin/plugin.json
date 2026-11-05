@@ -1,0 +1,13 @@
+{
+  "name": "hirly",
+  "displayName": "Hirly",
+  "description": "Job matches and applications.",
+  "homepage": "https://hirly.me",
+  "docs": "https://hirly.me",
+  "auth": "oauth",
+  "mcpServers": {
+    "hirly": {
+      "url": "https://mcp.hirly.me/mcp"
+    }
+  }
+}

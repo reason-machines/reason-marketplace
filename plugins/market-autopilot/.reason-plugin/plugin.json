@@ -1,0 +1,13 @@
+{
+  "name": "market-autopilot",
+  "displayName": "Market AutoPilot",
+  "description": "Romanian auto market data.",
+  "homepage": "https://mara.aivexia.ro",
+  "docs": "https://mara.aivexia.ro/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "market-autopilot": {
+      "url": "https://mara.aivexia.ro/api/mcp"
+    }
+  }
+}

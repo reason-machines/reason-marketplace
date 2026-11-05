@@ -1,0 +1,13 @@
+{
+  "name": "pageshare",
+  "displayName": "PageShare",
+  "description": "Share & Protect generated HTML.",
+  "homepage": "https://pageshare.ai",
+  "docs": "https://pageshare.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "pageshare": {
+      "url": "https://mcp.pageshare.ai/mcp"
+    }
+  }
+}

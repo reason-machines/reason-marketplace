@@ -1,0 +1,13 @@
+{
+  "name": "ellie",
+  "displayName": "Ellie",
+  "description": "Plan and manage your tasks.",
+  "homepage": "https://www.ellieplanner.com",
+  "docs": "https://www.ellieplanner.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ellie": {
+      "url": "https://mcp.ellieplanner.com/mcp"
+    }
+  }
+}

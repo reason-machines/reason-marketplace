@@ -10,5 +10,14 @@
     "hex": {
       "url": "https://app.hex.tech/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "hex",
+      "description": "Search Hex projects and ask Hex Threads questions. Use when the user explicitly references Hex, Hex projects, Hex dashboards, Hex data apps, Hex Threads, or asks to search an existing Hex workspace asset.",
+      "source": "hex-inc/hex-skills#1bff0362cc14454ddddefdf69831d7015e8aa137",
+      "skill": "hex",
+      "url": "https://github.com/hex-inc/hex-skills/tree/1bff0362cc14454ddddefdf69831d7015e8aa137/snowflake-coco/hex"
+    }
+  ]
 }

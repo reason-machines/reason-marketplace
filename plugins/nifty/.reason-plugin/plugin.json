@@ -1,0 +1,13 @@
+{
+  "name": "nifty",
+  "displayName": "Nifty",
+  "description": "Manage your reselling business.",
+  "homepage": "https://nifty.ai",
+  "docs": "https://docs.nifty.ai/mcp-server/mcp-server/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "nifty": {
+      "url": "https://api.nifty.ai/api/mcp"
+    }
+  }
+}

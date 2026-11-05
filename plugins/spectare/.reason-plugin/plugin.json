@@ -1,0 +1,13 @@
+{
+  "name": "spectare",
+  "displayName": "Spectare",
+  "description": "A page built for each visitor.",
+  "homepage": "https://spectare.ai",
+  "docs": "https://spectare.ai/docs",
+  "auth": "none",
+  "mcpServers": {
+    "spectare": {
+      "url": "https://spectare.ai/api/mcp"
+    }
+  }
+}

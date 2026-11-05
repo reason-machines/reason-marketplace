@@ -1,0 +1,13 @@
+{
+  "name": "duckhunt",
+  "displayName": "duckhunt",
+  "description": "Inbox, tasks, and work notes.",
+  "homepage": "https://duckhunt.info",
+  "docs": "https://duckhunt.info",
+  "auth": "oauth",
+  "mcpServers": {
+    "duckhunt": {
+      "url": "https://duckhunt.info/mcp"
+    }
+  }
+}

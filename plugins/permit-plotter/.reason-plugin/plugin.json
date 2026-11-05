@@ -1,0 +1,13 @@
+{
+  "name": "permit-plotter",
+  "displayName": "Permit Plotter",
+  "description": "East End building permits.",
+  "homepage": "https://permitplotter.com",
+  "docs": "https://permitplotter.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "permit-plotter": {
+      "url": "https://mcp.permitplotter.com/mcp"
+    }
+  }
+}

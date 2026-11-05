@@ -1,0 +1,13 @@
+{
+  "name": "carousel-creator",
+  "displayName": "ACE Carousel Creator",
+  "description": "Create carousels for ACE.",
+  "homepage": "https://quokka.software/",
+  "docs": "https://quokka.software/",
+  "auth": "none",
+  "mcpServers": {
+    "carousel-creator": {
+      "url": "https://mcp.quokka.software/mcp"
+    }
+  }
+}

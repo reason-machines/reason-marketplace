@@ -1,0 +1,13 @@
+{
+  "name": "boxitem",
+  "displayName": "BoxItem",
+  "description": "Your home inventory, by chat.",
+  "homepage": "https://boxitem.app",
+  "docs": "https://boxitem.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "boxitem": {
+      "url": "https://boxitem.app/mcp"
+    }
+  }
+}

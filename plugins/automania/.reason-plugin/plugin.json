@@ -1,0 +1,13 @@
+{
+  "name": "automania",
+  "displayName": "Automania",
+  "description": "Cars & rentals in Montenegro.",
+  "homepage": "https://automania.me/en",
+  "docs": "https://automania.me/en",
+  "auth": "none",
+  "mcpServers": {
+    "automania": {
+      "url": "https://automania.me/mcp"
+    }
+  }
+}

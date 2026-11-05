@@ -1,0 +1,13 @@
+{
+  "name": "asva-ai",
+  "displayName": "Asva AI",
+  "description": "See your brand on AI search.",
+  "homepage": "https://asvaai.com",
+  "docs": "https://asvaai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "asva-ai": {
+      "url": "https://mcp.asvaai.com/mcp"
+    }
+  }
+}

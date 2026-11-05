@@ -1,0 +1,13 @@
+{
+  "name": "premom-ovulation-calculator",
+  "displayName": "Premom Ovulation Calculator",
+  "description": "Find fertile days & ovulation.",
+  "homepage": "https://premom.com/",
+  "docs": "https://premom.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "premom-ovulation-calculator": {
+      "url": "https://mcp.premom.com/mcp"
+    }
+  }
+}

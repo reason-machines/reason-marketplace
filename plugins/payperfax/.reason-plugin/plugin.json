@@ -1,0 +1,13 @@
+{
+  "name": "payperfax",
+  "displayName": "PayPerFax",
+  "description": "Track the delivery of a fax.",
+  "homepage": "https://payperfax.com/",
+  "docs": "https://payperfax.com/fax-mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "payperfax": {
+      "url": "https://fax.payperfax.com/mcp"
+    }
+  }
+}

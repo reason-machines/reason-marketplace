@@ -1,0 +1,13 @@
+{
+  "name": "rival-ads",
+  "displayName": "Rival Ads",
+  "description": "Research competitor ads.",
+  "homepage": "https://www.rivalads.io",
+  "docs": "https://www.rivalads.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "rival-ads": {
+      "url": "https://rivalads.io/mcp"
+    }
+  }
+}

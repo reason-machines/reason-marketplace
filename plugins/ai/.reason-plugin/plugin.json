@@ -1,0 +1,13 @@
+{
+  "name": "ai",
+  "displayName": "實價AI",
+  "description": "台灣房價行情.",
+  "homepage": "https://shijia-ai.com",
+  "docs": "https://tedix.dev/apps/ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai": {
+      "url": "https://api.shijia-ai.com/mcp"
+    }
+  }
+}

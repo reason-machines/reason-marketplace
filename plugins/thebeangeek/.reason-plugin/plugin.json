@@ -1,0 +1,13 @@
+{
+  "name": "thebeangeek",
+  "displayName": "TheBeanGeek",
+  "description": "Specialty coffee directory.",
+  "homepage": "https://www.thebeangeek.com",
+  "docs": "https://thebeangeek.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "thebeangeek": {
+      "url": "https://thebeangeek.com/api/mcp"
+    }
+  }
+}

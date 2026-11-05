@@ -1,0 +1,13 @@
+{
+  "name": "playbook",
+  "displayName": "Playbook",
+  "description": "Find and organize your assets.",
+  "homepage": "https://www.playbook.com",
+  "docs": "https://www.playbook.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "playbook": {
+      "url": "https://mcp.playbook.com/mcp"
+    }
+  }
+}

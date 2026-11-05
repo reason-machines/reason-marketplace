@@ -1,0 +1,13 @@
+{
+  "name": "vezna",
+  "displayName": "Vezna",
+  "description": "Your company's books, in chat.",
+  "homepage": "https://vezna.ai",
+  "docs": "https://tedix.dev/apps/vezna/",
+  "auth": "oauth",
+  "mcpServers": {
+    "vezna": {
+      "url": "https://app.vezna.ai/mcp"
+    }
+  }
+}

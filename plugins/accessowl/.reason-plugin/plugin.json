@@ -1,0 +1,13 @@
+{
+  "name": "accessowl",
+  "displayName": "AccessOwl",
+  "description": "Find and get apps in your org.",
+  "homepage": "https://www.accessowl.com/",
+  "docs": "https://www.accessowl.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "accessowl": {
+      "url": "https://mcp.accessowl.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "openart",
+  "displayName": "OpenArt",
+  "description": "Create images and videos.",
+  "homepage": "https://openart.ai/home",
+  "docs": "https://openart.ai/home",
+  "auth": "oauth",
+  "mcpServers": {
+    "openart": {
+      "url": "https://mcp.openart.ai/mcp"
+    }
+  }
+}

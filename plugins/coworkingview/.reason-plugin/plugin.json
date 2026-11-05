@@ -1,0 +1,13 @@
+{
+  "name": "coworkingview",
+  "displayName": "CoworkingView",
+  "description": "Find offices and workspaces.",
+  "homepage": "https://coworkingview.com/llms.txt",
+  "docs": "https://coworkingview.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "coworkingview": {
+      "url": "https://mcp.coworkingview.com/mcp"
+    }
+  }
+}

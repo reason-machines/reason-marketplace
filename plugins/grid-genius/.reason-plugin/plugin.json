@@ -1,0 +1,13 @@
+{
+  "name": "grid-genius",
+  "displayName": "Grid Genius",
+  "description": "Play and create crosswords.",
+  "homepage": "https://gridgenius.app/mcp",
+  "docs": "https://gridgenius.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "grid-genius": {
+      "url": "https://api.gridgenius.app/mcp"
+    }
+  }
+}

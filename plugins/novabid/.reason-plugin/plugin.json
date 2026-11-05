@@ -1,0 +1,13 @@
+{
+  "name": "novabid",
+  "displayName": "NovaBid",
+  "description": "Edinburgh hotels send offers.",
+  "homepage": "https://www.novabid.co.uk",
+  "docs": "https://www.novabid.co.uk/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "novabid": {
+      "url": "https://www.novabid.co.uk/api/mcp"
+    }
+  }
+}

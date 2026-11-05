@@ -1,0 +1,13 @@
+{
+  "name": "tralendr",
+  "displayName": "Tralendr",
+  "description": "Save and share trip plans.",
+  "homepage": "https://tralendr.com",
+  "docs": "https://tralendr.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "tralendr": {
+      "url": "https://mcp.tralendr.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "weft",
+  "displayName": "Weft",
+  "description": "Your AI runs your task board.",
+  "homepage": "https://letsweft.com",
+  "docs": "https://letsweft.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "weft": {
+      "url": "https://letsweft.com/api/mcp"
+    }
+  }
+}

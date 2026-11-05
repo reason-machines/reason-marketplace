@@ -1,0 +1,13 @@
+{
+  "name": "acta-fit",
+  "displayName": "Acta Fit",
+  "description": "Ask about your training log.",
+  "homepage": "https://actafitapp.com",
+  "docs": "https://actafitapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "acta-fit": {
+      "url": "https://mcp.actafitapp.com/mcp"
+    }
+  }
+}

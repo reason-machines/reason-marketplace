@@ -1,0 +1,13 @@
+{
+  "name": "alpix",
+  "displayName": "Alpix",
+  "description": "Draw pixel art on a shared can.",
+  "homepage": "https://alpic.ai/",
+  "docs": "https://alpic.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "alpix": {
+      "url": "https://mcp.alpic.ai/mcp"
+    }
+  }
+}

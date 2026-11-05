@@ -1,0 +1,13 @@
+{
+  "name": "companyregistryapi",
+  "displayName": "Company Registry API",
+  "description": "Find Company Data.",
+  "homepage": "https://companyregistryapi.com",
+  "docs": "https://companyregistryapi.com",
+  "auth": "none",
+  "mcpServers": {
+    "companyregistryapi": {
+      "url": "https://mcp.companyregistryapi.com/mcp"
+    }
+  }
+}

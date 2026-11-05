@@ -1,0 +1,13 @@
+{
+  "name": "domainkits",
+  "displayName": "DomainKits",
+  "description": "Newly registered domain search.",
+  "homepage": "https://domainkits.com",
+  "docs": "https://github.com/ABTdomain/domainkits-mcp",
+  "auth": "none",
+  "mcpServers": {
+    "domainkits": {
+      "url": "https://api.domainkits.com/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "photo9",
+  "displayName": "Photo9",
+  "description": "Design and Print Photo books.",
+  "homepage": "https://photonine.ai",
+  "docs": "https://photonine.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "photo9": {
+      "url": "https://photonine.ai/api/mcp"
+    }
+  }
+}

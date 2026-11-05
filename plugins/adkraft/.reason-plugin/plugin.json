@@ -1,0 +1,13 @@
+{
+  "name": "adkraft",
+  "displayName": "AdKraft",
+  "description": "Make video ads from photos.",
+  "homepage": "https://adkraft.ai",
+  "docs": "https://adkraft.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "adkraft": {
+      "url": "https://adkraft.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "carhopp",
+  "displayName": "Carhopp",
+  "description": "Compare car rentals worldwide.",
+  "homepage": "https://carhopp.bot",
+  "docs": "https://carhopp.bot",
+  "auth": "none",
+  "mcpServers": {
+    "carhopp": {
+      "url": "https://mcp.carhopp.bot/mcp"
+    }
+  }
+}

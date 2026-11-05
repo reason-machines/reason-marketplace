@@ -1,0 +1,13 @@
+{
+  "name": "keenable",
+  "displayName": "Keenable",
+  "description": "Search the web, read pages.",
+  "homepage": "https://keenable.ai",
+  "docs": "https://keenable.ai",
+  "auth": "none",
+  "mcpServers": {
+    "keenable": {
+      "url": "https://api.keenable.ai/mcp"
+    }
+  }
+}

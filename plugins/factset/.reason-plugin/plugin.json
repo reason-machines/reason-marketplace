@@ -1,0 +1,13 @@
+{
+  "name": "factset",
+  "displayName": "FactSet AI-Ready Data",
+  "description": "Seamless Financial Data.",
+  "homepage": "https://www.factset.com",
+  "docs": "https://www.factset.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "factset": {
+      "url": "https://mcp.factset.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "clak",
+  "displayName": "Clak",
+  "description": "Read notes and meetings.",
+  "homepage": "https://clak.ai/chatgpt",
+  "docs": "https://clak.ai/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "clak": {
+      "url": "https://clak.ai/mcp"
+    }
+  }
+}

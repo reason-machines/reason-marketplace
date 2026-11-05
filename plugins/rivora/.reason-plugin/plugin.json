@@ -1,0 +1,13 @@
+{
+  "name": "rivora",
+  "displayName": "Rivora",
+  "description": "Your team's approved plans.",
+  "homepage": "https://rivoraconnect.com.au/integrations",
+  "docs": "https://rivoraconnect.com.au/integrations",
+  "auth": "oauth",
+  "mcpServers": {
+    "rivora": {
+      "url": "https://api.rivoraconnect.com.au/mcp/"
+    }
+  }
+}

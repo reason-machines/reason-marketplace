@@ -1,0 +1,13 @@
+{
+  "name": "corridome",
+  "displayName": "Corridome",
+  "description": "Deal and firm register.",
+  "homepage": "https://corridome.com",
+  "docs": "https://corridome.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "corridome": {
+      "url": "https://corridome.com/mcp"
+    }
+  }
+}

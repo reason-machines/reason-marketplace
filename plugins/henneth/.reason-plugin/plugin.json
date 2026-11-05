@@ -1,0 +1,13 @@
+{
+  "name": "henneth",
+  "displayName": "Henneth",
+  "description": "Your brand’s LLM layer.",
+  "homepage": "https://henneth.ai",
+  "docs": "https://henneth.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "henneth": {
+      "url": "https://mcp.henneth.ai/mcp"
+    }
+  }
+}

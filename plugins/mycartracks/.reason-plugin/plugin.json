@@ -1,0 +1,13 @@
+{
+  "name": "mycartracks",
+  "displayName": "MyCarTracks",
+  "description": "Track mileage and vehicles.",
+  "homepage": "https://mycartracks.com",
+  "docs": "https://mycartracks.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mycartracks": {
+      "url": "https://mycartracks.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nexusplus",
+  "displayName": "Nexusplus",
+  "description": "Search and clean your contacts.",
+  "homepage": "https://nexusplus.ai",
+  "docs": "https://nexusplus.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "nexusplus": {
+      "url": "https://nexusplus.ai/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "swiftprobate",
+  "displayName": "SwiftProbate",
+  "description": "Look up and manage probate.",
+  "homepage": "https://www.swiftprobate.com",
+  "docs": "https://swiftprobate.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "swiftprobate": {
+      "url": "https://www.swiftprobate.com/api/mcp/estate"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tally-verify",
+  "displayName": "Tally Verify",
+  "description": "Prove your spreadsheet adds up.",
+  "homepage": "https://tally.jiegou.ai",
+  "docs": "https://tally.jiegou.ai",
+  "auth": "none",
+  "mcpServers": {
+    "tally-verify": {
+      "url": "https://tally.jiegou.ai/mcp"
+    }
+  }
+}

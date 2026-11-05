@@ -1,0 +1,13 @@
+{
+  "name": "stayfritz",
+  "displayName": "StayFritz",
+  "description": "Find and book stays.",
+  "homepage": "https://stayfritz.com",
+  "docs": "https://stayfritz.com",
+  "auth": "none",
+  "mcpServers": {
+    "stayfritz": {
+      "url": "https://mcp.stayfritz.com/mcp"
+    }
+  }
+}

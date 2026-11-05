@@ -1,0 +1,13 @@
+{
+  "name": "parks-n-paws",
+  "displayName": "Parks n Paws",
+  "description": "Find dog-friendly park stays.",
+  "homepage": "https://parksnpaws.com",
+  "docs": "https://parksnpaws.com",
+  "auth": "none",
+  "mcpServers": {
+    "parks-n-paws": {
+      "url": "https://mcp.parksnpaws.com/mcp"
+    }
+  }
+}

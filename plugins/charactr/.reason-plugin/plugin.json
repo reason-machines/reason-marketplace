@@ -1,0 +1,13 @@
+{
+  "name": "charactr",
+  "displayName": "Character App",
+  "description": "Create characters and stories.",
+  "homepage": "https://www.character.app/",
+  "docs": "https://www.character.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "charactr": {
+      "url": "https://mcp.character.app/mcp"
+    }
+  }
+}

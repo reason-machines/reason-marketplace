@@ -1,0 +1,13 @@
+{
+  "name": "withnettle",
+  "displayName": "WithNettle",
+  "description": "Manage Withnettle Tickets.",
+  "homepage": "https://withnettle.com",
+  "docs": "https://withnettle.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "withnettle": {
+      "url": "https://withnettle.com/mcp"
+    }
+  }
+}

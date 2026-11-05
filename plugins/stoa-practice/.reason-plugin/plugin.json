@@ -1,0 +1,13 @@
+{
+  "name": "stoa-practice",
+  "displayName": "Stoa",
+  "description": "Stoic meditations and lessons.",
+  "homepage": "https://stoameditation.com",
+  "docs": "https://stoameditation.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "stoa-practice": {
+      "url": "https://mcp.stoameditation.com/mcp"
+    }
+  }
+}

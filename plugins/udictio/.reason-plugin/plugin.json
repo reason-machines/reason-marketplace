@@ -1,0 +1,13 @@
+{
+  "name": "udictio",
+  "displayName": "udictio",
+  "description": "explore human perspectives.",
+  "homepage": "https://udictio.com",
+  "docs": "https://udictio.com",
+  "auth": "none",
+  "mcpServers": {
+    "udictio": {
+      "url": "https://udictio.com/mcp"
+    }
+  }
+}

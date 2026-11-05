@@ -1,0 +1,13 @@
+{
+  "name": "caribooks",
+  "displayName": "Caribooks",
+  "description": "Talk to your books.",
+  "homepage": "https://caribooks.com/en",
+  "docs": "https://caribooks.com/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "caribooks": {
+      "url": "https://caribooks.com/api/mcp"
+    }
+  }
+}

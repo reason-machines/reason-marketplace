@@ -1,0 +1,13 @@
+{
+  "name": "cheap-ny-publication",
+  "displayName": "Cheap NY Publication",
+  "description": "NY LLC deadlines and prices.",
+  "homepage": "https://cheapnypublication.com/ai",
+  "docs": "https://cheapnypublication.com/ai",
+  "auth": "none",
+  "mcpServers": {
+    "cheap-ny-publication": {
+      "url": "https://cheapnypublication.com/mcp"
+    }
+  }
+}

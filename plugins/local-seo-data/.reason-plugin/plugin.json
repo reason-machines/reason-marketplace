@@ -1,0 +1,13 @@
+{
+  "name": "local-seo-data",
+  "displayName": "Local SEO Data",
+  "description": "Local SEO rankings & reviews.",
+  "homepage": "https://localseodata.com",
+  "docs": "https://localseodata.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "local-seo-data": {
+      "url": "https://mcp.localseodata.com/mcp"
+    }
+  }
+}

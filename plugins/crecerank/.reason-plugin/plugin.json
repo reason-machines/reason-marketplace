@@ -1,0 +1,13 @@
+{
+  "name": "crecerank",
+  "displayName": "CreceRank",
+  "description": "LATAM brand visibility in AI.",
+  "homepage": "https://crecerank.com/",
+  "docs": "https://crecerank.com/mejores-mcp-geo-visibilidad-ia/",
+  "auth": "oauth",
+  "mcpServers": {
+    "crecerank": {
+      "url": "https://crecerank.onrender.com/mcp"
+    }
+  }
+}

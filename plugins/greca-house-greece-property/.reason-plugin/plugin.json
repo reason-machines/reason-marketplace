@@ -1,0 +1,13 @@
+{
+  "name": "greca-house-greece-property",
+  "displayName": "Greca House: Greek Property",
+  "description": "Greek property search & costs.",
+  "homepage": "https://grecahouse.com/en",
+  "docs": "https://grecahouse.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "greca-house-greece-property": {
+      "url": "https://grecahouse.com/mcp"
+    }
+  }
+}

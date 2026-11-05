@@ -1,0 +1,13 @@
+{
+  "name": "energyia-ar",
+  "displayName": "EnergyIA.AR",
+  "description": "Argentine energy & mining data.",
+  "homepage": "https://energyia.ar/en/brain",
+  "docs": "https://energyia.ar/en/brain",
+  "auth": "oauth",
+  "mcpServers": {
+    "energyia-ar": {
+      "url": "https://energyia.ar/mcp"
+    }
+  }
+}

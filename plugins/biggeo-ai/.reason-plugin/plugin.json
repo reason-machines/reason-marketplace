@@ -1,0 +1,13 @@
+{
+  "name": "biggeo-ai",
+  "displayName": "BigGeo AI",
+  "description": "Spatial Intelligence for LLMs.",
+  "homepage": "https://biggeo.com",
+  "docs": "https://biggeo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "biggeo-ai": {
+      "url": "https://mcp.biggeo.com/mcp"
+    }
+  }
+}

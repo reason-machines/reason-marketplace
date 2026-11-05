@@ -1,0 +1,13 @@
+{
+  "name": "cxprowealth",
+  "displayName": "CXProWealth",
+  "description": "Investment intelligence.",
+  "homepage": "https://cxprowealth.com",
+  "docs": "https://tedix.dev/apps/cxprowealth/",
+  "auth": "oauth",
+  "mcpServers": {
+    "cxprowealth": {
+      "url": "https://cxprowealth.com/api/mcp"
+    }
+  }
+}

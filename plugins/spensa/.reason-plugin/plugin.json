@@ -1,0 +1,13 @@
+{
+  "name": "spensa",
+  "displayName": "Spensa",
+  "description": "Restaurant ordering & invoices.",
+  "homepage": "https://www.spensa.ai",
+  "docs": "https://spensa.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "spensa": {
+      "url": "https://www.spensa.ai/api/mcp"
+    }
+  }
+}

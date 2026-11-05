@@ -1,0 +1,13 @@
+{
+  "name": "tillgraph",
+  "displayName": "TillGraph",
+  "description": "Find local service businesses.",
+  "homepage": "https://tillgraph.com",
+  "docs": "https://tillgraph.com",
+  "auth": "none",
+  "mcpServers": {
+    "tillgraph": {
+      "url": "https://tillgraph.com/mcp"
+    }
+  }
+}

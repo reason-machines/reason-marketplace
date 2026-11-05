@@ -1,0 +1,13 @@
+{
+  "name": "supericons",
+  "displayName": "Supericons",
+  "description": "Find the right icon faster.",
+  "homepage": "https://supericons.dev",
+  "docs": "https://supericons.dev",
+  "auth": "none",
+  "mcpServers": {
+    "supericons": {
+      "url": "https://mcp.supericons.dev/mcp"
+    }
+  }
+}

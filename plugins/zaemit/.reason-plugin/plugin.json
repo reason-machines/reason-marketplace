@@ -1,0 +1,13 @@
+{
+  "name": "zaemit",
+  "displayName": "Zaemit",
+  "description": "Build and run your website.",
+  "homepage": "https://zaemit.ai",
+  "docs": "https://zaemit.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "zaemit": {
+      "url": "https://zaemit.ai/mcp"
+    }
+  }
+}

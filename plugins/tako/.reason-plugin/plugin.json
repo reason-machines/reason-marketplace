@@ -1,0 +1,13 @@
+{
+  "name": "tako",
+  "displayName": "Tako",
+  "description": "Premium live data & web search.",
+  "homepage": "https://tako.com",
+  "docs": "https://tako.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "tako": {
+      "url": "https://mcp.tako.com/mcp"
+    }
+  }
+}

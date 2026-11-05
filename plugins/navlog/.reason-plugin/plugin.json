@@ -1,0 +1,13 @@
+{
+  "name": "navlog",
+  "displayName": "NavLog",
+  "description": "Your boat’s records in chat.",
+  "homepage": "https://navlog.io/",
+  "docs": "https://navlog.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "navlog": {
+      "url": "https://navlog.io/mcp"
+    }
+  }
+}

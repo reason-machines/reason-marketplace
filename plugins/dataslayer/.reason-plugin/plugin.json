@@ -1,0 +1,16 @@
+{
+  "name": "dataslayer",
+  "displayName": "Dataslayer",
+  "description": "Ask your marketing data.",
+  "homepage": "https://www.dataslayer.ai/",
+  "docs": "https://www.dataslayer.ai/",
+  "auth": "api_key",
+  "mcpServers": {
+    "dataslayer": {
+      "url": "https://mcp.dataslayer.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

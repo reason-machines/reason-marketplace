@@ -1,0 +1,13 @@
+{
+  "name": "raygun",
+  "displayName": "Raygun",
+  "description": "Debug apps with Raygun.",
+  "homepage": "https://raygun.com/",
+  "docs": "https://raygun.com/documentation/product-guides/raygun-mcp-server/",
+  "auth": "oauth",
+  "mcpServers": {
+    "raygun": {
+      "url": "https://api.raygun.com/v3/mcp"
+    }
+  }
+}

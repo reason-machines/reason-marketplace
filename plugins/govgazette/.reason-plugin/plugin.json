@@ -1,0 +1,13 @@
+{
+  "name": "govgazette",
+  "displayName": "GovGazette",
+  "description": "Research federal contracts.",
+  "homepage": "https://govgazette.com",
+  "docs": "https://govgazette.com",
+  "auth": "none",
+  "mcpServers": {
+    "govgazette": {
+      "url": "https://govgazette.com/mcp"
+    }
+  }
+}

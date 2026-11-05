@@ -1,0 +1,13 @@
+{
+  "name": "lorenly-booking",
+  "displayName": "Lorenly Booking",
+  "description": "Find and book appointments.",
+  "homepage": "https://lorenly.com/",
+  "docs": "https://lorenly.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "lorenly-booking": {
+      "url": "https://lorenly.com/api/mcp"
+    }
+  }
+}

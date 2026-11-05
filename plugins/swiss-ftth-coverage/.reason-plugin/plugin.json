@@ -1,0 +1,13 @@
+{
+  "name": "swiss-ftth-coverage",
+  "displayName": "Swiss FTTH Coverage",
+  "description": "Check and track Swiss fibre.",
+  "homepage": "https://ftth.metavshn.com",
+  "docs": "https://ftth.metavshn.com",
+  "auth": "none",
+  "mcpServers": {
+    "swiss-ftth-coverage": {
+      "url": "https://ftth.metavshn.com/mcp"
+    }
+  }
+}

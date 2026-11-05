@@ -1,0 +1,13 @@
+{
+  "name": "pinpal-projects",
+  "displayName": "Pinpal Projects",
+  "description": "Simple projects for you and AI.",
+  "homepage": "https://mypinpal.com/projects",
+  "docs": "https://mypinpal.com/projects",
+  "auth": "oauth",
+  "mcpServers": {
+    "pinpal-projects": {
+      "url": "https://projects.mypinpal.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "naru",
+  "displayName": "Naru",
+  "description": "Build your personal website.",
+  "homepage": "https://naru.pub/docs/mcp",
+  "docs": "https://naru.pub/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "naru": {
+      "url": "https://naru.pub/mcp"
+    }
+  }
+}

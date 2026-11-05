@@ -1,0 +1,13 @@
+{
+  "name": "koalastrip-excursions-and-trips",
+  "displayName": "KoalasTrip Excursions & Trips",
+  "description": "Tours and self-guided trips.",
+  "homepage": "https://koalastrip.com",
+  "docs": "https://koalastrip.com",
+  "auth": "none",
+  "mcpServers": {
+    "koalastrip-excursions-and-trips": {
+      "url": "https://koalastrip.com/mcp"
+    }
+  }
+}

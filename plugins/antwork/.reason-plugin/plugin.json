@@ -1,0 +1,13 @@
+{
+  "name": "antwork",
+  "displayName": "Antwork",
+  "description": "Schedule and publish posts.",
+  "homepage": "https://antwork.io",
+  "docs": "https://antwork.io/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "antwork": {
+      "url": "https://api.antwork.io/mcp"
+    }
+  }
+}

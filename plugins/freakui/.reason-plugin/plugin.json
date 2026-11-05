@@ -1,0 +1,13 @@
+{
+  "name": "freakui",
+  "displayName": "FreakUI",
+  "description": "Native Apple apps with FreakUI.",
+  "homepage": "https://www.freakui.com/",
+  "docs": "https://www.freakui.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "freakui": {
+      "url": "https://freakui.com/mcp"
+    }
+  }
+}

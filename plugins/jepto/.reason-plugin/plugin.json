@@ -1,0 +1,13 @@
+{
+  "name": "jepto",
+  "displayName": "Jepto",
+  "description": "Digital Marketing Intelligence.",
+  "homepage": "https://www.jepto.com",
+  "docs": "https://www.jepto.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "jepto": {
+      "url": "https://mcp.jepto.com/"
+    }
+  }
+}

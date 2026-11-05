@@ -1,0 +1,13 @@
+{
+  "name": "sitetriage",
+  "displayName": "SiteTriage",
+  "description": "Find out why a site is broken.",
+  "homepage": "https://ai.seyithanalkan.com/sitetriage",
+  "docs": "https://ai.seyithanalkan.com/sitetriage",
+  "auth": "none",
+  "mcpServers": {
+    "sitetriage": {
+      "url": "https://ai.seyithanalkan.com/sitetriage/mcp"
+    }
+  }
+}

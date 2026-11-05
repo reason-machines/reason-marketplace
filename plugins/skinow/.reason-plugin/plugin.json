@@ -1,0 +1,13 @@
+{
+  "name": "skinow",
+  "displayName": "Skinow",
+  "description": "Ski weather and trip planning.",
+  "homepage": "https://skinow.co",
+  "docs": "https://skinow.co",
+  "auth": "none",
+  "mcpServers": {
+    "skinow": {
+      "url": "https://skinow.co/mcp"
+    }
+  }
+}

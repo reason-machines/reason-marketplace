@@ -1,0 +1,13 @@
+{
+  "name": "claritytrack",
+  "displayName": "ClarityTrack",
+  "description": "See your plan in Reason.",
+  "homepage": "https://www.claritytrack.ai",
+  "docs": "https://www.claritytrack.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "claritytrack": {
+      "url": "https://claritytrack.ai/mcp"
+    }
+  }
+}

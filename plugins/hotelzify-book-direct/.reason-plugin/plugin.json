@@ -1,0 +1,13 @@
+{
+  "name": "hotelzify-book-direct",
+  "displayName": "Hotelzify - Book Direct",
+  "description": "Search hotels & book stays.",
+  "homepage": "https://hotelzify.com",
+  "docs": "https://hotelzify.com",
+  "auth": "none",
+  "mcpServers": {
+    "hotelzify-book-direct": {
+      "url": "https://mcp.hotelzify.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "empiriolabs",
+  "displayName": "EmpirioLabs AI",
+  "description": "Run 180+ AI models as tools.",
+  "homepage": "https://empiriolabs.ai",
+  "docs": "https://empiriolabs.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "empiriolabs": {
+      "url": "https://mcp.empiriolabs.ai/mcp"
+    }
+  }
+}

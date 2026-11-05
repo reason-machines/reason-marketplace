@@ -1,0 +1,13 @@
+{
+  "name": "pump",
+  "displayName": "Pump",
+  "description": "Plan and analyze your workouts.",
+  "homepage": "https://www.pumpfitness.app",
+  "docs": "https://www.pumpfitness.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "pump": {
+      "url": "https://pumpfitness.app/mcp"
+    }
+  }
+}

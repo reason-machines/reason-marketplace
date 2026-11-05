@@ -1,0 +1,13 @@
+{
+  "name": "lolanext-jobs",
+  "displayName": "LolaNext  -  jobs",
+  "description": "Find English-speaking jobs.",
+  "homepage": "https://lolanext.com",
+  "docs": "https://lolanext.com",
+  "auth": "none",
+  "mcpServers": {
+    "lolanext-jobs": {
+      "url": "https://lolanext.com/api/mcp"
+    }
+  }
+}

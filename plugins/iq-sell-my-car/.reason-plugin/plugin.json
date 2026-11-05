@@ -1,0 +1,13 @@
+{
+  "name": "iq-sell-my-car",
+  "displayName": "IQ Sell My Car",
+  "description": "Value and sell your car.",
+  "homepage": "https://iqautodeals.com",
+  "docs": "https://iqautodeals.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "iq-sell-my-car": {
+      "url": "https://iqautodeals.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tracklified-receipts",
+  "displayName": "Tracklified",
+  "description": "Your receipts, easy to find.",
+  "homepage": "https://www.tracklified.com",
+  "docs": "https://tedix.dev/apps/tracklified/",
+  "auth": "oauth",
+  "mcpServers": {
+    "tracklified-receipts": {
+      "url": "https://app.tracklified.com/api/workspace/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gorgias",
+  "displayName": "Gorgias",
+  "description": "Manage your support helpdesk.",
+  "homepage": "https://updates.gorgias.com/publications/gorgias-mcp-is-now-in-open-beta",
+  "docs": "https://updates.gorgias.com/publications/gorgias-mcp-is-now-in-open-beta",
+  "auth": "oauth",
+  "mcpServers": {
+    "gorgias": {
+      "url": "https://mcp.gorgias.com/mcp"
+    }
+  }
+}

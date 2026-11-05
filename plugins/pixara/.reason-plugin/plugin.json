@@ -1,0 +1,13 @@
+{
+  "name": "pixara",
+  "displayName": "Pixara",
+  "description": "Create images, video and audio.",
+  "homepage": "https://www.pixara.ai",
+  "docs": "https://www.pixara.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "pixara": {
+      "url": "https://mcp.pixara.ai/mcp"
+    }
+  }
+}

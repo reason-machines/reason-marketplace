@@ -1,0 +1,13 @@
+{
+  "name": "cubi-estate",
+  "displayName": "Cubi Estate",
+  "description": "Find real estate with AI.",
+  "homepage": "https://cubi.estate",
+  "docs": "https://cubi.estate",
+  "auth": "none",
+  "mcpServers": {
+    "cubi-estate": {
+      "url": "https://mcp.cubi.estate/mcp"
+    }
+  }
+}

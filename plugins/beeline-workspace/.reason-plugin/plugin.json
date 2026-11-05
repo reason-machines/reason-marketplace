@@ -1,0 +1,13 @@
+{
+  "name": "beeline-workspace",
+  "displayName": "Beeline Workspace",
+  "description": "Connect Reason to Beeline.",
+  "homepage": "https://www.beeline.life",
+  "docs": "https://www.beeline.life",
+  "auth": "oauth",
+  "mcpServers": {
+    "beeline-workspace": {
+      "url": "https://mcp.beeline.life/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "llmwise",
+  "displayName": "llmwise",
+  "description": "Ask and compare AI models.",
+  "homepage": "https://llmwise.ai",
+  "docs": "https://llmwise.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "llmwise": {
+      "url": "https://llmwise.ai/mcp"
+    }
+  }
+}

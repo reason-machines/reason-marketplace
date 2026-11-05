@@ -1,0 +1,13 @@
+{
+  "name": "basketball-assistant",
+  "displayName": "Basketball Assistant",
+  "description": "Plan basketball practices.",
+  "homepage": "https://www.basketball-assistant.com",
+  "docs": "https://www.basketball-assistant.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "basketball-assistant": {
+      "url": "https://mcp.basketball-assistant.com/mcp"
+    }
+  }
+}

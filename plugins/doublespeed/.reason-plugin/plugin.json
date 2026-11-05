@@ -1,0 +1,13 @@
+{
+  "name": "doublespeed",
+  "displayName": "Doublespeed",
+  "description": "Create slideshows and videos.",
+  "homepage": "https://doublespeed.ai",
+  "docs": "https://doublespeed.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "doublespeed": {
+      "url": "https://doublespeed.ai/api/mcp"
+    }
+  }
+}

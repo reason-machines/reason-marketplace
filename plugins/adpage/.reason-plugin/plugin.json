@@ -1,0 +1,13 @@
+{
+  "name": "adpage",
+  "displayName": "AdPage",
+  "description": "Marketing & Tracking Analytics.",
+  "homepage": "https://www.adpage.io",
+  "docs": "https://www.adpage.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "adpage": {
+      "url": "https://mcp.adpage.io/mcp"
+    }
+  }
+}

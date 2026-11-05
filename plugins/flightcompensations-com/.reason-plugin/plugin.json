@@ -1,0 +1,13 @@
+{
+  "name": "flightcompensations-com",
+  "displayName": "FlightCompensations.com",
+  "description": "Claim for disrupted flights.",
+  "homepage": "https://flightcompensations.com",
+  "docs": "https://flightcompensations.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "flightcompensations-com": {
+      "url": "https://flightcompensations.com/api/mcp"
+    }
+  }
+}

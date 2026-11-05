@@ -1,0 +1,13 @@
+{
+  "name": "wavemaster-ai",
+  "displayName": "WaveMaster AI",
+  "description": "Previsão de surf com IA.",
+  "homepage": "https://www.wavemasterai.com.br",
+  "docs": "https://www.wavemasterai.com.br",
+  "auth": "none",
+  "mcpServers": {
+    "wavemaster-ai": {
+      "url": "https://mcp.wavemasterai.com.br/mcp"
+    }
+  }
+}

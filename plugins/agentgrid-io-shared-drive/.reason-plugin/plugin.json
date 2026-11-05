@@ -1,0 +1,13 @@
+{
+  "name": "agentgrid-io-shared-drive",
+  "displayName": "AgentGrid.io - Shared Drive",
+  "description": "Share files, apps, websites.",
+  "homepage": "https://agentgrid.io/",
+  "docs": "https://agentgrid.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentgrid-io-shared-drive": {
+      "url": "https://agentgrid.io/mcp"
+    }
+  }
+}

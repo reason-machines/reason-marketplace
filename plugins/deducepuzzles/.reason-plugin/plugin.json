@@ -1,0 +1,13 @@
+{
+  "name": "deducepuzzles",
+  "displayName": "DeducePuzzles",
+  "description": "Verified exam puzzle, 3 tries.",
+  "homepage": "https://deducepuzzles.com",
+  "docs": "https://deducepuzzles.com",
+  "auth": "none",
+  "mcpServers": {
+    "deducepuzzles": {
+      "url": "https://mcp.deducepuzzles.com/mcp"
+    }
+  }
+}

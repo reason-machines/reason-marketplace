@@ -1,0 +1,13 @@
+{
+  "name": "nunu-ai",
+  "displayName": "nunu.ai",
+  "description": "AI-powered software testing.",
+  "homepage": "https://nunu.ai",
+  "docs": "https://nunu.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "nunu-ai": {
+      "url": "https://nunu.ai/mcp"
+    }
+  }
+}

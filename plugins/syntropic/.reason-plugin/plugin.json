@@ -1,0 +1,13 @@
+{
+  "name": "syntropic",
+  "displayName": "Syntropic",
+  "description": "Write to your data warehouse.",
+  "homepage": "https://getsyntropic.com",
+  "docs": "https://getsyntropic.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "syntropic": {
+      "url": "https://mcp.getsyntropic.com/mcp"
+    }
+  }
+}

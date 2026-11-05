@@ -1,0 +1,13 @@
+{
+  "name": "social-index",
+  "displayName": "Social Index",
+  "description": "Earned media value benchmarks.",
+  "homepage": "https://earnedmediavalues.com",
+  "docs": "https://earnedmediavalues.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "social-index": {
+      "url": "https://mcp.earnedmediavalues.com/mcp"
+    }
+  }
+}

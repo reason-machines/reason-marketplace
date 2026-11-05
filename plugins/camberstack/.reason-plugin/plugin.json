@@ -1,0 +1,13 @@
+{
+  "name": "camberstack",
+  "displayName": "Camberstack: Google Ads",
+  "description": "Google Ads you approve, undo.",
+  "homepage": "https://camberstack.io",
+  "docs": "https://camberstack.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "camberstack": {
+      "url": "https://camberstack.io/mcp"
+    }
+  }
+}

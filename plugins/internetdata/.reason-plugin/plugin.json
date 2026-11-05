@@ -1,0 +1,13 @@
+{
+  "name": "internetdata",
+  "displayName": "InternetData",
+  "description": "IP and ASN databases.",
+  "homepage": "https://internetdata.io",
+  "docs": "https://internetdata.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "internetdata": {
+      "url": "https://mcp.internetdata.io/mcp"
+    }
+  }
+}

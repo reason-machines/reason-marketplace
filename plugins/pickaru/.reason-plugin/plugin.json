@@ -1,0 +1,13 @@
+{
+  "name": "pickaru",
+  "displayName": "pickaru",
+  "description": "Swipe together, pick tonight.",
+  "homepage": "https://pickaru.com",
+  "docs": "https://pickaru.com",
+  "auth": "none",
+  "mcpServers": {
+    "pickaru": {
+      "url": "https://pickaru.com/mcp"
+    }
+  }
+}

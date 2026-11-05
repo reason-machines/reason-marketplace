@@ -1,0 +1,13 @@
+{
+  "name": "carwhere",
+  "displayName": "CarWhere",
+  "description": "VIN & window sticker lookup.",
+  "homepage": "https://www.carwhere.com",
+  "docs": "https://carwhere.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "carwhere": {
+      "url": "https://carwhere.com/api/mcp"
+    }
+  }
+}

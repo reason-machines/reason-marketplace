@@ -1,0 +1,13 @@
+{
+  "name": "mempipe",
+  "displayName": "Mempipe Notebook",
+  "description": "Cited answers from your files.",
+  "homepage": "https://www.mempipe.ai",
+  "docs": "https://mempipe.ai/help/agents/connect-claude/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mempipe": {
+      "url": "https://api.mempipe.ai/v1/mcp"
+    }
+  }
+}

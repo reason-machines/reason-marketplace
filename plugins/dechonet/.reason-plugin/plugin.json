@@ -1,0 +1,13 @@
+{
+  "name": "dechonet",
+  "displayName": "DechoNet",
+  "description": "Domain & phishing link checks.",
+  "homepage": "https://dechonet.com/mcp",
+  "docs": "https://dechonet.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "dechonet": {
+      "url": "https://dechonet.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kometrics",
+  "displayName": "Kometrics",
+  "description": "Subscription revenue metrics.",
+  "homepage": "https://kometrics.com",
+  "docs": "https://kometrics.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "kometrics": {
+      "url": "https://kometrics.com/mcp"
+    }
+  }
+}

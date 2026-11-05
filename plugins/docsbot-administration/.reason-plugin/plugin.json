@@ -1,0 +1,13 @@
+{
+  "name": "docsbot-administration",
+  "displayName": "DocsBot",
+  "description": "AI agents for customer support.",
+  "homepage": "https://docsbot.ai",
+  "docs": "https://docsbot.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "docsbot-administration": {
+      "url": "https://mcp.docsbot.ai/mcp"
+    }
+  }
+}

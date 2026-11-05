@@ -1,0 +1,13 @@
+{
+  "name": "notra",
+  "displayName": "Notra",
+  "description": "Show up in AI search.",
+  "homepage": "https://www.usenotra.com",
+  "docs": "https://www.usenotra.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "notra": {
+      "url": "https://mcp.usenotra.com/mcp"
+    }
+  }
+}

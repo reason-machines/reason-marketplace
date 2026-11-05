@@ -1,0 +1,13 @@
+{
+  "name": "cocopoint",
+  "displayName": "CocoPoint",
+  "description": "Vos présentations, votre IA.",
+  "homepage": "https://www.cocopoint.app/",
+  "docs": "https://www.cocopoint.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "cocopoint": {
+      "url": "https://www.cocopoint.app/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "inkle",
+  "displayName": "Inkle",
+  "description": "Access your Inkle finance data.",
+  "homepage": "https://www.inkle.ai",
+  "docs": "https://tedix.dev/apps/inkle/",
+  "auth": "oauth",
+  "mcpServers": {
+    "inkle": {
+      "url": "https://api.inkle.io/api/inkle/ai_agents/mcp"
+    }
+  }
+}

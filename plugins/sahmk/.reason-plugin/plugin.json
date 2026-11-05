@@ -1,0 +1,13 @@
+{
+  "name": "sahmk",
+  "displayName": "SAHMK",
+  "description": "Explore Saudi market data.",
+  "homepage": "https://www.sahmk.sa/developers/tutorials/sahmk-mcp-ai-agents",
+  "docs": "https://www.sahmk.sa/developers/tutorials/sahmk-mcp-ai-agents",
+  "auth": "oauth",
+  "mcpServers": {
+    "sahmk": {
+      "url": "https://mcp.sahmk.sa/mcp"
+    }
+  }
+}

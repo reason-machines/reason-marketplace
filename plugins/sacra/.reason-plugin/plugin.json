@@ -1,0 +1,13 @@
+{
+  "name": "sacra",
+  "displayName": "Sacra",
+  "description": "Research on pre-IPO startups.",
+  "homepage": "https://www.sacra.com",
+  "docs": "https://www.sacra.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sacra": {
+      "url": "https://mcp.sacra.com/mcp"
+    }
+  }
+}

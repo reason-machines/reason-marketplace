@@ -1,0 +1,13 @@
+{
+  "name": "namewheel",
+  "displayName": "NameWheel",
+  "description": "Fair picks, teams and draws.",
+  "homepage": "https://namewheel.org/mcp",
+  "docs": "https://namewheel.org/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "namewheel": {
+      "url": "https://mcp.namewheel.org/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "immopix",
+  "displayName": "Immopix",
+  "description": "Enhance real estate photos.",
+  "homepage": "https://immopix.ai",
+  "docs": "https://immopix.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "immopix": {
+      "url": "https://immopix.ai/mcp"
+    }
+  }
+}

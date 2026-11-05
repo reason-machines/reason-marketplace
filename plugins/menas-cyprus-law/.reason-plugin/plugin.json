@@ -1,0 +1,13 @@
+{
+  "name": "menas-cyprus-law",
+  "displayName": "Menas",
+  "description": "Cyprus case law & legislation.",
+  "homepage": "https://menas.ai/en/",
+  "docs": "https://menas.ai/en/",
+  "auth": "none",
+  "mcpServers": {
+    "menas-cyprus-law": {
+      "url": "https://mcp.menas.ai/mcp"
+    }
+  }
+}

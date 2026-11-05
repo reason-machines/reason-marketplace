@@ -1,0 +1,13 @@
+{
+  "name": "partsperk",
+  "displayName": "PartsPerk",
+  "description": "Aviation parts & RFQs.",
+  "homepage": "https://partsperk.com",
+  "docs": "https://partsperk.com",
+  "auth": "none",
+  "mcpServers": {
+    "partsperk": {
+      "url": "https://partsperk.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gpa-calculator",
+  "displayName": "Zovo GPA Calc",
+  "description": "GPA from grades and credits.",
+  "homepage": "https://gpa-calculator.zovo.one",
+  "docs": "https://gpa-calculator.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "gpa-calculator": {
+      "url": "https://gpa-calculator.zovo.one/mcp"
+    }
+  }
+}

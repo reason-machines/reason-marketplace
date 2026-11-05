@@ -1,0 +1,13 @@
+{
+  "name": "spkr-chat-to-podcast-episode",
+  "displayName": "Spkr - Chat to Podcast Episode",
+  "description": "AI Chat -> podcast episode.",
+  "homepage": "https://spkr-app.com",
+  "docs": "https://spkr-app.com",
+  "auth": "none",
+  "mcpServers": {
+    "spkr-chat-to-podcast-episode": {
+      "url": "https://mcp.spkr-app.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "alto-fx",
+  "displayName": "Alto FX",
+  "description": "FX rates and analysis.",
+  "homepage": "https://altomarkets.co.uk/alto-ai/",
+  "docs": "https://tedix.dev/apps/alto-fx/",
+  "auth": "oauth",
+  "mcpServers": {
+    "alto-fx": {
+      "url": "https://alto-fx.com/mcp"
+    }
+  }
+}

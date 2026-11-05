@@ -1,0 +1,13 @@
+{
+  "name": "amazingpensions",
+  "displayName": "AmazingPensions",
+  "description": "How much will you have?",
+  "homepage": "https://integrations.sh/olutely.com/amazingpensions-mcp/",
+  "docs": "https://integrations.sh/olutely.com/amazingpensions-mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "amazingpensions": {
+      "url": "https://pension-income-calculator.widgets.widget.olutely.com/mcp"
+    }
+  }
+}

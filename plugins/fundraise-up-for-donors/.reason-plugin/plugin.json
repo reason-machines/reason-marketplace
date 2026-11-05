@@ -1,0 +1,13 @@
+{
+  "name": "fundraise-up-for-donors",
+  "displayName": "Fundraise Up for Donors",
+  "description": "Give to nonprofits.",
+  "homepage": "https://fundraiseup.com",
+  "docs": "https://fundraiseup.com",
+  "auth": "none",
+  "mcpServers": {
+    "fundraise-up-for-donors": {
+      "url": "https://mcp.fundraiseup.com/mcp"
+    }
+  }
+}

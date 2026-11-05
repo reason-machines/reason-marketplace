@@ -1,0 +1,13 @@
+{
+  "name": "spotts-korea-festival",
+  "displayName": "Spotts - Korea Festival",
+  "description": "한국의 공개 행사와 축제 정보를 찾아봅니다.",
+  "homepage": "https://spotts.kr",
+  "docs": "https://spotts.kr",
+  "auth": "none",
+  "mcpServers": {
+    "spotts-korea-festival": {
+      "url": "https://spotts.kr/mcp"
+    }
+  }
+}

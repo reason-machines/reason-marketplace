@@ -1,0 +1,13 @@
+{
+  "name": "trackgleam",
+  "displayName": "TrackGleam",
+  "description": "Master and release your songs.",
+  "homepage": "https://trackgleam.com/",
+  "docs": "https://trackgleam.com/",
+  "auth": "none",
+  "mcpServers": {
+    "trackgleam": {
+      "url": "https://trackgleam.com/mcp"
+    }
+  }
+}

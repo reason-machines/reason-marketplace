@@ -10,5 +10,98 @@
     "upstash": {
       "url": "https://mcp.upstash.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "upstash-blob-js",
+      "description": "Work with the @upstash/blob TypeScript/JavaScript SDK for S3-compatible object storage with direct browser uploads, presigned URLs, multipart, and signed reads. Use when storing files or blobs, uploading avatars, images, videos, attachments or user documents, letting a browser upload straight to sto",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-blob-js",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-blob-js"
+    },
+    {
+      "name": "upstash-box-cli",
+      "description": "Drive an Upstash Box (a remote sandboxed workspace) from the terminal with the `box` CLI. Use when asked to run commands, edit files, clone repos, run builds or tests, publish a public URL, browse or screenshot a page, open a pull request or issue with a screenshot attached, schedule recurring work,",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-box-cli",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-box-cli"
+    },
+    {
+      "name": "upstash-box-js",
+      "description": "Work with the @upstash/box TypeScript/JavaScript SDK for sandboxed cloud containers with AI agents, shell, filesystem, git, cron schedules, snapshots, and a headless browser. Use when building with Upstash Box, creating a sandbox or isolated environment to run untrusted or agent-generated code, runn",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-box-js",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-box-js"
+    },
+    {
+      "name": "upstash-box-py",
+      "description": "Work with the upstash-box Python SDK for sandboxed cloud containers with AI agents, shell, filesystem, git, cron schedules, snapshots, and a headless browser. Use when building with Upstash Box in Python, creating a sandbox or isolated environment to run untrusted or agent-generated code, running AI",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-box-py",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-box-py"
+    },
+    {
+      "name": "upstash-box-remote-work",
+      "description": "Do work in an Upstash Box, a sandboxed cloud container driven through the remote Upstash MCP server (mcp.upstash.com), instead of on the local machine. Use when the user asks to run, build, test, clone, or edit something remotely, in a sandbox, in the cloud, or in a box, when the deliverable is a pu",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-box-remote-work",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-box-remote-work"
+    },
+    {
+      "name": "upstash-cli",
+      "description": "Run the Upstash CLI (`upstash`) against the Upstash Developer API for Redis, Vector, Search, QStash, Blob, and teams, with non-interactive commands and JSON output for scripts, CI, and agents. Use when creating, listing, renaming, or deleting Redis databases, changing plans, regions, TLS, eviction, ",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-cli",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-cli"
+    },
+    {
+      "name": "upstash-qstash-js",
+      "description": "Work with the @upstash/qstash TypeScript/JavaScript SDK, an HTTP-based message queue, task scheduler, and background job system for serverless and edge runtimes (Next.js, Vercel, Cloudflare Workers, Deno, Node.js). Use when publishing messages to HTTP endpoints or URL groups, running background jobs",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-qstash-js",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-qstash-js"
+    },
+    {
+      "name": "upstash-ratelimit-js",
+      "description": "Rate limiting for serverless and edge apps with the @upstash/ratelimit TypeScript/JavaScript SDK backed by Upstash Redis. Use when adding a rate limiter or throttling to an API route, Next.js middleware, Vercel Edge, Cloudflare Workers, or any HTTP endpoint; returning 429 Too Many Requests; choosing",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-ratelimit-js",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-ratelimit-js"
+    },
+    {
+      "name": "upstash-redis-js",
+      "description": "Work with the @upstash/redis TypeScript/JavaScript SDK, a serverless HTTP-based Redis client for Next.js, Vercel, Cloudflare Workers, edge runtimes, and Node.js. Use when adding a cache (cache-aside, write-through, TTL and expiration strategies), session storage and user sessions, a key-value store,",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-redis-js",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-redis-js"
+    },
+    {
+      "name": "upstash-redis-start",
+      "description": "Provision a zero-config, no-signup, temporary Upstash Redis database for an AI agent with a single POST to https://upstash.com/start-redis, with no account, API key, or SDK setup required. Use when an agent needs scratch Redis right now and the user has not provided credentials, for short-term memor",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-redis-start",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-redis-start"
+    },
+    {
+      "name": "upstash-search-js",
+      "description": "Work with the @upstash/search TypeScript/JavaScript SDK, a serverless full-text and semantic search database with built-in reranking. Use when adding search to an app or site, creating a search index, upserting documents with searchable content and filterable metadata, running keyword, semantic, or ",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-search-js",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-search-js"
+    },
+    {
+      "name": "upstash-vector-js",
+      "description": "Work with the @upstash/vector TypeScript/JavaScript SDK, a serverless vector database for embeddings, similarity search, semantic search, and RAG (retrieval-augmented generation). Use when upserting, querying, fetching, ranging, or deleting vectors, upserting raw text against an index with a built-i",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-vector-js",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-vector-js"
+    },
+    {
+      "name": "upstash-workflow-js",
+      "description": "Work with the @upstash/workflow TypeScript/JavaScript SDK for durable, long-running workflows in serverless functions, multi-step processes that survive timeouts, retries, and restarts (built on QStash). Use when defining a workflow endpoint with serve(), running steps with context.run, sleeping for",
+      "source": "upstash/skills#adffa8896cd8e75649366a34183ecab6156e33c0",
+      "skill": "upstash-workflow-js",
+      "url": "https://github.com/upstash/skills/tree/adffa8896cd8e75649366a34183ecab6156e33c0/skills/upstash-workflow-js"
+    }
+  ]
 }

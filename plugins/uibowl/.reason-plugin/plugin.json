@@ -1,0 +1,13 @@
+{
+  "name": "uibowl",
+  "displayName": "유아이볼 (uibowl)",
+  "description": "Find UI/UX design references.",
+  "homepage": "https://uibowl.io/",
+  "docs": "https://uibowl.io/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "uibowl": {
+      "url": "https://uibowl.io/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "buzzsearch",
+  "displayName": "BuzzSearch",
+  "description": "Search real customer comments.",
+  "homepage": "https://buzzsearch.ai/mcp",
+  "docs": "https://buzzsearch.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "buzzsearch": {
+      "url": "https://buzzsearch.ai/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "super-map-world",
+  "displayName": "Super Map World",
+  "description": "Search country & world maps.",
+  "homepage": "https://supermap.world",
+  "docs": "https://supermap.world",
+  "auth": "none",
+  "mcpServers": {
+    "super-map-world": {
+      "url": "https://supermap.world/mcp"
+    }
+  }
+}

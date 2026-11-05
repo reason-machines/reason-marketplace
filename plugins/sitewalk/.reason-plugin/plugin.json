@@ -1,0 +1,13 @@
+{
+  "name": "sitewalk",
+  "displayName": "Sitewalk: SEO Audit & Crawler",
+  "description": "Crawl a site, fix SEO issues.",
+  "homepage": "https://audit.adityaarsharma.com",
+  "docs": "https://audit.adityaarsharma.com",
+  "auth": "none",
+  "mcpServers": {
+    "sitewalk": {
+      "url": "https://audit.adityaarsharma.com/mcp"
+    }
+  }
+}

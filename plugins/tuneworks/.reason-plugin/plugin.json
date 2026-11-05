@@ -1,0 +1,13 @@
+{
+  "name": "tuneworks",
+  "displayName": "TuneWorks",
+  "description": "Performance car data & tools.",
+  "homepage": "https://tuneworks.ai/",
+  "docs": "https://tuneworks.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "tuneworks": {
+      "url": "https://tuneworks.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "arrayco-crew-hub",
+  "displayName": "Arrayco Crew Hub",
+  "description": "Open Crew Hub in Reason.",
+  "homepage": "https://arrayco-crew-hub-plugin.arrayco.chatgpt.site",
+  "docs": "https://arrayco-crew-hub-plugin.arrayco.chatgpt.site",
+  "auth": "none",
+  "mcpServers": {
+    "arrayco-crew-hub": {
+      "url": "https://arrayco-crew-hub-plugin.arrayco.chatgpt.site/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rallyiq",
+  "displayName": "RallyIQ",
+  "description": "Tennis game plans and scouting.",
+  "homepage": "https://bigballi.com/RallyIQ/",
+  "docs": "https://bigballi.com/RallyIQ/connect",
+  "auth": "none",
+  "mcpServers": {
+    "rallyiq": {
+      "url": "https://bigballi.com/RallyIQ/mcp"
+    }
+  }
+}

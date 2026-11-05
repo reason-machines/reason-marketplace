@@ -1,0 +1,13 @@
+{
+  "name": "esimradar",
+  "displayName": "eSIMradar",
+  "description": "Compare travel eSIM plans.",
+  "homepage": "https://esimradar.com",
+  "docs": "https://esimradar.com",
+  "auth": "none",
+  "mcpServers": {
+    "esimradar": {
+      "url": "https://esimradar.com/mcp"
+    }
+  }
+}

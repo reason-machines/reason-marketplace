@@ -1,0 +1,13 @@
+{
+  "name": "kiwi-com",
+  "displayName": "Kiwi.com",
+  "description": "Flexible flight search.",
+  "homepage": "https://kiwi.com",
+  "docs": "https://kiwi.com",
+  "auth": "none",
+  "mcpServers": {
+    "kiwi-com": {
+      "url": "https://mcp.kiwi.com/"
+    }
+  }
+}

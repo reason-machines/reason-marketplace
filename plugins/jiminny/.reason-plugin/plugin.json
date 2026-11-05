@@ -1,0 +1,13 @@
+{
+  "name": "jiminny",
+  "displayName": "Jiminny",
+  "description": "Search calls, deals, customers.",
+  "homepage": "https://jiminny.com",
+  "docs": "https://jiminny.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "jiminny": {
+      "url": "https://mcp.jiminny.com/mcp"
+    }
+  }
+}

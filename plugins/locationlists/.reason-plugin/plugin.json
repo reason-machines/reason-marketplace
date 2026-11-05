@@ -1,0 +1,13 @@
+{
+  "name": "locationlists",
+  "displayName": "LocationLists",
+  "description": "US business location lists.",
+  "homepage": "https://locationlists.com",
+  "docs": "https://locationlists.com",
+  "auth": "none",
+  "mcpServers": {
+    "locationlists": {
+      "url": "https://locationlists.com/mcp"
+    }
+  }
+}

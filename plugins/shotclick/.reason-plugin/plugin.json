@@ -1,0 +1,13 @@
+{
+  "name": "shotclick",
+  "displayName": "ShotClick",
+  "description": "Write and edit screenplays.",
+  "homepage": "https://shotclick.ai",
+  "docs": "https://shotclick.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "shotclick": {
+      "url": "https://shotclick.ai/api/mcp"
+    }
+  }
+}

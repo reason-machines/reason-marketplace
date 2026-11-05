@@ -1,0 +1,13 @@
+{
+  "name": "productnow",
+  "displayName": "ProductNow",
+  "description": "Search your context engine.",
+  "homepage": "https://productnow.ai",
+  "docs": "https://github.com/ProductNowAI/productnow-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "productnow": {
+      "url": "https://api.productnow-prod.com/mcp"
+    }
+  }
+}

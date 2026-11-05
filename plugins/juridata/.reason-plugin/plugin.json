@@ -1,0 +1,13 @@
+{
+  "name": "juridata",
+  "displayName": "Juridata",
+  "description": "Search Moroccan law & rulings.",
+  "homepage": "https://juridata.ma",
+  "docs": "https://juridata.ma/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "juridata": {
+      "url": "https://api.juridata.ma/mcp"
+    }
+  }
+}

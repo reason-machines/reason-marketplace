@@ -1,0 +1,13 @@
+{
+  "name": "voicenotes",
+  "displayName": "Voicenotes",
+  "description": "Interact with your Voicenotes.",
+  "homepage": "https://voicenotes.com/",
+  "docs": "https://api.voicenotes.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "voicenotes": {
+      "url": "https://api.voicenotes.com/mcp"
+    }
+  }
+}

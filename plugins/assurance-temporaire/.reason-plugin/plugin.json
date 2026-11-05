@@ -1,0 +1,13 @@
+{
+  "name": "assurance-temporaire",
+  "displayName": "Assurance Temporaire",
+  "description": "Temporary car insurance 1-90d.",
+  "homepage": "https://www.tempo-assurance.com",
+  "docs": "https://tedix.dev/apps/assurance-temporaire/",
+  "auth": "none",
+  "mcpServers": {
+    "assurance-temporaire": {
+      "url": "https://tempo-assurance-mcp.onrender.com/mcp"
+    }
+  }
+}

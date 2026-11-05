@@ -1,0 +1,13 @@
+{
+  "name": "gondola",
+  "displayName": "Gondola",
+  "description": "Search and book travel.",
+  "homepage": "https://www.gondola.ai",
+  "docs": "https://www.gondola.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "gondola": {
+      "url": "https://mcp.gondola.ai/mcp"
+    }
+  }
+}

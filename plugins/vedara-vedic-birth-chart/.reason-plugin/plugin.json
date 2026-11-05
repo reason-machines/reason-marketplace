@@ -1,0 +1,13 @@
+{
+  "name": "vedara-vedic-birth-chart",
+  "displayName": "Vedara Vedic Birth Chart",
+  "description": "Natal charts, dashas & timing.",
+  "homepage": "https://vedara.me",
+  "docs": "https://vedara.me",
+  "auth": "none",
+  "mcpServers": {
+    "vedara-vedic-birth-chart": {
+      "url": "https://mcp.vedara.me/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mencionai",
+  "displayName": "MencionAI",
+  "description": "Read your AI search visibility.",
+  "homepage": "https://www.mencionai.com/en",
+  "docs": "https://www.mencionai.com/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "mencionai": {
+      "url": "https://mcp.mencionai.com/mcp"
+    }
+  }
+}

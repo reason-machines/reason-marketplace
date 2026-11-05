@@ -1,0 +1,13 @@
+{
+  "name": "montrose",
+  "displayName": "Montrose",
+  "description": "Your Montrose accounts in chat.",
+  "homepage": "https://www.montrose.io",
+  "docs": "https://www.montrose.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "montrose": {
+      "url": "https://mcp.montrose.io/mcp"
+    }
+  }
+}

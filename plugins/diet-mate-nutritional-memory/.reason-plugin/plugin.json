@@ -1,0 +1,13 @@
+{
+  "name": "diet-mate-nutritional-memory",
+  "displayName": "Diet Mate - Nutritional Memory",
+  "description": "Analyze your meals and diet.",
+  "homepage": "https://dietmate.app",
+  "docs": "https://dietmate.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "diet-mate-nutritional-memory": {
+      "url": "https://mcp.dietmate.app/mcp"
+    }
+  }
+}

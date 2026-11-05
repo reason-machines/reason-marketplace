@@ -1,0 +1,13 @@
+{
+  "name": "uds-toolbox",
+  "displayName": "UDS Toolbox",
+  "description": "Find why a UDS flash failed.",
+  "homepage": "https://udslib.com/mcp.html",
+  "docs": "https://udslib.com/mcp.html",
+  "auth": "none",
+  "mcpServers": {
+    "uds-toolbox": {
+      "url": "https://mcp.udslib.com/mcp"
+    }
+  }
+}

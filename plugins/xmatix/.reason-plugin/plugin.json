@@ -1,0 +1,13 @@
+{
+  "name": "xmatix",
+  "displayName": "xMatix",
+  "description": "Business data and workflows.",
+  "homepage": "https://www.xmatix.com",
+  "docs": "https://www.xmatix.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "xmatix": {
+      "url": "https://mcp.xmatix.com/mcp"
+    }
+  }
+}

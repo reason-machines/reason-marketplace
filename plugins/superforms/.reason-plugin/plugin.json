@@ -1,0 +1,13 @@
+{
+  "name": "superforms",
+  "displayName": "Superforms",
+  "description": "Make forms, pipe answers back.",
+  "homepage": "https://superforms.co",
+  "docs": "https://superforms.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "superforms": {
+      "url": "https://superforms.co/mcp"
+    }
+  }
+}

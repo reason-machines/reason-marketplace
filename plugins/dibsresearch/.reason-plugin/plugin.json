@@ -1,0 +1,13 @@
+{
+  "name": "dibsresearch",
+  "displayName": "dibsresearch",
+  "description": "Company KPIs with sources.",
+  "homepage": "https://dibsresearch.com",
+  "docs": "https://dibsresearch.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dibsresearch": {
+      "url": "https://mcp.dibsresearch.com/mcp"
+    }
+  }
+}

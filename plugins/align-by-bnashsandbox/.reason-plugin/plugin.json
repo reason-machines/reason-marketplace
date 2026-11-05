@@ -1,0 +1,13 @@
+{
+  "name": "align-by-bnashsandbox",
+  "displayName": "Align by bnashsandbox",
+  "description": "Your tasks, notes and goals.",
+  "homepage": "https://align.bnashsandbox.com",
+  "docs": "https://align.bnashsandbox.com/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "align-by-bnashsandbox": {
+      "url": "https://align.bnashsandbox.com/api/mcp"
+    }
+  }
+}

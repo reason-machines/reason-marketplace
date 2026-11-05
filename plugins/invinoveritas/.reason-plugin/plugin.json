@@ -1,0 +1,13 @@
+{
+  "name": "invinoveritas",
+  "displayName": "invinoveritas",
+  "description": "Second opinion before you act.",
+  "homepage": "https://api.babyblueviper.com",
+  "docs": "https://api.babyblueviper.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "invinoveritas": {
+      "url": "https://api.babyblueviper.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "timelodge",
+  "displayName": "TimeLodge",
+  "description": "Track time and manage work.",
+  "homepage": "https://timelodge.com/",
+  "docs": "https://timelodge.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "timelodge": {
+      "url": "https://timelodge.com/mcp"
+    }
+  }
+}

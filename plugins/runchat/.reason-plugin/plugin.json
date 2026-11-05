@@ -1,0 +1,13 @@
+{
+  "name": "runchat",
+  "displayName": "Runchat",
+  "description": "Design workflows and CAD.",
+  "homepage": "https://runchat.com",
+  "docs": "https://runchat.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "runchat": {
+      "url": "https://runchat.com/api/mcp"
+    }
+  }
+}

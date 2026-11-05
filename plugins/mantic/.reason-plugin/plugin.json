@@ -1,0 +1,13 @@
+{
+  "name": "mantic",
+  "displayName": "Mantic",
+  "description": "Explore and request forecasts.",
+  "homepage": "https://app.mantic.com/",
+  "docs": "https://api.mantic.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "mantic": {
+      "url": "https://api.mantic.com/mcp"
+    }
+  }
+}

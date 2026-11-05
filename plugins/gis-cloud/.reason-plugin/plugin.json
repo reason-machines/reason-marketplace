@@ -1,0 +1,13 @@
+{
+  "name": "gis-cloud",
+  "displayName": "GIS Cloud",
+  "description": "Create maps and GIS analysis.",
+  "homepage": "https://www.giscloud.com/",
+  "docs": "https://www.giscloud.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "gis-cloud": {
+      "url": "https://mcp.giscloud.com/mcp"
+    }
+  }
+}

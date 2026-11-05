@@ -1,0 +1,13 @@
+{
+  "name": "arivustudio",
+  "displayName": "ArivuStudio",
+  "description": "Create video, music and voice.",
+  "homepage": "https://arivulabs.ai",
+  "docs": "https://docs.arivulabs.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "arivustudio": {
+      "url": "https://api.arivulabs.ai/mcp"
+    }
+  }
+}

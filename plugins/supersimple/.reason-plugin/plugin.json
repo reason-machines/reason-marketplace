@@ -1,0 +1,13 @@
+{
+  "name": "supersimple",
+  "displayName": "Supersimple",
+  "description": "Ask questions, build data apps.",
+  "homepage": "https://www.supersimple.io",
+  "docs": "https://docs.supersimple.io/integrations/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "supersimple": {
+      "url": "https://app.supersimple.io/mcp"
+    }
+  }
+}

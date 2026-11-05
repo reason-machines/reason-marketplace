@@ -1,0 +1,13 @@
+{
+  "name": "nowyourlink-developer-docs",
+  "displayName": "nowyourlink Developer Docs",
+  "description": "Read API integration docs.",
+  "homepage": "https://nowyourlink.com/developers",
+  "docs": "https://nowyourlink.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "nowyourlink-developer-docs": {
+      "url": "https://nowyourlink.com/mcp"
+    }
+  }
+}

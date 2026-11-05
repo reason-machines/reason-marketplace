@@ -1,0 +1,13 @@
+{
+  "name": "vybeos",
+  "displayName": "VybeOS",
+  "description": "AI marketing campaign studio.",
+  "homepage": "https://vybeos.co",
+  "docs": "https://vybeos.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "vybeos": {
+      "url": "https://mcp.vybeos.co/mcp"
+    }
+  }
+}

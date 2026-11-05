@@ -1,0 +1,13 @@
+{
+  "name": "debuff-app",
+  "displayName": "debuff",
+  "description": "Make and play 2D web games.",
+  "homepage": "https://debuff.jp",
+  "docs": "https://debuff.jp",
+  "auth": "none",
+  "mcpServers": {
+    "debuff-app": {
+      "url": "https://debuff.jp/mcp"
+    }
+  }
+}

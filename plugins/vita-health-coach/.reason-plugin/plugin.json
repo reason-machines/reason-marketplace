@@ -1,0 +1,13 @@
+{
+  "name": "vita-health-coach",
+  "displayName": "Vita Health Coach",
+  "description": "Hospital portals and records.",
+  "homepage": "https://vitamedas.com/parent-portal",
+  "docs": "https://vitamedas.com/parent-portal",
+  "auth": "none",
+  "mcpServers": {
+    "vita-health-coach": {
+      "url": "https://vitamedas.com/mcp"
+    }
+  }
+}

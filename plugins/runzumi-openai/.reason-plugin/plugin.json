@@ -1,0 +1,13 @@
+{
+  "name": "runzumi-openai",
+  "displayName": "Runzumi",
+  "description": "GitHub Actions runner insights.",
+  "homepage": "https://runzumi.com",
+  "docs": "https://runzumi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "runzumi-openai": {
+      "url": "https://mcp.runzumi.com/mcp"
+    }
+  }
+}

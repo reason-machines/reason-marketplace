@@ -1,0 +1,13 @@
+{
+  "name": "congrava",
+  "displayName": "Congrava",
+  "description": "Church management.",
+  "homepage": "https://congrava.com/",
+  "docs": "https://congrava.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "congrava": {
+      "url": "https://congrava.com/api/ai/mcp.php"
+    }
+  }
+}

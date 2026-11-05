@@ -1,0 +1,13 @@
+{
+  "name": "recallr-memory",
+  "displayName": "Recallr",
+  "description": "Search and save your memories.",
+  "homepage": "https://recallr-ai.org/",
+  "docs": "https://recallr-ai.org/",
+  "auth": "oauth",
+  "mcpServers": {
+    "recallr-memory": {
+      "url": "https://mcp.recallr-ai.org/mcp"
+    }
+  }
+}

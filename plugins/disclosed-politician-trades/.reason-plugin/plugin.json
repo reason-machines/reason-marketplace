@@ -1,0 +1,13 @@
+{
+  "name": "disclosed-politician-trades",
+  "displayName": "Disclosed: Politician Trades",
+  "description": "Congress stock trades.",
+  "homepage": "https://disclosedhq.com/connect",
+  "docs": "https://disclosedhq.com/connect",
+  "auth": "none",
+  "mcpServers": {
+    "disclosed-politician-trades": {
+      "url": "https://disclosedhq.com/mcp"
+    }
+  }
+}

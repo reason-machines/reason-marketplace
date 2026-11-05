@@ -1,0 +1,13 @@
+{
+  "name": "bcd-bridge-control-delegate",
+  "displayName": "BCD — Bridge Control Delegate",
+  "description": "Control your computer with AI.",
+  "homepage": "https://bcd.snack-wrap.com/",
+  "docs": "https://bcd.snack-wrap.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "bcd-bridge-control-delegate": {
+      "url": "https://bcd.snack-wrap.com/mcp"
+    }
+  }
+}

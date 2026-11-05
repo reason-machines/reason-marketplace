@@ -1,0 +1,13 @@
+{
+  "name": "ficturn",
+  "displayName": "FICTURN",
+  "description": "Short fiction inside Reason.",
+  "homepage": "https://ficturn.thomas-judes.workers.dev",
+  "docs": "https://ficturn.thomas-judes.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "ficturn": {
+      "url": "https://ficturn.thomas-judes.workers.dev/mcp"
+    }
+  }
+}

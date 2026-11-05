@@ -1,0 +1,13 @@
+{
+  "name": "suped",
+  "displayName": "Suped",
+  "description": "DMARC, SPF & DKIM Agent.",
+  "homepage": "https://www.suped.com",
+  "docs": "https://www.suped.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "suped": {
+      "url": "https://www.suped.com/api/mcp"
+    }
+  }
+}

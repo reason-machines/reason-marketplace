@@ -1,0 +1,13 @@
+{
+  "name": "convoke",
+  "displayName": "Convoke",
+  "description": "Explore biopharma intelligence.",
+  "homepage": "https://www.convoke.bio/",
+  "docs": "https://www.convoke.bio/",
+  "auth": "oauth",
+  "mcpServers": {
+    "convoke": {
+      "url": "https://mcp.convoke.bio/mcp"
+    }
+  }
+}

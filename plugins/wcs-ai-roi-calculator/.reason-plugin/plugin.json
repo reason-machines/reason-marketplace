@@ -1,0 +1,13 @@
+{
+  "name": "wcs-ai-roi-calculator",
+  "displayName": "AI ROI Calculator",
+  "description": "AI adoption value, calculated.",
+  "homepage": "https://wecallshotgun.com/ai-roi-calculator",
+  "docs": "https://wecallshotgun.com/ai-roi-calculator",
+  "auth": "none",
+  "mcpServers": {
+    "wcs-ai-roi-calculator": {
+      "url": "https://wecallshotgun.com/api/roi-mcp"
+    }
+  }
+}

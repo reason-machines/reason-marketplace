@@ -1,0 +1,13 @@
+{
+  "name": "nebty",
+  "displayName": "nebty",
+  "description": "Stop brand impersonation.",
+  "homepage": "https://nebty-id.com/en/nebty-mcp/",
+  "docs": "https://nebty-id.com/en/nebty-mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "nebty": {
+      "url": "https://mcp.nebty-id.com/mcp"
+    }
+  }
+}

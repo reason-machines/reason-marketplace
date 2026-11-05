@@ -1,0 +1,13 @@
+{
+  "name": "attest",
+  "displayName": "Attest by DataHubz",
+  "description": "E-signatures you can verify.",
+  "homepage": "https://attest.datahubz.com",
+  "docs": "https://attest.datahubz.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "attest": {
+      "url": "https://attest.datahubz.com/mcp"
+    }
+  }
+}

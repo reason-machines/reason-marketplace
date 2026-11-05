@@ -1,0 +1,13 @@
+{
+  "name": "timepeace-daily-log",
+  "displayName": "TimePeace — Daily Log",
+  "description": "Plan and log your life.",
+  "homepage": "https://timepeaceapp.com",
+  "docs": "https://timepeaceapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "timepeace-daily-log": {
+      "url": "https://mcp.timepeaceapp.com/mcp"
+    }
+  }
+}

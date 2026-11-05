@@ -1,0 +1,13 @@
+{
+  "name": "perceptionx",
+  "displayName": "PerceptionX",
+  "description": "AI Employer Brand Intelligence.",
+  "homepage": "https://www.perceptionx.ai/",
+  "docs": "https://www.perceptionx.ai/mcp-help",
+  "auth": "oauth",
+  "mcpServers": {
+    "perceptionx": {
+      "url": "https://app.perceptionx.ai/mcp"
+    }
+  }
+}

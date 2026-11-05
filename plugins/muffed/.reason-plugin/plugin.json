@@ -1,0 +1,13 @@
+{
+  "name": "muffed",
+  "displayName": "Muffed",
+  "description": "Look up verified NFL stats.",
+  "homepage": "https://muffed.ai",
+  "docs": "https://muffed.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "muffed": {
+      "url": "https://muffed.ai/api/mcp"
+    }
+  }
+}

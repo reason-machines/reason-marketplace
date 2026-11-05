@@ -1,0 +1,13 @@
+{
+  "name": "dijitalpilot-reelscribe",
+  "displayName": "ReelScribe",
+  "description": "Search supplied subtitles.",
+  "homepage": "https://reelscribe-dijitalpilot.vercel.app",
+  "docs": "https://reelscribe-dijitalpilot.vercel.app",
+  "auth": "none",
+  "mcpServers": {
+    "dijitalpilot-reelscribe": {
+      "url": "https://reelscribe-dijitalpilot.vercel.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dandelion-estate-planning",
+  "displayName": "Dandelion",
+  "description": "Estate planning, explained.",
+  "homepage": "https://joindandelion.com",
+  "docs": "https://joindandelion.com",
+  "auth": "none",
+  "mcpServers": {
+    "dandelion-estate-planning": {
+      "url": "https://mcp.joindandelion.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fax-anything-connector",
+  "displayName": "Fax Anything",
+  "description": "Send faxes from the chat.",
+  "homepage": "https://faxanything.com/how-it-works",
+  "docs": "https://faxanything.com/how-it-works",
+  "auth": "oauth",
+  "mcpServers": {
+    "fax-anything-connector": {
+      "url": "https://mcp.faxanything.com/mcp"
+    }
+  }
+}

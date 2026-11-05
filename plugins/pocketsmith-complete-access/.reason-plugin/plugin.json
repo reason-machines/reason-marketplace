@@ -1,0 +1,13 @@
+{
+  "name": "pocketsmith-complete-access",
+  "displayName": "PocketSmith Complete Access",
+  "description": "Manage personal finances.",
+  "homepage": "https://www.pocketsmith.com/",
+  "docs": "https://www.pocketsmith.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "pocketsmith-complete-access": {
+      "url": "https://mcp.pocketsmith.com/mcp"
+    }
+  }
+}

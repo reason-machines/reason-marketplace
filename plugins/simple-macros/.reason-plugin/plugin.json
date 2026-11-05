@@ -1,0 +1,13 @@
+{
+  "name": "simple-macros",
+  "displayName": "Simple Macros",
+  "description": "Track calories and macros.",
+  "homepage": "https://simplemacros.com",
+  "docs": "https://simplemacros.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "simple-macros": {
+      "url": "https://mcp.simplemacros.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bizblock",
+  "displayName": "BizBlock",
+  "description": "Book salons, spas and barbers.",
+  "homepage": "https://bizblock.io/connect",
+  "docs": "https://bizblock.io/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "bizblock": {
+      "url": "https://mcp.bizblock.io/mcp"
+    }
+  }
+}

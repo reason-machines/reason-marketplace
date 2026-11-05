@@ -1,0 +1,13 @@
+{
+  "name": "posteverywhere",
+  "displayName": "PostEverywhere",
+  "description": "Schedule social media posts.",
+  "homepage": "https://posteverywhere.ai",
+  "docs": "https://posteverywhere.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "posteverywhere": {
+      "url": "https://mcp.posteverywhere.ai/mcp"
+    }
+  }
+}

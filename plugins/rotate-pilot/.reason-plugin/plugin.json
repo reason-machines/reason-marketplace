@@ -1,0 +1,13 @@
+{
+  "name": "rotate-pilot",
+  "displayName": "Rotate Pilot",
+  "description": "FAA drone & pilot test prep.",
+  "homepage": "https://rotatepilot.com",
+  "docs": "https://rotatepilot.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "rotate-pilot": {
+      "url": "https://rotatepilot.com/api/mcp"
+    }
+  }
+}

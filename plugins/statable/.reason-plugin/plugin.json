@@ -1,0 +1,13 @@
+{
+  "name": "statable",
+  "displayName": "Statable",
+  "description": "Read and set up web analytics.",
+  "homepage": "https://statable.com",
+  "docs": "https://statable.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "statable": {
+      "url": "https://mcp.statable.com/mcp"
+    }
+  }
+}

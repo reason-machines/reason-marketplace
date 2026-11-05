@@ -1,0 +1,13 @@
+{
+  "name": "per-diem",
+  "displayName": "Per Diem",
+  "description": "Understand your money and FIRE.",
+  "homepage": "https://perdiem.app",
+  "docs": "https://tedix.dev/apps/per-diem/",
+  "auth": "oauth",
+  "mcpServers": {
+    "per-diem": {
+      "url": "https://api.perdiem.app/mcp"
+    }
+  }
+}

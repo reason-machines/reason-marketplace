@@ -1,0 +1,13 @@
+{
+  "name": "tawteen-360",
+  "displayName": "Tawteen 360",
+  "description": "Business insights and audits.",
+  "homepage": "https://tawteen360.com",
+  "docs": "https://tawteen360.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "tawteen-360": {
+      "url": "https://mcp.tawteen360.com/mcp"
+    }
+  }
+}

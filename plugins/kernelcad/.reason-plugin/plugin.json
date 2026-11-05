@@ -1,0 +1,13 @@
+{
+  "name": "kernelcad",
+  "displayName": "kernelCAD",
+  "description": "Plain English to CAD models.",
+  "homepage": "https://kernelcad.com",
+  "docs": "https://kernelcad.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "kernelcad": {
+      "url": "https://mcp.kernelcad.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ryanair",
+  "displayName": "Ryanair",
+  "description": "Book low fares direct.",
+  "homepage": "https://www.ryanair.com",
+  "docs": "https://www.ryanair.com",
+  "auth": "none",
+  "mcpServers": {
+    "ryanair": {
+      "url": "https://mcp.ryanair.com/mcp"
+    }
+  }
+}

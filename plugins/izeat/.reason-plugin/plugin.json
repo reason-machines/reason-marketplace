@@ -1,0 +1,13 @@
+{
+  "name": "izeat",
+  "displayName": "IZeat",
+  "description": "Calorie tracker you talk to.",
+  "homepage": "https://izeat.app",
+  "docs": "https://izeat.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "izeat": {
+      "url": "https://izeat.app/api/mcp"
+    }
+  }
+}

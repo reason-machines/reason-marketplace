@@ -1,0 +1,13 @@
+{
+  "name": "equation-io",
+  "displayName": "Equation.io",
+  "description": "Interactive 2D and 3D graphs.",
+  "homepage": "https://equation.io",
+  "docs": "https://equation.io",
+  "auth": "none",
+  "mcpServers": {
+    "equation-io": {
+      "url": "https://equation.io/mcp"
+    }
+  }
+}

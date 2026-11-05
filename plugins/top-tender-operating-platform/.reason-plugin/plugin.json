@@ -1,0 +1,13 @@
+{
+  "name": "top-tender-operating-platform",
+  "displayName": "TOP Tender Operating Platform",
+  "description": "Croatian procurement data.",
+  "homepage": "https://app.tender-op.com/",
+  "docs": "https://app.tender-op.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "top-tender-operating-platform": {
+      "url": "https://mcp.tender-op.com/mcp"
+    }
+  }
+}

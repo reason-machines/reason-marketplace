@@ -1,0 +1,13 @@
+{
+  "name": "hotel-please",
+  "displayName": "Hotel Please",
+  "description": "Boutique and design hotels.",
+  "homepage": "https://hotelplease.app",
+  "docs": "https://hotelplease.app",
+  "auth": "none",
+  "mcpServers": {
+    "hotel-please": {
+      "url": "https://hotelplease.app/mcp"
+    }
+  }
+}

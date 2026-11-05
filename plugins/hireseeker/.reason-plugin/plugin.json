@@ -1,0 +1,13 @@
+{
+  "name": "hireseeker",
+  "displayName": "HireSeeker",
+  "description": "Вакансии для русскоязычных.",
+  "homepage": "https://hireseeker.ru",
+  "docs": "https://hireseeker.ru",
+  "auth": "none",
+  "mcpServers": {
+    "hireseeker": {
+      "url": "https://hireseeker.ru/mcp"
+    }
+  }
+}

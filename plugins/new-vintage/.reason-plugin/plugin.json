@@ -1,0 +1,13 @@
+{
+  "name": "new-vintage",
+  "displayName": "New Vintage",
+  "description": "Your winery data in one place.",
+  "homepage": "https://www.newvintage.ai",
+  "docs": "https://www.newvintage.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "new-vintage": {
+      "url": "https://mcp.newvintage.ai/mcp"
+    }
+  }
+}

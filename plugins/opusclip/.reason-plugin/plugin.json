@@ -10,5 +10,49 @@
     "opusclip": {
       "url": "https://mcp.opus.pro/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "aip",
+      "description": "Create or update an editable AI Producer video. Use when someone provides footage or an existing project and asks AI Producer to cut or edit it, add captions or subtitles, motion graphics or animated effects, background music, or inserted images or video clips, restyle, export the finished video, or",
+      "source": "opus-pro/ai-producer-plugin#2db8782944b7c0f4fb2fa6395f60487ee743fc41",
+      "skill": "aip",
+      "url": "https://github.com/opus-pro/ai-producer-plugin/tree/2db8782944b7c0f4fb2fa6395f60487ee743fc41/plugins/aip/skills/aip"
+    },
+    {
+      "name": "aip-composition",
+      "description": "AI Producer-specific composition and editor contract. Read when using the AI Producer plugin to author its HTML workspace; not the general HyperFrames creation workflow.",
+      "source": "opus-pro/ai-producer-plugin#2db8782944b7c0f4fb2fa6395f60487ee743fc41",
+      "skill": "aip-composition",
+      "url": "https://github.com/opus-pro/ai-producer-plugin/tree/2db8782944b7c0f4fb2fa6395f60487ee743fc41/plugins/aip/skills/aip-composition"
+    },
+    {
+      "name": "aip-dynamic-caption",
+      "description": "Write an AI Producer project's captions as caption moments: static text the user can select, retype and restyle in the editor, timed to the cut by a script. How to time and mount them, the default look, and what keeps them legible. Listed, it makes captions the default.",
+      "source": "opus-pro/ai-producer-plugin#2db8782944b7c0f4fb2fa6395f60487ee743fc41",
+      "skill": "aip-dynamic-caption",
+      "url": "https://github.com/opus-pro/ai-producer-plugin/tree/2db8782944b7c0f4fb2fa6395f60487ee743fc41/plugins/aip/skills/aip-dynamic-caption"
+    },
+    {
+      "name": "aip-framing",
+      "description": "Frame the speaker for an AI Producer project. Read once before authoring the root layout: pick the canvas first, then who owns the frame for each beat (the speaker, the footage, or the canvas), and for each of the three layouts (seat, overlay, and full cover) the forms it offers, where that canvas l",
+      "source": "opus-pro/ai-producer-plugin#2db8782944b7c0f4fb2fa6395f60487ee743fc41",
+      "skill": "aip-framing",
+      "url": "https://github.com/opus-pro/ai-producer-plugin/tree/2db8782944b7c0f4fb2fa6395f60487ee743fc41/plugins/aip/skills/aip-framing"
+    },
+    {
+      "name": "aip-reference-style",
+      "description": "Copy a reference video's captions, motion graphics and transitions onto the user's own AI Producer edit. Use when the user supplies a reference video file, a link to one on Instagram, TikTok or YouTube, images of a style, or picks or names one of the preset reference styles, here or on the AI Produc",
+      "source": "opus-pro/ai-producer-plugin#2db8782944b7c0f4fb2fa6395f60487ee743fc41",
+      "skill": "aip-reference-style",
+      "url": "https://github.com/opus-pro/ai-producer-plugin/tree/2db8782944b7c0f4fb2fa6395f60487ee743fc41/plugins/aip/skills/aip-reference-style"
+    },
+    {
+      "name": "aip-setup",
+      "description": "Set up AI Producer: connect the user's account, confirm the connection works, and start their first project from one video. Use only when the user chooses Set up for AI Producer, asks to get started with AI Producer or to continue AI Producer setup, or asks for help signing in to or connecting AI Pr",
+      "source": "opus-pro/ai-producer-plugin#2db8782944b7c0f4fb2fa6395f60487ee743fc41",
+      "skill": "aip-setup",
+      "url": "https://github.com/opus-pro/ai-producer-plugin/tree/2db8782944b7c0f4fb2fa6395f60487ee743fc41/plugins/aip/skills/aip-setup"
+    }
+  ]
 }

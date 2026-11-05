@@ -1,0 +1,13 @@
+{
+  "name": "thesignup",
+  "displayName": "TheSignup",
+  "description": "Organize volunteer signups.",
+  "homepage": "https://thesignup.app",
+  "docs": "https://thesignup.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "thesignup": {
+      "url": "https://thesignup.app/mcp"
+    }
+  }
+}

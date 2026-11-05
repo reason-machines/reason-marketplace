@@ -1,0 +1,13 @@
+{
+  "name": "renewalclock",
+  "displayName": "Renewal Deadline Planner",
+  "description": "Plan renewal notice dates.",
+  "homepage": "https://renewalclock-mcp.sunrysetech.com/",
+  "docs": "https://renewalclock-mcp.sunrysetech.com/",
+  "auth": "none",
+  "mcpServers": {
+    "renewalclock": {
+      "url": "https://renewalclock-mcp.sunrysetech.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "klardaten-datev-connector",
+  "displayName": "Klardaten DATEV-Connector",
+  "description": "Controlled access to DATEV.",
+  "homepage": "https://klardaten.com",
+  "docs": "https://klardaten.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "klardaten-datev-connector": {
+      "url": "https://api.klardaten.com/mcp"
+    }
+  }
+}

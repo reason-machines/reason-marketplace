@@ -1,0 +1,13 @@
+{
+  "name": "savehealth",
+  "displayName": "SaveHealth",
+  "description": "Up to 90% savings on meds.",
+  "homepage": "https://savehealth.com/",
+  "docs": "https://savehealth.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "savehealth": {
+      "url": "https://mcp.savehealth.com/mcp"
+    }
+  }
+}

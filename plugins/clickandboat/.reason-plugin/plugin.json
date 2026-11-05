@@ -1,0 +1,13 @@
+{
+  "name": "clickandboat",
+  "displayName": "Click&Boat",
+  "description": "Find and book boat rentals.",
+  "homepage": "https://www.clickandboat.com",
+  "docs": "https://clickandboat.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "clickandboat": {
+      "url": "https://www.clickandboat.com/mcp"
+    }
+  }
+}

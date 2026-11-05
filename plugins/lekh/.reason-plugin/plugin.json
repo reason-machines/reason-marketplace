@@ -1,0 +1,13 @@
+{
+  "name": "lekh",
+  "displayName": "Lekh",
+  "description": "Draw and edit diagrams.",
+  "homepage": "https://lekh.app",
+  "docs": "https://api.lekh.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "lekh": {
+      "url": "https://api.lekh.app/mcp"
+    }
+  }
+}

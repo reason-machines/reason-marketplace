@@ -1,0 +1,13 @@
+{
+  "name": "msds-chain",
+  "displayName": "MSDS Chain",
+  "description": "Chemical safety for lab work.",
+  "homepage": "https://msdschain.lagentbot.com",
+  "docs": "https://msdschain.lagentbot.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "msds-chain": {
+      "url": "https://mcp.lagentbot.com/mcp"
+    }
+  }
+}

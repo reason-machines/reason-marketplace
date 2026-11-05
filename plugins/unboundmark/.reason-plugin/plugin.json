@@ -1,0 +1,13 @@
+{
+  "name": "unboundmark",
+  "displayName": "UnboundMark",
+  "description": "Manage notes, tasks and events.",
+  "homepage": "https://unboundmark.com",
+  "docs": "https://unboundmark.com/docs/mcp-agents/",
+  "auth": "oauth",
+  "mcpServers": {
+    "unboundmark": {
+      "url": "https://app.unboundmark.com/mcp"
+    }
+  }
+}

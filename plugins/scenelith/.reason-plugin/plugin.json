@@ -1,0 +1,13 @@
+{
+  "name": "scenelith",
+  "displayName": "Scenelith",
+  "description": "Create images and videos.",
+  "homepage": "https://scenelith.com",
+  "docs": "https://scenelith.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "scenelith": {
+      "url": "https://scenelith.com/api/mcp"
+    }
+  }
+}

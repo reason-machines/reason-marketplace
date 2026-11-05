@@ -1,0 +1,13 @@
+{
+  "name": "postdashpro",
+  "displayName": "PostDashPro",
+  "description": "Social post scheduling.",
+  "homepage": "https://postdashpro.com",
+  "docs": "https://postdashpro.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "postdashpro": {
+      "url": "https://postdashpro.com/api/mcp"
+    }
+  }
+}

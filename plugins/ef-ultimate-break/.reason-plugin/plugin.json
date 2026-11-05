@@ -1,0 +1,13 @@
+{
+  "name": "ef-ultimate-break",
+  "displayName": "EF Ultimate Break",
+  "description": "Find group travel for 18-35s.",
+  "homepage": "https://www.efultimatebreak.com/",
+  "docs": "https://www.efultimatebreak.com/",
+  "auth": "none",
+  "mcpServers": {
+    "ef-ultimate-break": {
+      "url": "https://mcp.efultimatebreak.com/mcp"
+    }
+  }
+}

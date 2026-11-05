@@ -1,0 +1,13 @@
+{
+  "name": "agora",
+  "displayName": "Agora",
+  "description": "Manage Agora agents and skills.",
+  "homepage": "https://agoraintel.com",
+  "docs": "https://agoraintel.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "agora": {
+      "url": "https://mcp.agoraintel.com/mcp"
+    }
+  }
+}

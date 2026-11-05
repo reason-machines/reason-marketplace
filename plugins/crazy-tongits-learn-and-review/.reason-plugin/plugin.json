@@ -1,0 +1,13 @@
+{
+  "name": "crazy-tongits-learn-and-review",
+  "displayName": "Crazy Tongits – Learn & Review",
+  "description": "Learn Tongits, step by step.",
+  "homepage": "https://ct.crazylive.cc/",
+  "docs": "https://ct.crazylive.cc/",
+  "auth": "none",
+  "mcpServers": {
+    "crazy-tongits-learn-and-review": {
+      "url": "https://ct.crazylive.cc/mcp"
+    }
+  }
+}

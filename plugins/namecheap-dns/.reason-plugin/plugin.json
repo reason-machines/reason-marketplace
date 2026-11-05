@@ -1,0 +1,13 @@
+{
+  "name": "namecheap-dns",
+  "displayName": "DNS Pilot",
+  "description": "Check DNS. Inspect samples.",
+  "homepage": "https://dns-pilot.cuelayer.workers.dev",
+  "docs": "https://dns-pilot.cuelayer.workers.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "namecheap-dns": {
+      "url": "https://dns-pilot.cuelayer.workers.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vesseltwin",
+  "displayName": "VesselTwin",
+  "description": "Ask about your boat records.",
+  "homepage": "https://www.vesseltwin.io/",
+  "docs": "https://api.vesseltwin.io/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "vesseltwin": {
+      "url": "https://api.vesseltwin.io/mcp"
+    }
+  }
+}

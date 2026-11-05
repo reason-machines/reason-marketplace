@@ -1,0 +1,13 @@
+{
+  "name": "connectmeguru-esim",
+  "displayName": "ConnectMeGuru eSIM",
+  "description": "Find global travel eSIM plans.",
+  "homepage": "https://www.connectmeguru.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.vineetgoyalhuf/connectmeguru-mcp",
+  "auth": "none",
+  "mcpServers": {
+    "connectmeguru-esim": {
+      "url": "https://connectmeguru.com/api/mcp"
+    }
+  }
+}

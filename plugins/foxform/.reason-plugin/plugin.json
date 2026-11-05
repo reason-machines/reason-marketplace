@@ -1,0 +1,13 @@
+{
+  "name": "foxform",
+  "displayName": "FoxForm",
+  "description": "Build scored forms and quizzes.",
+  "homepage": "https://foxform.app",
+  "docs": "https://foxform.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "foxform": {
+      "url": "https://mcp.foxform.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "readplace",
+  "displayName": "Readplace",
+  "description": "Save links to read later.",
+  "homepage": "https://readplace.com/",
+  "docs": "https://readplace.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "readplace": {
+      "url": "https://readplace.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hepapal",
+  "displayName": "HepaPal",
+  "description": "Track drinking gently.",
+  "homepage": "https://www.hepapal.net/",
+  "docs": "https://www.hepapal.net/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hepapal": {
+      "url": "https://hepapal.net/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mmm-labs",
+  "displayName": "MMM Labs",
+  "description": "Marketing mix modeling & ROI.",
+  "homepage": "https://mmmlabs.ai",
+  "docs": "https://mmmlabs.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "mmm-labs": {
+      "url": "https://mcp.mmmlabs.ai/mcp"
+    }
+  }
+}

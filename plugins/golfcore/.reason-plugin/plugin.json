@@ -1,0 +1,13 @@
+{
+  "name": "golfcore",
+  "displayName": "GolfCore",
+  "description": "Your on-course golf assistant.",
+  "homepage": "https://www.golfcore.org/developers/",
+  "docs": "https://www.golfcore.org/developers/",
+  "auth": "none",
+  "mcpServers": {
+    "golfcore": {
+      "url": "https://mcp.golfcore.org/mcp"
+    }
+  }
+}

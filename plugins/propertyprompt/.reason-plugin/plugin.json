@@ -1,0 +1,13 @@
+{
+  "name": "propertyprompt",
+  "displayName": "PropertyPrompt",
+  "description": "Floor plans to furnished 3D.",
+  "homepage": "https://propertyprom.pt",
+  "docs": "https://propertyprom.pt",
+  "auth": "oauth",
+  "mcpServers": {
+    "propertyprompt": {
+      "url": "https://propertyprom.pt/mcp"
+    }
+  }
+}

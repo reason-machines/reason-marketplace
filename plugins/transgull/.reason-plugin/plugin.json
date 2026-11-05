@@ -1,0 +1,13 @@
+{
+  "name": "transgull",
+  "displayName": "TransGull",
+  "description": "Translate online meetings.",
+  "homepage": "https://transgull.com",
+  "docs": "https://us2.transgull.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "transgull": {
+      "url": "https://us2.transgull.com/mcp"
+    }
+  }
+}

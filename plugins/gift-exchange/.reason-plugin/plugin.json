@@ -1,0 +1,13 @@
+{
+  "name": "gift-exchange",
+  "displayName": "DrawKind Secret Santa",
+  "description": "Private Secret Santa draws.",
+  "homepage": "https://gift-exchange.zovo.one",
+  "docs": "https://gift-exchange.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "gift-exchange": {
+      "url": "https://gift-exchange.zovo.one/mcp"
+    }
+  }
+}

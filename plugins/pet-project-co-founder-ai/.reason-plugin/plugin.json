@@ -1,0 +1,13 @@
+{
+  "name": "pet-project-co-founder-ai",
+  "displayName": "Pet Project Co-Founder AI",
+  "description": "Validate Ideas with Real Data.",
+  "homepage": "https://petprojectcofounder.ai",
+  "docs": "https://petprojectcofounder.ai",
+  "auth": "none",
+  "mcpServers": {
+    "pet-project-co-founder-ai": {
+      "url": "https://petprojectcofounder.ai/mcp"
+    }
+  }
+}

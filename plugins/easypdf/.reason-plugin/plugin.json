@@ -1,0 +1,13 @@
+{
+  "name": "easypdf",
+  "displayName": "EasyPDF",
+  "description": "Edit, compress and merge PDFs.",
+  "homepage": "https://www.easypdf.fr",
+  "docs": "https://easypdf.fr/mcp-docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "easypdf": {
+      "url": "https://www.easypdf.fr/mcp/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "simsasplit",
+  "displayName": "SimsaSplit",
+  "description": "Split group expenses.",
+  "homepage": "https://simsasplit.simsala.dev/",
+  "docs": "https://tedix.dev/apps/simsasplit/",
+  "auth": "oauth",
+  "mcpServers": {
+    "simsasplit": {
+      "url": "https://simsasplit.simsala.dev/mcp"
+    }
+  }
+}

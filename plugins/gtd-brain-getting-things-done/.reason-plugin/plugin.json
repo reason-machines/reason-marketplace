@@ -1,0 +1,13 @@
+{
+  "name": "gtd-brain-getting-things-done",
+  "displayName": "GTD Brain: Getting Things Done",
+  "description": "Manage your GTD board in chat.",
+  "homepage": "https://gtdbrain.com",
+  "docs": "https://gtdbrain.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "gtd-brain-getting-things-done": {
+      "url": "https://mcp.gtdbrain.com/api/gtdbrain/v1/mcp"
+    }
+  }
+}

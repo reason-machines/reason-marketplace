@@ -1,0 +1,13 @@
+{
+  "name": "the-fly-market-intelligence",
+  "displayName": "The Fly Market Intelligence",
+  "description": "Market research and news.",
+  "homepage": "https://mcp.thefly.com/",
+  "docs": "https://mcp.thefly.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "the-fly-market-intelligence": {
+      "url": "https://mcp.thefly.com/chatgpt/mcp"
+    }
+  }
+}

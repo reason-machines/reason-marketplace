@@ -1,0 +1,13 @@
+{
+  "name": "resume-io",
+  "displayName": "Resume.io",
+  "description": "Resumes and cover letters.",
+  "homepage": "https://resume.io",
+  "docs": "https://resume.io",
+  "auth": "none",
+  "mcpServers": {
+    "resume-io": {
+      "url": "https://mcp.resume.io/"
+    }
+  }
+}

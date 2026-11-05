@@ -1,0 +1,13 @@
+{
+  "name": "better-analyst-pdf-to-excel",
+  "displayName": "Better Analyst PDF to Excel",
+  "description": "Turn PDF tables into Excel.",
+  "homepage": "https://betteranalyst.com/pdf-to-excel-ai",
+  "docs": "https://betteranalyst.com/pdf-to-excel-ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "better-analyst-pdf-to-excel": {
+      "url": "https://app.betteranalyst.com/api/mcp/connector"
+    }
+  }
+}

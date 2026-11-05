@@ -1,0 +1,13 @@
+{
+  "name": "asyntai",
+  "displayName": "Asyntai",
+  "description": "AI support agent for websites.",
+  "homepage": "https://asyntai.com",
+  "docs": "https://asyntai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "asyntai": {
+      "url": "https://asyntai.com/mcp"
+    }
+  }
+}

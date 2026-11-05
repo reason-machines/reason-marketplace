@@ -1,0 +1,13 @@
+{
+  "name": "vyrl",
+  "displayName": "Vyrl",
+  "description": "Canvases and callable Flows.",
+  "homepage": "https://vyrl.pro",
+  "docs": "https://vyrl.pro/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "vyrl": {
+      "url": "https://vyrl.pro/api/mcp"
+    }
+  }
+}

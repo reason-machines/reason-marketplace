@@ -1,0 +1,13 @@
+{
+  "name": "mailtwine",
+  "displayName": "Mailtwine",
+  "description": "Read your triaged email.",
+  "homepage": "https://mailtwine.com",
+  "docs": "https://mailtwine.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mailtwine": {
+      "url": "https://mcp.mailtwine.com/mcp"
+    }
+  }
+}

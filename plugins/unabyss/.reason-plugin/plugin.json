@@ -1,0 +1,13 @@
+{
+  "name": "unabyss",
+  "displayName": "Unabyss",
+  "description": "Your context layer for AI.",
+  "homepage": "https://unabyss.com/",
+  "docs": "https://unabyss.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "unabyss": {
+      "url": "https://mcp.unabyss.com/mcp"
+    }
+  }
+}

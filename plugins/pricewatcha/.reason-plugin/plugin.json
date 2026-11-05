@@ -1,0 +1,13 @@
+{
+  "name": "pricewatcha",
+  "displayName": "Pricewatcha",
+  "description": "Product price analytics.",
+  "homepage": "https://pricewatcha.com",
+  "docs": "https://pricewatcha.com",
+  "auth": "none",
+  "mcpServers": {
+    "pricewatcha": {
+      "url": "https://mcp.pricewatcha.com/mcp"
+    }
+  }
+}

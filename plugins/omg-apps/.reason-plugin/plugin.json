@@ -1,0 +1,13 @@
+{
+  "name": "omg-apps",
+  "displayName": "omg apps",
+  "description": "Build and share apps by link.",
+  "homepage": "https://omg.dev",
+  "docs": "https://omg.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "omg-apps": {
+      "url": "https://mcp.omg.dev/mcp"
+    }
+  }
+}

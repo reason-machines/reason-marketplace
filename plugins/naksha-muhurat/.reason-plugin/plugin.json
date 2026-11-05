@@ -1,0 +1,13 @@
+{
+  "name": "naksha-muhurat",
+  "displayName": "Naksha Muhurat",
+  "description": "Muhurat.",
+  "homepage": "https://naksha.social",
+  "docs": "https://naksha.social",
+  "auth": "none",
+  "mcpServers": {
+    "naksha-muhurat": {
+      "url": "https://mcp.naksha.social/mcp"
+    }
+  }
+}

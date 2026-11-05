@@ -1,0 +1,13 @@
+{
+  "name": "suparelay",
+  "displayName": "Suparelay",
+  "description": "International calls from chat.",
+  "homepage": "https://suparelay.app/ai/apps",
+  "docs": "https://suparelay.app/ai/apps",
+  "auth": "none",
+  "mcpServers": {
+    "suparelay": {
+      "url": "https://suparelay.app/mcp"
+    }
+  }
+}

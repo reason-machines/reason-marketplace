@@ -1,0 +1,13 @@
+{
+  "name": "shapesoda",
+  "displayName": "Shapesoda",
+  "description": "Turn images into clean SVG.",
+  "homepage": "https://shapesoda.com",
+  "docs": "https://shapesoda.com",
+  "auth": "none",
+  "mcpServers": {
+    "shapesoda": {
+      "url": "https://shapesoda.com/mcp"
+    }
+  }
+}

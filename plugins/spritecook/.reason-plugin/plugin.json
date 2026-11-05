@@ -1,0 +1,13 @@
+{
+  "name": "spritecook",
+  "displayName": "SpriteCook",
+  "description": "Create and animate game art.",
+  "homepage": "https://spritecook.ai",
+  "docs": "https://spritecook.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "spritecook": {
+      "url": "https://mcp.spritecook.ai/mcp"
+    }
+  }
+}

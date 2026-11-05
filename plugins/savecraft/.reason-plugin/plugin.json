@@ -1,0 +1,13 @@
+{
+  "name": "savecraft",
+  "displayName": "Savecraft",
+  "description": "Analyze saves and coach builds.",
+  "homepage": "https://savecraft.gg",
+  "docs": "https://savecraft.gg",
+  "auth": "oauth",
+  "mcpServers": {
+    "savecraft": {
+      "url": "https://mcp.savecraft.gg/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "przetargowy-janusz",
+  "displayName": "Przetargowy Janusz",
+  "description": "Polish public tenders.",
+  "homepage": "https://przetargowyjanusz.pl",
+  "docs": "https://przetargowyjanusz.pl",
+  "auth": "oauth",
+  "mcpServers": {
+    "przetargowy-janusz": {
+      "url": "https://przetargowyjanusz.pl/mcp"
+    }
+  }
+}

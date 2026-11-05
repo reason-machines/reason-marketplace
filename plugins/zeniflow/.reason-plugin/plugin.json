@@ -1,0 +1,13 @@
+{
+  "name": "zeniflow",
+  "displayName": "ZeniFlow",
+  "description": "Track spending and budgets.",
+  "homepage": "https://zeniflow.app",
+  "docs": "https://zeniflow.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "zeniflow": {
+      "url": "https://mcp.zeniflow.app/mcp"
+    }
+  }
+}

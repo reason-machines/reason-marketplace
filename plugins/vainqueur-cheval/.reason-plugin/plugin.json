@@ -1,0 +1,13 @@
+{
+  "name": "vainqueur-cheval",
+  "displayName": "Vainqueur Cheval",
+  "description": "Configure equestrian jackets.",
+  "homepage": "https://vainqueurcheval.com/",
+  "docs": "https://vainqueurcheval.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "vainqueur-cheval": {
+      "url": "https://vainqueurcheval.com/api/commerce/v1/mcp.php"
+    }
+  }
+}

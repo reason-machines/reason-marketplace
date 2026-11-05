@@ -1,0 +1,13 @@
+{
+  "name": "omnia",
+  "displayName": "Omnia",
+  "description": "Your GEO companion.",
+  "homepage": "https://www.useomnia.com",
+  "docs": "https://www.useomnia.com/omnia-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "omnia": {
+      "url": "https://app.useomnia.com/mcp"
+    }
+  }
+}

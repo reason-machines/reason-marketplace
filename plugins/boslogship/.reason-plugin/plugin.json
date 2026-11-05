@@ -1,0 +1,13 @@
+{
+  "name": "boslogship",
+  "displayName": "BoslogShip",
+  "description": "Compare US parcel rates.",
+  "homepage": "https://boslogship.com",
+  "docs": "https://boslogship.com",
+  "auth": "none",
+  "mcpServers": {
+    "boslogship": {
+      "url": "https://mcp.boslogship.com/mcp"
+    }
+  }
+}

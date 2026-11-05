@@ -1,0 +1,13 @@
+{
+  "name": "positionguard",
+  "displayName": "PositionGuard",
+  "description": "Presence with privacy controls.",
+  "homepage": "https://positionguardai.com",
+  "docs": "https://positionguardai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "positionguard": {
+      "url": "https://mcp.positionguardai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "strikerapi",
+  "displayName": "StrikerAPI",
+  "description": "Soccer data and stats.",
+  "homepage": "https://strikerapi.com",
+  "docs": "https://strikerapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "strikerapi": {
+      "url": "https://mcp.strikerapi.com/mcp"
+    }
+  }
+}

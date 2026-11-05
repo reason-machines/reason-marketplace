@@ -1,0 +1,13 @@
+{
+  "name": "durabull",
+  "displayName": "Durabull: BullMQ & Redis Admin",
+  "description": "Manage queues. Retry jobs.",
+  "homepage": "https://durabull.io",
+  "docs": "https://durabull.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "durabull": {
+      "url": "https://app.durabull.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dochost-io",
+  "displayName": "dochost.io",
+  "description": "Publish shareable pages.",
+  "homepage": "https://dochost.io",
+  "docs": "https://dochost.io/blog/how-to-unpublish-a-claude-artifact",
+  "auth": "oauth",
+  "mcpServers": {
+    "dochost-io": {
+      "url": "https://dochost.io/api/mcp"
+    }
+  }
+}

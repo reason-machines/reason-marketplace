@@ -1,0 +1,13 @@
+{
+  "name": "revensi",
+  "displayName": "Revensi",
+  "description": "Build agents from blueprints.",
+  "homepage": "https://revensi.com",
+  "docs": "https://revensi.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "revensi": {
+      "url": "https://app.revensi.com/mcp/"
+    }
+  }
+}

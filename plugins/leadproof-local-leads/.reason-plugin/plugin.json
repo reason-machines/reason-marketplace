@@ -1,0 +1,13 @@
+{
+  "name": "leadproof-local-leads",
+  "displayName": "LeadProof: Local Leads",
+  "description": "Business and people research.",
+  "homepage": "https://leadproof.co/",
+  "docs": "https://leadproof.co/",
+  "auth": "none",
+  "mcpServers": {
+    "leadproof-local-leads": {
+      "url": "https://leadproof.co/mcp"
+    }
+  }
+}

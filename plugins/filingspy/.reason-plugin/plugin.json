@@ -1,0 +1,13 @@
+{
+  "name": "filingspy",
+  "displayName": "FilingSpy",
+  "description": "SEC filings, funds & insiders.",
+  "homepage": "https://filingspy.com",
+  "docs": "https://filingspy.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "filingspy": {
+      "url": "https://filingspy.com/api/mcp/demo"
+    }
+  }
+}

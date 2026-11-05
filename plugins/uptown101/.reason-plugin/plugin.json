@@ -1,0 +1,13 @@
+{
+  "name": "uptown101",
+  "displayName": "Uptown101",
+  "description": "Texas apartments & guides.",
+  "homepage": "https://uptown101.com",
+  "docs": "https://uptown101.com",
+  "auth": "none",
+  "mcpServers": {
+    "uptown101": {
+      "url": "https://uptown101.com/mcp"
+    }
+  }
+}

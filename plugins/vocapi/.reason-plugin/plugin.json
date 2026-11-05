@@ -1,0 +1,13 @@
+{
+  "name": "vocapi",
+  "displayName": "Vocapi",
+  "description": "Save vocabulary as flashcards.",
+  "homepage": "https://www.vocapi.xyz",
+  "docs": "https://www.vocapi.xyz",
+  "auth": "oauth",
+  "mcpServers": {
+    "vocapi": {
+      "url": "https://vocapi.xyz/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pazy",
+  "displayName": "Pazy",
+  "description": "Find your funeral plan.",
+  "homepage": "https://www.pazy.es",
+  "docs": "https://tedix.dev/apps/pazy/",
+  "auth": "none",
+  "mcpServers": {
+    "pazy": {
+      "url": "https://pazy-mcp-vercel.vercel.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dibatto",
+  "displayName": "Dibatto",
+  "description": "Prepare your next episode.",
+  "homepage": "https://dibatto.com",
+  "docs": "https://dibatto.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dibatto": {
+      "url": "https://dibatto.com/mcp"
+    }
+  }
+}

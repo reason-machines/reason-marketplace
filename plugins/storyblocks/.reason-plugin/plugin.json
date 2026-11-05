@@ -1,0 +1,13 @@
+{
+  "name": "storyblocks",
+  "displayName": "Storyblocks",
+  "description": "Discover stock media.",
+  "homepage": "https://www.storyblocks.com",
+  "docs": "https://www.storyblocks.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "storyblocks": {
+      "url": "https://mcp.storyblocks.com/mcp"
+    }
+  }
+}

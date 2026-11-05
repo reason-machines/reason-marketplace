@@ -1,0 +1,13 @@
+{
+  "name": "kdp-coloring-book",
+  "displayName": "KDP Coloring Book Studio",
+  "description": "Create coloring book interiors.",
+  "homepage": "https://kdpcoloringbook.com/en",
+  "docs": "https://kdpcoloringbook.com/en/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "kdp-coloring-book": {
+      "url": "https://api.kdpcoloringbook.com/mcp/"
+    }
+  }
+}

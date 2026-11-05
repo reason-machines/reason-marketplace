@@ -1,0 +1,13 @@
+{
+  "name": "collegeseats",
+  "displayName": "CollegeSeats",
+  "description": "College sports resale tickets.",
+  "homepage": "https://collegeseats.com",
+  "docs": "https://collegeseats.com",
+  "auth": "none",
+  "mcpServers": {
+    "collegeseats": {
+      "url": "https://collegeseats.com/mcp"
+    }
+  }
+}

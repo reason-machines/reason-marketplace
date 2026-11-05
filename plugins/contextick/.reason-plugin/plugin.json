@@ -1,0 +1,13 @@
+{
+  "name": "contextick",
+  "displayName": "Contextick",
+  "description": "Save once, recall in any AI.",
+  "homepage": "https://contextick.ai",
+  "docs": "https://contextick.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "contextick": {
+      "url": "https://contextick.ai/mcp"
+    }
+  }
+}

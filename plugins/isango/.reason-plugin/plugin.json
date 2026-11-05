@@ -1,0 +1,13 @@
+{
+  "name": "isango",
+  "displayName": "isango!",
+  "description": "Discover tours and activities.",
+  "homepage": "https://www.isango.com",
+  "docs": "https://www.isango.com",
+  "auth": "none",
+  "mcpServers": {
+    "isango": {
+      "url": "https://mcp.isango.com/mcp"
+    }
+  }
+}

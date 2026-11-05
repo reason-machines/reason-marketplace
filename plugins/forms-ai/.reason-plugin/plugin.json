@@ -1,0 +1,13 @@
+{
+  "name": "forms-ai",
+  "displayName": "Forms AI",
+  "description": "Create surveys and quizzes.",
+  "homepage": "https://gpt.space/forms/chatgpt-forms-maker",
+  "docs": "https://gpt.space/forms/chatgpt-forms-maker",
+  "auth": "oauth",
+  "mcpServers": {
+    "forms-ai": {
+      "url": "https://api.gpt.space/servers/google-forms/mcp"
+    }
+  }
+}

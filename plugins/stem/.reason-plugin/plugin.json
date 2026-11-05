@@ -1,0 +1,13 @@
+{
+  "name": "stem",
+  "displayName": "Stem",
+  "description": "Connect your AIs to one brain.",
+  "homepage": "https://awase.dev",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=dev.awase/stem",
+  "auth": "oauth",
+  "mcpServers": {
+    "stem": {
+      "url": "https://awase.dev/stem"
+    }
+  }
+}

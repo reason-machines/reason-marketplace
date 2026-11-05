@@ -1,0 +1,13 @@
+{
+  "name": "agent-swarm",
+  "displayName": "Agent Swarm",
+  "description": "Run your self-hosted swarm.",
+  "homepage": "https://agent-swarm.dev",
+  "docs": "https://agent-swarm.dev",
+  "auth": "none",
+  "mcpServers": {
+    "agent-swarm": {
+      "url": "https://mcp.agent-swarm.dev/mcp"
+    }
+  }
+}

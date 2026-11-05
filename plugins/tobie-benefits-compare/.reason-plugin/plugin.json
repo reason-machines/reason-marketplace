@@ -1,0 +1,13 @@
+{
+  "name": "tobie-benefits-compare",
+  "displayName": "Tobie Benefits Compare",
+  "description": "Compare health plan costs.",
+  "homepage": "https://plugins.tobie.team/benefits-compare",
+  "docs": "https://plugins.tobie.team/benefits-compare",
+  "auth": "none",
+  "mcpServers": {
+    "tobie-benefits-compare": {
+      "url": "https://plugins.tobie.team/mcp/benefits-compare"
+    }
+  }
+}

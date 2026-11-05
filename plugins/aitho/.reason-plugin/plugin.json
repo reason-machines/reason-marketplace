@@ -1,0 +1,13 @@
+{
+  "name": "aitho",
+  "displayName": "Aitho",
+  "description": "Rehearse with your own slides.",
+  "homepage": "https://aitho.app",
+  "docs": "https://aitho.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "aitho": {
+      "url": "https://present.aitho.app/mcp"
+    }
+  }
+}

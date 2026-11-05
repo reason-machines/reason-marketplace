@@ -1,0 +1,13 @@
+{
+  "name": "flathunt",
+  "displayName": "FlatHunt",
+  "description": "Furnished housing in Berlin.",
+  "homepage": "https://flat-hunt.com",
+  "docs": "https://flat-hunt.com",
+  "auth": "none",
+  "mcpServers": {
+    "flathunt": {
+      "url": "https://mcp.flat-hunt.com/mcp"
+    }
+  }
+}

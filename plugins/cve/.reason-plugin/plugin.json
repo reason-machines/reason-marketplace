@@ -1,0 +1,13 @@
+{
+  "name": "cve",
+  "displayName": "CVE Risk Check",
+  "description": "CVE and dependency triage.",
+  "homepage": "https://tools.openkrill.app/",
+  "docs": "https://tools.openkrill.app/",
+  "auth": "none",
+  "mcpServers": {
+    "cve": {
+      "url": "https://cve.openkrill.app/mcp"
+    }
+  }
+}

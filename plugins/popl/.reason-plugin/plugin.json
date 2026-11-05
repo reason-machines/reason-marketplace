@@ -1,0 +1,13 @@
+{
+  "name": "popl",
+  "displayName": "Popl",
+  "description": "Enrich and analyze event data.",
+  "homepage": "https://popl.co",
+  "docs": "https://popl.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "popl": {
+      "url": "https://mcp.popl.co/mcp"
+    }
+  }
+}

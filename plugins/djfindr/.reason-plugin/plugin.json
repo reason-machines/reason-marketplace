@@ -1,0 +1,13 @@
+{
+  "name": "djfindr",
+  "displayName": "DJfindr",
+  "description": "Find and book DJs near you.",
+  "homepage": "https://djfindr.com",
+  "docs": "https://djfindr.com",
+  "auth": "none",
+  "mcpServers": {
+    "djfindr": {
+      "url": "https://mcp.djfindr.com/mcp"
+    }
+  }
+}

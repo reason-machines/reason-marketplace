@@ -1,0 +1,13 @@
+{
+  "name": "proud-indian",
+  "displayName": "Proud Indian",
+  "description": "Volunteer with Proud Indian.",
+  "homepage": "https://proudindian.ngo",
+  "docs": "https://proudindian.ngo/assistants/",
+  "auth": "none",
+  "mcpServers": {
+    "proud-indian": {
+      "url": "https://dash.proudindian.ngo/api/mcp"
+    }
+  }
+}

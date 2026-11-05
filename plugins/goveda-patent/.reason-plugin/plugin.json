@@ -1,0 +1,13 @@
+{
+  "name": "goveda-patent",
+  "displayName": "GoVeda Patent",
+  "description": "Search and analyze patents.",
+  "homepage": "https://www.goveda.com",
+  "docs": "https://www.goveda.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "goveda-patent": {
+      "url": "https://mcp.goveda.com/mcp"
+    }
+  }
+}

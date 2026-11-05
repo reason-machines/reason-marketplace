@@ -1,0 +1,13 @@
+{
+  "name": "iquota",
+  "displayName": "iQuota",
+  "description": "Book independent hotels direct.",
+  "homepage": "https://iquota.io",
+  "docs": "https://iquota.io",
+  "auth": "none",
+  "mcpServers": {
+    "iquota": {
+      "url": "https://iquota.io/mcp"
+    }
+  }
+}

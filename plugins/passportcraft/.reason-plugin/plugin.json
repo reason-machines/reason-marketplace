@@ -1,0 +1,13 @@
+{
+  "name": "passportcraft",
+  "displayName": "PassportCraft",
+  "description": "Create EU product passports.",
+  "homepage": "https://passportcraft.com/connector",
+  "docs": "https://passportcraft.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "passportcraft": {
+      "url": "https://passportcraft.com/api/mcp"
+    }
+  }
+}

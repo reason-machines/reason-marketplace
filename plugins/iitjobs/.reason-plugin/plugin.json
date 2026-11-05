@@ -1,0 +1,13 @@
+{
+  "name": "iitjobs",
+  "displayName": "iitjobs",
+  "description": "Find IT jobs worldwide.",
+  "homepage": "https://www.iitjobs.com",
+  "docs": "https://www.iitjobs.com",
+  "auth": "none",
+  "mcpServers": {
+    "iitjobs": {
+      "url": "https://www.iitjobs.com/mcp"
+    }
+  }
+}

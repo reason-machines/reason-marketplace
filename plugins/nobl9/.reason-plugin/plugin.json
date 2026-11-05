@@ -1,0 +1,13 @@
+{
+  "name": "nobl9",
+  "displayName": "Nobl9",
+  "description": "Service reliability, in chat.",
+  "homepage": "https://www.nobl9.com",
+  "docs": "https://docs.nobl9.com/tools-and-utilities/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "nobl9": {
+      "url": "https://app.nobl9.com/api/mcp"
+    }
+  }
+}

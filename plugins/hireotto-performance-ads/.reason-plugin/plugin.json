@@ -1,0 +1,13 @@
+{
+  "name": "hireotto-performance-ads",
+  "displayName": "HireOtto Performance Ads",
+  "description": "Analyze & Manage Google Ads.",
+  "homepage": "https://hireotto.com/google-ads-mcp",
+  "docs": "https://hireotto.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "hireotto-performance-ads": {
+      "url": "https://googleads.hireotto.com/mcp"
+    }
+  }
+}

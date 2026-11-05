@@ -1,0 +1,13 @@
+{
+  "name": "awork",
+  "displayName": "awork",
+  "description": "Agency project management.",
+  "homepage": "https://www.awork.com",
+  "docs": "https://support.awork.com/en/articles/awork-mcp-server-QMtji6JCnzhp",
+  "auth": "oauth",
+  "mcpServers": {
+    "awork": {
+      "url": "https://api.awork.com/api/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "clarmix",
+  "displayName": "Clarmix",
+  "description": "Google Ads & Shopping insights.",
+  "homepage": "https://clarmix.com/blog/claude-google-ads-shopping-ai-agent",
+  "docs": "https://clarmix.com/blog/claude-google-ads-shopping-ai-agent",
+  "auth": "oauth",
+  "mcpServers": {
+    "clarmix": {
+      "url": "https://api.clarmix.com/mcp"
+    }
+  }
+}

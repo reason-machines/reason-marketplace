@@ -1,0 +1,13 @@
+{
+  "name": "easy-vibe-outdoors",
+  "displayName": "Easy Vibe Outdoors",
+  "description": "Camper bookings and prices.",
+  "homepage": "https://easyvibeoutdoors.com",
+  "docs": "https://easyvibeoutdoors.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "easy-vibe-outdoors": {
+      "url": "https://mcp.easyvibeoutdoors.com/mcp"
+    }
+  }
+}

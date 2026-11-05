@@ -1,0 +1,13 @@
+{
+  "name": "microburbs",
+  "displayName": "Microburbs",
+  "description": "Australian Property Data.",
+  "homepage": "https://www.microburbs.com.au/",
+  "docs": "https://www.microburbs.com.au/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "microburbs": {
+      "url": "https://api.microburbs.com.au/mcp"
+    }
+  }
+}

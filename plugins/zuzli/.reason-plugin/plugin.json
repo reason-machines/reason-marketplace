@@ -1,0 +1,13 @@
+{
+  "name": "zuzli",
+  "displayName": "Zuzli",
+  "description": "Plan and manage trips.",
+  "homepage": "https://zuzli.app",
+  "docs": "https://zuzli.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "zuzli": {
+      "url": "https://zuzli.app/mcp"
+    }
+  }
+}

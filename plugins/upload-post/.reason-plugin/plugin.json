@@ -1,0 +1,13 @@
+{
+  "name": "upload-post",
+  "displayName": "Upload-Post",
+  "description": "Social media posts scheduler.",
+  "homepage": "https://www.upload-post.com/",
+  "docs": "https://www.upload-post.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "upload-post": {
+      "url": "https://mcp.upload-post.com/mcp"
+    }
+  }
+}

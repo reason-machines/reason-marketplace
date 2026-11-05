@@ -1,0 +1,13 @@
+{
+  "name": "lemonvite",
+  "displayName": "Lemonvite",
+  "description": "Invitations and RSVP tracking.",
+  "homepage": "https://www.lemonvite.com",
+  "docs": "https://lemonvite.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "lemonvite": {
+      "url": "https://www.lemonvite.com/api/mcp"
+    }
+  }
+}

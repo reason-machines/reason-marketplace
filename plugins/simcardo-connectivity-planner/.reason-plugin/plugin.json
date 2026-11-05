@@ -1,0 +1,13 @@
+{
+  "name": "simcardo-connectivity-planner",
+  "displayName": "Simcardo Connectivity Planner",
+  "description": "Plan travel mobile internet.",
+  "homepage": "https://simcardo.com",
+  "docs": "https://simcardo.com",
+  "auth": "none",
+  "mcpServers": {
+    "simcardo-connectivity-planner": {
+      "url": "https://simcardo.com/mcp"
+    }
+  }
+}

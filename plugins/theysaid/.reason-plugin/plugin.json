@@ -1,0 +1,13 @@
+{
+  "name": "theysaid",
+  "displayName": "TheySaid",
+  "description": "Research and usability tests.",
+  "homepage": "https://theysaid.io",
+  "docs": "https://api.theysaid.io/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "theysaid": {
+      "url": "https://ai.theysaid.io/api/mcp"
+    }
+  }
+}

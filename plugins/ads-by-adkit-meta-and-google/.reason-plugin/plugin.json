@@ -1,0 +1,13 @@
+{
+  "name": "ads-by-adkit-meta-and-google",
+  "displayName": "Ads by AdKit: Meta & Google",
+  "description": "Ads manager for Meta & Google.",
+  "homepage": "https://adkit.so",
+  "docs": "https://adkit.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "ads-by-adkit-meta-and-google": {
+      "url": "https://mcp.adkit.so/mcp"
+    }
+  }
+}

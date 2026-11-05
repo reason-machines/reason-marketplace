@@ -1,0 +1,13 @@
+{
+  "name": "flexwaiver",
+  "displayName": "FlexWaiver",
+  "description": "Manage waivers and submissions.",
+  "homepage": "https://flexwaiver.com",
+  "docs": "https://flexwaiver.com/integrations/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "flexwaiver": {
+      "url": "https://app.flexwaiver.com/api/mcp"
+    }
+  }
+}

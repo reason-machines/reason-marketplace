@@ -1,0 +1,13 @@
+{
+  "name": "candor-finance",
+  "displayName": "Candor Finance",
+  "description": "Your budget and money goals.",
+  "homepage": "https://candor.money",
+  "docs": "https://candor.money/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "candor-finance": {
+      "url": "https://api.candor.money/mcp"
+    }
+  }
+}

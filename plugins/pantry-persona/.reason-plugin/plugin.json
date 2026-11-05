@@ -1,0 +1,13 @@
+{
+  "name": "pantry-persona",
+  "displayName": "Pantry Persona",
+  "description": "Meal plans, recipes, grocery.",
+  "homepage": "https://pantrypersona.com",
+  "docs": "https://pantrypersona.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "pantry-persona": {
+      "url": "https://pantrypersona.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tailor",
+  "displayName": "Tailor",
+  "description": "Ask the Tailor Platform docs.",
+  "homepage": "https://www.tailor.tech",
+  "docs": "https://www.tailor.tech",
+  "auth": "none",
+  "mcpServers": {
+    "tailor": {
+      "url": "https://mcp.tailor.tech/"
+    }
+  }
+}

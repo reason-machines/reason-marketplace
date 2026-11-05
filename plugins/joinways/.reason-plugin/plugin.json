@@ -1,0 +1,13 @@
+{
+  "name": "joinways",
+  "displayName": "Joinways",
+  "description": "CRM for event venues.",
+  "homepage": "https://joinways.app",
+  "docs": "https://joinways.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "joinways": {
+      "url": "https://mcp.joinways.app/mcp"
+    }
+  }
+}

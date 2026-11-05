@@ -1,0 +1,13 @@
+{
+  "name": "aixbt",
+  "displayName": "AIXBT",
+  "description": "Crypto intel and narratives.",
+  "homepage": "https://aixbt.tech",
+  "docs": "https://aixbt.tech",
+  "auth": "oauth",
+  "mcpServers": {
+    "aixbt": {
+      "url": "https://api.aixbt.tech/mcp"
+    }
+  }
+}

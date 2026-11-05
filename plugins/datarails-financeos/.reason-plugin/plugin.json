@@ -1,0 +1,13 @@
+{
+  "name": "datarails-financeos",
+  "displayName": "Datarails FinanceOS",
+  "description": "AI-powered finance management.",
+  "homepage": "https://www.datarails.com/",
+  "docs": "https://www.datarails.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "datarails-financeos": {
+      "url": "https://mcp.datarails.com/mcp"
+    }
+  }
+}

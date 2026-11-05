@@ -1,0 +1,13 @@
+{
+  "name": "habiata",
+  "displayName": "Habiata",
+  "description": "Real estate CRM for agents.",
+  "homepage": "https://www.habiata.lu",
+  "docs": "https://www.habiata.lu",
+  "auth": "oauth",
+  "mcpServers": {
+    "habiata": {
+      "url": "https://mcp.habiata.lu/mcp"
+    }
+  }
+}

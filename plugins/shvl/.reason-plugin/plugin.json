@@ -1,0 +1,13 @@
+{
+  "name": "shvl",
+  "displayName": "SHVL",
+  "description": "Overdue invoices and reminders.",
+  "homepage": "https://shvl.app",
+  "docs": "https://shvl.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "shvl": {
+      "url": "https://shvl.app/mcp"
+    }
+  }
+}

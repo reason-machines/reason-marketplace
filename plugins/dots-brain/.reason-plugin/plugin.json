@@ -1,0 +1,13 @@
+{
+  "name": "dots-brain",
+  "displayName": "dots brain",
+  "description": "Remember the people you know.",
+  "homepage": "https://dots.toktokhan.dev",
+  "docs": "https://dots.toktokhan.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "dots-brain": {
+      "url": "https://dots.toktokhan.dev/mcp"
+    }
+  }
+}

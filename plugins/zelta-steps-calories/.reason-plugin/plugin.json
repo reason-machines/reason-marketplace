@@ -1,0 +1,13 @@
+{
+  "name": "zelta-steps-calories",
+  "displayName": "Zelta Steps to Calories",
+  "description": "Steps to Calories.",
+  "homepage": "https://zelta.in",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=in.zelta/steps-calories",
+  "auth": "none",
+  "mcpServers": {
+    "zelta-steps-calories": {
+      "url": "https://steps-mcp.zelta.in/mcp"
+    }
+  }
+}

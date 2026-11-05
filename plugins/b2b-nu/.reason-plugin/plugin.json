@@ -1,0 +1,13 @@
+{
+  "name": "b2b-nu",
+  "displayName": "B2B.nu",
+  "description": "Swedish accounting in Reason.",
+  "homepage": "https://b2b.nu",
+  "docs": "https://b2b.nu",
+  "auth": "oauth",
+  "mcpServers": {
+    "b2b-nu": {
+      "url": "https://b2b.nu/mcp"
+    }
+  }
+}

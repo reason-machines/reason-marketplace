@@ -1,0 +1,13 @@
+{
+  "name": "houfy",
+  "displayName": "Houfy",
+  "description": "Find direct vacation rentals.",
+  "homepage": "https://www.houfy.com",
+  "docs": "https://www.houfy.com",
+  "auth": "none",
+  "mcpServers": {
+    "houfy": {
+      "url": "https://mcp.houfy.com/mcp"
+    }
+  }
+}

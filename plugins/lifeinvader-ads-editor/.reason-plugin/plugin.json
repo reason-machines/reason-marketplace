@@ -1,0 +1,13 @@
+{
+  "name": "lifeinvader-ads-editor",
+  "displayName": "Lifeinvader Ads Editor",
+  "description": "Format Lifeinvader ads.",
+  "homepage": "https://li.mailme.cfd/",
+  "docs": "https://li.mailme.cfd/",
+  "auth": "none",
+  "mcpServers": {
+    "lifeinvader-ads-editor": {
+      "url": "https://li.mailme.cfd/mcp"
+    }
+  }
+}

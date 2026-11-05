@@ -1,0 +1,13 @@
+{
+  "name": "piezas",
+  "displayName": "Piezas",
+  "description": "Build and host business apps.",
+  "homepage": "https://piezas.ai",
+  "docs": "https://piezas.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "piezas": {
+      "url": "https://mcp.piezas.ai/mcp"
+    }
+  }
+}

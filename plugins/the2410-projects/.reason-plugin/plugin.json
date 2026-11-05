@@ -1,0 +1,13 @@
+{
+  "name": "the2410-projects",
+  "displayName": "The2410 Projects",
+  "description": "Plan custom software projects.",
+  "homepage": "https://projects.the2410.com/",
+  "docs": "https://projects.the2410.com/",
+  "auth": "none",
+  "mcpServers": {
+    "the2410-projects": {
+      "url": "https://projects.the2410.com/mcp"
+    }
+  }
+}

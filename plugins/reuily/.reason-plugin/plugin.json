@@ -1,0 +1,13 @@
+{
+  "name": "reuily",
+  "displayName": "Reuily",
+  "description": "Forms, quizzes & lead capture.",
+  "homepage": "https://reuily.com",
+  "docs": "https://reuily.com/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "reuily": {
+      "url": "https://reuily.com/api/mcp"
+    }
+  }
+}

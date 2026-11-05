@@ -1,0 +1,13 @@
+{
+  "name": "rubricmark-practice",
+  "displayName": "RubricMark Practice",
+  "description": "Practice, schools, scores.",
+  "homepage": "https://rubricmark.com",
+  "docs": "https://rubricmark.com",
+  "auth": "none",
+  "mcpServers": {
+    "rubricmark-practice": {
+      "url": "https://rubricmark.com/mcp"
+    }
+  }
+}

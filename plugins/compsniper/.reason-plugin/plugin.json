@@ -1,0 +1,13 @@
+{
+  "name": "compsniper",
+  "displayName": "CompSniper",
+  "description": "Real eBay sold prices.",
+  "homepage": "https://compsniper.com",
+  "docs": "https://compsniper.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "compsniper": {
+      "url": "https://mcp.compsniper.com/mcp"
+    }
+  }
+}

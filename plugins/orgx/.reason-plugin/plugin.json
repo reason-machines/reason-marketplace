@@ -1,0 +1,13 @@
+{
+  "name": "orgx",
+  "displayName": "OrgX",
+  "description": "Continuity for AI agents.",
+  "homepage": "https://useorgx.com",
+  "docs": "https://useorgx.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "orgx": {
+      "url": "https://mcp.useorgx.com/mcp"
+    }
+  }
+}

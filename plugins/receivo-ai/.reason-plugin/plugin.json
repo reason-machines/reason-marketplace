@@ -1,0 +1,13 @@
+{
+  "name": "receivo-ai",
+  "displayName": "Receivo AI",
+  "description": "Invoices, clients and payments.",
+  "homepage": "https://www.receivo.cloud",
+  "docs": "https://www.receivo.cloud",
+  "auth": "oauth",
+  "mcpServers": {
+    "receivo-ai": {
+      "url": "https://mcp.receivo.cloud/mcp"
+    }
+  }
+}

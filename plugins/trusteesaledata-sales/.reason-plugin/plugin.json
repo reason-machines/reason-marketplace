@@ -1,0 +1,13 @@
+{
+  "name": "trusteesaledata-sales",
+  "displayName": "TrusteeSaleData",
+  "description": "Search US trustee sales.",
+  "homepage": "https://www.trusteesaledata.com",
+  "docs": "https://trusteesaledata.com/.well-known/oauth-protected-resource",
+  "auth": "none",
+  "mcpServers": {
+    "trusteesaledata-sales": {
+      "url": "https://www.trusteesaledata.com/mcp"
+    }
+  }
+}

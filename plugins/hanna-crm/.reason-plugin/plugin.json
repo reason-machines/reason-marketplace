@@ -1,0 +1,13 @@
+{
+  "name": "hanna-crm",
+  "displayName": "Hanna CRM",
+  "description": "Manage CRM records.",
+  "homepage": "https://hannacrm.lt/en/",
+  "docs": "https://support.hannacrm.eu/article/2500-mcp-connection-and-access-management",
+  "auth": "oauth",
+  "mcpServers": {
+    "hanna-crm": {
+      "url": "https://mcp.hannacrm.app/mcp"
+    }
+  }
+}

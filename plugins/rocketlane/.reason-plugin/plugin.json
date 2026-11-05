@@ -1,0 +1,13 @@
+{
+  "name": "rocketlane",
+  "displayName": "Rocketlane",
+  "description": "Manage projects, tasks & teams.",
+  "homepage": "https://www.rocketlane.com",
+  "docs": "https://www.rocketlane.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "rocketlane": {
+      "url": "https://mcp.rocketlane.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "xenition",
+  "displayName": "Xenition",
+  "description": "Create docs, decks, and apps.",
+  "homepage": "https://xenition.com",
+  "docs": "https://api.xenition.com/.well-known/oauth-protected-resource",
+  "auth": "none",
+  "mcpServers": {
+    "xenition": {
+      "url": "https://api.xenition.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "events-mt-organisers",
+  "displayName": "Events for Organisers",
+  "description": "Manage events and invitations.",
+  "homepage": "https://events.com.mt",
+  "docs": "https://events.com.mt/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "events-mt-organisers": {
+      "url": "https://events.com.mt/mcp/organizer"
+    }
+  }
+}

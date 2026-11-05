@@ -1,0 +1,13 @@
+{
+  "name": "ambush-streams",
+  "displayName": "Ambush",
+  "description": "Real-time news alerts.",
+  "homepage": "https://app.ambush.ai",
+  "docs": "https://api.ambush.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "ambush-streams": {
+      "url": "https://api.ambush.ai/mcp"
+    }
+  }
+}

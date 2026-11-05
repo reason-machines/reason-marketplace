@@ -1,0 +1,13 @@
+{
+  "name": "complyonsite",
+  "displayName": "ComplyOnSite",
+  "description": "UK construction compliance.",
+  "homepage": "https://complyonsite.com/docs/mcp",
+  "docs": "https://complyonsite.com/docs/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "complyonsite": {
+      "url": "https://mcp.complyonsite.com/mcp"
+    }
+  }
+}

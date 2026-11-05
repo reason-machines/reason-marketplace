@@ -1,0 +1,13 @@
+{
+  "name": "isoligne",
+  "displayName": "Isoligne",
+  "description": "Verified company data.",
+  "homepage": "https://isoligne.com/connecteur",
+  "docs": "https://isoligne.com/connecteur",
+  "auth": "none",
+  "mcpServers": {
+    "isoligne": {
+      "url": "https://isoligne.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "piloxa-certified-mail",
+  "displayName": "Piloxa — Certified Mail",
+  "description": "Send letters by Certified Mail.",
+  "homepage": "https://piloxa.com",
+  "docs": "https://piloxa.com",
+  "auth": "none",
+  "mcpServers": {
+    "piloxa-certified-mail": {
+      "url": "https://piloxa.com/mcp"
+    }
+  }
+}

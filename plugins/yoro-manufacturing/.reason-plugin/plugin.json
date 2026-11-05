@@ -1,0 +1,13 @@
+{
+  "name": "yoro-manufacturing",
+  "displayName": "Yoro Manufacturing Tracker",
+  "description": "Stock, recipes, and batches.",
+  "homepage": "https://yoro.ai/",
+  "docs": "https://yoro.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "yoro-manufacturing": {
+      "url": "https://yoro.ai/mcp"
+    }
+  }
+}

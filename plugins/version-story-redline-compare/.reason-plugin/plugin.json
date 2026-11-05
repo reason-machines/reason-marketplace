@@ -1,0 +1,13 @@
+{
+  "name": "version-story-redline-compare",
+  "displayName": "Version Story Redline Compare",
+  "description": "Legal documents in Word & PDF.",
+  "homepage": "https://www.versionstory.com",
+  "docs": "https://versionstory.com/product/claude",
+  "auth": "oauth",
+  "mcpServers": {
+    "version-story-redline-compare": {
+      "url": "https://mcp-compare.versionstory.com/mcp"
+    }
+  }
+}

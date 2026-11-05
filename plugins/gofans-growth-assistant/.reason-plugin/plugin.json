@@ -1,0 +1,13 @@
+{
+  "name": "gofans-growth-assistant",
+  "displayName": "GoFans Growth Assistant",
+  "description": "Earn and sell online on GoFans.",
+  "homepage": "https://www.gofans.in/",
+  "docs": "https://tedix.dev/apps/gofans-growth-assistant/",
+  "auth": "none",
+  "mcpServers": {
+    "gofans-growth-assistant": {
+      "url": "https://api.gofans.in/mcp"
+    }
+  }
+}

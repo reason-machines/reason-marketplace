@@ -1,0 +1,13 @@
+{
+  "name": "nash-agent",
+  "displayName": "Nash Agent",
+  "description": "AI-powered shopping agent.",
+  "homepage": "https://pier39.ai/",
+  "docs": "https://pier39.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "nash-agent": {
+      "url": "https://mcp.pier39.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "formula-genius",
+  "displayName": "Formula Genius",
+  "description": "Formulas, SQL & statement Beta.",
+  "homepage": "https://www.formulagenius.co",
+  "docs": "https://www.formulagenius.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "formula-genius": {
+      "url": "https://formulagenius.co/mcp"
+    }
+  }
+}

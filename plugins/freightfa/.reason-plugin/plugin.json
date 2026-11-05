@@ -1,0 +1,13 @@
+{
+  "name": "freightfa",
+  "displayName": "FreightFA",
+  "description": "Freight rates & market data.",
+  "homepage": "https://freightfa.com/ai",
+  "docs": "https://freightfa.com/ai",
+  "auth": "none",
+  "mcpServers": {
+    "freightfa": {
+      "url": "https://mcp.freightfa.com/mcp"
+    }
+  }
+}

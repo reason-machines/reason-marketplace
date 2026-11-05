@@ -1,0 +1,13 @@
+{
+  "name": "socialseal",
+  "displayName": "SocialSeal",
+  "description": "Video research & creator stats.",
+  "homepage": "https://socialseal.co",
+  "docs": "https://socialseal.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "socialseal": {
+      "url": "https://mcp.socialseal.co/mcp"
+    }
+  }
+}

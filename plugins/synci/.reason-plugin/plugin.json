@@ -1,0 +1,13 @@
+{
+  "name": "synci",
+  "displayName": "Synci",
+  "description": "Ask about your banking data.",
+  "homepage": "https://synci.io",
+  "docs": "https://synci.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "synci": {
+      "url": "https://api.synci.io/mcp"
+    }
+  }
+}

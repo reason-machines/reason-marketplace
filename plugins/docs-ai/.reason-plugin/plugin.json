@@ -1,0 +1,13 @@
+{
+  "name": "docs-ai",
+  "displayName": "Docs AI",
+  "description": "Create, read, and edit docs.",
+  "homepage": "https://gpt.space/docs/chatgpt-document-maker",
+  "docs": "https://gpt.space/docs/chatgpt-document-maker",
+  "auth": "oauth",
+  "mcpServers": {
+    "docs-ai": {
+      "url": "https://api.gpt.space/servers/google-docs/mcp"
+    }
+  }
+}

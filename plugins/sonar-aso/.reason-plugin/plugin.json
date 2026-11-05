@@ -1,0 +1,13 @@
+{
+  "name": "sonar-aso",
+  "displayName": "Sonar ASO",
+  "description": "App store optimization.",
+  "homepage": "https://trysonar.app",
+  "docs": "https://trysonar.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "sonar-aso": {
+      "url": "https://trysonar.app/mcp"
+    }
+  }
+}

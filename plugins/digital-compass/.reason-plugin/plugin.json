@@ -1,0 +1,13 @@
+{
+  "name": "digital-compass",
+  "displayName": "Digital Compass",
+  "description": "Digital emergency playbooks.",
+  "homepage": "https://compass.madeinro.eu/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=eu.madeinro/digital-compass-mcp",
+  "auth": "none",
+  "mcpServers": {
+    "digital-compass": {
+      "url": "https://compass.madeinro.eu/mcp"
+    }
+  }
+}

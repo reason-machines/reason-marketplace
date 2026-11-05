@@ -1,0 +1,13 @@
+{
+  "name": "creatures-animal-marketplace",
+  "displayName": "Creatures Animal Marketplace",
+  "description": "Animals, breeders and services.",
+  "homepage": "https://creatures.com",
+  "docs": "https://creatures.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "creatures-animal-marketplace": {
+      "url": "https://creatures.com/mcp/v2"
+    }
+  }
+}

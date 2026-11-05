@@ -1,0 +1,13 @@
+{
+  "name": "84asana",
+  "displayName": "84asana",
+  "description": "Classical yoga for beginners.",
+  "homepage": "https://84asana.com",
+  "docs": "https://84asana.com",
+  "auth": "none",
+  "mcpServers": {
+    "84asana": {
+      "url": "https://84asana.com/mcp"
+    }
+  }
+}

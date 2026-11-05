@@ -1,0 +1,13 @@
+{
+  "name": "parks-open",
+  "displayName": "Parks Open",
+  "description": "Find campsites & day passes.",
+  "homepage": "https://parksopen.ca/agents",
+  "docs": "https://parksopen.ca/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "parks-open": {
+      "url": "https://parksopen.ca/api/mcp"
+    }
+  }
+}

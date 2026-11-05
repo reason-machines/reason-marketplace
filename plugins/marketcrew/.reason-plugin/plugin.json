@@ -1,0 +1,13 @@
+{
+  "name": "marketcrew",
+  "displayName": "MarketCrew",
+  "description": "Analyze US stocks and ETFs.",
+  "homepage": "https://marketcrew.ai",
+  "docs": "https://marketcrew.ai",
+  "auth": "none",
+  "mcpServers": {
+    "marketcrew": {
+      "url": "https://marketcrew.ai/mcp"
+    }
+  }
+}

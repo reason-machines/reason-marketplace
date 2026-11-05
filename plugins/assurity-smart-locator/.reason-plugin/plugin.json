@@ -1,0 +1,13 @@
+{
+  "name": "assurity-smart-locator",
+  "displayName": "Assurity Smart Locator",
+  "description": "Find a collision repair center.",
+  "homepage": "https://collisionrepairlocator.com/connect",
+  "docs": "https://collisionrepairlocator.com/connect",
+  "auth": "none",
+  "mcpServers": {
+    "assurity-smart-locator": {
+      "url": "https://collisionrepairlocator.com/mcp"
+    }
+  }
+}

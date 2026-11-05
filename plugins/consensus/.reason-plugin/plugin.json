@@ -1,0 +1,13 @@
+{
+  "name": "consensus",
+  "displayName": "Consensus",
+  "description": "Search peer-reviewed research.",
+  "homepage": "https://consensus.app/",
+  "docs": "https://consensus.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "consensus": {
+      "url": "https://mcp.consensus.app/mcp"
+    }
+  }
+}

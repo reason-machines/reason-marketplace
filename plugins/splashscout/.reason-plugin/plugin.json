@@ -1,0 +1,13 @@
+{
+  "name": "splashscout",
+  "displayName": "SplashScout",
+  "description": "Find family friendly hotels.",
+  "homepage": "https://splashscout.co.uk",
+  "docs": "https://splashscout.co.uk/connect",
+  "auth": "none",
+  "mcpServers": {
+    "splashscout": {
+      "url": "https://splashscout.co.uk/api/mcp"
+    }
+  }
+}

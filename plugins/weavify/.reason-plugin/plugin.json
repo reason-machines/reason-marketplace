@@ -1,0 +1,13 @@
+{
+  "name": "weavify",
+  "displayName": "Weavify",
+  "description": "Bangkok dining & nightlife.",
+  "homepage": "https://weavify.io",
+  "docs": "https://weavify.io",
+  "auth": "none",
+  "mcpServers": {
+    "weavify": {
+      "url": "https://weavify.io/mcp"
+    }
+  }
+}

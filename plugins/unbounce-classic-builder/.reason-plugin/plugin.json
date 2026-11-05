@@ -1,0 +1,13 @@
+{
+  "name": "unbounce-classic-builder",
+  "displayName": "Unbounce - Classic Builder",
+  "description": "Create Unbounce Landing Pages.",
+  "homepage": "https://unbounce.com",
+  "docs": "https://unbounce.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "unbounce-classic-builder": {
+      "url": "https://mcp.unbounce.com/mcp"
+    }
+  }
+}

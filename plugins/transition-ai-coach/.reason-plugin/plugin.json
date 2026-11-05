@@ -1,0 +1,13 @@
+{
+  "name": "transition-ai-coach",
+  "displayName": "Transition",
+  "description": "Run, bike & triathlon coach.",
+  "homepage": "https://transition.fun",
+  "docs": "https://transition.fun",
+  "auth": "oauth",
+  "mcpServers": {
+    "transition-ai-coach": {
+      "url": "https://mcp.transition.fun/mcp"
+    }
+  }
+}

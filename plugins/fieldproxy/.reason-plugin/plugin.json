@@ -1,0 +1,13 @@
+{
+  "name": "fieldproxy",
+  "displayName": "Fieldproxy",
+  "description": "Run field service operations.",
+  "homepage": "https://www.fieldproxy.ai",
+  "docs": "https://www.fieldproxy.ai/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "fieldproxy": {
+      "url": "https://api-india-1.fieldproxy.ai/mcp"
+    }
+  }
+}

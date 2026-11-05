@@ -1,0 +1,13 @@
+{
+  "name": "connectlinx",
+  "displayName": "Connectlinx",
+  "description": "Run your real estate business.",
+  "homepage": "https://www.connectlinx.com",
+  "docs": "https://connectlinx.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "connectlinx": {
+      "url": "https://www.connectlinx.com/mcp/agent.php"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "refreshagent-public",
+  "displayName": "RefreshAgent",
+  "description": "SEO analytics and workflows.",
+  "homepage": "https://refreshagent.com/chatgpt-seo",
+  "docs": "https://refreshagent.com/chatgpt-seo",
+  "auth": "oauth",
+  "mcpServers": {
+    "refreshagent-public": {
+      "url": "https://refreshagent.com/mcp"
+    }
+  }
+}

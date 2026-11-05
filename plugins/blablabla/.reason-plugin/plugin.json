@@ -1,0 +1,13 @@
+{
+  "name": "blablabla",
+  "displayName": "blablabla: Learn Lines & Tape",
+  "description": "Scenes, monologues & routines.",
+  "homepage": "https://sayblablabla.com",
+  "docs": "https://sayblablabla.com",
+  "auth": "none",
+  "mcpServers": {
+    "blablabla": {
+      "url": "https://sayblablabla.com/mcp"
+    }
+  }
+}

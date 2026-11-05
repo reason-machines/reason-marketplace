@@ -1,0 +1,13 @@
+{
+  "name": "dealboard",
+  "displayName": "Dealboard",
+  "description": "Track sales deals.",
+  "homepage": "https://getdealboard.com?utm_source=chatgpt_apps&utm_medium=app_directory&utm_campaign=ai_distribution_2026",
+  "docs": "https://getdealboard.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "dealboard": {
+      "url": "https://app.getdealboard.com/mcp"
+    }
+  }
+}

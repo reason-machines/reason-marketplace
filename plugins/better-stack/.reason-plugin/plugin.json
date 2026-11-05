@@ -1,0 +1,13 @@
+{
+  "name": "better-stack",
+  "displayName": "Better Stack",
+  "description": "Observability for AI agents.",
+  "homepage": "https://betterstack.com/",
+  "docs": "https://betterstack.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "better-stack": {
+      "url": "https://mcp.betterstack.com/"
+    }
+  }
+}

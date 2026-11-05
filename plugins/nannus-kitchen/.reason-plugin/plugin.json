@@ -1,0 +1,13 @@
+{
+  "name": "nannus-kitchen",
+  "displayName": "Nannu's Kitchen",
+  "description": "Order homestyle Indian meals.",
+  "homepage": "https://nannuskitchen.com",
+  "docs": "https://nannuskitchen.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "nannus-kitchen": {
+      "url": "https://nannuskitchen.com/api/mcp"
+    }
+  }
+}

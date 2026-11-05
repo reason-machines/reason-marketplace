@@ -1,0 +1,22 @@
+{
+  "name": "hydrant",
+  "displayName": "Hydrant",
+  "description": "Track issues with your agent.",
+  "homepage": "https://hydrant.dev",
+  "docs": "https://hydrant.dev/help/agents/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "hydrant": {
+      "url": "https://hydrant.dev/api/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "hydrant",
+      "description": "Work inside a Hydrant workspace through its MCP tools without guessing, overwriting or overstating. Read it before any Hydrant write, including promoting an environment, which has its own checks before and after. Use when the user asks about Hydrant issues, activity, blockers, sub-issues, labels, pr",
+      "source": "background-craft/hydrant-skills#0706c5f724dd39106ed5af7acddd27f44e38c30d",
+      "skill": "hydrant",
+      "url": "https://github.com/background-craft/hydrant-skills/tree/0706c5f724dd39106ed5af7acddd27f44e38c30d/plugins/hydrant/skills/hydrant"
+    }
+  ]
+}

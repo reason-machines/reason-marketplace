@@ -1,0 +1,13 @@
+{
+  "name": "docketdrafter",
+  "displayName": "DocketDrafter",
+  "description": "Draft and format legal docs.",
+  "homepage": "https://docketdrafter.com",
+  "docs": "https://api.docketdrafter.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "docketdrafter": {
+      "url": "https://api.docketdrafter.com/mcp"
+    }
+  }
+}

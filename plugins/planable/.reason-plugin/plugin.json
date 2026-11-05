@@ -1,0 +1,13 @@
+{
+  "name": "planable",
+  "displayName": "Planable",
+  "description": "Manage all your social content.",
+  "homepage": "https://planable.io",
+  "docs": "https://planable.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "planable": {
+      "url": "https://mcp.planable.io/mcp"
+    }
+  }
+}

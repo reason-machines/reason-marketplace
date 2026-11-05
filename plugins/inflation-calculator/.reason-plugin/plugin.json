@@ -1,0 +1,13 @@
+{
+  "name": "inflation-calculator",
+  "displayName": "Zovo Inflation Calculator",
+  "description": "US CPI inflation calculator.",
+  "homepage": "https://inflation-calculator.zovo.one",
+  "docs": "https://inflation-calculator.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "inflation-calculator": {
+      "url": "https://inflation-calculator.zovo.one/mcp"
+    }
+  }
+}

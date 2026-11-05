@@ -1,0 +1,13 @@
+{
+  "name": "gantt-timeline",
+  "displayName": "Zovo Project Timeline",
+  "description": "Gantt charts & critical path.",
+  "homepage": "https://gantt-timeline.zovo.one",
+  "docs": "https://gantt-timeline.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "gantt-timeline": {
+      "url": "https://gantt-timeline.zovo.one/mcp"
+    }
+  }
+}

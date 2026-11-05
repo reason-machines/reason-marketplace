@@ -1,0 +1,13 @@
+{
+  "name": "brisk-teaching",
+  "displayName": "Brisk Teaching",
+  "description": "Create classroom activities.",
+  "homepage": "https://www.briskteaching.com",
+  "docs": "https://www.briskteaching.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "brisk-teaching": {
+      "url": "https://mcp.briskteaching.com/mcp"
+    }
+  }
+}

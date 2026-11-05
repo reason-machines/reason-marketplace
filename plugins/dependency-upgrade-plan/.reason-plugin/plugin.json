@@ -1,0 +1,13 @@
+{
+  "name": "dependency-upgrade-plan",
+  "displayName": "Dependency Upgrade Plan",
+  "description": "Plan dependency upgrades.",
+  "homepage": "https://dependency-upgrade-plan.sidcraigau.workers.dev",
+  "docs": "https://dependency-upgrade-plan.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "dependency-upgrade-plan": {
+      "url": "https://dependency-upgrade-plan.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

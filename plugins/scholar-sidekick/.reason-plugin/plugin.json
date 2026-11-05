@@ -1,0 +1,13 @@
+{
+  "name": "scholar-sidekick",
+  "displayName": "Scholar Sidekick",
+  "description": "Audit, verify, cite papers.",
+  "homepage": "https://scholar-sidekick.com",
+  "docs": "https://scholar-sidekick.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "scholar-sidekick": {
+      "url": "https://scholar-sidekick.com/api/mcp"
+    }
+  }
+}

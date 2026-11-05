@@ -1,0 +1,13 @@
+{
+  "name": "svg-new",
+  "displayName": "SVG.new",
+  "description": "Convert images to SVG.",
+  "homepage": "https://svg.new/ai",
+  "docs": "https://svg.new/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "svg-new": {
+      "url": "https://svg.new/api/mcp"
+    }
+  }
+}

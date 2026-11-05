@@ -1,0 +1,13 @@
+{
+  "name": "meeters",
+  "displayName": "Meeters",
+  "description": "Find group trips.",
+  "homepage": "https://www.meeters.org",
+  "docs": "https://www.meeters.org",
+  "auth": "none",
+  "mcpServers": {
+    "meeters": {
+      "url": "https://meeters.org/mcp"
+    }
+  }
+}

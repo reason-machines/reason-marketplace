@@ -1,0 +1,13 @@
+{
+  "name": "eclat-institute",
+  "displayName": "Eclat Institute",
+  "description": "Singapore A-Level Guide.",
+  "homepage": "https://eclatinstitute.sg",
+  "docs": "https://eclatinstitute.sg",
+  "auth": "none",
+  "mcpServers": {
+    "eclat-institute": {
+      "url": "https://mcp.eclatinstitute.sg/mcp"
+    }
+  }
+}

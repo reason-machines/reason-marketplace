@@ -1,0 +1,13 @@
+{
+  "name": "task-mafia",
+  "displayName": "Task Mafia",
+  "description": "Tasks, lists and your crew.",
+  "homepage": "https://taskmafia.com",
+  "docs": "https://taskmafia.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "task-mafia": {
+      "url": "https://taskmafia.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "daypass",
+  "displayName": "DayPass",
+  "description": "Hotel pools, spas, beach clubs.",
+  "homepage": "https://daypassapp.com",
+  "docs": "https://daypassapp.com",
+  "auth": "none",
+  "mcpServers": {
+    "daypass": {
+      "url": "https://mcp.daypassapp.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "runrun-it",
+  "displayName": "Runrun.it",
+  "description": "Find and create tasks.",
+  "homepage": "https://runrun.it",
+  "docs": "https://runrun.it",
+  "auth": "oauth",
+  "mcpServers": {
+    "runrun-it": {
+      "url": "https://mcp.runrun.it/mcp"
+    }
+  }
+}

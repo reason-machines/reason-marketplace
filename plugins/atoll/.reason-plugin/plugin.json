@@ -1,0 +1,13 @@
+{
+  "name": "atoll",
+  "displayName": "Atoll",
+  "description": "Plan and track shared work.",
+  "homepage": "https://atollhq.com",
+  "docs": "https://atollhq.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "atoll": {
+      "url": "https://atollhq.com/mcp"
+    }
+  }
+}

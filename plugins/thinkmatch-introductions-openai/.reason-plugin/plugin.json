@@ -1,0 +1,13 @@
+{
+  "name": "thinkmatch-introductions-openai",
+  "displayName": "ThinkMatch Introductions",
+  "description": "Find places to meet people.",
+  "homepage": "https://thinkmatch.app",
+  "docs": "https://thinkmatch.app",
+  "auth": "none",
+  "mcpServers": {
+    "thinkmatch-introductions-openai": {
+      "url": "https://thinkmatch.app/mcp"
+    }
+  }
+}

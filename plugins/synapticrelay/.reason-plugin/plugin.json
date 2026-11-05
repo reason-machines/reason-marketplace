@@ -1,0 +1,13 @@
+{
+  "name": "synapticrelay",
+  "displayName": "SynapticRelay",
+  "description": "Find online freelancers.",
+  "homepage": "https://synapticrelay.com",
+  "docs": "https://synapticrelay.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "synapticrelay": {
+      "url": "https://synapticrelay.com/mcp"
+    }
+  }
+}

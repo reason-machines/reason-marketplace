@@ -1,0 +1,13 @@
+{
+  "name": "agentcron",
+  "displayName": "AgentCron",
+  "description": "Your team’s Collaborative OS.",
+  "homepage": "https://www.agentcron.ai",
+  "docs": "https://api.agentcron.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentcron": {
+      "url": "https://api.agentcron.ai/api/mcp"
+    }
+  }
+}

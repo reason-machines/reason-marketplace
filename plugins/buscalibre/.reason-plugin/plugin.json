@@ -1,0 +1,13 @@
+{
+  "name": "buscalibre",
+  "displayName": "Buscalibre",
+  "description": "Find books with local prices.",
+  "homepage": "https://www.buscalibre.com",
+  "docs": "https://www.buscalibre.com",
+  "auth": "none",
+  "mcpServers": {
+    "buscalibre": {
+      "url": "https://mcp.buscalibre.com/mcp"
+    }
+  }
+}

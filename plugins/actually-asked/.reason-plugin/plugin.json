@@ -1,0 +1,13 @@
+{
+  "name": "actually-asked",
+  "displayName": "Actually Asked",
+  "description": "Manage your website's FAQ.",
+  "homepage": "https://actuallyasked.com",
+  "docs": "https://actuallyasked.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "actually-asked": {
+      "url": "https://mcp.actuallyasked.com/mcp"
+    }
+  }
+}

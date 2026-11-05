@@ -1,0 +1,13 @@
+{
+  "name": "velo-index",
+  "displayName": "Velo Index",
+  "description": "Compare e-bike specifications.",
+  "homepage": "https://www.theveloindex.com",
+  "docs": "https://theveloindex.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "velo-index": {
+      "url": "https://theveloindex.com/api/mcp"
+    }
+  }
+}

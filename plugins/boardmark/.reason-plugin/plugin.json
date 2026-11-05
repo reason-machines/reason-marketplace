@@ -1,0 +1,13 @@
+{
+  "name": "boardmark",
+  "displayName": "BoardMark",
+  "description": "Issues, sprints and team docs.",
+  "homepage": "https://www.boardmark.ai",
+  "docs": "https://www.boardmark.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "boardmark": {
+      "url": "https://mcp.boardmark.ai/mcp"
+    }
+  }
+}

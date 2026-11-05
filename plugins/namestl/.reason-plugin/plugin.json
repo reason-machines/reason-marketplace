@@ -1,0 +1,13 @@
+{
+  "name": "namestl",
+  "displayName": "NameSTL",
+  "description": "Design names for 3D printing.",
+  "homepage": "https://www.namestl.com/chatgpt",
+  "docs": "https://www.namestl.com/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "namestl": {
+      "url": "https://namestl.com/mcp"
+    }
+  }
+}

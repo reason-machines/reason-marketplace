@@ -1,0 +1,13 @@
+{
+  "name": "portfoliq",
+  "displayName": "PortfolIQ",
+  "description": "Track portfolio performance.",
+  "homepage": "https://portfoliq.app",
+  "docs": "https://portfoliq.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "portfoliq": {
+      "url": "https://portfoliq.app/mcp"
+    }
+  }
+}

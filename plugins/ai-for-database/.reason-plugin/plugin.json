@@ -1,0 +1,13 @@
+{
+  "name": "ai-for-database",
+  "displayName": "AI for Database",
+  "description": "Ask your database questions.",
+  "homepage": "https://www.aifordatabase.com",
+  "docs": "https://www.aifordatabase.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai-for-database": {
+      "url": "https://mcp.aifordatabase.com/mcp"
+    }
+  }
+}

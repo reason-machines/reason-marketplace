@@ -1,0 +1,13 @@
+{
+  "name": "hapee",
+  "displayName": "Hapee",
+  "description": "Manage your CRM and marketing.",
+  "homepage": "https://hapee.ai",
+  "docs": "https://hapee.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "hapee": {
+      "url": "https://mcp.hapee.ai/mcp"
+    }
+  }
+}

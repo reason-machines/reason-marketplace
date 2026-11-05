@@ -1,0 +1,13 @@
+{
+  "name": "goalmatic",
+  "displayName": "Goalmatic",
+  "description": "Build websites and simple Apps.",
+  "homepage": "https://goalmatic.io",
+  "docs": "https://goalmatic.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "goalmatic": {
+      "url": "https://goalmatic.io/mcp"
+    }
+  }
+}

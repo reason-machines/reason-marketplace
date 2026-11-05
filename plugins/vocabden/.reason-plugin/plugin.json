@@ -1,0 +1,13 @@
+{
+  "name": "vocabden",
+  "displayName": "Vocabden",
+  "description": "Remembers what you're learning.",
+  "homepage": "https://vocabden.com/",
+  "docs": "https://vocabden.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "vocabden": {
+      "url": "https://mcp.vocabden.com/mcp"
+    }
+  }
+}

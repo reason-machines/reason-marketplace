@@ -1,0 +1,13 @@
+{
+  "name": "vocasa",
+  "displayName": "Vocasa",
+  "description": "Rental investment analysis.",
+  "homepage": "https://vocasa.ai",
+  "docs": "https://vocasa.ai",
+  "auth": "none",
+  "mcpServers": {
+    "vocasa": {
+      "url": "https://mcp.vocasa.ai/mcp"
+    }
+  }
+}

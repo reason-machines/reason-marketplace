@@ -1,0 +1,13 @@
+{
+  "name": "howitspread",
+  "displayName": "How It Spread",
+  "description": "Viral precedents, sourced.",
+  "homepage": "https://howitspread.com",
+  "docs": "https://howitspread.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "howitspread": {
+      "url": "https://howitspread.com/api/mcp"
+    }
+  }
+}

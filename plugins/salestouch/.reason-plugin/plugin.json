@@ -1,0 +1,13 @@
+{
+  "name": "salestouch",
+  "displayName": "SalesTouch",
+  "description": "LinkedIn Outreach for agents.",
+  "homepage": "https://www.salestouch.io",
+  "docs": "https://salestouch.io/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "salestouch": {
+      "url": "https://www.salestouch.io/api/mcp"
+    }
+  }
+}

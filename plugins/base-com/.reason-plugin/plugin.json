@@ -1,0 +1,13 @@
+{
+  "name": "base-com",
+  "displayName": "base.com",
+  "description": "Integration with base.com.",
+  "homepage": "https://base.com",
+  "docs": "https://base.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "base-com": {
+      "url": "https://mcp.base.com/mcp"
+    }
+  }
+}

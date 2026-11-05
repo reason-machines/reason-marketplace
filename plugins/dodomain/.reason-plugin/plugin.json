@@ -1,0 +1,13 @@
+{
+  "name": "dodomain",
+  "displayName": "doDomain",
+  "description": "Connect custom domains.",
+  "homepage": "https://dodomain.io",
+  "docs": "https://dodomain.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "dodomain": {
+      "url": "https://app.dodomain.io/api/mcp"
+    }
+  }
+}

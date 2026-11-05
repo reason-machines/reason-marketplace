@@ -1,0 +1,13 @@
+{
+  "name": "pacelab-intervals",
+  "displayName": "Pacelab Intervals",
+  "description": "Create interval workouts.",
+  "homepage": "https://pacelabintervals.com/",
+  "docs": "https://pacelabintervals.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "pacelab-intervals": {
+      "url": "https://pacelabintervals.com/mcp"
+    }
+  }
+}

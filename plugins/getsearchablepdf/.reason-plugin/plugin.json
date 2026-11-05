@@ -1,0 +1,13 @@
+{
+  "name": "getsearchablepdf",
+  "displayName": "GetSearchablePDF",
+  "description": "Make scans searchable with OCR.",
+  "homepage": "https://getsearchablepdf.com",
+  "docs": "https://getsearchablepdf.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "getsearchablepdf": {
+      "url": "https://mcp.getsearchablepdf.com/mcp"
+    }
+  }
+}

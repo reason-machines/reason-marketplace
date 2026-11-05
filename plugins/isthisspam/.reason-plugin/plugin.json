@@ -1,0 +1,13 @@
+{
+  "name": "isthisspam",
+  "displayName": "IsThisSpam",
+  "description": "Check scam signals.",
+  "homepage": "https://isthisspam.org",
+  "docs": "https://isthisspam.org",
+  "auth": "none",
+  "mcpServers": {
+    "isthisspam": {
+      "url": "https://mcp.isthisspam.org/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "insightfulpipe",
+  "displayName": "InsightfulPipe",
+  "description": "Use Google Ads, Meta, TikTok.",
+  "homepage": "https://insightfulpipe.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.insightfulpipe/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "insightfulpipe": {
+      "url": "https://main.insightfulmcp.com/"
+    }
+  }
+}

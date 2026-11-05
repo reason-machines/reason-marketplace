@@ -1,0 +1,16 @@
+{
+  "name": "identik",
+  "displayName": "Identik",
+  "description": "Documents and signatures.",
+  "homepage": "https://connect.identik.me",
+  "docs": "https://identik.me/",
+  "auth": "api_key",
+  "mcpServers": {
+    "identik": {
+      "url": "https://firma.identik.me/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

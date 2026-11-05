@@ -1,0 +1,13 @@
+{
+  "name": "koko",
+  "displayName": "Koko",
+  "description": "Save travel lists and plans.",
+  "homepage": "https://kokotravel.ai",
+  "docs": "https://kokotravel.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "koko": {
+      "url": "https://kokotravel.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "boostermage",
+  "displayName": "Boostermage",
+  "description": "Compare UK MTG prices.",
+  "homepage": "https://boostermage.com",
+  "docs": "https://boostermage.com",
+  "auth": "none",
+  "mcpServers": {
+    "boostermage": {
+      "url": "https://mcp.boostermage.com/mcp"
+    }
+  }
+}

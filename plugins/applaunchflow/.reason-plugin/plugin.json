@@ -1,0 +1,13 @@
+{
+  "name": "applaunchflow",
+  "displayName": "AppLaunchFlow",
+  "description": "Create app launch assets.",
+  "homepage": "https://www.applaunchflow.com",
+  "docs": "https://www.applaunchflow.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "applaunchflow": {
+      "url": "https://mcp.applaunchflow.com/mcp"
+    }
+  }
+}

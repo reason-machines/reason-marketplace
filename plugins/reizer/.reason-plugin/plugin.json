@@ -1,0 +1,13 @@
+{
+  "name": "reizer",
+  "displayName": "REIzer",
+  "description": "AI real estate deal analyzer.",
+  "homepage": "https://reizer.io",
+  "docs": "https://reizer.io",
+  "auth": "none",
+  "mcpServers": {
+    "reizer": {
+      "url": "https://reizer.io/mcp"
+    }
+  }
+}

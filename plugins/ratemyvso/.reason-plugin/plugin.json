@@ -1,0 +1,13 @@
+{
+  "name": "ratemyvso",
+  "displayName": "RateMyVSO",
+  "description": "VA disability reference.",
+  "homepage": "https://ratemyvso.net",
+  "docs": "https://ratemyvso.net/ai-connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "ratemyvso": {
+      "url": "https://ratemyvso.net/api/mcp"
+    }
+  }
+}

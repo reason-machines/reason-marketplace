@@ -1,0 +1,13 @@
+{
+  "name": "viral-recreate-ai",
+  "displayName": "Viral Recreate Ai",
+  "description": "Turn media into AI prompts.",
+  "homepage": "https://viralrecreate.com",
+  "docs": "https://viralrecreate.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "viral-recreate-ai": {
+      "url": "https://viralrecreate.com/mcp"
+    }
+  }
+}

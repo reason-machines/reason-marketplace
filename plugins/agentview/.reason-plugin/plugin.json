@@ -1,0 +1,13 @@
+{
+  "name": "agentview",
+  "displayName": "agentView",
+  "description": "Send content to any screen.",
+  "homepage": "https://agentView.de",
+  "docs": "https://agentView.de",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentview": {
+      "url": "https://agentview.de/mcp"
+    }
+  }
+}

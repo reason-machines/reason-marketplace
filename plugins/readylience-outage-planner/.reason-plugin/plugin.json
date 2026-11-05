@@ -1,0 +1,13 @@
+{
+  "name": "readylience-outage-planner",
+  "displayName": "ReadyLience Outage Planner",
+  "description": "Plan water and battery needs.",
+  "homepage": "https://mcp.readylience.com",
+  "docs": "https://mcp.readylience.com",
+  "auth": "none",
+  "mcpServers": {
+    "readylience-outage-planner": {
+      "url": "https://mcp.readylience.com/mcp"
+    }
+  }
+}

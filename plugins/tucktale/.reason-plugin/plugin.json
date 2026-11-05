@@ -1,0 +1,13 @@
+{
+  "name": "tucktale",
+  "displayName": "Tucktale Bedtime Stories",
+  "description": "Bedtime stories, read aloud.",
+  "homepage": "https://tucktale.ambientapp.ai",
+  "docs": "https://alibihour.ambientapp.ai/docs",
+  "auth": "none",
+  "mcpServers": {
+    "tucktale": {
+      "url": "https://alibihour.ambientapp.ai/mcp/claude"
+    }
+  }
+}

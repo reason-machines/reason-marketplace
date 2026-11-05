@@ -1,0 +1,13 @@
+{
+  "name": "voltformer",
+  "displayName": "Voltformer",
+  "description": "Electrical design and RFQs.",
+  "homepage": "https://voltformer.com",
+  "docs": "https://voltformer.com",
+  "auth": "none",
+  "mcpServers": {
+    "voltformer": {
+      "url": "https://voltformer.com/mcp"
+    }
+  }
+}

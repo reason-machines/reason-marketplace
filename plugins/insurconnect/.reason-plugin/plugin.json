@@ -1,0 +1,13 @@
+{
+  "name": "insurconnect",
+  "displayName": "InsurConnect",
+  "description": "Find licensed insurance agents.",
+  "homepage": "https://tedix.dev/apps/insurconnect/",
+  "docs": "https://tedix.dev/apps/insurconnect/",
+  "auth": "none",
+  "mcpServers": {
+    "insurconnect": {
+      "url": "https://mcp.insurconnect.ai/mcp"
+    }
+  }
+}

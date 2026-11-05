@@ -1,0 +1,13 @@
+{
+  "name": "textexpander",
+  "displayName": "TextExpander",
+  "description": "Manage snippets.",
+  "homepage": "https://textexpander.com",
+  "docs": "https://textexpander.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "textexpander": {
+      "url": "https://mcp.textexpander.com/mcp"
+    }
+  }
+}

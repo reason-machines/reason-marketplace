@@ -1,0 +1,13 @@
+{
+  "name": "lnx",
+  "displayName": "LNX",
+  "description": "Link-in-bio pages from chat.",
+  "homepage": "https://lnx.net",
+  "docs": "https://lnx.net",
+  "auth": "none",
+  "mcpServers": {
+    "lnx": {
+      "url": "https://lnx.net/mcp"
+    }
+  }
+}

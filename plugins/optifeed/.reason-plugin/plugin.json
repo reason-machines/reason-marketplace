@@ -1,0 +1,13 @@
+{
+  "name": "optifeed",
+  "displayName": "Optifeed",
+  "description": "Catalog and feed autopilot.",
+  "homepage": "https://dash.optifeed.com/connector",
+  "docs": "https://dash.optifeed.com/connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "optifeed": {
+      "url": "https://mcp.optifeed.com/mcp"
+    }
+  }
+}

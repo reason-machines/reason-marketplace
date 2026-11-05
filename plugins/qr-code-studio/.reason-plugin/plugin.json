@@ -1,0 +1,13 @@
+{
+  "name": "qr-code-studio",
+  "displayName": "Zovo QR Code Maker",
+  "description": "QR codes for links & contacts.",
+  "homepage": "https://qr-code-studio.zovo.one",
+  "docs": "https://qr-code-studio.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "qr-code-studio": {
+      "url": "https://qr-code-studio.zovo.one/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "riido",
+  "displayName": "Riido",
+  "description": "Manage Riido work.",
+  "homepage": "https://www.riido.io/",
+  "docs": "https://www.riido.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "riido": {
+      "url": "https://mcp.riido.io/mcp"
+    }
+  }
+}

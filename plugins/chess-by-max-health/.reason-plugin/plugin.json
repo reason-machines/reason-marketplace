@@ -1,0 +1,13 @@
+{
+  "name": "chess-by-max-health",
+  "displayName": "Chess by Max Health",
+  "description": "Play and analyze chess games.",
+  "homepage": "https://chess.maxhealth.tech",
+  "docs": "https://chess.maxhealth.tech",
+  "auth": "oauth",
+  "mcpServers": {
+    "chess-by-max-health": {
+      "url": "https://mcp.maxhealth.tech/mcp"
+    }
+  }
+}

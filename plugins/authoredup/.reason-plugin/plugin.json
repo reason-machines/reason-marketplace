@@ -1,0 +1,13 @@
+{
+  "name": "authoredup",
+  "displayName": "AuthoredUp",
+  "description": "LinkedIn content workspace.",
+  "homepage": "https://authoredup.com",
+  "docs": "https://api.authoredup.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "authoredup": {
+      "url": "https://backend.authoredup.com/mcp"
+    }
+  }
+}

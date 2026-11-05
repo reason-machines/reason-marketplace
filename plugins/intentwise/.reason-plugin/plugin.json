@@ -1,0 +1,13 @@
+{
+  "name": "intentwise",
+  "displayName": "Intentwise",
+  "description": "Analyze, manage ads and retail.",
+  "homepage": "https://www.intentwise.com",
+  "docs": "https://www.intentwise.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "intentwise": {
+      "url": "https://mcp.intentwise.com/mcp"
+    }
+  }
+}

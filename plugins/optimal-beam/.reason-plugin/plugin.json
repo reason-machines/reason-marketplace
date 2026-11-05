@@ -1,0 +1,13 @@
+{
+  "name": "optimal-beam",
+  "displayName": "Optimal Beam",
+  "description": "Beam analysis and steel shapes.",
+  "homepage": "https://optimalbeam.com/",
+  "docs": "https://optimalbeam.com/",
+  "auth": "none",
+  "mcpServers": {
+    "optimal-beam": {
+      "url": "https://mcp.optimalbeam.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "honestdog",
+  "displayName": "HonestDog",
+  "description": "Vetted dog breeders & adoption.",
+  "homepage": "https://www.honestdog.de/en/ai-assistants",
+  "docs": "https://www.honestdog.de/en/ai-assistants",
+  "auth": "none",
+  "mcpServers": {
+    "honestdog": {
+      "url": "https://server.honestdog.de/api/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "codebuddy-field-compliance",
+  "displayName": "CodeBuddy – Field Compliance",
+  "description": "Electrical code calculators.",
+  "homepage": "https://codebuddy.chat",
+  "docs": "https://codebuddy.chat",
+  "auth": "none",
+  "mcpServers": {
+    "codebuddy-field-compliance": {
+      "url": "https://mcp.codebuddy.chat/mcp"
+    }
+  }
+}

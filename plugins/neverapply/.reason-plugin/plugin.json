@@ -1,0 +1,13 @@
+{
+  "name": "neverapply",
+  "displayName": "NeverApply",
+  "description": "Job search and career drafts.",
+  "homepage": "https://neverapply.co",
+  "docs": "https://neverapply.co",
+  "auth": "none",
+  "mcpServers": {
+    "neverapply": {
+      "url": "https://neverapply.co/mcp"
+    }
+  }
+}

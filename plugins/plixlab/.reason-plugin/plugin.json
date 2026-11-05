@@ -1,0 +1,13 @@
+{
+  "name": "plixlab",
+  "displayName": "Plixlab",
+  "description": "Executable presentations.",
+  "homepage": "https://plixlab.com",
+  "docs": "https://plixlab.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "plixlab": {
+      "url": "https://mcp.plixlab.com/mcp"
+    }
+  }
+}

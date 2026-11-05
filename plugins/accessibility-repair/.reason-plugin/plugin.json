@@ -1,0 +1,13 @@
+{
+  "name": "accessibility-repair",
+  "displayName": "Accessibility Repair",
+  "description": "Find and fix WCAG failures.",
+  "homepage": "https://a11yrepair.com",
+  "docs": "https://a11yrepair.com",
+  "auth": "none",
+  "mcpServers": {
+    "accessibility-repair": {
+      "url": "https://a11yrepair.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dr-klein",
+  "displayName": "Dr. Klein",
+  "description": "Calculate your Mortgage.",
+  "homepage": "https://www.drklein.de",
+  "docs": "https://tedix.dev/apps/dr-klein/",
+  "auth": "none",
+  "mcpServers": {
+    "dr-klein": {
+      "url": "https://www.drklein.de/app-services/mcp"
+    }
+  }
+}

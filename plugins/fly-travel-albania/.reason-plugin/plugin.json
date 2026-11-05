@@ -1,0 +1,13 @@
+{
+  "name": "fly-travel-albania",
+  "displayName": "Fly Travel Albania",
+  "description": "Albania charter & tour prices.",
+  "homepage": "https://flytravel.al",
+  "docs": "https://flytravel.al",
+  "auth": "none",
+  "mcpServers": {
+    "fly-travel-albania": {
+      "url": "https://flytravel.al/mcp"
+    }
+  }
+}

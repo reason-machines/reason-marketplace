@@ -1,0 +1,13 @@
+{
+  "name": "iceflower",
+  "displayName": "Iceflower",
+  "description": "Merchant & customer analytics.",
+  "homepage": "https://www.iceflower.ai/",
+  "docs": "https://www.iceflower.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "iceflower": {
+      "url": "https://iceflower.ai/mcp"
+    }
+  }
+}

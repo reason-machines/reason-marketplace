@@ -1,0 +1,13 @@
+{
+  "name": "staythere",
+  "displayName": "StayThere",
+  "description": "Find direct vacation stays.",
+  "homepage": "https://staythere.ai",
+  "docs": "https://staythere.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "staythere": {
+      "url": "https://staythere.ai/api/mcp"
+    }
+  }
+}

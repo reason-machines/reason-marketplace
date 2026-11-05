@@ -1,0 +1,13 @@
+{
+  "name": "continuity",
+  "displayName": "Continuity",
+  "description": "Keep characters consistent.",
+  "homepage": "https://continuity-snowy.vercel.app/connect",
+  "docs": "https://continuity-snowy.vercel.app/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "continuity": {
+      "url": "https://continuitywriter.com/mcp"
+    }
+  }
+}

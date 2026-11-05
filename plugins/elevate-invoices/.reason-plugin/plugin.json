@@ -1,0 +1,13 @@
+{
+  "name": "elevate-invoices",
+  "displayName": "Elevate Invoices",
+  "description": "Create and manage invoices.",
+  "homepage": "https://invoice.elevate.ee/",
+  "docs": "https://invoice.elevate.ee/",
+  "auth": "none",
+  "mcpServers": {
+    "elevate-invoices": {
+      "url": "https://invoice-mcp.elevate.ee/mcp"
+    }
+  }
+}

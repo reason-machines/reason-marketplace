@@ -1,0 +1,13 @@
+{
+  "name": "lazyweb",
+  "displayName": "Lazyweb",
+  "description": "Real app screens and A/B tests.",
+  "homepage": "https://www.lazyweb.com",
+  "docs": "https://www.lazyweb.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lazyweb": {
+      "url": "https://lazyweb.com/mcp"
+    }
+  }
+}

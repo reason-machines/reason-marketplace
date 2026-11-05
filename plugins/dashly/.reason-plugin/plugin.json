@@ -1,0 +1,13 @@
+{
+  "name": "dashly",
+  "displayName": "Dashly",
+  "description": "Track anything by telling AI.",
+  "homepage": "https://dashly.si",
+  "docs": "https://dashly.si",
+  "auth": "oauth",
+  "mcpServers": {
+    "dashly": {
+      "url": "https://dashly.si/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vraxeia",
+  "displayName": "Vraxeia",
+  "description": "Greek rental compliance.",
+  "homepage": "https://www.vraxeia.gr/en",
+  "docs": "https://www.vraxeia.gr/en",
+  "auth": "none",
+  "mcpServers": {
+    "vraxeia": {
+      "url": "https://vraxeia.gr/mcp"
+    }
+  }
+}

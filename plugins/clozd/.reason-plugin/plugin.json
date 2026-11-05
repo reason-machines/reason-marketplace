@@ -1,0 +1,13 @@
+{
+  "name": "clozd",
+  "displayName": "Clozd",
+  "description": "Unlock decision intelligence.",
+  "homepage": "https://www.clozd.com",
+  "docs": "https://www.clozd.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "clozd": {
+      "url": "https://mcp.clozd.com/mcp"
+    }
+  }
+}

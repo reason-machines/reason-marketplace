@@ -1,0 +1,13 @@
+{
+  "name": "bullflow",
+  "displayName": "Bullflow",
+  "description": "Options flow and market data.",
+  "homepage": "https://www.bullflow.io",
+  "docs": "https://tedix.dev/apps/bullflow/",
+  "auth": "none",
+  "mcpServers": {
+    "bullflow": {
+      "url": "https://api.bullflow.io/mcp"
+    }
+  }
+}

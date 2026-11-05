@@ -1,0 +1,13 @@
+{
+  "name": "in-practise",
+  "displayName": "In Practise",
+  "description": "Primary research for investors.",
+  "homepage": "https://inpractise.com/",
+  "docs": "https://tedix.dev/apps/in-practise/",
+  "auth": "oauth",
+  "mcpServers": {
+    "in-practise": {
+      "url": "https://inpractise.com/api/v1/mcp"
+    }
+  }
+}

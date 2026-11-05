@@ -1,0 +1,13 @@
+{
+  "name": "backlinksbeheer",
+  "displayName": "Backlinksbeheer",
+  "description": "Check your existing backlinks.",
+  "homepage": "https://backlinksbeheer.nl/plugin/",
+  "docs": "https://backlinksbeheer.nl/plugin/",
+  "auth": "oauth",
+  "mcpServers": {
+    "backlinksbeheer": {
+      "url": "https://backlinksbeheer.nl/mcp"
+    }
+  }
+}

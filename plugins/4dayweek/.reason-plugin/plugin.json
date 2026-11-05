@@ -1,0 +1,13 @@
+{
+  "name": "4dayweek",
+  "displayName": "4dayweek.io Jobs",
+  "description": "Find 4-day-week jobs.",
+  "homepage": "https://4dayweek.io",
+  "docs": "https://4dayweek.io/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "4dayweek": {
+      "url": "https://4dayweek.io/api/mcp"
+    }
+  }
+}

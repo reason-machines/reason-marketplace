@@ -1,0 +1,13 @@
+{
+  "name": "unsketch",
+  "displayName": "unsketch",
+  "description": "画像・動画を作成、修正、編集.",
+  "homepage": "https://unsketch.io",
+  "docs": "https://unsketch.io",
+  "auth": "none",
+  "mcpServers": {
+    "unsketch": {
+      "url": "https://unsketch.io/mcp"
+    }
+  }
+}

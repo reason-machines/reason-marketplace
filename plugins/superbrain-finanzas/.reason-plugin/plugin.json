@@ -1,0 +1,13 @@
+{
+  "name": "superbrain-finanzas",
+  "displayName": "Superbrain Finanzas",
+  "description": "Registra y consulta finanzas.",
+  "homepage": "https://tedix.dev/apps/superbrain-finanzas/",
+  "docs": "https://tedix.dev/apps/superbrain-finanzas/",
+  "auth": "oauth",
+  "mcpServers": {
+    "superbrain-finanzas": {
+      "url": "https://mcp-finanzas-personales-345830648064.us-central1.run.app/mcp"
+    }
+  }
+}

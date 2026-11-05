@@ -1,0 +1,13 @@
+{
+  "name": "nudges",
+  "displayName": "Nudges",
+  "description": "Reminders delivered by email.",
+  "homepage": "https://nudges.chat",
+  "docs": "https://www.nudges.chat/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "nudges": {
+      "url": "https://nudges.chat/api/mcp"
+    }
+  }
+}

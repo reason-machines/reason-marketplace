@@ -1,0 +1,13 @@
+{
+  "name": "irish-tax-hub",
+  "displayName": "Irish Tax Hub",
+  "description": "Irish tax tools and guidance.",
+  "homepage": "https://www.irishtaxhub.ie",
+  "docs": "https://www.irishtaxhub.ie/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "irish-tax-hub": {
+      "url": "https://mcp-prod.aws.irishtaxhub.ie/mcp"
+    }
+  }
+}

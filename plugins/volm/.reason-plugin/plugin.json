@@ -1,0 +1,13 @@
+{
+  "name": "volm",
+  "displayName": "Volm",
+  "description": "Plan workouts, review progress.",
+  "homepage": "https://www.volm.app",
+  "docs": "https://www.volm.app/faq/chatgpt-claude",
+  "auth": "oauth",
+  "mcpServers": {
+    "volm": {
+      "url": "https://api.volm.app/mcp"
+    }
+  }
+}

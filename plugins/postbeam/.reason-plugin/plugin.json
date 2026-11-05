@@ -1,0 +1,13 @@
+{
+  "name": "postbeam",
+  "displayName": "Postbeam",
+  "description": "Draft and review posts.",
+  "homepage": "https://postbeam.ai/",
+  "docs": "https://www.postbeam.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "postbeam": {
+      "url": "https://app.postbeam.ai/mcp"
+    }
+  }
+}

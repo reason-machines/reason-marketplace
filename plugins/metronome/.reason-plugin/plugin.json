@@ -1,0 +1,13 @@
+{
+  "name": "metronome",
+  "displayName": "Beatwise Metronome",
+  "description": "Keep time, find note durations.",
+  "homepage": "https://metronome.zovo.one",
+  "docs": "https://metronome.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "metronome": {
+      "url": "https://metronome.zovo.one/mcp"
+    }
+  }
+}

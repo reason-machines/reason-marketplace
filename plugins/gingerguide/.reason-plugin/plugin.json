@@ -1,0 +1,13 @@
+{
+  "name": "gingerguide",
+  "displayName": "Gingerguide",
+  "description": "Plan European city walks.",
+  "homepage": "https://gingerguide.app/",
+  "docs": "https://gingerguide.app/",
+  "auth": "none",
+  "mcpServers": {
+    "gingerguide": {
+      "url": "https://gingerguide.app/mcp"
+    }
+  }
+}

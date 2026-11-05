@@ -1,0 +1,13 @@
+{
+  "name": "netzero",
+  "displayName": "Netzero for Powerwall",
+  "description": "Home energy management.",
+  "homepage": "https://docs.netzero.energy/docs/integrations/AIAssistants",
+  "docs": "https://docs.netzero.energy/docs/integrations/AIAssistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "netzero": {
+      "url": "https://api.netzero.energy/mcp"
+    }
+  }
+}

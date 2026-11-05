@@ -1,0 +1,13 @@
+{
+  "name": "mentionedon",
+  "displayName": "MentionedOn",
+  "description": "Improve AI discovery.",
+  "homepage": "https://mentioned-on.com",
+  "docs": "https://mentioned-on.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mentionedon": {
+      "url": "https://mentioned-on.com/mcp"
+    }
+  }
+}

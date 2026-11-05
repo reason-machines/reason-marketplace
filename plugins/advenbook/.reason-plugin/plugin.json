@@ -1,0 +1,13 @@
+{
+  "name": "advenbook",
+  "displayName": "AdvenBook",
+  "description": "Create printed adventure books.",
+  "homepage": "https://www.advenbook.com/en",
+  "docs": "https://advenbook.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "advenbook": {
+      "url": "https://advenbook.com/api/mcp"
+    }
+  }
+}

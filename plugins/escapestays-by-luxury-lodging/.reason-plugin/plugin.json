@@ -1,0 +1,13 @@
+{
+  "name": "escapestays-by-luxury-lodging",
+  "displayName": "EscapeStays by Luxury Lodging",
+  "description": "Book vacation rentals direct.",
+  "homepage": "https://stay.luxurylodgingpm.com",
+  "docs": "https://stay.luxurylodgingpm.com",
+  "auth": "none",
+  "mcpServers": {
+    "escapestays-by-luxury-lodging": {
+      "url": "https://stay.luxurylodgingpm.com/mcp"
+    }
+  }
+}

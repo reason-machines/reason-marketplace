@@ -1,0 +1,13 @@
+{
+  "name": "loadster",
+  "displayName": "Loadster",
+  "description": "Build and analyze load tests.",
+  "homepage": "https://loadster.com/",
+  "docs": "https://loadster.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "loadster": {
+      "url": "https://api.loadster.com/mcp"
+    }
+  }
+}

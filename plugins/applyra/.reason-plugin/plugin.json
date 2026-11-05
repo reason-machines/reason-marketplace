@@ -1,0 +1,13 @@
+{
+  "name": "applyra",
+  "displayName": "Applyra",
+  "description": "App Store and Google Play ASO.",
+  "homepage": "https://www.applyra.io",
+  "docs": "https://www.applyra.io/features/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "applyra": {
+      "url": "https://www.applyra.io/api/mcp"
+    }
+  }
+}

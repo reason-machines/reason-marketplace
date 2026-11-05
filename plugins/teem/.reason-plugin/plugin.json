@@ -1,0 +1,13 @@
+{
+  "name": "teem",
+  "displayName": "teem",
+  "description": "Support, feedback, changelog.",
+  "homepage": "https://teem.so",
+  "docs": "https://teem.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "teem": {
+      "url": "https://teem.so/mcp"
+    }
+  }
+}

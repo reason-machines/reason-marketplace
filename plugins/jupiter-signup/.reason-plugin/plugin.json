@@ -1,0 +1,13 @@
+{
+  "name": "jupiter-signup",
+  "displayName": "Jupiter Signup",
+  "description": "Sign-up forms with payments.",
+  "homepage": "https://jupitersignup.com",
+  "docs": "https://jupitersignup.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "jupiter-signup": {
+      "url": "https://jupitersignup.com/mcp"
+    }
+  }
+}

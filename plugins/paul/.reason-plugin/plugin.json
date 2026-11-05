@@ -1,0 +1,13 @@
+{
+  "name": "paul",
+  "displayName": "Paul",
+  "description": "The AI Slide Editor.",
+  "homepage": "https://askpaul.app",
+  "docs": "https://askpaul.app/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "paul": {
+      "url": "https://askpaul.app/api/mcp"
+    }
+  }
+}

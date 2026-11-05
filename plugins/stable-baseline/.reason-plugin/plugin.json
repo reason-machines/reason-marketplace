@@ -1,0 +1,13 @@
+{
+  "name": "stable-baseline",
+  "displayName": "Stable Baseline",
+  "description": "Documentation, plans & boards.",
+  "homepage": "https://stablebaseline.io",
+  "docs": "https://stablebaseline.io/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "stable-baseline": {
+      "url": "https://api.stablebaseline.io/functions/v1/cloud-serve/mcp"
+    }
+  }
+}

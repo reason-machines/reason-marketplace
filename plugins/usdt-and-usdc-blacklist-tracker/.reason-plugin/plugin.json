@@ -1,0 +1,13 @@
+{
+  "name": "usdt-and-usdc-blacklist-tracker",
+  "displayName": "USDT & USDC Blacklist Tracker",
+  "description": "Check any wallet for freezes.",
+  "homepage": "https://eaglevirtual.com/mcp",
+  "docs": "https://eaglevirtual.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "usdt-and-usdc-blacklist-tracker": {
+      "url": "https://mcp.eaglevirtual.com/mcp"
+    }
+  }
+}

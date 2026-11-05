@@ -1,0 +1,13 @@
+{
+  "name": "genizahsearch",
+  "displayName": "GenizahSearch",
+  "description": "Cairo Genizah manuscripts.",
+  "homepage": "https://genizahsearch.com",
+  "docs": "https://genizahsearch.com",
+  "auth": "none",
+  "mcpServers": {
+    "genizahsearch": {
+      "url": "https://genizahsearch.com/mcp"
+    }
+  }
+}

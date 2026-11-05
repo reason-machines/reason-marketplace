@@ -1,0 +1,13 @@
+{
+  "name": "ai-content-drop",
+  "displayName": "AI Content Drop",
+  "description": "Create AI videos, images, ads.",
+  "homepage": "https://aicontentdrop.com",
+  "docs": "https://aicontentdrop.com",
+  "auth": "none",
+  "mcpServers": {
+    "ai-content-drop": {
+      "url": "https://aicontentdrop.com/mcp"
+    }
+  }
+}

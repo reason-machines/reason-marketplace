@@ -1,0 +1,13 @@
+{
+  "name": "here-comes-the-guide",
+  "displayName": "Here Comes The Guide",
+  "description": "Find your dream wedding venue.",
+  "homepage": "https://www.herecomestheguide.com",
+  "docs": "https://www.herecomestheguide.com",
+  "auth": "none",
+  "mcpServers": {
+    "here-comes-the-guide": {
+      "url": "https://mcp.herecomestheguide.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gondwana",
+  "displayName": "Gondwana",
+  "description": "Build and debug Gondwana games.",
+  "homepage": "https://github.com/Isthimius/Gondwana",
+  "docs": "https://github.com/Isthimius/Gondwana/wiki/Gondwana-MCP-Service-%E2%80%94-Setup,-Deployment,-and-Maintenance-Guide",
+  "auth": "none",
+  "mcpServers": {
+    "gondwana": {
+      "url": "https://mcp.hiddenworldsgames.com/mcp"
+    }
+  }
+}

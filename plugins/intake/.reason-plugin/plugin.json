@@ -1,0 +1,13 @@
+{
+  "name": "intake",
+  "displayName": "Intake – Client Docs",
+  "description": "Collect client docs and forms.",
+  "homepage": "https://dointake.com",
+  "docs": "https://dointake.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "intake": {
+      "url": "https://dointake.com/mcp"
+    }
+  }
+}

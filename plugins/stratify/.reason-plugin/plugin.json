@@ -1,0 +1,13 @@
+{
+  "name": "stratify",
+  "displayName": "Stratify",
+  "description": "Describe a strategy. Test it.",
+  "homepage": "https://stratify.aeon-labs.site/",
+  "docs": "https://stratify.aeon-labs.site/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "stratify": {
+      "url": "https://stratify-mcp.aeon-labs.site/mcp"
+    }
+  }
+}

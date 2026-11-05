@@ -1,0 +1,13 @@
+{
+  "name": "agent-spot",
+  "displayName": "agent.spot",
+  "description": "Find and compare AI tools.",
+  "homepage": "https://search.agent.spot",
+  "docs": "https://search.agent.spot",
+  "auth": "none",
+  "mcpServers": {
+    "agent-spot": {
+      "url": "https://mcp.agent.spot/mcp"
+    }
+  }
+}

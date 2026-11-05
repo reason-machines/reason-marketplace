@@ -1,0 +1,13 @@
+{
+  "name": "party-pass",
+  "displayName": "PartyPass",
+  "description": "Host and share invitations.",
+  "homepage": "https://www.partypass.mx",
+  "docs": "https://www.partypass.mx",
+  "auth": "none",
+  "mcpServers": {
+    "party-pass": {
+      "url": "https://mcp.partypass.mx/mcp"
+    }
+  }
+}

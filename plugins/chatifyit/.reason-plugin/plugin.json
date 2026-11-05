@@ -1,0 +1,13 @@
+{
+  "name": "chatifyit",
+  "displayName": "ChatifyIT",
+  "description": "Save post & email drafts.",
+  "homepage": "https://www.chatifyit.com",
+  "docs": "https://www.chatifyit.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "chatifyit": {
+      "url": "https://chatifyit.com/mcp"
+    }
+  }
+}

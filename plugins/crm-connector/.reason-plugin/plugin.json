@@ -1,0 +1,13 @@
+{
+  "name": "crm-connector",
+  "displayName": "CRM Connector",
+  "description": "Automate and sync your apps.",
+  "homepage": "https://crm-connector.com/platform",
+  "docs": "https://crm-connector.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "crm-connector": {
+      "url": "https://platform-mcp.crm-connector.com/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stay-portland",
+  "displayName": "Stay Portland",
+  "description": "Explore Portland rental homes.",
+  "homepage": "https://www.stayportland.com",
+  "docs": "https://www.stayportland.com",
+  "auth": "none",
+  "mcpServers": {
+    "stay-portland": {
+      "url": "https://stayportland.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "anisongs",
+  "displayName": "Anisongs",
+  "description": "Build anime song playlists.",
+  "homepage": "https://anisongs.jp/",
+  "docs": "https://anisongs.jp/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "anisongs": {
+      "url": "https://anisongs.jp/site/mcp.php"
+    }
+  }
+}

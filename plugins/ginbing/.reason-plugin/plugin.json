@@ -1,0 +1,13 @@
+{
+  "name": "ginbing",
+  "displayName": "Ginbing",
+  "description": "Prepare China trademark drafts.",
+  "homepage": "https://ginbing.com/china-trademark-registration",
+  "docs": "https://ginbing.com/china-trademark-registration",
+  "auth": "oauth",
+  "mcpServers": {
+    "ginbing": {
+      "url": "https://mcp.ginbing.com/mcp"
+    }
+  }
+}

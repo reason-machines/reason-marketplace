@@ -1,0 +1,13 @@
+{
+  "name": "iprally",
+  "displayName": "IPRally",
+  "description": "Search and analyze patents.",
+  "homepage": "https://www.iprally.com",
+  "docs": "https://www.iprally.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "iprally": {
+      "url": "https://mcp.iprally.com/mcp"
+    }
+  }
+}

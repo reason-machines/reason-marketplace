@@ -1,0 +1,13 @@
+{
+  "name": "workbranch",
+  "displayName": "Workbranch",
+  "description": "Keep tasks from your chats.",
+  "homepage": "https://workbranch.ai",
+  "docs": "https://workbranch.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "workbranch": {
+      "url": "https://mcp.workbranch.ai/mcp"
+    }
+  }
+}

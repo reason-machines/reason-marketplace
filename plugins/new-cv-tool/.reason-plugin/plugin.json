@@ -1,0 +1,13 @@
+{
+  "name": "new-cv-tool",
+  "displayName": "New CV Tool",
+  "description": "Tailor CVs without invention.",
+  "homepage": "https://newcvtool.com",
+  "docs": "https://newcvtool.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "new-cv-tool": {
+      "url": "https://newcvtool.com/mcp"
+    }
+  }
+}

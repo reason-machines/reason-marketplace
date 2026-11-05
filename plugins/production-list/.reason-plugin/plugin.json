@@ -1,0 +1,13 @@
+{
+  "name": "production-list",
+  "displayName": "Production List",
+  "description": "Who's filming what, and where.",
+  "homepage": "https://www.productionlist.com",
+  "docs": "https://www.productionlist.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "production-list": {
+      "url": "https://api.productionlist.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "def-14",
+  "displayName": "DEF 14",
+  "description": "Shareholder activism data.",
+  "homepage": "https://www.def14.co",
+  "docs": "https://www.def14.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "def-14": {
+      "url": "https://mcp.def14.co/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "uniwire",
+  "displayName": "uniwire",
+  "description": "Electrical diagrams, checked.",
+  "homepage": "https://uniwire.sh",
+  "docs": "https://uniwire.sh",
+  "auth": "none",
+  "mcpServers": {
+    "uniwire": {
+      "url": "https://mcp.uniwire.sh/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "skysay",
+  "displayName": "Skysay",
+  "description": "Voice agents, calls, and SMS.",
+  "homepage": "https://skysay.ai",
+  "docs": "https://skysay.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "skysay": {
+      "url": "https://api.skysay.ai/mcp"
+    }
+  }
+}

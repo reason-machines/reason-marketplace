@@ -1,0 +1,13 @@
+{
+  "name": "orbbit-data",
+  "displayName": "Orbbit Data",
+  "description": "Trusted market data for AI.",
+  "homepage": "https://www.orbbit.co/data/business",
+  "docs": "https://docs.orbbit.co/for-agents/data-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "orbbit-data": {
+      "url": "https://data-api.orbbit.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sito-kids-baby-food",
+  "displayName": "sito: Kids & Baby Food",
+  "description": "First foods & food scores.",
+  "homepage": "https://sito.kids",
+  "docs": "https://sito.kids",
+  "auth": "none",
+  "mcpServers": {
+    "sito-kids-baby-food": {
+      "url": "https://sito.kids/mcp"
+    }
+  }
+}

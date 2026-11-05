@@ -1,0 +1,13 @@
+{
+  "name": "livd",
+  "displayName": "LIVD",
+  "description": "Manage employee benefits.",
+  "homepage": "https://livdapp.com",
+  "docs": "https://livdapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "livd": {
+      "url": "https://mcp.livdapp.com/mcp"
+    }
+  }
+}

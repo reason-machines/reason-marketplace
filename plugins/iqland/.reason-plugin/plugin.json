@@ -1,0 +1,13 @@
+{
+  "name": "iqland",
+  "displayName": "IQLand",
+  "description": "Real-estate dev intelligence.",
+  "homepage": "https://iqland.ai",
+  "docs": "https://iqland.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "iqland": {
+      "url": "https://mcp.iqland.ai/mcp"
+    }
+  }
+}

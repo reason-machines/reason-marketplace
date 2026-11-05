@@ -1,0 +1,13 @@
+{
+  "name": "social-growth-engineers",
+  "displayName": "Social Growth Engineers",
+  "description": "Viral app marketing research.",
+  "homepage": "https://www.socialgrowthengineers.com",
+  "docs": "https://www.socialgrowthengineers.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "social-growth-engineers": {
+      "url": "https://socialgrowthengineers.com/mcp"
+    }
+  }
+}

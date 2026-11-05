@@ -1,0 +1,13 @@
+{
+  "name": "moonwalk",
+  "displayName": "Moonwalk",
+  "description": "Write and publish live boards.",
+  "homepage": "https://about.moonwalk.now/",
+  "docs": "https://moonwalk.now/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "moonwalk": {
+      "url": "https://moonwalk.now/api/mcp"
+    }
+  }
+}

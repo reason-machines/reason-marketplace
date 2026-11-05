@@ -1,0 +1,13 @@
+{
+  "name": "dailyed",
+  "displayName": "DailyEd",
+  "description": "Create classroom activities.",
+  "homepage": "https://dailyed.app/use-with-ai",
+  "docs": "https://dailyed.app/use-with-ai",
+  "auth": "none",
+  "mcpServers": {
+    "dailyed": {
+      "url": "https://dailyed.app/mcp"
+    }
+  }
+}

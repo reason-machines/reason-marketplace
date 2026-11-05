@@ -1,0 +1,13 @@
+{
+  "name": "userbrain",
+  "displayName": "Userbrain",
+  "description": "Access you user test data.",
+  "homepage": "https://www.userbrain.com/",
+  "docs": "https://www.userbrain.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "userbrain": {
+      "url": "https://mcp.userbrain.com/mcp"
+    }
+  }
+}

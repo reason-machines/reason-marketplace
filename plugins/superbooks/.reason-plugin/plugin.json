@@ -1,0 +1,13 @@
+{
+  "name": "superbooks",
+  "displayName": "SuperBooks",
+  "description": "Bookkeeping and invoices.",
+  "homepage": "https://superbooks.io",
+  "docs": "https://superbooks.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "superbooks": {
+      "url": "https://app.superbooks.io/mcp"
+    }
+  }
+}

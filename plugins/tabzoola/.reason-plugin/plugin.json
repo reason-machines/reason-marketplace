@@ -1,0 +1,13 @@
+{
+  "name": "tabzoola",
+  "displayName": "Tabzoola",
+  "description": "Price custom index tabs.",
+  "homepage": "https://tabzoola.com/developers",
+  "docs": "https://tabzoola.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "tabzoola": {
+      "url": "https://tabzoola.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "servground",
+  "displayName": "ServGround",
+  "description": "Read your ServGround workspace.",
+  "homepage": "https://servground.com",
+  "docs": "https://servground.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "servground": {
+      "url": "https://servground.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "precioreal",
+  "displayName": "PrecioReal",
+  "description": "Compare prices in Spain.",
+  "homepage": "https://precioreal.com",
+  "docs": "https://precioreal.com",
+  "auth": "none",
+  "mcpServers": {
+    "precioreal": {
+      "url": "https://precioreal.com/mcp"
+    }
+  }
+}

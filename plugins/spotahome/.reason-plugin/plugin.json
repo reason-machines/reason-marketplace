@@ -1,0 +1,13 @@
+{
+  "name": "spotahome",
+  "displayName": "Spotahome",
+  "description": "Find rental homes.",
+  "homepage": "https://www.spotahome.com",
+  "docs": "https://www.spotahome.com",
+  "auth": "none",
+  "mcpServers": {
+    "spotahome": {
+      "url": "https://mcp.spotahome.com/mcp"
+    }
+  }
+}

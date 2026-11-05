@@ -1,0 +1,13 @@
+{
+  "name": "pick-my-costume",
+  "displayName": "Pick My Costume",
+  "description": "Costumes from your closet.",
+  "homepage": "https://pickmycostume.com",
+  "docs": "https://pickmycostume.com",
+  "auth": "none",
+  "mcpServers": {
+    "pick-my-costume": {
+      "url": "https://mcp.pickmycostume.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bynn",
+  "displayName": "Bynn",
+  "description": "Detect Fraud in Images and PDF.",
+  "homepage": "https://www.bynn.com",
+  "docs": "https://www.bynn.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "bynn": {
+      "url": "https://mcp.bynn.com/"
+    }
+  }
+}

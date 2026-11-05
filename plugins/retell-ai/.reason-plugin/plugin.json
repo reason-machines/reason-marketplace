@@ -1,0 +1,13 @@
+{
+  "name": "retell-ai",
+  "displayName": "Retell AI",
+  "description": "Build and deploy voice agents.",
+  "homepage": "https://www.retellai.com",
+  "docs": "https://www.retellai.com",
+  "auth": "none",
+  "mcpServers": {
+    "retell-ai": {
+      "url": "https://mcp.retellai.com/mcp"
+    }
+  }
+}

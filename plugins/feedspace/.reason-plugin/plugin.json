@@ -1,0 +1,13 @@
+{
+  "name": "feedspace",
+  "displayName": "Feedspace",
+  "description": "Manage testimonials.",
+  "homepage": "https://feedspace.io",
+  "docs": "https://feedspace.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "feedspace": {
+      "url": "https://mcp.feedspace.io/mcp"
+    }
+  }
+}

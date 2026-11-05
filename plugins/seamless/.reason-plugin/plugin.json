@@ -1,0 +1,13 @@
+{
+  "name": "seamless",
+  "displayName": "Seamless",
+  "description": "Find leads & automate outreach.",
+  "homepage": "https://seamless.ai",
+  "docs": "https://seamless.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "seamless": {
+      "url": "https://mcp.seamless.ai/mcp"
+    }
+  }
+}

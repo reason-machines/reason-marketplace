@@ -1,0 +1,13 @@
+{
+  "name": "symbol",
+  "displayName": "Symbol",
+  "description": "Store and share knowledge.",
+  "homepage": "https://symbol.chat",
+  "docs": "https://symbol.chat",
+  "auth": "oauth",
+  "mcpServers": {
+    "symbol": {
+      "url": "https://mcp.symbol.chat/mcp"
+    }
+  }
+}

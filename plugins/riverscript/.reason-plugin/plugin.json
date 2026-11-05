@@ -1,0 +1,13 @@
+{
+  "name": "riverscript",
+  "displayName": "RiverScript",
+  "description": "Bring transcripts to Reason.",
+  "homepage": "https://riverscript.com/",
+  "docs": "https://riverscript.com/",
+  "auth": "none",
+  "mcpServers": {
+    "riverscript": {
+      "url": "https://riverscript.com/mcp"
+    }
+  }
+}

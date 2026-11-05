@@ -1,0 +1,13 @@
+{
+  "name": "pipecorn",
+  "displayName": "Pipecorn",
+  "description": "B2B sales intelligence.",
+  "homepage": "https://pipecorn.com/",
+  "docs": "https://pipecorn.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "pipecorn": {
+      "url": "https://mcp.pipecorn.com/mcp"
+    }
+  }
+}

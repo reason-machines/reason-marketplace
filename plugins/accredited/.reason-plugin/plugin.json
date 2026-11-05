@@ -1,0 +1,13 @@
+{
+  "name": "accredited",
+  "displayName": "Accredited",
+  "description": "Find and buy a business.",
+  "homepage": "https://joinaccredited.com",
+  "docs": "https://joinaccredited.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "accredited": {
+      "url": "https://joinaccredited.com/mcp"
+    }
+  }
+}

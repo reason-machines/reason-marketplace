@@ -1,0 +1,13 @@
+{
+  "name": "powly",
+  "displayName": "Powly",
+  "description": "Ski resorts & snow in the Alps.",
+  "homepage": "https://powly.de/map",
+  "docs": "https://powly.de/map",
+  "auth": "none",
+  "mcpServers": {
+    "powly": {
+      "url": "https://mcp.powly.de/mcp"
+    }
+  }
+}

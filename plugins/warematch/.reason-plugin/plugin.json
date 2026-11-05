@@ -1,0 +1,13 @@
+{
+  "name": "warematch",
+  "displayName": "WareMatch",
+  "description": "3PL Warehousing Marketplace.",
+  "homepage": "https://www.warematch.com/",
+  "docs": "https://www.warematch.com/",
+  "auth": "none",
+  "mcpServers": {
+    "warematch": {
+      "url": "https://mcp.warematch.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "unotes",
+  "displayName": "uNotes",
+  "description": "Search your study library.",
+  "homepage": "https://unotes.net/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=net.unotes/unotes",
+  "auth": "oauth",
+  "mcpServers": {
+    "unotes": {
+      "url": "https://unotes.net/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "firmenliste",
+  "displayName": "Firmenliste",
+  "description": "Find B2B company addresses.",
+  "homepage": "https://www.firmenliste.net",
+  "docs": "https://www.firmenliste.net/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "firmenliste": {
+      "url": "https://firmenliste-mcp.cf-firmenliste.workers.dev/"
+    }
+  }
+}

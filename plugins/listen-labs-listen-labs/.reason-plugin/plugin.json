@@ -1,0 +1,13 @@
+{
+  "name": "listen-labs-listen-labs",
+  "displayName": "Listen Labs",
+  "description": "Interview customers at scale.",
+  "homepage": "https://listenlabs.com/",
+  "docs": "https://listenlabs.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "listen-labs-listen-labs": {
+      "url": "https://listenlabs.com/mcp"
+    }
+  }
+}

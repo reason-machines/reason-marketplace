@@ -1,0 +1,13 @@
+{
+  "name": "sent",
+  "displayName": "Sent",
+  "description": "Send SMS, RCS, and WhatsApp.",
+  "homepage": "https://www.sent.dm",
+  "docs": "https://www.sent.dm",
+  "auth": "oauth",
+  "mcpServers": {
+    "sent": {
+      "url": "https://mcp.sent.dm/mcp"
+    }
+  }
+}

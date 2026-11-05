@@ -1,0 +1,13 @@
+{
+  "name": "dwelln",
+  "displayName": "Dwelln",
+  "description": "Keep up with your home.",
+  "homepage": "https://dwelln.app",
+  "docs": "https://dwelln.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "dwelln": {
+      "url": "https://api.dwelln.app/mcp"
+    }
+  }
+}

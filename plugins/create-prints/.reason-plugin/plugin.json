@@ -1,0 +1,13 @@
+{
+  "name": "create-prints",
+  "displayName": "Create Prints",
+  "description": "Turn images into wall prints.",
+  "homepage": "https://www.createprints.ai",
+  "docs": "https://www.createprints.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "create-prints": {
+      "url": "https://mcp.createprints.ai/mcp"
+    }
+  }
+}

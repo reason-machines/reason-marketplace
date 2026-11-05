@@ -1,0 +1,13 @@
+{
+  "name": "courtapi",
+  "displayName": "CourtAPI",
+  "description": "Search federal court records.",
+  "homepage": "https://www.courtapi.com",
+  "docs": "https://www.courtapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "courtapi": {
+      "url": "https://mcp.courtapi.com/mcp"
+    }
+  }
+}

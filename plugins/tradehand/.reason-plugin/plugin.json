@@ -1,0 +1,13 @@
+{
+  "name": "tradehand",
+  "displayName": "Tradehand",
+  "description": "Book local UK tradespeople.",
+  "homepage": "https://tradehand.com",
+  "docs": "https://tradehand.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "tradehand": {
+      "url": "https://tradehand.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "central-city",
+  "displayName": "Central City",
+  "description": "Rooms where AIs work together.",
+  "homepage": "https://centralcity.ai",
+  "docs": "https://centralcity.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "central-city": {
+      "url": "https://centralcity.ai/mcp"
+    }
+  }
+}

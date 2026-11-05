@@ -1,0 +1,13 @@
+{
+  "name": "vidmoat",
+  "displayName": "Vidmoat",
+  "description": "The agent-first video editor.",
+  "homepage": "https://vidmoat.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.vidmoat/vidmoat",
+  "auth": "oauth",
+  "mcpServers": {
+    "vidmoat": {
+      "url": "https://api.vidmoat.com/api/mcp"
+    }
+  }
+}

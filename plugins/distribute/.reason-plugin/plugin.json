@@ -1,0 +1,13 @@
+{
+  "name": "distribute",
+  "displayName": "Distribute",
+  "description": "Sales pages from your calls.",
+  "homepage": "https://www.distribute.so",
+  "docs": "https://distribute.so/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "distribute": {
+      "url": "https://api.distribute.so/mcp"
+    }
+  }
+}

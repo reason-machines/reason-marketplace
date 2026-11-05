@@ -1,0 +1,13 @@
+{
+  "name": "citron",
+  "displayName": "Citron",
+  "description": "Save, find and plan recipes.",
+  "homepage": "https://www.citronapp.co",
+  "docs": "https://www.citronapp.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "citron": {
+      "url": "https://mcp.citronapp.co/mcp"
+    }
+  }
+}

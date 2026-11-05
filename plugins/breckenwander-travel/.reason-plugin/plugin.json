@@ -1,0 +1,13 @@
+{
+  "name": "breckenwander-travel",
+  "displayName": "BreckenWander Travel",
+  "description": "Find flights, hotels & tours.",
+  "homepage": "https://breckenwander.com",
+  "docs": "https://breckenwander.com",
+  "auth": "none",
+  "mcpServers": {
+    "breckenwander-travel": {
+      "url": "https://mcp.breckenwander.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "softhills",
+  "displayName": "Softhills",
+  "description": "Search Softhills SDK docs.",
+  "homepage": "https://ai.softhills.net",
+  "docs": "https://ai.softhills.net",
+  "auth": "none",
+  "mcpServers": {
+    "softhills": {
+      "url": "https://ai.softhills.net/mcp"
+    }
+  }
+}

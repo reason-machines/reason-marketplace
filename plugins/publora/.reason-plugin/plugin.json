@@ -1,0 +1,13 @@
+{
+  "name": "publora",
+  "displayName": "Publora",
+  "description": "Post to 10 social networks.",
+  "homepage": "https://publora.com",
+  "docs": "https://publora.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "publora": {
+      "url": "https://mcp.publora.com/mcp"
+    }
+  }
+}

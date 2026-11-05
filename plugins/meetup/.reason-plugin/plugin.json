@@ -1,0 +1,13 @@
+{
+  "name": "meetup",
+  "displayName": "Meetup",
+  "description": "Find local social events.",
+  "homepage": "https://www.meetup.com/",
+  "docs": "https://www.meetup.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "meetup": {
+      "url": "https://mcp.meetup.com/mcp"
+    }
+  }
+}

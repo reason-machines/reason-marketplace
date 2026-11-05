@@ -1,0 +1,13 @@
+{
+  "name": "critical-path",
+  "displayName": "Pathline Project Planner",
+  "description": "Critical tasks, slack & CSV.",
+  "homepage": "https://critical-path.zovo.one",
+  "docs": "https://critical-path.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "critical-path": {
+      "url": "https://critical-path.zovo.one/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "synthetic-users",
+  "displayName": "Synthetic Users",
+  "description": "Research with synthetic users.",
+  "homepage": "https://www.syntheticusers.com",
+  "docs": "https://www.syntheticusers.com/connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "synthetic-users": {
+      "url": "https://api.syntheticusers.com/mcp"
+    }
+  }
+}

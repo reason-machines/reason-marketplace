@@ -1,0 +1,13 @@
+{
+  "name": "spinify",
+  "displayName": "Spinify",
+  "description": "Sales leaderboards & coaching.",
+  "homepage": "https://spinify.com",
+  "docs": "https://spinify.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "spinify": {
+      "url": "https://mcp.spinify.com/mcp"
+    }
+  }
+}

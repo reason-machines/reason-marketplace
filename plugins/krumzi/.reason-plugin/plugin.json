@@ -1,0 +1,13 @@
+{
+  "name": "krumzi",
+  "displayName": "Krumzi",
+  "description": "Create social media graphics.",
+  "homepage": "https://krumzi.com/mcp",
+  "docs": "https://krumzi.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "krumzi": {
+      "url": "https://www.krumzi.com/api/mcp"
+    }
+  }
+}

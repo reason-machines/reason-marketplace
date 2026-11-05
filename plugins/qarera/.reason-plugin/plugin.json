@@ -1,0 +1,13 @@
+{
+  "name": "qarera",
+  "displayName": "Qarera",
+  "description": "Search jobs & tailor resumes.",
+  "homepage": "https://www.qarera.com/",
+  "docs": "https://www.qarera.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "qarera": {
+      "url": "https://mcp.qarera.com/mcp"
+    }
+  }
+}

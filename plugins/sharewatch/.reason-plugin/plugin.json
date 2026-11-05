@@ -1,0 +1,13 @@
+{
+  "name": "sharewatch",
+  "displayName": "ShareWatch",
+  "description": "Secure Google Workspace.",
+  "homepage": "https://sharewatch.ai",
+  "docs": "https://sharewatch.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "sharewatch": {
+      "url": "https://sharewatch.ai/mcp"
+    }
+  }
+}

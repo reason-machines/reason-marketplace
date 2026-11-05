@@ -1,0 +1,13 @@
+{
+  "name": "morpha",
+  "displayName": "MorphaReels",
+  "description": "Edit short videos by typing.",
+  "homepage": "https://morphareels.ai",
+  "docs": "https://morphareels.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "morpha": {
+      "url": "https://morphareels.ai/mcp"
+    }
+  }
+}

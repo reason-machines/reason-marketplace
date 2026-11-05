@@ -1,0 +1,13 @@
+{
+  "name": "menlo-insurance",
+  "displayName": "Menlo",
+  "description": "Home and business insurance.",
+  "homepage": "https://www.menloinsurance.com",
+  "docs": "https://www.menloinsurance.com",
+  "auth": "none",
+  "mcpServers": {
+    "menlo-insurance": {
+      "url": "https://menloinsurance.com/mcp"
+    }
+  }
+}

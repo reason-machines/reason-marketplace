@@ -1,0 +1,13 @@
+{
+  "name": "kickaround",
+  "displayName": "Kickaround",
+  "description": "Several AIs, one verdict.",
+  "homepage": "https://kickaround.app",
+  "docs": "https://kickaround.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "kickaround": {
+      "url": "https://kickaround.app/mcp"
+    }
+  }
+}

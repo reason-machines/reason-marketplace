@@ -1,0 +1,13 @@
+{
+  "name": "tokrate",
+  "displayName": "Tokrate",
+  "description": "Coding model speed, in context.",
+  "homepage": "https://tokrate.dev/chatgpt",
+  "docs": "https://tokrate.dev/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "tokrate": {
+      "url": "https://tokrate.dev/api/public/v1/mcp"
+    }
+  }
+}

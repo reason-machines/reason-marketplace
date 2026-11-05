@@ -1,0 +1,13 @@
+{
+  "name": "supercurve",
+  "displayName": "Supercurve Marketing Teammate",
+  "description": "Your AI marketing teammate.",
+  "homepage": "https://supercurve.ai",
+  "docs": "https://supercurve.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "supercurve": {
+      "url": "https://mcp.supercurve.ai/mcp"
+    }
+  }
+}

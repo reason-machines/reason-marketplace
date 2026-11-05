@@ -1,0 +1,13 @@
+{
+  "name": "jessie-script-director",
+  "displayName": "Jessie Script Director",
+  "description": "Guided product-video scripts.",
+  "homepage": "https://jessie-public-chatgpt-app.vercel.app/",
+  "docs": "https://jessie-public-chatgpt-app.vercel.app/",
+  "auth": "none",
+  "mcpServers": {
+    "jessie-script-director": {
+      "url": "https://jessie-public-chatgpt-app.vercel.app/mcp"
+    }
+  }
+}

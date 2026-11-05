@@ -1,0 +1,13 @@
+{
+  "name": "alignbase-com",
+  "displayName": "Alignbase",
+  "description": "Manage agent context.",
+  "homepage": "https://alignbase.com/",
+  "docs": "https://app.alignbase.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "alignbase-com": {
+      "url": "https://app.alignbase.com/mcp"
+    }
+  }
+}

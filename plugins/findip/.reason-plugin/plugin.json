@@ -1,0 +1,13 @@
+{
+  "name": "findip",
+  "displayName": "FindIp",
+  "description": "Semantic patent search.",
+  "homepage": "https://findip.ai",
+  "docs": "https://findip.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "findip": {
+      "url": "https://mcp.findip.ai/mcp"
+    }
+  }
+}

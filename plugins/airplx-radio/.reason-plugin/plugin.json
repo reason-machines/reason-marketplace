@@ -1,0 +1,13 @@
+{
+  "name": "airplx-radio",
+  "displayName": "AirPlx Radio",
+  "description": "Search your FBO radio log.",
+  "homepage": "https://www.airplx.com",
+  "docs": "https://docs.airplx.com/radio/ai-assistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "airplx-radio": {
+      "url": "https://radio.airplx.com/mcp"
+    }
+  }
+}

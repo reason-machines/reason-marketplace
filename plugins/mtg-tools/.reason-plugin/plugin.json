@@ -1,0 +1,13 @@
+{
+  "name": "mtg-tools",
+  "displayName": "MTG Tools",
+  "description": "Improve Commander decklists.",
+  "homepage": "https://landfiller.app/ai",
+  "docs": "https://landfiller.app/ai",
+  "auth": "none",
+  "mcpServers": {
+    "mtg-tools": {
+      "url": "https://landfiller.app/mcp"
+    }
+  }
+}

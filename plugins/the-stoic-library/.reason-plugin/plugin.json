@@ -1,0 +1,13 @@
+{
+  "name": "the-stoic-library",
+  "displayName": "The Stoic Library",
+  "description": "Find and read Stoic sources.",
+  "homepage": "https://thestoiclibrary.com/plugin",
+  "docs": "https://thestoiclibrary.com/plugin",
+  "auth": "none",
+  "mcpServers": {
+    "the-stoic-library": {
+      "url": "https://thestoiclibrary.com/mcp"
+    }
+  }
+}

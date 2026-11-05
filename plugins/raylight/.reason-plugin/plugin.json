@@ -1,0 +1,13 @@
+{
+  "name": "raylight",
+  "displayName": "Raylight",
+  "description": "Product videos, edited by AI.",
+  "homepage": "https://www.raylight.app",
+  "docs": "https://raylight.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "raylight": {
+      "url": "https://api.raylight.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "trimcarbon",
+  "displayName": "TrimCarbon",
+  "description": "Flight CO₂ estimates.",
+  "homepage": "https://trimcarbon.com/ai",
+  "docs": "https://trimcarbon.com/ai",
+  "auth": "none",
+  "mcpServers": {
+    "trimcarbon": {
+      "url": "https://mcp.trimcarbon.com/mcp"
+    }
+  }
+}

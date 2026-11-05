@@ -1,0 +1,13 @@
+{
+  "name": "rentadriver",
+  "displayName": "RentADriver",
+  "description": "Quote, book and track parcels.",
+  "homepage": "https://rentadriver.ai",
+  "docs": "https://rentadriver.ai",
+  "auth": "none",
+  "mcpServers": {
+    "rentadriver": {
+      "url": "https://mcp.rentadriver.ai/mcp"
+    }
+  }
+}

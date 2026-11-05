@@ -1,0 +1,13 @@
+{
+  "name": "hospitable",
+  "displayName": "Hospitable",
+  "description": "Manage short-term rentals.",
+  "homepage": "https://hospitable.com",
+  "docs": "https://hospitable.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hospitable": {
+      "url": "https://mcp.hospitable.com/mcp"
+    }
+  }
+}

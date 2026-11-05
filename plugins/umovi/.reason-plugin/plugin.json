@@ -1,0 +1,13 @@
+{
+  "name": "umovi",
+  "displayName": "Umovi",
+  "description": "Book services and manage times.",
+  "homepage": "https://umovi.app",
+  "docs": "https://docs.umovi.app/",
+  "auth": "none",
+  "mcpServers": {
+    "umovi": {
+      "url": "https://agent.umovi.app/mcp"
+    }
+  }
+}

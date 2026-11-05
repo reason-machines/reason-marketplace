@@ -1,0 +1,13 @@
+{
+  "name": "letspackup",
+  "displayName": "LetsPackUp",
+  "description": "Your trip, organized & shared.",
+  "homepage": "https://letspackup.com",
+  "docs": "https://letspackup.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "letspackup": {
+      "url": "https://letspackup.com/mcp"
+    }
+  }
+}

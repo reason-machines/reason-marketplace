@@ -1,0 +1,13 @@
+{
+  "name": "tipranks",
+  "displayName": "TipRanks",
+  "description": "Analyst-backed stock research.",
+  "homepage": "https://github.com/TipRanks/mcp/blob/main/README.md",
+  "docs": "https://github.com/TipRanks/mcp/blob/main/README.md",
+  "auth": "oauth",
+  "mcpServers": {
+    "tipranks": {
+      "url": "https://mcp.tipranks.com/mcp/"
+    }
+  }
+}

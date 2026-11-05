@@ -1,0 +1,13 @@
+{
+  "name": "syncee-ai-dropship-and-wholesale",
+  "displayName": "Syncee AI Dropship & Wholesale",
+  "description": "Explore dropshipping products.",
+  "homepage": "https://syncee.com/",
+  "docs": "https://syncee.com/",
+  "auth": "none",
+  "mcpServers": {
+    "syncee-ai-dropship-and-wholesale": {
+      "url": "https://mcp.syncee.com/mcp"
+    }
+  }
+}

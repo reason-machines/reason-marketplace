@@ -1,0 +1,13 @@
+{
+  "name": "calendesk",
+  "displayName": "Calendesk",
+  "description": "Your scheduling assistant.",
+  "homepage": "https://calendesk.com/",
+  "docs": "https://calendesk.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "calendesk": {
+      "url": "https://mcp.calendesk.com/"
+    }
+  }
+}

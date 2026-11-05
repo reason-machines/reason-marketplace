@@ -1,0 +1,13 @@
+{
+  "name": "apyhub-eu",
+  "displayName": "ApyHub EU",
+  "description": "Discover and run APIs.",
+  "homepage": "https://apyhub.com/",
+  "docs": "https://apyhub.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "apyhub-eu": {
+      "url": "https://mcp.eu.apyhub.com/"
+    }
+  }
+}

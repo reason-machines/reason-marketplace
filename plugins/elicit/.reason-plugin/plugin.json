@@ -1,0 +1,13 @@
+{
+  "name": "elicit",
+  "displayName": "Elicit",
+  "description": "Search scientific literature.",
+  "homepage": "https://elicit.com",
+  "docs": "https://docs.elicit.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "elicit": {
+      "url": "https://elicit.com/api/mcp"
+    }
+  }
+}

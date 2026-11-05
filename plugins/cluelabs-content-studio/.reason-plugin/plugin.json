@@ -1,0 +1,13 @@
+{
+  "name": "cluelabs-content-studio",
+  "displayName": "Cluelabs Content Studio",
+  "description": "Elearning course design tools.",
+  "homepage": "https://cluelabs.com/",
+  "docs": "https://cluelabs.com/mcp-ai-tools-for-elearning",
+  "auth": "oauth",
+  "mcpServers": {
+    "cluelabs-content-studio": {
+      "url": "https://cluelabs.com/api/cluelabs/content/mcp"
+    }
+  }
+}

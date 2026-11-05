@@ -1,0 +1,13 @@
+{
+  "name": "incarna",
+  "displayName": "Incarna",
+  "description": "Turn your plan into a workout.",
+  "homepage": "https://incarna.fit",
+  "docs": "https://incarna.fit/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "incarna": {
+      "url": "https://api.incarna.app/mcp"
+    }
+  }
+}

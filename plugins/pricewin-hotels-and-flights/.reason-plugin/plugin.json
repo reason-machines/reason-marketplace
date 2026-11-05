@@ -1,0 +1,13 @@
+{
+  "name": "pricewin-hotels-and-flights",
+  "displayName": "Pricewin Hotels & Flights",
+  "description": "Compare live travel prices.",
+  "homepage": "https://www.price.win/",
+  "docs": "https://www.price.win/",
+  "auth": "none",
+  "mcpServers": {
+    "pricewin-hotels-and-flights": {
+      "url": "https://mcp.price.win/mcp"
+    }
+  }
+}

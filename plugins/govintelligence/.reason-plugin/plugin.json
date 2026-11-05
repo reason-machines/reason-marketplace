@@ -1,0 +1,13 @@
+{
+  "name": "govintelligence",
+  "displayName": "GovIntelligence",
+  "description": "Public tender intelligence.",
+  "homepage": "https://www.gov-intel.com/en/mcp",
+  "docs": "https://www.gov-intel.com/en/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "govintelligence": {
+      "url": "https://app.gov-intel.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "voder-actions",
+  "displayName": "VODER Actions",
+  "description": "Create invoices and get paid.",
+  "homepage": "https://voder.ai",
+  "docs": "https://voder.ai/chatgpt-xero/",
+  "auth": "oauth",
+  "mcpServers": {
+    "voder-actions": {
+      "url": "https://app.voder.ai/mcp-write"
+    }
+  }
+}

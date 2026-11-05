@@ -1,0 +1,13 @@
+{
+  "name": "voluum",
+  "displayName": "Voluum",
+  "description": "Manage ad tracking.",
+  "homepage": "https://voluum.com",
+  "docs": "https://voluum.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "voluum": {
+      "url": "https://mcp.voluum.com/mcp"
+    }
+  }
+}

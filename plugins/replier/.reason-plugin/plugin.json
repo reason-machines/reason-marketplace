@@ -1,0 +1,13 @@
+{
+  "name": "replier",
+  "displayName": "Replier",
+  "description": "Automate comments and DMs.",
+  "homepage": "https://usereplier.com",
+  "docs": "https://usereplier.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "replier": {
+      "url": "https://mcp.usereplier.com/mcp"
+    }
+  }
+}

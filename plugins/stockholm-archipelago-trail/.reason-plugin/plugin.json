@@ -1,0 +1,13 @@
+{
+  "name": "stockholm-archipelago-trail",
+  "displayName": "Stockholm Archipelago Trail",
+  "description": "Plan hikes & ferry routes.",
+  "homepage": "https://map.stockholmarchipelagotrail.com",
+  "docs": "https://map.stockholmarchipelagotrail.com",
+  "auth": "none",
+  "mcpServers": {
+    "stockholm-archipelago-trail": {
+      "url": "https://map.stockholmarchipelagotrail.com/mcp"
+    }
+  }
+}

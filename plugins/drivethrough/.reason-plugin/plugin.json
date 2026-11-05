@@ -1,0 +1,13 @@
+{
+  "name": "drivethrough",
+  "displayName": "Drivethrough",
+  "description": "Build and publish websites.",
+  "homepage": "https://drivethrough.dev/",
+  "docs": "https://drivethrough.dev/",
+  "auth": "oauth",
+  "mcpServers": {
+    "drivethrough": {
+      "url": "https://mcp.drivethrough.dev/mcp"
+    }
+  }
+}

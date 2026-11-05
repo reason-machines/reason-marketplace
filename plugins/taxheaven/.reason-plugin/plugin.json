@@ -1,0 +1,13 @@
+{
+  "name": "taxheaven",
+  "displayName": "TaxHeaven",
+  "description": "Calculate UK tax & check MTD.",
+  "homepage": "https://www.taxheaven.app/",
+  "docs": "https://tedix.dev/apps/taxheaven/",
+  "auth": "none",
+  "mcpServers": {
+    "taxheaven": {
+      "url": "https://taxheaven-chatgpt-app.vercel.app/mcp"
+    }
+  }
+}

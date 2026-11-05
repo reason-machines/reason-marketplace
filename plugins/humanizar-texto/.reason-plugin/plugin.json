@@ -1,0 +1,13 @@
+{
+  "name": "humanizar-texto",
+  "displayName": "Humanizar Texto BR",
+  "description": "Polish Brazilian Portuguese.",
+  "homepage": "https://www.humanizartexto.com.br",
+  "docs": "https://www.humanizartexto.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "humanizar-texto": {
+      "url": "https://humanizartexto.com.br/mcp"
+    }
+  }
+}

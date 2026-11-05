@@ -1,0 +1,13 @@
+{
+  "name": "oi",
+  "displayName": "Oi",
+  "description": "On.",
+  "homepage": "https://www.oioioi.ai",
+  "docs": "https://oioioi.ai/resources/what-is-oi-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "oi": {
+      "url": "https://api.oioioi.ai/mcp"
+    }
+  }
+}

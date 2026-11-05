@@ -1,0 +1,13 @@
+{
+  "name": "mail-merge",
+  "displayName": "Mergewell Mail Merge",
+  "description": "Personalized PDFs from a sheet.",
+  "homepage": "https://mail-merge.zovo.one",
+  "docs": "https://mail-merge.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "mail-merge": {
+      "url": "https://mail-merge.zovo.one/mcp"
+    }
+  }
+}

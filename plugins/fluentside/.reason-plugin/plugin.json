@@ -1,0 +1,13 @@
+{
+  "name": "fluentside",
+  "displayName": "FluentSide",
+  "description": "Writing coach for Reason.",
+  "homepage": "https://fluentside.com",
+  "docs": "https://fluentside.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fluentside": {
+      "url": "https://fluentside.com/mcp"
+    }
+  }
+}

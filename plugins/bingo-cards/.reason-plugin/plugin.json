@@ -1,0 +1,13 @@
+{
+  "name": "bingo-cards",
+  "displayName": "Zovo Bingo Card Maker",
+  "description": "Printable bingo cards & caller.",
+  "homepage": "https://bingo-cards.zovo.one",
+  "docs": "https://bingo-cards.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "bingo-cards": {
+      "url": "https://bingo-cards.zovo.one/mcp"
+    }
+  }
+}

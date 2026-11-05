@@ -1,0 +1,13 @@
+{
+  "name": "borderless-budget",
+  "displayName": "Borderless Budget",
+  "description": "Ask about your money.",
+  "homepage": "https://borderlessbudget.com",
+  "docs": "https://tedix.dev/apps/borderless-budget/",
+  "auth": "oauth",
+  "mcpServers": {
+    "borderless-budget": {
+      "url": "https://app.borderlessbudget.com/mcp"
+    }
+  }
+}

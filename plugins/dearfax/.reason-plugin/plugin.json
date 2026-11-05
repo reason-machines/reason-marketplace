@@ -1,0 +1,13 @@
+{
+  "name": "dearfax",
+  "displayName": "DearFax",
+  "description": "Fax tools for your assistant.",
+  "homepage": "https://dearfax.com/llms.txt",
+  "docs": "https://dearfax.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "dearfax": {
+      "url": "https://app.dearfax.com/api/mcp"
+    }
+  }
+}

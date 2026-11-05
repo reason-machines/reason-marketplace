@@ -1,0 +1,13 @@
+{
+  "name": "control-plane",
+  "displayName": "Control Plane",
+  "description": "Build and deploy apps.",
+  "homepage": "https://docs.controlplane.com/ai/plugin",
+  "docs": "https://docs.controlplane.com/ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "control-plane": {
+      "url": "https://mcp.cpln.io/mcp"
+    }
+  }
+}

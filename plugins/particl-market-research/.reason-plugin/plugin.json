@@ -1,0 +1,13 @@
+{
+  "name": "particl-market-research",
+  "displayName": "Particl Market Research",
+  "description": "Ecommerce market intelligence.",
+  "homepage": "https://www.particl.com",
+  "docs": "https://www.particl.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "particl-market-research": {
+      "url": "https://mcp.particl.com/mcp"
+    }
+  }
+}

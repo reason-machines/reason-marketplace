@@ -1,0 +1,13 @@
+{
+  "name": "flitware",
+  "displayName": "Flitware",
+  "description": "Fleet, transport & maintenance.",
+  "homepage": "https://flitware.com?review-kyarSZhd5YEgujz8L24yv",
+  "docs": "https://api.flitware.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "flitware": {
+      "url": "https://api.flitware.com/mcp"
+    }
+  }
+}

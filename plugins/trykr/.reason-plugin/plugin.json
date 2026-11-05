@@ -1,0 +1,13 @@
+{
+  "name": "trykr",
+  "displayName": "Trykr",
+  "description": "Print your designs in Denmark.",
+  "homepage": "https://trykr.dk/tryk-fra-chatgpt",
+  "docs": "https://trykr.dk/tryk-fra-chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "trykr": {
+      "url": "https://trykr.dk/mcp"
+    }
+  }
+}

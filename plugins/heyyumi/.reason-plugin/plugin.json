@@ -1,0 +1,13 @@
+{
+  "name": "heyyumi",
+  "displayName": "HeyYumi 한국 식당·카페 검색·예약",
+  "description": "Find & book Korean restaurants.",
+  "homepage": "https://heyyumi.ai",
+  "docs": "https://heyyumi.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "heyyumi": {
+      "url": "https://mcp.heyyumi.ai/mcp"
+    }
+  }
+}

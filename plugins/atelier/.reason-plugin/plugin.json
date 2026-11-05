@@ -1,0 +1,13 @@
+{
+  "name": "atelier",
+  "displayName": "Atelier",
+  "description": "Manage interior design work.",
+  "homepage": "https://getatelier.design",
+  "docs": "https://getatelier.design/product/ai-connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "atelier": {
+      "url": "https://api.getatelier.design/mcp"
+    }
+  }
+}

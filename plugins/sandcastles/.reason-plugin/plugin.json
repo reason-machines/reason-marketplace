@@ -1,0 +1,13 @@
+{
+  "name": "sandcastles",
+  "displayName": "Sandcastles",
+  "description": "Your content strategist.",
+  "homepage": "https://sandcastles.ai",
+  "docs": "https://sandcastles.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "sandcastles": {
+      "url": "https://mcp.sandcastles.ai/"
+    }
+  }
+}

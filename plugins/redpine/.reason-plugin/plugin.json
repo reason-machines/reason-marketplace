@@ -1,0 +1,13 @@
+{
+  "name": "redpine",
+  "displayName": "Redpine",
+  "description": "Search research papers.",
+  "homepage": "https://www.redpine.ai",
+  "docs": "https://docs.redpine.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "redpine": {
+      "url": "https://api.redpine.ai/mcp"
+    }
+  }
+}

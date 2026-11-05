@@ -1,0 +1,13 @@
+{
+  "name": "gakudo-sagashi",
+  "displayName": "学童さがし",
+  "description": "Find Tokyo childcare.",
+  "homepage": "https://gakudosagashi.jp/about",
+  "docs": "https://gakudosagashi.jp/about",
+  "auth": "none",
+  "mcpServers": {
+    "gakudo-sagashi": {
+      "url": "https://gakudosagashi.jp/mcp"
+    }
+  }
+}

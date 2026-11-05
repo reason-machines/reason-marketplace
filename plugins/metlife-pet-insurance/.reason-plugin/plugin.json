@@ -1,0 +1,13 @@
+{
+  "name": "metlife-pet-insurance",
+  "displayName": "MetLife Pet Insurance",
+  "description": "Find insurance for pets.",
+  "homepage": "https://www.metlifepetinsurance.com/",
+  "docs": "https://tedix.dev/apps/metlife-pet-insurance/",
+  "auth": "none",
+  "mcpServers": {
+    "metlife-pet-insurance": {
+      "url": "https://fletch-mcp-server.fletch.co/mcp/metlifeapp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "morphed",
+  "displayName": "Morphed",
+  "description": "Create AI images and video.",
+  "homepage": "https://morphed.app/mcp",
+  "docs": "https://morphed.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "morphed": {
+      "url": "https://api.morphed.app/mcp"
+    }
+  }
+}

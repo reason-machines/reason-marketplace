@@ -1,0 +1,13 @@
+{
+  "name": "baller",
+  "displayName": "Baller",
+  "description": "Find the right credit card.",
+  "homepage": "https://tryballer.xyz/",
+  "docs": "https://tryballer.xyz/",
+  "auth": "none",
+  "mcpServers": {
+    "baller": {
+      "url": "https://tryballer.xyz/mcp"
+    }
+  }
+}

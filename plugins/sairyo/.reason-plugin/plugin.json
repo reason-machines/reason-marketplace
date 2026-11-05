@@ -1,0 +1,13 @@
+{
+  "name": "sairyo",
+  "displayName": "SAIRYO",
+  "description": "Event Management and Analytics.",
+  "homepage": "https://www.sairyo.live",
+  "docs": "https://www.sairyo.live",
+  "auth": "oauth",
+  "mcpServers": {
+    "sairyo": {
+      "url": "https://mcp.sairyo.live/mcp"
+    }
+  }
+}

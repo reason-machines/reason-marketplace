@@ -1,0 +1,13 @@
+{
+  "name": "ai-whisper-voice-note-taker",
+  "displayName": "AI Whisper Voice Note Taker",
+  "description": "Chat with your voice memos.",
+  "homepage": "https://whisprnotes.app",
+  "docs": "https://api.whisprnotes.app/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai-whisper-voice-note-taker": {
+      "url": "https://api.whisprnotes.app/mcp"
+    }
+  }
+}

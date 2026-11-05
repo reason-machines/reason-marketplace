@@ -1,0 +1,13 @@
+{
+  "name": "blindoracle-agent-trust",
+  "displayName": "BlindOracle Agent Trust",
+  "description": "Check an AI agent's record.",
+  "homepage": "https://craigmbrown.com/blindoracle/",
+  "docs": "https://craigmbrown.com/blindoracle/",
+  "auth": "none",
+  "mcpServers": {
+    "blindoracle-agent-trust": {
+      "url": "https://api.craigmbrown.com/v1/mcp"
+    }
+  }
+}

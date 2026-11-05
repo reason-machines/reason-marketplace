@@ -1,0 +1,13 @@
+{
+  "name": "mailinite",
+  "displayName": "Mailinite Outbound Readiness",
+  "description": "Check if cold email is ready.",
+  "homepage": "https://mailinite.com/",
+  "docs": "https://mailinite.com/",
+  "auth": "none",
+  "mcpServers": {
+    "mailinite": {
+      "url": "https://mailinite.com/mcp"
+    }
+  }
+}

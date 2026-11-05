@@ -1,0 +1,13 @@
+{
+  "name": "pulpo-3d",
+  "displayName": "Pulpo 3D",
+  "description": "3D printing quotes.",
+  "homepage": "https://pulpo3d.es",
+  "docs": "https://pulpo3d.es",
+  "auth": "none",
+  "mcpServers": {
+    "pulpo-3d": {
+      "url": "https://pulpo3d.es/mcp"
+    }
+  }
+}

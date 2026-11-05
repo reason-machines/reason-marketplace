@@ -1,0 +1,13 @@
+{
+  "name": "tubegrade",
+  "displayName": "TubeGrade",
+  "description": "YouTube outliers & research.",
+  "homepage": "https://www.tubegrade.com/",
+  "docs": "https://www.tubegrade.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "tubegrade": {
+      "url": "https://api.tubegrade.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "filefast",
+  "displayName": "FileFast",
+  "description": "Upload links that report back.",
+  "homepage": "https://file.fast",
+  "docs": "https://file.fast",
+  "auth": "oauth",
+  "mcpServers": {
+    "filefast": {
+      "url": "https://mcp.file.fast/mcp"
+    }
+  }
+}

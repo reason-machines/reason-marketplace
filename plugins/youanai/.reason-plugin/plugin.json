@@ -1,0 +1,13 @@
+{
+  "name": "youanai",
+  "displayName": "Youanai",
+  "description": "Social workspace.",
+  "homepage": "https://youanai.com",
+  "docs": "https://youanai.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "youanai": {
+      "url": "https://youanai.com/api/mcp"
+    }
+  }
+}

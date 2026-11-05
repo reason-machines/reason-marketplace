@@ -1,0 +1,13 @@
+{
+  "name": "zite",
+  "displayName": "Zite",
+  "description": "Build apps and manage data.",
+  "homepage": "https://www.zite.com",
+  "docs": "https://www.zite.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "zite": {
+      "url": "https://mcp.zite.com/mcp"
+    }
+  }
+}

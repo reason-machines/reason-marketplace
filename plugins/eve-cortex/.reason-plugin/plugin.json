@@ -1,0 +1,13 @@
+{
+  "name": "eve-cortex",
+  "displayName": "Eve Cortex",
+  "description": "Long-term memory you control.",
+  "homepage": "https://evecortex.com",
+  "docs": "https://evecortex.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "eve-cortex": {
+      "url": "https://eve-product.fly.dev/eve-mcp/mcp"
+    }
+  }
+}

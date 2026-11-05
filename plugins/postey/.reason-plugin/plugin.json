@@ -1,0 +1,13 @@
+{
+  "name": "postey",
+  "displayName": "Postey",
+  "description": "Draft & schedule social posts.",
+  "homepage": "https://postey.ai",
+  "docs": "https://postey.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "postey": {
+      "url": "https://mcp.postey.ai/mcp"
+    }
+  }
+}

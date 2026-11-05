@@ -1,0 +1,13 @@
+{
+  "name": "fairwhen",
+  "displayName": "Fairwhen",
+  "description": "Best day for outdoor plans.",
+  "homepage": "https://fairwhen.com",
+  "docs": "https://fairwhen.com",
+  "auth": "none",
+  "mcpServers": {
+    "fairwhen": {
+      "url": "https://fairwhen.com/mcp"
+    }
+  }
+}

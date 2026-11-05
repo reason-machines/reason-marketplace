@@ -1,0 +1,13 @@
+{
+  "name": "gastrosync",
+  "displayName": "Gastrosync",
+  "description": "Manage your events.",
+  "homepage": "https://gastrosync.com/",
+  "docs": "https://gastrosync.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "gastrosync": {
+      "url": "https://gastrosync.com/mcp"
+    }
+  }
+}

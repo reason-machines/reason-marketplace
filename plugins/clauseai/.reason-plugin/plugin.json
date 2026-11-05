@@ -1,0 +1,13 @@
+{
+  "name": "clauseai",
+  "displayName": "ClauseAI",
+  "description": "Draft startup legal documents.",
+  "homepage": "https://clauseai.exe.xyz",
+  "docs": "https://clauseai.exe.xyz",
+  "auth": "oauth",
+  "mcpServers": {
+    "clauseai": {
+      "url": "https://exe.xyz/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "layz",
+  "displayName": "layZ AI",
+  "description": "AI video create & edit.",
+  "homepage": "https://layz.ai",
+  "docs": "https://layz.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "layz": {
+      "url": "https://api.layz.ai/mcp"
+    }
+  }
+}

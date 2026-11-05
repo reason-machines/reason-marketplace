@@ -1,0 +1,13 @@
+{
+  "name": "getvideoframes",
+  "displayName": "GetVideoFrames",
+  "description": "Extract public video frames.",
+  "homepage": "https://getvideoframes.com",
+  "docs": "https://getvideoframes.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "getvideoframes": {
+      "url": "https://mcp.getvideoframes.com/mcp"
+    }
+  }
+}

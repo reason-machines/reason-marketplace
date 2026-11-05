@@ -1,0 +1,13 @@
+{
+  "name": "carlos-rodriguez",
+  "displayName": "Carlos Rodriguez",
+  "description": "Tu asesor de autos.",
+  "homepage": "https://teamcarlosrodriguez.com",
+  "docs": "https://teamcarlosrodriguez.com",
+  "auth": "none",
+  "mcpServers": {
+    "carlos-rodriguez": {
+      "url": "https://mcp.teamcarlosrodriguez.com/"
+    }
+  }
+}

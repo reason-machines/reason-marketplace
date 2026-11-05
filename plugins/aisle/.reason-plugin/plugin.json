@@ -1,0 +1,13 @@
+{
+  "name": "aisle",
+  "displayName": "Aisle",
+  "description": "Plan your destination wedding.",
+  "homepage": "https://aisle.wedding/",
+  "docs": "https://aisle.wedding/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "aisle": {
+      "url": "https://aisle.wedding/api/mcp"
+    }
+  }
+}

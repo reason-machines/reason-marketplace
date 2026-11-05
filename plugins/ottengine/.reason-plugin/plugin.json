@@ -1,0 +1,13 @@
+{
+  "name": "ottengine",
+  "displayName": "OTTEngine",
+  "description": "For streaming app publishers.",
+  "homepage": "https://www.ottengine.com/ai-connector",
+  "docs": "https://www.ottengine.com/ai-connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "ottengine": {
+      "url": "https://mcp.ottengine.com/mcp"
+    }
+  }
+}

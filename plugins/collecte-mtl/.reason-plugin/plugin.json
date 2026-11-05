@@ -1,0 +1,13 @@
+{
+  "name": "collecte-mtl",
+  "displayName": "Collecte MTL",
+  "description": "Find Montréal collection days.",
+  "homepage": "https://collectemtl.ca",
+  "docs": "https://collectemtl.ca/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "collecte-mtl": {
+      "url": "https://collectemtl.ca/api/mcp"
+    }
+  }
+}

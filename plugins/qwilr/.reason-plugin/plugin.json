@@ -1,0 +1,13 @@
+{
+  "name": "qwilr",
+  "displayName": "Qwilr",
+  "description": "Create and track proposals.",
+  "homepage": "https://qwilr.com",
+  "docs": "https://qwilr.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "qwilr": {
+      "url": "https://mcp.qwilr.com/mcp"
+    }
+  }
+}

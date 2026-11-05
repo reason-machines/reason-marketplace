@@ -1,0 +1,13 @@
+{
+  "name": "mbx-flow",
+  "displayName": "MBX Flow",
+  "description": "Schedule social media posts.",
+  "homepage": "https://mbxflow.com",
+  "docs": "https://mbxflow.com/claude/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mbx-flow": {
+      "url": "https://app.mbxflow.com/mcp"
+    }
+  }
+}

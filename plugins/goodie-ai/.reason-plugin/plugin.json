@@ -1,0 +1,13 @@
+{
+  "name": "goodie-ai",
+  "displayName": "Goodie AI",
+  "description": "Optimize AI search visibility.",
+  "homepage": "https://higoodie.com/",
+  "docs": "https://higoodie.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "goodie-ai": {
+      "url": "https://mcp.higoodie.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "roadworthy-hq",
+  "displayName": "Roadworthy HQ",
+  "description": "New-entrant audit readiness.",
+  "homepage": "https://roadworthyhq.com",
+  "docs": "https://roadworthyhq.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "roadworthy-hq": {
+      "url": "https://roadworthyhq.com/api/mcp"
+    }
+  }
+}

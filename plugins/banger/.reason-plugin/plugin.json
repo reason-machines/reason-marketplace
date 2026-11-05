@@ -1,0 +1,13 @@
+{
+  "name": "banger",
+  "displayName": "Banger",
+  "description": "Design, send, automate email.",
+  "homepage": "https://bangermail.com",
+  "docs": "https://bangermail.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "banger": {
+      "url": "https://api.bangermail.com/mcp"
+    }
+  }
+}

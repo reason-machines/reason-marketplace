@@ -1,0 +1,13 @@
+{
+  "name": "skode-crm",
+  "displayName": "Skode CRM",
+  "description": "Query and manage your CRM.",
+  "homepage": "https://skode.ai",
+  "docs": "https://skode.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "skode-crm": {
+      "url": "https://mcp.skode.ai/"
+    }
+  }
+}

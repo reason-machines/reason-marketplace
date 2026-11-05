@@ -1,0 +1,13 @@
+{
+  "name": "deepmedchem",
+  "displayName": "DeepMedChem",
+  "description": "Molecular similarity search.",
+  "homepage": "https://deepmedchem.com",
+  "docs": "https://deepmedchem.com",
+  "auth": "none",
+  "mcpServers": {
+    "deepmedchem": {
+      "url": "https://mcp.deepmedchem.com/mcp"
+    }
+  }
+}

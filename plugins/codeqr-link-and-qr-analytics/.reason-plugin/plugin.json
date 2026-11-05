@@ -1,0 +1,13 @@
+{
+  "name": "codeqr-link-and-qr-analytics",
+  "displayName": "CodeQR - Link and QR Analytics",
+  "description": "Editable, trackable QR codes.",
+  "homepage": "https://codeqr.io",
+  "docs": "https://codeqr.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "codeqr-link-and-qr-analytics": {
+      "url": "https://mcp.codeqr.io/mcp"
+    }
+  }
+}

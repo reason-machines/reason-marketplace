@@ -1,0 +1,13 @@
+{
+  "name": "simple-commenter",
+  "displayName": "Simple Commenter",
+  "description": "Manage website feedback.",
+  "homepage": "https://www.simplecommenter.com",
+  "docs": "https://www.simplecommenter.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "simple-commenter": {
+      "url": "https://www.simplecommenter.com/api/mcp"
+    }
+  }
+}

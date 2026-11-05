@@ -1,0 +1,13 @@
+{
+  "name": "kirah-local-services",
+  "displayName": "Kirah Local Services",
+  "description": "Find local services and times.",
+  "homepage": "https://kirah.ai/",
+  "docs": "https://kirah.ai/ai-agents",
+  "auth": "none",
+  "mcpServers": {
+    "kirah-local-services": {
+      "url": "https://kirah.ai/api/mcp"
+    }
+  }
+}

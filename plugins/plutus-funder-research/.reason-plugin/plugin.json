@@ -1,0 +1,13 @@
+{
+  "name": "plutus-funder-research",
+  "displayName": "Plutus Funder Research",
+  "description": "Explore alternative funders.",
+  "homepage": "https://plutusai.net/funders",
+  "docs": "https://plutusai.net/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "plutus-funder-research": {
+      "url": "https://plutusai.net/mcp/funders"
+    }
+  }
+}

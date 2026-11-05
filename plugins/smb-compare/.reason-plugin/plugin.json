@@ -1,0 +1,13 @@
+{
+  "name": "smb-compare",
+  "displayName": "SMB Compare",
+  "description": "Price business tools by cost.",
+  "homepage": "https://smbcompare.com",
+  "docs": "https://smbcompare.com/articles/smb-compare-chatgpt-claude-plugin",
+  "auth": "none",
+  "mcpServers": {
+    "smb-compare": {
+      "url": "https://smbcompare.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fun-friday",
+  "displayName": "Fun Friday",
+  "description": "Team games, ready to play.",
+  "homepage": "https://www.funfriday.work",
+  "docs": "https://www.funfriday.work/docs/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "fun-friday": {
+      "url": "https://www.funfriday.work/mcp"
+    }
+  }
+}

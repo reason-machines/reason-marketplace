@@ -1,0 +1,13 @@
+{
+  "name": "mr-winds",
+  "displayName": "MR. WINDS",
+  "description": "Where to kite, surf or sail.",
+  "homepage": "https://mrwinds.com",
+  "docs": "https://mrwinds.com",
+  "auth": "none",
+  "mcpServers": {
+    "mr-winds": {
+      "url": "https://mrwinds.com/mcp"
+    }
+  }
+}

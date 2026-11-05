@@ -1,0 +1,13 @@
+{
+  "name": "jotterful",
+  "displayName": "Jotterful",
+  "description": "Capture and organize notes.",
+  "homepage": "https://www.jotterful.com",
+  "docs": "https://www.jotterful.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "jotterful": {
+      "url": "https://www.jotterful.com/mcp"
+    }
+  }
+}

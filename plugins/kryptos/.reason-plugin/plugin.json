@@ -1,0 +1,13 @@
+{
+  "name": "kryptos",
+  "displayName": "Kryptos",
+  "description": "Crypto portfolio, tax & books.",
+  "homepage": "https://kryptos.io",
+  "docs": "https://kryptos.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "kryptos": {
+      "url": "https://mcp.kryptos.io/"
+    }
+  }
+}

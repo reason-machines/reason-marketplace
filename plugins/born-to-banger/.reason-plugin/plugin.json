@@ -1,0 +1,13 @@
+{
+  "name": "born-to-banger",
+  "displayName": "Born To Banger",
+  "description": "Make your event unforgettable.",
+  "homepage": "https://www.borntobanger.in/",
+  "docs": "https://borntobanger.in/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "born-to-banger": {
+      "url": "https://borntobanger.in/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "intelidress",
+  "displayName": "InteliDress",
+  "description": "Style outfits from your closet.",
+  "homepage": "https://intelidress.app/ai",
+  "docs": "https://intelidress.app/ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "intelidress": {
+      "url": "https://connect.intelidress.app/mcp"
+    }
+  }
+}

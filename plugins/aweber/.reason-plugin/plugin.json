@@ -1,0 +1,13 @@
+{
+  "name": "aweber",
+  "displayName": "AWeber",
+  "description": "Email marketing assistant.",
+  "homepage": "https://aweber.com",
+  "docs": "https://aweber.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "aweber": {
+      "url": "https://mcp.aweber.com/mcp"
+    }
+  }
+}

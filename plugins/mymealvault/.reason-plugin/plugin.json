@@ -1,0 +1,13 @@
+{
+  "name": "mymealvault",
+  "displayName": "MyMealVault",
+  "description": "Plan meals from your vault.",
+  "homepage": "https://mymealvault.com",
+  "docs": "https://api.mymealvault.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "mymealvault": {
+      "url": "https://api.mymealvault.com/mcp"
+    }
+  }
+}

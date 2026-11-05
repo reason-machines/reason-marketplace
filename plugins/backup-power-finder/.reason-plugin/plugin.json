@@ -1,0 +1,13 @@
+{
+  "name": "backup-power-finder",
+  "displayName": "Backup Power Finder",
+  "description": "Find backup power by fit.",
+  "homepage": "https://backup-power-finder.pages.dev",
+  "docs": "https://backup-power-finder.pages.dev",
+  "auth": "none",
+  "mcpServers": {
+    "backup-power-finder": {
+      "url": "https://backup-power-finder.pages.dev/mcp"
+    }
+  }
+}

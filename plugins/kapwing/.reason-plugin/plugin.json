@@ -1,0 +1,13 @@
+{
+  "name": "kapwing",
+  "displayName": "Kapwing",
+  "description": "Caption, translate & dub video.",
+  "homepage": "https://www.kapwing.com/",
+  "docs": "https://www.kapwing.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "kapwing": {
+      "url": "https://kapwing.com/mcp"
+    }
+  }
+}

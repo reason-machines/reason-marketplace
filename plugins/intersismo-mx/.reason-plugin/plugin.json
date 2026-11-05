@@ -1,0 +1,13 @@
+{
+  "name": "intersismo-mx",
+  "displayName": "Intersismo.mx",
+  "description": "Global studies & scholarships.",
+  "homepage": "https://www.intersismo.mx/es/sala-v-i-p",
+  "docs": "https://www.intersismo.mx/es/sala-v-i-p",
+  "auth": "oauth",
+  "mcpServers": {
+    "intersismo-mx": {
+      "url": "https://mcp.intersismo.mx/mcp"
+    }
+  }
+}

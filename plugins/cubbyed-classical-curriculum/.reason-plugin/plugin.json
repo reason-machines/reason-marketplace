@@ -1,0 +1,13 @@
+{
+  "name": "cubbyed-classical-curriculum",
+  "displayName": "CubbyEd Classical Curriculum",
+  "description": "Classical K-12 lesson planning.",
+  "homepage": "https://cubbyed.com",
+  "docs": "https://cubbyed.com",
+  "auth": "none",
+  "mcpServers": {
+    "cubbyed-classical-curriculum": {
+      "url": "https://cubbyed.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rinkta",
+  "displayName": "Rinkta",
+  "description": "Manage client work.",
+  "homepage": "https://rinkta.com",
+  "docs": "https://rinkta.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "rinkta": {
+      "url": "https://app.rinkta.com/mcp"
+    }
+  }
+}

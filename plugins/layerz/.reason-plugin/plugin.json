@@ -1,0 +1,13 @@
+{
+  "name": "layerz",
+  "displayName": "Layerz",
+  "description": "Financial models that persist.",
+  "homepage": "https://layerz.cc",
+  "docs": "https://layerz.cc",
+  "auth": "oauth",
+  "mcpServers": {
+    "layerz": {
+      "url": "https://layerz.cc/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "apptail",
+  "displayName": "AppTail",
+  "description": "iOS market research & ASO.",
+  "homepage": "https://apptail.io",
+  "docs": "https://apptail.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "apptail": {
+      "url": "https://mcp.apptail.io/mcp"
+    }
+  }
+}

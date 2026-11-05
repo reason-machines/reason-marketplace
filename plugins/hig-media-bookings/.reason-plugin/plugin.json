@@ -1,0 +1,13 @@
+{
+  "name": "hig-media-bookings",
+  "displayName": "Hig Media Bookings",
+  "description": "Manage property photo shoots.",
+  "homepage": "https://hig.media",
+  "docs": "https://hig.media/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "hig-media-bookings": {
+      "url": "https://hig.media/api/mcp"
+    }
+  }
+}

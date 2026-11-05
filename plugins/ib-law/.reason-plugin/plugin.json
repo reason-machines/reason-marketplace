@@ -1,0 +1,13 @@
+{
+  "name": "ib-law",
+  "displayName": "مساعدي — IB Law",
+  "description": "Manage your legal practice.",
+  "homepage": "https://lawyer.ib.com.sa",
+  "docs": "https://lawyer.ib.com.sa/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "ib-law": {
+      "url": "https://lawyer.ib.com.sa/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "umamy",
+  "displayName": "Umamy",
+  "description": "Track your hiring pipeline.",
+  "homepage": "https://umamy.io",
+  "docs": "https://umamy.io/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "umamy": {
+      "url": "https://api.umamy.io/mcp"
+    }
+  }
+}

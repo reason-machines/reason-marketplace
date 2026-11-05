@@ -1,0 +1,13 @@
+{
+  "name": "tableu",
+  "displayName": "Tableu",
+  "description": "Tarot readings and reflection.",
+  "homepage": "https://tarot.lakefrontdev.com/",
+  "docs": "https://tarot.lakefrontdev.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "tableu": {
+      "url": "https://lakefrontdev.com/mcp"
+    }
+  }
+}

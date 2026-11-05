@@ -1,0 +1,13 @@
+{
+  "name": "buyertwin",
+  "displayName": "BuyerTwin",
+  "description": "Buyer intelligence for GTM.",
+  "homepage": "https://buyertwin.com/",
+  "docs": "https://buyertwin.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "buyertwin": {
+      "url": "https://mcp.buyertwin.com/mcp"
+    }
+  }
+}

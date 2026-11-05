@@ -1,0 +1,13 @@
+{
+  "name": "economicsapi",
+  "displayName": "EconomicsAPI",
+  "description": "Macro, trade, commodities & FX.",
+  "homepage": "https://economicsapi.com",
+  "docs": "https://economicsapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "economicsapi": {
+      "url": "https://mcp.economicsapi.com/mcp"
+    }
+  }
+}

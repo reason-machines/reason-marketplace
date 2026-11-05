@@ -1,0 +1,13 @@
+{
+  "name": "todoweekend",
+  "displayName": "TodoWeekend",
+  "description": "Weekend events in nine cities.",
+  "homepage": "https://todoweekend.com",
+  "docs": "https://todoweekend.com",
+  "auth": "none",
+  "mcpServers": {
+    "todoweekend": {
+      "url": "https://todoweekend.com/mcp"
+    }
+  }
+}

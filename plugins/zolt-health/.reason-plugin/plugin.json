@@ -1,0 +1,13 @@
+{
+  "name": "zolt-health",
+  "displayName": "Zolt Health",
+  "description": "Nutrition and adaptive TDEE.",
+  "homepage": "https://www.zolthealth.com",
+  "docs": "https://www.zolthealth.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "zolt-health": {
+      "url": "https://mcp.zolthealth.com/mcp"
+    }
+  }
+}

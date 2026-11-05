@@ -1,0 +1,13 @@
+{
+  "name": "partynado",
+  "displayName": "Partynado",
+  "description": "Find your next party.",
+  "homepage": "https://partynado.com/en-CH/chatgpt",
+  "docs": "https://partynado.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "partynado": {
+      "url": "https://partynado.com/api/mcp"
+    }
+  }
+}

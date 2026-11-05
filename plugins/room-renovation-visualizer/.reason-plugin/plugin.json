@@ -1,0 +1,13 @@
+{
+  "name": "room-renovation-visualizer",
+  "displayName": "Room Renovation Visualizer",
+  "description": "Visualize renovation ideas.",
+  "homepage": "https://room-renovation-visualizer.aigc-7629.chatgpt.site",
+  "docs": "https://room-renovation-visualizer.aigc-7629.chatgpt.site",
+  "auth": "none",
+  "mcpServers": {
+    "room-renovation-visualizer": {
+      "url": "https://room-renovation-visualizer.aigc-7629.chatgpt.site/api/mcp"
+    }
+  }
+}

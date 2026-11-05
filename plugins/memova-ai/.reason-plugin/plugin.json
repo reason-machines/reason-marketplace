@@ -1,0 +1,13 @@
+{
+  "name": "memova-ai",
+  "displayName": "Memova.ai",
+  "description": "Meeting and Spark knowledge.",
+  "homepage": "https://memova.ai",
+  "docs": "https://api.memova.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "memova-ai": {
+      "url": "https://api.memova.ai/mcp"
+    }
+  }
+}

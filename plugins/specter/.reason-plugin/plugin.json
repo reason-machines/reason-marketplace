@@ -1,0 +1,13 @@
+{
+  "name": "specter",
+  "displayName": "Specter",
+  "description": "B2B data for deal sourcing.",
+  "homepage": "https://tryspecter.com/",
+  "docs": "https://tryspecter.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "specter": {
+      "url": "https://mcp.tryspecter.com/mcp"
+    }
+  }
+}

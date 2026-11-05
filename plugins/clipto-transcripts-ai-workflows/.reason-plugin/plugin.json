@@ -1,0 +1,13 @@
+{
+  "name": "clipto-transcripts-ai-workflows",
+  "displayName": "Clipto",
+  "description": "Transcripts for AI workflows.",
+  "homepage": "https://www.clipto.com/cloud-mcp",
+  "docs": "https://www.clipto.com/cloud-mcp",
+  "auth": "none",
+  "mcpServers": {
+    "clipto-transcripts-ai-workflows": {
+      "url": "https://mcp.clipto.com/mcp"
+    }
+  }
+}

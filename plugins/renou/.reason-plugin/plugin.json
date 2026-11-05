@@ -1,0 +1,13 @@
+{
+  "name": "renou",
+  "displayName": "Renou",
+  "description": "Your personal CRM in Reason.",
+  "homepage": "https://renou.ai",
+  "docs": "https://renou.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "renou": {
+      "url": "https://renou.ai/mcp"
+    }
+  }
+}

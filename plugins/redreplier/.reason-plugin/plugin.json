@@ -1,0 +1,13 @@
+{
+  "name": "redreplier",
+  "displayName": "RedReplier",
+  "description": "Monitor your brand mentions.",
+  "homepage": "https://redreplier.com",
+  "docs": "https://redreplier.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "redreplier": {
+      "url": "https://mcp.redreplier.com/mcp"
+    }
+  }
+}

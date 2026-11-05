@@ -1,0 +1,13 @@
+{
+  "name": "proxyai",
+  "displayName": "ProxyAI",
+  "description": "Support tickets and tasks.",
+  "homepage": "https://www.proxyai.app",
+  "docs": "https://www.proxyai.app",
+  "auth": "none",
+  "mcpServers": {
+    "proxyai": {
+      "url": "https://proxyai.app/mcp"
+    }
+  }
+}

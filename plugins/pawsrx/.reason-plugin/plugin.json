@@ -1,0 +1,13 @@
+{
+  "name": "pawsrx",
+  "displayName": "PawsRx",
+  "description": "Find, book and ask a vet.",
+  "homepage": "https://pawsrx.io/",
+  "docs": "https://pawsrx.io/",
+  "auth": "none",
+  "mcpServers": {
+    "pawsrx": {
+      "url": "https://pawsrx.io/mcp"
+    }
+  }
+}

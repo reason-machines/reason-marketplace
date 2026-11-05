@@ -1,0 +1,13 @@
+{
+  "name": "printa",
+  "displayName": "PrintA",
+  "description": "Print your image on a shirt.",
+  "homepage": "https://printa.chat",
+  "docs": "https://printa.chat",
+  "auth": "none",
+  "mcpServers": {
+    "printa": {
+      "url": "https://printa.chat/mcp"
+    }
+  }
+}

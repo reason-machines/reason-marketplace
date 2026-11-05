@@ -1,0 +1,13 @@
+{
+  "name": "bull-ai",
+  "displayName": "Bull AI",
+  "description": "Indian stock market documents.",
+  "homepage": "https://www.bull-ai.in",
+  "docs": "https://www.bull-ai.in",
+  "auth": "oauth",
+  "mcpServers": {
+    "bull-ai": {
+      "url": "https://mcp.bull-ai.in/mcp"
+    }
+  }
+}

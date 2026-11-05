@@ -1,0 +1,13 @@
+{
+  "name": "peskio",
+  "displayName": "Peskio",
+  "description": "Tides and fishing conditions.",
+  "homepage": "https://peskio.com",
+  "docs": "https://peskio.com",
+  "auth": "none",
+  "mcpServers": {
+    "peskio": {
+      "url": "https://peskio.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sail",
+  "displayName": "Sail",
+  "description": "Compare ways to get around.",
+  "homepage": "https://sailrides.co",
+  "docs": "https://sailrides.co",
+  "auth": "none",
+  "mcpServers": {
+    "sail": {
+      "url": "https://sailrides.co/mcp"
+    }
+  }
+}

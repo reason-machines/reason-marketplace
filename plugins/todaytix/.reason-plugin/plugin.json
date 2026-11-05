@@ -1,0 +1,13 @@
+{
+  "name": "todaytix",
+  "displayName": "TodayTix",
+  "description": "Discover theatre in your city.",
+  "homepage": "https://www.todaytix.com",
+  "docs": "https://www.todaytix.com",
+  "auth": "none",
+  "mcpServers": {
+    "todaytix": {
+      "url": "https://todaytix.com/mcp"
+    }
+  }
+}

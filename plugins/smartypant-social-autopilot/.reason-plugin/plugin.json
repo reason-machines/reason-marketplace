@@ -1,0 +1,13 @@
+{
+  "name": "smartypant-social-autopilot",
+  "displayName": "Smartypant Social Autopilot",
+  "description": "Social media on autopilot.",
+  "homepage": "https://smartypant.xyz",
+  "docs": "https://smartypant.xyz",
+  "auth": "oauth",
+  "mcpServers": {
+    "smartypant-social-autopilot": {
+      "url": "https://mcp.smartypant.xyz/mcp"
+    }
+  }
+}

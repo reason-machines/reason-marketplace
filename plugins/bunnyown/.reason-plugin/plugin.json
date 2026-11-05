@@ -1,0 +1,13 @@
+{
+  "name": "bunnyown",
+  "displayName": "BunnyOwn",
+  "description": "Manage websites and bookings.",
+  "homepage": "https://bunnyown.com",
+  "docs": "https://bunnyown.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "bunnyown": {
+      "url": "https://mcp.bunnyown.com/mcp"
+    }
+  }
+}

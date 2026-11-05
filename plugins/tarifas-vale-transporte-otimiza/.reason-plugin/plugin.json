@@ -1,0 +1,13 @@
+{
+  "name": "tarifas-vale-transporte-otimiza",
+  "displayName": "Tarifaoteca da Otimiza.pro",
+  "description": "Tarifas e VT do Brasil.",
+  "homepage": "https://otimizapro.com/base-nacional-de-tarifas",
+  "docs": "https://otimizapro.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "tarifas-vale-transporte-otimiza": {
+      "url": "https://otimizapro.com/tarifas-e-integracoes-transporte-publico-brasil/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "posty-social-media-scheduler",
+  "displayName": "Posty: Social Media Scheduler",
+  "description": "Schedule social media posts.",
+  "homepage": "https://posty.hu",
+  "docs": "https://posty.hu/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "posty-social-media-scheduler": {
+      "url": "https://api.posty.hu/mcp"
+    }
+  }
+}

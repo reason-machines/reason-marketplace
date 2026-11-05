@@ -1,0 +1,13 @@
+{
+  "name": "track-package",
+  "displayName": "Track Package.",
+  "description": "Track packages with Reason.",
+  "homepage": "https://everydaytrack.org",
+  "docs": "https://everydaytrack.org",
+  "auth": "none",
+  "mcpServers": {
+    "track-package": {
+      "url": "https://everydaytrack.org/mcp"
+    }
+  }
+}

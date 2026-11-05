@@ -1,0 +1,13 @@
+{
+  "name": "klar",
+  "displayName": "Klar",
+  "description": "Ecommerce profit and ad data.",
+  "homepage": "https://www.getklar.com",
+  "docs": "https://www.getklar.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "klar": {
+      "url": "https://mcp.getklar.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bytetravel",
+  "displayName": "Bytetravel",
+  "description": "Insurance, eSIM, Visas & VIP.",
+  "homepage": "https://www.bytetravel.com/",
+  "docs": "https://www.bytetravel.com/",
+  "auth": "none",
+  "mcpServers": {
+    "bytetravel": {
+      "url": "https://mcp.bytetravel.com/mcp"
+    }
+  }
+}

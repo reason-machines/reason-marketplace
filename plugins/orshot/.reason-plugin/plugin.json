@@ -1,0 +1,13 @@
+{
+  "name": "orshot",
+  "displayName": "Orshot",
+  "description": "AI Videos & Social Posting.",
+  "homepage": "https://orshot.com",
+  "docs": "https://orshot.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "orshot": {
+      "url": "https://mcp.orshot.com/mcp"
+    }
+  }
+}

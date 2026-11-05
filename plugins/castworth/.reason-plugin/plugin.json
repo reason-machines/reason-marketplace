@@ -1,0 +1,13 @@
+{
+  "name": "castworth",
+  "displayName": "Castworth",
+  "description": "Your money, and what's coming.",
+  "homepage": "https://castworth.com",
+  "docs": "https://castworth.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "castworth": {
+      "url": "https://mcp.castworth.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tablelink",
+  "displayName": "TableLink",
+  "description": "Book a TableLink restaurant.",
+  "homepage": "https://tablelink.app",
+  "docs": "https://tablelink.app",
+  "auth": "none",
+  "mcpServers": {
+    "tablelink": {
+      "url": "https://mcp.tablelink.app/mcp"
+    }
+  }
+}

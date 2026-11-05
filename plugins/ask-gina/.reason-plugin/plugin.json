@@ -1,0 +1,13 @@
+{
+  "name": "ask-gina",
+  "displayName": "Ask Gina",
+  "description": "Monitor crypto & predictions.",
+  "homepage": "https://askgina.ai",
+  "docs": "https://askgina.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ask-gina": {
+      "url": "https://askgina.ai/ai/spot/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mornatural",
+  "displayName": "MorNatural",
+  "description": "Shop MorNatural supplements.",
+  "homepage": "https://shop.mornatural.com/",
+  "docs": "https://shop.mornatural.com/ai/",
+  "auth": "none",
+  "mcpServers": {
+    "mornatural": {
+      "url": "https://shop.mornatural.com/api/mcp"
+    }
+  }
+}

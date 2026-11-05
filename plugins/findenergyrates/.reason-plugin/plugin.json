@@ -1,0 +1,13 @@
+{
+  "name": "findenergyrates",
+  "displayName": "FindEnergyRates",
+  "description": "Compare electricity plans.",
+  "homepage": "https://findenergyrates.com",
+  "docs": "https://findenergyrates.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "findenergyrates": {
+      "url": "https://findenergyrates.com/mcp/public"
+    }
+  }
+}

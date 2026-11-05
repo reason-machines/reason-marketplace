@@ -1,0 +1,13 @@
+{
+  "name": "i7os",
+  "displayName": "i7OS",
+  "description": "Create and manage brand assets.",
+  "homepage": "https://i7os.com",
+  "docs": "https://i7os.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "i7os": {
+      "url": "https://mcp.i7os.com/mcp"
+    }
+  }
+}

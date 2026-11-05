@@ -1,0 +1,13 @@
+{
+  "name": "contendoor",
+  "displayName": "Contendoor",
+  "description": "Organize your video workspace.",
+  "homepage": "https://contendoor.com/",
+  "docs": "https://contendoor.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "contendoor": {
+      "url": "https://contendoor.com/mcp"
+    }
+  }
+}

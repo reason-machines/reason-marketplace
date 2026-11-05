@@ -1,0 +1,13 @@
+{
+  "name": "simplysim-esim-finder",
+  "displayName": "SimplySIM eSIM Finder",
+  "description": "Find travel eSIM data plans.",
+  "homepage": "https://simplysim.co.uk",
+  "docs": "https://simplysim.co.uk",
+  "auth": "none",
+  "mcpServers": {
+    "simplysim-esim-finder": {
+      "url": "https://simplysim.co.uk/mcp"
+    }
+  }
+}

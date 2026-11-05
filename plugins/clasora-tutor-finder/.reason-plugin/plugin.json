@@ -1,0 +1,13 @@
+{
+  "name": "clasora-tutor-finder",
+  "displayName": "Clasora Tutor Finder",
+  "description": "Find a tutor for a lesson.",
+  "homepage": "https://clasora.com",
+  "docs": "https://clasora.com",
+  "auth": "none",
+  "mcpServers": {
+    "clasora-tutor-finder": {
+      "url": "https://mcp.clasora.com/mcp"
+    }
+  }
+}

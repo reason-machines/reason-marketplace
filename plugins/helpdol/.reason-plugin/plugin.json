@@ -1,0 +1,13 @@
+{
+  "name": "helpdol",
+  "displayName": "HelpDol",
+  "description": "Track your business finances.",
+  "homepage": "https://helpdol.com",
+  "docs": "https://helpdol.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "helpdol": {
+      "url": "https://mcp.helpdol.com/mcp"
+    }
+  }
+}

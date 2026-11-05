@@ -10,5 +10,63 @@
     "deriv": {
       "url": "https://mcp-api-v2.deriv.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "deriv-auth",
+      "description": "Add or fix New Deriv API authentication — OAuth, tokens, accounts, and trading WebSocket sessions. Use whenever a task involves Deriv login, sign-up, OAuth with PKCE, personal access tokens, OTP, tokens, scopes, sessions, accounts, account switching, logout, reconnects, or obtaining a trading WebSoc",
+      "source": "deriv-com/deriv-api-plugin#df76cab147ce0ca229c07276fd882426cbc4fde3",
+      "skill": "deriv-auth",
+      "url": "https://github.com/deriv-com/deriv-api-plugin/tree/df76cab147ce0ca229c07276fd882426cbc4fde3/skills/deriv-auth"
+    },
+    {
+      "name": "deriv-lightweight-charts",
+      "description": "Add TradingView's Lightweight Charts (the `lightweight-charts` npm package, Apache-2.0, ~60 KB) as the slim price chart of an application built on the New Deriv API Options platform, fed from the app's shared WebSocket and overlaid with barriers and trade markers derived from its trading state. Use ",
+      "source": "deriv-com/deriv-api-plugin#df76cab147ce0ca229c07276fd882426cbc4fde3",
+      "skill": "deriv-lightweight-charts",
+      "url": "https://github.com/deriv-com/deriv-api-plugin/tree/df76cab147ce0ca229c07276fd882426cbc4fde3/skills/deriv-lightweight-charts"
+    },
+    {
+      "name": "deriv-llms",
+      "description": "Bundled Deriv API docs snapshot for when hosted MCP tools are unavailable. Use when looking up Deriv API endpoints, authentication, errors, workflows, contract types, or field lists from the bundled docs; when the hosted MCP is down; or when the user asks for llms.txt / endpoint pages. Prefer hosted",
+      "source": "deriv-com/deriv-api-plugin#df76cab147ce0ca229c07276fd882426cbc4fde3",
+      "skill": "deriv-llms",
+      "url": "https://github.com/deriv-com/deriv-api-plugin/tree/df76cab147ce0ca229c07276fd882426cbc4fde3/skills/deriv-llms"
+    },
+    {
+      "name": "deriv-market-data",
+      "description": "Add New Deriv API market discovery and live prices — active symbols, contracts for a symbol, ticks, and tick history. Use whenever a task involves market or symbol selectors, deciding which trade types a symbol supports, deriving trade controls from contract metadata, live tick or price subscription",
+      "source": "deriv-com/deriv-api-plugin#df76cab147ce0ca229c07276fd882426cbc4fde3",
+      "skill": "deriv-market-data",
+      "url": "https://github.com/deriv-com/deriv-api-plugin/tree/df76cab147ce0ca229c07276fd882426cbc4fde3/skills/deriv-market-data"
+    },
+    {
+      "name": "deriv-smartcharts",
+      "description": "Add the Deriv SmartCharts price chart (the `@deriv-com/smartcharts-champion` package) to an application that uses the New Deriv API Options platform, and drive its barriers and contract markers from the app's trading state. Use when the chart selection guide escalates to SmartCharts or the user name",
+      "source": "deriv-com/deriv-api-plugin#df76cab147ce0ca229c07276fd882426cbc4fde3",
+      "skill": "deriv-smartcharts",
+      "url": "https://github.com/deriv-com/deriv-api-plugin/tree/df76cab147ce0ca229c07276fd882426cbc4fde3/skills/deriv-smartcharts"
+    },
+    {
+      "name": "deriv-trade-lifecycle",
+      "description": "Implement the New Deriv API Options flow: price, buy, monitor, sell, and settle. Use whenever a task prices or purchases a contract, tracks open or closed positions, reconciles a portfolio, sells early, cancels a contract, sets take profit, handles buy or sell errors, recovers mid-trade from a disco",
+      "source": "deriv-com/deriv-api-plugin#df76cab147ce0ca229c07276fd882426cbc4fde3",
+      "skill": "deriv-trade-lifecycle",
+      "url": "https://github.com/deriv-com/deriv-api-plugin/tree/df76cab147ce0ca229c07276fd882426cbc4fde3/skills/deriv-trade-lifecycle"
+    },
+    {
+      "name": "deriv-trade-types",
+      "description": "Map trade names to New Deriv API Options contract families, proposal shapes, and live availability. Use whenever a task selects, adds, or configures a Deriv Options trade type — Accumulator options, Rise/Fall, Higher/Lower, Matches/Differs, Even/Odd, Over/Under, Multipliers, Touch/No Touch, Stays Be",
+      "source": "deriv-com/deriv-api-plugin#df76cab147ce0ca229c07276fd882426cbc4fde3",
+      "skill": "deriv-trade-types",
+      "url": "https://github.com/deriv-com/deriv-api-plugin/tree/df76cab147ce0ca229c07276fd882426cbc4fde3/skills/deriv-trade-types"
+    },
+    {
+      "name": "deriv-trading-app",
+      "description": "Build or extend an authenticated trading application on the New Deriv API Options platform. Use whenever a task involves creating or extending a Deriv-powered trading product in any form — an app, template, terminal, bot, or trade screen; adding or combining trade types in one product; or wiring log",
+      "source": "deriv-com/deriv-api-plugin#df76cab147ce0ca229c07276fd882426cbc4fde3",
+      "skill": "deriv-trading-app",
+      "url": "https://github.com/deriv-com/deriv-api-plugin/tree/df76cab147ce0ca229c07276fd882426cbc4fde3/skills/deriv-trading-app"
+    }
+  ]
 }

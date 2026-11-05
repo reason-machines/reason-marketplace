@@ -1,0 +1,13 @@
+{
+  "name": "dakota-marketplace",
+  "displayName": "Dakota Marketplace",
+  "description": "Search allocators and funds.",
+  "homepage": "https://www.dakota.com",
+  "docs": "https://www.dakota.com/hubfs/Dakota%20Marketplace%20Claude%20Connector%20Set%20Up%20Guide.pdf",
+  "auth": "oauth",
+  "mcpServers": {
+    "dakota-marketplace": {
+      "url": "https://marketplace-mcp.dakota.com/mcp"
+    }
+  }
+}

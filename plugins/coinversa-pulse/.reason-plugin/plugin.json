@@ -1,0 +1,13 @@
+{
+  "name": "coinversa-pulse",
+  "displayName": "Coinversa Pulse",
+  "description": "Hyperliquid crypto & stocks.",
+  "homepage": "https://coinversa.ai",
+  "docs": "https://coinversa.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "coinversa-pulse": {
+      "url": "https://mcp.coinversa.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pomodial",
+  "displayName": "PomoDial",
+  "description": "Focus timer with saved history.",
+  "homepage": "https://www.pomodial.com",
+  "docs": "https://www.pomodial.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "pomodial": {
+      "url": "https://pomodial.com/mcp"
+    }
+  }
+}

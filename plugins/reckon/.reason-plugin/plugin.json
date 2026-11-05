@@ -1,0 +1,13 @@
+{
+  "name": "reckon",
+  "displayName": "Reckon",
+  "description": "Verify email addresses.",
+  "homepage": "https://www.reckonapp.io/?utm_source=chatgpt&utm_medium=plugin&utm_campaign=marketplace_listing",
+  "docs": "https://www.reckonapp.io/?utm_source=chatgpt&utm_medium=plugin&utm_campaign=marketplace_listing",
+  "auth": "oauth",
+  "mcpServers": {
+    "reckon": {
+      "url": "https://mcp.reckonapp.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nombrio",
+  "displayName": "Nombrio",
+  "description": "Check brand name availability.",
+  "homepage": "https://nombrio.com",
+  "docs": "https://nombrio.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "nombrio": {
+      "url": "https://nombrio.com/api/mcp"
+    }
+  }
+}

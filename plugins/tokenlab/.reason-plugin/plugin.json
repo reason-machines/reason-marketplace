@@ -1,0 +1,13 @@
+{
+  "name": "tokenlab",
+  "displayName": "TokenLab",
+  "description": "One design truth. For all.",
+  "homepage": "https://tokenlab.design",
+  "docs": "https://tokenlab.design",
+  "auth": "oauth",
+  "mcpServers": {
+    "tokenlab": {
+      "url": "https://tokenlab.design/mcp"
+    }
+  }
+}

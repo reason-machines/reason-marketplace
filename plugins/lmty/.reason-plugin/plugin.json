@@ -1,0 +1,13 @@
+{
+  "name": "lmty",
+  "displayName": "LMTY",
+  "description": "Your competitive market data.",
+  "homepage": "https://lmty.com",
+  "docs": "https://lmty.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lmty": {
+      "url": "https://mcp.lmty.com/mcp"
+    }
+  }
+}

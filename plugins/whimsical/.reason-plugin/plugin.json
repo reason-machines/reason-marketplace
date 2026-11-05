@@ -1,0 +1,13 @@
+{
+  "name": "whimsical",
+  "displayName": "Whimsical",
+  "description": "Create diagrams and wireframes.",
+  "homepage": "https://whimsical.com/",
+  "docs": "https://whimsical.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "whimsical": {
+      "url": "https://mcp.whimsical.com/mcp"
+    }
+  }
+}

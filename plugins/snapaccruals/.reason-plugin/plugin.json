@@ -1,0 +1,13 @@
+{
+  "name": "snapaccruals",
+  "displayName": "SnapAccruals",
+  "description": "Bonus accruals from Excel.",
+  "homepage": "https://snapaccruals.com/",
+  "docs": "https://tedix.dev/apps/snapaccruals/",
+  "auth": "none",
+  "mcpServers": {
+    "snapaccruals": {
+      "url": "https://snapaccruals-chatgpt-398991694381.us-central1.run.app/mcp"
+    }
+  }
+}

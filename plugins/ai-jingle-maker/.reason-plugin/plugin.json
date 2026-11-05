@@ -1,0 +1,13 @@
+{
+  "name": "ai-jingle-maker",
+  "displayName": "AI Jingle Maker",
+  "description": "Radio jingles, just by asking.",
+  "homepage": "https://www.aijinglemaker.com",
+  "docs": "https://www.aijinglemaker.com",
+  "auth": "none",
+  "mcpServers": {
+    "ai-jingle-maker": {
+      "url": "https://mcp.aijinglemaker.com/mcp"
+    }
+  }
+}

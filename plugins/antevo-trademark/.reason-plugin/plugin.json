@@ -1,0 +1,13 @@
+{
+  "name": "antevo-trademark",
+  "displayName": "Antevo Trademark",
+  "description": "Screen names, read holders.",
+  "homepage": "https://antevo.ch/trademark",
+  "docs": "https://antevo.ch/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "antevo-trademark": {
+      "url": "https://trademark.antevo.ch/mcp"
+    }
+  }
+}

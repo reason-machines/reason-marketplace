@@ -1,0 +1,13 @@
+{
+  "name": "monnier-paris",
+  "displayName": "Monnier Paris",
+  "description": "Luxury catalog in Reason.",
+  "homepage": "https://fr.monnierparis.com/",
+  "docs": "https://fr.monnierparis.com/",
+  "auth": "none",
+  "mcpServers": {
+    "monnier-paris": {
+      "url": "https://mcp.monnierparis.com/mcp"
+    }
+  }
+}

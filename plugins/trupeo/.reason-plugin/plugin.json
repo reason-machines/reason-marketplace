@@ -1,0 +1,13 @@
+{
+  "name": "trupeo",
+  "displayName": "Trupeo",
+  "description": "Answer your team's email.",
+  "homepage": "https://www.trupeo.com",
+  "docs": "https://trupeo.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "trupeo": {
+      "url": "https://app.trupeo.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tupartidocorrupto",
+  "displayName": "TuPartidoCorrupto",
+  "description": "Spanish politics, with sources.",
+  "homepage": "https://tupartidocorrupto.com",
+  "docs": "https://tupartidocorrupto.com",
+  "auth": "none",
+  "mcpServers": {
+    "tupartidocorrupto": {
+      "url": "https://tupartidocorrupto.com/mcp"
+    }
+  }
+}

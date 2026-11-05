@@ -1,0 +1,13 @@
+{
+  "name": "gardeners-almanac",
+  "displayName": "Gardener's Almanac",
+  "description": "When to sow, where you garden.",
+  "homepage": "https://gardeners-almanac.app/articles/connect-an-assistant",
+  "docs": "https://gardeners-almanac.app/articles/connect-an-assistant",
+  "auth": "oauth",
+  "mcpServers": {
+    "gardeners-almanac": {
+      "url": "https://gardeners-almanac.app/mcp"
+    }
+  }
+}

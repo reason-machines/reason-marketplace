@@ -1,0 +1,13 @@
+{
+  "name": "bid-protest-nexus",
+  "displayName": "Bid Protest Nexus",
+  "description": "Search GAO bid protest rulings.",
+  "homepage": "https://acqagent.ai",
+  "docs": "https://acqagent.ai",
+  "auth": "none",
+  "mcpServers": {
+    "bid-protest-nexus": {
+      "url": "https://mcp.acqagent.ai/mcp"
+    }
+  }
+}

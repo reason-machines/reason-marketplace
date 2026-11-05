@@ -1,0 +1,13 @@
+{
+  "name": "boopreel",
+  "displayName": "Boopreel Pet Clips",
+  "description": "Pet photo to fun video clip.",
+  "homepage": "https://boopreel.ambientapp.ai",
+  "docs": "https://routeframe.ambientapp.ai/docs",
+  "auth": "none",
+  "mcpServers": {
+    "boopreel": {
+      "url": "https://routeframe.ambientapp.ai/mcp/claude"
+    }
+  }
+}

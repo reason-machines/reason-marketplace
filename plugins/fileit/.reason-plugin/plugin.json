@@ -1,0 +1,13 @@
+{
+  "name": "fileit",
+  "displayName": "FileIt",
+  "description": "Family document vault.",
+  "homepage": "https://fileit.com",
+  "docs": "https://fileit.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fileit": {
+      "url": "https://fileit.com/mcp"
+    }
+  }
+}

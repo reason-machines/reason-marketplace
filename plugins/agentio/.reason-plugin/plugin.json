@@ -1,0 +1,13 @@
+{
+  "name": "agentio",
+  "displayName": "Agentio",
+  "description": "Your Creator advertising data.",
+  "homepage": "https://www.agentio.com/",
+  "docs": "https://www.agentio.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentio": {
+      "url": "https://mcp.agentio.com/mcp"
+    }
+  }
+}

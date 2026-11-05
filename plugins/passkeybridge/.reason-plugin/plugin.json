@@ -1,0 +1,13 @@
+{
+  "name": "passkeybridge",
+  "displayName": "PasskeyBridge",
+  "description": "Identity alerts and audit logs.",
+  "homepage": "https://passkeybridge.io",
+  "docs": "https://passkeybridge.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "passkeybridge": {
+      "url": "https://mcp.passkeybridge.io/mcp"
+    }
+  }
+}

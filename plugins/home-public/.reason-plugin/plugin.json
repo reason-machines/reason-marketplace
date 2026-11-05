@@ -1,0 +1,13 @@
+{
+  "name": "home-public",
+  "displayName": "Home",
+  "description": "UK homes for sale and to rent.",
+  "homepage": "https://home.co.uk/chatgpt/",
+  "docs": "https://home.co.uk/chatgpt/",
+  "auth": "none",
+  "mcpServers": {
+    "home-public": {
+      "url": "https://mcp.home.co.uk/mcp"
+    }
+  }
+}

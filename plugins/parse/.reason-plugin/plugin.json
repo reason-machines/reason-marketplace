@@ -1,0 +1,13 @@
+{
+  "name": "parse",
+  "displayName": "Parse",
+  "description": "Free AI visibility lookups.",
+  "homepage": "https://parse.gl/llms.txt",
+  "docs": "https://parse.gl/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "parse": {
+      "url": "https://mcp.parse.gl/mcp"
+    }
+  }
+}

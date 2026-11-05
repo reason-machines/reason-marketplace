@@ -1,0 +1,13 @@
+{
+  "name": "dreamwork",
+  "displayName": "Dreamwork",
+  "description": "Find jobs. Prepare to apply.",
+  "homepage": "https://www.dreamworkhq.com/agents",
+  "docs": "https://www.dreamworkhq.com/agents",
+  "auth": "oauth",
+  "mcpServers": {
+    "dreamwork": {
+      "url": "https://mcp.dreamworkhq.com/mcp"
+    }
+  }
+}

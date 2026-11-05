@@ -1,0 +1,13 @@
+{
+  "name": "bracket-maker",
+  "displayName": "Zovo Tournament Maker",
+  "description": "Brackets, round robins, Swiss.",
+  "homepage": "https://bracket-maker.zovo.one",
+  "docs": "https://bracket-maker.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "bracket-maker": {
+      "url": "https://bracket-maker.zovo.one/mcp"
+    }
+  }
+}

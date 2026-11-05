@@ -1,0 +1,13 @@
+{
+  "name": "trademark-dashboard",
+  "displayName": "Trademark Dashboard",
+  "description": "UK and US trademark research.",
+  "homepage": "https://www.trademarkdashboard.com",
+  "docs": "https://www.trademarkdashboard.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "trademark-dashboard": {
+      "url": "https://www.trademarkdashboard.com/mcp"
+    }
+  }
+}

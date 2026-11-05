@@ -1,0 +1,13 @@
+{
+  "name": "salesql",
+  "displayName": "SalesQL",
+  "description": "Find B2B leads and contacts.",
+  "homepage": "https://salesql.com",
+  "docs": "https://salesql.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "salesql": {
+      "url": "https://mcp.salesql.com/mcp"
+    }
+  }
+}

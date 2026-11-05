@@ -1,0 +1,13 @@
+{
+  "name": "roam-research",
+  "displayName": "Roam Research",
+  "description": "Read and update Roam graphs.",
+  "homepage": "https://roamresearch.com/",
+  "docs": "https://roamresearch.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "roam-research": {
+      "url": "https://mcp.roamresearch.com/mcp"
+    }
+  }
+}

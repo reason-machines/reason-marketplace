@@ -1,0 +1,13 @@
+{
+  "name": "zaminai",
+  "displayName": "ZaminAI",
+  "description": "Real estate search and CMAs.",
+  "homepage": "https://zaminai.com",
+  "docs": "https://zaminai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "zaminai": {
+      "url": "https://mcp.zaminai.com/mcp"
+    }
+  }
+}

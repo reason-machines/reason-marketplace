@@ -1,0 +1,13 @@
+{
+  "name": "ownerbox-reservations",
+  "displayName": "OwnerBox",
+  "description": "All-in-One Store Management.",
+  "homepage": "https://www.ownerbox.kr/",
+  "docs": "https://www.ownerbox.kr/",
+  "auth": "none",
+  "mcpServers": {
+    "ownerbox-reservations": {
+      "url": "https://api.ownerbox.kr/mcp"
+    }
+  }
+}

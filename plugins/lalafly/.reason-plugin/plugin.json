@@ -1,0 +1,13 @@
+{
+  "name": "lalafly",
+  "displayName": "Lalafly",
+  "description": "Voos e passagens com milhas.",
+  "homepage": "https://lalafly.com.br",
+  "docs": "https://lalafly.com.br",
+  "auth": "none",
+  "mcpServers": {
+    "lalafly": {
+      "url": "https://lalafly.com.br/mcp"
+    }
+  }
+}

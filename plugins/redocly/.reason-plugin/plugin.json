@@ -1,0 +1,13 @@
+{
+  "name": "redocly",
+  "displayName": "Redocly",
+  "description": "Write, lint and document APIs.",
+  "homepage": "https://redocly.com",
+  "docs": "https://redocly.com",
+  "auth": "none",
+  "mcpServers": {
+    "redocly": {
+      "url": "https://redocly.com/mcp"
+    }
+  }
+}

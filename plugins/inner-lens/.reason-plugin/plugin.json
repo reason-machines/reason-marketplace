@@ -1,0 +1,13 @@
+{
+  "name": "inner-lens",
+  "displayName": "Inner Lens",
+  "description": "Bazi, Ziwei & Liuyao readings.",
+  "homepage": "https://inner.lens.io.vn/en/",
+  "docs": "https://inner.lens.io.vn/en/",
+  "auth": "none",
+  "mcpServers": {
+    "inner-lens": {
+      "url": "https://inner.lens.io.vn/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "axel",
+  "displayName": "Axel",
+  "description": "Cheaper flights and hotels.",
+  "homepage": "https://helloaxel.com",
+  "docs": "https://helloaxel.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "axel": {
+      "url": "https://helloaxel.com/mcp"
+    }
+  }
+}

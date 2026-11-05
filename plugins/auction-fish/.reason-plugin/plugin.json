@@ -1,0 +1,13 @@
+{
+  "name": "auction-fish",
+  "displayName": "auction.fish",
+  "description": "Run and bid in club auctions.",
+  "homepage": "https://auction.fish",
+  "docs": "https://auction.fish",
+  "auth": "oauth",
+  "mcpServers": {
+    "auction-fish": {
+      "url": "https://auction.fish/mcp"
+    }
+  }
+}

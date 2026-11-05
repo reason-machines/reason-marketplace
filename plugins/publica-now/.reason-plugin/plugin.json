@@ -1,0 +1,13 @@
+{
+  "name": "publica-now",
+  "displayName": "Publica Now",
+  "description": "Discover creators and works.",
+  "homepage": "https://publica.now",
+  "docs": "https://publica.now",
+  "auth": "none",
+  "mcpServers": {
+    "publica-now": {
+      "url": "https://publica.now/mcp"
+    }
+  }
+}

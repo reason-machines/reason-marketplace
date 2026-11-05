@@ -1,0 +1,13 @@
+{
+  "name": "feedster",
+  "displayName": "Feedster",
+  "description": "The best of the web, for you.",
+  "homepage": "https://feedster.co",
+  "docs": "https://feedster.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "feedster": {
+      "url": "https://mcp.feedster.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "james-villas",
+  "displayName": "James Villas",
+  "description": "Handpicked Holiday Villas.",
+  "homepage": "https://www.jamesvillas.co.uk/",
+  "docs": "https://www.jamesvillas.co.uk/",
+  "auth": "none",
+  "mcpServers": {
+    "james-villas": {
+      "url": "https://mcp.jamesvillas.co.uk/mcp"
+    }
+  }
+}

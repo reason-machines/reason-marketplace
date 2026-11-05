@@ -1,0 +1,13 @@
+{
+  "name": "strengthcode",
+  "displayName": "StrengthCode",
+  "description": "Program and lift tools.",
+  "homepage": "https://strengthcode.co",
+  "docs": "https://strengthcode.co",
+  "auth": "none",
+  "mcpServers": {
+    "strengthcode": {
+      "url": "https://strengthcode.co/mcp"
+    }
+  }
+}

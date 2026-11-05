@@ -1,0 +1,13 @@
+{
+  "name": "scorestarling",
+  "displayName": "ScoreStarling",
+  "description": "Convert music across formats.",
+  "homepage": "https://scorestarling.com",
+  "docs": "https://scorestarling.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "scorestarling": {
+      "url": "https://mcp.scorestarling.com/mcp"
+    }
+  }
+}

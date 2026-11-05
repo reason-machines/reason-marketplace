@@ -1,0 +1,13 @@
+{
+  "name": "england-cqc-regevidencehub",
+  "displayName": "England CQC — RegEvidenceHub",
+  "description": "CQC compliance workflows.",
+  "homepage": "https://cqc.regevidencehub.com/cqc-provider-compliance-navigator",
+  "docs": "https://regevidencehub.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "england-cqc-regevidencehub": {
+      "url": "https://cqc.regevidencehub.com/ai/mcp"
+    }
+  }
+}

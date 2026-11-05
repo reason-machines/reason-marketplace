@@ -1,0 +1,13 @@
+{
+  "name": "sitelas",
+  "displayName": "Sitelas",
+  "description": "Build and manage your websites.",
+  "homepage": "https://sitelas.com",
+  "docs": "https://sitelas.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sitelas": {
+      "url": "https://sitelas.com/api/mcp"
+    }
+  }
+}

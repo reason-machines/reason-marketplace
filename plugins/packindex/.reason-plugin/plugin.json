@@ -1,0 +1,13 @@
+{
+  "name": "packindex",
+  "displayName": "PackIndex",
+  "description": "Packaging price benchmarks.",
+  "homepage": "https://opnplatform.com/llms.txt",
+  "docs": "https://opnplatform.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "packindex": {
+      "url": "https://opnplatform.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "linkmcp",
+  "displayName": "LinkEmcee",
+  "description": "LinkedIn research and outreach.",
+  "homepage": "https://app.linkmcp.io",
+  "docs": "https://app.linkmcp.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "linkmcp": {
+      "url": "https://app.linkmcp.io/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "print-shop-by-byb",
+  "displayName": "Print Shop by BYB",
+  "description": "Turn images into stickers.",
+  "homepage": "https://www.bottleyourbrand.com/",
+  "docs": "https://www.bottleyourbrand.com/",
+  "auth": "none",
+  "mcpServers": {
+    "print-shop-by-byb": {
+      "url": "https://mcp.bottleyourbrand.com/mcp"
+    }
+  }
+}

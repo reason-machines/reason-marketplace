@@ -1,0 +1,13 @@
+{
+  "name": "listin3d",
+  "displayName": "Listin3D",
+  "description": "Discover and list in 3D.",
+  "homepage": "https://listin3d.com",
+  "docs": "https://listin3d.com",
+  "auth": "none",
+  "mcpServers": {
+    "listin3d": {
+      "url": "https://listin3d.com/mcp"
+    }
+  }
+}

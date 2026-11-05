@@ -1,0 +1,13 @@
+{
+  "name": "stocktwits",
+  "displayName": "Stocktwits",
+  "description": "Retail investor community.",
+  "homepage": "https://www.stocktwits.com",
+  "docs": "https://www.stocktwits.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "stocktwits": {
+      "url": "https://mcp.stocktwits.com/mcp"
+    }
+  }
+}

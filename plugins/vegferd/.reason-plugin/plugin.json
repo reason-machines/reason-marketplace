@@ -1,0 +1,13 @@
+{
+  "name": "vegferd",
+  "displayName": "Vegferd",
+  "description": "Road trip planning for Norway.",
+  "homepage": "https://vegferd.no/",
+  "docs": "https://vegferd.no/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "vegferd": {
+      "url": "https://api.vegferd.no/mcp"
+    }
+  }
+}

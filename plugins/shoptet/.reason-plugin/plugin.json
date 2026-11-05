@@ -1,0 +1,13 @@
+{
+  "name": "shoptet",
+  "displayName": "Shoptet MCP",
+  "description": "Manage your Shoptet eshop.",
+  "homepage": "https://mcp.shoptet.com/mcp",
+  "docs": "https://mcp.shoptet.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "shoptet": {
+      "url": "https://mcp.shoptet.com/mcp"
+    }
+  }
+}

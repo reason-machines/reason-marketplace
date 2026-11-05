@@ -1,0 +1,13 @@
+{
+  "name": "rill-review",
+  "displayName": "Rill",
+  "description": "Record and review browser runs.",
+  "homepage": "https://userill.dev",
+  "docs": "https://userill.com/docs/mcp/overview",
+  "auth": "oauth",
+  "mcpServers": {
+    "rill-review": {
+      "url": "https://mcp.userill.com/mcp"
+    }
+  }
+}

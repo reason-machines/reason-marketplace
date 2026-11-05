@@ -1,0 +1,13 @@
+{
+  "name": "classic-audioguide",
+  "displayName": "Classic Audioguide",
+  "description": "Museum exhibition guide.",
+  "homepage": "https://classicaudioguide.com",
+  "docs": "https://classicaudioguide.com",
+  "auth": "none",
+  "mcpServers": {
+    "classic-audioguide": {
+      "url": "https://classicaudioguide.com/mcp"
+    }
+  }
+}

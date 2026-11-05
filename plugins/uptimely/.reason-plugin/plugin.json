@@ -1,0 +1,13 @@
+{
+  "name": "uptimely",
+  "displayName": "Uptimely",
+  "description": "Uptime monitors and incidents.",
+  "homepage": "https://getuptimely.com/",
+  "docs": "https://getuptimely.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "uptimely": {
+      "url": "https://app.getuptimely.com/api/mcp"
+    }
+  }
+}

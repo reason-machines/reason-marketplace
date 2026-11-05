@@ -1,0 +1,13 @@
+{
+  "name": "lower-my-bill",
+  "displayName": "Lower My Bill",
+  "description": "Scripts to lower your bills.",
+  "homepage": "https://lowermybill.pages.dev",
+  "docs": "https://lowermybill.pages.dev/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "lower-my-bill": {
+      "url": "https://goodturn-mcp.pages.dev/lowermybill/mcp"
+    }
+  }
+}

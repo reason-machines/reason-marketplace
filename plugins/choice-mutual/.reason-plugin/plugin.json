@@ -1,0 +1,13 @@
+{
+  "name": "choice-mutual",
+  "displayName": "Choice Mutual",
+  "description": "Life & Final Expense Insurance.",
+  "homepage": "https://choicemutual.com/",
+  "docs": "https://tedix.dev/apps/choice-mutual/",
+  "auth": "none",
+  "mcpServers": {
+    "choice-mutual": {
+      "url": "https://cm-gpt-app-main.up.railway.app/mcp"
+    }
+  }
+}

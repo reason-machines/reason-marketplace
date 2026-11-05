@@ -1,0 +1,13 @@
+{
+  "name": "picsel",
+  "displayName": "Picsel",
+  "description": "Find your event photos/videos.",
+  "homepage": "https://picsel.app",
+  "docs": "https://picsel.app",
+  "auth": "none",
+  "mcpServers": {
+    "picsel": {
+      "url": "https://mcp.picsel.app/mcp"
+    }
+  }
+}

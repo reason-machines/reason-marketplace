@@ -1,0 +1,13 @@
+{
+  "name": "upfirst",
+  "displayName": "Upfirst",
+  "description": "Manage AI receptionists.",
+  "homepage": "https://upfirst.ai",
+  "docs": "https://upfirst.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "upfirst": {
+      "url": "https://mcp.upfirst.ai/"
+    }
+  }
+}

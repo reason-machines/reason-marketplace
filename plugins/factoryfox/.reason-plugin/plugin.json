@@ -1,0 +1,13 @@
+{
+  "name": "factoryfox",
+  "displayName": "FactoryFox",
+  "description": "Find industrial suppliers.",
+  "homepage": "https://getfactoryfox.com/",
+  "docs": "https://getfactoryfox.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "factoryfox": {
+      "url": "https://getfactoryfox.com/api/mcp"
+    }
+  }
+}

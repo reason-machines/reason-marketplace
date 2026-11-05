@@ -1,0 +1,13 @@
+{
+  "name": "paribu",
+  "displayName": "Paribu",
+  "description": "Live crypto prices on Paribu.",
+  "homepage": "https://www.paribu.com",
+  "docs": "https://tedix.dev/apps/paribu/",
+  "auth": "none",
+  "mcpServers": {
+    "paribu": {
+      "url": "https://gpt-app.paribu.com/mcp"
+    }
+  }
+}

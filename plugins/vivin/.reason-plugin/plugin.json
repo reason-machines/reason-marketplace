@@ -1,0 +1,13 @@
+{
+  "name": "vivin",
+  "displayName": "Vivin",
+  "description": "Make Reason Visible & Alive.",
+  "homepage": "https://vivin.ai",
+  "docs": "https://vivin.ai",
+  "auth": "none",
+  "mcpServers": {
+    "vivin": {
+      "url": "https://vivin.ai/mcp"
+    }
+  }
+}

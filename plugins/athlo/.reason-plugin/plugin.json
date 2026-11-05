@@ -1,0 +1,13 @@
+{
+  "name": "athlo",
+  "displayName": "ATHLO",
+  "description": "Find wellness that fits.",
+  "homepage": "https://www.athlo.app/",
+  "docs": "https://www.athlo.app/",
+  "auth": "none",
+  "mcpServers": {
+    "athlo": {
+      "url": "https://mcp.athlo.app/mcp"
+    }
+  }
+}

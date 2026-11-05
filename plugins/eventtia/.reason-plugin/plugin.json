@@ -1,0 +1,13 @@
+{
+  "name": "eventtia",
+  "displayName": "Eventtia",
+  "description": "Manage events and attendees.",
+  "homepage": "https://www.eventtia.com",
+  "docs": "https://www.eventtia.com/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "eventtia": {
+      "url": "https://connect-mcp.eventtia.com/mcp"
+    }
+  }
+}

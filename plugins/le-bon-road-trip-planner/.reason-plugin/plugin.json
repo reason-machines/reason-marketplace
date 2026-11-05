@@ -1,0 +1,13 @@
+{
+  "name": "le-bon-road-trip-planner",
+  "displayName": "Le Bon Road Trip Planner",
+  "description": "Planifier vos itinéraires.",
+  "homepage": "https://planner.lebonroadtrip.fr/",
+  "docs": "https://planner.lebonroadtrip.fr/",
+  "auth": "oauth",
+  "mcpServers": {
+    "le-bon-road-trip-planner": {
+      "url": "https://planner.lebonroadtrip.fr/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "montra",
+  "displayName": "Montra",
+  "description": "Show your agent what to change.",
+  "homepage": "https://montra.com",
+  "docs": "https://montra.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "montra": {
+      "url": "https://montra.com/api/mcp"
+    }
+  }
+}

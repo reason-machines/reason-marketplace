@@ -1,0 +1,13 @@
+{
+  "name": "lahjty",
+  "displayName": "Lahjty",
+  "description": "Arabic & English product ads.",
+  "homepage": "https://www.lahjty.com",
+  "docs": "https://www.lahjty.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lahjty": {
+      "url": "https://lahjty.com/mcp"
+    }
+  }
+}

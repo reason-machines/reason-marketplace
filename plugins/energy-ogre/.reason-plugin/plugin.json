@@ -1,0 +1,13 @@
+{
+  "name": "energy-ogre",
+  "displayName": "Energy Ogre",
+  "description": "Estimate electricity savings.",
+  "homepage": "https://www.energyogre.com",
+  "docs": "https://tedix.dev/apps/energy-ogre/",
+  "auth": "none",
+  "mcpServers": {
+    "energy-ogre": {
+      "url": "https://agent-app-mcp.aws.energyogre.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "plendio",
+  "displayName": "Plendio",
+  "description": "Compare prices across shops.",
+  "homepage": "https://plendio.com/",
+  "docs": "https://plendio.com/",
+  "auth": "none",
+  "mcpServers": {
+    "plendio": {
+      "url": "https://plendio.com/mcp"
+    }
+  }
+}

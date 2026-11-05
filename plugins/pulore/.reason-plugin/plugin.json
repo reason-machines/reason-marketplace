@@ -1,0 +1,13 @@
+{
+  "name": "pulore",
+  "displayName": "Pulore App Planner",
+  "description": "Scope apps, check site speed.",
+  "homepage": "https://pulore.com/chatgpt",
+  "docs": "https://pulore.com/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "pulore": {
+      "url": "https://pulore.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "promptbanken",
+  "displayName": "Promptbanken",
+  "description": "Find and use prompt templates.",
+  "homepage": "https://app.promptbanken.se",
+  "docs": "https://app.promptbanken.se",
+  "auth": "none",
+  "mcpServers": {
+    "promptbanken": {
+      "url": "https://mcp.promptbanken.se/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "onebarn",
+  "displayName": "1barn",
+  "description": "Run your barn from chat.",
+  "homepage": "https://1barn.com",
+  "docs": "https://1barn.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "onebarn": {
+      "url": "https://api.1barn.com/mcp"
+    }
+  }
+}

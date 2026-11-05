@@ -1,0 +1,13 @@
+{
+  "name": "logimu-shopping",
+  "displayName": "Logimu Shopping",
+  "description": "Find Amazon & Walmart products.",
+  "homepage": "https://www.logimu.com/shopping-mcp/",
+  "docs": "https://www.logimu.com/shopping-mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "logimu-shopping": {
+      "url": "https://api.logimu.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "whisper-memos",
+  "displayName": "Whisper Memos",
+  "description": "Work with your voice memos.",
+  "homepage": "https://whispermemos.com",
+  "docs": "https://whispermemos.com/kb/integrations/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "whisper-memos": {
+      "url": "https://whispermemos.com/mcp"
+    }
+  }
+}

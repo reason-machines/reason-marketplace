@@ -1,0 +1,13 @@
+{
+  "name": "car-handshake",
+  "displayName": "Car Handshake",
+  "description": "Find and compare cars for sale.",
+  "homepage": "https://carhandshake.com",
+  "docs": "https://carhandshake.com",
+  "auth": "none",
+  "mcpServers": {
+    "car-handshake": {
+      "url": "https://mcp.carhandshake.com/mcp"
+    }
+  }
+}

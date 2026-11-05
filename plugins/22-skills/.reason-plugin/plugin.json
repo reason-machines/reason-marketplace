@@ -1,0 +1,13 @@
+{
+  "name": "22-skills",
+  "displayName": "22 Skills",
+  "description": "Score resume against a job.",
+  "homepage": "https://www.22skills.com",
+  "docs": "https://www.22skills.com",
+  "auth": "none",
+  "mcpServers": {
+    "22-skills": {
+      "url": "https://22skills.com/api/mcp"
+    }
+  }
+}

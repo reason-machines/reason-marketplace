@@ -10,5 +10,168 @@
     "revenuecat": {
       "url": "https://mcp.revenuecat.ai/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "create-revenuecat-project",
+      "description": "Set up a complete RevenueCat project from scratch — creates apps, products, entitlements, offerings, and packages in the correct order. Use when the user wants to create a new RevenueCat project, configure in-app purchases, set up subscriptions or monetization, or bootstrap IAP infrastructure for iO",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "create-revenuecat-project",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/create-revenuecat-project"
+    },
+    {
+      "name": "integrate-revenuecat",
+      "description": "End-to-end RevenueCat integration — sets up the dashboard side via the RevenueCat MCP or the `rc` CLI (project, app, public API key) and installs/configures the Purchases SDK in the app. Use when the user asks to add RevenueCat, integrate Purchases, install the RevenueCat SDK, set up a RevenueCat AP",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "integrate-revenuecat",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/integrate-revenuecat"
+    },
+    {
+      "name": "revenuecat",
+      "description": "Used for all interaction with RevenueCat not covered by a different skill",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat"
+    },
+    {
+      "name": "revenuecat-app-valuation",
+      "description": "Use this skill when the user asks how much their app is worth, what they could sell their app for, how app valuations or acquisitions work, or how to prepare a subscription app for sale/exit.",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-app-valuation",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-app-valuation"
+    },
+    {
+      "name": "revenuecat-audiences",
+      "description": "Use before sharing a link to a filtered customer list or audience, and when identifying, filtering, or ranking the user's customers (a segment, who they are, a product or duration, spend, renewals, status, country, attribution).",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-audiences",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-audiences"
+    },
+    {
+      "name": "revenuecat-billing",
+      "description": "Use when the user asks about their RevenueCat plan, billing, their RevenueCat invoices, or how much they will have to pay RevenueCat.",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-billing",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-billing"
+    },
+    {
+      "name": "revenuecat-charts",
+      "description": "Use when the user asks about RevenueCat data, analytics, charts, or KPIs — querying charts with get-chart-options-schema and get-chart-data, interpreting subscription metrics, or sharing dashboard chart links. For forecasts, projections, or run-rates, use revenuecat-forecasting.",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-charts",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-charts"
+    },
+    {
+      "name": "revenuecat-cli",
+      "description": "Drive RevenueCat from the terminal with the `rc` CLI, an alternative to the RevenueCat MCP server for humans, CI, and agents. Covers install, authentication, command discovery, and output conventions. Referenced by the other RevenueCat skills whenever they offer a CLI path.",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-cli",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-cli"
+    },
+    {
+      "name": "revenuecat-customer-center",
+      "description": "Add the RevenueCat Customer Center (self service subscription management UI) to an app. Use when the user asks to add a customer center, build a self service subscriptions screen, let users manage subscriptions in app, add a subscription management screen, present CustomerCenterView, call presentCus",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-customer-center",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-customer-center"
+    },
+    {
+      "name": "revenuecat-dashboard-links",
+      "description": "How to link to pages in the RevenueCat dashboard (offerings, products, customers, settings, integrations, paywalls, experiments, etc.). For chart links with filters, use revenuecat-charts; for filtered customer lists, use revenuecat-audiences.",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-dashboard-links",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-dashboard-links"
+    },
+    {
+      "name": "revenuecat-entitlements-gate",
+      "description": "Check whether a RevenueCat user currently has access to a paid feature via entitlements. Use when the user asks to gate a feature behind premium, check if the user has a pro subscription, read customerInfo active entitlements, show or hide a feature based on subscription status, react to entitlement",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-entitlements-gate",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-entitlements-gate"
+    },
+    {
+      "name": "revenuecat-experiments",
+      "description": "Use when the user asks to create, prepare, or set up a RevenueCat experiment (A/B test), to prepare its variant offerings or paywalls, or to start, pause, resume, or stop an experiment via the RevenueCat MCP experiment tools",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-experiments",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-experiments"
+    },
+    {
+      "name": "revenuecat-forecasting",
+      "description": "Use this skill whenever the user asks for a forecast, projection, extrapolation, or run-rate (MRR, ARR, revenue, or subscribers N months out; revenue to the end of the month or year), or asks what ad spend or acquisition is needed to hit a growth target. Load it before pulling charts for the project",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-forecasting",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-forecasting"
+    },
+    {
+      "name": "revenuecat-identify-user",
+      "description": "Tie RevenueCat identity to your app's auth system. Use when the user asks to log in to RevenueCat, sync a user with RevenueCat, switch RevenueCat user on login, log out of RevenueCat, move a user from anonymous to identified, set appUserID, or handle account switching on iOS, Android, Kotlin Multipl",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-identify-user",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-identify-user"
+    },
+    {
+      "name": "revenuecat-migrate",
+      "description": "Migrate to RevenueCat from raw StoreKit or Google Play Billing, or upgrade the RevenueCat SDK across a major version. Use when the user says migrate to RevenueCat, switch from StoreKit to RC, upgrade RevenueCat SDK, from v4 to v5, observer mode, RevenueCat major version upgrade, or already have in a",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-migrate",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-migrate"
+    },
+    {
+      "name": "revenuecat-paywall",
+      "description": "Display a RevenueCat paywall inside an app using the RevenueCatUI SDK. Use when the user asks to add a paywall, show a RevenueCat paywall, present PaywallView, integrate RevenueCatUI, gate a premium screen with a paywall, launch PaywallActivity, call presentPaywall or presentPaywallIfNeeded, or show",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-paywall",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-paywall"
+    },
+    {
+      "name": "revenuecat-paywall-design",
+      "description": "Must invoke for any request to create, edit, evaluate, understand, or improve a RevenueCat Paywall in the dashboard — including questions about a specific paywall or general paywall design recommendations. Not for presenting a paywall in app code (use revenuecat-paywall).",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-paywall-design",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-paywall-design"
+    },
+    {
+      "name": "revenuecat-purchase-flow",
+      "description": "Implement the RevenueCat purchase and restore flow. Use when the user asks to buy a package, purchase a subscription, fetch offerings, build paywall purchase logic, handle purchase errors, detect user cancelled, or restore previous purchases on iOS, Android, Kotlin Multiplatform, Flutter, or React N",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-purchase-flow",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-purchase-flow"
+    },
+    {
+      "name": "revenuecat-sdk-compatibility",
+      "description": "Check whether an SDK version supports a RevenueCat feature, whether an SDK upgrade is required, why an SDK-gated feature is not working, or how much of a project's recent subscriber base is on incompatible SDK versions. Use for questions about RevenueCat SDK compatibility, feature gates, minimum SDK",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-sdk-compatibility",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-sdk-compatibility"
+    },
+    {
+      "name": "revenuecat-status",
+      "description": "Get a quick overview of your RevenueCat project configuration including apps, products, entitlements, offerings, and webhooks.",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-status",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-status"
+    },
+    {
+      "name": "revenuecat-store-state",
+      "description": "Use when the user wants to inspect or change the state of products in App Store Connect, Google Play Console, RC Billing, or Test Store (prices, availability, localizations, review screenshots) via RevenueCat product-store-state plans",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-store-state",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-store-state"
+    },
+    {
+      "name": "revenuecat-testing-setup",
+      "description": "Set up a testing environment for RevenueCat purchases without charging real money. Use when the user says test RevenueCat purchases, sandbox setup, StoreKit configuration file, license tester, how do I test purchases without real money, set up sandbox account, internal testing track, or test paywall",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-testing-setup",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-testing-setup"
+    },
+    {
+      "name": "revenuecat-troubleshoot",
+      "description": "Diagnose and resolve RevenueCat integration issues — inspects dashboard configuration through the RevenueCat MCP, walks the SDK debug logs, and covers code-side gotchas. Use when the user says offerings are empty, products not loading, entitlement not active after purchase, paywall won't load, trans",
+      "source": "revenuecat/ai-toolkit#a3af514df6fe136242a2fb4b056a4425660713fe",
+      "skill": "revenuecat-troubleshoot",
+      "url": "https://github.com/revenuecat/ai-toolkit/tree/a3af514df6fe136242a2fb4b056a4425660713fe/revenuecat/skills/revenuecat-troubleshoot"
+    }
+  ]
 }

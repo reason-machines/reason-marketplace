@@ -1,0 +1,13 @@
+{
+  "name": "trains-on-map",
+  "displayName": "Trains on Map",
+  "description": "Live train maps & delays.",
+  "homepage": "https://trainsonmap.com",
+  "docs": "https://trainsonmap.com/docs/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "trains-on-map": {
+      "url": "https://api.trainsonmap.com/mcp"
+    }
+  }
+}

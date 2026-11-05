@@ -1,0 +1,13 @@
+{
+  "name": "aiakiv-memory",
+  "displayName": "AiAkiv Memory",
+  "description": "Shared memory for AI agents.",
+  "homepage": "https://www.aiakiv.com",
+  "docs": "https://www.aiakiv.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "aiakiv-memory": {
+      "url": "https://mcp.aiakiv.com/mcp"
+    }
+  }
+}

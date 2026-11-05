@@ -1,0 +1,13 @@
+{
+  "name": "beyond-wine",
+  "displayName": "Beyond Wine",
+  "description": "Explore specialty beverages.",
+  "homepage": "https://beyond.wine",
+  "docs": "https://beyond.wine",
+  "auth": "none",
+  "mcpServers": {
+    "beyond-wine": {
+      "url": "https://beyond.wine/mcp"
+    }
+  }
+}

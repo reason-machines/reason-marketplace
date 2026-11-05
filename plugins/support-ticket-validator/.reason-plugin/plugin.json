@@ -1,0 +1,13 @@
+{
+  "name": "support-ticket-validator",
+  "displayName": "Support Ticket Validator",
+  "description": "Check support ticket fields.",
+  "homepage": "https://support-ticket-validator.sidcraigau.workers.dev",
+  "docs": "https://support-ticket-validator.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "support-ticket-validator": {
+      "url": "https://support-ticket-validator.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

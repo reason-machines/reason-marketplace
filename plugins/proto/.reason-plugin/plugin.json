@@ -1,0 +1,13 @@
+{
+  "name": "proto",
+  "displayName": "Proto",
+  "description": "Biological AI models and tools.",
+  "homepage": "https://proto.evodesign.org",
+  "docs": "https://proto.evodesign.org",
+  "auth": "oauth",
+  "mcpServers": {
+    "proto": {
+      "url": "https://mcp.evodesign.org/mcp"
+    }
+  }
+}

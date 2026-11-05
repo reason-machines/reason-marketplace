@@ -1,0 +1,13 @@
+{
+  "name": "expense-agent",
+  "displayName": "Expense Tracker",
+  "description": "Track and export expenses.",
+  "homepage": "https://expenseagent.reviewbit.app/",
+  "docs": "https://expenseagent.reviewbit.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "expense-agent": {
+      "url": "https://expenseagent.reviewbit.app/mcp"
+    }
+  }
+}

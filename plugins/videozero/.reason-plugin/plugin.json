@@ -1,0 +1,13 @@
+{
+  "name": "videozero",
+  "displayName": "VideoZero",
+  "description": "Visualize • Animate • Explain.",
+  "homepage": "https://videozero.ai",
+  "docs": "https://videozero.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "videozero": {
+      "url": "https://mcp.videozero.ai/mcp"
+    }
+  }
+}

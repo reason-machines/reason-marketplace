@@ -1,0 +1,13 @@
+{
+  "name": "eddie",
+  "displayName": "Eddie",
+  "description": "Edit your footage by talking.",
+  "homepage": "https://www.heyeddie.ai",
+  "docs": "https://heyeddie.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "eddie": {
+      "url": "https://mcp.heyeddie.ai/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "intropic",
+  "displayName": "Intropic",
+  "description": "Access Intropic products.",
+  "homepage": "https://intropic.io/",
+  "docs": "https://tedix.dev/apps/intropic/",
+  "auth": "oauth",
+  "mcpServers": {
+    "intropic": {
+      "url": "https://mcp.intropic.io/gateway/mcp"
+    }
+  }
+}

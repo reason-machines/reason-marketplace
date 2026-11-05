@@ -1,0 +1,13 @@
+{
+  "name": "homeschool-fox",
+  "displayName": "Homeschool Fox",
+  "description": "Log homeschool hours by chat.",
+  "homepage": "https://homeschoolfox.com",
+  "docs": "https://homeschoolfox.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "homeschool-fox": {
+      "url": "https://homeschoolfox.com/mcp"
+    }
+  }
+}

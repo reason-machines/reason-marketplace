@@ -1,0 +1,22 @@
+{
+  "name": "uizze",
+  "displayName": "Uizze",
+  "description": "UI design that stands out.",
+  "homepage": "https://uizze.com/ai-ui-slop?utm_source=openai_plugin&utm_medium=agent_marketplace&utm_campaign=openai_plugin_v1",
+  "docs": "https://uizze.com/ai-ui-slop?utm_source=openai_plugin&utm_medium=agent_marketplace&utm_campaign=openai_plugin_v1",
+  "auth": "oauth",
+  "mcpServers": {
+    "uizze": {
+      "url": "https://uizze.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "anti-ui-slop",
+      "description": "Stop coding agents from shipping generic UI. Use UIZZE's 800,000+ real web and iOS screens to build product-specific interfaces, define a design contract, cover required states, and run a hard finish gate. Use when designing, implementing, redesigning, critiquing, or pre-ship reviewing a web or iOS ",
+      "source": "uizze/uizze#fc401e9e654cbafe427b0c98142fc8bccd0c4e7e",
+      "skill": "anti-ui-slop",
+      "url": "https://github.com/uizze/uizze/tree/fc401e9e654cbafe427b0c98142fc8bccd0c4e7e/integrations/nextjs-starter/.agents/skills/anti-ui-slop"
+    }
+  ]
+}

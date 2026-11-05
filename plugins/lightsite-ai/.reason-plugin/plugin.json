@@ -1,0 +1,13 @@
+{
+  "name": "lightsite-ai",
+  "displayName": "LightSite AI",
+  "description": "AEO Analytics and Execution.",
+  "homepage": "https://www.lightsite.ai",
+  "docs": "https://www.lightsite.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "lightsite-ai": {
+      "url": "https://mcp.lightsite.ai/mcp"
+    }
+  }
+}

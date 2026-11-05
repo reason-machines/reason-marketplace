@@ -1,0 +1,13 @@
+{
+  "name": "yearo-arshjul",
+  "displayName": "Yearo",
+  "description": "Årshjul med dina aktiviteter.",
+  "homepage": "https://www.yearo.se/",
+  "docs": "https://www.yearo.se/",
+  "auth": "oauth",
+  "mcpServers": {
+    "yearo-arshjul": {
+      "url": "https://yearo.se/mcp"
+    }
+  }
+}

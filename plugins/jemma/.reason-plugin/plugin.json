@@ -1,0 +1,13 @@
+{
+  "name": "jemma",
+  "displayName": "Jemma",
+  "description": "Nurse pay and take-home math.",
+  "homepage": "https://nursejemma.com",
+  "docs": "https://tedix.dev/apps/jemma/",
+  "auth": "none",
+  "mcpServers": {
+    "jemma": {
+      "url": "https://nursejemma.com/api/v1/mcp"
+    }
+  }
+}

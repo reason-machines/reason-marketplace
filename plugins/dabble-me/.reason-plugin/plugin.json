@@ -1,0 +1,13 @@
+{
+  "name": "dabble-me",
+  "displayName": "Dabble Me",
+  "description": "Your journal, remembered.",
+  "homepage": "https://dabble.me",
+  "docs": "https://dabble.me",
+  "auth": "oauth",
+  "mcpServers": {
+    "dabble-me": {
+      "url": "https://dabble.me/mcp"
+    }
+  }
+}

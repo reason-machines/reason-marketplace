@@ -1,0 +1,13 @@
+{
+  "name": "freediver",
+  "displayName": "Freediver",
+  "description": "Plan freediving workouts.",
+  "homepage": "https://freediver.club",
+  "docs": "https://freediver.club/blog/freediver-club-mcp-integration",
+  "auth": "oauth",
+  "mcpServers": {
+    "freediver": {
+      "url": "https://integrations.freediver.club/mcp"
+    }
+  }
+}

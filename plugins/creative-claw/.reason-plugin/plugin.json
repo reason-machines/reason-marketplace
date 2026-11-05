@@ -1,0 +1,13 @@
+{
+  "name": "creative-claw",
+  "displayName": "Creative Claw",
+  "description": "Create videos & voiceovers.",
+  "homepage": "https://creativeclaw.co/chatgpt/",
+  "docs": "https://creativeclaw.co/",
+  "auth": "oauth",
+  "mcpServers": {
+    "creative-claw": {
+      "url": "https://app.creativeclaw.co/mcp"
+    }
+  }
+}

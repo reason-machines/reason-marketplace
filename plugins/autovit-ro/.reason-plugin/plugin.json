@@ -1,0 +1,13 @@
+{
+  "name": "autovit-ro",
+  "displayName": "Autovit.ro",
+  "description": "Find your dream car in Autovit.",
+  "homepage": "https://www.autovit.ro/",
+  "docs": "https://www.autovit.ro/",
+  "auth": "none",
+  "mcpServers": {
+    "autovit-ro": {
+      "url": "https://mcp.autovit.ro/mcp"
+    }
+  }
+}

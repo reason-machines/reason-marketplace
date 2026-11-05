@@ -1,0 +1,13 @@
+{
+  "name": "wissen",
+  "displayName": "Wissen",
+  "description": "Equity research, kept current.",
+  "homepage": "https://www.wissen-ai.com",
+  "docs": "https://wissen-ai.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "wissen": {
+      "url": "https://argus.wissen-ai.com/mcp"
+    }
+  }
+}

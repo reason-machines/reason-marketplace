@@ -1,0 +1,13 @@
+{
+  "name": "praxeum",
+  "displayName": "Praxeum",
+  "description": "Political ideas, sourced.",
+  "homepage": "https://praxeum.hu/ai",
+  "docs": "https://praxeum.hu/ai",
+  "auth": "none",
+  "mcpServers": {
+    "praxeum": {
+      "url": "https://praxeum.hu/mcp"
+    }
+  }
+}

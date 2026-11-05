@@ -1,0 +1,13 @@
+{
+  "name": "letsfind",
+  "displayName": "Letsfind",
+  "description": "Create polls and find dates.",
+  "homepage": "https://letsfind.app",
+  "docs": "https://letsfind.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "letsfind": {
+      "url": "https://letsfind.app/api/mcp"
+    }
+  }
+}

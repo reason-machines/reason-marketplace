@@ -1,0 +1,13 @@
+{
+  "name": "zeroheight",
+  "displayName": "zeroheight",
+  "description": "Connect your design system.",
+  "homepage": "https://zeroheight.com",
+  "docs": "https://zeroheight.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "zeroheight": {
+      "url": "https://mcp.zeroheight.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "home-fitness-exercise-library",
+  "displayName": "Joy2Move Home Exercise Library",
+  "description": "Find and watch exercise demos.",
+  "homepage": "https://www.joy2move.net/exercises",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.AG-ITAcademy/home-fitness-exercise-library",
+  "auth": "none",
+  "mcpServers": {
+    "home-fitness-exercise-library": {
+      "url": "https://www.joy2move.net/api/exercises/mcp"
+    }
+  }
+}

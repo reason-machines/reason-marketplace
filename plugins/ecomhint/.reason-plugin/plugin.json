@@ -1,0 +1,13 @@
+{
+  "name": "ecomhint",
+  "displayName": "Ecomhint",
+  "description": "Ecommerce conversion audits.",
+  "homepage": "https://ecomhint.com/docs/mcp",
+  "docs": "https://ecomhint.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "ecomhint": {
+      "url": "https://ecomhint.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "adlane",
+  "displayName": "Adlane",
+  "description": "Review ad campaign performance.",
+  "homepage": "https://adlane.app",
+  "docs": "https://adlane.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "adlane": {
+      "url": "https://mcp.adlane.app/mcp"
+    }
+  }
+}

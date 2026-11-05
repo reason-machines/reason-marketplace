@@ -1,0 +1,13 @@
+{
+  "name": "notaio-chianese-calcoli",
+  "displayName": "Notaio Chianese Calculators",
+  "description": "Italy home & inheritance tax.",
+  "homepage": "https://www.notaiochianese.it/en/calculators-for-ai-assistants/",
+  "docs": "https://www.notaiochianese.it/en/calculators-for-ai-assistants/",
+  "auth": "none",
+  "mcpServers": {
+    "notaio-chianese-calcoli": {
+      "url": "https://mcp.notaiochianese.it/mcp"
+    }
+  }
+}

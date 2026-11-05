@@ -1,0 +1,13 @@
+{
+  "name": "antoc-crm",
+  "displayName": "ANTOC CRM",
+  "description": "ANTOC CRM insights.",
+  "homepage": "https://antoc.ai/",
+  "docs": "https://api.antoc.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "antoc-crm": {
+      "url": "https://api.antoc.ai/mcp"
+    }
+  }
+}

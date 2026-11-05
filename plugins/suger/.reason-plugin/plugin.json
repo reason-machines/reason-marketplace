@@ -1,0 +1,13 @@
+{
+  "name": "suger",
+  "displayName": "Suger",
+  "description": "Manage cloud GTM data.",
+  "homepage": "https://www.suger.io",
+  "docs": "https://www.suger.io",
+  "auth": "none",
+  "mcpServers": {
+    "suger": {
+      "url": "https://suger.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "spreadsheets-gpt-workspace",
+  "displayName": "Spreadsheets GPT Workspace",
+  "description": "Automate spreadsheet work.",
+  "homepage": "https://gpt.space/sheets/chatgpt-spreadsheet-maker",
+  "docs": "https://gpt.space/sheets/chatgpt-spreadsheet-maker",
+  "auth": "oauth",
+  "mcpServers": {
+    "spreadsheets-gpt-workspace": {
+      "url": "https://api.gpt.space/servers/google-sheets/mcp"
+    }
+  }
+}

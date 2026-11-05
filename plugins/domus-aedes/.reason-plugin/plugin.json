@@ -1,0 +1,13 @@
+{
+  "name": "domus-aedes",
+  "displayName": "Domus Aedes",
+  "description": "Homes in Spain and Morocco.",
+  "homepage": "https://domusaedes.com",
+  "docs": "https://ai.domusaedes.com/docs",
+  "auth": "none",
+  "mcpServers": {
+    "domus-aedes": {
+      "url": "https://ai.domusaedes.com/mcp"
+    }
+  }
+}

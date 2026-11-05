@@ -1,0 +1,13 @@
+{
+  "name": "sittersorted",
+  "displayName": "SitterSorted",
+  "description": "Ask your own sitters.",
+  "homepage": "https://sittersorted.com",
+  "docs": "https://app.sittersorted.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "sittersorted": {
+      "url": "https://app.sittersorted.com/mcp"
+    }
+  }
+}

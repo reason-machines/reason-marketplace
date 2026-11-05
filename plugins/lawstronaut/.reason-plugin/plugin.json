@@ -1,0 +1,13 @@
+{
+  "name": "lawstronaut",
+  "displayName": "Lawstronaut",
+  "description": "Legal data layer for AI tools.",
+  "homepage": "https://lawstronaut.com",
+  "docs": "https://lawstronaut.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lawstronaut": {
+      "url": "https://mcp.lawstronaut.com/"
+    }
+  }
+}

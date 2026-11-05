@@ -1,0 +1,13 @@
+{
+  "name": "fed-register",
+  "displayName": "Zovo Federal Register Digest",
+  "description": "Federal rules and deadlines.",
+  "homepage": "https://fed-register.zovo.one",
+  "docs": "https://fed-register.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "fed-register": {
+      "url": "https://fed-register.zovo.one/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "myskinrecipes-shop",
+  "displayName": "MySkinRecipes",
+  "description": "Ingredients and cart help.",
+  "homepage": "https://www.myskinrecipes.com",
+  "docs": "https://www.myskinrecipes.com",
+  "auth": "none",
+  "mcpServers": {
+    "myskinrecipes-shop": {
+      "url": "https://myskinrecipes.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bedrijfscijfers",
+  "displayName": "bedrijfscijfers",
+  "description": "Belgian company financials.",
+  "homepage": "https://www.bedrijfscijfers.be/ai-chatbot-mcp",
+  "docs": "https://www.bedrijfscijfers.be/ai-chatbot-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "bedrijfscijfers": {
+      "url": "https://api.bedrijfscijfers.be/mcp"
+    }
+  }
+}

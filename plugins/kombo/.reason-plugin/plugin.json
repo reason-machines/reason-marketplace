@@ -1,0 +1,13 @@
+{
+  "name": "kombo",
+  "displayName": "Kombo",
+  "description": "Compare train, bus & flights.",
+  "homepage": "https://kombo.co",
+  "docs": "https://kombo.co",
+  "auth": "none",
+  "mcpServers": {
+    "kombo": {
+      "url": "https://mcp.kombo.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "protplex",
+  "displayName": "Protplex",
+  "description": "Find protein structures.",
+  "homepage": "https://protplex.com",
+  "docs": "https://protplex.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "protplex": {
+      "url": "https://search.protplex.com/mcp"
+    }
+  }
+}

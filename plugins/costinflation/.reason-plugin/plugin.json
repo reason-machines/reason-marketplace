@@ -1,0 +1,13 @@
+{
+  "name": "costinflation",
+  "displayName": "CostInflation",
+  "description": "Explore and compare prices.",
+  "homepage": "https://costinflation.com",
+  "docs": "https://costinflation.com",
+  "auth": "none",
+  "mcpServers": {
+    "costinflation": {
+      "url": "https://mcp.costinflation.com/mcp"
+    }
+  }
+}

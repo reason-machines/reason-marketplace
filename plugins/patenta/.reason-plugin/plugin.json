@@ -1,0 +1,13 @@
+{
+  "name": "patenta",
+  "displayName": "Patenta",
+  "description": "Search patents, find prior art.",
+  "homepage": "https://patenta.ai",
+  "docs": "https://patenta.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "patenta": {
+      "url": "https://mcp.patenta.ai/mcp"
+    }
+  }
+}

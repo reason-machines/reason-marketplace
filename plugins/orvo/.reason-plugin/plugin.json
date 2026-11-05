@@ -1,0 +1,13 @@
+{
+  "name": "orvo",
+  "displayName": "Orvo",
+  "description": "Your relationships, connected.",
+  "homepage": "https://www.getorvo.com/ai-assistants",
+  "docs": "https://www.getorvo.com/ai-assistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "orvo": {
+      "url": "https://www.getorvo.com/api/mcp"
+    }
+  }
+}

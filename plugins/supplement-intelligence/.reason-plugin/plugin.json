@@ -1,0 +1,13 @@
+{
+  "name": "supplement-intelligence",
+  "displayName": "Supplement Intelligence",
+  "description": "Supplement evidence research.",
+  "homepage": "https://supplement-intelligence.com",
+  "docs": "https://supplement-intelligence.com",
+  "auth": "none",
+  "mcpServers": {
+    "supplement-intelligence": {
+      "url": "https://mcp.supplement-intelligence.com/mcp"
+    }
+  }
+}

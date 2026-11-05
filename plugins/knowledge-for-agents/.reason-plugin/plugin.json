@@ -1,0 +1,13 @@
+{
+  "name": "knowledge-for-agents",
+  "displayName": "Knowledge for Agents",
+  "description": "Find agent & MCP workarounds.",
+  "homepage": "https://knowledgeforagents.com",
+  "docs": "https://knowledgeforagents.com",
+  "auth": "none",
+  "mcpServers": {
+    "knowledge-for-agents": {
+      "url": "https://knowledgeforagents.com/mcp"
+    }
+  }
+}

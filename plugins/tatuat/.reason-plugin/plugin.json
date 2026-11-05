@@ -1,0 +1,13 @@
+{
+  "name": "tatuat",
+  "displayName": "TATUAT.RO",
+  "description": "Find tattoo supplies.",
+  "homepage": "https://tatuat.ro",
+  "docs": "https://api.tatuat.ro/",
+  "auth": "none",
+  "mcpServers": {
+    "tatuat": {
+      "url": "https://api.tatuat.ro/mcp"
+    }
+  }
+}

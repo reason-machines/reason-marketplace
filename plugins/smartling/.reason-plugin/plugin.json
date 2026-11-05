@@ -1,0 +1,13 @@
+{
+  "name": "smartling",
+  "displayName": "Smartling",
+  "description": "Manage Smartling translations.",
+  "homepage": "https://www.smartling.com",
+  "docs": "https://www.smartling.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "smartling": {
+      "url": "https://mcp.smartling.com/mcp"
+    }
+  }
+}

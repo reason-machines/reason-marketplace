@@ -1,0 +1,13 @@
+{
+  "name": "cheerful",
+  "displayName": "Cheerful",
+  "description": "Find creators, send outreach.",
+  "homepage": "https://www.cheerful.ai",
+  "docs": "https://www.cheerful.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "cheerful": {
+      "url": "https://mcp.cheerful.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "seo-with-distribb",
+  "displayName": "SEO with Distribb",
+  "description": "SEO articles & backlinks.",
+  "homepage": "https://distribb.io",
+  "docs": "https://distribb.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "seo-with-distribb": {
+      "url": "https://distribb.io/mcp"
+    }
+  }
+}

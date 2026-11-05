@@ -1,0 +1,13 @@
+{
+  "name": "hemelion",
+  "displayName": "Hemelion",
+  "description": "Map decisions and patterns.",
+  "homepage": "https://www.hemelion.com/chatgpt-app",
+  "docs": "https://www.hemelion.com/chatgpt-app",
+  "auth": "none",
+  "mcpServers": {
+    "hemelion": {
+      "url": "https://hemelion.com/mcp"
+    }
+  }
+}

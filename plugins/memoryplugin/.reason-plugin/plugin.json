@@ -1,0 +1,13 @@
+{
+  "name": "memoryplugin",
+  "displayName": "MemoryPlugin",
+  "description": "Save and recall your memories.",
+  "homepage": "https://www.memoryplugin.com",
+  "docs": "https://memoryplugin.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "memoryplugin": {
+      "url": "https://www.memoryplugin.com/api/mcp/mcp"
+    }
+  }
+}

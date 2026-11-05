@@ -1,0 +1,13 @@
+{
+  "name": "ample",
+  "displayName": "Ample",
+  "description": "Put your app online.",
+  "homepage": "https://ample.computer",
+  "docs": "https://api.ample.computer/mcp/setup",
+  "auth": "oauth",
+  "mcpServers": {
+    "ample": {
+      "url": "https://api.ample.computer/mcp"
+    }
+  }
+}

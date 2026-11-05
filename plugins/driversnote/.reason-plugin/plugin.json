@@ -1,0 +1,13 @@
+{
+  "name": "driversnote",
+  "displayName": "Driversnote",
+  "description": "Manage mileage and reports.",
+  "homepage": "https://www.driversnote.com/",
+  "docs": "https://www.driversnote.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "driversnote": {
+      "url": "https://mcp.driversnote.com/"
+    }
+  }
+}

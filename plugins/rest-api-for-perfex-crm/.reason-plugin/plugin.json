@@ -1,0 +1,13 @@
+{
+  "name": "rest-api-for-perfex-crm",
+  "displayName": "Perfex CRM",
+  "description": "Work with your Perfex CRM data.",
+  "homepage": "https://perfex-mcp.themesic.com/requirements",
+  "docs": "https://perfex-mcp.themesic.com/requirements",
+  "auth": "oauth",
+  "mcpServers": {
+    "rest-api-for-perfex-crm": {
+      "url": "https://perfex-mcp.themesic.com/mcp"
+    }
+  }
+}

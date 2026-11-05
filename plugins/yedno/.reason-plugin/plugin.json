@@ -1,0 +1,13 @@
+{
+  "name": "yedno",
+  "displayName": "Yedno",
+  "description": "Plan tasks for now.",
+  "homepage": "https://yedno.now",
+  "docs": "https://yedno.now",
+  "auth": "oauth",
+  "mcpServers": {
+    "yedno": {
+      "url": "https://yedno.now/mcp"
+    }
+  }
+}

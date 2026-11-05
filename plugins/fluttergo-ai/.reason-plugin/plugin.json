@@ -1,0 +1,13 @@
+{
+  "name": "fluttergo-ai",
+  "displayName": "FlutterGo",
+  "description": "Build Flutter apps in chat.",
+  "homepage": "https://fluttergo.ai/",
+  "docs": "https://fluttergo.ai/integrations/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "fluttergo-ai": {
+      "url": "https://fluttergo.ai/api/mcp/remote"
+    }
+  }
+}

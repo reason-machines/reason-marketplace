@@ -1,0 +1,13 @@
+{
+  "name": "perigon",
+  "displayName": "Perigon",
+  "description": "News and social research.",
+  "homepage": "https://perigon.io/docs/api/mcp",
+  "docs": "https://perigon.io/docs/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "perigon": {
+      "url": "https://mcp.perigon.io/v1/mcp"
+    }
+  }
+}

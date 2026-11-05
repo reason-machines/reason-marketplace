@@ -1,0 +1,13 @@
+{
+  "name": "mileage-log",
+  "displayName": "Odometry Mileage Log",
+  "description": "Mileage log and reimbursement.",
+  "homepage": "https://mileage-log.zovo.one",
+  "docs": "https://mileage-log.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "mileage-log": {
+      "url": "https://mileage-log.zovo.one/mcp"
+    }
+  }
+}

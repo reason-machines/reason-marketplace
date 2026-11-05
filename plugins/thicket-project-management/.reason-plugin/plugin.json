@@ -1,0 +1,13 @@
+{
+  "name": "thicket-project-management",
+  "displayName": "Thicket - Project Management",
+  "description": "Manage projects and to-dos.",
+  "homepage": "https://www.thickethq.com",
+  "docs": "https://thickethq.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "thicket-project-management": {
+      "url": "https://www.thickethq.com/api/mcp"
+    }
+  }
+}

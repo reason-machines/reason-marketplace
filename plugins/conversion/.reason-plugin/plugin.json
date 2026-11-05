@@ -1,0 +1,13 @@
+{
+  "name": "conversion",
+  "displayName": "Conversion",
+  "description": "Marketing automation platform.",
+  "homepage": "https://conversion.ai",
+  "docs": "https://conversion.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "conversion": {
+      "url": "https://mcp.conversion.ai/mcp"
+    }
+  }
+}

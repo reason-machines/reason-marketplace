@@ -1,0 +1,13 @@
+{
+  "name": "postplanify",
+  "displayName": "PostPlanify",
+  "description": "Social media management.",
+  "homepage": "https://postplanify.com/",
+  "docs": "https://postplanify.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "postplanify": {
+      "url": "https://api.postplanify.com/api/mcp"
+    }
+  }
+}

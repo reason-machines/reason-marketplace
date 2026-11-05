@@ -1,0 +1,13 @@
+{
+  "name": "ecdb",
+  "displayName": "ECDB",
+  "description": "Use ECDB in Reason.",
+  "homepage": "https://ecdb.com",
+  "docs": "https://ecdb.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ecdb": {
+      "url": "https://mcp.ecdb.com/mcp"
+    }
+  }
+}

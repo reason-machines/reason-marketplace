@@ -1,0 +1,13 @@
+{
+  "name": "uk-sponsor-regevidencehub",
+  "displayName": "UK Sponsor — RegEvidenceHub",
+  "description": "Sponsor change checks.",
+  "homepage": "https://works.regevidencehub.com/uk-sponsor-change-checker",
+  "docs": "https://works.regevidencehub.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "uk-sponsor-regevidencehub": {
+      "url": "https://works.regevidencehub.com/ai/mcp"
+    }
+  }
+}

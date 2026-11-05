@@ -1,0 +1,13 @@
+{
+  "name": "tuio",
+  "displayName": "Tuio",
+  "description": "Home insurance quotes.",
+  "homepage": "https://tuio.com",
+  "docs": "https://tedix.dev/apps/tuio/",
+  "auth": "none",
+  "mcpServers": {
+    "tuio": {
+      "url": "https://tuio-mcp-demo.vercel.app/v2/mcp"
+    }
+  }
+}

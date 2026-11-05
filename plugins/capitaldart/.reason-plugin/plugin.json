@@ -1,0 +1,13 @@
+{
+  "name": "capitaldart",
+  "displayName": "CapitalDart",
+  "description": "Find investors for your raise.",
+  "homepage": "https://capitaldart.com",
+  "docs": "https://capitaldart.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "capitaldart": {
+      "url": "https://capitaldart.com/mcp"
+    }
+  }
+}

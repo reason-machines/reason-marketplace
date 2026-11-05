@@ -1,0 +1,13 @@
+{
+  "name": "quokit",
+  "displayName": "Quokit",
+  "description": "Gift lists without double-ups.",
+  "homepage": "https://www.quokit.com.au",
+  "docs": "https://quokit.com.au/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "quokit": {
+      "url": "https://www.quokit.com.au/api/mcp"
+    }
+  }
+}

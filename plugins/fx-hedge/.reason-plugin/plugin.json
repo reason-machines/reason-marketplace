@@ -1,0 +1,13 @@
+{
+  "name": "fx-hedge",
+  "displayName": "FX Hedge",
+  "description": "FX hedge ratios and analytics.",
+  "homepage": "https://c8hedge.com",
+  "docs": "https://tedix.dev/apps/fx-hedge/",
+  "auth": "oauth",
+  "mcpServers": {
+    "fx-hedge": {
+      "url": "https://api.c8-technologies.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "anymortgagecalculator",
+  "displayName": "AnyMortgageCalculator",
+  "description": "Helping you decide.",
+  "homepage": "https://www.widget.olutely.com",
+  "docs": "https://tedix.dev/apps/anymortgagecalculator/",
+  "auth": "none",
+  "mcpServers": {
+    "anymortgagecalculator": {
+      "url": "https://mortgage-calculator.widgets.widget.olutely.com/mortgage-calculator/mcp"
+    }
+  }
+}

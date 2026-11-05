@@ -1,0 +1,13 @@
+{
+  "name": "wowsql",
+  "displayName": "WoWSQL",
+  "description": "Manage PostgreSQL databases.",
+  "homepage": "https://wowsql.com",
+  "docs": "https://wowsql.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "wowsql": {
+      "url": "https://mcp.wowsql.com/mcp"
+    }
+  }
+}

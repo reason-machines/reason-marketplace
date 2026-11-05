@@ -1,0 +1,13 @@
+{
+  "name": "qwikyo",
+  "displayName": "Qwikyo",
+  "description": "Find local service providers.",
+  "homepage": "https://www.qwikyo.com",
+  "docs": "https://www.qwikyo.com",
+  "auth": "none",
+  "mcpServers": {
+    "qwikyo": {
+      "url": "https://mcp.qwikyo.com/mcp"
+    }
+  }
+}

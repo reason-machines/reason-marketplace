@@ -1,0 +1,13 @@
+{
+  "name": "redii",
+  "displayName": "Redii",
+  "description": "Manage employee benefits.",
+  "homepage": "https://redii.co",
+  "docs": "https://redii.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "redii": {
+      "url": "https://mcp.redii.co/mcp"
+    }
+  }
+}

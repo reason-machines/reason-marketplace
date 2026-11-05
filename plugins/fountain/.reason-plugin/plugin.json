@@ -1,0 +1,29 @@
+{
+  "name": "fountain",
+  "displayName": "Fountain",
+  "description": "Podcast Growth Skills.",
+  "homepage": "https://fountain.fm",
+  "docs": "https://fountain.fm/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "fountain": {
+      "url": "https://api.fountain.fm/v1/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "fountain-clip-producer",
+      "description": "Render a clip on this machine, only when the user asks. To change a clip on Fountain, render it again there.",
+      "source": "fountain-fm/fountain-skills#17e4e14b7b0650298c30224b848fe2f727d04422",
+      "skill": "fountain-clip-producer",
+      "url": "https://github.com/fountain-fm/fountain-skills/tree/17e4e14b7b0650298c30224b848fe2f727d04422/skills/fountain-clip-producer"
+    },
+    {
+      "name": "fountain-onboarding",
+      "description": "Set up Fountain: show, channels, clip look, preferences, and Daily Growth. Use on first use or on request.",
+      "source": "fountain-fm/fountain-skills#17e4e14b7b0650298c30224b848fe2f727d04422",
+      "skill": "fountain-onboarding",
+      "url": "https://github.com/fountain-fm/fountain-skills/tree/17e4e14b7b0650298c30224b848fe2f727d04422/skills/fountain-onboarding"
+    }
+  ]
+}

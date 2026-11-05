@@ -1,0 +1,13 @@
+{
+  "name": "partnertap",
+  "displayName": "PartnerTap",
+  "description": "Unlock agentic co-selling.",
+  "homepage": "https://partnertap.com",
+  "docs": "https://partnertap.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "partnertap": {
+      "url": "https://mcp.partnertap.com/mcp"
+    }
+  }
+}

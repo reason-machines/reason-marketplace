@@ -1,0 +1,13 @@
+{
+  "name": "ember-websites",
+  "displayName": "Ember Websites",
+  "description": "Websites for small businesses.",
+  "homepage": "https://embersites.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.embersites/ember",
+  "auth": "oauth",
+  "mcpServers": {
+    "ember-websites": {
+      "url": "https://embersites.app/mcp"
+    }
+  }
+}

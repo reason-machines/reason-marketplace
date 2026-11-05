@@ -1,0 +1,13 @@
+{
+  "name": "software-notion",
+  "displayName": "Software Notion",
+  "description": "Game facts and companion apps.",
+  "homepage": "https://software-notion.de/mcp",
+  "docs": "https://software-notion.de/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "software-notion": {
+      "url": "https://software-notion.de/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wodguru",
+  "displayName": "WodGuru",
+  "description": "Your gym's data in Reason.",
+  "homepage": "https://wod.guru",
+  "docs": "https://wod.guru",
+  "auth": "oauth",
+  "mcpServers": {
+    "wodguru": {
+      "url": "https://mcp.wod.guru/mcp"
+    }
+  }
+}

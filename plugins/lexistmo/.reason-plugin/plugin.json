@@ -1,0 +1,13 @@
+{
+  "name": "lexistmo",
+  "displayName": "Lexistmo",
+  "description": "Search Panama law and cases.",
+  "homepage": "https://lexistmo.com",
+  "docs": "https://lexistmo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lexistmo": {
+      "url": "https://lexistmo.com/mcp"
+    }
+  }
+}

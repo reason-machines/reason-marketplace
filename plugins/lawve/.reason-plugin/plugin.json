@@ -1,0 +1,13 @@
+{
+  "name": "lawve",
+  "displayName": "Lawve",
+  "description": "Discover legal agent skills.",
+  "homepage": "https://lawve.ai",
+  "docs": "https://lawve.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "lawve": {
+      "url": "https://mcp.lawve.ai/mcp"
+    }
+  }
+}

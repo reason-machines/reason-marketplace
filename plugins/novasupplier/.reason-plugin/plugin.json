@@ -1,0 +1,13 @@
+{
+  "name": "novasupplier",
+  "displayName": "NovaSupplier",
+  "description": "Portuguese clothing factories.",
+  "homepage": "https://www.novasupplier.com/",
+  "docs": "https://www.novasupplier.com/",
+  "auth": "none",
+  "mcpServers": {
+    "novasupplier": {
+      "url": "https://novasupplier.com/mcp"
+    }
+  }
+}

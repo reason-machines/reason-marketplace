@@ -1,0 +1,13 @@
+{
+  "name": "tennis-life",
+  "displayName": "Tennis Life",
+  "description": "Your tennis season, organized.",
+  "homepage": "https://tennislife.life",
+  "docs": "https://tennislife.life",
+  "auth": "none",
+  "mcpServers": {
+    "tennis-life": {
+      "url": "https://tennislife.life/mcp"
+    }
+  }
+}

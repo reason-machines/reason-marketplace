@@ -1,0 +1,13 @@
+{
+  "name": "waypoint",
+  "displayName": "Waypoint",
+  "description": "Do real work with live data.",
+  "homepage": "https://waypoint.ing",
+  "docs": "https://waypoint.ing",
+  "auth": "none",
+  "mcpServers": {
+    "waypoint": {
+      "url": "https://mcp.waypoint.ing/mcp"
+    }
+  }
+}

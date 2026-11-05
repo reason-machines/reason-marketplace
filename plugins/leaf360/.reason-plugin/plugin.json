@@ -1,0 +1,13 @@
+{
+  "name": "leaf360",
+  "displayName": "Leaf360",
+  "description": "Mortgage CRM in Reason.",
+  "homepage": "https://www.leaf360.com",
+  "docs": "https://www.leaf360.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "leaf360": {
+      "url": "https://mcp.leaf360.com/mcp"
+    }
+  }
+}

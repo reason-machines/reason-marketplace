@@ -1,0 +1,13 @@
+{
+  "name": "foliyo-pms-data",
+  "displayName": "Foliyo PMS Data",
+  "description": "Indian PMS scheme returns.",
+  "homepage": "https://foliyo.ai",
+  "docs": "https://foliyo.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "foliyo-pms-data": {
+      "url": "https://mcp.foliyo.ai/pms"
+    }
+  }
+}

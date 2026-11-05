@@ -1,0 +1,13 @@
+{
+  "name": "appdesigns",
+  "displayName": "appdesigns",
+  "description": "App Store screenshot sets.",
+  "homepage": "https://appdesigns.click",
+  "docs": "https://appdesigns.click/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "appdesigns": {
+      "url": "https://appdesigns.click/api/mcp"
+    }
+  }
+}

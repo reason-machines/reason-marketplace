@@ -1,0 +1,13 @@
+{
+  "name": "cheapest-domains",
+  "displayName": "Cheapest Domains",
+  "description": "Compare domain renewal prices.",
+  "homepage": "https://www.cheapest.domains",
+  "docs": "https://www.cheapest.domains",
+  "auth": "none",
+  "mcpServers": {
+    "cheapest-domains": {
+      "url": "https://cheapest.domains/mcp"
+    }
+  }
+}

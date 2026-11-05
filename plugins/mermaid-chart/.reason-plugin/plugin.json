@@ -1,0 +1,13 @@
+{
+  "name": "mermaid-chart",
+  "displayName": "Mermaid Chart",
+  "description": "Create, edit, and fix diagrams.",
+  "homepage": "https://mermaid.ai",
+  "docs": "https://mermaid.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "mermaid-chart": {
+      "url": "https://mcp.mermaid.ai/mcp"
+    }
+  }
+}

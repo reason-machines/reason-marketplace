@@ -1,0 +1,13 @@
+{
+  "name": "podigee",
+  "displayName": "Podigee",
+  "description": "Manage your podcasts.",
+  "homepage": "https://www.podigee.com/",
+  "docs": "https://www.podigee.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "podigee": {
+      "url": "https://mcp.podigee.com/mcp"
+    }
+  }
+}

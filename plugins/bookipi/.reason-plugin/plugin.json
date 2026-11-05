@@ -1,0 +1,13 @@
+{
+  "name": "bookipi",
+  "displayName": "Bookipi",
+  "description": "Invoicing & business admin.",
+  "homepage": "https://bookipi.com",
+  "docs": "https://bookipi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "bookipi": {
+      "url": "https://mcp.bookipi.com/mcp"
+    }
+  }
+}

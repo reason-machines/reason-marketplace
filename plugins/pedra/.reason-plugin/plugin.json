@@ -1,0 +1,13 @@
+{
+  "name": "pedra",
+  "displayName": "Pedra",
+  "description": "Real estate video & staging.",
+  "homepage": "https://pedra.ai",
+  "docs": "https://pedra.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "pedra": {
+      "url": "https://app.pedra.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "publer",
+  "displayName": "Publer",
+  "description": "Schedule & manage social media.",
+  "homepage": "https://publer.com",
+  "docs": "https://publer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "publer": {
+      "url": "https://mcp.publer.com/"
+    }
+  }
+}

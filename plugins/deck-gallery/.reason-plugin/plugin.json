@@ -1,0 +1,13 @@
+{
+  "name": "deck-gallery",
+  "displayName": "Deck.gallery",
+  "description": "Presentation ideas & examples.",
+  "homepage": "https://www.deck.gallery/",
+  "docs": "https://www.deck.gallery/",
+  "auth": "oauth",
+  "mcpServers": {
+    "deck-gallery": {
+      "url": "https://mcp.deck.gallery/mcp"
+    }
+  }
+}

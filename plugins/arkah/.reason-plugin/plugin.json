@@ -1,0 +1,13 @@
+{
+  "name": "arkah",
+  "displayName": "Arkah",
+  "description": "Turn chats into visual boards.",
+  "homepage": "https://arkah.io",
+  "docs": "https://arkah.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "arkah": {
+      "url": "https://arkah.io/mcp"
+    }
+  }
+}

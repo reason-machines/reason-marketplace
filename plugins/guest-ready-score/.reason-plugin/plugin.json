@@ -1,0 +1,13 @@
+{
+  "name": "guest-ready-score",
+  "displayName": "Guest-Ready Score",
+  "description": "Score your rental's readiness.",
+  "homepage": "https://theguestbeforetherest.com/",
+  "docs": "https://theguestbeforetherest.com/",
+  "auth": "none",
+  "mcpServers": {
+    "guest-ready-score": {
+      "url": "https://theguestbeforetherest.com/mcp"
+    }
+  }
+}

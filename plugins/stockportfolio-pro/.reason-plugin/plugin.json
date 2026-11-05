@@ -1,0 +1,13 @@
+{
+  "name": "stockportfolio-pro",
+  "displayName": "StockPortfolio.pro",
+  "description": "SEC filings and financials.",
+  "homepage": "https://www.stockportfolio.pro/",
+  "docs": "https://www.stockportfolio.pro/",
+  "auth": "oauth",
+  "mcpServers": {
+    "stockportfolio-pro": {
+      "url": "https://stockportfolio.pro/mcp"
+    }
+  }
+}

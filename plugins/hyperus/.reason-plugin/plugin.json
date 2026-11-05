@@ -1,0 +1,13 @@
+{
+  "name": "hyperus",
+  "displayName": "Hyperus",
+  "description": "Analyze your factory data.",
+  "homepage": "https://hyperus.com.br",
+  "docs": "https://hyperus.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "hyperus": {
+      "url": "https://mcp.hyperus.com.br/mcp"
+    }
+  }
+}

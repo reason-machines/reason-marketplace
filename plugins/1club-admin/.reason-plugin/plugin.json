@@ -1,0 +1,13 @@
+{
+  "name": "1club-admin",
+  "displayName": "1club Admin",
+  "description": "Run your club from Reason.",
+  "homepage": "https://1club.ai",
+  "docs": "https://1club.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "1club-admin": {
+      "url": "https://mcp.1club.ai/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "landstack",
+  "displayName": "Landstack",
+  "description": "Search detailed planning data.",
+  "homepage": "https://www.landstack.co.uk",
+  "docs": "https://www.landstack.co.uk",
+  "auth": "oauth",
+  "mcpServers": {
+    "landstack": {
+      "url": "https://mcp.landstack.co.uk/mcp"
+    }
+  }
+}

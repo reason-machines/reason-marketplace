@@ -1,0 +1,13 @@
+{
+  "name": "allmo",
+  "displayName": "ALLMO",
+  "description": "Analyze AI search visibility.",
+  "homepage": "https://allmo.ai/",
+  "docs": "https://allmo.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "allmo": {
+      "url": "https://app.allmo.ai/api/mcp"
+    }
+  }
+}

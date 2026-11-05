@@ -1,0 +1,13 @@
+{
+  "name": "jobmojito",
+  "displayName": "JobMojito",
+  "description": "AI interviews and role-play.",
+  "homepage": "https://jobmojito.com",
+  "docs": "https://jobmojito.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "jobmojito": {
+      "url": "https://mcp.jobmojito.com/mcp"
+    }
+  }
+}

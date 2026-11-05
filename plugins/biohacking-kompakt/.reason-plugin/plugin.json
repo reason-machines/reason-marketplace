@@ -1,0 +1,13 @@
+{
+  "name": "biohacking-kompakt",
+  "displayName": "Biohacking Kompakt",
+  "description": "Studienlage zu Supplements.",
+  "homepage": "https://biohackingkompakt.de",
+  "docs": "https://biohackingkompakt.de",
+  "auth": "none",
+  "mcpServers": {
+    "biohacking-kompakt": {
+      "url": "https://mcp.biohackingkompakt.de/mcp"
+    }
+  }
+}

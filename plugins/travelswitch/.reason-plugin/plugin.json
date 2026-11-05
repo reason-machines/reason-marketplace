@@ -1,0 +1,13 @@
+{
+  "name": "travelswitch",
+  "displayName": "TravelSwitch",
+  "description": "Flights, Hotels & Packages.",
+  "homepage": "https://travelswitch.com/",
+  "docs": "https://travelswitch.com/",
+  "auth": "none",
+  "mcpServers": {
+    "travelswitch": {
+      "url": "https://mcp.travelswitch.com/mcp"
+    }
+  }
+}

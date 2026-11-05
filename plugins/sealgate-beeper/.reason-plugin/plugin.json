@@ -1,0 +1,13 @@
+{
+  "name": "sealgate-beeper",
+  "displayName": "SealGate Beeper",
+  "description": "Search and manage messages.",
+  "homepage": "https://sealgate.ai/",
+  "docs": "https://sealgate.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sealgate-beeper": {
+      "url": "https://mcp.sealgate.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nuwa",
+  "displayName": "Nuwa",
+  "description": "Talk to your handwritten notes.",
+  "homepage": "https://nuwapen.com/",
+  "docs": "https://nuwapen.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "nuwa": {
+      "url": "https://mcp.nuwapen.com/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "golden-hour",
+  "displayName": "Sunvane Golden Hour",
+  "description": "Sun times & shoot planning.",
+  "homepage": "https://golden-hour.zovo.one",
+  "docs": "https://golden-hour.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "golden-hour": {
+      "url": "https://golden-hour.zovo.one/mcp"
+    }
+  }
+}

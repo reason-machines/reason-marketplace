@@ -1,0 +1,13 @@
+{
+  "name": "influship-creator-workspace",
+  "displayName": "Influship",
+  "description": "Find creators & influencers.",
+  "homepage": "https://www.influship.com/",
+  "docs": "https://www.influship.com/",
+  "auth": "none",
+  "mcpServers": {
+    "influship-creator-workspace": {
+      "url": "https://mcp.influship.com/mcp"
+    }
+  }
+}

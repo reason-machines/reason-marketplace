@@ -1,0 +1,13 @@
+{
+  "name": "total-parks",
+  "displayName": "Total Parks",
+  "description": "Find & book Holiday Parks.",
+  "homepage": "https://totalparks.com.au/",
+  "docs": "https://totalparks.com.au/",
+  "auth": "none",
+  "mcpServers": {
+    "total-parks": {
+      "url": "https://mcp.totalparks.com.au/mcp"
+    }
+  }
+}

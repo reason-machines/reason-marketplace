@@ -1,0 +1,13 @@
+{
+  "name": "cast0",
+  "displayName": "cast0",
+  "description": "Turn any text into a podcast.",
+  "homepage": "https://cast0.ai/",
+  "docs": "https://cast0.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "cast0": {
+      "url": "https://api.cast0.ai/mcp"
+    }
+  }
+}

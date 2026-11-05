@@ -1,0 +1,13 @@
+{
+  "name": "segue",
+  "displayName": "Segue",
+  "description": "Memory for ML development.",
+  "homepage": "https://segue.ai",
+  "docs": "https://segue.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "segue": {
+      "url": "https://segue.ai/mcp"
+    }
+  }
+}

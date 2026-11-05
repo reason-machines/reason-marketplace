@@ -1,0 +1,13 @@
+{
+  "name": "funnel-draw",
+  "displayName": "Funnel Draw",
+  "description": "Plan and forecast funnels.",
+  "homepage": "https://funneldraw.com",
+  "docs": "https://funneldraw.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "funnel-draw": {
+      "url": "https://app.funneldraw.com/mcp"
+    }
+  }
+}

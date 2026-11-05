@@ -1,0 +1,13 @@
+{
+  "name": "autobound",
+  "displayName": "Autobound",
+  "description": "B2B sales signals & intent.",
+  "homepage": "https://www.autobound.ai",
+  "docs": "https://www.autobound.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "autobound": {
+      "url": "https://mcp.autobound.ai/mcp"
+    }
+  }
+}

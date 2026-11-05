@@ -1,0 +1,13 @@
+{
+  "name": "muchita-shopping",
+  "displayName": "Muchita Shopping",
+  "description": "Desktop Chrome only.",
+  "homepage": "https://shopping.muchita.ai/openai/",
+  "docs": "https://shopping.muchita.ai/shopping/privacy",
+  "auth": "none",
+  "mcpServers": {
+    "muchita-shopping": {
+      "url": "https://shopping-plugin.muchita.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chartmogul",
+  "displayName": "ChartMogul",
+  "description": "Revenue and growth insights.",
+  "homepage": "https://chartmogul.com/",
+  "docs": "https://chartmogul.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "chartmogul": {
+      "url": "https://mcp.chartmogul.com/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "poster-maker",
+  "displayName": "Poster Maker",
+  "description": "Design posters and flyers.",
+  "homepage": "https://posterapplab.com",
+  "docs": "https://posterapplab.com",
+  "auth": "none",
+  "mcpServers": {
+    "poster-maker": {
+      "url": "https://mcp.posterapplab.com/mcp"
+    }
+  }
+}

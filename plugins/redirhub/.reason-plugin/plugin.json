@@ -1,0 +1,13 @@
+{
+  "name": "redirhub",
+  "displayName": "RedirHub",
+  "description": "Domain redirects & short links.",
+  "homepage": "https://www.redirhub.com",
+  "docs": "https://www.redirhub.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "redirhub": {
+      "url": "https://mcp.redirhub.com/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vocuno",
+  "displayName": "Vocuno",
+  "description": "Create and edit AI music.",
+  "homepage": "https://vocuno.com",
+  "docs": "https://vocuno.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "vocuno": {
+      "url": "https://vocuno.com/mcp"
+    }
+  }
+}

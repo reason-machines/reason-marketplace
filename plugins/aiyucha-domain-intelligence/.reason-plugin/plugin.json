@@ -1,0 +1,13 @@
+{
+  "name": "aiyucha-domain-intelligence",
+  "displayName": "AIYuCha Domain Intelligence",
+  "description": "Domain research and history.",
+  "homepage": "https://aiyucha.com/en",
+  "docs": "https://aiyucha.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "aiyucha-domain-intelligence": {
+      "url": "https://aiyucha.com/mcp"
+    }
+  }
+}

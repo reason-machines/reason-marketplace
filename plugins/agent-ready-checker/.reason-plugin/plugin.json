@@ -1,0 +1,13 @@
+{
+  "name": "agent-ready-checker",
+  "displayName": "Agent Ready Checker",
+  "description": "Check if AI can find your site.",
+  "homepage": "https://agentready.ferasallaou.com",
+  "docs": "https://agentready.ferasallaou.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "agent-ready-checker": {
+      "url": "https://agentready.ferasallaou.com/mcp"
+    }
+  }
+}

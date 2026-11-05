@@ -1,0 +1,13 @@
+{
+  "name": "the-kingdom-bank",
+  "displayName": "The Kingdom Bank",
+  "description": "Manage your invoices.",
+  "homepage": "https://www.thekingdombank.com/",
+  "docs": "https://www.thekingdombank.com/",
+  "auth": "none",
+  "mcpServers": {
+    "the-kingdom-bank": {
+      "url": "https://mcp.thekingdombank.com/mcp"
+    }
+  }
+}

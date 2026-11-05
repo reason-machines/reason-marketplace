@@ -1,0 +1,13 @@
+{
+  "name": "accuratescribe-ai-transcribe",
+  "displayName": "AccurateScribe.ai – Transcribe",
+  "description": "Transcribe audio to text.",
+  "homepage": "https://accuratescribe.ai",
+  "docs": "https://accuratescribe.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "accuratescribe-ai-transcribe": {
+      "url": "https://mcp.accuratescribe.ai/mcp"
+    }
+  }
+}

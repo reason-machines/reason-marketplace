@@ -1,0 +1,13 @@
+{
+  "name": "dev-d8412ffa687081918aec3acc5a9b6bf5",
+  "displayName": "CouponX",
+  "description": "Coupons with clear terms.",
+  "homepage": "https://couponx.coupons/",
+  "docs": "https://couponx.coupons/",
+  "auth": "none",
+  "mcpServers": {
+    "dev-d8412ffa687081918aec3acc5a9b6bf5": {
+      "url": "https://couponx.coupons/mcp"
+    }
+  }
+}

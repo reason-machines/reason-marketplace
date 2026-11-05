@@ -1,0 +1,13 @@
+{
+  "name": "vistear",
+  "displayName": "Vistear",
+  "description": "Argentine streaming audience.",
+  "homepage": "https://www.vistear.com",
+  "docs": "https://www.vistear.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "vistear": {
+      "url": "https://www.vistear.com/mcp"
+    }
+  }
+}

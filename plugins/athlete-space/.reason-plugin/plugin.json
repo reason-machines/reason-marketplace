@@ -1,0 +1,13 @@
+{
+  "name": "athlete-space",
+  "displayName": "Athlete Space",
+  "description": "Training plans for any sport.",
+  "homepage": "https://athletespace.ai/chatgpt",
+  "docs": "https://athletespace.ai/claude",
+  "auth": "none",
+  "mcpServers": {
+    "athlete-space": {
+      "url": "https://api.athletespace.ai/mcp"
+    }
+  }
+}

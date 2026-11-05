@@ -1,0 +1,13 @@
+{
+  "name": "croisa",
+  "displayName": "Croisa",
+  "description": "Hosted multilingual websites.",
+  "homepage": "https://www.croisa.com",
+  "docs": "https://www.croisa.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "croisa": {
+      "url": "https://croisa.com/mcp"
+    }
+  }
+}

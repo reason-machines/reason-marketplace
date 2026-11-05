@@ -1,0 +1,13 @@
+{
+  "name": "sovrnti",
+  "displayName": "Sovrnti",
+  "description": "Sovereign tech benchmarking.",
+  "homepage": "https://sovrnti.io/?utm_source=chatgpt-plugin&utm_medium=directory&utm_campaign=everywhere-oct2026",
+  "docs": "https://docs.sovrnti.io/mcp/quickstart",
+  "auth": "oauth",
+  "mcpServers": {
+    "sovrnti": {
+      "url": "https://graph.sovrnti.io/mcp"
+    }
+  }
+}

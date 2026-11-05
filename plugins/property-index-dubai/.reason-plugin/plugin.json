@@ -1,0 +1,13 @@
+{
+  "name": "property-index-dubai",
+  "displayName": "Property Index Dubai",
+  "description": "Dubai Real Estate Data.",
+  "homepage": "https://www.propertyindex.ae",
+  "docs": "https://www.propertyindex.ae/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "property-index-dubai": {
+      "url": "https://www.propertyindex.ae/api/mcp"
+    }
+  }
+}

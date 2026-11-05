@@ -1,0 +1,13 @@
+{
+  "name": "batoo-used-boats",
+  "displayName": "Batoo - Used Boats",
+  "description": "Find and compare used boats.",
+  "homepage": "https://batoo.it",
+  "docs": "https://batoo.it",
+  "auth": "none",
+  "mcpServers": {
+    "batoo-used-boats": {
+      "url": "https://mcp.batoo.it/mcp"
+    }
+  }
+}

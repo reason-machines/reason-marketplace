@@ -1,0 +1,13 @@
+{
+  "name": "sheet-compare",
+  "displayName": "Zovo Spreadsheet Compare",
+  "description": "Compare two spreadsheets.",
+  "homepage": "https://sheet-compare.zovo.one",
+  "docs": "https://sheet-compare.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "sheet-compare": {
+      "url": "https://sheet-compare.zovo.one/mcp"
+    }
+  }
+}

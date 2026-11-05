@@ -1,0 +1,13 @@
+{
+  "name": "remotive",
+  "displayName": "Remotive - Remote Jobs Search",
+  "description": "Search vetted remote jobs.",
+  "homepage": "https://remotive.com/",
+  "docs": "https://remotive.com/",
+  "auth": "none",
+  "mcpServers": {
+    "remotive": {
+      "url": "https://mcp.remotive.com/mcp"
+    }
+  }
+}

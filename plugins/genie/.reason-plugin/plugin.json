@@ -1,0 +1,13 @@
+{
+  "name": "genie",
+  "displayName": "Genie",
+  "description": "Think of anything.",
+  "homepage": "https://genie-nuvora17.vercel.app",
+  "docs": "https://genie-nuvora17.vercel.app",
+  "auth": "none",
+  "mcpServers": {
+    "genie": {
+      "url": "https://genie-nuvora17.vercel.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cookieyes",
+  "displayName": "CookieYes",
+  "description": "Web privacy & cookie consent.",
+  "homepage": "https://www.cookieyes.com/",
+  "docs": "https://www.cookieyes.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "cookieyes": {
+      "url": "https://app.cookieyes.com/mcp"
+    }
+  }
+}

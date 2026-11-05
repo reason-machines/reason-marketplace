@@ -1,0 +1,13 @@
+{
+  "name": "finrank-shiver",
+  "displayName": "FinRank Shiver",
+  "description": "Bank intelligence.",
+  "homepage": "https://tedix.dev/apps/finrank-shiver/",
+  "docs": "https://tedix.dev/apps/finrank-shiver/",
+  "auth": "oauth",
+  "mcpServers": {
+    "finrank-shiver": {
+      "url": "https://mcp.usefinrank.com/mcp"
+    }
+  }
+}

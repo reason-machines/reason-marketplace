@@ -1,0 +1,13 @@
+{
+  "name": "roofreport",
+  "displayName": "RoofReport Roofing Calculator",
+  "description": "Roof estimator & visualizer.",
+  "homepage": "https://getroofreport.com",
+  "docs": "https://getroofreport.com",
+  "auth": "none",
+  "mcpServers": {
+    "roofreport": {
+      "url": "https://getroofreport.com/mcp"
+    }
+  }
+}

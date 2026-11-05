@@ -1,0 +1,13 @@
+{
+  "name": "dentovio-exam-prep",
+  "displayName": "Dentovio Exam Prep",
+  "description": "Practice dental exams.",
+  "homepage": "https://dentovio.com/methodology",
+  "docs": "https://dentovio.com/methodology",
+  "auth": "none",
+  "mcpServers": {
+    "dentovio-exam-prep": {
+      "url": "https://dentovio.com/mcp"
+    }
+  }
+}

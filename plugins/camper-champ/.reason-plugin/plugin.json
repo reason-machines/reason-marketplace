@@ -1,0 +1,13 @@
+{
+  "name": "camper-champ",
+  "displayName": "Camper Champ",
+  "description": "Compare campervan hire.",
+  "homepage": "https://camperchamp.com",
+  "docs": "https://camperchamp.com",
+  "auth": "none",
+  "mcpServers": {
+    "camper-champ": {
+      "url": "https://mcp.camperchamp.com/mcp"
+    }
+  }
+}

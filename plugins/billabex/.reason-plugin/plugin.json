@@ -1,0 +1,13 @@
+{
+  "name": "billabex",
+  "displayName": "Billabex",
+  "description": "Automate payment follow-ups.",
+  "homepage": "https://www.billabex.com/",
+  "docs": "https://tedix.dev/apps/billabex/",
+  "auth": "oauth",
+  "mcpServers": {
+    "billabex": {
+      "url": "https://next.billabex.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "onegoodarea",
+  "displayName": "OneGoodArea",
+  "description": "Neighbourhood facts and scores.",
+  "homepage": "https://onegoodarea.com/docs/mcp",
+  "docs": "https://onegoodarea.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "onegoodarea": {
+      "url": "https://api.onegoodarea.com/mcp"
+    }
+  }
+}

@@ -10,5 +10,84 @@
     "val-town": {
       "url": "https://api.val.town/v3/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "blob-storage",
+      "description": "Use when a val needs simple key/value persistence — JSON documents, cached responses, uploaded files, or binary assets. Covers the std/blob API, listing and deleting keys, account-global or val scoping, and storage limits.",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "blob-storage",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/blob-storage"
+    },
+    {
+      "name": "client-side-js",
+      "description": "Use when a val needs to ship JavaScript that runs in the browser — React apps, vanilla DOM scripts, canvas/games, htmx/Alpine, or any client-side module beyond a single inline snippet. Explains how Val Town serves transpiled .ts/.tsx/.jsx modules with no build step, how the browser resolves their im",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "client-side-js",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/client-side-js"
+    },
+    {
+      "name": "create-skill",
+      "description": "Use when the user wants to persist a preference, skill, or knowledge. Use when it would aid future val development to store a memory of how best to build something.",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "create-skill",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/create-skill"
+    },
+    {
+      "name": "cron-and-intervals",
+      "description": "Use when building a val that runs on a schedule — periodic jobs, recurring tasks, polling, cron jobs, monitoring, alerting. Covers the interval handler signature, cron expressions, the UTC timezone constraint, and the `lastRunAt` pattern for detecting new items since the previous run.",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "cron-and-intervals",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/cron-and-intervals"
+    },
+    {
+      "name": "email",
+      "description": "Use when a val sends email, receives email, or is triggered by an incoming email. Covers email-type vals (the Email handler shape, attachment limits, the assigned val email address) and sending mail via std/email.",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "email",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/email"
+    },
+    {
+      "name": "http-endpoints",
+      "description": "Use when building an HTTP val — a web endpoint, API route, webhook receiver, or any val that responds to HTTP requests. Covers the handler signature, Hono usage, the endpoint URL, CORS behavior, redirects, and Val Town-specific limitations.",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "http-endpoints",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/http-endpoints"
+    },
+    {
+      "name": "oauth",
+      "description": "Use when a val needs to require login with a Val Town account — gating routes behind authentication, identifying the current user, building user-specific dashboards. Covers std/oauth's `oauthMiddleware` and `getOAuthUserData`, the auto-managed `/auth/*` routes, and session behavior. For third-party ",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "oauth",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/oauth"
+    },
+    {
+      "name": "react-ui",
+      "description": "Use when building any val with a user interface — dashboards, web apps, landing pages, forms, admin tools, anything users see in a browser. Covers JSX/React conventions, Twind/Tailwind styling, React version pinning, the view-source link requirement, and what to avoid (template-string HTML, external",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "react-ui",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/react-ui"
+    },
+    {
+      "name": "restricted-access",
+      "description": "Use when a val's HTTP endpoints should not be open to the whole internet — limiting an app to a team, understanding why an endpoint redirects to a login page, letting a webhook through, or identifying which Val Town user is viewing an app. Covers app access (`httpPrivacy`), org grants, bypass tokens",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "restricted-access",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/restricted-access"
+    },
+    {
+      "name": "sqlite-storage",
+      "description": "Use when a val needs to store structured or relational data. Covers the std/sqlite API, parameterized queries, transactions, and the val-scoped vs organization-scoped database distinction.",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "sqlite-storage",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/sqlite-storage"
+    },
+    {
+      "name": "third-party-integrations",
+      "description": "Use when a val talks to an external service — Slack, Discord, Telegram, Stripe, GitHub, Gmail, Google Sheets, Postgres/Supabase/Upstash/Neon, browser automation (Playwright, Browserbase, Kernel, Steel), web scraping, PDF generation, push notifications, RSS, or any other third-party API. Covers the r",
+      "source": "val-town/plugins#555ff7492c9c70ada2c4e9b66d7dea9367d7ce71",
+      "skill": "third-party-integrations",
+      "url": "https://github.com/val-town/plugins/tree/555ff7492c9c70ada2c4e9b66d7dea9367d7ce71/plugin/skills/third-party-integrations"
+    }
+  ]
 }

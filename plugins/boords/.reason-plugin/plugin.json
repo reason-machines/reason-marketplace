@@ -1,0 +1,13 @@
+{
+  "name": "boords",
+  "displayName": "Boords",
+  "description": "Script and storyboard videos.",
+  "homepage": "https://boords.com",
+  "docs": "https://boords.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "boords": {
+      "url": "https://mcp.boords.com/mcp"
+    }
+  }
+}

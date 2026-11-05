@@ -1,0 +1,13 @@
+{
+  "name": "music-block",
+  "displayName": "Music Block",
+  "description": "Create sheet music & TAB.",
+  "homepage": "https://musicblock.app",
+  "docs": "https://musicblock.app",
+  "auth": "none",
+  "mcpServers": {
+    "music-block": {
+      "url": "https://musicblock.app/mcp"
+    }
+  }
+}

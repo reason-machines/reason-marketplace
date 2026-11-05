@@ -1,0 +1,13 @@
+{
+  "name": "flask",
+  "displayName": "Flask",
+  "description": "Video review & collaboration.",
+  "homepage": "https://flask.do",
+  "docs": "https://flask.do/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "flask": {
+      "url": "https://api.flask.do/api/mcp/mcp"
+    }
+  }
+}

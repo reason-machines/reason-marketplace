@@ -1,0 +1,13 @@
+{
+  "name": "yoshi",
+  "displayName": "Yoshi",
+  "description": "Your finances in Reason.",
+  "homepage": "https://yoshi.ai/",
+  "docs": "https://tedix.dev/apps/yoshi/",
+  "auth": "oauth",
+  "mcpServers": {
+    "yoshi": {
+      "url": "https://agents.yoshi.ai/mcp"
+    }
+  }
+}

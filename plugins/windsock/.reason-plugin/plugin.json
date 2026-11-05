@@ -1,0 +1,13 @@
+{
+  "name": "windsock",
+  "displayName": "Windsock",
+  "description": "Value and research aircraft.",
+  "homepage": "https://windsock.ai/",
+  "docs": "https://windsock.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "windsock": {
+      "url": "https://windsock.ai/mcp"
+    }
+  }
+}

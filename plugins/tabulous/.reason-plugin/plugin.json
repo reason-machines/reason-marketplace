@@ -1,0 +1,13 @@
+{
+  "name": "tabulous",
+  "displayName": "Tabulous",
+  "description": "Manage scientific lab data.",
+  "homepage": "https://tabulous.ai",
+  "docs": "https://tabulous.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "tabulous": {
+      "url": "https://app.tabulous.ai/mcp"
+    }
+  }
+}

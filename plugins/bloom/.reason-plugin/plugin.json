@@ -1,0 +1,22 @@
+{
+  "name": "bloom",
+  "displayName": "Bloom",
+  "description": "Design in Bloom.",
+  "homepage": "https://docs.bloom.diy/connect-bloom-mcp",
+  "docs": "https://docs.bloom.diy/connect-bloom-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "bloom": {
+      "url": "https://api.bloom.diy/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "bloom-mcp",
+      "description": "Use when the user asks to inspect, discuss, or change work on a Bloom canvas. Connect to Bloom MCP and read its current authoring guidance before writing.",
+      "source": "bloomlabsinc/agent-skills#8eaa39c5d3c852a3a08ebad9b0ff290eebf7ce8f",
+      "skill": "bloom-mcp",
+      "url": "https://github.com/bloomlabsinc/agent-skills/tree/8eaa39c5d3c852a3a08ebad9b0ff290eebf7ce8f/skills/bloom-mcp"
+    }
+  ]
+}

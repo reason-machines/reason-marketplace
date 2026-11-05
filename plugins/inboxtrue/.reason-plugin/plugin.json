@@ -1,0 +1,13 @@
+{
+  "name": "inboxtrue",
+  "displayName": "InboxTrue",
+  "description": "Check if email addresses exist.",
+  "homepage": "https://inboxtrue.com",
+  "docs": "https://inboxtrue.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "inboxtrue": {
+      "url": "https://inboxtrue.com/mcp"
+    }
+  }
+}

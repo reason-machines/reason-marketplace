@@ -1,0 +1,13 @@
+{
+  "name": "capital-gains-tax-calculator",
+  "displayName": "CapitalGainsTax.net",
+  "description": "Rates, rules and the tax owed.",
+  "homepage": "https://capitalgainstax.net",
+  "docs": "https://capitalgainstax.net",
+  "auth": "none",
+  "mcpServers": {
+    "capital-gains-tax-calculator": {
+      "url": "https://capitalgainstax.net/mcp"
+    }
+  }
+}

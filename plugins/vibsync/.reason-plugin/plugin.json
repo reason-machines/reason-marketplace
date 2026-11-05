@@ -1,0 +1,13 @@
+{
+  "name": "vibsync",
+  "displayName": "Vibsync",
+  "description": "Share context across AI agents.",
+  "homepage": "https://vibsync.com",
+  "docs": "https://vibsync.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "vibsync": {
+      "url": "https://mcp.vibsync.com/mcp"
+    }
+  }
+}

@@ -10,5 +10,14 @@
     "context-dev": {
       "url": "https://mcp.context.dev/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "context-dev",
+      "description": "Use Context.dev when a task needs current public-web, company-news, website, or document data, or when the user wants to inspect their Context.dev API request logs. Search or research the live web; read, scrape, crawl, or screenshot sites; extract structured data; parse documents; retrieve brand or ",
+      "source": "context-dot-dev/cursor-plugin#8d790a4980d2ce49827843bdf1e9683b6d55fa2b",
+      "skill": "context-dev",
+      "url": "https://github.com/context-dot-dev/cursor-plugin/tree/8d790a4980d2ce49827843bdf1e9683b6d55fa2b/skills/context-dev"
+    }
+  ]
 }

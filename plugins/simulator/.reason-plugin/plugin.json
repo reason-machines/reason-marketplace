@@ -1,0 +1,13 @@
+{
+  "name": "simulator",
+  "displayName": "Simulator.Company",
+  "description": "From API to KPI in your IDE.",
+  "homepage": "https://simulator.company",
+  "docs": "https://simulator.company",
+  "auth": "oauth",
+  "mcpServers": {
+    "simulator": {
+      "url": "https://mcp.simulator.company/mcp"
+    }
+  }
+}

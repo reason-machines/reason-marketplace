@@ -1,0 +1,13 @@
+{
+  "name": "lexidesk",
+  "displayName": "Lexidesk",
+  "description": "Get answers about your intake.",
+  "homepage": "https://lexidesk.ai",
+  "docs": "https://lexidesk.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "lexidesk": {
+      "url": "https://api.lexidesk.ai/mcp"
+    }
+  }
+}

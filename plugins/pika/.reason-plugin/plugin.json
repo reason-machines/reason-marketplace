@@ -1,0 +1,13 @@
+{
+  "name": "pika",
+  "displayName": "Pika",
+  "description": "Make video, images and sound.",
+  "homepage": "https://pika.art",
+  "docs": "https://pika.art",
+  "auth": "oauth",
+  "mcpServers": {
+    "pika": {
+      "url": "https://mcp.pika.art/mcp"
+    }
+  }
+}

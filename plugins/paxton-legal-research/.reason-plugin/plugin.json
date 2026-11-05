@@ -1,0 +1,13 @@
+{
+  "name": "paxton-legal-research",
+  "displayName": "Paxton Legal Research",
+  "description": "Cited U.S. legal research.",
+  "homepage": "https://www.paxton.ai",
+  "docs": "https://www.paxton.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "paxton-legal-research": {
+      "url": "https://mcp.paxton.ai/mcp"
+    }
+  }
+}

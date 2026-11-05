@@ -1,0 +1,13 @@
+{
+  "name": "taverity",
+  "displayName": "Taverity",
+  "description": "Queue follow-up texts.",
+  "homepage": "https://taverity.com",
+  "docs": "https://taverity.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "taverity": {
+      "url": "https://portal.taverity.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vectali",
+  "displayName": "Vectali",
+  "description": "Turn images into SVGs.",
+  "homepage": "https://vectali.com/agents/",
+  "docs": "https://vectali.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "vectali": {
+      "url": "https://api.vectali.com/mcp"
+    }
+  }
+}

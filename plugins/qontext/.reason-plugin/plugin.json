@@ -1,0 +1,13 @@
+{
+  "name": "qontext",
+  "displayName": "Qontext",
+  "description": "Read & update your context.",
+  "homepage": "https://www.qontext.ai",
+  "docs": "https://docs.qontext.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "qontext": {
+      "url": "https://api.qontext.ai/mcp"
+    }
+  }
+}

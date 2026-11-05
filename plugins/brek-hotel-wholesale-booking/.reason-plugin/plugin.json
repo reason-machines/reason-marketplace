@@ -1,0 +1,13 @@
+{
+  "name": "brek-hotel-wholesale-booking",
+  "displayName": "Brek - Hotel Wholesale Booking",
+  "description": "Find wholesale hotel rates.",
+  "homepage": "https://www.brek.com",
+  "docs": "https://www.brek.com",
+  "auth": "none",
+  "mcpServers": {
+    "brek-hotel-wholesale-booking": {
+      "url": "https://mcp.brek.com/mcp"
+    }
+  }
+}

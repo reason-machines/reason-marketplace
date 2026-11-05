@@ -1,0 +1,13 @@
+{
+  "name": "seal-copilot",
+  "displayName": "Seal Copilot",
+  "description": "Analyze your marketing data.",
+  "homepage": "https://sealmetrics.com",
+  "docs": "https://sealmetrics.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "seal-copilot": {
+      "url": "https://mcp.sealmetrics.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "reverse-contact",
+  "displayName": "Reverse Contact",
+  "description": "Look up people and companies.",
+  "homepage": "https://reversecontact.com",
+  "docs": "https://reversecontact.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "reverse-contact": {
+      "url": "https://api.reversecontact.com/mcp"
+    }
+  }
+}

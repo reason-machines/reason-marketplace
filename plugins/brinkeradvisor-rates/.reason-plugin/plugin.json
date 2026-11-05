@@ -1,0 +1,13 @@
+{
+  "name": "brinkeradvisor-rates",
+  "displayName": "BrinkerAdvisor Rates",
+  "description": "Compare current rates.",
+  "homepage": "https://rates.brinkeradvisor.com/",
+  "docs": "https://rates.brinkeradvisor.com/",
+  "auth": "none",
+  "mcpServers": {
+    "brinkeradvisor-rates": {
+      "url": "https://mcp.brinkeradvisor.com/mcp"
+    }
+  }
+}

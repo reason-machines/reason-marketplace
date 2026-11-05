@@ -1,0 +1,13 @@
+{
+  "name": "axis",
+  "displayName": "Axis",
+  "description": "Systemize your daily life.",
+  "homepage": "https://axis.marcustut.me",
+  "docs": "https://axis.marcustut.me/api/auth/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "axis": {
+      "url": "https://axis.marcustut.me/mcp"
+    }
+  }
+}

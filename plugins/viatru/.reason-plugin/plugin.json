@@ -1,0 +1,13 @@
+{
+  "name": "viatru",
+  "displayName": "VIATRU",
+  "description": "Find and book local services.",
+  "homepage": "https://viatru.ai/assistant/guide?lang=en",
+  "docs": "https://viatru.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "viatru": {
+      "url": "https://viatru.ai/api/mcp/chatgpt"
+    }
+  }
+}

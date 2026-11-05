@@ -1,0 +1,13 @@
+{
+  "name": "malloy-studio",
+  "displayName": "Malloy Studio",
+  "description": "Generate motion graphics.",
+  "homepage": "https://malloy.sg",
+  "docs": "https://www.malloystudio.ai/mcp-installation",
+  "auth": "oauth",
+  "mcpServers": {
+    "malloy-studio": {
+      "url": "https://api.malloy.sg/mcp"
+    }
+  }
+}

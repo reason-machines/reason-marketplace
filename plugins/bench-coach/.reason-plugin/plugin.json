@@ -1,0 +1,13 @@
+{
+  "name": "bench-coach",
+  "displayName": "Bench Coach",
+  "description": "Plan practices and postgames.",
+  "homepage": "https://www.getbenchcoach.com/",
+  "docs": "https://www.getbenchcoach.com/",
+  "auth": "none",
+  "mcpServers": {
+    "bench-coach": {
+      "url": "https://getbenchcoach.com/mcp"
+    }
+  }
+}

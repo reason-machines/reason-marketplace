@@ -1,0 +1,13 @@
+{
+  "name": "clipform",
+  "displayName": "Clipform",
+  "description": "Build interactive video forms.",
+  "homepage": "https://clipform.io",
+  "docs": "https://clipform.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "clipform": {
+      "url": "https://mcp.clipform.io/mcp"
+    }
+  }
+}

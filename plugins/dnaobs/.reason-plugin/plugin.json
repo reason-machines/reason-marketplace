@@ -1,0 +1,13 @@
+{
+  "name": "dnaobs",
+  "displayName": "DNAObs",
+  "description": "Guides and analysis status.",
+  "homepage": "https://dnaobs.com",
+  "docs": "https://dnaobs.com",
+  "auth": "none",
+  "mcpServers": {
+    "dnaobs": {
+      "url": "https://dnaobs.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "open-creator-graph",
+  "displayName": "Open Creator Graph",
+  "description": "Look up any digital Creator.",
+  "homepage": "https://creatorgraph.sparkonomy.com/",
+  "docs": "https://creatorgraph.sparkonomy.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "open-creator-graph": {
+      "url": "https://creatorgraph.sparkonomy.com/mcp"
+    }
+  }
+}

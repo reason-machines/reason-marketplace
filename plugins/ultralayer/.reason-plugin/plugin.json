@@ -1,0 +1,13 @@
+{
+  "name": "ultralayer",
+  "displayName": "Ultralayer",
+  "description": "Realtime market intelligence.",
+  "homepage": "https://ultralayer.ai",
+  "docs": "https://ultralayer.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ultralayer": {
+      "url": "https://api.ultralayer.ai/v0/mcp"
+    }
+  }
+}

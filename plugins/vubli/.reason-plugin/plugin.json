@@ -1,0 +1,13 @@
+{
+  "name": "vubli",
+  "displayName": "Vubli",
+  "description": "Plan and publish social posts.",
+  "homepage": "https://vubli.ai",
+  "docs": "https://api.vubli.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "vubli": {
+      "url": "https://vubli-backend-api-s5x7myqvca-uc.a.run.app/mcp"
+    }
+  }
+}

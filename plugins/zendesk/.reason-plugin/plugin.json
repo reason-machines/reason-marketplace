@@ -1,0 +1,13 @@
+{
+  "name": "zendesk",
+  "displayName": "Zendesk (Beta)",
+  "description": "Investigate support activity and manage Zendesk work.",
+  "homepage": "https://www.zendesk.com/",
+  "docs": "https://www.zendesk.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "zendesk": {
+      "url": "https://mcp.zendesk.com/mcp"
+    }
+  }
+}

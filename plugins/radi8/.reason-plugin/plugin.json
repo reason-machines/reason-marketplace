@@ -1,0 +1,13 @@
+{
+  "name": "radi8",
+  "displayName": "Radi8",
+  "description": "Draft and schedule your posts.",
+  "homepage": "https://www.radi8.com",
+  "docs": "https://www.radi8.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "radi8": {
+      "url": "https://app.radi8.com/api/mcp"
+    }
+  }
+}

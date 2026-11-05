@@ -1,0 +1,13 @@
+{
+  "name": "techdrawai",
+  "displayName": "TechDraw AI",
+  "description": "Photos to technical drawings.",
+  "homepage": "https://techdrawai.com",
+  "docs": "https://techdrawai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "techdrawai": {
+      "url": "https://techdrawai.com/mcp"
+    }
+  }
+}

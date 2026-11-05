@@ -1,0 +1,13 @@
+{
+  "name": "boxerbook",
+  "displayName": "Boxerbook",
+  "description": "Boxing schedules and records.",
+  "homepage": "https://boxerbook.com",
+  "docs": "https://boxerbook.com",
+  "auth": "none",
+  "mcpServers": {
+    "boxerbook": {
+      "url": "https://mcp.boxerbook.com/mcp"
+    }
+  }
+}

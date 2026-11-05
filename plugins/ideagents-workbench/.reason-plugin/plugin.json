@@ -1,0 +1,13 @@
+{
+  "name": "ideagents-workbench",
+  "displayName": "Ideagents",
+  "description": "Develop ideas into clear plans.",
+  "homepage": "https://ideagents.ai",
+  "docs": "https://ideagents.ai",
+  "auth": "none",
+  "mcpServers": {
+    "ideagents-workbench": {
+      "url": "https://ideagents.ai/mcp"
+    }
+  }
+}

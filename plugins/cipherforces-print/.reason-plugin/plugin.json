@@ -1,0 +1,13 @@
+{
+  "name": "cipherforces-print",
+  "displayName": "CipherForces Print",
+  "description": "Instant print prices.",
+  "homepage": "https://cipherforces.com/print",
+  "docs": "https://cipherforces.com/print",
+  "auth": "none",
+  "mcpServers": {
+    "cipherforces-print": {
+      "url": "https://cipherforces.com/mcp"
+    }
+  }
+}

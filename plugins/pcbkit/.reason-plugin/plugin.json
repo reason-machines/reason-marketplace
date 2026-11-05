@@ -1,0 +1,13 @@
+{
+  "name": "pcbkit",
+  "displayName": "PCBKit",
+  "description": "Design circuit boards.",
+  "homepage": "https://pcbkit.io",
+  "docs": "https://pcbkit.io",
+  "auth": "none",
+  "mcpServers": {
+    "pcbkit": {
+      "url": "https://mcp.pcbkit.io/mcp"
+    }
+  }
+}

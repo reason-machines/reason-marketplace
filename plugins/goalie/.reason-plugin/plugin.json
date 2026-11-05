@@ -1,0 +1,13 @@
+{
+  "name": "goalie",
+  "displayName": "Goalie",
+  "description": "Search US trademarks.",
+  "homepage": "https://www.goalieip.com",
+  "docs": "https://www.goalieip.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "goalie": {
+      "url": "https://www.goalieip.com/api/mcp"
+    }
+  }
+}

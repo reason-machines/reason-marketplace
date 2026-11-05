@@ -1,0 +1,13 @@
+{
+  "name": "charts-by-szum",
+  "displayName": "Charts by Szum",
+  "description": "Turn data into polished charts.",
+  "homepage": "https://szum.io",
+  "docs": "https://szum.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "charts-by-szum": {
+      "url": "https://szum.io/mcp"
+    }
+  }
+}

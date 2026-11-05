@@ -1,0 +1,13 @@
+{
+  "name": "encelade",
+  "displayName": "Encelade",
+  "description": "Create and manage decks.",
+  "homepage": "https://www.encelade.ai",
+  "docs": "https://encelade.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "encelade": {
+      "url": "https://www.encelade.ai/api/mcp"
+    }
+  }
+}

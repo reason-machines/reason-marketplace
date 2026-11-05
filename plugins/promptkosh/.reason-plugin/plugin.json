@@ -1,0 +1,13 @@
+{
+  "name": "promptkosh",
+  "displayName": "PromptKosh",
+  "description": "Create images with styles.",
+  "homepage": "https://promptkosh.in",
+  "docs": "https://promptkosh.in",
+  "auth": "none",
+  "mcpServers": {
+    "promptkosh": {
+      "url": "https://promptkosh.in/mcp"
+    }
+  }
+}

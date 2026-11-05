@@ -1,0 +1,13 @@
+{
+  "name": "stable-com",
+  "displayName": "Stable.com",
+  "description": "Swap info and order tracking.",
+  "homepage": "https://stable.com/",
+  "docs": "https://stable.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "stable-com": {
+      "url": "https://api-defi.stable.com/v1/mcp"
+    }
+  }
+}

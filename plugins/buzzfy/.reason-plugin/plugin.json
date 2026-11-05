@@ -1,0 +1,13 @@
+{
+  "name": "buzzfy",
+  "displayName": "Buzzfy",
+  "description": "Manage your Instagram in chat.",
+  "homepage": "https://buzzfy.co/llms.txt",
+  "docs": "https://buzzfy.co/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "buzzfy": {
+      "url": "https://mcp.buzzfy.co/mcp"
+    }
+  }
+}

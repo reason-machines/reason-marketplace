@@ -1,0 +1,13 @@
+{
+  "name": "vates",
+  "displayName": "VATES",
+  "description": "Ask your knowledge base.",
+  "homepage": "https://vates.standout.jp/",
+  "docs": "https://vates.standout.jp/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "vates": {
+      "url": "https://vates.standout.jp/mcp"
+    }
+  }
+}

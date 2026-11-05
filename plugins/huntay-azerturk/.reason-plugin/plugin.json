@@ -1,0 +1,13 @@
+{
+  "name": "huntay-azerturk",
+  "displayName": "Huntay AzerTürk",
+  "description": "Book calls, explore services.",
+  "homepage": "https://huntayazerturk.com",
+  "docs": "https://huntayazerturk.com",
+  "auth": "none",
+  "mcpServers": {
+    "huntay-azerturk": {
+      "url": "https://huntayazerturk.com/mcp"
+    }
+  }
+}

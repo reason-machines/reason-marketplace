@@ -1,0 +1,13 @@
+{
+  "name": "subnano-browse",
+  "displayName": "Subnano Browse",
+  "description": "Browse published Posts.",
+  "homepage": "https://docs.subnano.ai/llms.txt",
+  "docs": "https://docs.subnano.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "subnano-browse": {
+      "url": "https://mcp.subnano.ai/mcp"
+    }
+  }
+}

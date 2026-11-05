@@ -1,0 +1,13 @@
+{
+  "name": "paperoffice-ai",
+  "displayName": "PaperOffice AI",
+  "description": "The headless DMS for Reason.",
+  "homepage": "https://paperoffice.ai",
+  "docs": "https://paperoffice.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "paperoffice-ai": {
+      "url": "https://mcp.paperoffice.ai/mcp"
+    }
+  }
+}

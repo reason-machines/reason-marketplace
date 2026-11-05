@@ -1,0 +1,13 @@
+{
+  "name": "uk-home-education-reports",
+  "displayName": "UK Home Education Reports",
+  "description": "Create clear home ed reports.",
+  "homepage": "https://strew.app/chatgpt-home-education-reports/",
+  "docs": "https://strew.app/chatgpt-home-education-reports/",
+  "auth": "none",
+  "mcpServers": {
+    "uk-home-education-reports": {
+      "url": "https://mcp.strew.app/mcp"
+    }
+  }
+}

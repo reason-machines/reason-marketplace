@@ -1,0 +1,13 @@
+{
+  "name": "chronograph",
+  "displayName": "Chronograph LP",
+  "description": "Your trusted portfolio data.",
+  "homepage": "https://www.chronograph.pe/",
+  "docs": "https://mcp.so/servers/chronograph",
+  "auth": "oauth",
+  "mcpServers": {
+    "chronograph": {
+      "url": "https://ai.chronograph.pe/mcp"
+    }
+  }
+}

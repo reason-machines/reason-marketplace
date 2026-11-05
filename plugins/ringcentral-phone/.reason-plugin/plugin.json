@@ -1,0 +1,13 @@
+{
+  "name": "ringcentral-phone",
+  "displayName": "RingCentral Phone",
+  "description": "Calls, texts, and voicemail.",
+  "homepage": "https://mcp.labs.ringcentral.com/docs/servers/ringex-phone/",
+  "docs": "https://mcp.labs.ringcentral.com/docs/servers/ringex-phone/",
+  "auth": "oauth",
+  "mcpServers": {
+    "ringcentral-phone": {
+      "url": "https://mcp.labs.ringcentral.com/ringex/phone"
+    }
+  }
+}

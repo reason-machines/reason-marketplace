@@ -1,0 +1,13 @@
+{
+  "name": "dailyhero",
+  "displayName": "DailyHero",
+  "description": "Family tasks and rewards.",
+  "homepage": "https://dailyhero.ink",
+  "docs": "https://dailyhero.ink",
+  "auth": "oauth",
+  "mcpServers": {
+    "dailyhero": {
+      "url": "https://mcp.dailyhero.ink/mcp"
+    }
+  }
+}

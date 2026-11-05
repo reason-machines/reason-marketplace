@@ -1,0 +1,13 @@
+{
+  "name": "zyberspace",
+  "displayName": "zyberspace",
+  "description": "Create websites from Reason.",
+  "homepage": "https://www.zyberspace.com",
+  "docs": "https://www.zyberspace.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "zyberspace": {
+      "url": "https://www.zyberspace.com/api/mcp"
+    }
+  }
+}

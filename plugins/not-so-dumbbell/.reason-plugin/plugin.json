@@ -1,0 +1,13 @@
+{
+  "name": "not-so-dumbbell",
+  "displayName": "Not So Dumbbell",
+  "description": "Plan and adjust gym workouts.",
+  "homepage": "https://notsodumbbell.com",
+  "docs": "https://notsodumbbell.com",
+  "auth": "none",
+  "mcpServers": {
+    "not-so-dumbbell": {
+      "url": "https://notsodumbbell.com/mcp"
+    }
+  }
+}

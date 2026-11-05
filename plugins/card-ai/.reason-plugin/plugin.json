@@ -1,0 +1,13 @@
+{
+  "name": "card-ai",
+  "displayName": "Card.ai",
+  "description": "Create and study flashcards.",
+  "homepage": "https://cardai.app",
+  "docs": "https://cardai.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "card-ai": {
+      "url": "https://mcp.cardai.app/"
+    }
+  }
+}

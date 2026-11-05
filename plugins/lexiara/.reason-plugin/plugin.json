@@ -1,0 +1,13 @@
+{
+  "name": "lexiara",
+  "displayName": "Lexiara",
+  "description": "Research cited legislation.",
+  "homepage": "https://lexiara.org",
+  "docs": "https://lexiara.org",
+  "auth": "oauth",
+  "mcpServers": {
+    "lexiara": {
+      "url": "https://lexiara.org/mcp"
+    }
+  }
+}

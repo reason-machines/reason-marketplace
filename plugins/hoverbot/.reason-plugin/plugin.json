@@ -1,0 +1,13 @@
+{
+  "name": "hoverbot",
+  "displayName": "HoverBot",
+  "description": "See what your chatbot missed.",
+  "homepage": "https://www.hoverbot.ai",
+  "docs": "https://www.hoverbot.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "hoverbot": {
+      "url": "https://mcp.hoverbot.ai/mcp"
+    }
+  }
+}

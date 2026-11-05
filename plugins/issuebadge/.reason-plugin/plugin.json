@@ -1,0 +1,13 @@
+{
+  "name": "issuebadge",
+  "displayName": "IssueBadge",
+  "description": "Issue certificates by chat.",
+  "homepage": "https://issuebadge.com/llms.txt",
+  "docs": "https://issuebadge.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "issuebadge": {
+      "url": "https://issuebadge-mcp.issuebadge.workers.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "growpanel",
+  "displayName": "GrowPanel",
+  "description": "Subscription analytics.",
+  "homepage": "https://growpanel.io",
+  "docs": "https://growpanel.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "growpanel": {
+      "url": "https://mcp.growpanel.io/mcp"
+    }
+  }
+}

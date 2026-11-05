@@ -1,0 +1,13 @@
+{
+  "name": "tusistema",
+  "displayName": "TuSistema",
+  "description": "Consultá tu sistema de gestión.",
+  "homepage": "https://tusistema.ai",
+  "docs": "https://tusistema.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "tusistema": {
+      "url": "https://mcp.tusistema.ai/mcp"
+    }
+  }
+}

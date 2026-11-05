@@ -1,0 +1,13 @@
+{
+  "name": "funkyjobs",
+  "displayName": "FunkyJobs",
+  "description": "Jobs in der Schweiz finden.",
+  "homepage": "https://www.funkyjobs.ch/mcp-connector",
+  "docs": "https://www.funkyjobs.ch/mcp-connector",
+  "auth": "none",
+  "mcpServers": {
+    "funkyjobs": {
+      "url": "https://www.funkyjobs.ch/mcp"
+    }
+  }
+}

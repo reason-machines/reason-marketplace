@@ -1,0 +1,13 @@
+{
+  "name": "italic",
+  "displayName": "Italic",
+  "description": "Your Italic library in Reason.",
+  "homepage": "https://app.italic.com/about",
+  "docs": "https://app.italic.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "italic": {
+      "url": "https://app.italic.com/api/v1/mcp"
+    }
+  }
+}

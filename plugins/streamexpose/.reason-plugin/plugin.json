@@ -1,0 +1,13 @@
+{
+  "name": "streamexpose",
+  "displayName": "StreamExpose",
+  "description": "Prepare YouTube live radios.",
+  "homepage": "https://streamexpose.com",
+  "docs": "https://streamexpose.com",
+  "auth": "none",
+  "mcpServers": {
+    "streamexpose": {
+      "url": "https://streamexpose.com/mcp"
+    }
+  }
+}

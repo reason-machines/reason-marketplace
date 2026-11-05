@@ -1,0 +1,13 @@
+{
+  "name": "drillsense",
+  "displayName": "DrillSense",
+  "description": "Your well, in context.",
+  "homepage": "https://www.drillsense.com",
+  "docs": "https://www.drillsense.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "drillsense": {
+      "url": "https://mcp.drillsense.com/mcp"
+    }
+  }
+}

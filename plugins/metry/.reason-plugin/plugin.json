@@ -1,0 +1,13 @@
+{
+  "name": "metry",
+  "displayName": "Metry",
+  "description": "Unlock Metry data in Reason.",
+  "homepage": "https://metry.io/",
+  "docs": "https://metry.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "metry": {
+      "url": "https://mcp.metry.io/mcp"
+    }
+  }
+}

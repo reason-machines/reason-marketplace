@@ -1,0 +1,13 @@
+{
+  "name": "smarttalks-ai",
+  "displayName": "SmartTalks.ai",
+  "description": "SmartTalks workspace ops.",
+  "homepage": "https://smarttalks.ai",
+  "docs": "https://smarttalks.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "smarttalks-ai": {
+      "url": "https://mcp.smarttalks.ai/mcp"
+    }
+  }
+}

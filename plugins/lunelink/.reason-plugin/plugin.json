@@ -1,0 +1,13 @@
+{
+  "name": "lunelink",
+  "displayName": "Lunelink",
+  "description": "Run your business with AI.",
+  "homepage": "https://lunelink.com",
+  "docs": "https://app.lunelink.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "lunelink": {
+      "url": "https://app.lunelink.com/api/mcp/_handle"
+    }
+  }
+}

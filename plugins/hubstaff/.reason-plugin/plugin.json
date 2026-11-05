@@ -1,0 +1,13 @@
+{
+  "name": "hubstaff",
+  "displayName": "Hubstaff",
+  "description": "AI-ready workforce insights.",
+  "homepage": "https://hubstaff.com/",
+  "docs": "https://hubstaff.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hubstaff": {
+      "url": "https://mcp.hubstaff.com/mcp"
+    }
+  }
+}

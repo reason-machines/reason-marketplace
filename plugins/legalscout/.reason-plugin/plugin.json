@@ -1,0 +1,13 @@
+{
+  "name": "legalscout",
+  "displayName": "LegalScout",
+  "description": "Find lawyers & check matters.",
+  "homepage": "https://legalscout.net",
+  "docs": "https://legalscout.net",
+  "auth": "none",
+  "mcpServers": {
+    "legalscout": {
+      "url": "https://mcp.legalscout.net/mcp"
+    }
+  }
+}

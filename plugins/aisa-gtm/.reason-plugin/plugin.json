@@ -1,0 +1,13 @@
+{
+  "name": "aisa-gtm",
+  "displayName": "AIsa GTM",
+  "description": "Research markets and prospects.",
+  "homepage": "https://aisa.one/",
+  "docs": "https://aisa.one/",
+  "auth": "oauth",
+  "mcpServers": {
+    "aisa-gtm": {
+      "url": "https://mcp.aisa.one/mcp"
+    }
+  }
+}

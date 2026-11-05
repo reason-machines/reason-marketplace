@@ -1,0 +1,13 @@
+{
+  "name": "digitalk2",
+  "displayName": "DigitalK2",
+  "description": "Swedish K2 annual reports.",
+  "homepage": "https://www.digitalk2.se/mcp",
+  "docs": "https://www.digitalk2.se/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "digitalk2": {
+      "url": "https://mcp.digitalk2.se/mcp"
+    }
+  }
+}

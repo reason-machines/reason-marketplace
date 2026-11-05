@@ -1,0 +1,13 @@
+{
+  "name": "masterki",
+  "displayName": "MasterKi",
+  "description": "Make Anki flashcards.",
+  "homepage": "https://masterki.org",
+  "docs": "https://masterki.org",
+  "auth": "oauth",
+  "mcpServers": {
+    "masterki": {
+      "url": "https://masterki.org/mcp"
+    }
+  }
+}

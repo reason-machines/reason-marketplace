@@ -1,0 +1,13 @@
+{
+  "name": "company-brain",
+  "displayName": "Company Brain",
+  "description": "Your team's AI knowledge base.",
+  "homepage": "https://www.aiknowledgebase.ai",
+  "docs": "https://www.aiknowledgebase.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "company-brain": {
+      "url": "https://www.aiknowledgebase.ai/mcp"
+    }
+  }
+}

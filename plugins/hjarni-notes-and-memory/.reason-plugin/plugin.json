@@ -1,0 +1,13 @@
+{
+  "name": "hjarni-notes-and-memory",
+  "displayName": "Hjarni Notes & Memory",
+  "description": "Your notes, your AI’s memory.",
+  "homepage": "https://hjarni.com",
+  "docs": "https://hjarni.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hjarni-notes-and-memory": {
+      "url": "https://hjarni.com/mcp"
+    }
+  }
+}

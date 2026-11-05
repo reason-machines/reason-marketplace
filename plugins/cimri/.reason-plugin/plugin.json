@@ -1,0 +1,13 @@
+{
+  "name": "cimri",
+  "displayName": "Cimri",
+  "description": "Compare retail prices.",
+  "homepage": "https://www.cimri.com",
+  "docs": "https://www.cimri.com",
+  "auth": "none",
+  "mcpServers": {
+    "cimri": {
+      "url": "https://mcp.cimri.com/mcp"
+    }
+  }
+}

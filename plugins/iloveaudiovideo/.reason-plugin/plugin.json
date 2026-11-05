@@ -1,0 +1,13 @@
+{
+  "name": "iloveaudiovideo",
+  "displayName": "iLoveAudioVideo",
+  "description": "Transcribe on your own device.",
+  "homepage": "https://iloveaudiovideo.com/",
+  "docs": "https://iloveaudiovideo.com/",
+  "auth": "none",
+  "mcpServers": {
+    "iloveaudiovideo": {
+      "url": "https://iloveaudiovideo.com/mcp"
+    }
+  }
+}

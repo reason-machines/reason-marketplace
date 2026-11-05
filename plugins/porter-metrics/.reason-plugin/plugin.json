@@ -1,0 +1,13 @@
+{
+  "name": "porter-metrics",
+  "displayName": "Porter Metrics",
+  "description": "Analyze ad and sales data.",
+  "homepage": "https://portermetrics.com",
+  "docs": "https://portermetrics.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "porter-metrics": {
+      "url": "https://mcp.portermetrics.com/mcp"
+    }
+  }
+}

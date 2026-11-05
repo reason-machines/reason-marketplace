@@ -1,0 +1,13 @@
+{
+  "name": "send2290",
+  "displayName": "Send 2290",
+  "description": "Form 2290 truck tax answers.",
+  "homepage": "https://send2290.com",
+  "docs": "https://send2290.com",
+  "auth": "none",
+  "mcpServers": {
+    "send2290": {
+      "url": "https://mcp.send2290.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chasync",
+  "displayName": "Chasync",
+  "description": "Manage sales workflows.",
+  "homepage": "https://chasync.com",
+  "docs": "https://chasync.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "chasync": {
+      "url": "https://mcp.chasync.com/mcp"
+    }
+  }
+}

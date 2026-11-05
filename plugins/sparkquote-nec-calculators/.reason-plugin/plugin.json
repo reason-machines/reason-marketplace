@@ -1,0 +1,13 @@
+{
+  "name": "sparkquote-nec-calculators",
+  "displayName": "SparkQuote NEC Calculators",
+  "description": "NEC electrical calculators.",
+  "homepage": "https://sparkquote.ai/tools/mcp-server",
+  "docs": "https://sparkquote.ai/tools/mcp-server",
+  "auth": "none",
+  "mcpServers": {
+    "sparkquote-nec-calculators": {
+      "url": "https://sparkquote.ai/mcp"
+    }
+  }
+}

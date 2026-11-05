@@ -1,0 +1,13 @@
+{
+  "name": "wayfront",
+  "displayName": "Wayfront",
+  "description": "Manage your Wayfront workspace.",
+  "homepage": "https://wayfront.com",
+  "docs": "https://wayfront.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "wayfront": {
+      "url": "https://mcp.wayfront.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "openregs-regulatory-research",
+  "displayName": "OpenRegs: Regulatory Research",
+  "description": "Up-to-date laws, not the web.",
+  "homepage": "https://openlaws.us",
+  "docs": "https://openlaws.us",
+  "auth": "oauth",
+  "mcpServers": {
+    "openregs-regulatory-research": {
+      "url": "https://mcp.openlaws.us/mcp"
+    }
+  }
+}

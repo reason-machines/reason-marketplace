@@ -1,0 +1,13 @@
+{
+  "name": "fin3000",
+  "displayName": "Fin3000",
+  "description": "Belege und Buchhaltung.",
+  "homepage": "https://fin3000.com",
+  "docs": "https://fin3000.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "fin3000": {
+      "url": "https://api.fin3000.com/mcp"
+    }
+  }
+}

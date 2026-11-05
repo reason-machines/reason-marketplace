@@ -1,0 +1,13 @@
+{
+  "name": "findable",
+  "displayName": "Findable",
+  "description": "Search and AI visibility.",
+  "homepage": "https://thefindable.co/",
+  "docs": "https://thefindable.co/",
+  "auth": "none",
+  "mcpServers": {
+    "findable": {
+      "url": "https://thefindable.co/mcp"
+    }
+  }
+}

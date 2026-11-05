@@ -1,0 +1,13 @@
+{
+  "name": "oakbrookone",
+  "displayName": "OakbrookOne",
+  "description": "Explore debt consolidation.",
+  "homepage": "https://oakbrookloans.com/oakbrook-one",
+  "docs": "https://tedix.dev/apps/oakbrookone/",
+  "auth": "none",
+  "mcpServers": {
+    "oakbrookone": {
+      "url": "https://oakbrook-gpt-api-432296117705.europe-west2.run.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "economiza-alagoas",
+  "displayName": "Economiza Alagoas",
+  "description": "Compare preços em Alagoas.",
+  "homepage": "https://economiza-alagoas-actions.onrender.com",
+  "docs": "https://economiza-alagoas-actions.onrender.com",
+  "auth": "none",
+  "mcpServers": {
+    "economiza-alagoas": {
+      "url": "https://economiza-alagoas-actions.onrender.com/mcp"
+    }
+  }
+}

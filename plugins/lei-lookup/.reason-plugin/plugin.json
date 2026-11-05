@@ -1,0 +1,13 @@
+{
+  "name": "lei-lookup",
+  "displayName": "Zovo LEI Lookup",
+  "description": "LEI checks and renewal dates.",
+  "homepage": "https://lei-lookup.zovo.one",
+  "docs": "https://lei-lookup.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "lei-lookup": {
+      "url": "https://lei-lookup.zovo.one/mcp"
+    }
+  }
+}

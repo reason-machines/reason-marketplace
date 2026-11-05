@@ -1,0 +1,13 @@
+{
+  "name": "kdan-pdf",
+  "displayName": "KDAN PDF",
+  "description": "Compare, Redact, Compress PDFs.",
+  "homepage": "https://pdf-reader.kdandoc.com/?utm_source=PR&utm_campaign=PDF_ChatGPTstore_Product_list&utm_medium=PDF_ChatGPTstore",
+  "docs": "https://pdf-reader.kdandoc.com/?utm_source=PR&utm_campaign=PDF_ChatGPTstore_Product_list&utm_medium=PDF_ChatGPTstore",
+  "auth": "none",
+  "mcpServers": {
+    "kdan-pdf": {
+      "url": "https://mcp.kdandoc.com/mcp"
+    }
+  }
+}

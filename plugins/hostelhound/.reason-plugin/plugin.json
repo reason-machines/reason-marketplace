@@ -1,0 +1,13 @@
+{
+  "name": "hostelhound",
+  "displayName": "HostelHound",
+  "description": "Hostel trips and price alerts.",
+  "homepage": "https://hostelhound.com",
+  "docs": "https://hostelhound.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hostelhound": {
+      "url": "https://hostelhound.com/mcp"
+    }
+  }
+}

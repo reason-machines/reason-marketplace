@@ -1,0 +1,13 @@
+{
+  "name": "perchli-property-search",
+  "displayName": "Perchli Property Search",
+  "description": "Search NI Properties.",
+  "homepage": "https://perchli.com/",
+  "docs": "https://perchli.com/",
+  "auth": "none",
+  "mcpServers": {
+    "perchli-property-search": {
+      "url": "https://mcp.perchli.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "prometheor",
+  "displayName": "Prometheor",
+  "description": "Hand work off to other AIs.",
+  "homepage": "https://prometheor.com",
+  "docs": "https://prometheor.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "prometheor": {
+      "url": "https://app.prometheor.com/mcp"
+    }
+  }
+}

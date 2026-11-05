@@ -1,0 +1,13 @@
+{
+  "name": "petlume",
+  "displayName": "Petlume",
+  "description": "Pet toys & supplies store.",
+  "homepage": "https://petlume.zen7.com",
+  "docs": "https://petlume.zen7.com",
+  "auth": "none",
+  "mcpServers": {
+    "petlume": {
+      "url": "https://petlume.zen7.com/mcp"
+    }
+  }
+}

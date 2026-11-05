@@ -1,0 +1,13 @@
+{
+  "name": "ai4f-japanese-study",
+  "displayName": "AI4F Japanese Study",
+  "description": "Japanese study tools.",
+  "homepage": "https://ai4f.io",
+  "docs": "https://ai4f.io",
+  "auth": "none",
+  "mcpServers": {
+    "ai4f-japanese-study": {
+      "url": "https://mcp.ai4f.io/mcp"
+    }
+  }
+}

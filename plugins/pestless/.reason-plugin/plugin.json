@@ -1,0 +1,13 @@
+{
+  "name": "pestless",
+  "displayName": "Pestless",
+  "description": "Miami pest control quotes.",
+  "homepage": "https://www.pestless.us/ai/",
+  "docs": "https://www.pestless.us/ai/",
+  "auth": "none",
+  "mcpServers": {
+    "pestless": {
+      "url": "https://pestless.us/mcp"
+    }
+  }
+}

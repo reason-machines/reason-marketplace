@@ -1,0 +1,13 @@
+{
+  "name": "samrum",
+  "displayName": "SAMRUM",
+  "description": "Talk about your family reports.",
+  "homepage": "https://samrum.io",
+  "docs": "https://samrum.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "samrum": {
+      "url": "https://mcp.samrum.io/mcp"
+    }
+  }
+}

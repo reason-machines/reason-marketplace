@@ -1,0 +1,13 @@
+{
+  "name": "dino-run-plus",
+  "displayName": "Dino Run+",
+  "description": "Play a dinosaur runner.",
+  "homepage": "https://dino-gpt.charandeep.net/about",
+  "docs": "https://dino-gpt.charandeep.net/about",
+  "auth": "none",
+  "mcpServers": {
+    "dino-run-plus": {
+      "url": "https://dino-gpt.charandeep.net/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "node-negocio-directorio",
+  "displayName": "NØDE Negocio",
+  "description": "Inventory, sales and balances.",
+  "homepage": "https://www.allinnode.com/conexion",
+  "docs": "https://app.allinnode.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "node-negocio-directorio": {
+      "url": "https://app.allinnode.com/mcp"
+    }
+  }
+}

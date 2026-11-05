@@ -1,0 +1,13 @@
+{
+  "name": "firepan-sentinel",
+  "displayName": "Firepan Sentinel",
+  "description": "Published token assessments.",
+  "homepage": "https://sentinel.firepan.com",
+  "docs": "https://firepan.com/SKILL.md",
+  "auth": "none",
+  "mcpServers": {
+    "firepan-sentinel": {
+      "url": "https://api.firepan.com/mcp"
+    }
+  }
+}

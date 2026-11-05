@@ -1,0 +1,13 @@
+{
+  "name": "bidit-registry",
+  "displayName": "The Bidit Registry",
+  "description": "Verified retailer price terms.",
+  "homepage": "https://registry.bidit.com.au",
+  "docs": "https://registry.bidit.com.au/for-assistants",
+  "auth": "none",
+  "mcpServers": {
+    "bidit-registry": {
+      "url": "https://registry.bidit.com.au/api/mcp"
+    }
+  }
+}

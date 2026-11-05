@@ -1,0 +1,13 @@
+{
+  "name": "flash",
+  "displayName": "Flash",
+  "description": "Spaced-repetition flashcards.",
+  "homepage": "https://flashmemorize.com",
+  "docs": "https://flashmemorize.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "flash": {
+      "url": "https://flashmemorize.com/mcp"
+    }
+  }
+}

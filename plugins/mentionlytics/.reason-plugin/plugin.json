@@ -1,0 +1,13 @@
+{
+  "name": "mentionlytics",
+  "displayName": "Mentionlytics",
+  "description": "Analyze social listening data.",
+  "homepage": "https://www.mentionlytics.com/",
+  "docs": "https://www.mentionlytics.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mentionlytics": {
+      "url": "https://mcp.mentionlytics.com/mcp"
+    }
+  }
+}

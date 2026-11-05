@@ -1,0 +1,13 @@
+{
+  "name": "don-licitacion",
+  "displayName": "Don Licitación",
+  "description": "Find public tenders in Spain.",
+  "homepage": "https://donlicitacion.es",
+  "docs": "https://donlicitacion.es/desarrolladores/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "don-licitacion": {
+      "url": "https://donlicitacion.es/conector/chatgpt/mcp"
+    }
+  }
+}

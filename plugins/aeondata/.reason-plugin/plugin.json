@@ -1,0 +1,13 @@
+{
+  "name": "aeondata",
+  "displayName": "AeonData",
+  "description": "Insider and Congress trades.",
+  "homepage": "https://aeondata.io",
+  "docs": "https://aeondata.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "aeondata": {
+      "url": "https://aeondata.io/mcp"
+    }
+  }
+}

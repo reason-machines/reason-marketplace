@@ -1,0 +1,13 @@
+{
+  "name": "shouldifish",
+  "displayName": "Should I Fish?",
+  "description": "Tides & fishing times.",
+  "homepage": "https://www.shouldifish.app/chatgpt",
+  "docs": "https://www.shouldifish.app/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "shouldifish": {
+      "url": "https://shouldifish.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wonderkit",
+  "displayName": "WonderKit",
+  "description": "Group trip ideas & itineraries.",
+  "homepage": "https://wonderkit.app",
+  "docs": "https://wonderkit.app",
+  "auth": "none",
+  "mcpServers": {
+    "wonderkit": {
+      "url": "https://wonderkit.app/mcp"
+    }
+  }
+}

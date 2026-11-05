@@ -1,0 +1,13 @@
+{
+  "name": "futrumi",
+  "displayName": "Futrumi",
+  "description": "Czech restaurant expert tips.",
+  "homepage": "https://futrumi.cz",
+  "docs": "https://futrumi.cz",
+  "auth": "none",
+  "mcpServers": {
+    "futrumi": {
+      "url": "https://mcp.futrumi.cz/mcp"
+    }
+  }
+}

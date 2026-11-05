@@ -1,0 +1,13 @@
+{
+  "name": "pabbly-studio",
+  "displayName": "Pabbly Studio",
+  "description": "Build and host web apps.",
+  "homepage": "https://www.pabbly.com/studio/",
+  "docs": "https://docs.pabbly.com/pabbly/doc/pabbly-studio-how-to-connect-pabbly-studio-to-claude-or-chatgpt-x0ht1",
+  "auth": "oauth",
+  "mcpServers": {
+    "pabbly-studio": {
+      "url": "https://studio.pabbly.com/mcp"
+    }
+  }
+}

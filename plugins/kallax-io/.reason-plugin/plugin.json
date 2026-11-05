@@ -1,0 +1,13 @@
+{
+  "name": "kallax-io",
+  "displayName": "Kallax.io",
+  "description": "Kallax.io board games & events.",
+  "homepage": "https://kallax.io/",
+  "docs": "https://kallax.io/",
+  "auth": "none",
+  "mcpServers": {
+    "kallax-io": {
+      "url": "https://kallax.io/mcp"
+    }
+  }
+}

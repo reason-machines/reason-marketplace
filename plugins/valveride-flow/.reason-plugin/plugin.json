@@ -1,0 +1,13 @@
+{
+  "name": "valveride-flow",
+  "displayName": "ValveRide Flow",
+  "description": "Diesel prices and fuel plans.",
+  "homepage": "https://valverideflow.com",
+  "docs": "https://valverideflow.com/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "valveride-flow": {
+      "url": "https://app.valverideflow.com/api/mcp"
+    }
+  }
+}

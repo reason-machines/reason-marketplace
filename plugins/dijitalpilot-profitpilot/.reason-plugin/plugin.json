@@ -1,0 +1,13 @@
+{
+  "name": "dijitalpilot-profitpilot",
+  "displayName": "ProfitPilot",
+  "description": "Campaign cost calculator.",
+  "homepage": "https://profitpilot-dijitalpilot.vercel.app",
+  "docs": "https://profitpilot-dijitalpilot.vercel.app",
+  "auth": "none",
+  "mcpServers": {
+    "dijitalpilot-profitpilot": {
+      "url": "https://profitpilot-dijitalpilot.vercel.app/mcp"
+    }
+  }
+}

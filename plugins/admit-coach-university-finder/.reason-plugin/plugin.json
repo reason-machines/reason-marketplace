@@ -1,0 +1,13 @@
+{
+  "name": "admit-coach-university-finder",
+  "displayName": "Admit Coach University Finder",
+  "description": "Find U.S. universities.",
+  "homepage": "https://admit-coach.com/",
+  "docs": "https://admit-coach.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "admit-coach-university-finder": {
+      "url": "https://admit-coach.com/api/mcp"
+    }
+  }
+}

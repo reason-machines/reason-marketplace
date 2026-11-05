@@ -1,0 +1,13 @@
+{
+  "name": "taos",
+  "displayName": "Talent Augmentation OS",
+  "description": "Grow your skills with AI.",
+  "homepage": "https://taoshq.com",
+  "docs": "https://taoshq.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "taos": {
+      "url": "https://taoshq.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "missive",
+  "displayName": "Missive",
+  "description": "Work with Missive messages.",
+  "homepage": "https://missiveapp.com",
+  "docs": "https://missiveapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "missive": {
+      "url": "https://mcp.missiveapp.com/"
+    }
+  }
+}

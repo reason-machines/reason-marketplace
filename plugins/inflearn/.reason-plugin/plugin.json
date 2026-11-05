@@ -1,0 +1,13 @@
+{
+  "name": "inflearn",
+  "displayName": "Inflearn",
+  "description": "Your lecture knowledge vault.",
+  "homepage": "https://www.inflearn.com",
+  "docs": "https://www.inflearn.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "inflearn": {
+      "url": "https://mcp.inflearn.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chartd",
+  "displayName": "Chartd",
+  "description": "Find local events.",
+  "homepage": "https://chartdapp.com",
+  "docs": "https://chartdapp.com",
+  "auth": "none",
+  "mcpServers": {
+    "chartd": {
+      "url": "https://mcp.chartdapp.com/mcp"
+    }
+  }
+}

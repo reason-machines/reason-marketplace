@@ -1,0 +1,13 @@
+{
+  "name": "algorithmic-ink",
+  "displayName": "Algorithmic Ink",
+  "description": "Turn photos into vector art.",
+  "homepage": "https://algorithmicink.ca",
+  "docs": "https://algorithmicink.ca",
+  "auth": "none",
+  "mcpServers": {
+    "algorithmic-ink": {
+      "url": "https://mcp.algorithmicink.ca/mcp"
+    }
+  }
+}

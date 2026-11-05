@@ -1,0 +1,13 @@
+{
+  "name": "hookradar",
+  "displayName": "HookRadar",
+  "description": "Creative intelligence.",
+  "homepage": "https://hookradar.net/ai-connectors",
+  "docs": "https://hookradar.net/ai-connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "hookradar": {
+      "url": "https://mcp.hookradar.net/mcp"
+    }
+  }
+}

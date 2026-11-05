@@ -1,0 +1,13 @@
+{
+  "name": "maki-beds",
+  "displayName": "Maki Beds",
+  "description": "Your property, in chat.",
+  "homepage": "https://makibeds.com",
+  "docs": "https://makibeds.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "maki-beds": {
+      "url": "https://mcp.makibeds.com/mcp"
+    }
+  }
+}

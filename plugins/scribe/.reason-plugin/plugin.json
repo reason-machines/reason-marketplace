@@ -1,0 +1,13 @@
+{
+  "name": "scribe",
+  "displayName": "Scribe",
+  "description": "Manage company email signature.",
+  "homepage": "https://www.scribe-mail.com",
+  "docs": "https://www.scribe-mail.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "scribe": {
+      "url": "https://mcp.scribe-mail.com/mcp"
+    }
+  }
+}

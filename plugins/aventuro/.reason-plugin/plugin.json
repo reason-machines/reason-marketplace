@@ -1,0 +1,13 @@
+{
+  "name": "aventuro",
+  "displayName": "Aventuro",
+  "description": "Find places worth visiting.",
+  "homepage": "https://aventuro.io",
+  "docs": "https://aventuro.io",
+  "auth": "none",
+  "mcpServers": {
+    "aventuro": {
+      "url": "https://mcp.aventuro.io/mcp"
+    }
+  }
+}

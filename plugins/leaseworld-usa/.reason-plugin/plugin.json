@@ -1,0 +1,13 @@
+{
+  "name": "leaseworld-usa",
+  "displayName": "Leaseworld USA Leasing Pro",
+  "description": "Estimate equipment payments.",
+  "homepage": "https://leaseworldusa.com",
+  "docs": "https://leaseworldusa.com",
+  "auth": "none",
+  "mcpServers": {
+    "leaseworld-usa": {
+      "url": "https://mcp.leaseworldusa.com/mcp"
+    }
+  }
+}

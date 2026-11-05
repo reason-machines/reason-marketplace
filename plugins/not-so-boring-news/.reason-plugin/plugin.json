@@ -1,0 +1,13 @@
+{
+  "name": "not-so-boring-news",
+  "displayName": "Not So Boring News",
+  "description": "Verify. Visualize. Understand.",
+  "homepage": "https://notsoboringnews.com",
+  "docs": "https://notsoboringnews.com",
+  "auth": "none",
+  "mcpServers": {
+    "not-so-boring-news": {
+      "url": "https://mcp.notsoboringnews.com/mcp"
+    }
+  }
+}

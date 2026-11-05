@@ -1,0 +1,13 @@
+{
+  "name": "g2x",
+  "displayName": "G2X",
+  "description": "GovCon Market Intel for Agents.",
+  "homepage": "https://g2x.com",
+  "docs": "https://g2x.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "g2x": {
+      "url": "https://mcp.g2x.com/mcp"
+    }
+  }
+}

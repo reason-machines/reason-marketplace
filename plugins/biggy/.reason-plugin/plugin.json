@@ -1,0 +1,13 @@
+{
+  "name": "biggy",
+  "displayName": "Biggy",
+  "description": "AI SRE for Enterprise.",
+  "homepage": "https://www.bigpanda.io/our-product/ai-incident-assistant/",
+  "docs": "https://docs.bigpanda.io/en/connect-to-biggy",
+  "auth": "oauth",
+  "mcpServers": {
+    "biggy": {
+      "url": "https://mcp.biggy.io/mcp"
+    }
+  }
+}

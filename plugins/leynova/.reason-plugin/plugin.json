@@ -1,0 +1,13 @@
+{
+  "name": "leynova",
+  "displayName": "LeyNova",
+  "description": "Derecho boliviano con fuentes.",
+  "homepage": "https://leynova.com",
+  "docs": "https://leynova.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "leynova": {
+      "url": "https://leynova.com/mcp"
+    }
+  }
+}

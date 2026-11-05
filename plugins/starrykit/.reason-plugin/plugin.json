@@ -1,0 +1,22 @@
+{
+  "name": "starrykit",
+  "displayName": "StarryKit",
+  "description": "Create and edit visual designs.",
+  "homepage": "https://starrykit.com",
+  "docs": "https://starrykit.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "starrykit": {
+      "url": "https://mcp.starrykit.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "starrykit",
+      "description": "Create, inspect, refine, and export polished editable presentations, posters, social graphics, diagrams, and other visual documents with StarryKit. Use when the user explicitly chooses StarryKit, wants to work on an existing StarryKit document, or requests an editable canvas-based visual artifact wi",
+      "source": "starrykit/starrykit-plugin#0e57d121ac2f1b70cd8c1b7b65d603f4e2f21816",
+      "skill": "starrykit",
+      "url": "https://github.com/starrykit/starrykit-plugin/tree/0e57d121ac2f1b70cd8c1b7b65d603f4e2f21816/skills/starrykit"
+    }
+  ]
+}

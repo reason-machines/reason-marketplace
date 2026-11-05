@@ -1,0 +1,13 @@
+{
+  "name": "pick-your-match",
+  "displayName": "Pick your match",
+  "description": "Find your exact accommodation.",
+  "homepage": "https://pickyourmatch.com",
+  "docs": "https://pickyourmatch.com",
+  "auth": "none",
+  "mcpServers": {
+    "pick-your-match": {
+      "url": "https://mcp.pickyourmatch.com/mcp"
+    }
+  }
+}

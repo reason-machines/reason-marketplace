@@ -1,0 +1,13 @@
+{
+  "name": "irisagent",
+  "displayName": "IrisAgent",
+  "description": "Ask about your support data.",
+  "homepage": "https://irisagent.com",
+  "docs": "https://irisagent.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "irisagent": {
+      "url": "https://mcp.irisagent.com/mcp"
+    }
+  }
+}

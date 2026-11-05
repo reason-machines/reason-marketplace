@@ -1,0 +1,13 @@
+{
+  "name": "super",
+  "displayName": "Auto-building agents",
+  "description": "Autobuild deterministic agents.",
+  "homepage": "https://getsupers.com/",
+  "docs": "https://getsupers.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "super": {
+      "url": "https://app.getsupers.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "formester",
+  "displayName": "Formester",
+  "description": "Build forms, analyze responses.",
+  "homepage": "https://formester.com",
+  "docs": "https://formester.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "formester": {
+      "url": "https://mcp.formester.com/mcp"
+    }
+  }
+}

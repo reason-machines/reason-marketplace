@@ -1,0 +1,13 @@
+{
+  "name": "realtor-reply-email-drafts",
+  "displayName": "Realtor Reply Email Drafts",
+  "description": "Draft client emails & texts.",
+  "homepage": "https://realtorreplyai.app",
+  "docs": "https://realtorreplyai.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "realtor-reply-email-drafts": {
+      "url": "https://mcp.realtorreplyai.app/mcp"
+    }
+  }
+}

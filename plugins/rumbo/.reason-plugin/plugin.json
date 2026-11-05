@@ -1,0 +1,13 @@
+{
+  "name": "rumbo",
+  "displayName": "Rumbo",
+  "description": "Consultá tus datos de negocio.",
+  "homepage": "https://rumboar.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.rumboar",
+  "auth": "oauth",
+  "mcpServers": {
+    "rumbo": {
+      "url": "https://proxy-api.boolean.com.ar/mcp/v1/rumbo/"
+    }
+  }
+}

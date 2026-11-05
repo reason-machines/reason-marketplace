@@ -1,0 +1,13 @@
+{
+  "name": "tunio",
+  "displayName": "Tunio",
+  "description": "Run your radio stations.",
+  "homepage": "https://tunio.ai",
+  "docs": "https://tunio.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "tunio": {
+      "url": "https://mcp.tunio.ai/mcp"
+    }
+  }
+}

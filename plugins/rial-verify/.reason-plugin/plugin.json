@@ -1,0 +1,13 @@
+{
+  "name": "rial-verify",
+  "displayName": "Rial",
+  "description": "Photo fraud signals for claims.",
+  "homepage": "https://rial.io",
+  "docs": "https://rial.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "rial-verify": {
+      "url": "https://mcp.rial.io/mcp"
+    }
+  }
+}

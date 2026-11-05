@@ -1,0 +1,13 @@
+{
+  "name": "geosurge-client",
+  "displayName": "geoSurge",
+  "description": "Analyze AI search visibility.",
+  "homepage": "https://geosurge.ai",
+  "docs": "https://geosurge.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "geosurge-client": {
+      "url": "https://mcp.geosurge.ai/mcp"
+    }
+  }
+}

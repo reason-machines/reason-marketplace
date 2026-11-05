@@ -1,0 +1,13 @@
+{
+  "name": "verity",
+  "displayName": "Verity",
+  "description": "Forensic surface comparison.",
+  "homepage": "https://verity.codes",
+  "docs": "https://verity.codes/docs",
+  "auth": "none",
+  "mcpServers": {
+    "verity": {
+      "url": "https://api.verity.codes/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aitrainingdatabroker",
+  "displayName": "AI Training Data Broker",
+  "description": "AI training data, answered.",
+  "homepage": "https://aitrainingdatabroker.com",
+  "docs": "https://aitrainingdatabroker.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "aitrainingdatabroker": {
+      "url": "https://aitrainingdatabroker.com/api/mcp"
+    }
+  }
+}

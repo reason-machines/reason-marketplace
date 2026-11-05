@@ -1,0 +1,13 @@
+{
+  "name": "add-to-crm-connector",
+  "displayName": "Add to CRM",
+  "description": "Find contacts, add to your CRM.",
+  "homepage": "https://addtocrm.com",
+  "docs": "https://addtocrm.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "add-to-crm-connector": {
+      "url": "https://mcp.addtocrm.com/mcp"
+    }
+  }
+}

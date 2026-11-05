@@ -1,0 +1,13 @@
+{
+  "name": "commission-calculator",
+  "displayName": "Quotaline Commissions",
+  "description": "Commission payouts, statements.",
+  "homepage": "https://commission-calculator.zovo.one",
+  "docs": "https://commission-calculator.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "commission-calculator": {
+      "url": "https://commission-calculator.zovo.one/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "healthier",
+  "displayName": "Healthier",
+  "description": "Nutrition & everyday habits.",
+  "homepage": "https://gethealthier.ai",
+  "docs": "https://gethealthier.ai",
+  "auth": "none",
+  "mcpServers": {
+    "healthier": {
+      "url": "https://mcp.gethealthier.ai/mcp"
+    }
+  }
+}

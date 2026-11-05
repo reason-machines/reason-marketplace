@@ -1,0 +1,13 @@
+{
+  "name": "dsail",
+  "displayName": "DSAIL",
+  "description": "Check facts against your rules.",
+  "homepage": "https://docs.agents.jaxon.ai",
+  "docs": "https://docs.agents.jaxon.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "dsail": {
+      "url": "https://agents.jaxon.ai/mcp"
+    }
+  }
+}

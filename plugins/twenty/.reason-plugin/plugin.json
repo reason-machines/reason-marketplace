@@ -1,0 +1,13 @@
+{
+  "name": "twenty",
+  "displayName": "Twenty",
+  "description": "CRM workspace tools.",
+  "homepage": "https://twenty.com",
+  "docs": "https://twenty.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "twenty": {
+      "url": "https://mcp.twenty.com/mcp"
+    }
+  }
+}

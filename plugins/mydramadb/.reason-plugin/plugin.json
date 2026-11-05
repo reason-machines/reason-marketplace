@@ -1,0 +1,13 @@
+{
+  "name": "mydramadb",
+  "displayName": "MyDramaDB",
+  "description": "Drama answers with sources.",
+  "homepage": "https://mydramadb.com",
+  "docs": "https://mydramadb.com",
+  "auth": "none",
+  "mcpServers": {
+    "mydramadb": {
+      "url": "https://mydramadb.com/mcp"
+    }
+  }
+}

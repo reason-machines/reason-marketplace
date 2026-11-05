@@ -1,0 +1,13 @@
+{
+  "name": "getaccept",
+  "displayName": "GetAccept",
+  "description": "Manage deals and meetings.",
+  "homepage": "https://www.getaccept.com",
+  "docs": "https://www.getaccept.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "getaccept": {
+      "url": "https://mcp.getaccept.com/mcp"
+    }
+  }
+}

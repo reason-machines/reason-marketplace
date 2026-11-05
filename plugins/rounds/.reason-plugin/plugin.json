@@ -1,0 +1,13 @@
+{
+  "name": "rounds",
+  "displayName": "Rounds",
+  "description": "Client comments on PDF proofs.",
+  "homepage": "https://rounds.page/ai",
+  "docs": "https://rounds.page/ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "rounds": {
+      "url": "https://rounds.page/api/mcp"
+    }
+  }
+}

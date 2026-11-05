@@ -1,0 +1,13 @@
+{
+  "name": "acquisition-gov-by-1102tools",
+  "displayName": "Acquisition.gov by 1102tools",
+  "description": "Explore FAR Overhaul guidance.",
+  "homepage": "https://1102tools.com",
+  "docs": "https://1102tools.com/mcp/acquisition-gov",
+  "auth": "none",
+  "mcpServers": {
+    "acquisition-gov-by-1102tools": {
+      "url": "https://acquisition-gov.1102tools.com/mcp"
+    }
+  }
+}

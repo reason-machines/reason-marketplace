@@ -1,0 +1,13 @@
+{
+  "name": "jamie",
+  "displayName": "Jamie",
+  "description": "Access your meeting history.",
+  "homepage": "https://www.meetjamie.ai/",
+  "docs": "https://www.meetjamie.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "jamie": {
+      "url": "https://mcp.meetjamie.ai/mcp"
+    }
+  }
+}

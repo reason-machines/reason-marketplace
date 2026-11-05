@@ -1,0 +1,13 @@
+{
+  "name": "dorit",
+  "displayName": "Dorit",
+  "description": "Find apartments in Israel.",
+  "homepage": "https://dorit.bot",
+  "docs": "https://dorit.bot",
+  "auth": "oauth",
+  "mcpServers": {
+    "dorit": {
+      "url": "https://mcp.dorit.bot/mcp"
+    }
+  }
+}

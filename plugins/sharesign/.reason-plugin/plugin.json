@@ -1,0 +1,13 @@
+{
+  "name": "sharesign",
+  "displayName": "ShareSign",
+  "description": "Signatures, rooms & cap tables.",
+  "homepage": "https://sharesign.co",
+  "docs": "https://sharesign.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "sharesign": {
+      "url": "https://mcp.sharesign.co/mcp"
+    }
+  }
+}

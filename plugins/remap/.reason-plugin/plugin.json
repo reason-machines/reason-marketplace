@@ -1,0 +1,13 @@
+{
+  "name": "remap",
+  "displayName": "Remap",
+  "description": "Bike and run routes anywhere.",
+  "homepage": "https://remap.earth",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=earth.remap/routes",
+  "auth": "none",
+  "mcpServers": {
+    "remap": {
+      "url": "https://go.remap.earth/mcp"
+    }
+  }
+}

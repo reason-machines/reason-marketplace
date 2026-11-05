@@ -1,0 +1,13 @@
+{
+  "name": "siftivo",
+  "displayName": "Siftivo",
+  "description": "Book recommendations for you.",
+  "homepage": "https://siftivo.com",
+  "docs": "https://siftivo.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "siftivo": {
+      "url": "https://api.siftivo.com/mcp"
+    }
+  }
+}

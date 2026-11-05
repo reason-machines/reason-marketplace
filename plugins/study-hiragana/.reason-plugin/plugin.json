@@ -1,0 +1,13 @@
+{
+  "name": "study-hiragana",
+  "displayName": "Study Hiragana",
+  "description": "Learn to write kana & kanji.",
+  "homepage": "https://studyhiragana.com",
+  "docs": "https://studyhiragana.com",
+  "auth": "none",
+  "mcpServers": {
+    "study-hiragana": {
+      "url": "https://studyhiragana.com/mcp"
+    }
+  }
+}

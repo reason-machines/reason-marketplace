@@ -1,0 +1,13 @@
+{
+  "name": "ravenpost",
+  "displayName": "Ravenpost",
+  "description": "Schedule social media posts.",
+  "homepage": "https://ravenpo.st/",
+  "docs": "https://ravenpo.st/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ravenpost": {
+      "url": "https://api.ravenpo.st/mcp"
+    }
+  }
+}

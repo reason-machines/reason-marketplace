@@ -1,0 +1,13 @@
+{
+  "name": "university-ai-policy-tracker",
+  "displayName": "University AI Policy Tracker",
+  "description": "Find your university AI rules.",
+  "homepage": "https://eduaipolicy.org/mcp",
+  "docs": "https://eduaipolicy.org/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "university-ai-policy-tracker": {
+      "url": "https://eduaipolicy.org/api/mcp"
+    }
+  }
+}

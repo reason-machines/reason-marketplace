@@ -1,0 +1,13 @@
+{
+  "name": "pledr-legal",
+  "displayName": "Pledr Legal",
+  "description": "Cited Supreme Court judgments.",
+  "homepage": "https://www.pledr.in",
+  "docs": "https://www.pledr.in",
+  "auth": "oauth",
+  "mcpServers": {
+    "pledr-legal": {
+      "url": "https://mcp.pledr.in/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dscr-loan-calculator",
+  "displayName": "DSCR Loan Calculator",
+  "description": "by OneMoreDoor Capital.",
+  "homepage": "https://onemoredoor.com",
+  "docs": "https://tedix.dev/apps/dscr-loan-calculator/",
+  "auth": "none",
+  "mcpServers": {
+    "dscr-loan-calculator": {
+      "url": "https://onemoredoor.com/api/mcp"
+    }
+  }
+}

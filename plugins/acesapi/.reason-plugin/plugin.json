@@ -1,0 +1,13 @@
+{
+  "name": "acesapi",
+  "displayName": "AcesAPI",
+  "description": "Tennis data and stats.",
+  "homepage": "https://acesapi.com",
+  "docs": "https://acesapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "acesapi": {
+      "url": "https://mcp.acesapi.com/mcp"
+    }
+  }
+}

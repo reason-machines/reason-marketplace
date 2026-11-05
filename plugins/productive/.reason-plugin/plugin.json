@@ -1,0 +1,13 @@
+{
+  "name": "productive",
+  "displayName": "Productive",
+  "description": "Run your work in one place.",
+  "homepage": "https://productive.io/",
+  "docs": "https://productive.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "productive": {
+      "url": "https://mcp.productive.io/mcp"
+    }
+  }
+}

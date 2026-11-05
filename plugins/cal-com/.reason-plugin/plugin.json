@@ -1,0 +1,13 @@
+{
+  "name": "cal-com",
+  "displayName": "Cal.com",
+  "description": "Schedule and manage meetings.",
+  "homepage": "https://cal.com",
+  "docs": "https://cal.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cal-com": {
+      "url": "https://mcp.cal.com/mcp"
+    }
+  }
+}

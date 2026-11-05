@@ -1,0 +1,13 @@
+{
+  "name": "eoslog",
+  "displayName": "EosLog",
+  "description": "Quotes, invoices and pricing.",
+  "homepage": "https://eoslog.com",
+  "docs": "https://eoslog.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "eoslog": {
+      "url": "https://eoslog.com/mcp/free"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "attachpage",
+  "displayName": "AttachPage",
+  "description": "Share pages and documents.",
+  "homepage": "https://attachpage.com",
+  "docs": "https://attachpage.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "attachpage": {
+      "url": "https://attachpage.com/mcp"
+    }
+  }
+}

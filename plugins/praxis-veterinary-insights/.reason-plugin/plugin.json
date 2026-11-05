@@ -1,0 +1,13 @@
+{
+  "name": "praxis-veterinary-insights",
+  "displayName": "Praxis",
+  "description": "Practice checks and insights.",
+  "homepage": "https://praxisvets.com",
+  "docs": "https://praxisvets.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "praxis-veterinary-insights": {
+      "url": "https://praxisvets.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "paidsync",
+  "displayName": "PaidSync",
+  "description": "Run Google Ads, Meta, LinkedIn.",
+  "homepage": "https://paidsync.ai/",
+  "docs": "https://paidsync.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "paidsync": {
+      "url": "https://mcp.paidsync.ai/mcp"
+    }
+  }
+}

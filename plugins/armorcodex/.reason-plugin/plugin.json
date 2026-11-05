@@ -1,0 +1,13 @@
+{
+  "name": "armorcodex",
+  "displayName": "ArmorCodex",
+  "description": "Read and update AI policies.",
+  "homepage": "https://armoriq.ai",
+  "docs": "https://armoriq.ai",
+  "auth": "none",
+  "mcpServers": {
+    "armorcodex": {
+      "url": "https://mcp.armoriq.ai/mcp"
+    }
+  }
+}

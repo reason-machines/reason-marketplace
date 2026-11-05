@@ -1,0 +1,13 @@
+{
+  "name": "uce-evidence-lens",
+  "displayName": "UCE Evidence Lens",
+  "description": "Inspect public UCE records.",
+  "homepage": "https://uceevidencelens.com/gpt/",
+  "docs": "https://uceevidencelens.com/gpt/",
+  "auth": "none",
+  "mcpServers": {
+    "uce-evidence-lens": {
+      "url": "https://uce-evidence-lens-zptt2ggs7a-uc.a.run.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "invoiceparser-pro",
+  "displayName": "InvoiceParser Pro",
+  "description": "Invoice to Excel, math checked.",
+  "homepage": "https://invoiceparserpro.com/ai-assistants",
+  "docs": "https://invoiceparserpro.com/ai-assistants",
+  "auth": "none",
+  "mcpServers": {
+    "invoiceparser-pro": {
+      "url": "https://api.invoiceparserpro.com/mcp"
+    }
+  }
+}

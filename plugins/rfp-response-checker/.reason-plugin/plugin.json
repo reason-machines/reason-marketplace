@@ -1,0 +1,13 @@
+{
+  "name": "rfp-response-checker",
+  "displayName": "RFP Response Checker",
+  "description": "Check RFP response coverage.",
+  "homepage": "https://rfp-response-checker.sidcraigau.workers.dev",
+  "docs": "https://rfp-response-checker.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "rfp-response-checker": {
+      "url": "https://rfp-response-checker.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

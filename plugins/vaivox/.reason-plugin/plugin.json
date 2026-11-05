@@ -1,0 +1,13 @@
+{
+  "name": "vaivox",
+  "displayName": "Vaivox",
+  "description": "Translate any video you watch.",
+  "homepage": "https://vaivox.com",
+  "docs": "https://vaivox.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "vaivox": {
+      "url": "https://vaivox.com/mcp"
+    }
+  }
+}

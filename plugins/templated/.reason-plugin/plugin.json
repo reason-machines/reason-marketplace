@@ -1,0 +1,13 @@
+{
+  "name": "templated",
+  "displayName": "Templated",
+  "description": "Generate images, videos & PDFs.",
+  "homepage": "https://templated.io/",
+  "docs": "https://templated.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "templated": {
+      "url": "https://mcp.templated.io/mcp"
+    }
+  }
+}

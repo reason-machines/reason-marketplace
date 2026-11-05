@@ -1,0 +1,13 @@
+{
+  "name": "bilkopskollen",
+  "displayName": "Bilköpskollen",
+  "description": "Vad bilen kostar att äga.",
+  "homepage": "https://www.bilkopskollen.se/",
+  "docs": "https://www.bilkopskollen.se/",
+  "auth": "none",
+  "mcpServers": {
+    "bilkopskollen": {
+      "url": "https://bilkopskollen.se/mcp"
+    }
+  }
+}

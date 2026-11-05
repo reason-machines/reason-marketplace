@@ -1,0 +1,13 @@
+{
+  "name": "nieru-settings-assistant",
+  "displayName": "NIERU掲示板 設定アシスタント β",
+  "description": "Board help and settings drafts.",
+  "homepage": "https://home.nieru.net/nieru-settings-assistant/index.html",
+  "docs": "https://api.nieru.net/.well-known/oauth-protected-resource",
+  "auth": "none",
+  "mcpServers": {
+    "nieru-settings-assistant": {
+      "url": "https://api.nieru.net/mcp"
+    }
+  }
+}

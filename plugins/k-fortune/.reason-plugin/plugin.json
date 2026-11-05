@@ -1,0 +1,13 @@
+{
+  "name": "k-fortune",
+  "displayName": "K-Fortune 사주",
+  "description": "Saju-based self-reflection.",
+  "homepage": "https://kfortune.co",
+  "docs": "https://kfortune.co",
+  "auth": "none",
+  "mcpServers": {
+    "k-fortune": {
+      "url": "https://kfortune.co/mcp"
+    }
+  }
+}

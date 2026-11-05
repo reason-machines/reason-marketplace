@@ -1,0 +1,13 @@
+{
+  "name": "table",
+  "displayName": "table",
+  "description": "Save and update your network.",
+  "homepage": "https://www.usetable.ai/",
+  "docs": "https://www.usetable.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "table": {
+      "url": "https://mcp.usetable.ai/mcp"
+    }
+  }
+}

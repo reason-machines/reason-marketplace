@@ -1,0 +1,13 @@
+{
+  "name": "metaventus",
+  "displayName": "Metaventus",
+  "description": "Your CRM and meetings.",
+  "homepage": "https://www.metaventus.com",
+  "docs": "https://www.metaventus.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "metaventus": {
+      "url": "https://mcp.metaventus.com/mcp"
+    }
+  }
+}

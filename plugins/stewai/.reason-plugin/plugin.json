@@ -1,0 +1,13 @@
+{
+  "name": "stewai",
+  "displayName": "StewAI",
+  "description": "Find, run, build workflows.",
+  "homepage": "https://stewai.com",
+  "docs": "https://api.stewai.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "stewai": {
+      "url": "https://api.stewai.com/mcp"
+    }
+  }
+}

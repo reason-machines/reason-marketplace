@@ -1,0 +1,13 @@
+{
+  "name": "eggverse",
+  "displayName": "EggVerse",
+  "description": "play together anywhere.",
+  "homepage": "https://eggverse.co/chat-plugin",
+  "docs": "https://eggverse.co/chat-plugin",
+  "auth": "none",
+  "mcpServers": {
+    "eggverse": {
+      "url": "https://eggverse.co/mcp"
+    }
+  }
+}

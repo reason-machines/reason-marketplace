@@ -1,0 +1,13 @@
+{
+  "name": "postermywall",
+  "displayName": "PosterMyWall",
+  "description": "Find design templates.",
+  "homepage": "https://www.postermywall.com",
+  "docs": "https://www.postermywall.com",
+  "auth": "none",
+  "mcpServers": {
+    "postermywall": {
+      "url": "https://mcp.postermywall.com/mcp"
+    }
+  }
+}

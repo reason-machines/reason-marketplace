@@ -1,0 +1,13 @@
+{
+  "name": "tolstoy",
+  "displayName": "Tolstoy",
+  "description": "AI product videos & photos.",
+  "homepage": "https://www.gotolstoy.com",
+  "docs": "https://gotolstoy.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "tolstoy": {
+      "url": "https://apilb.gotolstoy.com/mcp/v1/mcp"
+    }
+  }
+}

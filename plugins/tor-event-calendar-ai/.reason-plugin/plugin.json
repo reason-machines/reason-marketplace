@@ -1,0 +1,13 @@
+{
+  "name": "tor-event-calendar-ai",
+  "displayName": "nambli",
+  "description": "Manage your private calendar.",
+  "homepage": "https://nambli.com",
+  "docs": "https://nambli.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "tor-event-calendar-ai": {
+      "url": "https://nambli.com/mcp"
+    }
+  }
+}

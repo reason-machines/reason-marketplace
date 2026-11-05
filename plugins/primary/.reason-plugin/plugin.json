@@ -1,0 +1,13 @@
+{
+  "name": "primary",
+  "displayName": "Primary",
+  "description": "Financial MCP integration.",
+  "homepage": "https://primary.tech",
+  "docs": "https://tedix.dev/apps/primary/",
+  "auth": "oauth",
+  "mcpServers": {
+    "primary": {
+      "url": "https://papi.primary.tech/mcp"
+    }
+  }
+}

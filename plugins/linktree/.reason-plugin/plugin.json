@@ -1,0 +1,13 @@
+{
+  "name": "linktree",
+  "displayName": "Linktree",
+  "description": "Find creators on Linktree.",
+  "homepage": "https://linktr.ee",
+  "docs": "https://mcp.linktr.ee/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "linktree": {
+      "url": "https://mcp.linktr.ee/mcp"
+    }
+  }
+}

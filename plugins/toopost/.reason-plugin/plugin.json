@@ -1,0 +1,13 @@
+{
+  "name": "toopost",
+  "displayName": "Toopost",
+  "description": "Insights from trusted sources.",
+  "homepage": "https://toopost.us",
+  "docs": "https://toopost.us",
+  "auth": "oauth",
+  "mcpServers": {
+    "toopost": {
+      "url": "https://mcp.toopost.us/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "skeudesign",
+  "displayName": "SkeuDesign",
+  "description": "Find icons for your designs.",
+  "homepage": "https://www.skeudesign.com/chatgpt",
+  "docs": "https://www.skeudesign.com/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "skeudesign": {
+      "url": "https://skeudesign.com/mcp"
+    }
+  }
+}

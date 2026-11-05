@@ -1,0 +1,13 @@
+{
+  "name": "eden",
+  "displayName": "Eden",
+  "description": "Find content that's working.",
+  "homepage": "https://eden.so",
+  "docs": "https://eden.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "eden": {
+      "url": "https://mcp.eden.so/mcp"
+    }
+  }
+}

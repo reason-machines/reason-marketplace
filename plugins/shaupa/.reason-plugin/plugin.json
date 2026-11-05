@@ -1,0 +1,13 @@
+{
+  "name": "shaupa",
+  "displayName": "Shaupa",
+  "description": "Discover and save products.",
+  "homepage": "https://shaupa.com/openai-plugin",
+  "docs": "https://shaupa.com/openai-plugin",
+  "auth": "oauth",
+  "mcpServers": {
+    "shaupa": {
+      "url": "https://shaupa.com/mcp"
+    }
+  }
+}

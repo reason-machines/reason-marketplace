@@ -1,0 +1,13 @@
+{
+  "name": "rendemo",
+  "displayName": "Rendemo",
+  "description": "Interactive product demos.",
+  "homepage": "https://rendemo.com",
+  "docs": "https://rendemo.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "rendemo": {
+      "url": "https://www.rendemo.com/api/mcp/mcp"
+    }
+  }
+}

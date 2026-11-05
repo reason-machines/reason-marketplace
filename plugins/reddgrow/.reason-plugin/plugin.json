@@ -1,0 +1,13 @@
+{
+  "name": "reddgrow",
+  "displayName": "ReddGrow",
+  "description": "Get found on Reddit and AI.",
+  "homepage": "https://reddgrow.ai",
+  "docs": "https://reddgrow.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "reddgrow": {
+      "url": "https://mcp.reddgrow.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "storeinspect",
+  "displayName": "StoreInspect",
+  "description": "Find Shopify store data.",
+  "homepage": "https://storeinspect.com",
+  "docs": "https://storeinspect.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "storeinspect": {
+      "url": "https://mcp.storeinspect.com/mcp"
+    }
+  }
+}

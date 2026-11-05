@@ -1,0 +1,13 @@
+{
+  "name": "diarize",
+  "displayName": "Diarize",
+  "description": "Transcribe with speaker labels.",
+  "homepage": "https://diarize.io",
+  "docs": "https://diarize.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "diarize": {
+      "url": "https://diarize.io/mcp"
+    }
+  }
+}

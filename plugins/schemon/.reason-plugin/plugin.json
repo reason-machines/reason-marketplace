@@ -1,0 +1,13 @@
+{
+  "name": "schemon",
+  "displayName": "Schemon",
+  "description": "Appointments and workspaces.",
+  "homepage": "https://www.schemon.com",
+  "docs": "https://api.schemon.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "schemon": {
+      "url": "https://api.schemon.com/mcp"
+    }
+  }
+}

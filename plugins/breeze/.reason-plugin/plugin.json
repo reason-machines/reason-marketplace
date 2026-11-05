@@ -1,0 +1,13 @@
+{
+  "name": "breeze",
+  "displayName": "Breeze",
+  "description": "Manage projects and tasks.",
+  "homepage": "https://www.breeze.pm",
+  "docs": "https://www.breeze.pm",
+  "auth": "oauth",
+  "mcpServers": {
+    "breeze": {
+      "url": "https://mcp.breeze.pm/mcp"
+    }
+  }
+}

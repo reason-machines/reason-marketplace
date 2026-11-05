@@ -1,0 +1,13 @@
+{
+  "name": "clean-notes",
+  "displayName": "Clean Notes",
+  "description": "Manage projects and tasks.",
+  "homepage": "https://cleannotes.app",
+  "docs": "https://cleannotes.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "clean-notes": {
+      "url": "https://cleannotes.app/mcp"
+    }
+  }
+}

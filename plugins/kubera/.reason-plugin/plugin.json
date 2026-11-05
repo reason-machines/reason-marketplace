@@ -1,0 +1,13 @@
+{
+  "name": "kubera",
+  "displayName": "Kubera",
+  "description": "Track net worth & spot trends.",
+  "homepage": "https://www.kubera.com/",
+  "docs": "https://help.kubera.com/article/167-kubera-mcp-config",
+  "auth": "oauth",
+  "mcpServers": {
+    "kubera": {
+      "url": "https://api.kubera.com/api/v1/mcp"
+    }
+  }
+}

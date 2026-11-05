@@ -1,0 +1,13 @@
+{
+  "name": "fairw-ai",
+  "displayName": "fairw.ai",
+  "description": "Your meetings in Reason.",
+  "homepage": "https://fairw.ai",
+  "docs": "https://app.fairw.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "fairw-ai": {
+      "url": "https://app.fairw.ai/api/mcp"
+    }
+  }
+}

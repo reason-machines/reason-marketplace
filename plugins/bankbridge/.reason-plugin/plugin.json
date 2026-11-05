@@ -1,0 +1,13 @@
+{
+  "name": "bankbridge",
+  "displayName": "BankBridge",
+  "description": "Read-only bank data.",
+  "homepage": "https://bankbridge.money",
+  "docs": "https://bankbridge.money",
+  "auth": "oauth",
+  "mcpServers": {
+    "bankbridge": {
+      "url": "https://bankbridge.money/mcp"
+    }
+  }
+}

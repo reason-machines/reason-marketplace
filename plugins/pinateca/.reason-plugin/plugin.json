@@ -1,0 +1,13 @@
+{
+  "name": "pinateca",
+  "displayName": "Pinateca",
+  "description": "Read and update task boards.",
+  "homepage": "https://pinateca.com",
+  "docs": "https://pinateca.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "pinateca": {
+      "url": "https://pinateca.com/mcp"
+    }
+  }
+}

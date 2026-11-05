@@ -1,0 +1,13 @@
+{
+  "name": "asktexasenergy",
+  "displayName": "AskTexasEnergy",
+  "description": "Texas electricity, real prices.",
+  "homepage": "https://asktexasenergy.com",
+  "docs": "https://tedix.dev/apps/asktexasenergy/",
+  "auth": "none",
+  "mcpServers": {
+    "asktexasenergy": {
+      "url": "https://asktexasenergy.com/tools/plans/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "iarchi",
+  "displayName": "iArchi",
+  "description": "Architecture for agents.",
+  "homepage": "https://www.iarchi.cloud/product",
+  "docs": "https://www.iarchi.cloud/product",
+  "auth": "oauth",
+  "mcpServers": {
+    "iarchi": {
+      "url": "https://mcp.iarchi.cloud/mcp"
+    }
+  }
+}

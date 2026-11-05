@@ -1,0 +1,13 @@
+{
+  "name": "inspiration-by-vasa",
+  "displayName": "Inspiration by VASA",
+  "description": "Find design inspiration.",
+  "homepage": "https://inspiration.vasa.works",
+  "docs": "https://inspiration.vasa.works",
+  "auth": "oauth",
+  "mcpServers": {
+    "inspiration-by-vasa": {
+      "url": "https://mcp.vasa.works/mcp"
+    }
+  }
+}

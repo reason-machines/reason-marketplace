@@ -10,5 +10,42 @@
     "aave": {
       "url": "https://mcp.aave.com"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "account-activity",
+      "description": "An Aave account's history — past supplies, borrows, repays, withdrawals and collateral changes, and how net worth or health factor moved over time — for \"transaction history\", \"how has my position changed\", what a wallet did on Aave.",
+      "source": "aave/skills#3fec2a661968940e5431351f1fe5903452d02981",
+      "skill": "account-activity",
+      "url": "https://github.com/aave/skills/tree/3fec2a661968940e5431351f1fe5903452d02981/plugins/mcp/skills/account-activity"
+    },
+    {
+      "name": "deleverage",
+      "description": "Reduce the risk on an Aave position — \"reduce my risk\", \"unwind\", \"get my health factor up\", \"I'm close to liquidation\" — by comparing the routes (repay, repay from collateral, add collateral) on the resulting health factor before recommending one.",
+      "source": "aave/skills#3fec2a661968940e5431351f1fe5903452d02981",
+      "skill": "deleverage",
+      "url": "https://github.com/aave/skills/tree/3fec2a661968940e5431351f1fe5903452d02981/plugins/mcp/skills/deleverage"
+    },
+    {
+      "name": "safe-transactions",
+      "description": "Prepare an Aave state change — supply, borrow, withdraw, repay, or any other prepare_* action — when asked to supply/borrow/repay/withdraw, close or adjust a position, or build an Aave transaction.",
+      "source": "aave/skills#3fec2a661968940e5431351f1fe5903452d02981",
+      "skill": "safe-transactions",
+      "url": "https://github.com/aave/skills/tree/3fec2a661968940e5431351f1fe5903452d02981/plugins/mcp/skills/safe-transactions"
+    },
+    {
+      "name": "tx-confirmation",
+      "description": "Confirm what an Aave transaction did after the user signed it — \"did it go through\", \"was my supply processed\", \"check my transaction\" — by reading the position it left behind and comparing with what was simulated.",
+      "source": "aave/skills#3fec2a661968940e5431351f1fe5903452d02981",
+      "skill": "tx-confirmation",
+      "url": "https://github.com/aave/skills/tree/3fec2a661968940e5431351f1fe5903452d02981/plugins/mcp/skills/tx-confirmation"
+    },
+    {
+      "name": "yield-analysis",
+      "description": "Compare Aave yields and rates — best APY for an asset, rates across chains or between V3 and V4, APY history and stability, GHO savings (sGHO) — before recommending where to supply or borrow.",
+      "source": "aave/skills#3fec2a661968940e5431351f1fe5903452d02981",
+      "skill": "yield-analysis",
+      "url": "https://github.com/aave/skills/tree/3fec2a661968940e5431351f1fe5903452d02981/plugins/mcp/skills/yield-analysis"
+    }
+  ]
 }

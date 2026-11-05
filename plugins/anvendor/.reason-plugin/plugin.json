@@ -1,0 +1,13 @@
+{
+  "name": "anvendor",
+  "displayName": "anVendor",
+  "description": "Find competitor customers.",
+  "homepage": "https://anvendor.com",
+  "docs": "https://anvendor.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "anvendor": {
+      "url": "https://api.anvendor.com/mcp"
+    }
+  }
+}

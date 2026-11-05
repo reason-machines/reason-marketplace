@@ -1,0 +1,13 @@
+{
+  "name": "60fps",
+  "displayName": "60fps",
+  "description": "Search real iOS interactions.",
+  "homepage": "https://60fps.design/llms.txt",
+  "docs": "https://60fps.design/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "60fps": {
+      "url": "https://mcp.60fps.design/mcp"
+    }
+  }
+}

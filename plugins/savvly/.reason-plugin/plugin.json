@@ -1,0 +1,13 @@
+{
+  "name": "savvly",
+  "displayName": "Savvly",
+  "description": "Model retirement scenarios.",
+  "homepage": "https://www.savvly.com",
+  "docs": "https://www.savvly.com",
+  "auth": "none",
+  "mcpServers": {
+    "savvly": {
+      "url": "https://api.savvly.com/mcp"
+    }
+  }
+}

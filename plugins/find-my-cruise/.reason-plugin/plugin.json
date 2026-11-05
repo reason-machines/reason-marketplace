@@ -1,0 +1,13 @@
+{
+  "name": "find-my-cruise",
+  "displayName": "Find My Cruise",
+  "description": "Search cruises by port & date.",
+  "homepage": "https://thecruisinginsider.com/",
+  "docs": "https://thecruisinginsider.com/",
+  "auth": "none",
+  "mcpServers": {
+    "find-my-cruise": {
+      "url": "https://thecruisinginsider.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lnw-biblical-companion",
+  "displayName": "LNW Biblical Companion",
+  "description": "Biblical clarity for life.",
+  "homepage": "https://biblically-live-now-well.com",
+  "docs": "https://biblically-live-now-well.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lnw-biblical-companion": {
+      "url": "https://biblically-live-now-well.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "licitaia-public",
+  "displayName": "licitaIA",
+  "description": "Licitaciones públicas España.",
+  "homepage": "https://licitaia.org",
+  "docs": "https://licitaia.org/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "licitaia-public": {
+      "url": "https://api.licitaia.org/api/mcp"
+    }
+  }
+}

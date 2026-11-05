@@ -1,0 +1,13 @@
+{
+  "name": "dev-6acdafbf138c819188997fef8ae1a84b",
+  "displayName": "더블유쇼핑",
+  "description": "더블유쇼핑 상품 검색 및 맞춤 추천.",
+  "homepage": "https://www.w-shopping.co.kr/",
+  "docs": "https://www.w-shopping.co.kr/",
+  "auth": "none",
+  "mcpServers": {
+    "dev-6acdafbf138c819188997fef8ae1a84b": {
+      "url": "https://mcp.w-shopping.co.kr/mcp"
+    }
+  }
+}

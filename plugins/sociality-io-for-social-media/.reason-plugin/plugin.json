@@ -1,0 +1,13 @@
+{
+  "name": "sociality-io-for-social-media",
+  "displayName": "Sociality.io for social media",
+  "description": "Track analytics, compare data.",
+  "homepage": "https://sociality.io/",
+  "docs": "https://sociality.io/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "sociality-io-for-social-media": {
+      "url": "https://api.sociality.io/mcp"
+    }
+  }
+}

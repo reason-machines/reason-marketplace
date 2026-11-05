@@ -1,0 +1,13 @@
+{
+  "name": "grunda",
+  "displayName": "Grunda",
+  "description": "Signera avtal med BankID.",
+  "homepage": "https://grunda.co",
+  "docs": "https://grunda.co",
+  "auth": "none",
+  "mcpServers": {
+    "grunda": {
+      "url": "https://grunda.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "atlys",
+  "displayName": "Atlys",
+  "description": "Get Your Visa on Time.",
+  "homepage": "https://www.atlys.com/",
+  "docs": "https://www.atlys.com/",
+  "auth": "none",
+  "mcpServers": {
+    "atlys": {
+      "url": "https://mcp.atlys.com/mcp"
+    }
+  }
+}

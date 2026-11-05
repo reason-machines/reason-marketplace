@@ -1,0 +1,13 @@
+{
+  "name": "every",
+  "displayName": "Every",
+  "description": "Invoice, track deals, get paid.",
+  "homepage": "https://every.ai",
+  "docs": "https://every.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "every": {
+      "url": "https://admin-mcp.every.ai/mcp"
+    }
+  }
+}

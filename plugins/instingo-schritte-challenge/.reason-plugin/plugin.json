@@ -1,0 +1,13 @@
+{
+  "name": "instingo-schritte-challenge",
+  "displayName": "instingo - Schritte Challenge",
+  "description": "Schritte Challenge für Teams.",
+  "homepage": "https://www.instingo.de",
+  "docs": "https://www.instingo.de",
+  "auth": "none",
+  "mcpServers": {
+    "instingo-schritte-challenge": {
+      "url": "https://instingo.de/mcp"
+    }
+  }
+}

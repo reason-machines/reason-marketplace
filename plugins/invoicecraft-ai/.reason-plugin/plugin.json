@@ -1,0 +1,13 @@
+{
+  "name": "invoicecraft-ai",
+  "displayName": "InvoiceCraft AI",
+  "description": "Create service invoices.",
+  "homepage": "https://invoicecraft-ai.vercel.app",
+  "docs": "https://invoicecraft-ai.vercel.app",
+  "auth": "none",
+  "mcpServers": {
+    "invoicecraft-ai": {
+      "url": "https://invoicecraft-ai.vercel.app/mcp"
+    }
+  }
+}

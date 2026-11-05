@@ -1,0 +1,13 @@
+{
+  "name": "threshold",
+  "displayName": "Threshold",
+  "description": "Book vacation rentals directly.",
+  "homepage": "https://threshold.rentals",
+  "docs": "https://threshold.rentals/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "threshold": {
+      "url": "https://threshold.rentals/api/mcp"
+    }
+  }
+}

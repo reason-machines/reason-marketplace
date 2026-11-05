@@ -1,0 +1,13 @@
+{
+  "name": "xmind",
+  "displayName": "Xmind",
+  "description": "Mind mapping, organize ideas.",
+  "homepage": "https://xmind.com",
+  "docs": "https://app.xmind.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "xmind": {
+      "url": "https://app.xmind.com/api/mcp"
+    }
+  }
+}

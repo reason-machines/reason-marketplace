@@ -1,0 +1,13 @@
+{
+  "name": "ocoya",
+  "displayName": "Ocoya",
+  "description": "Social media management.",
+  "homepage": "https://www.ocoya.com",
+  "docs": "https://www.ocoya.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ocoya": {
+      "url": "https://mcp.ocoya.com/"
+    }
+  }
+}

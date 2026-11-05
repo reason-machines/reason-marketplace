@@ -1,0 +1,13 @@
+{
+  "name": "nashville-real-estate-ai",
+  "displayName": "Nashville Real Estate AI",
+  "description": "Saves Real Estate Agents Time.",
+  "homepage": "https://chatgptmcpzip.replit.app",
+  "docs": "https://chatgptmcpzip.replit.app",
+  "auth": "none",
+  "mcpServers": {
+    "nashville-real-estate-ai": {
+      "url": "https://chatgptmcpzip.replit.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rocketship",
+  "displayName": "Rocketship: Get Customers",
+  "description": "Find buyers, get customers.",
+  "homepage": "https://deployrocketship.com",
+  "docs": "https://deployrocketship.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "rocketship": {
+      "url": "https://deployrocketship.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "publicdata-au",
+  "displayName": "publicdata.au",
+  "description": "Australian government data.",
+  "homepage": "https://publicdata.au",
+  "docs": "https://publicdata.au",
+  "auth": "none",
+  "mcpServers": {
+    "publicdata-au": {
+      "url": "https://publicdata.au/mcp"
+    }
+  }
+}

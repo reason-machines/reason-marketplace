@@ -1,0 +1,13 @@
+{
+  "name": "sonar-connections",
+  "displayName": "Sonar Connections",
+  "description": "Event floors and open data.",
+  "homepage": "https://sonarconnections.com",
+  "docs": "https://sonarconnections.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sonar-connections": {
+      "url": "https://mcp.sonarconnections.com/"
+    }
+  }
+}

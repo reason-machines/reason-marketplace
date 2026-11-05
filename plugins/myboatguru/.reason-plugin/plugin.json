@@ -1,0 +1,13 @@
+{
+  "name": "myboatguru",
+  "displayName": "MyBoatGuru",
+  "description": "Find the right boat for you.",
+  "homepage": "https://myboatguru.com",
+  "docs": "https://myboatguru.com",
+  "auth": "none",
+  "mcpServers": {
+    "myboatguru": {
+      "url": "https://myboatguru.com/mcp"
+    }
+  }
+}

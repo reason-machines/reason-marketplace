@@ -1,0 +1,13 @@
+{
+  "name": "atmy",
+  "displayName": "Atmy",
+  "description": "Air quality and weather.",
+  "homepage": "https://atmy.ai/",
+  "docs": "https://atmy.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "atmy": {
+      "url": "https://api.atmy.ai/mcp"
+    }
+  }
+}

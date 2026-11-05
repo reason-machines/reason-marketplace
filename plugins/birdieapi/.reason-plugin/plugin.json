@@ -1,0 +1,13 @@
+{
+  "name": "birdieapi",
+  "displayName": "BirdieAPI",
+  "description": "Golf data and stats.",
+  "homepage": "https://birdieapi.com",
+  "docs": "https://birdieapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "birdieapi": {
+      "url": "https://mcp.birdieapi.com/mcp"
+    }
+  }
+}

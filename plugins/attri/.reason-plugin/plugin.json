@@ -1,0 +1,13 @@
+{
+  "name": "attri",
+  "displayName": "Attri",
+  "description": "Site analytics, links, SEO/AEO.",
+  "homepage": "https://attri.io",
+  "docs": "https://attri.io/docs/api/assistants/",
+  "auth": "oauth",
+  "mcpServers": {
+    "attri": {
+      "url": "https://app.attri.io/mcp"
+    }
+  }
+}

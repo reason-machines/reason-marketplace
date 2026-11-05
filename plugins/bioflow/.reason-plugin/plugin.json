@@ -1,0 +1,13 @@
+{
+  "name": "bioflow",
+  "displayName": "BioFlow",
+  "description": "Manage your link-in-bio page.",
+  "homepage": "https://getbioflow.com",
+  "docs": "https://getbioflow.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "bioflow": {
+      "url": "https://app.getbioflow.com/api/mcp"
+    }
+  }
+}

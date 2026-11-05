@@ -1,0 +1,13 @@
+{
+  "name": "clearance-critter",
+  "displayName": "Clearance Critter",
+  "description": "Find US clearance deals.",
+  "homepage": "https://clearancecritter.com/",
+  "docs": "https://clearancecritter.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "clearance-critter": {
+      "url": "https://clearancecritter.com/api/mcp"
+    }
+  }
+}

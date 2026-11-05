@@ -1,0 +1,13 @@
+{
+  "name": "gradients-studio",
+  "displayName": "Gradients Studio",
+  "description": "Backgrounds for sites & decks.",
+  "homepage": "https://www.gradients.studio",
+  "docs": "https://www.gradients.studio",
+  "auth": "none",
+  "mcpServers": {
+    "gradients-studio": {
+      "url": "https://gradients.studio/mcp"
+    }
+  }
+}

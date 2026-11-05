@@ -1,0 +1,13 @@
+{
+  "name": "gsc-wizard-seo-analysis",
+  "displayName": "GSC Wizard - SEO analysis",
+  "description": "Search Console, Bing and GA4.",
+  "homepage": "https://www.gscwizard.com",
+  "docs": "https://www.gscwizard.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "gsc-wizard-seo-analysis": {
+      "url": "https://mcp.gscwizard.com/mcp"
+    }
+  }
+}

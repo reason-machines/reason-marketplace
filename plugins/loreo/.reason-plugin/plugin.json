@@ -1,0 +1,13 @@
+{
+  "name": "loreo",
+  "displayName": "Loreo",
+  "description": "Recall meetings and actions.",
+  "homepage": "https://getloreo.com",
+  "docs": "https://getloreo.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "loreo": {
+      "url": "https://api.getloreo.com/mcp"
+    }
+  }
+}

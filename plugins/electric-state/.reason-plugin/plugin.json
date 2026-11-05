@@ -1,0 +1,13 @@
+{
+  "name": "electric-state",
+  "displayName": "Electric State",
+  "description": "Festival set times & bookings.",
+  "homepage": "https://www.electricstate.app",
+  "docs": "https://electricstate.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "electric-state": {
+      "url": "https://api.electricstate.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "moniary",
+  "displayName": "Moniary",
+  "description": "Your accounting in Moniary.",
+  "homepage": "https://moniary.com",
+  "docs": "https://moniary.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "moniary": {
+      "url": "https://moniary.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "guanyin-oracle",
+  "displayName": "Guanyin Oracle ·  观音灵签",
+  "description": "Chinese-first oracle ritual.",
+  "homepage": "https://guanyin-oracle.vercel.app/",
+  "docs": "https://guanyin-oracle.vercel.app/",
+  "auth": "none",
+  "mcpServers": {
+    "guanyin-oracle": {
+      "url": "https://guanyin-oracle.vercel.app/mcp"
+    }
+  }
+}

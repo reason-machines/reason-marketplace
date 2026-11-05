@@ -1,0 +1,13 @@
+{
+  "name": "fugle-stock",
+  "displayName": "Fugle-Stock",
+  "description": "串接富果投資平台，管理您的追蹤清單、投資筆記、到價提醒和市場.",
+  "homepage": "https://fugle.ai",
+  "docs": "https://mcptop.com/server/fugle",
+  "auth": "oauth",
+  "mcpServers": {
+    "fugle-stock": {
+      "url": "https://www.fugle.tw/api/v2/mcp"
+    }
+  }
+}

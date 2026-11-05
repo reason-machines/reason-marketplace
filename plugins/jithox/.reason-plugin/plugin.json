@@ -1,0 +1,13 @@
+{
+  "name": "jithox",
+  "displayName": "Jithox",
+  "description": "Invoice and IBAN checks.",
+  "homepage": "https://jithox.com/connect-your-ai",
+  "docs": "https://jithox.com/connect-your-ai",
+  "auth": "none",
+  "mcpServers": {
+    "jithox": {
+      "url": "https://jithox.com/mcp"
+    }
+  }
+}

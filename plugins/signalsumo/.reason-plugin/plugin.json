@@ -1,0 +1,13 @@
+{
+  "name": "signalsumo",
+  "displayName": "SignalSumo",
+  "description": "Your SEO Data in Reason.",
+  "homepage": "https://signalsumo.com",
+  "docs": "https://signalsumo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "signalsumo": {
+      "url": "https://signalsumo.com/mcp"
+    }
+  }
+}

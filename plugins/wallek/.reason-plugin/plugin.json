@@ -1,0 +1,13 @@
+{
+  "name": "wallek",
+  "displayName": "WalleK",
+  "description": "Track money, bills, statements.",
+  "homepage": "https://wallek.app",
+  "docs": "https://wallek.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "wallek": {
+      "url": "https://wallek.app/mcp"
+    }
+  }
+}

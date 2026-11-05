@@ -1,0 +1,13 @@
+{
+  "name": "biddingsimple",
+  "displayName": "BiddingSimple",
+  "description": "Find U.S bids and tenders.",
+  "homepage": "https://biddingsimple.com/connect",
+  "docs": "https://biddingsimple.com/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "biddingsimple": {
+      "url": "https://biddingsimple.com/mcp"
+    }
+  }
+}

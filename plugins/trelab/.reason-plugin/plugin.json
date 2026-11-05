@@ -1,0 +1,13 @@
+{
+  "name": "trelab",
+  "displayName": "TRELAB",
+  "description": "Public status and architecture.",
+  "homepage": "https://trematria.com",
+  "docs": "https://trematria.com",
+  "auth": "none",
+  "mcpServers": {
+    "trelab": {
+      "url": "https://mcp.trematria.com/mcp"
+    }
+  }
+}

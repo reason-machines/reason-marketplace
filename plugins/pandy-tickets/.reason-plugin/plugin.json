@@ -1,0 +1,13 @@
+{
+  "name": "pandy-tickets",
+  "displayName": "Pandy Tickets",
+  "description": "Find and host Guatemala events.",
+  "homepage": "https://tickets.pandy.cloud",
+  "docs": "https://tickets.pandy.cloud/developers",
+  "auth": "none",
+  "mcpServers": {
+    "pandy-tickets": {
+      "url": "https://tickets.pandy.cloud/mcp"
+    }
+  }
+}

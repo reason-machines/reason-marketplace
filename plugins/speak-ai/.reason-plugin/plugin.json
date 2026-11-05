@@ -1,0 +1,13 @@
+{
+  "name": "speak-ai",
+  "displayName": "Speak AI",
+  "description": "Meeting and recording insights.",
+  "homepage": "https://docs.speakai.co/",
+  "docs": "https://docs.speakai.co/",
+  "auth": "oauth",
+  "mcpServers": {
+    "speak-ai": {
+      "url": "https://api.speakai.co/v1/mcp"
+    }
+  }
+}

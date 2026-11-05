@@ -1,0 +1,13 @@
+{
+  "name": "kikaret",
+  "displayName": "KIKARET",
+  "description": "Find childcare facility facts.",
+  "homepage": "https://kikaret.ai",
+  "docs": "https://kikaret.ai",
+  "auth": "none",
+  "mcpServers": {
+    "kikaret": {
+      "url": "https://mcp.kikaret.ai/mcp"
+    }
+  }
+}

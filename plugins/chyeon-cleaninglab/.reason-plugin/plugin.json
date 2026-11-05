@@ -1,0 +1,13 @@
+{
+  "name": "chyeon-cleaninglab",
+  "displayName": "청연 (청소연구소)",
+  "description": "일상에 도움이 필요한 순간, 청연.",
+  "homepage": "https://www.chyeon.com",
+  "docs": "https://www.chyeon.com",
+  "auth": "none",
+  "mcpServers": {
+    "chyeon-cleaninglab": {
+      "url": "https://mcp.chyeon.com/mcp"
+    }
+  }
+}

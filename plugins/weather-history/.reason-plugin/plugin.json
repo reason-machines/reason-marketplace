@@ -1,0 +1,13 @@
+{
+  "name": "weather-history",
+  "displayName": "Zovo Weather History",
+  "description": "Past weather & daily logs.",
+  "homepage": "https://weather-history.zovo.one",
+  "docs": "https://weather-history.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "weather-history": {
+      "url": "https://weather-history.zovo.one/mcp"
+    }
+  }
+}

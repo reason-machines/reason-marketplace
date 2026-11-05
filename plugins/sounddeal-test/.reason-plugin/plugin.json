@@ -1,0 +1,13 @@
+{
+  "name": "sounddeal-test",
+  "displayName": "SoundDeal",
+  "description": "Music deal benchmarks.",
+  "homepage": "https://www.sounddeal.com",
+  "docs": "https://www.sounddeal.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "sounddeal-test": {
+      "url": "https://www.sounddeal.com/api/mcp"
+    }
+  }
+}

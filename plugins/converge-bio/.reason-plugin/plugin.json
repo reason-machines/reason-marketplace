@@ -1,0 +1,13 @@
+{
+  "name": "converge-bio",
+  "displayName": "Converge Bio",
+  "description": "Antibody leads and patent data.",
+  "homepage": "https://converge-bio.com",
+  "docs": "https://converge-bio.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "converge-bio": {
+      "url": "https://mcp.converge-bio.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "unusual-whales",
+  "displayName": "Unusual Whales",
+  "description": "Options flow, GEX, screeners.",
+  "homepage": "https://unusualwhales.com",
+  "docs": "https://unusualwhales.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "unusual-whales": {
+      "url": "https://mcp.unusualwhales.com/mcp"
+    }
+  }
+}

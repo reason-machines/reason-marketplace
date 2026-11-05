@@ -1,0 +1,13 @@
+{
+  "name": "taliara",
+  "displayName": "Taliara",
+  "description": "Run client work with AI.",
+  "homepage": "https://www.taliara.io/",
+  "docs": "https://www.taliara.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "taliara": {
+      "url": "https://app.taliara.co.uk/api/mcp"
+    }
+  }
+}

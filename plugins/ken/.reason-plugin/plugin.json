@@ -1,0 +1,13 @@
+{
+  "name": "ken",
+  "displayName": "Kenso",
+  "description": "Run your cold email outreach.",
+  "homepage": "https://ken.so",
+  "docs": "https://ken.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "ken": {
+      "url": "https://mcp.ken.so/mcp"
+    }
+  }
+}

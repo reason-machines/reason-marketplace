@@ -1,0 +1,13 @@
+{
+  "name": "verbamor",
+  "displayName": "Verbamor",
+  "description": "Flashcards from your practice.",
+  "homepage": "https://verbamor.com",
+  "docs": "https://verbamor.com",
+  "auth": "none",
+  "mcpServers": {
+    "verbamor": {
+      "url": "https://mcp.verbamor.com/mcp"
+    }
+  }
+}

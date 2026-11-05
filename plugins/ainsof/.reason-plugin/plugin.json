@@ -1,0 +1,13 @@
+{
+  "name": "ainsof",
+  "displayName": "AINSOF",
+  "description": "Soundtrack your vision.",
+  "homepage": "https://ainsof.io",
+  "docs": "https://ainsof.io",
+  "auth": "none",
+  "mcpServers": {
+    "ainsof": {
+      "url": "https://mcp.ainsof.io/mcp"
+    }
+  }
+}

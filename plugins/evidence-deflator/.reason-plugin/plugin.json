@@ -1,0 +1,13 @@
+{
+  "name": "evidence-deflator",
+  "displayName": "Evidence Deflator",
+  "description": "Trader skill, or just luck?",
+  "homepage": "https://evidencedeflator.com",
+  "docs": "https://evidencedeflator.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "evidence-deflator": {
+      "url": "https://api.evidencedeflator.com/mcp"
+    }
+  }
+}

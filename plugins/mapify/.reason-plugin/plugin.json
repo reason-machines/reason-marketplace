@@ -1,0 +1,13 @@
+{
+  "name": "mapify",
+  "displayName": "Mapify",
+  "description": "Turn anything into mind maps.",
+  "homepage": "https://mapify.so",
+  "docs": "https://mapify.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "mapify": {
+      "url": "https://mapify.so/mcp"
+    }
+  }
+}

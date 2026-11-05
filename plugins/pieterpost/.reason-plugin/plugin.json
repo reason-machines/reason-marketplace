@@ -1,0 +1,13 @@
+{
+  "name": "pieterpost",
+  "displayName": "PieterPost",
+  "description": "Send letters, postcards, cards.",
+  "homepage": "https://pieterpost.com/en/",
+  "docs": "https://pieterpost.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "pieterpost": {
+      "url": "https://pieterpost.com/mcp/public/"
+    }
+  }
+}

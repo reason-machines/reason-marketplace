@@ -1,0 +1,13 @@
+{
+  "name": "kiedykoncert",
+  "displayName": "KiedyKoncert",
+  "description": "Kalendarz koncertów w Polsce.",
+  "homepage": "https://kiedykoncert.pl/",
+  "docs": "https://kiedykoncert.pl/",
+  "auth": "none",
+  "mcpServers": {
+    "kiedykoncert": {
+      "url": "https://kiedykoncert.pl/mcp"
+    }
+  }
+}

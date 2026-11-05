@@ -1,0 +1,13 @@
+{
+  "name": "commsync",
+  "displayName": "CommSync",
+  "description": "Read and send SMS and email.",
+  "homepage": "https://commsync.ai",
+  "docs": "https://commsync.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "commsync": {
+      "url": "https://server.commsync.ai/api/mcp"
+    }
+  }
+}

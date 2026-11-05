@@ -1,0 +1,13 @@
+{
+  "name": "papely",
+  "displayName": "Papely",
+  "description": "Generate PDFs from templates.",
+  "homepage": "https://papely.app",
+  "docs": "https://api.papely.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "papely": {
+      "url": "https://api.papely.app/api/integrations/mcp/v1"
+    }
+  }
+}

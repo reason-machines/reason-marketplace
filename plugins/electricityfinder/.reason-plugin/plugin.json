@@ -1,0 +1,13 @@
+{
+  "name": "electricityfinder",
+  "displayName": "ElectricityFinder",
+  "description": "Compare Texas power plans.",
+  "homepage": "https://electricityfinder.online",
+  "docs": "https://electricityfinder.online",
+  "auth": "none",
+  "mcpServers": {
+    "electricityfinder": {
+      "url": "https://electricityfinder.online/mcp"
+    }
+  }
+}

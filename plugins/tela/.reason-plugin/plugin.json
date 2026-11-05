@@ -1,0 +1,13 @@
+{
+  "name": "tela",
+  "displayName": "Tela",
+  "description": "Team wiki with semantic search.",
+  "homepage": "https://telawiki.com",
+  "docs": "https://telawiki.com/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "tela": {
+      "url": "https://telawiki.com/api/mcp"
+    }
+  }
+}

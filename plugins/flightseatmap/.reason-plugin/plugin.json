@@ -1,0 +1,13 @@
+{
+  "name": "flightseatmap",
+  "displayName": "FlightSeatMap",
+  "description": "Find the best seat on a flight.",
+  "homepage": "https://flightseatmap.com",
+  "docs": "https://flightseatmap.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "flightseatmap": {
+      "url": "https://mcp.flightseatmap.com/mcp"
+    }
+  }
+}

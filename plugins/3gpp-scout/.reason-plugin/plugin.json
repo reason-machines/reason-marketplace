@@ -1,0 +1,22 @@
+{
+  "name": "3gpp-scout",
+  "displayName": "3GPP Scout",
+  "description": "Search 3GPP specs and TDocs.",
+  "homepage": "https://3gppscout.com/",
+  "docs": "https://3gppscout.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "3gpp-scout": {
+      "url": "https://api.3gppscout.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "3gpp-scout",
+      "description": "Answer questions about 3GPP specifications (TS and TR, Rel-15 through Rel-20), TDocs, meetings and company positions with the 3GPP Scout MCP tools. Use for 5G NR, LTE, RAN, 5G core, NAS, security or charging questions that need spec text and citations.",
+      "source": "carrotlabsai/3gpp-scout-mcp#6d1266d87fe377f96b6de03a5e86c45d0d9266df",
+      "skill": "3gpp-scout",
+      "url": "https://github.com/carrotlabsai/3gpp-scout-mcp/tree/6d1266d87fe377f96b6de03a5e86c45d0d9266df/plugins/3gpp-scout/skills/3gpp-scout"
+    }
+  ]
+}

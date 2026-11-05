@@ -1,0 +1,13 @@
+{
+  "name": "pet-insurance-comparison",
+  "displayName": "Pet Insurance Comparison",
+  "description": "Find insurance for pets.",
+  "homepage": "https://fletch.co/",
+  "docs": "https://tedix.dev/apps/pet-insurance-comparison/",
+  "auth": "none",
+  "mcpServers": {
+    "pet-insurance-comparison": {
+      "url": "https://fletch-mcp-server.fletch.co/mcp/fletchpet"
+    }
+  }
+}

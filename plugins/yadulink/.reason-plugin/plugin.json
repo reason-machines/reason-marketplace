@@ -1,0 +1,13 @@
+{
+  "name": "yadulink",
+  "displayName": "Yadulink",
+  "description": "Manage LinkedIn outreach.",
+  "homepage": "https://yadulink.com",
+  "docs": "https://yadulink.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "yadulink": {
+      "url": "https://mcp.yadulink.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "whisperai",
+  "displayName": "WhisperAI",
+  "description": "Transcribe and search audio.",
+  "homepage": "https://whisperai.com",
+  "docs": "https://whisperai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "whisperai": {
+      "url": "https://whisperai.com/mcp"
+    }
+  }
+}

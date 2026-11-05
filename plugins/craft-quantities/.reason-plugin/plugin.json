@@ -1,0 +1,13 @@
+{
+  "name": "craft-quantities",
+  "displayName": "Craft Quantities",
+  "description": "Construction quantities, cited.",
+  "homepage": "https://craftquantities.com",
+  "docs": "https://craftquantities.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "craft-quantities": {
+      "url": "https://api.craftquantities.com/mcp"
+    }
+  }
+}

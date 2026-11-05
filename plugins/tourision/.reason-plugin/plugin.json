@@ -1,0 +1,13 @@
+{
+  "name": "tourision",
+  "displayName": "Tourision",
+  "description": "360° virtual tours in chat.",
+  "homepage": "https://tourision.com/",
+  "docs": "https://tourision.com/tourision-chatgpt-claude-chrome/",
+  "auth": "none",
+  "mcpServers": {
+    "tourision": {
+      "url": "https://app.tourision.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "walletpassbuilder",
+  "displayName": "WalletPassBuilder",
+  "description": "Apple & Google Wallet passes.",
+  "homepage": "https://walletpassbuilder.com/integrations",
+  "docs": "https://walletpassbuilder.com/guides/create-apple-wallet-pass-with-claude",
+  "auth": "oauth",
+  "mcpServers": {
+    "walletpassbuilder": {
+      "url": "https://walletpassbuilder.com/api/mcp"
+    }
+  }
+}

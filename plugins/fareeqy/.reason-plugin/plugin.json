@@ -1,0 +1,13 @@
+{
+  "name": "fareeqy",
+  "displayName": "Fareeqy | فريقي",
+  "description": "Manage your team's tasks.",
+  "homepage": "https://fareeqy.com",
+  "docs": "https://fareeqy.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "fareeqy": {
+      "url": "https://app.fareeqy.com/api/mcp"
+    }
+  }
+}

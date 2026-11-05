@@ -1,0 +1,13 @@
+{
+  "name": "frameo-ai",
+  "displayName": "Frameo.AI",
+  "description": "Turn ideas into finished video.",
+  "homepage": "https://frameo.ai",
+  "docs": "https://frameo.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "frameo-ai": {
+      "url": "https://mcp.frameo.ai/mcp"
+    }
+  }
+}

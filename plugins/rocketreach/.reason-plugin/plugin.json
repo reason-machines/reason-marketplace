@@ -1,0 +1,13 @@
+{
+  "name": "rocketreach",
+  "displayName": "RocketReach",
+  "description": "Verified emails and phones.",
+  "homepage": "https://rocketreach.co",
+  "docs": "https://rocketreach.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "rocketreach": {
+      "url": "https://mcp.rocketreach.co/mcp"
+    }
+  }
+}

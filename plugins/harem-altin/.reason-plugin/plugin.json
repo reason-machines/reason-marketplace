@@ -1,0 +1,13 @@
+{
+  "name": "harem-altin",
+  "displayName": "Harem Altın",
+  "description": "Altın fiyatı ve çevirici.",
+  "homepage": "https://www.haremaltin.com",
+  "docs": "https://www.haremaltin.com",
+  "auth": "none",
+  "mcpServers": {
+    "harem-altin": {
+      "url": "https://mcp.haremaltin.com/mcp"
+    }
+  }
+}

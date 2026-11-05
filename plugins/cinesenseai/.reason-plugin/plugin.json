@@ -1,0 +1,13 @@
+{
+  "name": "cinesenseai",
+  "displayName": "CineSenseAI",
+  "description": "Films by mood, age and content.",
+  "homepage": "https://cinesenseai.com",
+  "docs": "https://cinesenseai.com/en/developers",
+  "auth": "none",
+  "mcpServers": {
+    "cinesenseai": {
+      "url": "https://api.cinesenseai.com/mcp"
+    }
+  }
+}

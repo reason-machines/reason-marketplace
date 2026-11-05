@@ -1,0 +1,13 @@
+{
+  "name": "codewords",
+  "displayName": "CodeWords",
+  "description": "Build agents and automations.",
+  "homepage": "https://codewords.ai/",
+  "docs": "https://codewords.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "codewords": {
+      "url": "https://runtime.codewords.ai/run/devx_mcp/mcp"
+    }
+  }
+}

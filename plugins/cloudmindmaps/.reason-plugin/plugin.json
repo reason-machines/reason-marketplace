@@ -1,0 +1,13 @@
+{
+  "name": "cloudmindmaps",
+  "displayName": "CloudMindMaps",
+  "description": "Create and share mind maps.",
+  "homepage": "https://cloudmindmaps.app",
+  "docs": "https://cloudmindmaps.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudmindmaps": {
+      "url": "https://cloudmindmaps.app/mcp"
+    }
+  }
+}

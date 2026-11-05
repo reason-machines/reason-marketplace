@@ -1,0 +1,13 @@
+{
+  "name": "webaz-shopping",
+  "displayName": "WebAZ Shopping",
+  "description": "Find and compare products.",
+  "homepage": "https://webaz.xyz",
+  "docs": "https://webaz.xyz",
+  "auth": "none",
+  "mcpServers": {
+    "webaz-shopping": {
+      "url": "https://webaz.xyz/mcp"
+    }
+  }
+}

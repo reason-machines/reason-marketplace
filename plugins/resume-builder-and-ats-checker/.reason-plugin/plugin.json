@@ -1,0 +1,13 @@
+{
+  "name": "resume-builder-and-ats-checker",
+  "displayName": "Resume Builder & ATS Checker",
+  "description": "CV checker & job tailoring.",
+  "homepage": "https://resumenext.io",
+  "docs": "https://resumenext.io/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "resume-builder-and-ats-checker": {
+      "url": "https://resumenext.io/api/claude/resume/mcp"
+    }
+  }
+}

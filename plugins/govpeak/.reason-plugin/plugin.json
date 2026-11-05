@@ -1,0 +1,13 @@
+{
+  "name": "govpeak",
+  "displayName": "GovPeak",
+  "description": "Federal BD and capture CRM.",
+  "homepage": "https://gov-peak.com",
+  "docs": "https://gov-peak.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "govpeak": {
+      "url": "https://gov-peak.com/mcp"
+    }
+  }
+}

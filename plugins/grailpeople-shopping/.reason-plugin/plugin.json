@@ -1,0 +1,13 @@
+{
+  "name": "grailpeople-shopping",
+  "displayName": "GrailPeople Shopping",
+  "description": "Find honest product reviews.",
+  "homepage": "https://www.grailpeople.com",
+  "docs": "https://grailpeople.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "grailpeople-shopping": {
+      "url": "https://grailpeople.com/api/mcp"
+    }
+  }
+}

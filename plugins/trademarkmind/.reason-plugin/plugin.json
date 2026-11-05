@@ -1,0 +1,13 @@
+{
+  "name": "trademarkmind",
+  "displayName": "Trademarkmind",
+  "description": "Check brand names and logos.",
+  "homepage": "https://trademarkmind.com",
+  "docs": "https://trademarkmind.com",
+  "auth": "none",
+  "mcpServers": {
+    "trademarkmind": {
+      "url": "https://mcp.trademarkmind.com/mcp"
+    }
+  }
+}

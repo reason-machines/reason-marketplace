@@ -1,0 +1,13 @@
+{
+  "name": "telo",
+  "displayName": "Telo",
+  "description": "Explore your Apple Health.",
+  "homepage": "https://telo.health",
+  "docs": "https://telo.health",
+  "auth": "oauth",
+  "mcpServers": {
+    "telo": {
+      "url": "https://telo.health/mcp"
+    }
+  }
+}

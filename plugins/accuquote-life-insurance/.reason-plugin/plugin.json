@@ -1,0 +1,13 @@
+{
+  "name": "accuquote-life-insurance",
+  "displayName": "AccuQuote Life Insurance",
+  "description": "Find life insurance options.",
+  "homepage": "https://accuquote.com",
+  "docs": "https://tedix.dev/apps/accuquote-life-insurance/",
+  "auth": "none",
+  "mcpServers": {
+    "accuquote-life-insurance": {
+      "url": "https://fletch-mcp-server.fletch.co/mcp/accuquote"
+    }
+  }
+}

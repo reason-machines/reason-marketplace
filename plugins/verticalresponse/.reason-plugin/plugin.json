@@ -1,0 +1,13 @@
+{
+  "name": "verticalresponse",
+  "displayName": "VerticalResponse",
+  "description": "Contacts, lists & email.",
+  "homepage": "https://verticalresponse.com",
+  "docs": "https://verticalresponse.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "verticalresponse": {
+      "url": "https://mcp.verticalresponse.com/mcp"
+    }
+  }
+}

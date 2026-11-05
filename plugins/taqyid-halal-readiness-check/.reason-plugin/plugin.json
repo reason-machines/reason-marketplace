@@ -1,0 +1,13 @@
+{
+  "name": "taqyid-halal-readiness-check",
+  "displayName": "TAQYID | Halal Readiness Check",
+  "description": "For JAKIM halal certification.",
+  "homepage": "https://www.taqyid.com",
+  "docs": "https://www.taqyid.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "taqyid-halal-readiness-check": {
+      "url": "https://readiness.taqyid.cloud/mcp"
+    }
+  }
+}

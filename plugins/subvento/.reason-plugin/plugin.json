@@ -1,0 +1,13 @@
+{
+  "name": "subvento",
+  "displayName": "Subvento",
+  "description": "French public aid by SIREN.",
+  "homepage": "https://subvento.finance",
+  "docs": "https://subvento.finance",
+  "auth": "none",
+  "mcpServers": {
+    "subvento": {
+      "url": "https://subvento.finance/mcp"
+    }
+  }
+}

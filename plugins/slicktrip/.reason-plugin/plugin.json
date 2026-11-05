@@ -1,0 +1,13 @@
+{
+  "name": "slicktrip",
+  "displayName": "SlickTrip",
+  "description": "Track flight and hotel prices.",
+  "homepage": "https://slicktrip.com",
+  "docs": "https://slicktrip.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "slicktrip": {
+      "url": "https://mcp.slicktrip.com/mcp"
+    }
+  }
+}

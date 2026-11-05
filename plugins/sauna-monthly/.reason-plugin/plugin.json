@@ -1,0 +1,13 @@
+{
+  "name": "sauna-monthly",
+  "displayName": "Sauna Monthly",
+  "description": "Sauna reviews and calculators.",
+  "homepage": "https://saunamonthly.com/",
+  "docs": "https://saunamonthly.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "sauna-monthly": {
+      "url": "https://saunamonthly.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sync-labs",
+  "displayName": "sync. labs",
+  "description": "Lipsync, dub & talking photos.",
+  "homepage": "https://sync.so",
+  "docs": "https://sync.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "sync-labs": {
+      "url": "https://mcp.sync.so/mcp"
+    }
+  }
+}

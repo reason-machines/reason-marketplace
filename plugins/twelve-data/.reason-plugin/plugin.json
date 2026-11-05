@@ -1,0 +1,13 @@
+{
+  "name": "twelve-data",
+  "displayName": "Twelve Data",
+  "description": "Financial market data.",
+  "homepage": "https://twelvedata.com",
+  "docs": "https://twelvedata.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "twelve-data": {
+      "url": "https://mcp.twelvedata.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "agenda-du-coin",
+  "displayName": "Agenda du coin",
+  "description": "Local outings across France.",
+  "homepage": "https://agendaducoin.fr",
+  "docs": "https://agendaducoin.fr",
+  "auth": "none",
+  "mcpServers": {
+    "agenda-du-coin": {
+      "url": "https://agendaducoin.fr/mcp"
+    }
+  }
+}

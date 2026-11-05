@@ -1,0 +1,13 @@
+{
+  "name": "bestsaaswebdesigns",
+  "displayName": "BestSaaSWebDesigns",
+  "description": "Real SaaS website designs.",
+  "homepage": "https://bestsaaswebdesigns.com/llms.txt",
+  "docs": "https://bestsaaswebdesigns.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "bestsaaswebdesigns": {
+      "url": "https://mcp.bestsaaswebdesigns.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "simpleticket",
+  "displayName": "SimpleTicket",
+  "description": "Your ticket sales backoffice.",
+  "homepage": "https://company.simpleticket.eu",
+  "docs": "https://simpleticket.eu/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "simpleticket": {
+      "url": "https://api.ticketplatform.online/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hostizzy-villas-and-farmstays",
+  "displayName": "Hostizzy Villas & Farmstays",
+  "description": "Find villas and farmstays.",
+  "homepage": "https://book.hostizzy.com/",
+  "docs": "https://book.hostizzy.com/",
+  "auth": "none",
+  "mcpServers": {
+    "hostizzy-villas-and-farmstays": {
+      "url": "https://book.hostizzy.com/api/mcp"
+    }
+  }
+}

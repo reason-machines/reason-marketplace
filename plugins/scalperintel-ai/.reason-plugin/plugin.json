@@ -1,0 +1,13 @@
+{
+  "name": "scalperintel-ai",
+  "displayName": "ScalperIntel AI",
+  "description": "Product answers and support.",
+  "homepage": "https://scalperintel.com",
+  "docs": "https://scalperintel.com",
+  "auth": "none",
+  "mcpServers": {
+    "scalperintel-ai": {
+      "url": "https://mcp.scalperintel.com/mcp"
+    }
+  }
+}

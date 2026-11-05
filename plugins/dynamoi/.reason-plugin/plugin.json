@@ -1,0 +1,13 @@
+{
+  "name": "dynamoi",
+  "displayName": "Dynamoi",
+  "description": "Music promotion & distribution.",
+  "homepage": "https://dynamoi.com",
+  "docs": "https://dynamoi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dynamoi": {
+      "url": "https://dynamoi.com/mcp"
+    }
+  }
+}

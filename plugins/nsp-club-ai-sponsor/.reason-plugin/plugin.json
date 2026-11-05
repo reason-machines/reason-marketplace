@@ -1,0 +1,13 @@
+{
+  "name": "nsp-club-ai-sponsor",
+  "displayName": "NSP Club AI Sponsor",
+  "description": "Practical NSP partner coach.",
+  "homepage": "https://ai-sponsor.nspclub.org",
+  "docs": "https://ai-sponsor.nspclub.org/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "nsp-club-ai-sponsor": {
+      "url": "https://ai-sponsor.nspclub.org/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bites",
+  "displayName": "Bites",
+  "description": "Discover and order food.",
+  "homepage": "https://withbites.com",
+  "docs": "https://withbites.com",
+  "auth": "none",
+  "mcpServers": {
+    "bites": {
+      "url": "https://mcp.withbites.com/mcp"
+    }
+  }
+}

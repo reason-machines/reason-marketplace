@@ -1,0 +1,13 @@
+{
+  "name": "freehire",
+  "displayName": "freehire",
+  "description": "IT jobs from 264 sources.",
+  "homepage": "https://freehire.me",
+  "docs": "https://freehire.me/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "freehire": {
+      "url": "https://freehire.me/api/v1/mcp"
+    }
+  }
+}

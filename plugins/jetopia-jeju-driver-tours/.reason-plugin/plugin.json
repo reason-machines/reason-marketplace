@@ -1,0 +1,13 @@
+{
+  "name": "jetopia-jeju-driver-tours",
+  "displayName": "Jetopia: Jeju Driver Tours",
+  "description": "Private driver tours in Jeju.",
+  "homepage": "https://jetopia.kr/en/about",
+  "docs": "https://jetopia.kr/en/about",
+  "auth": "none",
+  "mcpServers": {
+    "jetopia-jeju-driver-tours": {
+      "url": "https://mcp.jetopia.kr/mcp"
+    }
+  }
+}

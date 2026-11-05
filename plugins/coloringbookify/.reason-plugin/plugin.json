@@ -1,0 +1,13 @@
+{
+  "name": "coloringbookify",
+  "displayName": "ColoringBookify",
+  "description": "Make printable coloring books.",
+  "homepage": "https://coloringbookify.com",
+  "docs": "https://coloringbookify.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "coloringbookify": {
+      "url": "https://coloringbookify.com/mcp"
+    }
+  }
+}

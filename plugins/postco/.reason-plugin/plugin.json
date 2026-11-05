@@ -1,0 +1,13 @@
+{
+  "name": "postco",
+  "displayName": "PostCo",
+  "description": "Analyze your returns data.",
+  "homepage": "https://postco.co/",
+  "docs": "https://postco.co/",
+  "auth": "oauth",
+  "mcpServers": {
+    "postco": {
+      "url": "https://mcp.postco.co/mcp"
+    }
+  }
+}

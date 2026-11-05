@@ -1,0 +1,13 @@
+{
+  "name": "leva",
+  "displayName": "Leva",
+  "description": "Takeoffs from drawings.",
+  "homepage": "https://runleva.com/chatgpt/",
+  "docs": "https://app.runleva.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "leva": {
+      "url": "https://app.runleva.com/assistant/mcp"
+    }
+  }
+}

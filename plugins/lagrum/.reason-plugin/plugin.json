@@ -1,0 +1,13 @@
+{
+  "name": "lagrum",
+  "displayName": "Lagrum",
+  "description": "Swedish legal data.",
+  "homepage": "https://lagrum.se/",
+  "docs": "https://lagrum.se/",
+  "auth": "oauth",
+  "mcpServers": {
+    "lagrum": {
+      "url": "https://mcp.lagrum.se/mcp"
+    }
+  }
+}

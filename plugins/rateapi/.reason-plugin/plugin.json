@@ -1,0 +1,13 @@
+{
+  "name": "rateapi",
+  "displayName": "RateAPI",
+  "description": "Find the best financing rates.",
+  "homepage": "https://rateapi.dev",
+  "docs": "https://rateapi.dev",
+  "auth": "none",
+  "mcpServers": {
+    "rateapi": {
+      "url": "https://mcp.rateapi.dev/mcp"
+    }
+  }
+}

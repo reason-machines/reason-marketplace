@@ -1,0 +1,13 @@
+{
+  "name": "nexus-ai",
+  "displayName": "NEXUS AI",
+  "description": "Deploy and operate AI apps.",
+  "homepage": "https://nexusai.run",
+  "docs": "https://nexusai.run",
+  "auth": "oauth",
+  "mcpServers": {
+    "nexus-ai": {
+      "url": "https://mcp.nexusai.run/mcp"
+    }
+  }
+}

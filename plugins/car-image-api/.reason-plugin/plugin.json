@@ -1,0 +1,13 @@
+{
+  "name": "car-image-api",
+  "displayName": "Car Image API",
+  "description": "Vehicle images in your chat.",
+  "homepage": "https://carimage.dev",
+  "docs": "https://carimage.dev/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "car-image-api": {
+      "url": "https://carimage.dev/api/mcp"
+    }
+  }
+}

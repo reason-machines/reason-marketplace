@@ -1,0 +1,13 @@
+{
+  "name": "ad-vantage",
+  "displayName": "AD Vantage",
+  "description": "Research college athletics.",
+  "homepage": "https://www.athleticdirectorvantage.com",
+  "docs": "https://www.athleticdirectorvantage.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ad-vantage": {
+      "url": "https://mcp.athleticdirectorvantage.com/mcp"
+    }
+  }
+}

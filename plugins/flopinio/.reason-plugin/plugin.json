@@ -1,0 +1,13 @@
+{
+  "name": "flopinio",
+  "displayName": "Flopinio",
+  "description": "Client work, ready for action.",
+  "homepage": "https://flopinio.com",
+  "docs": "https://flopinio.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "flopinio": {
+      "url": "https://flopinio.com/mcp"
+    }
+  }
+}

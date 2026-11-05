@@ -1,0 +1,13 @@
+{
+  "name": "sidequests",
+  "displayName": "SideQuests",
+  "description": "Find Rhode Island Quests.",
+  "homepage": "https://trysidequests.com",
+  "docs": "https://trysidequests.com",
+  "auth": "none",
+  "mcpServers": {
+    "sidequests": {
+      "url": "https://mcp.trysidequests.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "name": "tella",
+  "displayName": "Tella",
+  "description": "Create and edit videos with AI.",
+  "homepage": "https://tella.com",
+  "docs": "https://tella.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "tella": {
+      "url": "https://api.tella.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "tella",
+      "description": "Analyze, edit, and visually verify Tella videos through the Tella MCP. Use for understanding a Tella video or improving it with trims, layouts, overlays, and related timeline edits.",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella"
+    },
+    {
+      "name": "tella-auto-cut",
+      "description": "Tighten a Tella video in one pass through the Tella MCP. Cuts recording mistakes (false starts, retakes, repeated phrases, abandoned sentences), filler words and silent pauses, then cleans up the gaps and broken seams those cuts leave behind. Use when asked to auto cut, auto edit, clean up, or tight",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-auto-cut",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-auto-cut"
+    },
+    {
+      "name": "tella-auto-layouts",
+      "description": "Lay out a Tella clip automatically through the Tella MCP. Picks a base layout and adds timed layout changes (screen focus, camera cutaways, bubble size changes, punch-ins) where they help the viewer, keeping the clip's camera style and pop-out and preferring the user's Favorite layouts. Use when ask",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-auto-layouts",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-auto-layouts"
+    },
+    {
+      "name": "tella-camera-moves",
+      "description": "Move the camera in a Tella video with purpose through the Tella MCP, using zooms into screen recordings (fixed or following the cursor), punch-ins on the speaker, slow zooms on stills, and camera moves inside Tella Motion shots (push in, pull back to reveal, pan between parts, focus pulls), each wit",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-camera-moves",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-camera-moves"
+    },
+    {
+      "name": "tella-carousels",
+      "description": "Show several images, screens or clips as a carousel in Tella Motion, through the Tella MCP, with cards riding one path (a ring, an arc, a row or a stack) driven by one curve, depth from scale, blur and dimming, and the card that matters landing front and centre on its word. Use when asked for a caro",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-carousels",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-carousels"
+    },
+    {
+      "name": "tella-changelog-video",
+      "description": "Turn release notes, a changelog or a list of shipped changes into a short product update video in Tella through the Tella MCP, picking the changes users will notice, one beat per change shown in the real product, in the brand's look, and quick to repeat every release. Use when asked for a changelog ",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-changelog-video",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-changelog-video"
+    },
+    {
+      "name": "tella-data-callouts",
+      "description": "Show the numbers a speaker says in a Tella video as animated graphics, through the Tella MCP, as big stats, before-and-after comparisons, bars, percentages and count-ups, each timed to the spoken number and checked against the transcript. Use when asked to visualize stats, metrics, results, growth, ",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-data-callouts",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-data-callouts"
+    },
+    {
+      "name": "tella-explainer-graphics",
+      "description": "Turn an explanation in a Tella video into a diagram that builds itself as the speaker talks, through the Tella MCP, for processes, flows, architectures, comparisons, hierarchies, timelines and cycles, as Tella Motion b-roll or an overlay, with each part appearing as it is named. Use when asked for e",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-explainer-graphics",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-explainer-graphics"
+    },
+    {
+      "name": "tella-kinetic-type",
+      "description": "Add kinetic typography to a Tella video through the Tella MCP, setting the lines that matter set as animated text that lands on the spoken word. Use when asked for kinetic type, animated text, text callouts, keyword pop-ups, or to make a talking video more dynamic with type. Builds on tella-motion-d",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-kinetic-type",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-kinetic-type"
+    },
+    {
+      "name": "tella-launch-video",
+      "description": "Make a launch, promo or feature announcement video in Tella through the Tella MCP. Asks what is launching and what material exists, picks a launch shape (founder to camera with product graphics, product walkthrough, music-only trailer, vertical feature drop), plans it, then cuts, lays out, shows the",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-launch-video",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-launch-video"
+    },
+    {
+      "name": "tella-motion-design",
+      "description": "The shared rules for motion graphics in a Tella video, used through the Tella MCP, covering one look per video, graphics timed to the spoken word, placement clear of the speaker, and checking the result. Load it whenever you add text, titles or animated graphics to a video, including a general reque",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-motion-design",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-motion-design"
+    },
+    {
+      "name": "tella-plan-video",
+      "description": "Plan a Tella video before anything is recorded or edited, through the Tella MCP. Asks what the video is for, then writes the one-line point, a story outline, a word-for-word script sized to the length, and a shot-by-shot storyboard, and waits for a go. Use when someone wants help with what to say or",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-plan-video",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-plan-video"
+    },
+    {
+      "name": "tella-remove-mistakes",
+      "description": "Find and remove recording mistakes (false starts, retakes, repeated phrases, abandoned sentences, technical interruptions) from a Tella video's transcript through the Tella MCP. Use when asked to remove mistakes, clean up retakes, or tighten a recording by cutting flubbed takes.",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-remove-mistakes",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-remove-mistakes"
+    },
+    {
+      "name": "tella-screen-callouts",
+      "description": "Point at things in a Tella screen recording with callouts, through the Tella MCP, using a highlight that dims everything but the target, paired with a short label naming the step, numbered through a walkthrough and timed to the click or the words that mention it. Use when asked to annotate a demo or",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-screen-callouts",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-screen-callouts"
+    },
+    {
+      "name": "tella-short",
+      "description": "Turn a Tella video into a vertical Short, Reel or TikTok through the Tella MCP: pick its strongest 15 to 60 seconds, make a trimmed 9:16 copy, tighten it, add captions, and lay it out at Shorts pace with a hook, B-roll that moves and the speaker on screen. Shows a scene-by-scene plan first, then bui",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-short",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-short"
+    },
+    {
+      "name": "tella-title-cards",
+      "description": "Design a matching set of title graphics for a Tella video through the Tella MCP, covering an opening title, chapter titles at each topic change, name tags (lower thirds) for people, and an end card, all from one design. Use when asked for titles, an intro or outro title, chapter cards, section heade",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-title-cards",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-title-cards"
+    },
+    {
+      "name": "tella-transitions",
+      "description": "Choose and build transitions in a Tella video through the Tella MCP, using the editor's clip, layout, zoom and overlay transitions, and transitions built in Tella Motion that come from something on screen (zoom through an object, an object growing into the next shot, a mask wipe, a match cut, a whip",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-transitions",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-transitions"
+    },
+    {
+      "name": "tella-ui-interactions",
+      "description": "Recipes for animating product UI behaviour in Tella Motion through the Tella MCP, covering a button press, a menu or modal growing from what was clicked, a toggle, tabs, typing, a field that rejects or accepts, loading into content, a success check, notifications arriving, a sheet sliding up, a list",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-ui-interactions",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-ui-interactions"
+    },
+    {
+      "name": "tella-ui-parallax",
+      "description": "Turn a real product screenshot into a parallax shot in Tella Motion, through the Tella MCP, by cutting its pieces out with masks, stacking them as depth layers over the blurred, dimmed screen, and moving one camera through them so near layers travel further, with shadows, depth blur and an optional ",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-ui-parallax",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-ui-parallax"
+    },
+    {
+      "name": "tella-ui-redraw",
+      "description": "Redraw a product's real screens natively in Tella Motion, through the Tella MCP, as live shapes, text and paths that stay sharp at any zoom and can be edited, simplified to what the shot needs and animated so the product performs its real interaction. Use when asked for animated UI, UI motion graphi",
+      "source": "tellahq/skills#082a7790e9781353cb7f43e0b8fe00258511b6c9",
+      "skill": "tella-ui-redraw",
+      "url": "https://github.com/tellahq/skills/tree/082a7790e9781353cb7f43e0b8fe00258511b6c9/skills/tella-ui-redraw"
+    }
+  ]
+}

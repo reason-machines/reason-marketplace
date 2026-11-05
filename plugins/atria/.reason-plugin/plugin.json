@@ -1,0 +1,13 @@
+{
+  "name": "atria",
+  "displayName": "Atria",
+  "description": "Research ads and brands.",
+  "homepage": "https://tryatria.com",
+  "docs": "https://tryatria.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "atria": {
+      "url": "https://api.tryatria.com/mcp"
+    }
+  }
+}

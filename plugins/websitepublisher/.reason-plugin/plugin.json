@@ -1,0 +1,13 @@
+{
+  "name": "websitepublisher",
+  "displayName": "WebsitePublisher",
+  "description": "Sites, apps, shops & bookings.",
+  "homepage": "https://www.websitepublisher.ai",
+  "docs": "https://www.websitepublisher.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "websitepublisher": {
+      "url": "https://mcp.websitepublisher.ai/mcp"
+    }
+  }
+}

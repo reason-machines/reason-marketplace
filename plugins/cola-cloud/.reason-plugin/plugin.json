@@ -1,0 +1,13 @@
+{
+  "name": "cola-cloud",
+  "displayName": "COLA Cloud",
+  "description": "Enriched TTB COLA search.",
+  "homepage": "https://colacloud.us",
+  "docs": "https://colacloud.us",
+  "auth": "oauth",
+  "mcpServers": {
+    "cola-cloud": {
+      "url": "https://mcp.colacloud.us/mcp"
+    }
+  }
+}

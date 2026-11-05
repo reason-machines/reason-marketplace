@@ -1,0 +1,13 @@
+{
+  "name": "factiq",
+  "displayName": "FactIQ",
+  "description": "Investment and economic data.",
+  "homepage": "https://www.factiq.com",
+  "docs": "https://www.factiq.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "factiq": {
+      "url": "https://api.factiq.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rill",
+  "displayName": "Rill",
+  "description": "Explore metrics.",
+  "homepage": "https://www.rilldata.com",
+  "docs": "https://docs.rilldata.com/guide/ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "rill": {
+      "url": "https://api.rilldata.com/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "zitierfest",
+  "displayName": "Zitierfest",
+  "description": "Deutsches Recht im Wortlaut.",
+  "homepage": "https://zitierfest.de",
+  "docs": "https://zitierfest.de",
+  "auth": "oauth",
+  "mcpServers": {
+    "zitierfest": {
+      "url": "https://mcp.zitierfest.de/mcp"
+    }
+  }
+}

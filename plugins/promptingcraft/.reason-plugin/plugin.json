@@ -1,0 +1,13 @@
+{
+  "name": "promptingcraft",
+  "displayName": "PromptingCraft.com",
+  "description": "Source-backed agent prompts.",
+  "homepage": "https://promptingcraft.com",
+  "docs": "https://promptingcraft.com",
+  "auth": "none",
+  "mcpServers": {
+    "promptingcraft": {
+      "url": "https://mcp.promptingcraft.com/mcp"
+    }
+  }
+}

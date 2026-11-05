@@ -1,0 +1,13 @@
+{
+  "name": "dotfile",
+  "displayName": "Dotfile",
+  "description": "KYC and KYB compliance.",
+  "homepage": "https://www.dotfile.com",
+  "docs": "https://www.dotfile.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dotfile": {
+      "url": "https://mcp.dotfile.com/mcp"
+    }
+  }
+}

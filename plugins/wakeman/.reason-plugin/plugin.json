@@ -1,0 +1,13 @@
+{
+  "name": "wakeman",
+  "displayName": "Wakeman",
+  "description": "Your calls, at a glance.",
+  "homepage": "https://wakeman.ai",
+  "docs": "https://wakeman.ai",
+  "auth": "none",
+  "mcpServers": {
+    "wakeman": {
+      "url": "https://wakeman.ai/mcp"
+    }
+  }
+}

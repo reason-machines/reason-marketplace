@@ -1,0 +1,13 @@
+{
+  "name": "page2ai",
+  "displayName": "Page2AI",
+  "description": "Public web page to Markdown.",
+  "homepage": "https://page2ai-mcp-remote.vercel.app/",
+  "docs": "https://page2ai-mcp-remote.vercel.app/",
+  "auth": "none",
+  "mcpServers": {
+    "page2ai": {
+      "url": "https://page2ai-mcp-remote.vercel.app/api/mcp"
+    }
+  }
+}

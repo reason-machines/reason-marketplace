@@ -10,5 +10,14 @@
     "composio": {
       "url": "https://connect.composio.dev/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "composio",
+      "description": "Route Composio work between the hosted MCP-backed app and the local Composio CLI. Use when a user wants to read or act on external services such as email, calendars, GitHub, Slack, Notion, Linear, Jira, or CRMs; discover an integration or tool; recover a missing connection; combine multiple apps; or",
+      "source": "composiohq/composio#81a7fae466f9bf0d02db091446da559a12c9e868",
+      "skill": "composio",
+      "url": "https://github.com/composiohq/composio/tree/81a7fae466f9bf0d02db091446da559a12c9e868/skills/composio"
+    }
+  ]
 }

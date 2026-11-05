@@ -1,0 +1,13 @@
+{
+  "name": "shortlist-pass",
+  "displayName": "Shortlist Pass",
+  "description": "Order from local food trucks.",
+  "homepage": "https://app.shortlistpass.com",
+  "docs": "https://shortlistpass.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "shortlist-pass": {
+      "url": "https://app.shortlistpass.com/mcp"
+    }
+  }
+}

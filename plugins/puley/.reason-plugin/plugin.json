@@ -1,0 +1,13 @@
+{
+  "name": "puley",
+  "displayName": "Puley",
+  "description": "Read, compare and watch pages.",
+  "homepage": "https://puley.com",
+  "docs": "https://puley.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "puley": {
+      "url": "https://app.puley.com/mcp"
+    }
+  }
+}

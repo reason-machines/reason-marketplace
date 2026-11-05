@@ -1,0 +1,13 @@
+{
+  "name": "product-recalls",
+  "displayName": "Zovo Product Recall Check",
+  "description": "Inventory recall screening.",
+  "homepage": "https://product-recalls.zovo.one",
+  "docs": "https://product-recalls.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "product-recalls": {
+      "url": "https://product-recalls.zovo.one/mcp"
+    }
+  }
+}

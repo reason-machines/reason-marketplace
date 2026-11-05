@@ -1,0 +1,13 @@
+{
+  "name": "career-passport",
+  "displayName": "Career Passport（キャリアパスポート）",
+  "description": "学びをキャリアにつなぐ.",
+  "homepage": "https://lp.careerpassport.id",
+  "docs": "https://lp.careerpassport.id",
+  "auth": "oauth",
+  "mcpServers": {
+    "career-passport": {
+      "url": "https://mcp.careerpassport.id/mcp"
+    }
+  }
+}

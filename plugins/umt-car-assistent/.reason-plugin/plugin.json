@@ -1,0 +1,13 @@
+{
+  "name": "umt-car-assistent",
+  "displayName": "UMT-CAR Assistent",
+  "description": "Car Sales and Maintenance.",
+  "homepage": "https://www.umtcar.be/",
+  "docs": "https://www.umtcar.be/",
+  "auth": "none",
+  "mcpServers": {
+    "umt-car-assistent": {
+      "url": "https://umtcar.be/mcp"
+    }
+  }
+}

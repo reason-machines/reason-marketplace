@@ -1,0 +1,134 @@
+{
+  "name": "cellcog",
+  "displayName": "CellCog",
+  "description": "Briefs in, finished work out.",
+  "homepage": "https://cellcog.ai",
+  "docs": "https://cellcog.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "cellcog": {
+      "url": "https://cellcog.ai/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "3d-model-generation-cellcog",
+      "description": "AI 3D model generation powered by CellCog. Text-to-3D, image-to-3D — production-ready GLB files for games, AR/VR, e-commerce, and 3D printing. Game assets, product visualization, characters, props, environments, and batch generation.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "3d-model-generation-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/3d-model-generation-cellcog"
+    },
+    {
+      "name": "ai-employees-cellcog",
+      "description": "Work with CellCog AI employees from your own agent: long-running teammates that keep memory, learn skills you teach them, run routines, and stay consistent across a project for days or months. Use for ongoing projects (a web series, a content calendar, a client account); use a CellCog chat for one-o",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "ai-employees-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/ai-employees-cellcog"
+    },
+    {
+      "name": "audio-generation-cellcog",
+      "description": "AI audio generation and text-to-speech powered by CellCog. Voiceover, narration, voice cloning, avatar voices, sound effects, music, podcasts, dialogue. Three voice providers (OpenAI, ElevenLabs, MiniMax). Professional audio production from text prompts.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "audio-generation-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/audio-generation-cellcog"
+    },
+    {
+      "name": "cellcog",
+      "description": "Any-to-any AI sub-agent: research with sources, images, video, audio, music, podcasts, documents, slide decks, spreadsheets, dashboards, web apps, 3D models, diagrams and code from one brief. Hand CellCog the job and get finished files back.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/cellcog"
+    },
+    {
+      "name": "data-analysis-cellcog",
+      "description": "AI data analysis and visualization powered by CellCog. Data cleaning, exploratory analysis, hypothesis testing, statistical reports, ML model evaluation, dataset profiling, charts, dashboards. Upload CSVs and get analysis back with full Python access.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "data-analysis-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/data-analysis-cellcog"
+    },
+    {
+      "name": "deep-research-cellcog",
+      "description": "AI deep research powered by CellCog. Market research, competitive analysis, investment research, academic research, due diligence, literature reviews with citations, financial analysis, crypto research, news intelligence. Multi-source synthesis across hundreds of sources. #1 on DeepResearch Bench (O",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "deep-research-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/deep-research-cellcog"
+    },
+    {
+      "name": "diagram-flowchart-cellcog",
+      "description": "AI diagram and flowchart generation powered by CellCog. Flowcharts, system architecture, mind maps, org charts, ER diagrams, sequence diagrams, Gantt charts, network diagrams. Describe your system in plain English, get interactive diagrams or print-ready PDFs.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "diagram-flowchart-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/diagram-flowchart-cellcog"
+    },
+    {
+      "name": "excel-spreadsheet-cellcog",
+      "description": "AI Excel spreadsheet generation powered by CellCog. Financial models, budget templates, data trackers, projections, pivot tables, complex formulas — XLSX output. Data manipulation, analysis, charts, and professional formatting.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "excel-spreadsheet-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/excel-spreadsheet-cellcog"
+    },
+    {
+      "name": "game-asset-generation-cellcog",
+      "description": "AI game asset generation and game development powered by CellCog. Character-consistent art, sprites, tilesets, music, UI, 3D models, GDDs, level design, game prototypes. Cohesive game assets across every modality from a single prompt.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "game-asset-generation-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/game-asset-generation-cellcog"
+    },
+    {
+      "name": "image-generation-cellcog",
+      "description": "AI image generation and photo editing powered by CellCog. Text-to-image, image-to-image, consistent characters, product photography, reference-based generation, style transfer, sets of images, social media visuals, brand assets, stickers, comics, GIFs. Professional image creation with multiple AI mo",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "image-generation-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/image-generation-cellcog"
+    },
+    {
+      "name": "meme-generator-cellcog",
+      "description": "AI meme generator powered by CellCog. Memes, viral content, reaction images, internet humor. Audience targeting, trend research, and multi-angle generation for humor that lands.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "meme-generator-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/meme-generator-cellcog"
+    },
+    {
+      "name": "music-generation-cellcog",
+      "description": "AI music generation powered by CellCog. Original instrumental and vocal tracks, 5 seconds to 10 minutes. Cinematic scores, background tracks, podcast intros, game soundtracks, ambient soundscapes, jingles, lo-fi beats, orchestral compositions, songs with lyrics. Royalty-free.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "music-generation-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/music-generation-cellcog"
+    },
+    {
+      "name": "pdf-document-generation-cellcog",
+      "description": "AI PDF document generation powered by CellCog — PDF and DOCX output. Resumes, contracts, reports, proposals, invoices, certificates, NDAs, letters, brochures, legal documents, cover letters, and professional documents. Research-backed content with professional design.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "pdf-document-generation-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/pdf-document-generation-cellcog"
+    },
+    {
+      "name": "presentation-slides-cellcog",
+      "description": "AI presentation slides and deck generation powered by CellCog. Pitch decks, keynotes, business presentations, educational slides, investor decks — PDF or native PPTX. Research-backed content with professional slide design, charts, and layouts.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "presentation-slides-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/presentation-slides-cellcog"
+    },
+    {
+      "name": "sticker-generator-cellcog",
+      "description": "AI sticker generator and pack creation powered by CellCog. Custom stickers, emoji sets, WhatsApp stickers, Telegram stickers, Discord emoji, Slack reactions. Character-consistent expressions, transparent backgrounds, batch generation, platform-ready packaging.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "sticker-generator-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/sticker-generator-cellcog"
+    },
+    {
+      "name": "ui-prototype-wireframe-cellcog",
+      "description": "AI UI prototype and wireframe generation powered by CellCog. Interactive HTML prototypes, wireframes, app mockups, landing pages, mobile screens, SaaS dashboards, design systems, user flows. From description to clickable prototype in one prompt.",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "ui-prototype-wireframe-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/ui-prototype-wireframe-cellcog"
+    },
+    {
+      "name": "video-generation-cellcog",
+      "description": "AI video generation and production powered by CellCog. Marketing videos, product demos, explainers, educational content, lipsync spokesperson videos, UGC, news reports, training materials, cinematic short films, social media reels, YouTube content. Up to 4-minute videos — scripted, voiced, scored, a",
+      "source": "cellcog/skills#3544c525e90ddff6188209015c3e6203614d5c87",
+      "skill": "video-generation-cellcog",
+      "url": "https://github.com/cellcog/skills/tree/3544c525e90ddff6188209015c3e6203614d5c87/skills/video-generation-cellcog"
+    }
+  ]
+}

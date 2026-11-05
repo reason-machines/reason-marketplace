@@ -1,0 +1,13 @@
+{
+  "name": "recipe-one",
+  "displayName": "Recipe One",
+  "description": "Recipes & meal planning.",
+  "homepage": "https://www.recipeone.app",
+  "docs": "https://www.recipeone.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "recipe-one": {
+      "url": "https://mcp.recipeone.app/mcp"
+    }
+  }
+}

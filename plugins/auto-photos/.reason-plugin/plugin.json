@@ -1,0 +1,13 @@
+{
+  "name": "auto-photos",
+  "displayName": "Auto Photos",
+  "description": "Search & organize your photos.",
+  "homepage": "https://auto.inc/photos",
+  "docs": "https://app.auto.inc/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "auto-photos": {
+      "url": "https://app.auto.inc/api/mcp/v1"
+    }
+  }
+}

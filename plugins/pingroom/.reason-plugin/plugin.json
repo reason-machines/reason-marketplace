@@ -1,0 +1,13 @@
+{
+  "name": "pingroom",
+  "displayName": "PingRoom",
+  "description": "Ask people via push.",
+  "homepage": "https://pingroom.io",
+  "docs": "https://pingroom.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "pingroom": {
+      "url": "https://api.pingroom.io/api/agent/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "spellbinder",
+  "displayName": "Spellbinder",
+  "description": "Find MTG cards and build decks.",
+  "homepage": "https://www.spellbinder.gg",
+  "docs": "https://spellbinder.gg/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "spellbinder": {
+      "url": "https://spellbinder.gg/api/mcp"
+    }
+  }
+}

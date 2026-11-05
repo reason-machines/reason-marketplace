@@ -1,0 +1,13 @@
+{
+  "name": "notit",
+  "displayName": "Notit",
+  "description": "Search your Notit study notes.",
+  "homepage": "https://notit.ai",
+  "docs": "https://notit.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "notit": {
+      "url": "https://mcp.notit.ai/mcp"
+    }
+  }
+}

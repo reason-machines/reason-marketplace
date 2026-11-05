@@ -1,0 +1,13 @@
+{
+  "name": "sprites",
+  "displayName": "Sprites",
+  "description": "Give Reason its own computer.",
+  "homepage": "https://fly.io/sprites",
+  "docs": "https://fly.io/sprites",
+  "auth": "oauth",
+  "mcpServers": {
+    "sprites": {
+      "url": "https://mcp.fly.io/"
+    }
+  }
+}

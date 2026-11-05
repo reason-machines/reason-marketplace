@@ -1,0 +1,13 @@
+{
+  "name": "postaxis",
+  "displayName": "PostAxis",
+  "description": "Schedule social media posts.",
+  "homepage": "https://postaxis.io",
+  "docs": "https://www.postaxis.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "postaxis": {
+      "url": "https://postaxis.io/api/mcp"
+    }
+  }
+}

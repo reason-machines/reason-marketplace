@@ -1,0 +1,13 @@
+{
+  "name": "rfqmind",
+  "displayName": "RFQMind",
+  "description": "Find certified manufacturers.",
+  "homepage": "https://api.rfqmind.com/",
+  "docs": "https://api.rfqmind.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "rfqmind": {
+      "url": "https://mcp.rfqmind.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "frip",
+  "displayName": "Frip",
+  "description": "Discover your next hobby.",
+  "homepage": "https://frip.co.kr",
+  "docs": "https://frip.co.kr",
+  "auth": "none",
+  "mcpServers": {
+    "frip": {
+      "url": "https://frip.co.kr/mcp"
+    }
+  }
+}

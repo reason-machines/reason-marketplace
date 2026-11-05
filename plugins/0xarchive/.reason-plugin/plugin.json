@@ -1,0 +1,13 @@
+{
+  "name": "0xarchive",
+  "displayName": "0xArchive",
+  "description": "Market data and webhooks.",
+  "homepage": "https://0xarchive.io",
+  "docs": "https://0xarchive.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "0xarchive": {
+      "url": "https://mcp.0xarchive.io/mcp"
+    }
+  }
+}

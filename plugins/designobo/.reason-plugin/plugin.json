@@ -1,0 +1,13 @@
+{
+  "name": "designobo",
+  "displayName": "Designobo",
+  "description": "Design UI prototypes.",
+  "homepage": "https://designobo.com",
+  "docs": "https://designobo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "designobo": {
+      "url": "https://designobo.com/mcp"
+    }
+  }
+}

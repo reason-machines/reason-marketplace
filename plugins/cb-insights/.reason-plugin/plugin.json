@@ -1,0 +1,13 @@
+{
+  "name": "cb-insights",
+  "displayName": "CB Insights",
+  "description": "Predictive intelligence.",
+  "homepage": "https://cbinsights.com",
+  "docs": "https://cbinsights.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cb-insights": {
+      "url": "https://mcp.cbinsights.com/"
+    }
+  }
+}

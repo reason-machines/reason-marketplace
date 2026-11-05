@@ -1,0 +1,13 @@
+{
+  "name": "your-color-palette",
+  "displayName": "Your Color Palette",
+  "description": "Color season from a selfie.",
+  "homepage": "https://yourcolorpalette.com/",
+  "docs": "https://yourcolorpalette.com/",
+  "auth": "none",
+  "mcpServers": {
+    "your-color-palette": {
+      "url": "https://mcp.yourcolorpalette.com/mcp"
+    }
+  }
+}

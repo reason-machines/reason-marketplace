@@ -1,0 +1,13 @@
+{
+  "name": "flowlines",
+  "displayName": "Flowlines",
+  "description": "Understand your MCP servers.",
+  "homepage": "https://flowlines.ai/",
+  "docs": "https://flowlines.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "flowlines": {
+      "url": "https://api.flowlines.ai/mcp"
+    }
+  }
+}

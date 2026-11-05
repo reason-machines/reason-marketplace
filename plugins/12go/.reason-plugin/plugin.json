@@ -1,0 +1,13 @@
+{
+  "name": "12go",
+  "displayName": "12Go",
+  "description": "Find buses, ferries and more.",
+  "homepage": "https://12go.asia/",
+  "docs": "https://12go.asia/",
+  "auth": "none",
+  "mcpServers": {
+    "12go": {
+      "url": "https://mcp.12go.asia/mcp"
+    }
+  }
+}

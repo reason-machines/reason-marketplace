@@ -1,0 +1,13 @@
+{
+  "name": "grant-finder",
+  "displayName": "Zovo Grant Finder",
+  "description": "Federal grants and deadlines.",
+  "homepage": "https://grant-finder.zovo.one",
+  "docs": "https://grant-finder.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "grant-finder": {
+      "url": "https://grant-finder.zovo.one/mcp"
+    }
+  }
+}

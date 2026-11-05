@@ -1,0 +1,13 @@
+{
+  "name": "archboard",
+  "displayName": "Archboard",
+  "description": "Edit diagrams on a live canvas.",
+  "homepage": "https://getarchboard.app",
+  "docs": "https://getarchboard.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "archboard": {
+      "url": "https://getarchboard.app/mcp"
+    }
+  }
+}

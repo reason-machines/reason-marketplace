@@ -1,0 +1,13 @@
+{
+  "name": "sumble",
+  "displayName": "Sumble",
+  "description": "Account research for sales.",
+  "homepage": "https://sumble.com",
+  "docs": "https://sumble.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sumble": {
+      "url": "https://mcp.sumble.com/mcp"
+    }
+  }
+}

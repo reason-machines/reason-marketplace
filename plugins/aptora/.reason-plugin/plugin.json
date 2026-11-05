@@ -1,0 +1,13 @@
+{
+  "name": "aptora",
+  "displayName": "Aptora",
+  "description": "Manage CVs and discover jobs.",
+  "homepage": "https://www.aptora.io",
+  "docs": "https://www.aptora.io/de/docs/mcp-guide/",
+  "auth": "oauth",
+  "mcpServers": {
+    "aptora": {
+      "url": "https://app.aptora.io/mcp"
+    }
+  }
+}

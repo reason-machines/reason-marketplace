@@ -1,0 +1,13 @@
+{
+  "name": "aidan",
+  "displayName": "AIDAN",
+  "description": "Recall what you saved.",
+  "homepage": "https://aidanclub.com",
+  "docs": "https://aidanclub.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "aidan": {
+      "url": "https://mcp.aidanclub.com/mcp"
+    }
+  }
+}

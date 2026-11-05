@@ -1,0 +1,13 @@
+{
+  "name": "tunmire",
+  "displayName": "Tunmire",
+  "description": "Format books and make covers.",
+  "homepage": "https://tunmire.app",
+  "docs": "https://tunmire.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "tunmire": {
+      "url": "https://mcp.tunmire.app/mcp"
+    }
+  }
+}

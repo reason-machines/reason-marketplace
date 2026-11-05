@@ -1,0 +1,13 @@
+{
+  "name": "the-living-bread",
+  "displayName": "The Living Bread",
+  "description": "Scripture, prayer, a church.",
+  "homepage": "https://living-bread.org",
+  "docs": "https://living-bread.org",
+  "auth": "none",
+  "mcpServers": {
+    "the-living-bread": {
+      "url": "https://mcp.living-bread.org/mcp"
+    }
+  }
+}

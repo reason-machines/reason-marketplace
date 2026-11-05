@@ -1,0 +1,13 @@
+{
+  "name": "airspeed",
+  "displayName": "Airspeed",
+  "description": "Calls and coaching insights.",
+  "homepage": "https://www.goairspeed.com",
+  "docs": "https://docs.goairspeed.com/articles/1087586625-airspeed-mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "airspeed": {
+      "url": "https://mcp.goairspeed.com/mcp-oauth"
+    }
+  }
+}

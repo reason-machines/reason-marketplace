@@ -1,0 +1,13 @@
+{
+  "name": "easen",
+  "displayName": "Easen",
+  "description": "Your meetings, inside Reason.",
+  "homepage": "https://easen.ai",
+  "docs": "https://easen.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "easen": {
+      "url": "https://mcp.easen.ai/mcp"
+    }
+  }
+}

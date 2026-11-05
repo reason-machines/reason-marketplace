@@ -1,0 +1,13 @@
+{
+  "name": "site-check",
+  "displayName": "Site SEO & AI Crawler Audit",
+  "description": "SEO, AI citation, CRO, leaks.",
+  "homepage": "https://tools.openkrill.app/",
+  "docs": "https://tools.openkrill.app/",
+  "auth": "none",
+  "mcpServers": {
+    "site-check": {
+      "url": "https://sitecheck.openkrill.app/mcp"
+    }
+  }
+}

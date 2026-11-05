@@ -1,0 +1,13 @@
+{
+  "name": "lightbringer",
+  "displayName": "Lightbringer",
+  "description": "Patent service in your chat.",
+  "homepage": "https://lightbringer.com",
+  "docs": "https://lightbringer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lightbringer": {
+      "url": "https://mcp.lightbringer.com/mcp"
+    }
+  }
+}

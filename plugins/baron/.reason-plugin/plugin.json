@@ -1,0 +1,13 @@
+{
+  "name": "baron",
+  "displayName": "Baron",
+  "description": "Start a business with AI.",
+  "homepage": "https://trybaron.ai/directory",
+  "docs": "https://trybaron.ai/connectors",
+  "auth": "none",
+  "mcpServers": {
+    "baron": {
+      "url": "https://trybaron.ai/mcp-public"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "factorweave",
+  "displayName": "FactorWeave",
+  "description": "Quant-factor data for tickers.",
+  "homepage": "https://factorweave.com",
+  "docs": "https://factorweave.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "factorweave": {
+      "url": "https://factorweave.com/api/mcp"
+    }
+  }
+}

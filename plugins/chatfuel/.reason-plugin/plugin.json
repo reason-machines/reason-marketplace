@@ -1,0 +1,13 @@
+{
+  "name": "chatfuel",
+  "displayName": "Chatfuel",
+  "description": "AI agents for customer chats.",
+  "homepage": "https://chatfuel.com/llms.txt",
+  "docs": "https://chatfuel.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "chatfuel": {
+      "url": "https://mcp.chatfuel.com/panel"
+    }
+  }
+}

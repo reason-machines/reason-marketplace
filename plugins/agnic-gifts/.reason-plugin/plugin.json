@@ -1,0 +1,13 @@
+{
+  "name": "agnic-gifts",
+  "displayName": "Agnic Gifts",
+  "description": "Buy gifts with a spending cap.",
+  "homepage": "https://gifts.agnic.ai",
+  "docs": "https://agnic.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "agnic-gifts": {
+      "url": "https://mcp.agnic.ai/sse"
+    }
+  }
+}

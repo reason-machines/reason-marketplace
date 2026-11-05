@@ -1,0 +1,13 @@
+{
+  "name": "aimport-ar",
+  "displayName": "AImport.AR",
+  "description": "Argentine import data.",
+  "homepage": "https://aimport.ar/importbrain",
+  "docs": "https://aimport.ar/importbrain",
+  "auth": "oauth",
+  "mcpServers": {
+    "aimport-ar": {
+      "url": "https://aimport.ar/mcp"
+    }
+  }
+}

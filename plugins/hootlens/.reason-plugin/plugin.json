@@ -1,0 +1,13 @@
+{
+  "name": "hootlens",
+  "displayName": "Hoot Lens",
+  "description": "Find snags in website visits.",
+  "homepage": "https://hootlens.com/",
+  "docs": "https://hootlens.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hootlens": {
+      "url": "https://mcp.hootlens.com/mcp"
+    }
+  }
+}

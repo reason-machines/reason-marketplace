@@ -1,0 +1,13 @@
+{
+  "name": "cutkit-teleprompter",
+  "displayName": "CutKit Teleprompter",
+  "description": "Your teleprompter scripts.",
+  "homepage": "https://getcutkit.com",
+  "docs": "https://getcutkit.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cutkit-teleprompter": {
+      "url": "https://getcutkit.com/mcp"
+    }
+  }
+}

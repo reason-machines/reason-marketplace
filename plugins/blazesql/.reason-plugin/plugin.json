@@ -1,0 +1,13 @@
+{
+  "name": "blazesql",
+  "displayName": "BlazeSQL",
+  "description": "Query your SQL Database.",
+  "homepage": "https://blazesql.com",
+  "docs": "https://blazesql.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "blazesql": {
+      "url": "https://mcp.blazesql.com/mcp"
+    }
+  }
+}

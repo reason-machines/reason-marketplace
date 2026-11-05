@@ -1,0 +1,13 @@
+{
+  "name": "success-co",
+  "displayName": "Success.co",
+  "description": "Next-gen software to run EOS®.",
+  "homepage": "https://www.success.co/",
+  "docs": "https://www.success.co/",
+  "auth": "oauth",
+  "mcpServers": {
+    "success-co": {
+      "url": "https://success.co/mcp"
+    }
+  }
+}

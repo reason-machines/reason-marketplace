@@ -1,0 +1,13 @@
+{
+  "name": "flowlity-co-planner",
+  "displayName": "Flowlity Co-planner",
+  "description": "Query supply-chain data.",
+  "homepage": "https://flowlity.com",
+  "docs": "https://docs.flowlity.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "flowlity-co-planner": {
+      "url": "https://co-planner.app.flowlity.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "user-intuition-research",
+  "displayName": "User Intuition",
+  "description": "Run qualitative research.",
+  "homepage": "https://www.userintuition.ai",
+  "docs": "https://www.userintuition.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "user-intuition-research": {
+      "url": "https://mcp.userintuition.ai/mcp"
+    }
+  }
+}

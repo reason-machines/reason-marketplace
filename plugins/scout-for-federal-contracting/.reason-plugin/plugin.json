@@ -1,0 +1,13 @@
+{
+  "name": "scout-for-federal-contracting",
+  "displayName": "SCOUT for Federal Contracting",
+  "description": "Federal contracting intel.",
+  "homepage": "https://primerfp.com",
+  "docs": "https://primerfp.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "scout-for-federal-contracting": {
+      "url": "https://mcp.primerfp.com/mcp/"
+    }
+  }
+}

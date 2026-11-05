@@ -1,0 +1,13 @@
+{
+  "name": "freeway-insurance",
+  "displayName": "Freeway Insurance",
+  "description": "Auto insurance rate.",
+  "homepage": "https://www.freeway.com/",
+  "docs": "https://tedix.dev/apps/freeway-insurance/",
+  "auth": "none",
+  "mcpServers": {
+    "freeway-insurance": {
+      "url": "https://confie-triton-rate-mcp.azurewebsites.net/mcp"
+    }
+  }
+}

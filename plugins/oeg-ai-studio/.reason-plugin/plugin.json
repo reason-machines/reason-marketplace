@@ -1,0 +1,13 @@
+{
+  "name": "oeg-ai-studio",
+  "displayName": "OEG AI Studio",
+  "description": "Create images with OEG.",
+  "homepage": "https://app.oegaistudio.com/",
+  "docs": "https://app.oegaistudio.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "oeg-ai-studio": {
+      "url": "https://app.oegaistudio.com/mcp"
+    }
+  }
+}

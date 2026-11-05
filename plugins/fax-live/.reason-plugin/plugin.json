@@ -1,0 +1,13 @@
+{
+  "name": "fax-live",
+  "displayName": "Fax.live",
+  "description": "Send PDFs by fax.",
+  "homepage": "https://api.fax.live",
+  "docs": "https://api.fax.live",
+  "auth": "oauth",
+  "mcpServers": {
+    "fax-live": {
+      "url": "https://mcp.fax.live/mcp"
+    }
+  }
+}

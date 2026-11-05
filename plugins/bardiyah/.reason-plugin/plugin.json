@@ -1,0 +1,13 @@
+{
+  "name": "bardiyah",
+  "displayName": "Bardiyah",
+  "description": "Manage ideas and video scripts.",
+  "homepage": "https://bardiyah.com",
+  "docs": "https://bardiyah.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "bardiyah": {
+      "url": "https://bardiyah.com/mcp"
+    }
+  }
+}

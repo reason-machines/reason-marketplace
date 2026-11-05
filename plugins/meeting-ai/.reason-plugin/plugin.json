@@ -1,0 +1,13 @@
+{
+  "name": "meeting-ai",
+  "displayName": "Meeting.ai",
+  "description": "Work Assistant.",
+  "homepage": "https://meeting.ai",
+  "docs": "https://meeting.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "meeting-ai": {
+      "url": "https://mcp.meeting.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "homebase-services",
+  "displayName": "HomeBase Services",
+  "description": "New-hire apartment relocation.",
+  "homepage": "https://homebaseservices.com",
+  "docs": "https://homebaseservices.com",
+  "auth": "none",
+  "mcpServers": {
+    "homebase-services": {
+      "url": "https://homebaseservices.com/mcp"
+    }
+  }
+}

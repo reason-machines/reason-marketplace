@@ -1,0 +1,13 @@
+{
+  "name": "genviral",
+  "displayName": "Genviral",
+  "description": "Create and publish content.",
+  "homepage": "https://www.genviral.io",
+  "docs": "https://www.genviral.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "genviral": {
+      "url": "https://mcp.genviral.io/mcp"
+    }
+  }
+}

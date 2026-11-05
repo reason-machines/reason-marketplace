@@ -1,0 +1,13 @@
+{
+  "name": "slashy",
+  "displayName": "Slashy",
+  "description": "Manage email and calendar.",
+  "homepage": "https://www.slashy.com",
+  "docs": "https://help.slashy.com/features/integrations/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "slashy": {
+      "url": "https://slashy.ctrlcenter.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "advisorworld-reference-data",
+  "displayName": "AdvisorWorld Reference Data",
+  "description": "Compare U.S. tax data.",
+  "homepage": "https://advisorworld.com",
+  "docs": "https://tedix.dev/apps/advisorworld-reference-data/",
+  "auth": "none",
+  "mcpServers": {
+    "advisorworld-reference-data": {
+      "url": "https://api.advisorworld.com/mcp"
+    }
+  }
+}

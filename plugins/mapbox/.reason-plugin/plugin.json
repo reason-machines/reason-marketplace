@@ -10,5 +10,147 @@
     "mapbox": {
       "url": "https://mcp.mapbox.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "mapbox-android-patterns",
+      "description": "Official integration patterns for Mapbox Maps SDK on Android. Covers installation, adding markers, user location, custom data, styles, camera control, and featureset interactions. Based on official Mapbox documentation.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-android-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-android-patterns"
+    },
+    {
+      "name": "mapbox-cartography",
+      "description": "Expert guidance on map design principles, color theory, visual hierarchy, typography, and cartographic best practices for creating effective and beautiful maps with Mapbox. Use when designing map styles, choosing colors, or making cartographic decisions.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-cartography",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-cartography"
+    },
+    {
+      "name": "mapbox-data-visualization-patterns",
+      "description": "Patterns for visualizing data on maps including choropleth maps, heat maps, 3D visualizations, data-driven styling, and animated data. Covers layer types, color scales, and performance optimization.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-data-visualization-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-data-visualization-patterns"
+    },
+    {
+      "name": "mapbox-flutter-patterns",
+      "description": "Official integration patterns for the Mapbox Maps Flutter SDK. Covers installation, iOS/Android platform setup, access token configuration, MapWidget initialization, camera control, annotations with tap handling, user location, and loading GeoJSON. Based on official Mapbox documentation.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-flutter-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-flutter-patterns"
+    },
+    {
+      "name": "mapbox-geospatial-operations",
+      "description": "Expert guidance on choosing the right geospatial tool based on problem type, accuracy requirements, and performance needs",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-geospatial-operations",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-geospatial-operations"
+    },
+    {
+      "name": "mapbox-google-maps-migration",
+      "description": "Migration guide for developers moving from Google Maps Platform to Mapbox GL JS, covering API equivalents, pattern translations, and key differences",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-google-maps-migration",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-google-maps-migration"
+    },
+    {
+      "name": "mapbox-ios-patterns",
+      "description": "Official integration patterns for Mapbox Maps SDK on iOS. Covers installation, adding markers, user location, custom data, styles, camera control, and featureset interactions. Based on official Mapbox documentation.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-ios-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-ios-patterns"
+    },
+    {
+      "name": "mapbox-location-grounding",
+      "description": "Compose Mapbox MCP tools to produce grounded, cited location-aware responses from live data instead of training data",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-location-grounding",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-location-grounding"
+    },
+    {
+      "name": "mapbox-maplibre-migration",
+      "description": "Guide for migrating from MapLibre GL JS to Mapbox GL JS, covering API compatibility, token setup, style configuration, and the benefits of Mapbox's official support and ecosystem",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-maplibre-migration",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-maplibre-migration"
+    },
+    {
+      "name": "mapbox-mcp-devkit-patterns",
+      "description": "Integration patterns for Mapbox MCP DevKit Server in AI coding assistants. Covers setup, style management, token management, validation workflows, and documentation access through MCP. Use when building Mapbox applications with AI coding assistance.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-mcp-devkit-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-mcp-devkit-patterns"
+    },
+    {
+      "name": "mapbox-mcp-runtime-patterns",
+      "description": "Integration patterns for Mapbox MCP Server in AI applications and agent frameworks. Covers runtime integration with pydantic-ai, mastra, LangChain, and custom agents. Use when building AI-powered applications that need geospatial capabilities.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-mcp-runtime-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-mcp-runtime-patterns"
+    },
+    {
+      "name": "mapbox-navigation-patterns",
+      "description": "Navigation implementation patterns for turn-by-turn directions, route optimization, real-time traffic, multi-stop routing, and voice guidance across web, iOS, and Android platforms",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-navigation-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-navigation-patterns"
+    },
+    {
+      "name": "mapbox-search-integration",
+      "description": "Complete workflow for implementing Mapbox search in applications - from discovery questions to production-ready integration with best practices",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-search-integration",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-search-integration"
+    },
+    {
+      "name": "mapbox-search-patterns",
+      "description": "Expert guidance on choosing the right Mapbox search tool and parameters for geocoding, POI search, and location discovery",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-search-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-search-patterns"
+    },
+    {
+      "name": "mapbox-store-locator-patterns",
+      "description": "Common patterns for building store locators, restaurant finders, and location-based search applications with Mapbox. Covers marker display, filtering, distance calculation, and interactive lists.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-store-locator-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-store-locator-patterns"
+    },
+    {
+      "name": "mapbox-style-patterns",
+      "description": "Common style patterns, layer configurations, and recipes for typical mapping scenarios including restaurant finders, real estate, data visualization, navigation, delivery/logistics, and more. Use when implementing specific map use cases or looking for proven style patterns.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-style-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-style-patterns"
+    },
+    {
+      "name": "mapbox-style-quality",
+      "description": "Expert guidance on validating, optimizing, and ensuring quality of Mapbox styles through validation, accessibility checks, and optimization. Use when preparing styles for production, debugging issues, or ensuring map quality standards.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-style-quality",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-style-quality"
+    },
+    {
+      "name": "mapbox-token-security",
+      "description": "Security best practices for Mapbox access tokens, including scope management, URL restrictions, rotation strategies, and protecting sensitive data. Use when creating, managing, or advising on Mapbox token security.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-token-security",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-token-security"
+    },
+    {
+      "name": "mapbox-web-integration-patterns",
+      "description": "Official integration patterns for Mapbox GL JS across popular web frameworks (React, Vue, Svelte, Angular). Covers setup, lifecycle management, token handling, search integration, and common pitfalls. Based on Mapbox's create-web-app scaffolding tool.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-web-integration-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-web-integration-patterns"
+    },
+    {
+      "name": "mapbox-web-performance-patterns",
+      "description": "Performance optimization patterns for Mapbox GL JS web applications. Covers initialization waterfalls, bundle size, rendering performance, memory management, and web optimization. Prioritized by impact on user experience.",
+      "source": "mapbox/mapbox-agent-skills#f71cd72b8d8937b06db440538bd65559eb792c49",
+      "skill": "mapbox-web-performance-patterns",
+      "url": "https://github.com/mapbox/mapbox-agent-skills/tree/f71cd72b8d8937b06db440538bd65559eb792c49/skills/mapbox-web-performance-patterns"
+    }
+  ]
 }

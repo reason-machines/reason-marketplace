@@ -1,0 +1,13 @@
+{
+  "name": "respond-io",
+  "displayName": "Respond.io",
+  "description": "Manage customer conversations.",
+  "homepage": "https://respond.io",
+  "docs": "https://respond.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "respond-io": {
+      "url": "https://mcp.respond.io/mcp"
+    }
+  }
+}

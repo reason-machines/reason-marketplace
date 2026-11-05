@@ -1,0 +1,13 @@
+{
+  "name": "shootpro24ai",
+  "displayName": "ShootPro24AI",
+  "description": "Photo & video post-production.",
+  "homepage": "https://www.shootpro24ai.com",
+  "docs": "https://www.shootpro24ai.com",
+  "auth": "none",
+  "mcpServers": {
+    "shootpro24ai": {
+      "url": "https://shootpro24ai.com/mcp"
+    }
+  }
+}

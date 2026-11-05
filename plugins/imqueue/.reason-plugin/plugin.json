@@ -1,0 +1,13 @@
+{
+  "name": "imqueue",
+  "displayName": "@imqueue",
+  "description": "Search docs, scaffold code.",
+  "homepage": "https://imqueue.org",
+  "docs": "https://imqueue.org",
+  "auth": "none",
+  "mcpServers": {
+    "imqueue": {
+      "url": "https://mcp.imqueue.org/mcp"
+    }
+  }
+}

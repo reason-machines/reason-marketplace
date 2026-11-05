@@ -1,0 +1,13 @@
+{
+  "name": "freegma",
+  "displayName": "Freegma",
+  "description": "Design screens from your chat.",
+  "homepage": "https://freegma.app",
+  "docs": "https://freegma.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "freegma": {
+      "url": "https://freegma.app/mcp"
+    }
+  }
+}

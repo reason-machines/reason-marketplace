@@ -1,0 +1,13 @@
+{
+  "name": "aesthetichires",
+  "displayName": "AestheticHires",
+  "description": "Med spa and aesthetics jobs.",
+  "homepage": "https://www.aesthetichires.com/",
+  "docs": "https://www.aesthetichires.com/",
+  "auth": "none",
+  "mcpServers": {
+    "aesthetichires": {
+      "url": "https://aesthetichires.com/api/mcp"
+    }
+  }
+}

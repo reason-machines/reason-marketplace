@@ -1,0 +1,13 @@
+{
+  "name": "particle-pro-submission",
+  "displayName": "Particle Pro",
+  "description": "Podcast & company intelligence.",
+  "homepage": "https://particle.pro",
+  "docs": "https://particle.pro",
+  "auth": "oauth",
+  "mcpServers": {
+    "particle-pro-submission": {
+      "url": "https://mcp.particle.pro/mcp"
+    }
+  }
+}

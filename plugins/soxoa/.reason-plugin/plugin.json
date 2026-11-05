@@ -1,0 +1,13 @@
+{
+  "name": "soxoa",
+  "displayName": "Soxoa",
+  "description": "Choose an automation pilot.",
+  "homepage": "https://soxoa.com",
+  "docs": "https://soxoa.com",
+  "auth": "none",
+  "mcpServers": {
+    "soxoa": {
+      "url": "https://soxoa.com/mcp"
+    }
+  }
+}

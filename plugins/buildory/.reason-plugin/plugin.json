@@ -1,0 +1,13 @@
+{
+  "name": "buildory",
+  "displayName": "Buildory",
+  "description": "Manage your maker projects.",
+  "homepage": "https://buildory.app/",
+  "docs": "https://buildory.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "buildory": {
+      "url": "https://buildory.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "taskaid",
+  "displayName": "Taskaid",
+  "description": "Tasks for you and your agents.",
+  "homepage": "https://taskaid.ai",
+  "docs": "https://taskaid.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "taskaid": {
+      "url": "https://taskaid.ai/mcp"
+    }
+  }
+}

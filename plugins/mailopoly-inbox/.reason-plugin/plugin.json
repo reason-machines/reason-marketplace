@@ -1,0 +1,13 @@
+{
+  "name": "mailopoly-inbox",
+  "displayName": "Mailopoly Inbox",
+  "description": "Search, send emails & messages.",
+  "homepage": "https://www.mailopoly.com",
+  "docs": "https://www.mailopoly.com/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mailopoly-inbox": {
+      "url": "https://fastapi.prod.aws.mailopoly.com/mcp-server/"
+    }
+  }
+}

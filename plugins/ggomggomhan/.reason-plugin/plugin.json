@@ -1,0 +1,13 @@
+{
+  "name": "ggomggomhan",
+  "displayName": "Ggomggomhan – Planner & Notes",
+  "description": "Planner, calendar & notes.",
+  "homepage": "https://ggomggomhan.com",
+  "docs": "https://ggomggomhan.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ggomggomhan": {
+      "url": "https://ggomggomhan.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pressure-atlas",
+  "displayName": "Pressure Atlas",
+  "description": "Macro pressure context for AI.",
+  "homepage": "https://pressureatlas.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.pressureatlas",
+  "auth": "oauth",
+  "mcpServers": {
+    "pressure-atlas": {
+      "url": "https://api.pressureatlas.com/mcp"
+    }
+  }
+}

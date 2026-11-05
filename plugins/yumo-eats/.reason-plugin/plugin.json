@@ -1,0 +1,13 @@
+{
+  "name": "yumo-eats",
+  "displayName": "Yumo Eats",
+  "description": "Find food and draft carts.",
+  "homepage": "https://yumoeats.com",
+  "docs": "https://yumoeats.com",
+  "auth": "none",
+  "mcpServers": {
+    "yumo-eats": {
+      "url": "https://yumoeats.com/mcp"
+    }
+  }
+}

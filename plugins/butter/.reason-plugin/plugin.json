@@ -1,0 +1,13 @@
+{
+  "name": "butter",
+  "displayName": "Butter",
+  "description": "Make editable videos.",
+  "homepage": "https://www.butter.video",
+  "docs": "https://butter.video/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "butter": {
+      "url": "https://ai.butter.video/mcp"
+    }
+  }
+}

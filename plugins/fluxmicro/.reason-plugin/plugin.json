@@ -1,0 +1,13 @@
+{
+  "name": "fluxmicro",
+  "displayName": "FluxMicro",
+  "description": "French freelance invoicing.",
+  "homepage": "https://fluxmicro.fr",
+  "docs": "https://fluxmicro.fr",
+  "auth": "oauth",
+  "mcpServers": {
+    "fluxmicro": {
+      "url": "https://mcp.fluxmicro.fr/mcp"
+    }
+  }
+}

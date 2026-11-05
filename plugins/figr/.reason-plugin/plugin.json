@@ -1,0 +1,13 @@
+{
+  "name": "figr",
+  "displayName": "Figr",
+  "description": "Design Agent for Product Teams.",
+  "homepage": "https://figr.design/",
+  "docs": "https://figr.design/",
+  "auth": "oauth",
+  "mcpServers": {
+    "figr": {
+      "url": "https://mcp.figr.design/mcp"
+    }
+  }
+}

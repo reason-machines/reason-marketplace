@@ -1,0 +1,13 @@
+{
+  "name": "map-audio",
+  "displayName": "MAP Audio",
+  "description": "Audio analysis and tinkering.",
+  "homepage": "https://audio.map.audio",
+  "docs": "https://map.audio/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "map-audio": {
+      "url": "https://api.map.audio/mcp"
+    }
+  }
+}

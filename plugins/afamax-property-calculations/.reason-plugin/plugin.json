@@ -1,0 +1,13 @@
+{
+  "name": "afamax-property-calculations",
+  "displayName": "AfAMax Property Calculations",
+  "description": "German property calculations.",
+  "homepage": "https://rundum.immo",
+  "docs": "https://rundum.immo",
+  "auth": "none",
+  "mcpServers": {
+    "afamax-property-calculations": {
+      "url": "https://mcp.rundum.immo/mcp"
+    }
+  }
+}

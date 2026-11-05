@@ -1,0 +1,13 @@
+{
+  "name": "airport-pickups-london",
+  "displayName": "Airport Pickups London",
+  "description": "Book London airport transfers.",
+  "homepage": "https://www.airport-pickups-london.com",
+  "docs": "https://www.airport-pickups-london.com",
+  "auth": "none",
+  "mcpServers": {
+    "airport-pickups-london": {
+      "url": "https://mcp.airport-pickups-london.com/mcp"
+    }
+  }
+}

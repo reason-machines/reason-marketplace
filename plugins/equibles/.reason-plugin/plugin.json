@@ -1,0 +1,13 @@
+{
+  "name": "equibles",
+  "displayName": "Equibles",
+  "description": "Stock market data & options.",
+  "homepage": "https://equibles.com",
+  "docs": "https://equibles.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "equibles": {
+      "url": "https://mcp.equibles.com/mcp"
+    }
+  }
+}

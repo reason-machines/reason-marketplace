@@ -1,0 +1,13 @@
+{
+  "name": "ullbek",
+  "displayName": "Ullbek",
+  "description": "Build and publish websites.",
+  "homepage": "https://ullbek.com",
+  "docs": "https://ullbek.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ullbek": {
+      "url": "https://api.ullbek.com/mcp"
+    }
+  }
+}

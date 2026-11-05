@@ -1,0 +1,13 @@
+{
+  "name": "just-publish",
+  "displayName": "Just Publish.",
+  "description": "Publish websites to a live URL.",
+  "homepage": "https://justpublish.ai",
+  "docs": "https://justpublish.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "just-publish": {
+      "url": "https://mcp.justpublish.ai/mcp"
+    }
+  }
+}

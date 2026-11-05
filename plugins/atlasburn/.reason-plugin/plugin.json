@@ -1,0 +1,13 @@
+{
+  "name": "atlasburn",
+  "displayName": "AtlasBurn",
+  "description": "Track and control AI spend.",
+  "homepage": "https://atlasburn.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.atlasburn",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlasburn": {
+      "url": "https://app.atlasburn.com/api/mcp"
+    }
+  }
+}

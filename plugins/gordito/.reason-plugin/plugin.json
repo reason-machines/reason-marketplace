@@ -1,0 +1,13 @@
+{
+  "name": "gordito",
+  "displayName": "Gordito",
+  "description": "Vocabulary notebook for agent.",
+  "homepage": "https://gordito.app",
+  "docs": "https://gordito.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "gordito": {
+      "url": "https://mcp.gordito.app/mcp"
+    }
+  }
+}

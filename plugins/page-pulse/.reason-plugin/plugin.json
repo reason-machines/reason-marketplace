@@ -1,0 +1,13 @@
+{
+  "name": "page-pulse",
+  "displayName": "Page Pulse",
+  "description": "Track SEO and page changes.",
+  "homepage": "https://pagepulse.dev/",
+  "docs": "https://pagepulse.dev/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "page-pulse": {
+      "url": "https://app.pagepulse.dev/mcp"
+    }
+  }
+}

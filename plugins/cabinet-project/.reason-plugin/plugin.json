@@ -1,0 +1,13 @@
+{
+  "name": "cabinet-project",
+  "displayName": "Cabinet Project",
+  "description": "Quotes, jobs, cabinet prices.",
+  "homepage": "https://cabinetproject.app/",
+  "docs": "https://cabinetproject.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "cabinet-project": {
+      "url": "https://mcp.cabinetproject.app/mcp"
+    }
+  }
+}

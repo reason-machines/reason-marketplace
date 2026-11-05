@@ -1,0 +1,13 @@
+{
+  "name": "socialinsider",
+  "displayName": "Socialinsider",
+  "description": "Social media analytics.",
+  "homepage": "https://www.socialinsider.io",
+  "docs": "https://www.socialinsider.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "socialinsider": {
+      "url": "https://mcp.socialinsider.io/mcp"
+    }
+  }
+}

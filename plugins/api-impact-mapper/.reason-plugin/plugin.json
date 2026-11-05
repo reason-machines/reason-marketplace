@@ -1,0 +1,13 @@
+{
+  "name": "api-impact-mapper",
+  "displayName": "API Impact Mapper",
+  "description": "Map API changes and impacts.",
+  "homepage": "https://api-impact-mapper.sidcraigau.workers.dev",
+  "docs": "https://api-impact-mapper.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "api-impact-mapper": {
+      "url": "https://api-impact-mapper.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

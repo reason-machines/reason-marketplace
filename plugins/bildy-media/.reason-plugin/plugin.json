@@ -1,0 +1,13 @@
+{
+  "name": "bildy-media",
+  "displayName": "Bildy",
+  "description": "Create images and videos.",
+  "homepage": "https://bildy.ai",
+  "docs": "https://bildy.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "bildy-media": {
+      "url": "https://bildy.ai/mcp"
+    }
+  }
+}

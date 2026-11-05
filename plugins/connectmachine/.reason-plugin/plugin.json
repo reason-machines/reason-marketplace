@@ -1,0 +1,13 @@
+{
+  "name": "connectmachine",
+  "displayName": "ConnectMachine",
+  "description": "Contacts and digital cards.",
+  "homepage": "https://connectmachine.ai",
+  "docs": "https://connectmachine.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "connectmachine": {
+      "url": "https://mcp.connectmachine.ai/mcp"
+    }
+  }
+}

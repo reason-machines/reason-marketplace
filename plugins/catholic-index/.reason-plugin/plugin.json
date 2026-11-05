@@ -1,0 +1,13 @@
+{
+  "name": "catholic-index",
+  "displayName": "Catholic Index",
+  "description": "Find Mass times and churches.",
+  "homepage": "https://catholicindex.org",
+  "docs": "https://catholicindex.org",
+  "auth": "none",
+  "mcpServers": {
+    "catholic-index": {
+      "url": "https://mcp.catholicindex.org/mcp"
+    }
+  }
+}

@@ -10,5 +10,35 @@
     "resend": {
       "url": "https://mcp.resend.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "agent-email-inbox",
+      "description": "Use when building any system where email content triggers actions — AI agent inboxes, automated support handlers, email-to-task pipelines, or any workflow processing untrusted inbound email. Always use this skill when the user wants to receive emails and act on them programmatically, even if they do",
+      "source": "resend/resend-skills#56d7bbf865beaafcdd21e820e16bbd02026c2647",
+      "skill": "agent-email-inbox",
+      "url": "https://github.com/resend/resend-skills/tree/56d7bbf865beaafcdd21e820e16bbd02026c2647/skills/agent-email-inbox"
+    },
+    {
+      "name": "email-best-practices",
+      "description": "Use when building email features, emails going to spam, high bounce rates, setting up SPF/DKIM/DMARC authentication, implementing email capture, ensuring compliance (CAN-SPAM, GDPR, CASL), handling webhooks, retry logic, making emails accessible (alt text, headings, contrast, screen readers), or dec",
+      "source": "resend/resend-skills#56d7bbf865beaafcdd21e820e16bbd02026c2647",
+      "skill": "email-best-practices",
+      "url": "https://github.com/resend/resend-skills/tree/56d7bbf865beaafcdd21e820e16bbd02026c2647/skills/email-best-practices"
+    },
+    {
+      "name": "react-email",
+      "description": "Use when building HTML email templates with React components, adding a visual email editor to an application using the React Email visual editor, rendering emails to HTML, or sending emails with Resend. Covers welcome emails, password resets, notifications, order confirmations, newsletters, transact",
+      "source": "resend/resend-skills#56d7bbf865beaafcdd21e820e16bbd02026c2647",
+      "skill": "react-email",
+      "url": "https://github.com/resend/resend-skills/tree/56d7bbf865beaafcdd21e820e16bbd02026c2647/skills/react-email"
+    },
+    {
+      "name": "resend-cli",
+      "description": "Operate the Resend platform from the terminal — send emails (including React Email .tsx templates via --react-email), manage domains, contacts, broadcasts, templates, webhooks, API keys, logs, automations, and events via the `resend` CLI. Use when the user wants to run Resend commands in the shell, ",
+      "source": "resend/resend-skills#56d7bbf865beaafcdd21e820e16bbd02026c2647",
+      "skill": "resend-cli",
+      "url": "https://github.com/resend/resend-skills/tree/56d7bbf865beaafcdd21e820e16bbd02026c2647/skills/resend-cli"
+    }
+  ]
 }

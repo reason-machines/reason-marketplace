@@ -1,0 +1,13 @@
+{
+  "name": "make-parts-now",
+  "displayName": "MakePartsNow.com",
+  "description": "Quote and order custom parts.",
+  "homepage": "https://makepartsnow.com",
+  "docs": "https://makepartsnow.com",
+  "auth": "none",
+  "mcpServers": {
+    "make-parts-now": {
+      "url": "https://makepartsnow.com/mcp"
+    }
+  }
+}

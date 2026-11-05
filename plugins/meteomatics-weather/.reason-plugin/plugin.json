@@ -1,0 +1,13 @@
+{
+  "name": "meteomatics-weather",
+  "displayName": "Meteomatics Weather",
+  "description": "Entreprise-grade weather data.",
+  "homepage": "https://www.meteomatics.com/",
+  "docs": "https://www.meteomatics.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "meteomatics-weather": {
+      "url": "https://mcp.meteomatics.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "iubenda-privacy-compliance",
+  "displayName": "iubenda: Privacy compliance",
+  "description": "Policies, terms, cookie banner.",
+  "homepage": "https://www.iubenda.com",
+  "docs": "https://www.iubenda.com/en/help/222393-how-to-connect-iubenda-to-claude-and-chatgpt/",
+  "auth": "oauth",
+  "mcpServers": {
+    "iubenda-privacy-compliance": {
+      "url": "https://mcp-server.iubenda.com/mcp"
+    }
+  }
+}

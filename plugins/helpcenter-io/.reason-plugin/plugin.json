@@ -1,0 +1,13 @@
+{
+  "name": "helpcenter-io",
+  "displayName": "HelpCenter.io",
+  "description": "Build and manage a help center.",
+  "homepage": "https://helpcenter.io",
+  "docs": "https://helpcenter.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "helpcenter-io": {
+      "url": "https://mcp.helpcenter.io/mcp"
+    }
+  }
+}

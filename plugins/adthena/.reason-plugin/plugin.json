@@ -1,0 +1,13 @@
+{
+  "name": "adthena",
+  "displayName": "Adthena",
+  "description": "Search & AI Intelligence.",
+  "homepage": "https://www.adthena.com",
+  "docs": "https://www.adthena.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "adthena": {
+      "url": "https://mcp.adthena.com/mcp"
+    }
+  }
+}

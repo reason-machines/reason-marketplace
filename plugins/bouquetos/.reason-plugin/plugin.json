@@ -1,0 +1,13 @@
+{
+  "name": "bouquetos",
+  "displayName": "BouquetOS",
+  "description": "Run your flower shop's orders.",
+  "homepage": "https://www.bouquetos.com",
+  "docs": "https://www.bouquetos.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "bouquetos": {
+      "url": "https://mcp.bouquetos.com/mcp"
+    }
+  }
+}

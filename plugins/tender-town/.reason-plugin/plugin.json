@@ -1,0 +1,13 @@
+{
+  "name": "tender-town",
+  "displayName": "Tender Town",
+  "description": "Find public tenders to bid.",
+  "homepage": "https://tendertown.io",
+  "docs": "https://tendertown.io/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "tender-town": {
+      "url": "https://tendertown.io/api/mcp"
+    }
+  }
+}

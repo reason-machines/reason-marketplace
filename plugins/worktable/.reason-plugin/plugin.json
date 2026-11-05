@@ -1,0 +1,13 @@
+{
+  "name": "worktable",
+  "displayName": "Worktable",
+  "description": "Your shared agent workspace.",
+  "homepage": "https://www.worktable.cloud",
+  "docs": "https://app.worktable.cloud/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "worktable": {
+      "url": "https://app.worktable.cloud/api/mcp"
+    }
+  }
+}

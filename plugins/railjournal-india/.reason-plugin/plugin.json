@@ -1,0 +1,13 @@
+{
+  "name": "railjournal-india",
+  "displayName": "RailJournal India",
+  "description": "Indian train & station lookup.",
+  "homepage": "https://railjournal.in",
+  "docs": "https://railjournal.in",
+  "auth": "none",
+  "mcpServers": {
+    "railjournal-india": {
+      "url": "https://railjournal.in/mcp"
+    }
+  }
+}

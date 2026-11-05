@@ -10,5 +10,238 @@
     "zoominfo": {
       "url": "https://mcp.zoominfo.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "account-health",
+      "description": "Assess the health of an account from its recent conversations — sentiment trajectory and risk signals — backed by an engagement timeline and an account_research snapshot. Identify the account by ZoomInfo company ID (preferred) or name/domain (triggers a lookup). Use when someone asks \"how healthy is",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "account-health",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/account-health"
+    },
+    {
+      "name": "account-relationship-recap",
+      "description": "Recap where things stand with a company across recent conversations, with emphasis on how the relationship is evolving. Identify the account by ZoomInfo company ID (preferred) or by name or domain (triggers a lookup). Blends account_research for deal and firmographic context with company-scoped conv",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "account-relationship-recap",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/account-relationship-recap"
+    },
+    {
+      "name": "account-research",
+      "description": "Produce a full intelligence brief on a target company — firmographics, CRM/account context, intent signals, recent news, scoops, and competitive landscape — framed by your GTM context and led with a TL;DR summary. Identify the account by ZoomInfo account/company ID (preferred) or by company name, do",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "account-research",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/account-research"
+    },
+    {
+      "name": "ae-cs-handoff",
+      "description": "Produce an AE-to-CS handoff brief — everything the incoming CSM needs from the sales conversations. Builds an engagement timeline, then runs conversation_intelligence in parallel on the key engagements to pull requirements, success criteria, stakeholders and how they like to work, and the relationsh",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "ae-cs-handoff",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/ae-cs-handoff"
+    },
+    {
+      "name": "build-list",
+      "description": "Build a list of contacts or companies matching specific criteria. Describe what you're looking for in natural language and get a structured, tabular list you can export. Supports filtering by title, seniority, department, industry, company size, location, tech stack, growth rate, and more. Outputs a",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "build-list",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/build-list"
+    },
+    {
+      "name": "buying-committee",
+      "description": "Map the buying committee at a target account. Identifies decision-makers, prioritizes who to engage, and surfaces gaps and multi-thread risks. Leads with a TL;DR (top 3 to engage, biggest gap, multi-thread risk), uses compact tables, and deep-researches top stakeholders to catch stale records. Ident",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "buying-committee",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/buying-committee"
+    },
+    {
+      "name": "call-coaching",
+      "description": "Coach a rep on how they handled a specific call — discovery quality, objection handling, talk dynamics, and next-call focus. Name the call if you know it, or let the skill pull recent calls and identify the most likely candidate to confirm. Uses conversation_intelligence to read how the conversation",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "call-coaching",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/call-coaching"
+    },
+    {
+      "name": "call-recap",
+      "description": "Recap a recent call with a tight summary, the decisions made, action items, and open questions. Name the call (account and/or date) if you know it, or let the skill pull your most recent calls and offer a shortlist to pick from. Uses conversation_intelligence to read what was actually said, with lig",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "call-recap",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/call-recap"
+    },
+    {
+      "name": "commitment-ledger",
+      "description": "Build a ledger of what we promised versus what they promised, and what is still outstanding, across the last few engagements with an account or contact. Uses conversation_intelligence as the primary source. Identify the account or contact by ZoomInfo ID (preferred) or name (triggers a lookup), or po",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "commitment-ledger",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/commitment-ledger"
+    },
+    {
+      "name": "company-intent-monitor",
+      "description": "Monitor a company's buyer-intent signals and assess fit against your GTM context. Uses company signals scoped to intent for a single account, returns the recent topics it is researching, and analyzes which ones align with your offerings and ICP. Identify the company by ZoomInfo company ID (preferred",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "company-intent-monitor",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/company-intent-monitor"
+    },
+    {
+      "name": "company-news-monitor",
+      "description": "Monitor recent news and business events for a company and deliver a quick digest. Uses company signals scoped to news and scoops for a single account, grouped by type and recency, with a \"so what\" for each. Identify the company by ZoomInfo company ID (preferred) or name/domain (triggers a lookup). U",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "company-news-monitor",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/company-news-monitor"
+    },
+    {
+      "name": "contact-relationship-recap",
+      "description": "Recap where things stand with a specific person across recent conversations, with emphasis on how the relationship is evolving. Identify the contact by ZoomInfo contact ID (preferred) or by name plus company (triggers a lookup). Blends contact-scoped conversation_intelligence for what this person ha",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "contact-relationship-recap",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/contact-relationship-recap"
+    },
+    {
+      "name": "daily-brief",
+      "description": "Brief the user on their day. Pull today's (or a named day's) meetings and, for each, synthesize the current state of play, a suggested focus or objective, and any follow-ups needed. Uses browse_engagements for the schedule, then account_research, contact_research, and conversation_intelligence per m",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "daily-brief",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/daily-brief"
+    },
+    {
+      "name": "decision-process-mapper",
+      "description": "Map a prospect's buying process as voiced on recent calls — their stated decision criteria, timeline, steps, and approvers. Uses conversation_intelligence over an account's recent engagements, with account_research for stakeholder context. Identify the account by ZoomInfo company ID (preferred) or n",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "decision-process-mapper",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/decision-process-mapper"
+    },
+    {
+      "name": "draft-follow-up",
+      "description": "Draft a follow-up email after a call by extracting the commitments and next steps that were actually agreed, then writing a compact, friendly-professional message. Name the call if you know it, or let the skill pull recent calls to pick from. Uses conversation_intelligence to read what was said and ",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "draft-follow-up",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/draft-follow-up"
+    },
+    {
+      "name": "email-thread-summarizer",
+      "description": "Summarize a long email thread into its current state, the decisions and key points, and the open questions. Finds the thread with browse_engagements (emails), then uses conversation_intelligence with includeContent to read the actual thread body. Name the account, contact, or subject if you know it,",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "email-thread-summarizer",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/email-thread-summarizer"
+    },
+    {
+      "name": "engagement-timeline",
+      "description": "Build a timeline of engagements (meetings and emails) with an account or contact over a date range. Identify the account or contact by ZoomInfo ID (preferred), or by name or domain (triggers a lookup), or omit both to time-line your own recent engagements. Defaults to the last 90 days and can slide ",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "engagement-timeline",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/engagement-timeline"
+    },
+    {
+      "name": "enrich-company",
+      "description": "Look up a company's full profile. Provide a company name, domain, ticker symbol, or ZoomInfo company ID. Returns firmographics, financials, corporate structure, growth signals, and contact counts.",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "enrich-company",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/enrich-company"
+    },
+    {
+      "name": "enrich-contact",
+      "description": "Look up a person's full professional profile. Provide a name and company, email address, phone number, or ZoomInfo person ID. Returns title, department, contact details, accuracy score, and company info.",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "enrich-contact",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/enrich-contact"
+    },
+    {
+      "name": "exec-brief",
+      "description": "Produce a succinct one-pager for an executive dropping into a call with zero context. Blends account_research (who they are, deal state), conversation_intelligence (what has been discussed and what is open), and contact_research (who is in the room). Identify the account by ZoomInfo company ID (pref",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "exec-brief",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/exec-brief"
+    },
+    {
+      "name": "find-similar",
+      "description": "Find companies or contacts similar to a given reference. Provide a company name/domain or a person's name/email and get a ranked list of lookalikes scored by similarity. Useful for territory expansion, TAM analysis, competitive mapping, expanding buyer networks, and building targeted prospecting lis",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "find-similar",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/find-similar"
+    },
+    {
+      "name": "meeting-prep",
+      "description": "Prepare for an upcoming meeting with a company. Identify the account by ZoomInfo account/company ID (preferred) or by company name, domain, or ticker (which triggers a lookup step) — or name no account at all and let the skill pick the meeting from your upcoming calendar. Provide attendee names or e",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "meeting-prep",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/meeting-prep"
+    },
+    {
+      "name": "mutual-action-plan",
+      "description": "Build a mutual action plan (MAP) from what was actually discussed on recent calls — the shared, dated set of steps each side owns to reach the goal. Reviews recent engagements and goes deep with conversation_intelligence scoped to individual calls to pull open items, agreed next steps, owners, and t",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "mutual-action-plan",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/mutual-action-plan"
+    },
+    {
+      "name": "next-best-action",
+      "description": "Recommend the next best action on a deal or relationship, grounded in the current conversation state. Uses conversation_intelligence as the primary source, with account_research for deal context. Identify the account or contact by ZoomInfo ID (preferred) or name (triggers a lookup), or point it at a",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "next-best-action",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/next-best-action"
+    },
+    {
+      "name": "objection-blocker-tracker",
+      "description": "Track the open objections and blockers on a deal and how they have evolved across recent calls. Uses conversation_intelligence over an account's or contact's recent engagements. Identify the account or contact by ZoomInfo ID (preferred) or name (triggers a lookup). Use when someone asks \"what object",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "objection-blocker-tracker",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/objection-blocker-tracker"
+    },
+    {
+      "name": "personalize-email",
+      "description": "Generate 1-3 personalized email variants for a single prospect. The composition bar adapts to the use case — cold_outbound demands a signal → pain → positioning chain; follow-ups / recaps / renewals lean on prior context and next-step framing. Supports cold_outbound, discovery_follow_up, demo_recap,",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "personalize-email",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/personalize-email"
+    },
+    {
+      "name": "qbr-prep",
+      "description": "Assemble a QBR prep pack for a business review — value moments, usage and adoption themes, risks, and open items, with a deal and relationship snapshot. Combines account_research for the account picture with conversation_intelligence over recent calls (scoped to individual engagements) for what the ",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "qbr-prep",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/qbr-prep"
+    },
+    {
+      "name": "recommend-contacts",
+      "description": "Get AI-powered contact recommendations at a target company based on your ZoomInfo interaction history. Provide a company name or domain and optionally a use case.",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "recommend-contacts",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/recommend-contacts"
+    },
+    {
+      "name": "renewal-prep",
+      "description": "Prepare for a renewal by assembling pre-renewal context — value delivered and value moments, risk handles, and stakeholder state — from recent conversations and account_research. Identify the account by ZoomInfo company ID (preferred) or name/domain (triggers a lookup). Use when someone asks \"prep m",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "renewal-prep",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/renewal-prep"
+    },
+    {
+      "name": "score-accounts",
+      "description": "Score and rank a list of accounts (mixed ZoomInfo company IDs, names, or domains) by ICP fit + buying intent + recent triggers. Returns per-account composite score (0–100), tier (A/B/C), explainable component breakdown (fit / intent / trigger / engagement), a specific \"why now\" sentence per account,",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "score-accounts",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/score-accounts"
+    },
+    {
+      "name": "score-leads",
+      "description": "Score and prioritize leads or cold contacts (mixed ZoomInfo person IDs, emails, or name+company rows). Returns Hot / Warm / Cold tier per lead with a response-time SLA tuned to the use case (live inbound routing, MQL triage, event follow-up, PQL triage, content follow-up, SDR queue ordering), per-ax",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "score-leads",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/score-leads"
+    },
+    {
+      "name": "tech-stack-snapshot",
+      "description": "Produce a technology-stack snapshot for one or more companies — what CRM, marketing automation, sales engagement, data warehouse, analytics, conversation intelligence, and other tools they have tagged in ZoomInfo's database. Groups detected products by category, surfaces displacement plays for compe",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "tech-stack-snapshot",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/tech-stack-snapshot"
+    },
+    {
+      "name": "why-now",
+      "description": "Build a \"why now\" case for reaching out to a company — the timing thesis and the specific hooks to lead with — by combining company signals (intent, news, scoops), account_research, your GTM context, and web research. Identify the company by ZoomInfo company ID (preferred) or name/domain (triggers a",
+      "source": "zoominfo/zoominfo-mcp-plugin#31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "skill": "why-now",
+      "url": "https://github.com/zoominfo/zoominfo-mcp-plugin/tree/31a1ec506078e0aaf4e14e098e39865f32777d8a/skills/why-now"
+    }
+  ]
 }

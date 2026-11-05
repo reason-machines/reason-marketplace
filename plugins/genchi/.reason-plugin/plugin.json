@@ -1,0 +1,13 @@
+{
+  "name": "genchi",
+  "displayName": "Genchi",
+  "description": "See how your teams are doing.",
+  "homepage": "https://www.genchi.com/",
+  "docs": "https://genchi.com/mcp-integration-info.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "genchi": {
+      "url": "https://genchi.com/api/mcp"
+    }
+  }
+}

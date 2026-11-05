@@ -1,0 +1,13 @@
+{
+  "name": "maktkartan",
+  "displayName": "Maktkartan",
+  "description": "Sök svensk statsmakt.",
+  "homepage": "https://maktkartan.se",
+  "docs": "https://maktkartan.se",
+  "auth": "none",
+  "mcpServers": {
+    "maktkartan": {
+      "url": "https://maktkartan.se/mcp"
+    }
+  }
+}

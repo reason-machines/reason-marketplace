@@ -1,0 +1,13 @@
+{
+  "name": "planewx",
+  "displayName": "PlaneWX",
+  "description": "Aviation weather for pilots.",
+  "homepage": "https://planewx.ai",
+  "docs": "https://planewx.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "planewx": {
+      "url": "https://app.planewx.ai/api/mcp"
+    }
+  }
+}

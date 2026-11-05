@@ -1,0 +1,13 @@
+{
+  "name": "taxmadeeazy-rideshare-ded",
+  "displayName": "TaxMadeEazy: Rideshare Ded",
+  "description": "Rideshare Tax Deduction.",
+  "homepage": "https://TaxMadeEazy.com",
+  "docs": "https://TaxMadeEazy.com",
+  "auth": "none",
+  "mcpServers": {
+    "taxmadeeazy-rideshare-ded": {
+      "url": "https://mcp.taxmadeeazy.com/mcp"
+    }
+  }
+}

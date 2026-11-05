@@ -1,0 +1,13 @@
+{
+  "name": "preshiftiq",
+  "displayName": "PreShiftIQ",
+  "description": "Supply chain vendor selection.",
+  "homepage": "https://preshiftiq.com",
+  "docs": "https://preshiftiq.com",
+  "auth": "none",
+  "mcpServers": {
+    "preshiftiq": {
+      "url": "https://mcp.preshiftiq.com/mcp"
+    }
+  }
+}

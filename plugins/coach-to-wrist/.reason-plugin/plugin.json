@@ -1,0 +1,13 @@
+{
+  "name": "coach-to-wrist",
+  "displayName": "Coach to Wrist",
+  "description": "Plan and analyse your workouts.",
+  "homepage": "https://www.coachtowrist.com",
+  "docs": "https://www.coachtowrist.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "coach-to-wrist": {
+      "url": "https://coachtowrist.com/mcp"
+    }
+  }
+}

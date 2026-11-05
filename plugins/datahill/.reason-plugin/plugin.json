@@ -1,0 +1,13 @@
+{
+  "name": "datahill",
+  "displayName": "DATAHILL",
+  "description": "Contexto, prioridade e direção.",
+  "homepage": "https://datahill.ai",
+  "docs": "https://datahill.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "datahill": {
+      "url": "https://mcp.datahill.ai/"
+    }
+  }
+}

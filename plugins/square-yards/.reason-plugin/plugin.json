@@ -1,0 +1,13 @@
+{
+  "name": "square-yards",
+  "displayName": "Square Yards",
+  "description": "Find properties in India.",
+  "homepage": "https://www.squareyards.com/",
+  "docs": "https://www.squareyards.com/",
+  "auth": "none",
+  "mcpServers": {
+    "square-yards": {
+      "url": "https://mcp.squareyards.com/mcp"
+    }
+  }
+}

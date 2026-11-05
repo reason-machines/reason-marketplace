@@ -1,0 +1,13 @@
+{
+  "name": "coliving",
+  "displayName": "Coliving",
+  "description": "Find coliving spaces worldwide.",
+  "homepage": "https://coliving.com",
+  "docs": "https://coliving.com",
+  "auth": "none",
+  "mcpServers": {
+    "coliving": {
+      "url": "https://mcp.coliving.com/mcp"
+    }
+  }
+}

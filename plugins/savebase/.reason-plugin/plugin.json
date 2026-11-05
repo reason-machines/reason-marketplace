@@ -1,0 +1,13 @@
+{
+  "name": "savebase",
+  "displayName": "Savebase",
+  "description": "Search your saved content.",
+  "homepage": "https://savebase.space/",
+  "docs": "https://savebase.space/",
+  "auth": "oauth",
+  "mcpServers": {
+    "savebase": {
+      "url": "https://mcp.savebase.space/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "standvirtual",
+  "displayName": "Standvirtual",
+  "description": "Your dream car in Standvirtual.",
+  "homepage": "https://www.standvirtual.com/",
+  "docs": "https://www.standvirtual.com/",
+  "auth": "none",
+  "mcpServers": {
+    "standvirtual": {
+      "url": "https://mcp.standvirtual.com/mcp"
+    }
+  }
+}

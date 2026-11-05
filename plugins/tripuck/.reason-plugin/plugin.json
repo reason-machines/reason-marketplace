@@ -1,0 +1,13 @@
+{
+  "name": "tripuck",
+  "displayName": "Tripuck",
+  "description": "Flights, hotels & eSIM plans.",
+  "homepage": "https://tripuck.com",
+  "docs": "https://tripuck.com",
+  "auth": "none",
+  "mcpServers": {
+    "tripuck": {
+      "url": "https://mcp.tripuck.com/mcp"
+    }
+  }
+}

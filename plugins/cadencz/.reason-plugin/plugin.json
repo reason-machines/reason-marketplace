@@ -1,0 +1,13 @@
+{
+  "name": "cadencz",
+  "displayName": "Cadencz",
+  "description": "Plan and schedule social posts.",
+  "homepage": "https://cadencz.com",
+  "docs": "https://cadencz.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cadencz": {
+      "url": "https://api.cadencz.com/mcp"
+    }
+  }
+}

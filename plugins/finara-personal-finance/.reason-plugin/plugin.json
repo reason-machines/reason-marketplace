@@ -1,0 +1,13 @@
+{
+  "name": "finara-personal-finance",
+  "displayName": "Finara Personal Finance",
+  "description": "Track balances and expenses.",
+  "homepage": "https://finarasystem.com",
+  "docs": "https://finarasystem.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "finara-personal-finance": {
+      "url": "https://mcp.finarasystem.com/mcp"
+    }
+  }
+}

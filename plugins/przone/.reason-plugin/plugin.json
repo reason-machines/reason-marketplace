@@ -1,0 +1,13 @@
+{
+  "name": "przone",
+  "displayName": "PRZone",
+  "description": "Your training data in chat.",
+  "homepage": "https://przone.app/mcp",
+  "docs": "https://przone.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "przone": {
+      "url": "https://www.przone.app/api/mcp"
+    }
+  }
+}

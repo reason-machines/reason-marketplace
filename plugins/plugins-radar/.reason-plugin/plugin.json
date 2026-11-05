@@ -1,0 +1,13 @@
+{
+  "name": "plugins-radar",
+  "displayName": "Plugins Radar",
+  "description": "Insights for plugin makers.",
+  "homepage": "https://pluginsradar.com",
+  "docs": "https://pluginsradar.com",
+  "auth": "none",
+  "mcpServers": {
+    "plugins-radar": {
+      "url": "https://pluginsradar.com/mcp"
+    }
+  }
+}

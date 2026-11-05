@@ -1,0 +1,13 @@
+{
+  "name": "a4b-cmms",
+  "displayName": "A4B CMMS",
+  "description": "Track assets and maintenance.",
+  "homepage": "https://a4b.ai",
+  "docs": "https://a4b.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "a4b-cmms": {
+      "url": "https://a4b.ai/mcp"
+    }
+  }
+}

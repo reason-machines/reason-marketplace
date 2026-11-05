@@ -1,0 +1,13 @@
+{
+  "name": "pokeka",
+  "displayName": "Pokeka",
+  "description": "Graded Pokemon card prices.",
+  "homepage": "https://pokeka.xyz",
+  "docs": "https://pokeka.xyz",
+  "auth": "none",
+  "mcpServers": {
+    "pokeka": {
+      "url": "https://pokeka.xyz/mcp"
+    }
+  }
+}

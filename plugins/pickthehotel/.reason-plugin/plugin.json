@@ -1,0 +1,13 @@
+{
+  "name": "pickthehotel",
+  "displayName": "pickthehotel",
+  "description": "Find Hotels.",
+  "homepage": "https://pickthehotel.com",
+  "docs": "https://pickthehotel.com",
+  "auth": "none",
+  "mcpServers": {
+    "pickthehotel": {
+      "url": "https://pickthehotel.com/mcp"
+    }
+  }
+}

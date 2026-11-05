@@ -1,0 +1,13 @@
+{
+  "name": "cadabra",
+  "displayName": "Cadabra AI",
+  "description": "Make films, videos and images.",
+  "homepage": "https://www.livinginmovie.com",
+  "docs": "https://www.livinginmovie.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cadabra": {
+      "url": "https://mcp.livinginmovie.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "movie-pick",
+  "displayName": "Movie Pick",
+  "description": "Personal movie recommendations.",
+  "homepage": "https://moviepick.app/",
+  "docs": "https://moviepick.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "movie-pick": {
+      "url": "https://moviepick.app/mcp"
+    }
+  }
+}

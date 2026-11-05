@@ -1,0 +1,13 @@
+{
+  "name": "email-spam-tester",
+  "displayName": "Email Spam Tester",
+  "description": "Check email before you send.",
+  "homepage": "https://email-spam-tester.com",
+  "docs": "https://email-spam-tester.com",
+  "auth": "none",
+  "mcpServers": {
+    "email-spam-tester": {
+      "url": "https://email-spam-tester.com/mcp"
+    }
+  }
+}

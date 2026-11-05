@@ -1,0 +1,13 @@
+{
+  "name": "uvlens",
+  "displayName": "UVLens",
+  "description": "UV forecasts and burn times.",
+  "homepage": "https://uvlens.com",
+  "docs": "https://uvlens.com",
+  "auth": "none",
+  "mcpServers": {
+    "uvlens": {
+      "url": "https://mcp.uvlens.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "seo-cockpit",
+  "displayName": "SEO Cockpit",
+  "description": "Read-only Search Console data.",
+  "homepage": "https://seocockpit.online",
+  "docs": "https://seocockpit.online",
+  "auth": "oauth",
+  "mcpServers": {
+    "seo-cockpit": {
+      "url": "https://seocockpit.online/mcp"
+    }
+  }
+}

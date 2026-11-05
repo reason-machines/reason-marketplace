@@ -1,0 +1,13 @@
+{
+  "name": "aiweb-call",
+  "displayName": "AIWEB Call",
+  "description": "Call through Reason.",
+  "homepage": "https://theaiwebcompany.com/",
+  "docs": "https://theaiwebcompany.com/mcp-server",
+  "auth": "none",
+  "mcpServers": {
+    "aiweb-call": {
+      "url": "https://www.os.theaiwebcompany.com/mcp"
+    }
+  }
+}

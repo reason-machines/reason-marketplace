@@ -1,0 +1,13 @@
+{
+  "name": "branchlight",
+  "displayName": "Simple Mind Map",
+  "description": "Understand ideas visually.",
+  "homepage": "https://simple-mind-map-mtahreemalam.vercel.app",
+  "docs": "https://simple-mind-map-mtahreemalam.vercel.app",
+  "auth": "none",
+  "mcpServers": {
+    "branchlight": {
+      "url": "https://simple-mind-map-mtahreemalam.vercel.app/api/mcp"
+    }
+  }
+}

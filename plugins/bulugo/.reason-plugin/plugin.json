@@ -1,0 +1,13 @@
+{
+  "name": "bulugo",
+  "displayName": "Bulugo",
+  "description": "Marine fuel marketplace.",
+  "homepage": "https://bulugo.com",
+  "docs": "https://bulugo.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "bulugo": {
+      "url": "https://my.bulugo.com/v1/mcp"
+    }
+  }
+}

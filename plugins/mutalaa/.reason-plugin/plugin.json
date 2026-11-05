@@ -1,0 +1,13 @@
+{
+  "name": "mutalaa",
+  "displayName": "Mütalaa: Hukuk, Vergi, İçtihat",
+  "description": "Turkish law, tax & case law.",
+  "homepage": "https://mutalaa.tr",
+  "docs": "https://mutalaa.tr",
+  "auth": "oauth",
+  "mcpServers": {
+    "mutalaa": {
+      "url": "https://mutalaa.tr/mcp"
+    }
+  }
+}

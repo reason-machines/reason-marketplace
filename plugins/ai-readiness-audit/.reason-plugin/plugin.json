@@ -1,0 +1,13 @@
+{
+  "name": "ai-readiness-audit",
+  "displayName": "AI Readiness Audit",
+  "description": "AI audit for marketing teams.",
+  "homepage": "https://audit.chazrt.com",
+  "docs": "https://audit.chazrt.com",
+  "auth": "none",
+  "mcpServers": {
+    "ai-readiness-audit": {
+      "url": "https://audit.chazrt.com/mcp"
+    }
+  }
+}

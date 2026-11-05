@@ -1,0 +1,13 @@
+{
+  "name": "trifolia",
+  "displayName": "Trifolia",
+  "description": "Research Chilean law.",
+  "homepage": "https://trifolia.cl",
+  "docs": "https://trifolia.cl",
+  "auth": "oauth",
+  "mcpServers": {
+    "trifolia": {
+      "url": "https://trifolia.cl/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "markuprelay",
+  "displayName": "MarkupRelay",
+  "description": "Webpage instructions for code.",
+  "homepage": "https://markuprelay.com",
+  "docs": "https://api.markuprelay.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "markuprelay": {
+      "url": "https://api.markuprelay.com/mcp"
+    }
+  }
+}

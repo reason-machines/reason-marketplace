@@ -1,0 +1,13 @@
+{
+  "name": "demopage",
+  "displayName": "DemoPage",
+  "description": "Build demos from your code.",
+  "homepage": "https://demopage.io",
+  "docs": "https://demopage.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "demopage": {
+      "url": "https://demopage.io/mcp"
+    }
+  }
+}

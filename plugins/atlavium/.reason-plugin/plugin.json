@@ -1,0 +1,13 @@
+{
+  "name": "atlavium",
+  "displayName": "Atlavium",
+  "description": "Worldbuilding & campaign lore.",
+  "homepage": "https://atlavium.com/",
+  "docs": "https://atlavium.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlavium": {
+      "url": "https://app.atlavium.com/mcp"
+    }
+  }
+}

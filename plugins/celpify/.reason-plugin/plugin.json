@@ -1,0 +1,13 @@
+{
+  "name": "celpify",
+  "displayName": "Celpify",
+  "description": "CELPIP practice and scores.",
+  "homepage": "https://celpify.com",
+  "docs": "https://celpify.com/apps",
+  "auth": "none",
+  "mcpServers": {
+    "celpify": {
+      "url": "https://api.celpify.com/mcp"
+    }
+  }
+}

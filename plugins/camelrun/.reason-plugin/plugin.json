@@ -1,0 +1,13 @@
+{
+  "name": "camelrun",
+  "displayName": "camelRun",
+  "description": "Build and host AI agents.",
+  "homepage": "https://camelai.com/run",
+  "docs": "https://camelai.com/run/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "camelrun": {
+      "url": "https://run.camelai.com/mcp"
+    }
+  }
+}

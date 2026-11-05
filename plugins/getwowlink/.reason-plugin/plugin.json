@@ -1,0 +1,13 @@
+{
+  "name": "getwowlink",
+  "displayName": "getwowlink",
+  "description": "Check and fix link previews.",
+  "homepage": "https://www.getwowlink.com/mcp",
+  "docs": "https://www.getwowlink.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "getwowlink": {
+      "url": "https://mcp.getwowlink.com/"
+    }
+  }
+}

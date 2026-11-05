@@ -1,0 +1,13 @@
+{
+  "name": "slideforge",
+  "displayName": "SlideForge",
+  "description": "Create editable PowerPoint.",
+  "homepage": "https://slideforge.dev",
+  "docs": "https://api.slideforge.dev/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "slideforge": {
+      "url": "https://api.slideforge.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "framesurfer",
+  "displayName": "Framesurfer",
+  "description": "Make AI images, clips, music.",
+  "homepage": "https://framesurfer.com",
+  "docs": "https://framesurfer.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "framesurfer": {
+      "url": "https://framesurfer.com/api/mcp"
+    }
+  }
+}

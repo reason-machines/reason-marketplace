@@ -1,0 +1,13 @@
+{
+  "name": "moqup",
+  "displayName": "Moqup",
+  "description": "Schedule social posts with AI.",
+  "homepage": "https://moqup.app",
+  "docs": "https://moqup.app/blog/connect-instagram-to-chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "moqup": {
+      "url": "https://moqup.app/api/mcp"
+    }
+  }
+}

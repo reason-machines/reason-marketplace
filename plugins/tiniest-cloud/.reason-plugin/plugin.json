@@ -1,0 +1,13 @@
+{
+  "name": "tiniest-cloud",
+  "displayName": "Tiniest Cloud",
+  "description": "Deploy web apps with sign-in.",
+  "homepage": "https://tiniest.cloud",
+  "docs": "https://tiniest.cloud",
+  "auth": "oauth",
+  "mcpServers": {
+    "tiniest-cloud": {
+      "url": "https://app.tiniest.cloud/mcp"
+    }
+  }
+}

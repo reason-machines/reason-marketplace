@@ -1,0 +1,13 @@
+{
+  "name": "rize",
+  "displayName": "Rize",
+  "description": "Track and analyze time.",
+  "homepage": "https://rize.io",
+  "docs": "https://rize.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "rize": {
+      "url": "https://mcp.rize.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rainbowstats",
+  "displayName": "RainbowStats",
+  "description": "Economic data and statistics.",
+  "homepage": "https://rainbowstats.com/",
+  "docs": "https://rainbowstats.com/",
+  "auth": "none",
+  "mcpServers": {
+    "rainbowstats": {
+      "url": "https://rainbowstats.com/mcp"
+    }
+  }
+}

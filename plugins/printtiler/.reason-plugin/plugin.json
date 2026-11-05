@@ -1,0 +1,13 @@
+{
+  "name": "printtiler",
+  "displayName": "PrintTiler",
+  "description": "Create tiled poster layouts.",
+  "homepage": "https://printtiler.com",
+  "docs": "https://printtiler.com",
+  "auth": "none",
+  "mcpServers": {
+    "printtiler": {
+      "url": "https://printtiler.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "beonpass",
+  "displayName": "BEON PASS",
+  "description": "Access wallet for AI tools.",
+  "homepage": "https://beonpass.com",
+  "docs": "https://beonpass.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "beonpass": {
+      "url": "https://beonpass.com/mcp"
+    }
+  }
+}

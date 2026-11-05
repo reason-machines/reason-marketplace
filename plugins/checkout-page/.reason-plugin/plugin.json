@@ -1,0 +1,13 @@
+{
+  "name": "checkout-page",
+  "displayName": "Checkout Page",
+  "description": "Tickets, memberships & forms.",
+  "homepage": "https://checkoutpage.com",
+  "docs": "https://checkoutpage.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "checkout-page": {
+      "url": "https://mcp.checkoutpage.com/"
+    }
+  }
+}

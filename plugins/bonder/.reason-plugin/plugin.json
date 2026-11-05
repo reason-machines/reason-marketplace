@@ -1,0 +1,13 @@
+{
+  "name": "bonder",
+  "displayName": "Bonder",
+  "description": "Plan trips with your group.",
+  "homepage": "https://bonder.us",
+  "docs": "https://bonder.us",
+  "auth": "oauth",
+  "mcpServers": {
+    "bonder": {
+      "url": "https://mcp.bonder.us/mcp"
+    }
+  }
+}

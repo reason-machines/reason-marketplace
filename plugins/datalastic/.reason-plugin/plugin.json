@@ -1,0 +1,13 @@
+{
+  "name": "datalastic",
+  "displayName": "Datalastic",
+  "description": "Maritime Data.",
+  "homepage": "https://datalastic.com/",
+  "docs": "https://datalastic.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "datalastic": {
+      "url": "https://mcp.datalastic.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "computeprep",
+  "displayName": "ComputePrep",
+  "description": "Verified bank quant, one daily.",
+  "homepage": "https://computeprep.com",
+  "docs": "https://computeprep.com",
+  "auth": "none",
+  "mcpServers": {
+    "computeprep": {
+      "url": "https://mcp.computeprep.com/mcp"
+    }
+  }
+}

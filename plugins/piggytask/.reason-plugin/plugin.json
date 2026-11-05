@@ -1,0 +1,13 @@
+{
+  "name": "piggytask",
+  "displayName": "PiggyTask",
+  "description": "Manage kids' family chores.",
+  "homepage": "https://piggytask.de",
+  "docs": "https://app.piggytask.de/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "piggytask": {
+      "url": "https://app.piggytask.de/api/integrations/llm/mcp"
+    }
+  }
+}

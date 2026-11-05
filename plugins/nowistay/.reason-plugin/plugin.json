@@ -1,0 +1,13 @@
+{
+  "name": "nowistay",
+  "displayName": "Nowistay",
+  "description": "Manage your short term rental.",
+  "homepage": "https://www.nowistay.com/",
+  "docs": "https://www.nowistay.com/de/dynamische-preise-chatgpt-claude-ki-preisaudit",
+  "auth": "oauth",
+  "mcpServers": {
+    "nowistay": {
+      "url": "https://api.nowistay.com/mcp"
+    }
+  }
+}

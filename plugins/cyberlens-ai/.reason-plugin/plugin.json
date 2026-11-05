@@ -1,0 +1,13 @@
+{
+  "name": "cyberlens-ai",
+  "displayName": "CyberLens AI",
+  "description": "Review your security scans.",
+  "homepage": "https://www.cyberlensai.com",
+  "docs": "https://www.cyberlensai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cyberlens-ai": {
+      "url": "https://cyberlensai.com/mcp"
+    }
+  }
+}

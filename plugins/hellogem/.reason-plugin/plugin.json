@@ -1,0 +1,13 @@
+{
+  "name": "hellogem",
+  "displayName": "HelloGem",
+  "description": "Ingredients explained, sourced.",
+  "homepage": "https://hellogem.ai/",
+  "docs": "https://hellogem.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "hellogem": {
+      "url": "https://api.hellogem.ai/mcp"
+    }
+  }
+}

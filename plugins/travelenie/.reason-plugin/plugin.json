@@ -1,0 +1,13 @@
+{
+  "name": "travelenie",
+  "displayName": "Travelenie",
+  "description": "Get help with travel logistic.",
+  "homepage": "https://travelenie.com/",
+  "docs": "https://travelenie.com/",
+  "auth": "none",
+  "mcpServers": {
+    "travelenie": {
+      "url": "https://mcp.travelenie.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tts-studio-ai-text-to-speech",
+  "displayName": "TTS Studio: AI Text to Speech",
+  "description": "AI voice generator from text.",
+  "homepage": "https://ttsstudio.ai",
+  "docs": "https://ttsstudio.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "tts-studio-ai-text-to-speech": {
+      "url": "https://mcp.ttsstudio.ai/mcp"
+    }
+  }
+}

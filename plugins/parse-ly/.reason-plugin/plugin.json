@@ -1,0 +1,13 @@
+{
+  "name": "parse-ly",
+  "displayName": "Parse.ly",
+  "description": "Query your content analytics.",
+  "homepage": "https://www.parsely.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.parsely.dash",
+  "auth": "oauth",
+  "mcpServers": {
+    "parse-ly": {
+      "url": "https://dash.parsely.com/mcp"
+    }
+  }
+}

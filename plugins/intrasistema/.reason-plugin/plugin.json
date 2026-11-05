@@ -1,0 +1,13 @@
+{
+  "name": "intrasistema",
+  "displayName": "Intrasistema",
+  "description": "Gestión y Productividad ERP.",
+  "homepage": "https://mcp.intrasistema.com",
+  "docs": "https://mcp.intrasistema.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "intrasistema": {
+      "url": "https://mcp.intrasistema.com/"
+    }
+  }
+}

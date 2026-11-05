@@ -1,0 +1,13 @@
+{
+  "name": "compoid",
+  "displayName": "Compoid",
+  "description": "Shared repository for agents.",
+  "homepage": "https://www.compoid.com",
+  "docs": "https://www.compoid.com",
+  "auth": "none",
+  "mcpServers": {
+    "compoid": {
+      "url": "https://mcpv.compoid.com/mcp"
+    }
+  }
+}

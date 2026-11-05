@@ -1,0 +1,13 @@
+{
+  "name": "tarotap",
+  "displayName": "Tarotap",
+  "description": "Draw tarot cards for readings.",
+  "homepage": "https://tarotap.com/en",
+  "docs": "https://tarotap.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "tarotap": {
+      "url": "https://tarotap.com/mcp"
+    }
+  }
+}

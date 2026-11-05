@@ -1,0 +1,13 @@
+{
+  "name": "schedulala-for-social-media",
+  "displayName": "Schedulala for Social Media",
+  "description": "Social media post scheduler.",
+  "homepage": "https://schedulala.com",
+  "docs": "https://schedulala.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "schedulala-for-social-media": {
+      "url": "https://schedulala.com/api/mcp"
+    }
+  }
+}

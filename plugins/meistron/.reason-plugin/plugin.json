@@ -1,0 +1,13 @@
+{
+  "name": "meistron",
+  "displayName": "Meistron",
+  "description": "Aufträge & Rechnungen per KI.",
+  "homepage": "https://meistron.app",
+  "docs": "https://meistron.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "meistron": {
+      "url": "https://meistron.app/api/mcp"
+    }
+  }
+}

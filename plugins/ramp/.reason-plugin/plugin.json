@@ -10,5 +10,42 @@
     "ramp": {
       "url": "https://mcp.ramp.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "ramp-approval-dashboard",
+      "description": "Review and approve pending transactions, bills, reimbursements, and requests. Use when: 'approve', 'pending approvals', 'what needs my approval', 'review transactions', 'approve bills', 'reject', 'approval queue', 'clear my approvals'. Do NOT use for: transaction analysis, receipt uploads, or spend ",
+      "source": "ramp-public/skills#8eaf468e44b985312cd170f3f7d86102b6d4499d",
+      "skill": "ramp-approval-dashboard",
+      "url": "https://github.com/ramp-public/skills/tree/8eaf468e44b985312cd170f3f7d86102b6d4499d/plugins/ramp/skills/ramp-approval-dashboard"
+    },
+    {
+      "name": "ramp-book-flight",
+      "description": "Books flights conversationally through the ramp CLI: resolves cities to airports, searches one-way and round-trip flights, presents and compares offers, previews the fare, and tickets the booking on the traveler's explicit approval. The user describes a trip in plain language ('book a flight from To",
+      "source": "ramp-public/skills#8eaf468e44b985312cd170f3f7d86102b6d4499d",
+      "skill": "ramp-book-flight",
+      "url": "https://github.com/ramp-public/skills/tree/8eaf468e44b985312cd170f3f7d86102b6d4499d/plugins/ramp/skills/ramp-book-flight"
+    },
+    {
+      "name": "ramp-book-hotel",
+      "description": "Searches and books hotels conversationally through the Ramp CLI: resolves the traveler, searches paginated hotel inventory, compares the selected room-rate returned for each hotel, previews the selected rate, and books only after explicit approval. Use when someone wants to find, compare, or book a ",
+      "source": "ramp-public/skills#8eaf468e44b985312cd170f3f7d86102b6d4499d",
+      "skill": "ramp-book-hotel",
+      "url": "https://github.com/ramp-public/skills/tree/8eaf468e44b985312cd170f3f7d86102b6d4499d/plugins/ramp/skills/ramp-book-hotel"
+    },
+    {
+      "name": "ramp-complete-expenses",
+      "description": "Find and complete missing items on your transactions — receipts, memos, accounting categories, funds, and attendees. Use when: 'missing receipts', 'upload receipt', 'attach receipt', 'receipt sweep', 'add memo', 'categorize transactions', 'missing items', 'transaction cleanup', 'fix my transactions'",
+      "source": "ramp-public/skills#8eaf468e44b985312cd170f3f7d86102b6d4499d",
+      "skill": "ramp-complete-expenses",
+      "url": "https://github.com/ramp-public/skills/tree/8eaf468e44b985312cd170f3f7d86102b6d4499d/plugins/ramp/skills/ramp-complete-expenses"
+    },
+    {
+      "name": "ramp-spend-analysis",
+      "description": "Analyze spend by vendor, category, or team over a date range. Pulls card transactions and bill payments, aggregates totals, and produces summary tables. Use when: 'how much did we spend on', 'vendor spend', 'SaaS review', 'spend report', 'inference costs', 'total spend', 'spend by vendor', 'spend an",
+      "source": "ramp-public/skills#8eaf468e44b985312cd170f3f7d86102b6d4499d",
+      "skill": "ramp-spend-analysis",
+      "url": "https://github.com/ramp-public/skills/tree/8eaf468e44b985312cd170f3f7d86102b6d4499d/plugins/ramp/skills/ramp-spend-analysis"
+    }
+  ]
 }

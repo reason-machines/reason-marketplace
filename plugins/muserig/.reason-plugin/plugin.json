@@ -1,0 +1,13 @@
+{
+  "name": "muserig",
+  "displayName": "MuseRig",
+  "description": "Plan creative campaign assets.",
+  "homepage": "https://muserig.com/",
+  "docs": "https://muserig.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "muserig": {
+      "url": "https://muserig.com/mcp"
+    }
+  }
+}

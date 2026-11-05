@@ -1,0 +1,13 @@
+{
+  "name": "osint-navigator",
+  "displayName": "OSINT Navigator",
+  "description": "Find OSINT tools for any task.",
+  "homepage": "https://navigator.indicator.media",
+  "docs": "https://navigator.indicator.media/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "osint-navigator": {
+      "url": "https://navigator.indicator.media/mcp"
+    }
+  }
+}

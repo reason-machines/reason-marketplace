@@ -1,0 +1,13 @@
+{
+  "name": "debyko",
+  "displayName": "DEBYKO",
+  "description": "Crypto derivatives market data.",
+  "homepage": "https://debyko.com",
+  "docs": "https://debyko.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "debyko": {
+      "url": "https://mcp.debyko.com/mcp"
+    }
+  }
+}

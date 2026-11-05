@@ -1,0 +1,13 @@
+{
+  "name": "unfetch",
+  "displayName": "Unfetch",
+  "description": "PPC & Marketing Reporting.",
+  "homepage": "https://unfetch.com",
+  "docs": "https://unfetch.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "unfetch": {
+      "url": "https://unfetch.com/api/mcp"
+    }
+  }
+}

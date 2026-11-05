@@ -1,0 +1,13 @@
+{
+  "name": "bold-forge-2qqwj",
+  "displayName": "Raylu",
+  "description": "Map markets and reach founders.",
+  "homepage": "https://raylu.ai/",
+  "docs": "https://raylu.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "bold-forge-2qqwj": {
+      "url": "https://mcp.raylu.ai/mcp"
+    }
+  }
+}

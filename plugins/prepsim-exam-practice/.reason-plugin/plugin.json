@@ -1,0 +1,13 @@
+{
+  "name": "prepsim-exam-practice",
+  "displayName": "PrepSim Exam Practice",
+  "description": "Exam practice and test review.",
+  "homepage": "https://aynadhillon.com",
+  "docs": "https://aynadhillon.com/guides/connect-ai-chat-mcp-guide",
+  "auth": "none",
+  "mcpServers": {
+    "prepsim-exam-practice": {
+      "url": "https://aynadhillon.com/api/mcp"
+    }
+  }
+}

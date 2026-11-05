@@ -1,0 +1,13 @@
+{
+  "name": "mori",
+  "displayName": "Mori",
+  "description": "Search your conversations.",
+  "homepage": "https://mori.to/",
+  "docs": "https://mori.to/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mori": {
+      "url": "https://mcp.mori.to/"
+    }
+  }
+}

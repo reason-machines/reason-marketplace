@@ -1,0 +1,13 @@
+{
+  "name": "aisystant-open",
+  "displayName": "Aisystant Open",
+  "description": "Search and read FPF Library.",
+  "homepage": "https://aisystant.com/connect",
+  "docs": "https://aisystant.com/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "aisystant-open": {
+      "url": "https://mcp.aisystant.com/mcp"
+    }
+  }
+}

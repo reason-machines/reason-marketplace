@@ -1,0 +1,13 @@
+{
+  "name": "powerly",
+  "displayName": "Powerly",
+  "description": "Build branded charging apps.",
+  "homepage": "https://www.powerly.app",
+  "docs": "https://www.powerly.app",
+  "auth": "none",
+  "mcpServers": {
+    "powerly": {
+      "url": "https://mcp.powerly.app/mcp"
+    }
+  }
+}

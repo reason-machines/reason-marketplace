@@ -1,0 +1,13 @@
+{
+  "name": "aircover",
+  "displayName": "Aircover.ai",
+  "description": "Sales productivity for deals.",
+  "homepage": "https://www.aircover.ai/developers",
+  "docs": "https://www.aircover.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "aircover": {
+      "url": "https://api.aircover.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "workjournal",
+  "displayName": "Workjournal",
+  "description": "Shared memory for your project.",
+  "homepage": "https://workjournal.pro",
+  "docs": "https://workjournal.pro",
+  "auth": "oauth",
+  "mcpServers": {
+    "workjournal": {
+      "url": "https://mcp.workjournal.pro/mcp"
+    }
+  }
+}

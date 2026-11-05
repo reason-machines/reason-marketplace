@@ -1,0 +1,13 @@
+{
+  "name": "trackly-openai",
+  "displayName": "trackly",
+  "description": "Find jobs and fill forms.",
+  "homepage": "https://usetrackly.app/plugins/trackly",
+  "docs": "https://usetrackly.app/connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "trackly-openai": {
+      "url": "https://mcp.usetrackly.app/api/mcp"
+    }
+  }
+}

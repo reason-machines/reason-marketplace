@@ -1,0 +1,13 @@
+{
+  "name": "yesiq",
+  "displayName": "YesIQ",
+  "description": "Website opportunity preview.",
+  "homepage": "https://yes-iq.net",
+  "docs": "https://yes-iq.net",
+  "auth": "none",
+  "mcpServers": {
+    "yesiq": {
+      "url": "https://yes-iq.net/mcp"
+    }
+  }
+}

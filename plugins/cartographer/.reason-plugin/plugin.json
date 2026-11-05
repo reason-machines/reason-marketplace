@@ -1,0 +1,13 @@
+{
+  "name": "cartographer",
+  "displayName": "Cartographer",
+  "description": "Story mapping tool.",
+  "homepage": "https://cartographer.studio",
+  "docs": "https://cartographer.studio",
+  "auth": "oauth",
+  "mcpServers": {
+    "cartographer": {
+      "url": "https://cartographer.studio/mcp"
+    }
+  }
+}

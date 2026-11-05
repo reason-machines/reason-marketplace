@@ -1,0 +1,13 @@
+{
+  "name": "dodo",
+  "displayName": "DoDo",
+  "description": "Todos that keep a record.",
+  "homepage": "https://dodo.day/",
+  "docs": "https://dodo.day/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "dodo": {
+      "url": "https://dodo.day/api/mcp"
+    }
+  }
+}

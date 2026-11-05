@@ -1,0 +1,13 @@
+{
+  "name": "zen",
+  "displayName": "Zen",
+  "description": "Study with your own courses.",
+  "homepage": "https://learnzen.co",
+  "docs": "https://learnzen.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "zen": {
+      "url": "https://mcp.learnzen.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "socialnarratives",
+  "displayName": "SocialNarratives",
+  "description": "Social stories and schedules.",
+  "homepage": "https://socialnarratives.ai",
+  "docs": "https://socialnarratives.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "socialnarratives": {
+      "url": "https://socialnarratives.ai/mcp"
+    }
+  }
+}

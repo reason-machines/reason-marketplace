@@ -1,0 +1,13 @@
+{
+  "name": "chatdata-sync",
+  "displayName": "ChatData Sync",
+  "description": "Your records, across AI.",
+  "homepage": "https://chatdatasync.com",
+  "docs": "https://chatdatasync.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "chatdata-sync": {
+      "url": "https://chatdatasync.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mediprep-study-navigator",
+  "displayName": "MediPrep Study Navigator",
+  "description": "Map lectures to study routes.",
+  "homepage": "https://medi-prep-beta.vercel.app/",
+  "docs": "https://medi-prep-beta.vercel.app/",
+  "auth": "none",
+  "mcpServers": {
+    "mediprep-study-navigator": {
+      "url": "https://medi-prep-beta.vercel.app/api/mcp"
+    }
+  }
+}

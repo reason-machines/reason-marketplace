@@ -1,0 +1,13 @@
+{
+  "name": "tirava-taxi-in-albania",
+  "displayName": "TIRAVA - Taxi in Albania",
+  "description": "Pre-book a taxi in Reason.",
+  "homepage": "https://tirava.app",
+  "docs": "https://tirava.app",
+  "auth": "none",
+  "mcpServers": {
+    "tirava-taxi-in-albania": {
+      "url": "https://mcp.tirava.app/mcp"
+    }
+  }
+}

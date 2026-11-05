@@ -1,0 +1,13 @@
+{
+  "name": "test-failure-triage",
+  "displayName": "Test Failure Triage",
+  "description": "Triage test failures.",
+  "homepage": "https://test-failure-triage.sidcraigau.workers.dev",
+  "docs": "https://test-failure-triage.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "test-failure-triage": {
+      "url": "https://test-failure-triage.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

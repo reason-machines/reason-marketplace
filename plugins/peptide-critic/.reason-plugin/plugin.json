@@ -1,0 +1,13 @@
+{
+  "name": "peptide-critic",
+  "displayName": "Peptide Critic",
+  "description": "Peptide reviews & prices.",
+  "homepage": "https://peptidecritic.com",
+  "docs": "https://peptidecritic.com",
+  "auth": "none",
+  "mcpServers": {
+    "peptide-critic": {
+      "url": "https://mcp.peptidecritic.com/mcp"
+    }
+  }
+}

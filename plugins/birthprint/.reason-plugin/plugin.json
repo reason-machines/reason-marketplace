@@ -1,0 +1,13 @@
+{
+  "name": "birthprint",
+  "displayName": "Birthprint",
+  "description": "Astrology, Numerology & BaZi.",
+  "homepage": "https://birthprint.ai",
+  "docs": "https://birthprint.ai",
+  "auth": "none",
+  "mcpServers": {
+    "birthprint": {
+      "url": "https://birthprint.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "studiofly",
+  "displayName": "StudioFly",
+  "description": "Studio classes, members, dues.",
+  "homepage": "https://studiofly.fit",
+  "docs": "https://studiofly.fit",
+  "auth": "oauth",
+  "mcpServers": {
+    "studiofly": {
+      "url": "https://mcp.studiofly.fit/mcp"
+    }
+  }
+}

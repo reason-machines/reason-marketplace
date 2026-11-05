@@ -1,0 +1,13 @@
+{
+  "name": "ezflow-pro",
+  "displayName": "EZFlow Pro",
+  "description": "Create estimates and invoices.",
+  "homepage": "https://ezflowpro.com",
+  "docs": "https://ezflowpro.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ezflow-pro": {
+      "url": "https://mcp.ezflowpro.com/mcp"
+    }
+  }
+}

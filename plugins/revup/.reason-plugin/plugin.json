@@ -1,0 +1,13 @@
+{
+  "name": "revup",
+  "displayName": "Revup",
+  "description": "Create giveaways & contests.",
+  "homepage": "https://revup.com",
+  "docs": "https://revup.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "revup": {
+      "url": "https://revup.com/mcp"
+    }
+  }
+}

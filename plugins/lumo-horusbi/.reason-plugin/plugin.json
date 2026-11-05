@@ -1,0 +1,13 @@
+{
+  "name": "lumo-horusbi",
+  "displayName": "Lumo by HorusBI",
+  "description": "Query your Lumo BI data.",
+  "homepage": "https://horusbi.com.br",
+  "docs": "https://docs.horusbi.com.br/ia/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "lumo-horusbi": {
+      "url": "https://dataviz.horusbi.com.br/mcp"
+    }
+  }
+}

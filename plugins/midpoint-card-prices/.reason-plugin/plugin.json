@@ -1,0 +1,13 @@
+{
+  "name": "midpoint-card-prices",
+  "displayName": "Midpoint Card Prices",
+  "description": "TCG & sports card prices & ROI.",
+  "homepage": "https://www.cardcenteringtool.com/",
+  "docs": "https://www.cardcenteringtool.com/",
+  "auth": "none",
+  "mcpServers": {
+    "midpoint-card-prices": {
+      "url": "https://mcp.cardcenteringtool.com/mcp"
+    }
+  }
+}

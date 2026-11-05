@@ -1,0 +1,13 @@
+{
+  "name": "eqolux",
+  "displayName": "Eqolux",
+  "description": "Analyze your purchasing data.",
+  "homepage": "https://www.eqolux.com",
+  "docs": "https://www.eqolux.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "eqolux": {
+      "url": "https://mcp.eqolux.com/mcp"
+    }
+  }
+}

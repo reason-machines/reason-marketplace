@@ -1,0 +1,13 @@
+{
+  "name": "trainerrr",
+  "displayName": "Trainerrr",
+  "description": "Track fitness.",
+  "homepage": "https://trainerrr.xyz/",
+  "docs": "https://trainerrr.xyz/",
+  "auth": "oauth",
+  "mcpServers": {
+    "trainerrr": {
+      "url": "https://mcp.trainerrr.xyz/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "siteguru",
+  "displayName": "SiteGuru",
+  "description": "Improve your site's SEO.",
+  "homepage": "https://www.siteguru.co",
+  "docs": "https://www.siteguru.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "siteguru": {
+      "url": "https://mcp.siteguru.co/mcp"
+    }
+  }
+}

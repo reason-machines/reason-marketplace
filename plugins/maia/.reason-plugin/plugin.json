@@ -1,0 +1,13 @@
+{
+  "name": "maia",
+  "displayName": "MAIA",
+  "description": "Geospatial research engine.",
+  "homepage": "https://www.maia-analytics.com",
+  "docs": "https://www.maia-analytics.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "maia": {
+      "url": "https://api.maia-analytics.com/mcp"
+    }
+  }
+}

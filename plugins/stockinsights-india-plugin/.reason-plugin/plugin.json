@@ -1,0 +1,13 @@
+{
+  "name": "stockinsights-india-plugin",
+  "displayName": "stockinsights.ai - India",
+  "description": "Public market research.",
+  "homepage": "https://www.stockinsights.ai",
+  "docs": "https://www.stockinsights.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "stockinsights-india-plugin": {
+      "url": "https://api-in.stockinsights.ai/mcp"
+    }
+  }
+}

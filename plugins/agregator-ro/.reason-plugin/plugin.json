@@ -1,0 +1,13 @@
+{
+  "name": "agregator-ro",
+  "displayName": "Agregator.ro",
+  "description": "Romanian news and bank rates.",
+  "homepage": "https://agregator.ro",
+  "docs": "https://agregator.ro",
+  "auth": "none",
+  "mcpServers": {
+    "agregator-ro": {
+      "url": "https://agregator.ro/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "studio99-calligraphy-maker",
+  "displayName": "Calligraphy Maker by Studio99",
+  "description": "Create Indic calligraphy art.",
+  "homepage": "https://studio99.app/llms.txt",
+  "docs": "https://studio99.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "studio99-calligraphy-maker": {
+      "url": "https://mcp.studio99.app/api/mcp"
+    }
+  }
+}

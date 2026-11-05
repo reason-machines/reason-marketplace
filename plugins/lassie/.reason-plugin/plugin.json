@@ -1,0 +1,13 @@
+{
+  "name": "lassie",
+  "displayName": "Lassie",
+  "description": "Pet insurance quotes.",
+  "homepage": "https://www.lassie.co",
+  "docs": "https://tedix.dev/apps/lassie/",
+  "auth": "none",
+  "mcpServers": {
+    "lassie": {
+      "url": "https://v1.lassie.mcp.waniwani.run/mcp"
+    }
+  }
+}

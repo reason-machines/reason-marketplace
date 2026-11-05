@@ -1,0 +1,13 @@
+{
+  "name": "screeningpass",
+  "displayName": "Screeningpass",
+  "description": "Offres, contacts et e-mails.",
+  "homepage": "https://www.screeningpass.fr",
+  "docs": "https://www.screeningpass.fr",
+  "auth": "oauth",
+  "mcpServers": {
+    "screeningpass": {
+      "url": "https://screeningpass.fr/mcp"
+    }
+  }
+}

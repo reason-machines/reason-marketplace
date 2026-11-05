@@ -1,0 +1,13 @@
+{
+  "name": "zen-shopping",
+  "displayName": "Zen Shopping",
+  "description": "Smart shopping, all stores.",
+  "homepage": "https://seekist.ai/#/product/gpt-shopping",
+  "docs": "https://seekist.ai/#/product/gpt-shopping",
+  "auth": "none",
+  "mcpServers": {
+    "zen-shopping": {
+      "url": "https://seekist.ai/mcp"
+    }
+  }
+}

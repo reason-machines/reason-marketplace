@@ -1,0 +1,13 @@
+{
+  "name": "plnty",
+  "displayName": "Plnty",
+  "description": "Make, edit, animate pictures.",
+  "homepage": "https://plnty.app",
+  "docs": "https://plnty.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "plnty": {
+      "url": "https://mcp.plnty.app/mcp"
+    }
+  }
+}

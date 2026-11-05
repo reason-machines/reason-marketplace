@@ -1,0 +1,13 @@
+{
+  "name": "goarac-travel",
+  "displayName": "GOARAÇ",
+  "description": "Cars, transfers and eSIM.",
+  "homepage": "https://goarac.com",
+  "docs": "https://goarac.com",
+  "auth": "none",
+  "mcpServers": {
+    "goarac-travel": {
+      "url": "https://goarac.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wyvstudio",
+  "displayName": "WyvStudio",
+  "description": "Branded video without a shoot.",
+  "homepage": "https://wyvstudio.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.wyvstudio/wyvstudio",
+  "auth": "oauth",
+  "mcpServers": {
+    "wyvstudio": {
+      "url": "https://app.wyvstudio.com/mcp"
+    }
+  }
+}

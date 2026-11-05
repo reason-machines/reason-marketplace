@@ -1,0 +1,13 @@
+{
+  "name": "sorinai",
+  "displayName": "Sorinai",
+  "description": "AI notepad for your meetings.",
+  "homepage": "https://sorinai.com",
+  "docs": "https://sorinai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sorinai": {
+      "url": "https://mcp.sorinai.com/mcp"
+    }
+  }
+}

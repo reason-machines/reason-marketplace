@@ -1,0 +1,13 @@
+{
+  "name": "medprice-ai",
+  "displayName": "MedPrice AI",
+  "description": "Hospital cost lookup.",
+  "homepage": "https://medprice.ai",
+  "docs": "https://medprice.ai",
+  "auth": "none",
+  "mcpServers": {
+    "medprice-ai": {
+      "url": "https://mcp.medprice.ai/mcp"
+    }
+  }
+}

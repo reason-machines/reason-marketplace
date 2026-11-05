@@ -1,0 +1,13 @@
+{
+  "name": "originalvoices",
+  "displayName": "OriginalVoices",
+  "description": "Get human insight on any topic.",
+  "homepage": "https://originalvoices.ai",
+  "docs": "https://originalvoices.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "originalvoices": {
+      "url": "https://api.originalvoices.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "giftroam-ai",
+  "displayName": "GiftRoam.Ai",
+  "description": "Anywhere: send gifts & flowers.",
+  "homepage": "https://giftroam.com",
+  "docs": "https://giftroam.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "giftroam-ai": {
+      "url": "https://mcp.giftroam.com/mcp"
+    }
+  }
+}

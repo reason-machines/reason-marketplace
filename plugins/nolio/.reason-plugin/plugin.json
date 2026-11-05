@@ -1,0 +1,13 @@
+{
+  "name": "nolio",
+  "displayName": "Nolio",
+  "description": "Endurance, strength and Hyrox.",
+  "homepage": "https://www.nolio.io/en/",
+  "docs": "https://www.nolio.io/en/",
+  "auth": "oauth",
+  "mcpServers": {
+    "nolio": {
+      "url": "https://mcp.nolio.io/mcp"
+    }
+  }
+}

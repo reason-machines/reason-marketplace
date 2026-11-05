@@ -10,5 +10,77 @@
     "incident-io": {
       "url": "https://mcp.incident.io/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "architecture",
+      "description": "Answer questions about how the organisation builds, deploys, and runs its software — what a system is, where it runs, what it depends on, and the real names of things (cloud projects, clusters, namespaces, hostnames, buckets) — from architecture docs wherever they live. Use when asked \"how does X ru",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "architecture",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/architecture"
+    },
+    {
+      "name": "architecture-author",
+      "description": "Write and maintain architecture docs — the documents that say what each system is, where it runs, what it depends on, and the real names of things (cloud projects, clusters, namespaces, hostnames, buckets). The heart of it is an interview that pins down what each system name actually means before an",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "architecture-author",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/architecture-author"
+    },
+    {
+      "name": "doctor",
+      "description": "Review the health of your incident.io agent estate — plugins, skills, connections — and say what to fix, without fixing anything itself. Use whenever anyone asks whether their incident.io setup is healthy, what's degraded, or what to improve, in any phrasing — one-off or as a recurring review. Every",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "doctor",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/doctor"
+    },
+    {
+      "name": "extensions",
+      "description": "Set up, explain and troubleshoot incident.io extensions: the plugins of skills and the connectors (MCP servers, HTTP APIs) that give incident.io's agents an organisation's own knowledge and tools. Use whenever you're working with incident.io plugins, skills, connectors or the extension_ tools in any",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "extensions",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/extensions"
+    },
+    {
+      "name": "incidents",
+      "description": "Reading and changing incidents in incident.io: status, severity, roles, fields, updates, channel messages and the AI investigation. Use whenever you're working with an incident in any way, even a single read or change. Load it before the first incident, update, follow-up or investigation tool call: ",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "incidents",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/incidents"
+    },
+    {
+      "name": "on-call",
+      "description": "Who is on call in incident.io and how they get paged: schedules, rotas and shifts, overrides, cover requests, escalation paths, and pages (escalations). Use whenever you're working with any of these in any way, including plain reads (\"who's on call tonight?\", \"when am I next on?\") and paging (\"page ",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "on-call",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/on-call"
+    },
+    {
+      "name": "postmortem",
+      "description": "Work with an incident's postmortem document — the write-up a team produces after an incident. Use when the conversation is about a postmortem, post-incident review, debrief or retro document: finding it, creating one, reading it, changing its text, or reviewing it against what actually happened. Cov",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "postmortem",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/postmortem"
+    },
+    {
+      "name": "skill-authoring",
+      "description": "Create and improve the skills in your own plugins — the ones incident.io's agents and your coding agents load. Use whenever you're writing, editing, or reviewing a skill in any way: creating one, improving one from usage feedback or a review brief, or asking what makes a good skill.",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "skill-authoring",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/skill-authoring"
+    },
+    {
+      "name": "talking-to-the-user",
+      "description": "How the incident.io skills speak to the person in the session: what the user hears and what goes in the record, ending each reply with one next step, keeping a fixed milestone list through a multi-step job, and using the user's words instead of the skills' own vocabulary. Load it before you reply to",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "talking-to-the-user",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/talking-to-the-user"
+    },
+    {
+      "name": "telemetry",
+      "description": "Query an organization's observability data — logs, metrics, traces, profiles, dashboards, Kubernetes, SQL databases — with the incident.io telemetry tools. Use when answering a question that needs evidence from its monitoring: what errors fired, when latency moved, which pod restarted, what a dashbo",
+      "source": "incident-io/skills#2741fb497cd53a5ed0081c5831247dcfd8266088",
+      "skill": "telemetry",
+      "url": "https://github.com/incident-io/skills/tree/2741fb497cd53a5ed0081c5831247dcfd8266088/plugins/incident-io/skills/telemetry"
+    }
+  ]
 }

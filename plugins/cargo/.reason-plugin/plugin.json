@@ -1,0 +1,13 @@
+{
+  "name": "cargo",
+  "displayName": "Cargo",
+  "description": "Your GTM in Reason.",
+  "homepage": "https://getcargo.ai",
+  "docs": "https://getcargo.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "cargo": {
+      "url": "https://mcp.getcargo.ai/mcp"
+    }
+  }
+}

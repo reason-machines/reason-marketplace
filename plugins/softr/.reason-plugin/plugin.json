@@ -1,0 +1,13 @@
+{
+  "name": "softr",
+  "displayName": "Softr",
+  "description": "Build business apps and tools.",
+  "homepage": "https://www.softr.io",
+  "docs": "https://www.softr.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "softr": {
+      "url": "https://mcp.softr.io/mcp"
+    }
+  }
+}

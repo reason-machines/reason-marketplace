@@ -1,0 +1,13 @@
+{
+  "name": "blockscout-blockchain-data",
+  "displayName": "Blockscout Blockchain Data",
+  "description": "Find & analyze blockchain data.",
+  "homepage": "https://www.blockscout.com/",
+  "docs": "https://www.blockscout.com/",
+  "auth": "none",
+  "mcpServers": {
+    "blockscout-blockchain-data": {
+      "url": "https://mcp.blockscout.com/mcp"
+    }
+  }
+}

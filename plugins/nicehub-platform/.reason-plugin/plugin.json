@@ -1,0 +1,13 @@
+{
+  "name": "nicehub-platform",
+  "displayName": "NiceHub Platform",
+  "description": "Brief de course B2B VTC.",
+  "homepage": "https://nicehub.app",
+  "docs": "https://nicehub.app",
+  "auth": "none",
+  "mcpServers": {
+    "nicehub-platform": {
+      "url": "https://nicehub.app/api/mcp"
+    }
+  }
+}

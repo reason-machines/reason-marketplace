@@ -1,0 +1,13 @@
+{
+  "name": "volrix",
+  "displayName": "Volrix",
+  "description": "Backtest trading strategies.",
+  "homepage": "https://volrix.ai",
+  "docs": "https://volrix.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "volrix": {
+      "url": "https://mcp.volrix.ai/mcp"
+    }
+  }
+}

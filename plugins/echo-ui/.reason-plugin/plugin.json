@@ -1,0 +1,13 @@
+{
+  "name": "echo-ui",
+  "displayName": "Echo UI",
+  "description": "Tactile components, your style.",
+  "homepage": "https://echo-ui.com",
+  "docs": "https://echo-ui.com",
+  "auth": "none",
+  "mcpServers": {
+    "echo-ui": {
+      "url": "https://mcp.echo-ui.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "meerlume",
+  "displayName": "Meerlume",
+  "description": "Chat bots for your business.",
+  "homepage": "https://meerlume.com/llms.txt",
+  "docs": "https://meerlume.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "meerlume": {
+      "url": "https://mcp.meerlume.com/mcp"
+    }
+  }
+}

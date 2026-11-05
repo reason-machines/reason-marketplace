@@ -1,0 +1,13 @@
+{
+  "name": "zorro-ai",
+  "displayName": "Zorro AI",
+  "description": "UK company intelligence.",
+  "homepage": "https://www.getzorro.ai/",
+  "docs": "https://www.getzorro.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "zorro-ai": {
+      "url": "https://mcp.getzorro.ai/mcp"
+    }
+  }
+}

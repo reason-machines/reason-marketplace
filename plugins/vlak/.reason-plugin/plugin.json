@@ -1,0 +1,13 @@
+{
+  "name": "vlak",
+  "displayName": "Vlak",
+  "description": "Build accessible interfaces.",
+  "homepage": "https://vlak.dev",
+  "docs": "https://vlak.dev",
+  "auth": "none",
+  "mcpServers": {
+    "vlak": {
+      "url": "https://vlak.dev/mcp"
+    }
+  }
+}

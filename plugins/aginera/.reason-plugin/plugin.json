@@ -1,0 +1,13 @@
+{
+  "name": "aginera",
+  "displayName": "Aginera",
+  "description": "Takeoffs from drawing sets.",
+  "homepage": "https://aginera.ai/agents",
+  "docs": "https://aginera.ai/agents",
+  "auth": "oauth",
+  "mcpServers": {
+    "aginera": {
+      "url": "https://mcp.aginera.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "flourish",
+  "displayName": "Flourish",
+  "description": "Create interactive charts.",
+  "homepage": "https://flourish.studio/",
+  "docs": "https://app.flourish.studio/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "flourish": {
+      "url": "https://app.flourish.studio/mcp"
+    }
+  }
+}

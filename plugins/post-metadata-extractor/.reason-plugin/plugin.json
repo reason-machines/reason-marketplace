@@ -1,0 +1,13 @@
+{
+  "name": "post-metadata-extractor",
+  "displayName": "Post Metadata Extractor",
+  "description": "Extract social post fields.",
+  "homepage": "https://task-app-hub-content-chain.belong514829670.workers.dev/social-post-metadata-extractor",
+  "docs": "https://task-app-hub-content-chain.belong514829670.workers.dev/social-post-metadata-extractor",
+  "auth": "none",
+  "mcpServers": {
+    "post-metadata-extractor": {
+      "url": "https://task-app-hub-content-chain.belong514829670.workers.dev/social-post-metadata-extractor/mcp"
+    }
+  }
+}

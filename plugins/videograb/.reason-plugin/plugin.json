@@ -1,0 +1,13 @@
+{
+  "name": "videograb",
+  "displayName": "Video Grab",
+  "description": "Freely licensed video links.",
+  "homepage": "https://tools.openkrill.app/",
+  "docs": "https://openkrill.app/",
+  "auth": "none",
+  "mcpServers": {
+    "videograb": {
+      "url": "https://api.openkrill.app/mcp"
+    }
+  }
+}

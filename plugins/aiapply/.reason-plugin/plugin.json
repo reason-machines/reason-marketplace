@@ -1,0 +1,13 @@
+{
+  "name": "aiapply",
+  "displayName": "AIApply",
+  "description": "Find jobs and apply with AI.",
+  "homepage": "https://aiapply.co",
+  "docs": "https://aiapply.co",
+  "auth": "none",
+  "mcpServers": {
+    "aiapply": {
+      "url": "https://aiapply.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "qbraid",
+  "displayName": "qBraid",
+  "description": "Quantum computing workspace.",
+  "homepage": "https://qbraid.com",
+  "docs": "https://qbraid.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "qbraid": {
+      "url": "https://mcp.qbraid.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "openvan-camp-travel",
+  "displayName": "OpenVan.camp Travel",
+  "description": "Road trips, visas & fuel.",
+  "homepage": "https://openvan.camp/en/assistant",
+  "docs": "https://openvan.camp/en/assistant",
+  "auth": "none",
+  "mcpServers": {
+    "openvan-camp-travel": {
+      "url": "https://mcp.openvan.camp/mcp"
+    }
+  }
+}

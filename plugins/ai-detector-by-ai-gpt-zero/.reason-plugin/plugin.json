@@ -1,0 +1,13 @@
+{
+  "name": "ai-detector-by-ai-gpt-zero",
+  "displayName": "AI Detector by AI GPT Zero",
+  "description": "AI text checker with scores.",
+  "homepage": "https://aigptzero.com/",
+  "docs": "https://aigptzero.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai-detector-by-ai-gpt-zero": {
+      "url": "https://mcp.aigptzero.com/mcp"
+    }
+  }
+}

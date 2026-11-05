@@ -1,0 +1,13 @@
+{
+  "name": "pleadwise",
+  "displayName": "Pleadwise",
+  "description": "Format legal filings.",
+  "homepage": "https://pleadwise.com",
+  "docs": "https://pleadwise.com",
+  "auth": "none",
+  "mcpServers": {
+    "pleadwise": {
+      "url": "https://mcp.pleadwise.com/mcp"
+    }
+  }
+}

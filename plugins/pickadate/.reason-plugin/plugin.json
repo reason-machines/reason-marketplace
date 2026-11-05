@@ -1,0 +1,13 @@
+{
+  "name": "pickadate",
+  "displayName": "Pickadate",
+  "description": "Find a date with any group.",
+  "homepage": "https://pickadate.net/pages/ai-assistants",
+  "docs": "https://pickadate.net/pages/ai-assistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "pickadate": {
+      "url": "https://pickadate.net/mcp"
+    }
+  }
+}

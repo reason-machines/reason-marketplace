@@ -1,0 +1,13 @@
+{
+  "name": "halict",
+  "displayName": "Halict",
+  "description": "Create forms, reply to answers.",
+  "homepage": "https://halict.com",
+  "docs": "https://halict.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "halict": {
+      "url": "https://halict.com/mcp"
+    }
+  }
+}

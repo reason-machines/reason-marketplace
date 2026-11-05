@@ -1,0 +1,13 @@
+{
+  "name": "stacktree",
+  "displayName": "Stacktree",
+  "description": "Publish HTML to a private link.",
+  "homepage": "https://stacktr.ee",
+  "docs": "https://stacktr.ee",
+  "auth": "oauth",
+  "mcpServers": {
+    "stacktree": {
+      "url": "https://stacktr.ee/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "yoteiko",
+  "displayName": "Yoteiko",
+  "description": "Plan smarter trips with AI.",
+  "homepage": "https://yoteiko.com",
+  "docs": "https://yoteiko.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "yoteiko": {
+      "url": "https://mcp.yoteiko.com/mcp"
+    }
+  }
+}

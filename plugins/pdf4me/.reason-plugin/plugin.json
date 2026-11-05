@@ -1,0 +1,13 @@
+{
+  "name": "pdf4me",
+  "displayName": "PDF4me",
+  "description": "PDF done simple and online!",
+  "homepage": "https://pdf4me.com",
+  "docs": "https://pdf4me.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "pdf4me": {
+      "url": "https://mcp.pdf4me.com/mcp"
+    }
+  }
+}

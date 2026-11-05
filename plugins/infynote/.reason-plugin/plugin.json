@@ -1,0 +1,13 @@
+{
+  "name": "infynote",
+  "displayName": "InfyNote",
+  "description": "Your team's threads and tasks.",
+  "homepage": "https://infynote.com",
+  "docs": "https://api.infynote.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "infynote": {
+      "url": "https://api.infynote.com/mcp"
+    }
+  }
+}

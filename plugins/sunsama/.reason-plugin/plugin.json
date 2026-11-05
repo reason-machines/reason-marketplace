@@ -1,0 +1,13 @@
+{
+  "name": "sunsama",
+  "displayName": "Sunsama",
+  "description": "Focus on what matters, today.",
+  "homepage": "https://sunsama.com",
+  "docs": "https://api.sunsama.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "sunsama": {
+      "url": "https://api.sunsama.com/mcp"
+    }
+  }
+}

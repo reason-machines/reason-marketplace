@@ -1,0 +1,13 @@
+{
+  "name": "k3x",
+  "displayName": "K3X",
+  "description": "Search and update your CRM.",
+  "homepage": "https://k3x.ai",
+  "docs": "https://k3x.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "k3x": {
+      "url": "https://mcp.k3x.ai/mcp"
+    }
+  }
+}

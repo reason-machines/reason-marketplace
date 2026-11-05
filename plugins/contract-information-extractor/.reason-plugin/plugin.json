@@ -1,0 +1,13 @@
+{
+  "name": "contract-information-extractor",
+  "displayName": "Contract Information Extractor",
+  "description": "Extract contract information.",
+  "homepage": "https://contract-information-extractor.sidcraigau.workers.dev",
+  "docs": "https://contract-information-extractor.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "contract-information-extractor": {
+      "url": "https://contract-information-extractor.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

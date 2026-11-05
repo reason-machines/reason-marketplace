@@ -1,0 +1,13 @@
+{
+  "name": "wikitolica",
+  "displayName": "Wikitólica",
+  "description": "Busca artículos de Wikitólica.",
+  "homepage": "https://www.wikitolica.com/",
+  "docs": "https://wikitolica.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "wikitolica": {
+      "url": "https://www.wikitolica.com/mcp"
+    }
+  }
+}

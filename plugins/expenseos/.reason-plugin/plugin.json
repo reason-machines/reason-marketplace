@@ -1,0 +1,13 @@
+{
+  "name": "expenseos",
+  "displayName": "ExpenseOS",
+  "description": "File expense reports in chat.",
+  "homepage": "https://www.expenseos.com",
+  "docs": "https://expenseos.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "expenseos": {
+      "url": "https://mcp.purafi.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "foliyo-markets",
+  "displayName": "Foliyo Stocks & MFs",
+  "description": "Indian stocks, indices & MFs.",
+  "homepage": "https://foliyo.ai",
+  "docs": "https://foliyo.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "foliyo-markets": {
+      "url": "https://mcp.foliyo.ai/markets"
+    }
+  }
+}

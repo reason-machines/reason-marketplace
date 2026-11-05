@@ -1,0 +1,13 @@
+{
+  "name": "verimom",
+  "displayName": "VeriMom",
+  "description": "Pregnancy-safe skincare.",
+  "homepage": "https://verimom.com",
+  "docs": "https://verimom.com",
+  "auth": "none",
+  "mcpServers": {
+    "verimom": {
+      "url": "https://verimom.com/mcp"
+    }
+  }
+}

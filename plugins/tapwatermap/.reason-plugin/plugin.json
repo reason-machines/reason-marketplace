@@ -1,0 +1,13 @@
+{
+  "name": "tapwatermap",
+  "displayName": "TapWaterMap",
+  "description": "US tap water quality by city.",
+  "homepage": "https://tapwatermap.com",
+  "docs": "https://tapwatermap.com",
+  "auth": "none",
+  "mcpServers": {
+    "tapwatermap": {
+      "url": "https://mcp.tapwatermap.com/mcp"
+    }
+  }
+}

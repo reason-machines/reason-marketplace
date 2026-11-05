@@ -1,0 +1,13 @@
+{
+  "name": "yoroll",
+  "displayName": "Yoroll",
+  "description": "Create your AI video game.",
+  "homepage": "https://app.yoroll.ai/",
+  "docs": "https://app.yoroll.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "yoroll": {
+      "url": "https://mcp.yoroll.ai/mcp"
+    }
+  }
+}

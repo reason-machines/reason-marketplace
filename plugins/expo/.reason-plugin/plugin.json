@@ -10,5 +10,21 @@
     "expo": {
       "url": "https://mcp.expo.dev/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "expo-dev-client",
+      "description": "",
+      "source": "expo/skills#a9e5bd3fa00b4e61f632e43f85da73aee1942582",
+      "skill": "expo-dev-client",
+      "url": "https://github.com/expo/skills/tree/a9e5bd3fa00b4e61f632e43f85da73aee1942582/plugins/expo/skills/expo-dev-client"
+    },
+    {
+      "name": "expo-module",
+      "description": "",
+      "source": "expo/skills#a9e5bd3fa00b4e61f632e43f85da73aee1942582",
+      "skill": "expo-module",
+      "url": "https://github.com/expo/skills/tree/a9e5bd3fa00b4e61f632e43f85da73aee1942582/plugins/expo/skills/expo-module"
+    }
+  ]
 }

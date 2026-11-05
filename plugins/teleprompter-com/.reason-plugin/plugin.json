@@ -1,0 +1,13 @@
+{
+  "name": "teleprompter-com",
+  "displayName": "Teleprompter.com",
+  "description": "Draft Teleprompter.com scripts.",
+  "homepage": "https://teleprompter.com",
+  "docs": "https://teleprompter.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "teleprompter-com": {
+      "url": "https://app.teleprompter.com/mcp"
+    }
+  }
+}

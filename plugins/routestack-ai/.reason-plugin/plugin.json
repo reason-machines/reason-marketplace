@@ -1,0 +1,13 @@
+{
+  "name": "routestack-ai",
+  "displayName": "RouteStack.ai",
+  "description": "Find hotels, flights, cars.",
+  "homepage": "https://www.routestack.ai/",
+  "docs": "https://www.routestack.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "routestack-ai": {
+      "url": "https://mcp.routestack.ai/mcp"
+    }
+  }
+}

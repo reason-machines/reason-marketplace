@@ -1,0 +1,13 @@
+{
+  "name": "packing-checklist",
+  "displayName": "Packwise Checklist",
+  "description": "Check, count & print packing.",
+  "homepage": "https://packing-checklist.zovo.one",
+  "docs": "https://packing-checklist.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "packing-checklist": {
+      "url": "https://packing-checklist.zovo.one/mcp"
+    }
+  }
+}

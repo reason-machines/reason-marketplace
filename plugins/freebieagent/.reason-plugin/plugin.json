@@ -1,0 +1,13 @@
+{
+  "name": "freebieagent",
+  "displayName": "FreebieAgent",
+  "description": "Find free samples.",
+  "homepage": "https://www.freebieagent.com/",
+  "docs": "https://www.freebieagent.com/",
+  "auth": "none",
+  "mcpServers": {
+    "freebieagent": {
+      "url": "https://freebieagent.com/mcp"
+    }
+  }
+}

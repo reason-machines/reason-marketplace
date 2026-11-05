@@ -1,0 +1,13 @@
+{
+  "name": "fintoc",
+  "displayName": "Fintoc",
+  "description": "Access your financial data.",
+  "homepage": "https://fintoc.com",
+  "docs": "https://fintoc.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fintoc": {
+      "url": "https://mcp.fintoc.com/mcp"
+    }
+  }
+}

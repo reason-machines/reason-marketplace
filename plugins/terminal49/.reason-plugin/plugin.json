@@ -1,0 +1,13 @@
+{
+  "name": "terminal49",
+  "displayName": "Terminal49",
+  "description": "Track containers and shipments.",
+  "homepage": "https://www.terminal49.com",
+  "docs": "https://www.terminal49.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "terminal49": {
+      "url": "https://mcp.terminal49.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "louisianai",
+  "displayName": "LouisianAI",
+  "description": "Research Louisiana AI.",
+  "homepage": "https://louisianai.com",
+  "docs": "https://louisianai.com",
+  "auth": "none",
+  "mcpServers": {
+    "louisianai": {
+      "url": "https://louisianai.com/mcp"
+    }
+  }
+}

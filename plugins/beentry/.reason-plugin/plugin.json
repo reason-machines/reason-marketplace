@@ -1,0 +1,13 @@
+{
+  "name": "beentry",
+  "displayName": "Beentry",
+  "description": "Manage your beehives.",
+  "homepage": "https://www.beentry.com",
+  "docs": "https://www.beentry.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "beentry": {
+      "url": "https://mcp.beentry.com/mcp"
+    }
+  }
+}

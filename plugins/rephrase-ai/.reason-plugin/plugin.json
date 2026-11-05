@@ -1,0 +1,13 @@
+{
+  "name": "rephrase-ai",
+  "displayName": "Rephrase AI",
+  "description": "Rewrite and edit your drafts.",
+  "homepage": "https://www.rephraseai.com",
+  "docs": "https://www.rephraseai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "rephrase-ai": {
+      "url": "https://rephraseai.com/mcp"
+    }
+  }
+}

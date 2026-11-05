@@ -1,0 +1,13 @@
+{
+  "name": "otto-roles",
+  "displayName": "Otto Roles",
+  "description": "Search jobs and auto-apply.",
+  "homepage": "https://ottoroles.com",
+  "docs": "https://ottoroles.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "otto-roles": {
+      "url": "https://ottoroles.com/mcp"
+    }
+  }
+}

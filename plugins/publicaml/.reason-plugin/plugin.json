@@ -1,0 +1,13 @@
+{
+  "name": "publicaml",
+  "displayName": "PublicAML",
+  "description": "Free crypto AML/KYT screening.",
+  "homepage": "https://publicaml.org",
+  "docs": "https://publicaml.org",
+  "auth": "none",
+  "mcpServers": {
+    "publicaml": {
+      "url": "https://mcp.publicaml.org/mcp"
+    }
+  }
+}

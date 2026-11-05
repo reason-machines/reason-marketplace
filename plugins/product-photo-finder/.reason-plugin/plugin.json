@@ -1,0 +1,13 @@
+{
+  "name": "product-photo-finder",
+  "displayName": "Product Photo Finder",
+  "description": "Photos for branded products.",
+  "homepage": "https://productphotofinder.com",
+  "docs": "https://productphotofinder.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "product-photo-finder": {
+      "url": "https://app.productphotofinder.com/mcp"
+    }
+  }
+}

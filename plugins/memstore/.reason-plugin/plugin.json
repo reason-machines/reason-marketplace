@@ -1,0 +1,13 @@
+{
+  "name": "memstore",
+  "displayName": "MemStore",
+  "description": "Save and recall memories.",
+  "homepage": "https://mem.store",
+  "docs": "https://mem.store",
+  "auth": "oauth",
+  "mcpServers": {
+    "memstore": {
+      "url": "https://mem.store/mcp"
+    }
+  }
+}

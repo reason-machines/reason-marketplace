@@ -1,0 +1,13 @@
+{
+  "name": "relaydesk",
+  "displayName": "RelayDesk",
+  "description": "Work on your paired computers.",
+  "homepage": "https://getrelaydesk.space",
+  "docs": "https://getrelaydesk.space",
+  "auth": "oauth",
+  "mcpServers": {
+    "relaydesk": {
+      "url": "https://getrelaydesk.space/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "prosocial",
+  "displayName": "ProSocial",
+  "description": "See how you come across.",
+  "homepage": "https://app.tryprosocial.com",
+  "docs": "https://tryprosocial.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "prosocial": {
+      "url": "https://app.tryprosocial.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "slidely",
+  "displayName": "Slidely",
+  "description": "Create and edit presentations.",
+  "homepage": "https://slidely.ai/",
+  "docs": "https://slidely.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "slidely": {
+      "url": "https://prod.slidely.ai/mcp"
+    }
+  }
+}

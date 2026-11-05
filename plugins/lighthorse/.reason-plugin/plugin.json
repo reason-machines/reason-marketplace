@@ -1,0 +1,13 @@
+{
+  "name": "lighthorse",
+  "displayName": "Light Horse Securities",
+  "description": "View your brokerage account.",
+  "homepage": "https://www.lighthorse.io",
+  "docs": "https://www.lighthorse.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "lighthorse": {
+      "url": "https://portal.lighthorse.io/mcp"
+    }
+  }
+}

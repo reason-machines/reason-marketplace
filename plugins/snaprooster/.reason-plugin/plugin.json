@@ -1,0 +1,13 @@
+{
+  "name": "snaprooster",
+  "displayName": "SnapRooster",
+  "description": "Your food log, in Reason.",
+  "homepage": "https://snaprooster.com",
+  "docs": "https://snaprooster.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "snaprooster": {
+      "url": "https://snaprooster.com/mcp"
+    }
+  }
+}

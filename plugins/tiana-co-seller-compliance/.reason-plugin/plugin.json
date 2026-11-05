@@ -1,0 +1,13 @@
+{
+  "name": "tiana-co-seller-compliance",
+  "displayName": "Tiana & Co. Seller Compliance",
+  "description": "Free checks for US sellers.",
+  "homepage": "https://www.tiana-co.com/for-ai",
+  "docs": "https://www.tiana-co.com/for-ai",
+  "auth": "none",
+  "mcpServers": {
+    "tiana-co-seller-compliance": {
+      "url": "https://www.tiana-co.com/api/mcp"
+    }
+  }
+}

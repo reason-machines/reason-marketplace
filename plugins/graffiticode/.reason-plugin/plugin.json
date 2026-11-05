@@ -1,0 +1,13 @@
+{
+  "name": "graffiticode",
+  "displayName": "Graffiticode",
+  "description": "Assessments, diagrams and more.",
+  "homepage": "https://graffiticode.org",
+  "docs": "https://graffiticode.org",
+  "auth": "none",
+  "mcpServers": {
+    "graffiticode": {
+      "url": "https://mcp.graffiticode.org/mcp"
+    }
+  }
+}

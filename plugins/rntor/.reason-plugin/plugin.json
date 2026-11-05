@@ -1,0 +1,13 @@
+{
+  "name": "rntor",
+  "displayName": "Rntor",
+  "description": "Manage flexible workspaces.",
+  "homepage": "https://rntor.com",
+  "docs": "https://rntor.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "rntor": {
+      "url": "https://mcp.rntor.com/mcp"
+    }
+  }
+}

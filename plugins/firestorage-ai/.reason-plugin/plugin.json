@@ -1,0 +1,13 @@
+{
+  "name": "firestorage-ai",
+  "displayName": "firestorage.ai",
+  "description": "Upload and send files.",
+  "homepage": "https://firestorage.ai/",
+  "docs": "https://firestorage.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "firestorage-ai": {
+      "url": "https://mcp.firestorage.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "prompt-petal",
+  "displayName": "Prompt Petal",
+  "description": "AI prompt manager and improver.",
+  "homepage": "https://promptpetal.com",
+  "docs": "https://promptpetal.com",
+  "auth": "none",
+  "mcpServers": {
+    "prompt-petal": {
+      "url": "https://promptpetal.com/api/mcp"
+    }
+  }
+}

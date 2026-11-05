@@ -1,0 +1,13 @@
+{
+  "name": "slaide",
+  "displayName": "Presentation Maker by Slaide",
+  "description": "PowerPoint AI slides generator.",
+  "homepage": "https://www.slaide.de",
+  "docs": "https://slaide.de/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "slaide": {
+      "url": "https://app.slaide.de/api/mcp"
+    }
+  }
+}

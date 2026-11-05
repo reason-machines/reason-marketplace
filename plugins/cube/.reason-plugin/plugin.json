@@ -1,0 +1,13 @@
+{
+  "name": "cube",
+  "displayName": "Cube",
+  "description": "Analyze your financial data.",
+  "homepage": "https://www.cubesoftware.com/",
+  "docs": "https://www.cubesoftware.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "cube": {
+      "url": "https://mcp.cubesoftware.com/"
+    }
+  }
+}

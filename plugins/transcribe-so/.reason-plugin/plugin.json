@@ -1,0 +1,13 @@
+{
+  "name": "transcribe-so",
+  "displayName": "transcribe.so",
+  "description": "Who said what, and when.",
+  "homepage": "https://transcribe.so",
+  "docs": "https://transcribe.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "transcribe-so": {
+      "url": "https://mcp.transcribe.so/mcp"
+    }
+  }
+}

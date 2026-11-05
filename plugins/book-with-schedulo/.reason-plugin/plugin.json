@@ -1,0 +1,13 @@
+{
+  "name": "book-with-schedulo",
+  "displayName": "Book with Schedulo",
+  "description": "Book and manage meetings.",
+  "homepage": "https://www.bookwithschedulo.com/",
+  "docs": "https://www.bookwithschedulo.com/",
+  "auth": "none",
+  "mcpServers": {
+    "book-with-schedulo": {
+      "url": "https://mcp.bookwithschedulo.com/mcp"
+    }
+  }
+}

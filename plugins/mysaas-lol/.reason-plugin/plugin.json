@@ -1,0 +1,13 @@
+{
+  "name": "mysaas-lol",
+  "displayName": "mysaas.lol",
+  "description": "Find relevant SaaS memes.",
+  "homepage": "https://mysaas.lol",
+  "docs": "https://mysaas.lol",
+  "auth": "none",
+  "mcpServers": {
+    "mysaas-lol": {
+      "url": "https://mysaas.lol/mcp"
+    }
+  }
+}

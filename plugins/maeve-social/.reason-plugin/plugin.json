@@ -1,0 +1,13 @@
+{
+  "name": "maeve-social",
+  "displayName": "Maeve Social",
+  "description": "Manage social media content.",
+  "homepage": "https://maevesocial.com",
+  "docs": "https://maevesocial.com/features/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "maeve-social": {
+      "url": "https://api.maevesocial.com/mcp"
+    }
+  }
+}

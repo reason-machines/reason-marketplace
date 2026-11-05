@@ -1,0 +1,13 @@
+{
+  "name": "predictleads",
+  "displayName": "PredictLeads",
+  "description": "Structured company signals.",
+  "homepage": "https://predictleads.com",
+  "docs": "https://predictleads.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "predictleads": {
+      "url": "https://mcp.predictleads.com/"
+    }
+  }
+}

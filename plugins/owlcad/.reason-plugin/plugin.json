@@ -1,0 +1,13 @@
+{
+  "name": "owlcad",
+  "displayName": "OwlCAD",
+  "description": "Parametric CAD for 3D printing.",
+  "homepage": "https://owlcad.com",
+  "docs": "https://owlcad.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "owlcad": {
+      "url": "https://mcp.owlcad.com/mcp"
+    }
+  }
+}

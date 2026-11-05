@@ -1,0 +1,13 @@
+{
+  "name": "prontuno",
+  "displayName": "Prontuno",
+  "description": "Manage transactional email.",
+  "homepage": "https://prontuno.com",
+  "docs": "https://prontuno.com/docs/integrations/prontuno-mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "prontuno": {
+      "url": "https://mcp.prontuno.net/mcp"
+    }
+  }
+}

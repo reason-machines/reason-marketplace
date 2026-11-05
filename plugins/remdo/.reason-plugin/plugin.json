@@ -1,0 +1,13 @@
+{
+  "name": "remdo",
+  "displayName": "RemDo",
+  "description": "Read and write your notes.",
+  "homepage": "https://remdo.com",
+  "docs": "https://remdo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "remdo": {
+      "url": "https://remdo.com/mcp"
+    }
+  }
+}

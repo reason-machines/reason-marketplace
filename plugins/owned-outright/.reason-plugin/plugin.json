@@ -1,0 +1,13 @@
+{
+  "name": "owned-outright",
+  "displayName": "Owned Outright",
+  "description": "Mortgage payoff calculator.",
+  "homepage": "https://ownedoutright.com",
+  "docs": "https://tedix.dev/apps/owned-outright/",
+  "auth": "none",
+  "mcpServers": {
+    "owned-outright": {
+      "url": "https://ownedoutright-mcp.winwithwebtechnologies.workers.dev/mcp"
+    }
+  }
+}

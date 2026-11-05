@@ -1,0 +1,13 @@
+{
+  "name": "invoa",
+  "displayName": "Invoa",
+  "description": "Invoicing & LHDN e-invoices.",
+  "homepage": "https://invoa.io",
+  "docs": "https://invoa.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "invoa": {
+      "url": "https://invoa.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sitewarming",
+  "displayName": "SiteWarming",
+  "description": "Manage and warm your domains.",
+  "homepage": "https://www.sitewarming.com",
+  "docs": "https://www.sitewarming.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sitewarming": {
+      "url": "https://mcp.sitewarming.com/mcp"
+    }
+  }
+}

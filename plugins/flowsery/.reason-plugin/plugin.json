@@ -1,0 +1,13 @@
+{
+  "name": "flowsery",
+  "displayName": "Flowsery",
+  "description": "Website traffic and issues.",
+  "homepage": "https://flowsery.com",
+  "docs": "https://flowsery.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "flowsery": {
+      "url": "https://mcp.flowsery.com/mcp"
+    }
+  }
+}

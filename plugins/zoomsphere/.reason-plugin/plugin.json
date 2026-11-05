@@ -1,0 +1,13 @@
+{
+  "name": "zoomsphere",
+  "displayName": "ZoomSphere",
+  "description": "Plan and publish social posts.",
+  "homepage": "https://www.zoomsphere.com/mcp",
+  "docs": "https://www.zoomsphere.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "zoomsphere": {
+      "url": "https://mcp.zoomsphere.com/mcp"
+    }
+  }
+}

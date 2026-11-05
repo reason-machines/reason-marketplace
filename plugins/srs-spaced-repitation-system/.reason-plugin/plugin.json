@@ -1,0 +1,13 @@
+{
+  "name": "srs-spaced-repitation-system",
+  "displayName": "SRS (Spaced Repitation System)",
+  "description": "Learn • Review • Master.",
+  "homepage": "https://srs.viewlyt.com",
+  "docs": "https://srs.viewlyt.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "srs-spaced-repitation-system": {
+      "url": "https://srs.viewlyt.com/mcp"
+    }
+  }
+}

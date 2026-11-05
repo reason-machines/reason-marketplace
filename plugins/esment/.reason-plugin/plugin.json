@@ -1,0 +1,13 @@
+{
+  "name": "esment",
+  "displayName": "Esment",
+  "description": "Private AI memory.",
+  "homepage": "https://notas.ai",
+  "docs": "https://notas.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "esment": {
+      "url": "https://mcp.notas.ai/mcp"
+    }
+  }
+}

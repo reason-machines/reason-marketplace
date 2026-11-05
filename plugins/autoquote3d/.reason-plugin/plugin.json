@@ -1,0 +1,13 @@
+{
+  "name": "autoquote3d",
+  "displayName": "AutoQuote3D",
+  "description": "Manage 3D print storefronts.",
+  "homepage": "https://www.autoquote3d.com/",
+  "docs": "https://www.autoquote3d.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "autoquote3d": {
+      "url": "https://mcp.autoquote3d.com/mcp"
+    }
+  }
+}

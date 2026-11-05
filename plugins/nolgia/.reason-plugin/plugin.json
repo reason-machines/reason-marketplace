@@ -1,0 +1,13 @@
+{
+  "name": "nolgia",
+  "displayName": "NOLGIA",
+  "description": "Create images, video and audio.",
+  "homepage": "https://nolgia.ai",
+  "docs": "https://nolgia.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "nolgia": {
+      "url": "https://mcp.nolgia.ai/mcp"
+    }
+  }
+}

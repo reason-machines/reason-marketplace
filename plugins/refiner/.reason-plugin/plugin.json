@@ -1,0 +1,13 @@
+{
+  "name": "refiner",
+  "displayName": "Refiner",
+  "description": "Analyze survey responses.",
+  "homepage": "https://refiner.io",
+  "docs": "https://refiner.io/docs/kb/integrations/mcp-server/",
+  "auth": "oauth",
+  "mcpServers": {
+    "refiner": {
+      "url": "https://app.refiner.io/v001/mcp"
+    }
+  }
+}

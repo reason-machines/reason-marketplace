@@ -1,0 +1,13 @@
+{
+  "name": "kuliko-ai",
+  "displayName": "Kuliko AI",
+  "description": "Exam prep from notes and PDFs.",
+  "homepage": "https://kuliko.ai/",
+  "docs": "https://kuliko.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "kuliko-ai": {
+      "url": "https://mcp.kuliko.ai/mcp"
+    }
+  }
+}

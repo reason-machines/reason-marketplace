@@ -10,5 +10,84 @@
     "honeycomb": {
       "url": "https://mcp.honeycomb.io/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "beeline-migration",
+      "description": "Step-by-step guide for migrating from Honeycomb Beelines (End of Life) to OpenTelemetry instrumentation. Trigger phrases: \"migrate from Beelines\", \"upgrade from Beeline to OpenTelemetry\", \"migrate to OTel\", \"replace Beelines\", \"Beeline end of life\", \"Beeline EOL\", \"switch from Beeline to OTel\", \"mig",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "beeline-migration",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/beeline-migration"
+    },
+    {
+      "name": "create-honeycomb-board",
+      "description": "Design and then create a board (dashboard) in Honeycomb with queries and SLOs. Trigger phrases: \"create a board\", \"make a board\", \"build a dashboard\", \"create a Honeycomb board\", \"make a dashboard in Honeycomb\", \"set up a board\", \"dashboard for my service\", \"visualize service health\", \"golden signal",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "create-honeycomb-board",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/create-honeycomb-board"
+    },
+    {
+      "name": "metrics-queries",
+      "description": "How to query OpenTelemetry metrics datasets in Honeycomb correctly. Metrics datasets follow different rules from trace/event datasets — many operations (bare COUNT, RATE_SUM, RATE_AVG, RATE_MAX, CONCURRENCY) are forbidden, temporal aggregation is automatic, and each metric has its own attributes. Us",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "metrics-queries",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/metrics-queries"
+    },
+    {
+      "name": "observability-fundamentals",
+      "description": "First principles behind observability — wide events, high cardinality, the core analysis loop, events vs metrics vs logs, and how instrumentation connects to debugging outcomes. Grounds recommendations in first principles rather than tool-specific how-to. Trigger phrases: \"what is observability\", \"w",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "observability-fundamentals",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/observability-fundamentals"
+    },
+    {
+      "name": "otel-genai-instrumentation",
+      "description": "Guides instrumentation of GenAI/LLM applications with OpenTelemetry for Honeycomb, including content capture and agent failure detection. Trigger phrases: \"instrument my GenAI app\", \"add tracing to LLM calls\", \"trace AI agent\", \"instrument OpenAI\", \"instrument Anthropic\", \"GenAI observability\", \"tra",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "otel-genai-instrumentation",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/otel-genai-instrumentation"
+    },
+    {
+      "name": "otel-instrumentation",
+      "description": "Provides guidance on OpenTelemetry SDK setup, custom instrumentation, and sending data to Honeycomb. Trigger phrases: \"instrument my app\", \"add tracing\", \"set up OpenTelemetry\", \"configure OTel\", \"add custom spans\", \"add attributes to spans\", \"send traces to Honeycomb\", \"set up OTLP\", \"configure sam",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "otel-instrumentation",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/otel-instrumentation"
+    },
+    {
+      "name": "otel-migration",
+      "description": "Guide for retrofitting OpenTelemetry into an existing, uninstrumented application. Trigger phrases: \"migrate existing app to OTel\", \"add OpenTelemetry to existing project\", \"retrofit OTel into my codebase\", \"thread context through my code\", \"context propagation\", \"bridge Prometheus metrics to OTel\",",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "otel-migration",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/otel-migration"
+    },
+    {
+      "name": "production-investigation",
+      "description": "Structured workflows for investigating production issues in Honeycomb — the sequence of tool calls (context priming, broad query, BubbleUp, trace analysis, verification) and how to chain results between steps to reach root causes. Trigger phrases: \"investigate production issue\", \"debug latency spike",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "production-investigation",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/production-investigation"
+    },
+    {
+      "name": "query-patterns",
+      "description": "Opinionated guidance for constructing and interpreting Honeycomb queries on trace and event datasets — operation selection (percentiles not AVG, HEATMAP for distributions), relational field patterns (root., parent., any., none.), calculated fields, query math, and result interpretation (P99/P50 rati",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "query-patterns",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/query-patterns"
+    },
+    {
+      "name": "slos-and-triggers",
+      "description": "Decision heuristics for interpreting Honeycomb SLO compliance, budget burn rates, and trigger status — what the numbers mean and what action to take, including detecting misconfigured SLIs, deciding when to freeze deploys vs page on-call, and designing burn alert thresholds. Load this skill before c",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "slos-and-triggers",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/slos-and-triggers"
+    },
+    {
+      "name": "verify-recent-trace",
+      "description": "Find a recent trace in Honeycomb, to see what happened in a recent test. Use when asked to \"verify in Honeycomb\", \"find the most recent trace\", or \"show me the trace\".",
+      "source": "honeycombio/agent-skill#6bb09279fc3fb69abf113228be939dbb929e34f1",
+      "skill": "verify-recent-trace",
+      "url": "https://github.com/honeycombio/agent-skill/tree/6bb09279fc3fb69abf113228be939dbb929e34f1/honeycomb/skills/verify-recent-trace"
+    }
+  ]
 }

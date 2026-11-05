@@ -1,0 +1,13 @@
+{
+  "name": "voarq",
+  "displayName": "Voarq",
+  "description": "Manage your architecture firm.",
+  "homepage": "https://voarq.app",
+  "docs": "https://voarq.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "voarq": {
+      "url": "https://voarq.app/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "matchawards",
+  "displayName": "MatchAwards - Gov Contracts",
+  "description": "Find and win gov contracts.",
+  "homepage": "https://matchawards.com",
+  "docs": "https://matchawards.com",
+  "auth": "none",
+  "mcpServers": {
+    "matchawards": {
+      "url": "https://matchawards.com/mcp"
+    }
+  }
+}

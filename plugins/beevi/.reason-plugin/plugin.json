@@ -1,0 +1,13 @@
+{
+  "name": "beevi",
+  "displayName": "Beevi",
+  "description": "AI social media manager.",
+  "homepage": "https://beevi.ai",
+  "docs": "https://beevi.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "beevi": {
+      "url": "https://beevi.ai/api/mcp/mcp"
+    }
+  }
+}

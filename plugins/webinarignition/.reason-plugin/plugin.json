@@ -1,0 +1,13 @@
+{
+  "name": "webinarignition",
+  "displayName": "WebinarIgnition",
+  "description": "Get leads & sales mid-webinar.",
+  "homepage": "https://webinarignition.com/",
+  "docs": "https://webinarignition.com/",
+  "auth": "none",
+  "mcpServers": {
+    "webinarignition": {
+      "url": "https://mcp.webinarignition.com/mcp"
+    }
+  }
+}

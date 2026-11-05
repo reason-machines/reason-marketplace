@@ -1,0 +1,13 @@
+{
+  "name": "huddo",
+  "displayName": "Huddo",
+  "description": "Group chat for people and AI.",
+  "homepage": "https://huddo.ai",
+  "docs": "https://huddo.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "huddo": {
+      "url": "https://mcp.huddo.ai/mcp"
+    }
+  }
+}

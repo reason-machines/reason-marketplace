@@ -1,0 +1,13 @@
+{
+  "name": "sleekplan",
+  "displayName": "Sleekplan",
+  "description": "Manage customer feedback.",
+  "homepage": "https://sleekplan.com",
+  "docs": "https://sleekplan.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sleekplan": {
+      "url": "https://mcp.sleekplan.com/mcp"
+    }
+  }
+}

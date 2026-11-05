@@ -1,0 +1,13 @@
+{
+  "name": "adszy",
+  "displayName": "Adszy",
+  "description": "Read-only PPC account insights.",
+  "homepage": "https://adszy.ai/mcp",
+  "docs": "https://adszy.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "adszy": {
+      "url": "https://mcp.adszy.ai/mcp"
+    }
+  }
+}

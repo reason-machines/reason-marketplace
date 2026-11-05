@@ -1,0 +1,13 @@
+{
+  "name": "lexgraph",
+  "displayName": "LexGraph",
+  "description": "Legal Database.",
+  "homepage": "https://lexgraph.de/",
+  "docs": "https://lexgraph.de/llms-full.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "lexgraph": {
+      "url": "https://api.lexgraph.de/mcp"
+    }
+  }
+}

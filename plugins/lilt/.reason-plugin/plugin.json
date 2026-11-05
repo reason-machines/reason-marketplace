@@ -1,0 +1,13 @@
+{
+  "name": "lilt",
+  "displayName": "LILT",
+  "description": "Translation and localization.",
+  "homepage": "https://lilt.com/",
+  "docs": "https://lilt.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "lilt": {
+      "url": "https://mcp.lilt.com/mcp"
+    }
+  }
+}

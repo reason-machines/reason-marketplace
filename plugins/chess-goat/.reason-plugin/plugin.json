@@ -1,0 +1,13 @@
+{
+  "name": "chess-goat",
+  "displayName": "Chess Goat",
+  "description": "Chess lessons from your games.",
+  "homepage": "https://trychessgoat.com",
+  "docs": "https://trychessgoat.com",
+  "auth": "none",
+  "mcpServers": {
+    "chess-goat": {
+      "url": "https://trychessgoat.com/mcp"
+    }
+  }
+}

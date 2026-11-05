@@ -1,0 +1,13 @@
+{
+  "name": "danu",
+  "displayName": "Danu",
+  "description": "Charts for you and your people.",
+  "homepage": "https://danuastrology.com",
+  "docs": "https://danuastrology.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "danu": {
+      "url": "https://danuastrology.com/mcp"
+    }
+  }
+}

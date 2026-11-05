@@ -1,0 +1,13 @@
+{
+  "name": "registry-lookup",
+  "displayName": "Registry Lookup",
+  "description": "Explore company registry data.",
+  "homepage": "https://registry-lookup.com",
+  "docs": "https://registry-lookup.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "registry-lookup": {
+      "url": "https://registry-lookup.com/mcp/sse"
+    }
+  }
+}

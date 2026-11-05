@@ -1,0 +1,13 @@
+{
+  "name": "blinq",
+  "displayName": "Blinq",
+  "description": "Find contacts and search notes.",
+  "homepage": "https://blinq.me/",
+  "docs": "https://blinq.me/",
+  "auth": "oauth",
+  "mcpServers": {
+    "blinq": {
+      "url": "https://mcp.blinq.me/mcp"
+    }
+  }
+}

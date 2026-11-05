@@ -1,0 +1,13 @@
+{
+  "name": "acceptance-criteria-extractor",
+  "displayName": "Acceptance Criteria Extractor",
+  "description": "Extract acceptance criteria.",
+  "homepage": "https://acceptance-criteria-extractor.sidcraigau.workers.dev",
+  "docs": "https://acceptance-criteria-extractor.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "acceptance-criteria-extractor": {
+      "url": "https://acceptance-criteria-extractor.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

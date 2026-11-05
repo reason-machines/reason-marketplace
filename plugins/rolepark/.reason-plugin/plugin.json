@@ -1,0 +1,13 @@
+{
+  "name": "rolepark",
+  "displayName": "RolePark",
+  "description": "Your hiring pipeline in chat.",
+  "homepage": "https://rolepark.com",
+  "docs": "https://rolepark.com/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "rolepark": {
+      "url": "https://rolepark.com/api/mcp"
+    }
+  }
+}

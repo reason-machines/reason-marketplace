@@ -1,0 +1,13 @@
+{
+  "name": "voyagehacks",
+  "displayName": "VoyageHacks",
+  "description": "Travel guides and trip ideas.",
+  "homepage": "https://voyagehacks.com/",
+  "docs": "https://voyagehacks.com/",
+  "auth": "none",
+  "mcpServers": {
+    "voyagehacks": {
+      "url": "https://voyagehacks.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "1st-private-capital",
+  "displayName": "1st Private Capital",
+  "description": "Price hard money & DSCR loans.",
+  "homepage": "https://www.1stprivatecapital.com",
+  "docs": "https://www.1stprivatecapital.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "1st-private-capital": {
+      "url": "https://apps.1stprivatecapital.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ferb",
+  "displayName": "Ferb",
+  "description": "Ask about your studio's data.",
+  "homepage": "https://ferb.co",
+  "docs": "https://ferb.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "ferb": {
+      "url": "https://mcp.ferb.co/mcp"
+    }
+  }
+}

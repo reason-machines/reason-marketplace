@@ -1,0 +1,13 @@
+{
+  "name": "tobie-total-rewards",
+  "displayName": "Tobie Total Rewards",
+  "description": "Compare job offers & benefits.",
+  "homepage": "https://plugins.tobie.team/total-rewards",
+  "docs": "https://plugins.tobie.team/total-rewards",
+  "auth": "none",
+  "mcpServers": {
+    "tobie-total-rewards": {
+      "url": "https://plugins.tobie.team/mcp/total-rewards"
+    }
+  }
+}

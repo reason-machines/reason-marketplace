@@ -1,0 +1,13 @@
+{
+  "name": "nogogo-ai",
+  "displayName": "Nogogo AI",
+  "description": "Reliability.",
+  "homepage": "https://nogogo.fr",
+  "docs": "https://nogogo.fr/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "nogogo-ai": {
+      "url": "https://mcp-public.nogogo.fr/mcp"
+    }
+  }
+}

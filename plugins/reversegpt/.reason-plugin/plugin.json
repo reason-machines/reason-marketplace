@@ -1,0 +1,13 @@
+{
+  "name": "reversegpt",
+  "displayName": "ReverseGPT",
+  "description": "Humanizes AI writing.",
+  "homepage": "https://www.reversegpt.ai",
+  "docs": "https://reversegpt.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "reversegpt": {
+      "url": "https://www.reversegpt.ai/api/mcp"
+    }
+  }
+}

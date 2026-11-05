@@ -1,0 +1,13 @@
+{
+  "name": "jade-note",
+  "displayName": "Jade Note",
+  "description": "Editable memory layer.",
+  "homepage": "https://jadenote.app",
+  "docs": "https://jadenote.app/mcp-note-app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "jade-note": {
+      "url": "https://api.jadenote.app/mcp"
+    }
+  }
+}

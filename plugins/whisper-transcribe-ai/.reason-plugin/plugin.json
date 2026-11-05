@@ -1,0 +1,13 @@
+{
+  "name": "whisper-transcribe-ai",
+  "displayName": "Whisper Transcribe AI",
+  "description": "Whisper Transcription.",
+  "homepage": "https://whispertranscribe.ai/",
+  "docs": "https://whispertranscribe.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "whisper-transcribe-ai": {
+      "url": "https://mcp.whispertranscribe.ai/mcp"
+    }
+  }
+}

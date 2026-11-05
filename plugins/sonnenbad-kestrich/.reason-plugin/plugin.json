@@ -1,0 +1,13 @@
+{
+  "name": "sonnenbad-kestrich",
+  "displayName": "Sonnenbad Kestrich",
+  "description": "Öffnungszeiten und Badinfos.",
+  "homepage": "https://sonnenbad-kestrich.de/",
+  "docs": "https://sonnenbad-kestrich.de/",
+  "auth": "none",
+  "mcpServers": {
+    "sonnenbad-kestrich": {
+      "url": "https://sonnenbad-kestrich.de/mcp"
+    }
+  }
+}

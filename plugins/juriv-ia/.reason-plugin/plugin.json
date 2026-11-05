@@ -1,0 +1,13 @@
+{
+  "name": "juriv-ia",
+  "displayName": "Juriv'IA",
+  "description": "Assistant juridique français.",
+  "homepage": "https://jurivia.fr",
+  "docs": "https://jurivia.fr",
+  "auth": "oauth",
+  "mcpServers": {
+    "juriv-ia": {
+      "url": "https://jurivia.fr/mcp"
+    }
+  }
+}

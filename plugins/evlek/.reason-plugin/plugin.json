@@ -1,0 +1,13 @@
+{
+  "name": "evlek",
+  "displayName": "Evlek",
+  "description": "Northern Cyprus property data.",
+  "homepage": "https://evlek.app",
+  "docs": "https://evlek.app/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "evlek": {
+      "url": "https://evlek.app/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "quantral",
+  "displayName": "Quantral",
+  "description": "Stock conversation signals.",
+  "homepage": "https://quantral.com/mcp",
+  "docs": "https://quantral.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "quantral": {
+      "url": "https://app.quantral.com/api/mcp"
+    }
+  }
+}

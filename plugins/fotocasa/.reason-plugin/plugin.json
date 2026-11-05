@@ -1,0 +1,13 @@
+{
+  "name": "fotocasa",
+  "displayName": "Fotocasa",
+  "description": "Find properties to buy or rent.",
+  "homepage": "https://www.fotocasa.es",
+  "docs": "https://www.fotocasa.es",
+  "auth": "none",
+  "mcpServers": {
+    "fotocasa": {
+      "url": "https://fotocasa.es/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cartly-plus",
+  "displayName": "Cartly+",
+  "description": "Manage shared shopping lists.",
+  "homepage": "https://cartly.plus",
+  "docs": "https://cartly.plus",
+  "auth": "oauth",
+  "mcpServers": {
+    "cartly-plus": {
+      "url": "https://mcp.cartly.plus/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "clariomoney",
+  "displayName": "ClarioMoney",
+  "description": "Invoices and bookkeeping.",
+  "homepage": "https://clariov4.cloud/conectar_chatgpt.html",
+  "docs": "https://clariov4.cloud/conectar_chatgpt.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "clariomoney": {
+      "url": "https://clariov4.cloud/mcp"
+    }
+  }
+}

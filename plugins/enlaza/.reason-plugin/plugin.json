@@ -1,0 +1,13 @@
+{
+  "name": "enlaza",
+  "displayName": "Enlazá para WhatsApp Business",
+  "description": "Your WhatsApp Business inbox.",
+  "homepage": "https://enlaza.chat",
+  "docs": "https://enlaza.chat",
+  "auth": "oauth",
+  "mcpServers": {
+    "enlaza": {
+      "url": "https://enlaza.chat/mcp"
+    }
+  }
+}

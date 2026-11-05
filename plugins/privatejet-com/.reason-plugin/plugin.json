@@ -1,0 +1,13 @@
+{
+  "name": "privatejet-com",
+  "displayName": "PrivateJet.com",
+  "description": "Private jet charter quote.",
+  "homepage": "https://privatejet.com/",
+  "docs": "https://privatejet.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "privatejet-com": {
+      "url": "https://mcp.privatejet.com/mcp"
+    }
+  }
+}

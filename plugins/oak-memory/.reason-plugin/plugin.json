@@ -1,0 +1,13 @@
+{
+  "name": "oak-memory",
+  "displayName": "OAK.memory",
+  "description": "Private memory for your AI.",
+  "homepage": "https://www.openaikits.com",
+  "docs": "https://openaikits.com/docs/claude-desktop",
+  "auth": "oauth",
+  "mcpServers": {
+    "oak-memory": {
+      "url": "https://www.openaikits.com/api/mcp"
+    }
+  }
+}

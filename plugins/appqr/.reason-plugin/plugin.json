@@ -1,0 +1,13 @@
+{
+  "name": "appqr",
+  "displayName": "AppQR",
+  "description": "Create app download links.",
+  "homepage": "https://www.appqr.io",
+  "docs": "https://appqr.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "appqr": {
+      "url": "https://www.appqr.io/api/mcp"
+    }
+  }
+}

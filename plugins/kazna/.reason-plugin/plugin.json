@@ -1,0 +1,13 @@
+{
+  "name": "kazna",
+  "displayName": "Kazna",
+  "description": "Author cabinet analytics.",
+  "homepage": "https://kazna.online/en",
+  "docs": "https://kazna.online/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "kazna": {
+      "url": "https://kazna.online/mcp"
+    }
+  }
+}

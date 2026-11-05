@@ -1,0 +1,13 @@
+{
+  "name": "res-ipsa",
+  "displayName": "Res Ipsa",
+  "description": "Research New Zealand law.",
+  "homepage": "https://app.resipsa.ai/",
+  "docs": "https://app.resipsa.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "res-ipsa": {
+      "url": "https://mcp.resipsa.ai/mcp"
+    }
+  }
+}

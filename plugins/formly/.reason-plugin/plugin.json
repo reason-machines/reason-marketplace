@@ -1,0 +1,13 @@
+{
+  "name": "formly",
+  "displayName": "Formly",
+  "description": "Build and manage forms.",
+  "homepage": "https://formly.so",
+  "docs": "https://formly.so/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "formly": {
+      "url": "https://api.formly.so/mcp"
+    }
+  }
+}

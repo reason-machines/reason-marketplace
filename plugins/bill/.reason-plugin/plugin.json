@@ -1,0 +1,13 @@
+{
+  "name": "bill",
+  "displayName": "BILL",
+  "description": "Finance answers, where you are.",
+  "homepage": "https://developer.bill.com",
+  "docs": "https://tedix.dev/apps/bill/",
+  "auth": "oauth",
+  "mcpServers": {
+    "bill": {
+      "url": "https://gateway.prod.bill.com/ai-mcp-server/v1"
+    }
+  }
+}

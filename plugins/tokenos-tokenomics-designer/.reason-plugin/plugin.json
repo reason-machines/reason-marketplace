@@ -1,0 +1,13 @@
+{
+  "name": "tokenos-tokenomics-designer",
+  "displayName": "TokenOS Tokenomics Designer",
+  "description": "Allocation & vesting design.",
+  "homepage": "https://tokenos.ai/chatgpt-apps/tokenomics-designer",
+  "docs": "https://tokenos.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "tokenos-tokenomics-designer": {
+      "url": "https://tokenos.ai/api/mcp/apps/tokenomics-designer"
+    }
+  }
+}

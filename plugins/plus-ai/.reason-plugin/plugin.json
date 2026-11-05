@@ -1,0 +1,13 @@
+{
+  "name": "plus-ai",
+  "displayName": "Plus AI",
+  "description": "PowerPoint presentation agent.",
+  "homepage": "https://plusai.com",
+  "docs": "https://plusai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "plus-ai": {
+      "url": "https://mcp.plusai.com/"
+    }
+  }
+}

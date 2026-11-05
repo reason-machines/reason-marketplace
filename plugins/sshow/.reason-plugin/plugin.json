@@ -1,0 +1,13 @@
+{
+  "name": "sshow",
+  "displayName": "SSHOW",
+  "description": "Design and animate slides.",
+  "homepage": "https://s.show",
+  "docs": "https://s.show",
+  "auth": "oauth",
+  "mcpServers": {
+    "sshow": {
+      "url": "https://s.show/mcp"
+    }
+  }
+}

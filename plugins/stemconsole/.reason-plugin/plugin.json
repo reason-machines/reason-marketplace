@@ -1,0 +1,13 @@
+{
+  "name": "stemconsole",
+  "displayName": "StemConsole",
+  "description": "Split, mix and practise music.",
+  "homepage": "https://stemconsole.ai",
+  "docs": "https://stemconsole.ai",
+  "auth": "none",
+  "mcpServers": {
+    "stemconsole": {
+      "url": "https://stemconsole.ai/mcp"
+    }
+  }
+}

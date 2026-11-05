@@ -1,0 +1,13 @@
+{
+  "name": "labwired",
+  "displayName": "LabWired",
+  "description": "Develop and verify hardware.",
+  "homepage": "https://labwired.com",
+  "docs": "https://labwired.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "labwired": {
+      "url": "https://api.labwired.com/mcp"
+    }
+  }
+}

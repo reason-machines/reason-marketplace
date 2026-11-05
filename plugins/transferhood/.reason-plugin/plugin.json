@@ -1,0 +1,13 @@
+{
+  "name": "transferhood",
+  "displayName": "Transferhood",
+  "description": "Private Airport Transfers.",
+  "homepage": "https://transferhood.com/",
+  "docs": "https://transferhood.com/",
+  "auth": "none",
+  "mcpServers": {
+    "transferhood": {
+      "url": "https://mcp.transferhood.com/mcp"
+    }
+  }
+}

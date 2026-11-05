@@ -1,0 +1,13 @@
+{
+  "name": "okx",
+  "displayName": "OKX",
+  "description": "Find crypto market data.",
+  "homepage": "https://www.okx.com",
+  "docs": "https://tedix.dev/apps/okx/",
+  "auth": "none",
+  "mcpServers": {
+    "okx": {
+      "url": "https://www.okx.com/api/v1/mcp/chatgpt"
+    }
+  }
+}

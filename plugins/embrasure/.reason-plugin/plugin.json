@@ -1,0 +1,13 @@
+{
+  "name": "embrasure",
+  "displayName": "Embrasure",
+  "description": "Warehouse, analytics, charts.",
+  "homepage": "https://embrasure.ai",
+  "docs": "https://embrasure.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "embrasure": {
+      "url": "https://embrasure.ai/api/mcp"
+    }
+  }
+}

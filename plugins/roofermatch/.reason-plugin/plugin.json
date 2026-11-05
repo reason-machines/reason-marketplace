@@ -1,0 +1,13 @@
+{
+  "name": "roofermatch",
+  "displayName": "RooferMatch",
+  "description": "Roof help, then roofer quotes.",
+  "homepage": "https://roofermatch.co/",
+  "docs": "https://roofermatch.co/",
+  "auth": "none",
+  "mcpServers": {
+    "roofermatch": {
+      "url": "https://roofermatch.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "findmybids",
+  "displayName": "FindMyBids",
+  "description": "Bids that fit your business.",
+  "homepage": "https://findmybids.com",
+  "docs": "https://findmybids.com",
+  "auth": "none",
+  "mcpServers": {
+    "findmybids": {
+      "url": "https://findmybids.com/mcp"
+    }
+  }
+}

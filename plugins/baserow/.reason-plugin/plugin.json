@@ -1,0 +1,22 @@
+{
+  "name": "baserow",
+  "displayName": "Baserow",
+  "description": "Read and change Baserow tables.",
+  "homepage": "https://baserow.io",
+  "docs": "https://api.baserow.io/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "baserow": {
+      "url": "https://api.baserow.io/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "baserow-basics",
+      "description": "Use when the user asks to read or change data in Baserow tables through the Baserow MCP server.",
+      "source": "baserow/baserow-mcp#f369f8cf476cc3ac5e538053caf3d6dfc5e37f65",
+      "skill": "baserow-basics",
+      "url": "https://github.com/baserow/baserow-mcp/tree/f369f8cf476cc3ac5e538053caf3d6dfc5e37f65/skills/baserow-basics"
+    }
+  ]
+}

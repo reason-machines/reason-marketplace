@@ -1,0 +1,13 @@
+{
+  "name": "upgrowth-growth-toolkit",
+  "displayName": "upGrowth Growth Toolkit",
+  "description": "Growth maths and SEO tools.",
+  "homepage": "https://upgrowth.in/growth-toolkit-mcp/",
+  "docs": "https://upgrowth.in/growth-toolkit-mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "upgrowth-growth-toolkit": {
+      "url": "https://mcp.upgrowth.in/mcp"
+    }
+  }
+}

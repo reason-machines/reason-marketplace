@@ -1,0 +1,13 @@
+{
+  "name": "voice213",
+  "displayName": "Voice213",
+  "description": "Darija voice-overs and agents.",
+  "homepage": "https://www.voice213.com",
+  "docs": "https://docs.voice213.com/integrations/chatgpt-and-claude",
+  "auth": "oauth",
+  "mcpServers": {
+    "voice213": {
+      "url": "https://api.voice213.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "topiclift-editorial-insights",
+  "displayName": "TopicLift Editorial Insights",
+  "description": "Editorial traffic insights.",
+  "homepage": "https://topiclift.io",
+  "docs": "https://topiclift.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "topiclift-editorial-insights": {
+      "url": "https://topiclift.io/mcp"
+    }
+  }
+}

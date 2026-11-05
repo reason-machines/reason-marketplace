@@ -1,0 +1,13 @@
+{
+  "name": "profitbooks",
+  "displayName": "ProfitBooks",
+  "description": "Talk to your bookkeeper.",
+  "homepage": "https://profitbooks.ai/",
+  "docs": "https://profitbooks.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "profitbooks": {
+      "url": "https://mcp.profitbooks.ai/mcp"
+    }
+  }
+}

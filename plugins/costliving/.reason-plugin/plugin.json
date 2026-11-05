@@ -1,0 +1,13 @@
+{
+  "name": "costliving",
+  "displayName": "CostLiving",
+  "description": "Cost of living for US cities.",
+  "homepage": "https://costliving.net/",
+  "docs": "https://costliving.net/",
+  "auth": "none",
+  "mcpServers": {
+    "costliving": {
+      "url": "https://mcp.costliving.net/mcp"
+    }
+  }
+}

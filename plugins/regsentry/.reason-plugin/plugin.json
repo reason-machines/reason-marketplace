@@ -1,0 +1,13 @@
+{
+  "name": "regsentry",
+  "displayName": "RegSentry",
+  "description": "Check website tracking.",
+  "homepage": "https://regsentry.com",
+  "docs": "https://regsentry.com",
+  "auth": "none",
+  "mcpServers": {
+    "regsentry": {
+      "url": "https://regsentry.com/mcp"
+    }
+  }
+}

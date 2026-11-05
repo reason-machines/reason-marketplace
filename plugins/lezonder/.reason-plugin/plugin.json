@@ -1,0 +1,13 @@
+{
+  "name": "lezonder",
+  "displayName": "Lezonder",
+  "description": "See if your sleep is improving.",
+  "homepage": "https://www.lezonder.com",
+  "docs": "https://www.lezonder.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lezonder": {
+      "url": "https://lezonder.com/mcp"
+    }
+  }
+}

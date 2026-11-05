@@ -1,0 +1,13 @@
+{
+  "name": "orbit",
+  "displayName": "Orbit for Substack",
+  "description": "Know your people and writing.",
+  "homepage": "https://seeyourorbit.com/chatgpt?utm_source=chatgpt-directory&utm_medium=listing",
+  "docs": "https://seeyourorbit.com/chatgpt?utm_source=chatgpt-directory&utm_medium=listing",
+  "auth": "oauth",
+  "mcpServers": {
+    "orbit": {
+      "url": "https://seeyourorbit.com/api/mcp"
+    }
+  }
+}

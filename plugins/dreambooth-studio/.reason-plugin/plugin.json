@@ -1,0 +1,13 @@
+{
+  "name": "dreambooth-studio",
+  "displayName": "Dreambooth Studio",
+  "description": "Start and run a photobooth.",
+  "homepage": "https://dreamboothstudio.com",
+  "docs": "https://dreamboothstudio.com",
+  "auth": "none",
+  "mcpServers": {
+    "dreambooth-studio": {
+      "url": "https://mcp.dreamboothstudio.com/mcp"
+    }
+  }
+}

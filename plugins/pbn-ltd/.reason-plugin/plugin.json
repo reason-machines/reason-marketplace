@@ -1,0 +1,13 @@
+{
+  "name": "pbn-ltd",
+  "displayName": "PBN.LTD",
+  "description": "Manage your PBN hosting.",
+  "homepage": "https://pbn.ltd/",
+  "docs": "https://pbn.ltd/api-mcp-server/",
+  "auth": "oauth",
+  "mcpServers": {
+    "pbn-ltd": {
+      "url": "https://app.pbn.ltd/mcp"
+    }
+  }
+}

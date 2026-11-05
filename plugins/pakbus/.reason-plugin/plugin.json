@@ -1,0 +1,13 @@
+{
+  "name": "pakbus",
+  "displayName": "PakBus",
+  "description": "Pakistan bus routes and times.",
+  "homepage": "https://pakbus.app",
+  "docs": "https://pakbus.app",
+  "auth": "none",
+  "mcpServers": {
+    "pakbus": {
+      "url": "https://pakbus.app/mcp"
+    }
+  }
+}

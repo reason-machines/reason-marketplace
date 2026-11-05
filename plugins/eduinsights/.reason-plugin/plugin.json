@@ -1,0 +1,13 @@
+{
+  "name": "eduinsights",
+  "displayName": "EduInsights",
+  "description": "Research colleges and careers.",
+  "homepage": "https://eduinsights.ai/",
+  "docs": "https://eduinsights.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "eduinsights": {
+      "url": "https://mcp.eduinsights.ai/mcp"
+    }
+  }
+}

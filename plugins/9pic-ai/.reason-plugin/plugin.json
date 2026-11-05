@@ -1,0 +1,13 @@
+{
+  "name": "9pic-ai",
+  "displayName": "9Pic AI",
+  "description": "Event photo workflows in chat.",
+  "homepage": "https://9pic.ai",
+  "docs": "https://9pic.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "9pic-ai": {
+      "url": "https://mcp.9pic.ai/mcp"
+    }
+  }
+}

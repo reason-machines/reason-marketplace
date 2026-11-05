@@ -1,0 +1,13 @@
+{
+  "name": "probeauty-ai",
+  "displayName": "ProBeauty AI",
+  "description": "Your salon's front desk.",
+  "homepage": "https://www.probeauty.ai",
+  "docs": "https://probeauty.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "probeauty-ai": {
+      "url": "https://app.probeauty.ai/api/mcp"
+    }
+  }
+}

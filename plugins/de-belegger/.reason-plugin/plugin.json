@@ -1,0 +1,13 @@
+{
+  "name": "de-belegger",
+  "displayName": "De Belegger",
+  "description": "Understand your portfolio.",
+  "homepage": "https://app.debelegger.nl",
+  "docs": "https://tedix.dev/apps/de-belegger/",
+  "auth": "oauth",
+  "mcpServers": {
+    "de-belegger": {
+      "url": "https://app.debelegger.nl/mcp"
+    }
+  }
+}

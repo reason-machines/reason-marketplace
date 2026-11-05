@@ -1,0 +1,13 @@
+{
+  "name": "taskn",
+  "displayName": "TASKn",
+  "description": "Manage tasks and projects.",
+  "homepage": "https://taskn.app",
+  "docs": "https://taskn.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "taskn": {
+      "url": "https://mcp.taskn.app/mcp"
+    }
+  }
+}

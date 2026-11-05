@@ -1,0 +1,13 @@
+{
+  "name": "leadpages",
+  "displayName": "Leadpages",
+  "description": "Build Leadpages landing pages.",
+  "homepage": "https://leadpages.com",
+  "docs": "https://leadpages.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "leadpages": {
+      "url": "https://mcp.leadpages.com/mcp"
+    }
+  }
+}

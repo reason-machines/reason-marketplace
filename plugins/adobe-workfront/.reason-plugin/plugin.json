@@ -1,0 +1,13 @@
+{
+  "name": "adobe-workfront",
+  "displayName": "Adobe Workfront",
+  "description": "Manage work in Workfront.",
+  "homepage": "https://www.adobe.com",
+  "docs": "https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/configure-workfront-mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "adobe-workfront": {
+      "url": "https://mcp.workfront.adobe.com/mcp/v1/workfront"
+    }
+  }
+}

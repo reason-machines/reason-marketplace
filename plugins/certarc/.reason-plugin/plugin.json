@@ -1,0 +1,13 @@
+{
+  "name": "certarc",
+  "displayName": "CertArc",
+  "description": "CISSP, CISM, CISA, AAISM, AAIA.",
+  "homepage": "https://certarc.com/integrations",
+  "docs": "https://certarc.com/integrations",
+  "auth": "oauth",
+  "mcpServers": {
+    "certarc": {
+      "url": "https://certarc.com/mcp"
+    }
+  }
+}

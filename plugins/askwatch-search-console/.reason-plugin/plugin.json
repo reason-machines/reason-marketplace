@@ -1,0 +1,13 @@
+{
+  "name": "askwatch-search-console",
+  "displayName": "AskWatch for Search Console",
+  "description": "Ask your Search Console data.",
+  "homepage": "https://askwatch.ai/free-tools/google-search-console-mcp",
+  "docs": "https://askwatch.ai/free-tools/google-search-console-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "askwatch-search-console": {
+      "url": "https://mcp.askwatch.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "oxygen",
+  "displayName": "OXYGEN",
+  "description": "Research and manage B2B leads.",
+  "homepage": "https://oxygen-agent.com",
+  "docs": "https://oxygen-agent.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "oxygen": {
+      "url": "https://oxygen-agent.com/mcp"
+    }
+  }
+}

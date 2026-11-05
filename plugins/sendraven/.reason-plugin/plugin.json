@@ -1,0 +1,13 @@
+{
+  "name": "sendraven",
+  "displayName": "SendRaven",
+  "description": "Send and answer email.",
+  "homepage": "https://sendraven.ai",
+  "docs": "https://sendraven.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "sendraven": {
+      "url": "https://mcp.sendraven.ai/mcp"
+    }
+  }
+}

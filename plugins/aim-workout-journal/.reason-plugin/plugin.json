@@ -1,0 +1,13 @@
+{
+  "name": "aim-workout-journal",
+  "displayName": "AIm Workout Journal",
+  "description": "Log workouts, track progress.",
+  "homepage": "https://aim-journal.com/",
+  "docs": "https://aim-journal.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "aim-workout-journal": {
+      "url": "https://aim-journal.com/mcp"
+    }
+  }
+}

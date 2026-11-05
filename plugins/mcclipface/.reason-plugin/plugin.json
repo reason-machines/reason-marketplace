@@ -1,0 +1,13 @@
+{
+  "name": "mcclipface",
+  "displayName": "McClipFace",
+  "description": "Price check before you buy.",
+  "homepage": "https://mcclipface.com",
+  "docs": "https://mcclipface.com",
+  "auth": "none",
+  "mcpServers": {
+    "mcclipface": {
+      "url": "https://mcclipface.com/mcp"
+    }
+  }
+}

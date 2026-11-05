@@ -1,0 +1,13 @@
+{
+  "name": "kolbo-ai",
+  "displayName": "Kolbo.AI",
+  "description": "Create AI media.",
+  "homepage": "https://kolbo.ai/",
+  "docs": "https://kolbo.ai/kolbo-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "kolbo-ai": {
+      "url": "https://api.kolbo.ai/mcp"
+    }
+  }
+}

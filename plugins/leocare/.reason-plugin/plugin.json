@@ -1,0 +1,13 @@
+{
+  "name": "leocare",
+  "displayName": "Leocare",
+  "description": "Leocare car insurance estimate.",
+  "homepage": "https://leocare.eu",
+  "docs": "https://tedix.dev/apps/leocare/",
+  "auth": "none",
+  "mcpServers": {
+    "leocare": {
+      "url": "https://leocare-mcp.vercel.app/mcp"
+    }
+  }
+}

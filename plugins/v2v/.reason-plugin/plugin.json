@@ -1,0 +1,13 @@
+{
+  "name": "v2v",
+  "displayName": "v2v",
+  "description": "Search Albania property.",
+  "homepage": "https://v2v.al",
+  "docs": "https://v2v.al",
+  "auth": "none",
+  "mcpServers": {
+    "v2v": {
+      "url": "https://v2v.al/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "critical-thinker",
+  "displayName": "Critical Thinker",
+  "description": "Critica como você conduz a IA.",
+  "homepage": "https://criticalthinker.dev",
+  "docs": "https://criticalthinker.dev",
+  "auth": "none",
+  "mcpServers": {
+    "critical-thinker": {
+      "url": "https://criticalthinker.dev/api/mcp"
+    }
+  }
+}

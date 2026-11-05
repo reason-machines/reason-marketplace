@@ -1,0 +1,13 @@
+{
+  "name": "grata",
+  "displayName": "Grata",
+  "description": "Find company data.",
+  "homepage": "https://grata.com",
+  "docs": "https://grata.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "grata": {
+      "url": "https://mcp.grata.com/mcp"
+    }
+  }
+}

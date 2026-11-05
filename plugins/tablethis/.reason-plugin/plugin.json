@@ -1,0 +1,13 @@
+{
+  "name": "tablethis",
+  "displayName": "TableThis",
+  "description": "Shared databases for your AI.",
+  "homepage": "https://www.tablethis.ai",
+  "docs": "https://www.tablethis.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "tablethis": {
+      "url": "https://tablethis.ai/mcp"
+    }
+  }
+}

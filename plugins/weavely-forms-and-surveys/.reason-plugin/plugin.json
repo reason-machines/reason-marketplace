@@ -1,0 +1,13 @@
+{
+  "name": "weavely-forms-and-surveys",
+  "displayName": "Weavely Forms & Surveys",
+  "description": "Free Forms and Surveys.",
+  "homepage": "https://www.weavely.ai/",
+  "docs": "https://www.weavely.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "weavely-forms-and-surveys": {
+      "url": "https://mcp.weavely.ai/mcp"
+    }
+  }
+}

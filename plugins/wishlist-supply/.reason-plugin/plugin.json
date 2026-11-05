@@ -1,0 +1,13 @@
+{
+  "name": "wishlist-supply",
+  "displayName": "Wishlist Supply",
+  "description": "Thoughtful gifts, considered.",
+  "homepage": "https://wishlist.supply",
+  "docs": "https://wishlist.supply",
+  "auth": "none",
+  "mcpServers": {
+    "wishlist-supply": {
+      "url": "https://wishlist.supply/mcp"
+    }
+  }
+}

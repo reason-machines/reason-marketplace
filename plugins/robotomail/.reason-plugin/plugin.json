@@ -1,0 +1,13 @@
+{
+  "name": "robotomail",
+  "displayName": "Robotomail",
+  "description": "Email for your AI agent.",
+  "homepage": "https://robotomail.com",
+  "docs": "https://robotomail.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "robotomail": {
+      "url": "https://robotomail.com/mcp"
+    }
+  }
+}

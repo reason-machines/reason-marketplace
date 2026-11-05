@@ -1,0 +1,13 @@
+{
+  "name": "hiringmessage-resume-review",
+  "displayName": "HiringMessage Job Match",
+  "description": "Match resume to one job.",
+  "homepage": "https://hiringmessage.com/integrations/chatgpt",
+  "docs": "https://hiringmessage.com/integrations/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "hiringmessage-resume-review": {
+      "url": "https://hiringmessage.com/mcp"
+    }
+  }
+}

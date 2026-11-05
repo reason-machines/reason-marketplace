@@ -1,0 +1,13 @@
+{
+  "name": "creatify-ad-agent",
+  "displayName": "Creatify Ad Agent",
+  "description": "Create and edit video ads.",
+  "homepage": "https://creatify.ai",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.creatify/ad-agent",
+  "auth": "oauth",
+  "mcpServers": {
+    "creatify-ad-agent": {
+      "url": "https://api.creatify.ai/ad_agent/mcp"
+    }
+  }
+}

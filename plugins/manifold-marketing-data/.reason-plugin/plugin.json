@@ -1,0 +1,13 @@
+{
+  "name": "manifold-marketing-data",
+  "displayName": "Manifold marketing data",
+  "description": "SEO, AI search & social data.",
+  "homepage": "https://www.manifoldmcp.com",
+  "docs": "https://www.manifoldmcp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "manifold-marketing-data": {
+      "url": "https://mcp.manifoldmcp.com/mcp"
+    }
+  }
+}

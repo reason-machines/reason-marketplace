@@ -1,0 +1,13 @@
+{
+  "name": "iwantmyname",
+  "displayName": "iwantmyname Domain Search",
+  "description": "Check domain name availability.",
+  "homepage": "https://iwantmyname.com",
+  "docs": "https://iwantmyname.com",
+  "auth": "none",
+  "mcpServers": {
+    "iwantmyname": {
+      "url": "https://mcp.iwantmyname.com/mcp"
+    }
+  }
+}

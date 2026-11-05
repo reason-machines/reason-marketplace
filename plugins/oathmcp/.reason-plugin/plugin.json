@@ -1,0 +1,13 @@
+{
+  "name": "oathmcp",
+  "displayName": "OathMCP",
+  "description": "Run clinical calculators.",
+  "homepage": "https://oath.md",
+  "docs": "https://oath.md",
+  "auth": "none",
+  "mcpServers": {
+    "oathmcp": {
+      "url": "https://mcp.oath.md/mcp"
+    }
+  }
+}

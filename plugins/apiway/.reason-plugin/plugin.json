@@ -1,0 +1,13 @@
+{
+  "name": "apiway",
+  "displayName": "Apiway — AI Workspace",
+  "description": "AI website builder & workspace.",
+  "homepage": "https://apiway.ai",
+  "docs": "https://apiway.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "apiway": {
+      "url": "https://apiway.ai/api/mcp"
+    }
+  }
+}

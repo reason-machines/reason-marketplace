@@ -1,0 +1,13 @@
+{
+  "name": "wolcost-launchcheck",
+  "displayName": "Website Launch Check",
+  "description": "Check websites before launch.",
+  "homepage": "https://wolcost.online",
+  "docs": "https://wolcost.online",
+  "auth": "none",
+  "mcpServers": {
+    "wolcost-launchcheck": {
+      "url": "https://wolcost.online/mcp"
+    }
+  }
+}

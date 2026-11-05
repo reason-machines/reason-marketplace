@@ -1,0 +1,13 @@
+{
+  "name": "mayretire",
+  "displayName": "MayRetire",
+  "description": "Plan Canadian retirement.",
+  "homepage": "https://ai.mayretire.com/",
+  "docs": "https://ai.mayretire.com/",
+  "auth": "none",
+  "mcpServers": {
+    "mayretire": {
+      "url": "https://mcp.mayretire.com/mcp"
+    }
+  }
+}

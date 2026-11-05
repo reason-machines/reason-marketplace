@@ -1,0 +1,13 @@
+{
+  "name": "linked-word",
+  "displayName": "Linked Word",
+  "description": "Bible & Strong's Scripture MCP.",
+  "homepage": "https://www.linkedword.com",
+  "docs": "https://www.linkedword.com",
+  "auth": "none",
+  "mcpServers": {
+    "linked-word": {
+      "url": "https://linkedword.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chatarv",
+  "displayName": "ChatARV",
+  "description": "Real estate comps and ARV.",
+  "homepage": "https://www.chatarv.ai",
+  "docs": "https://www.chatarv.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "chatarv": {
+      "url": "https://chatarv.ai/mcp"
+    }
+  }
+}

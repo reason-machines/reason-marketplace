@@ -1,0 +1,13 @@
+{
+  "name": "gosset",
+  "displayName": "Gosset",
+  "description": "Pharma pipeline intelligence.",
+  "homepage": "https://gosset.ai/",
+  "docs": "https://gosset.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "gosset": {
+      "url": "https://mcp.gosset.ai/mcp"
+    }
+  }
+}

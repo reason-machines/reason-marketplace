@@ -1,0 +1,13 @@
+{
+  "name": "voicecap",
+  "displayName": "VoiceCap",
+  "description": "Search meetings, notes & tasks.",
+  "homepage": "https://voicecap.ai",
+  "docs": "https://voicecap.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "voicecap": {
+      "url": "https://voicecap.ai/api/mcp"
+    }
+  }
+}

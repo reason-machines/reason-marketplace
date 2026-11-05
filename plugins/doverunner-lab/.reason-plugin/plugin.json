@@ -1,0 +1,13 @@
+{
+  "name": "doverunner-lab",
+  "displayName": "DoveRunner Lab",
+  "description": "Secure content and mobile apps.",
+  "homepage": "https://lab.doverunner.com",
+  "docs": "https://lab.doverunner.com/ai-apps",
+  "auth": "none",
+  "mcpServers": {
+    "doverunner-lab": {
+      "url": "https://lab.doverunner.com/mcp"
+    }
+  }
+}

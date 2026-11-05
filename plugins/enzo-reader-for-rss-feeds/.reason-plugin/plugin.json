@@ -1,0 +1,13 @@
+{
+  "name": "enzo-reader-for-rss-feeds",
+  "displayName": "Enzo Reader for RSS Feeds",
+  "description": "Read your feeds and news.",
+  "homepage": "https://chatgpt.enzoreader.com",
+  "docs": "https://chatgpt.enzoreader.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "enzo-reader-for-rss-feeds": {
+      "url": "https://chatgpt.enzoreader.com/mcp"
+    }
+  }
+}

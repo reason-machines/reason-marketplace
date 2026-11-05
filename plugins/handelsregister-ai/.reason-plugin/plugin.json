@@ -1,0 +1,13 @@
+{
+  "name": "handelsregister-ai",
+  "displayName": "handelsregister.ai",
+  "description": "German company intelligence.",
+  "homepage": "https://handelsregister.ai",
+  "docs": "https://handelsregister.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "handelsregister-ai": {
+      "url": "https://mcp.handelsregister.ai/mcp"
+    }
+  }
+}

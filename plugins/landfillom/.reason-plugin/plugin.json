@@ -1,0 +1,13 @@
+{
+  "name": "landfillom",
+  "displayName": "Landfillom",
+  "description": "Διαχείριση ΧΥΤΑ και ΗΜΑ.",
+  "homepage": "https://landfillom.com/",
+  "docs": "https://landfillom.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "landfillom": {
+      "url": "https://mcp.landfillom.com/mcp"
+    }
+  }
+}

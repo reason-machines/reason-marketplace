@@ -1,0 +1,64 @@
+{
+  "name": "surfer",
+  "displayName": "Surfer",
+  "description": "AI visibility and content.",
+  "homepage": "https://surferseo.com",
+  "docs": "https://surferseo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "surfer": {
+      "url": "https://mcp.surferseo.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "surfer-connect",
+      "description": "Use when Surfer MCP tools are unavailable or the user asks to connect, install, or set up Surfer in their AI assistant. Triggers include \"connect the Surfer MCP server\", \"add Surfer to this client\", \"install Surfer MCP\", and \"how do I sign in to Surfer\". It follows the current client setup guide, ve",
+      "source": "surferseo/skills#d1e78c6599afd6f85ebbad09ad2841ebb9a0461d",
+      "skill": "surfer-connect",
+      "url": "https://github.com/surferseo/skills/tree/d1e78c6599afd6f85ebbad09ad2841ebb9a0461d/skills/surfer-connect"
+    },
+    {
+      "name": "surfer-content-recommendations",
+      "description": "Use when the user wants to act on Surfer's site recommendations. Triggers include \"what should I optimize next\", \"turn my Surfer recommendations into articles\", \"find a content opportunity and act on it\", and \"run the write or optimize workflow from my workspace\". It selects recommendation-led Optim",
+      "source": "surferseo/skills#d1e78c6599afd6f85ebbad09ad2841ebb9a0461d",
+      "skill": "surfer-content-recommendations",
+      "url": "https://github.com/surferseo/skills/tree/d1e78c6599afd6f85ebbad09ad2841ebb9a0461d/skills/surfer-content-recommendations"
+    },
+    {
+      "name": "surfer-create-content-brief",
+      "description": "Use when the user wants a writer-ready content brief grounded in Surfer's SEO and AI Search guidance. Triggers include \"make a content brief\", \"brief a writer for this keyword\", \"what should an article cover\", and \"give me an SEO and AI Search brief\". Also use it for SERP or competitor research with",
+      "source": "surferseo/skills#d1e78c6599afd6f85ebbad09ad2841ebb9a0461d",
+      "skill": "surfer-create-content-brief",
+      "url": "https://github.com/surferseo/skills/tree/d1e78c6599afd6f85ebbad09ad2841ebb9a0461d/skills/surfer-create-content-brief"
+    },
+    {
+      "name": "surfer-create-outline",
+      "description": "Use when the user wants a Surfer-derived, SERP-informed article outline without a full draft. Triggers include \"create an outline for X\", \"plan headings for this keyword\", \"make a Surfer outline\", and \"outline an article before writing\". It creates or reuses a Content Editor in manual-writing mode, ",
+      "source": "surferseo/skills#d1e78c6599afd6f85ebbad09ad2841ebb9a0461d",
+      "skill": "surfer-create-outline",
+      "url": "https://github.com/surferseo/skills/tree/d1e78c6599afd6f85ebbad09ad2841ebb9a0461d/skills/surfer-create-outline"
+    },
+    {
+      "name": "surfer-manage-content-templates",
+      "description": "Use when the user wants to create, inspect, update, choose, or delete a reusable Surfer content template. Triggers include \"create a custom template\", \"turn this article into a Surfer template\", \"list our templates\", \"set a default template\", and \"update or delete a content template\". For a writing ",
+      "source": "surferseo/skills#d1e78c6599afd6f85ebbad09ad2841ebb9a0461d",
+      "skill": "surfer-manage-content-templates",
+      "url": "https://github.com/surferseo/skills/tree/d1e78c6599afd6f85ebbad09ad2841ebb9a0461d/skills/surfer-manage-content-templates"
+    },
+    {
+      "name": "surfer-optimize-content",
+      "description": "Use when the user has existing content, a URL or a draft, and wants to improve its Surfer SEO Score, AI Search Score, or both. Triggers include \"optimize my article\", \"improve this page's content score\", \"auto-optimize this\", \"make this rank better\", \"optimize for SEO and AI search\", and \"improve my",
+      "source": "surferseo/skills#d1e78c6599afd6f85ebbad09ad2841ebb9a0461d",
+      "skill": "surfer-optimize-content",
+      "url": "https://github.com/surferseo/skills/tree/d1e78c6599afd6f85ebbad09ad2841ebb9a0461d/skills/surfer-optimize-content"
+    },
+    {
+      "name": "surfer-write-article",
+      "description": "Use when the user wants Surfer to produce a brand-new article or blog post from a keyword or topic. Triggers include \"write an SEO article about X\", \"draft optimized content for this keyword\", \"generate a Surfer AI article\", and \"write for SEO and AI Search\". To improve content that already exists, ",
+      "source": "surferseo/skills#d1e78c6599afd6f85ebbad09ad2841ebb9a0461d",
+      "skill": "surfer-write-article",
+      "url": "https://github.com/surferseo/skills/tree/d1e78c6599afd6f85ebbad09ad2841ebb9a0461d/skills/surfer-write-article"
+    }
+  ]
+}

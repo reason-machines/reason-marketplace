@@ -1,0 +1,13 @@
+{
+  "name": "kive",
+  "displayName": "Kive",
+  "description": "Create product visuals.",
+  "homepage": "https://kive.ai",
+  "docs": "https://kive.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "kive": {
+      "url": "https://mcp.kive.ai/mcp"
+    }
+  }
+}

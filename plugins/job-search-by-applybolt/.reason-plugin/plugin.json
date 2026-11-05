@@ -1,0 +1,13 @@
+{
+  "name": "job-search-by-applybolt",
+  "displayName": "Job Search by ApplyBolt",
+  "description": "Search open jobs & internships.",
+  "homepage": "https://www.applybolt.app",
+  "docs": "https://www.applybolt.app",
+  "auth": "none",
+  "mcpServers": {
+    "job-search-by-applybolt": {
+      "url": "https://applybolt.app/mcp"
+    }
+  }
+}

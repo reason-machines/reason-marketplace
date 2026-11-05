@@ -1,0 +1,13 @@
+{
+  "name": "stockviz-mutual-funds",
+  "displayName": "StockViz Mutual Funds",
+  "description": "Mutual fund research.",
+  "homepage": "https://stockviz.biz/2026/09/30/introducing-the-stockviz-mutual-fund-mcp-server/",
+  "docs": "https://stockviz.biz/2026/09/30/introducing-the-stockviz-mutual-fund-mcp-server/",
+  "auth": "oauth",
+  "mcpServers": {
+    "stockviz-mutual-funds": {
+      "url": "https://mutual-fund-mcp.stockviz.workers.dev/mcp"
+    }
+  }
+}

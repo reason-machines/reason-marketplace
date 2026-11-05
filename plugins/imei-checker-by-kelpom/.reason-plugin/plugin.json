@@ -1,0 +1,13 @@
+{
+  "name": "imei-checker-by-kelpom",
+  "displayName": "IMEI Checker by Kelpom",
+  "description": "Identify any phone by its IMEI.",
+  "homepage": "https://kelpom.fr",
+  "docs": "https://kelpom.fr/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "imei-checker-by-kelpom": {
+      "url": "https://api.kelpom.fr/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dreamhall",
+  "displayName": "DREAMHALL",
+  "description": "Private self-care workspace.",
+  "homepage": "https://dreamhall.app/",
+  "docs": "https://dreamhall.app/",
+  "auth": "none",
+  "mcpServers": {
+    "dreamhall": {
+      "url": "https://dreamhall.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gullivr",
+  "displayName": "Gullivr",
+  "description": "Plan group trips.",
+  "homepage": "https://gullivr.xyz",
+  "docs": "https://gullivr.xyz",
+  "auth": "oauth",
+  "mcpServers": {
+    "gullivr": {
+      "url": "https://mcp.gullivr.xyz/mcp"
+    }
+  }
+}

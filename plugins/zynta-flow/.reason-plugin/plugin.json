@@ -1,0 +1,13 @@
+{
+  "name": "zynta-flow",
+  "displayName": "Zynta Flow",
+  "description": "Create social media carousels.",
+  "homepage": "https://www.zyntaflow.com",
+  "docs": "https://www.zyntaflow.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "zynta-flow": {
+      "url": "https://mcp.zyntaflow.com/mcp"
+    }
+  }
+}

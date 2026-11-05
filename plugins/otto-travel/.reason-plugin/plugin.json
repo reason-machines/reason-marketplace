@@ -1,0 +1,13 @@
+{
+  "name": "otto-travel",
+  "displayName": "Otto Travel",
+  "description": "Plan, book, and manage travel.",
+  "homepage": "https://www.ottotheagent.com/",
+  "docs": "https://www.ottotheagent.com/mcpconnections",
+  "auth": "oauth",
+  "mcpServers": {
+    "otto-travel": {
+      "url": "https://api.ottotheagent.com/mcp"
+    }
+  }
+}

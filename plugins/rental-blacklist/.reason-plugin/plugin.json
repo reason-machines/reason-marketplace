@@ -1,0 +1,13 @@
+{
+  "name": "rental-blacklist",
+  "displayName": "Rental Blacklist",
+  "description": "Check rentals for red flags.",
+  "homepage": "https://rentalredflags.com",
+  "docs": "https://rentalredflags.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "rental-blacklist": {
+      "url": "https://rentalredflags.com/api/mcp"
+    }
+  }
+}

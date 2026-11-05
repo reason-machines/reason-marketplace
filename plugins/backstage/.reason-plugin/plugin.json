@@ -1,0 +1,13 @@
+{
+  "name": "backstage",
+  "displayName": "Backstage",
+  "description": "Find casting calls and jobs.",
+  "homepage": "https://backstage.com",
+  "docs": "https://backstage.com",
+  "auth": "none",
+  "mcpServers": {
+    "backstage": {
+      "url": "https://mcp.backstage.com/mcp"
+    }
+  }
+}

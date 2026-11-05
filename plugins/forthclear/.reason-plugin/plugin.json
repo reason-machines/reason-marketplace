@@ -1,0 +1,13 @@
+{
+  "name": "forthclear",
+  "displayName": "ForthClear",
+  "description": "Surplus stock and bulk quotes.",
+  "homepage": "https://forthclear.io",
+  "docs": "https://forthclear.io/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "forthclear": {
+      "url": "https://app.forthclear.io/mcp"
+    }
+  }
+}

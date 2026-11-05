@@ -1,0 +1,13 @@
+{
+  "name": "dalton",
+  "displayName": "Dalton",
+  "description": "A/B testing for online stores.",
+  "homepage": "https://www.getdalton.com",
+  "docs": "https://www.getdalton.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dalton": {
+      "url": "https://mcp.getdalton.com/"
+    }
+  }
+}

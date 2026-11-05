@@ -1,0 +1,13 @@
+{
+  "name": "ntu-mods",
+  "displayName": "NTU Mods",
+  "description": "NTU module and exam lookup.",
+  "homepage": "https://ntumods.com/",
+  "docs": "https://ntumods.com/",
+  "auth": "none",
+  "mcpServers": {
+    "ntu-mods": {
+      "url": "https://ntumods.com/mcp"
+    }
+  }
+}

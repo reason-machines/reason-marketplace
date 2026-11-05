@@ -1,0 +1,13 @@
+{
+  "name": "healthmoney",
+  "displayName": "HealthMoney",
+  "description": "Personal investment advisor.",
+  "homepage": "https://healthmoney.com.br",
+  "docs": "https://tedix.dev/apps/healthmoney/",
+  "auth": "oauth",
+  "mcpServers": {
+    "healthmoney": {
+      "url": "https://ai.healthmoney.com.br/mcp"
+    }
+  }
+}

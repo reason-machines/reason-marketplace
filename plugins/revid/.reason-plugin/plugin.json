@@ -1,0 +1,13 @@
+{
+  "name": "revid",
+  "displayName": "Revid",
+  "description": "Create short-form videos.",
+  "homepage": "https://www.revid.ai",
+  "docs": "https://revid.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "revid": {
+      "url": "https://www.revid.ai/api/mcp"
+    }
+  }
+}

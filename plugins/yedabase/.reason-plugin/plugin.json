@@ -1,0 +1,13 @@
+{
+  "name": "yedabase",
+  "displayName": "YedaBase",
+  "description": "Family office & investor data.",
+  "homepage": "https://yedabase.com",
+  "docs": "https://yedabase.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "yedabase": {
+      "url": "https://yedabase.com/mcp"
+    }
+  }
+}

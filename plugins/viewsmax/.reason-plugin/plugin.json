@@ -1,0 +1,13 @@
+{
+  "name": "viewsmax",
+  "displayName": "ViewsMax",
+  "description": "Social media scheduling.",
+  "homepage": "https://viewsmax.com",
+  "docs": "https://viewsmax.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "viewsmax": {
+      "url": "https://api.viewsmax.com/api/mcp"
+    }
+  }
+}

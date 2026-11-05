@@ -1,0 +1,13 @@
+{
+  "name": "zelta-bmi-india",
+  "displayName": "Zelta BMI for Indians",
+  "description": "BMI for Indians.",
+  "homepage": "https://zelta.in",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=in.zelta/bmi-india",
+  "auth": "none",
+  "mcpServers": {
+    "zelta-bmi-india": {
+      "url": "https://bmi-mcp.zelta.in/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "codon-valuation",
+  "displayName": "Codon Valuation",
+  "description": "409A and EMI value estimates.",
+  "homepage": "https://www.codonvaluation.com",
+  "docs": "https://www.codonvaluation.com",
+  "auth": "none",
+  "mcpServers": {
+    "codon-valuation": {
+      "url": "https://mcp.codonvaluation.com/mcp"
+    }
+  }
+}

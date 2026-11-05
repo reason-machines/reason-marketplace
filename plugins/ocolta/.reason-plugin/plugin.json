@@ -1,0 +1,13 @@
+{
+  "name": "ocolta",
+  "displayName": "Ocolta",
+  "description": "Understand document signals.",
+  "homepage": "https://ocolta.com",
+  "docs": "https://app.ocolta.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "ocolta": {
+      "url": "https://app.ocolta.com/mcp"
+    }
+  }
+}

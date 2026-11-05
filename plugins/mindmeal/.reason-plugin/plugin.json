@@ -1,0 +1,13 @@
+{
+  "name": "mindmeal",
+  "displayName": "MindMeal",
+  "description": "Restaurant menus, dish by dish.",
+  "homepage": "https://www.mindmeal.net",
+  "docs": "https://www.mindmeal.net",
+  "auth": "none",
+  "mcpServers": {
+    "mindmeal": {
+      "url": "https://mindmeal.net/mcp"
+    }
+  }
+}

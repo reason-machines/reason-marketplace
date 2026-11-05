@@ -1,0 +1,13 @@
+{
+  "name": "trackr",
+  "displayName": "Trackr",
+  "description": "UGC campaign analytics.",
+  "homepage": "https://ugctrackr.com",
+  "docs": "https://app.ugctrackr.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "trackr": {
+      "url": "https://app.ugctrackr.com/api/external/mcp"
+    }
+  }
+}

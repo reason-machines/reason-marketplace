@@ -1,0 +1,13 @@
+{
+  "name": "myregistry-com",
+  "displayName": "MyRegistry.com",
+  "description": "All Stores, One Registry®.",
+  "homepage": "https://www.myregistry.com/",
+  "docs": "https://www.myregistry.com/",
+  "auth": "none",
+  "mcpServers": {
+    "myregistry-com": {
+      "url": "https://mcp.myregistry.com/mcp"
+    }
+  }
+}

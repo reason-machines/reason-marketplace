@@ -1,0 +1,13 @@
+{
+  "name": "notform",
+  "displayName": "NotForm",
+  "description": "AI interviews, structured data.",
+  "homepage": "https://notform.co",
+  "docs": "https://notform.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "notform": {
+      "url": "https://mcp.notform.co/mcp"
+    }
+  }
+}

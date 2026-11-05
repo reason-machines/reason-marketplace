@@ -1,0 +1,13 @@
+{
+  "name": "crowdin",
+  "displayName": "Crowdin",
+  "description": "Localize products with Crowdin.",
+  "homepage": "https://crowdin.com",
+  "docs": "https://crowdin.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "crowdin": {
+      "url": "https://mcp.crowdin.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vibee",
+  "displayName": "Vibee",
+  "description": "Build apps for your team.",
+  "homepage": "https://vibee.one/en",
+  "docs": "https://vibee.one/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "vibee": {
+      "url": "https://vibee.one/mcp"
+    }
+  }
+}

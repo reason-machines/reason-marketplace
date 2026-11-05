@@ -1,0 +1,13 @@
+{
+  "name": "motionspec",
+  "displayName": "MotionSpec",
+  "description": "Validate web animation specs.",
+  "homepage": "https://motionspec.dev",
+  "docs": "https://motionspec.dev/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "motionspec": {
+      "url": "https://api.motionspec.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bingers",
+  "displayName": "Bingers",
+  "description": "Track shows and movies.",
+  "homepage": "https://bingers.app",
+  "docs": "https://bingers.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "bingers": {
+      "url": "https://api.bingers.app/mcp"
+    }
+  }
+}

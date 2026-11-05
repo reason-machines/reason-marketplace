@@ -1,0 +1,13 @@
+{
+  "name": "sepja-studio",
+  "displayName": "Sepja",
+  "description": "Shape your space in 3D.",
+  "homepage": "https://sepja.com",
+  "docs": "https://sepja.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sepja-studio": {
+      "url": "https://sepja.com/mcp"
+    }
+  }
+}

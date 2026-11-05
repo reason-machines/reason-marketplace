@@ -1,0 +1,13 @@
+{
+  "name": "runa",
+  "displayName": "Runa",
+  "description": "Add your meeting context.",
+  "homepage": "https://www.joinruna.com/",
+  "docs": "https://www.joinruna.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "runa": {
+      "url": "https://mcp.joinruna.com/mcp"
+    }
+  }
+}

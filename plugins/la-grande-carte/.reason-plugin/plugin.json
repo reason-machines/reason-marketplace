@@ -1,0 +1,13 @@
+{
+  "name": "la-grande-carte",
+  "displayName": "La Grande Carte",
+  "description": "French open data, any address.",
+  "homepage": "https://lagrandecarte.fr",
+  "docs": "https://lagrandecarte.fr",
+  "auth": "oauth",
+  "mcpServers": {
+    "la-grande-carte": {
+      "url": "https://lagrandecarte.fr/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "atlanta-phoenix-gas-public",
+  "displayName": "Atlanta Phoenix Gas",
+  "description": "Compare Atlanta gas plans.",
+  "homepage": "https://atlantaphoenixgas.com",
+  "docs": "https://atlantaphoenixgas.com",
+  "auth": "none",
+  "mcpServers": {
+    "atlanta-phoenix-gas-public": {
+      "url": "https://atlantaphoenixgas.com/api/mcp"
+    }
+  }
+}

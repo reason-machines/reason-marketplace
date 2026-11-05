@@ -1,0 +1,13 @@
+{
+  "name": "ethos",
+  "displayName": "Ethos",
+  "description": "Protect your family in minutes.",
+  "homepage": "https://www.ethos.com",
+  "docs": "https://tedix.dev/apps/ethos/",
+  "auth": "none",
+  "mcpServers": {
+    "ethos": {
+      "url": "https://eg.ethoslife.com/mcp"
+    }
+  }
+}

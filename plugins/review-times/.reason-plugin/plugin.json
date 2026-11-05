@@ -1,0 +1,13 @@
+{
+  "name": "review-times",
+  "displayName": "Review Times",
+  "description": "See app store review times.",
+  "homepage": "https://reviewtimes.fyi",
+  "docs": "https://reviewtimes.fyi",
+  "auth": "none",
+  "mcpServers": {
+    "review-times": {
+      "url": "https://reviewtimes.fyi/mcp"
+    }
+  }
+}

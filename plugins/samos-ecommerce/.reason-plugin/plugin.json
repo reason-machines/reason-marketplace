@@ -1,0 +1,13 @@
+{
+  "name": "samos-ecommerce",
+  "displayName": "SAMOS e-commerce",
+  "description": "International parcel delivery.",
+  "homepage": "https://samos-e.com/ai-assistants",
+  "docs": "https://samos-e.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "samos-ecommerce": {
+      "url": "https://samos-e.com/api/mcp"
+    }
+  }
+}

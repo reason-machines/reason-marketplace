@@ -1,0 +1,13 @@
+{
+  "name": "billy-grace-insights",
+  "displayName": "Billy Grace Insights",
+  "description": "Query your marketing data.",
+  "homepage": "https://billygrace.com",
+  "docs": "https://billygrace.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "billy-grace-insights": {
+      "url": "https://mcp.billygrace.com/mcp"
+    }
+  }
+}

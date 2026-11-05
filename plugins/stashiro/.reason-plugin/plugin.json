@@ -1,0 +1,13 @@
+{
+  "name": "stashiro",
+  "displayName": "Stashiro",
+  "description": "Visual Spaces and native cards.",
+  "homepage": "https://www.stashiro.com",
+  "docs": "https://stashiro.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "stashiro": {
+      "url": "https://www.stashiro.com/api/mcp"
+    }
+  }
+}

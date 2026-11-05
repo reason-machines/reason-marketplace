@@ -1,0 +1,13 @@
+{
+  "name": "po-once",
+  "displayName": "Po Once",
+  "description": "Schedule and publish posts.",
+  "homepage": "https://po-once.com",
+  "docs": "https://po-once.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "po-once": {
+      "url": "https://po-once.com/mcp"
+    }
+  }
+}

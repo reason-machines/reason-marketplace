@@ -1,0 +1,13 @@
+{
+  "name": "movably",
+  "displayName": "Movably",
+  "description": "London travel, clearer access.",
+  "homepage": "https://movably.io/",
+  "docs": "https://movably.io/",
+  "auth": "none",
+  "mcpServers": {
+    "movably": {
+      "url": "https://movably.io/mcp"
+    }
+  }
+}

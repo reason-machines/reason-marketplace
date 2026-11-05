@@ -1,0 +1,13 @@
+{
+  "name": "lawdiver-plugin-openai",
+  "displayName": "LawDiver",
+  "description": "Search and verify U.S.",
+  "homepage": "https://lawdiver.com/products/mcp",
+  "docs": "https://lawdiver.com/products/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "lawdiver-plugin-openai": {
+      "url": "https://lawdiver.com/mcp"
+    }
+  }
+}

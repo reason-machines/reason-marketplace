@@ -1,0 +1,13 @@
+{
+  "name": "solo",
+  "displayName": "Solo",
+  "description": "A SoloMail address in Reason.",
+  "homepage": "https://solomail.io",
+  "docs": "https://solomail.io",
+  "auth": "none",
+  "mcpServers": {
+    "solo": {
+      "url": "https://solomail.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "simma",
+  "displayName": "Simma",
+  "description": "Triathlon & endurance coaching.",
+  "homepage": "https://getsimma.com",
+  "docs": "https://getsimma.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "simma": {
+      "url": "https://mcp.getsimma.com/mcp"
+    }
+  }
+}

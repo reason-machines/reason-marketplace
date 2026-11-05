@@ -1,0 +1,13 @@
+{
+  "name": "optimalcover",
+  "displayName": "OptimalCover",
+  "description": "Independent Pricing Reference.",
+  "homepage": "https://optimalcover.com/",
+  "docs": "https://tedix.dev/apps/optimalcover/",
+  "auth": "none",
+  "mcpServers": {
+    "optimalcover": {
+      "url": "https://optimal-cover-backend-prod-162746456842.us-west1.run.app/mcp"
+    }
+  }
+}

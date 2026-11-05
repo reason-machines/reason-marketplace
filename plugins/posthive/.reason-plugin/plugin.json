@@ -1,0 +1,16 @@
+{
+  "name": "posthive",
+  "displayName": "Posthive",
+  "description": "Post to multi social platforms.",
+  "homepage": "https://posthive.co",
+  "docs": "https://posthive.co/llms.txt",
+  "auth": "api_key",
+  "mcpServers": {
+    "posthive": {
+      "url": "https://api.posthive.co/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

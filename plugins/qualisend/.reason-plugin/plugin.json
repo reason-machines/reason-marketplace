@@ -1,0 +1,13 @@
+{
+  "name": "qualisend",
+  "displayName": "Qualisend",
+  "description": "Verify and clean email lists.",
+  "homepage": "https://www.qualisend.com/",
+  "docs": "https://www.qualisend.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "qualisend": {
+      "url": "https://app.qualisend.com/api/mcp"
+    }
+  }
+}

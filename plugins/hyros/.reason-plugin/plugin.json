@@ -1,0 +1,13 @@
+{
+  "name": "hyros",
+  "displayName": "Hyros",
+  "description": "AI optimization for Ads.",
+  "homepage": "https://hyros.com",
+  "docs": "https://hyros.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hyros": {
+      "url": "https://mcp.hyros.com/mcp"
+    }
+  }
+}

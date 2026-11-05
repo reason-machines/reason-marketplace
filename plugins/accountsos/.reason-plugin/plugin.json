@@ -1,0 +1,13 @@
+{
+  "name": "accountsos",
+  "displayName": "AccountsOS",
+  "description": "Finn, your AI accountant.",
+  "homepage": "https://accounts-os.com",
+  "docs": "https://accounts-os.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "accountsos": {
+      "url": "https://accounts-os.com/mcp"
+    }
+  }
+}

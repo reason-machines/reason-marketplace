@@ -1,0 +1,13 @@
+{
+  "name": "matchtool",
+  "displayName": "MatchTool",
+  "description": "Find tools for your real task.",
+  "homepage": "https://toolmatch.net",
+  "docs": "https://toolmatch.net",
+  "auth": "none",
+  "mcpServers": {
+    "matchtool": {
+      "url": "https://toolmatch.net/mcp"
+    }
+  }
+}

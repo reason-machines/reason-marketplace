@@ -1,0 +1,13 @@
+{
+  "name": "fluotest",
+  "displayName": "FluoTest",
+  "description": "Create and analyze quizzes.",
+  "homepage": "https://fluotest.com",
+  "docs": "https://fluotest.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "fluotest": {
+      "url": "https://fluotest.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "anomaly-ai",
+  "displayName": "Anomaly AI",
+  "description": "AI data analyst for your data.",
+  "homepage": "https://www.findanomaly.ai",
+  "docs": "https://www.findanomaly.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "anomaly-ai": {
+      "url": "https://mcp.findanomaly.ai/mcp"
+    }
+  }
+}

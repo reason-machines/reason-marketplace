@@ -1,0 +1,13 @@
+{
+  "name": "twinmind",
+  "displayName": "TwinMind",
+  "description": "AI Notes & Memory.",
+  "homepage": "https://twinmind.com/",
+  "docs": "https://twinmind.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "twinmind": {
+      "url": "https://api.twinmind.com/mcp"
+    }
+  }
+}

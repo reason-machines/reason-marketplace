@@ -1,0 +1,13 @@
+{
+  "name": "customer-info-validator",
+  "displayName": "Customer Info Validator",
+  "description": "Check customer information.",
+  "homepage": "https://customer-info-validator.sidcraigau.workers.dev",
+  "docs": "https://customer-info-validator.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "customer-info-validator": {
+      "url": "https://customer-info-validator.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

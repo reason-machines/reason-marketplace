@@ -1,0 +1,13 @@
+{
+  "name": "fcdata",
+  "displayName": "FCData",
+  "description": "FC cards, prices and upgrades.",
+  "homepage": "https://fcdata.io",
+  "docs": "https://fcdata.io",
+  "auth": "none",
+  "mcpServers": {
+    "fcdata": {
+      "url": "https://mcp.fcdata.io/mcp"
+    }
+  }
+}

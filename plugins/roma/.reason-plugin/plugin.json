@@ -1,0 +1,13 @@
+{
+  "name": "roma",
+  "displayName": "Roma",
+  "description": "Your AI's favorite to-do list.",
+  "homepage": "https://roma.app",
+  "docs": "https://roma.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "roma": {
+      "url": "https://api.roma.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "alloy",
+  "displayName": "Alloy",
+  "description": "Analyze robot fleet data.",
+  "homepage": "https://www.usealloy.ai/",
+  "docs": "https://docs.usealloy.ai/docs/mesh-storage/explore/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "alloy": {
+      "url": "https://aus.usealloy.ai/mcp"
+    }
+  }
+}

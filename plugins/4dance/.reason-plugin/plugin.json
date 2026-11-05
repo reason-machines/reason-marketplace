@@ -1,0 +1,13 @@
+{
+  "name": "4dance",
+  "displayName": "4Dance",
+  "description": "Find your next dance event.",
+  "homepage": "https://4dance.app",
+  "docs": "https://api.4dance.app/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "4dance": {
+      "url": "https://api.4dance.app/mcp"
+    }
+  }
+}

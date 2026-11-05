@@ -1,0 +1,13 @@
+{
+  "name": "getuserfeedback",
+  "displayName": "getuserfeedback.com",
+  "description": "User feedback in Reason.",
+  "homepage": "https://getuserfeedback.com",
+  "docs": "https://getuserfeedback.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "getuserfeedback": {
+      "url": "https://mcp.getuserfeedback.com/"
+    }
+  }
+}

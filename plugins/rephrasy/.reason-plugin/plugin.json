@@ -1,0 +1,13 @@
+{
+  "name": "rephrasy",
+  "displayName": "Rephrasy",
+  "description": "Make AI drafts sound human.",
+  "homepage": "https://rephrasy.ai",
+  "docs": "https://www.rephrasy.ai/ai-humanizer-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "rephrasy": {
+      "url": "https://v2-humanizer.rephrasy.ai/mcp"
+    }
+  }
+}

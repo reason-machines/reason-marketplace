@@ -1,0 +1,13 @@
+{
+  "name": "pollunit-mcp",
+  "displayName": "PollUnit",
+  "description": "Create polls with AI.",
+  "homepage": "https://pollunit.com/en/create-with-ai",
+  "docs": "https://pollunit.com/en/create-with-ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "pollunit-mcp": {
+      "url": "https://pollunit.com/mcp"
+    }
+  }
+}

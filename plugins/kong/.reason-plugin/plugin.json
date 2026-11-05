@@ -1,0 +1,13 @@
+{
+  "name": "kong",
+  "displayName": "Kong",
+  "description": "Turn conversations into action.",
+  "homepage": "https://www.saleskong.com/",
+  "docs": "https://www.saleskong.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "kong": {
+      "url": "https://mcp.saleskong.com/mcp"
+    }
+  }
+}

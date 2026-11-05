@@ -1,0 +1,13 @@
+{
+  "name": "screenshotagent",
+  "displayName": "ScreenshotAgent",
+  "description": "Keep screenshots current.",
+  "homepage": "https://screenshotagent.com",
+  "docs": "https://screenshotagent.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "screenshotagent": {
+      "url": "https://screenshotagent.com/mcp"
+    }
+  }
+}

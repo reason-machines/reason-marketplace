@@ -1,0 +1,13 @@
+{
+  "name": "jobfinder",
+  "displayName": "JobFinder",
+  "description": "Your job matches and outreach.",
+  "homepage": "https://www.jobfinder-ai.com",
+  "docs": "https://www.jobfinder-ai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "jobfinder": {
+      "url": "https://mcp.jobfinder-ai.com/mcp"
+    }
+  }
+}

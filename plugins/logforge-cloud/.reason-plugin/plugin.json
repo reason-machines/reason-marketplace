@@ -1,0 +1,13 @@
+{
+  "name": "logforge-cloud",
+  "displayName": "LogForge",
+  "description": "App logging and debugging.",
+  "homepage": "https://www.logforge.dev/",
+  "docs": "https://www.logforge.dev/",
+  "auth": "oauth",
+  "mcpServers": {
+    "logforge-cloud": {
+      "url": "https://usage.logforge.dev/mcp"
+    }
+  }
+}

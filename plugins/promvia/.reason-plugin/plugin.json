@@ -1,0 +1,13 @@
+{
+  "name": "promvia",
+  "displayName": "Promvia",
+  "description": "AI search visibility tracking.",
+  "homepage": "https://promvia.app",
+  "docs": "https://promvia.app/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "promvia": {
+      "url": "https://promvia.app/api/mcp"
+    }
+  }
+}

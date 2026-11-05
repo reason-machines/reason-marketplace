@@ -1,0 +1,13 @@
+{
+  "name": "agentgrade",
+  "displayName": "AgentGrade",
+  "description": "Can AI see your site?",
+  "homepage": "https://agentgrade.app",
+  "docs": "https://agentgrade.app",
+  "auth": "none",
+  "mcpServers": {
+    "agentgrade": {
+      "url": "https://agentgrade.app/mcp"
+    }
+  }
+}

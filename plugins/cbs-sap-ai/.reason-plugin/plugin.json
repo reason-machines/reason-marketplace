@@ -1,0 +1,13 @@
+{
+  "name": "cbs-sap-ai",
+  "displayName": "CBS SAP AI",
+  "description": "Manage SAP Business One.",
+  "homepage": "https://clockwork.in/",
+  "docs": "https://clockwork.in/",
+  "auth": "none",
+  "mcpServers": {
+    "cbs-sap-ai": {
+      "url": "https://mcp.clockwork.in/mcp"
+    }
+  }
+}

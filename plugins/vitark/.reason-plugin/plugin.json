@@ -1,0 +1,13 @@
+{
+  "name": "vitark",
+  "displayName": "Vitark",
+  "description": "Search Indian law with sources.",
+  "homepage": "https://vitark.ai",
+  "docs": "https://vitark.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "vitark": {
+      "url": "https://mcp.vitark.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "movesurge",
+  "displayName": "MoveSurge",
+  "description": "What moved markets, and why.",
+  "homepage": "https://movesurge.com/",
+  "docs": "https://movesurge.com/",
+  "auth": "none",
+  "mcpServers": {
+    "movesurge": {
+      "url": "https://movesurge.com/mcp"
+    }
+  }
+}

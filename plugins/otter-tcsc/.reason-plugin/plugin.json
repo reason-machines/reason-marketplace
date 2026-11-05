@@ -1,0 +1,13 @@
+{
+  "name": "otter-tcsc",
+  "displayName": "Otter",
+  "description": "Run and analyze A/B tests.",
+  "homepage": "https://www.otterab.com",
+  "docs": "https://www.otterab.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "otter-tcsc": {
+      "url": "https://otterab.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "whenever",
+  "displayName": "Whenever",
+  "description": "Build and manage automations.",
+  "homepage": "https://www.whenever.dev",
+  "docs": "https://www.whenever.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "whenever": {
+      "url": "https://mcp.whenever.dev/"
+    }
+  }
+}

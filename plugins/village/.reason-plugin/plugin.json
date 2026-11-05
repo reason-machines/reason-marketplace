@@ -1,0 +1,13 @@
+{
+  "name": "village",
+  "displayName": "Village",
+  "description": "Relationship intelligence.",
+  "homepage": "https://village.ai/",
+  "docs": "https://village.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "village": {
+      "url": "https://mcp.village.ai/mcp"
+    }
+  }
+}

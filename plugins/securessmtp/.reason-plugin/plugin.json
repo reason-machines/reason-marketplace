@@ -1,0 +1,13 @@
+{
+  "name": "securessmtp",
+  "displayName": "SecureSMTP",
+  "description": "Send and track app email.",
+  "homepage": "https://securessmtp.com/mcp",
+  "docs": "https://securessmtp.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "securessmtp": {
+      "url": "https://securessmtp.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "material",
+  "displayName": "Material",
+  "description": "A library for you and your AI.",
+  "homepage": "https://material.sc",
+  "docs": "https://material.sc",
+  "auth": "oauth",
+  "mcpServers": {
+    "material": {
+      "url": "https://material.sc/mcp"
+    }
+  }
+}

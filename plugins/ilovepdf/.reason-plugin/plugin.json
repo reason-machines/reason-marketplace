@@ -1,0 +1,13 @@
+{
+  "name": "ilovepdf",
+  "displayName": "iLovePDF",
+  "description": "Manage, convert, optimize PDFs.",
+  "homepage": "https://www.ilovepdf.com",
+  "docs": "https://www.ilovepdf.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ilovepdf": {
+      "url": "https://mcp.ilovepdf.com/mcp"
+    }
+  }
+}

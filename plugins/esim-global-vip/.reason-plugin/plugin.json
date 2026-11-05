@@ -1,0 +1,13 @@
+{
+  "name": "esim-global-vip",
+  "displayName": "eSIM-Global.VIP",
+  "description": "Travel eSIMs worldwide.",
+  "homepage": "https://esim-global.vip",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=vip.esim-global/esim-catalog",
+  "auth": "none",
+  "mcpServers": {
+    "esim-global-vip": {
+      "url": "https://esim-global.vip/esimshop/wp-json/esimglobal/mcp"
+    }
+  }
+}

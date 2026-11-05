@@ -1,0 +1,13 @@
+{
+  "name": "revenuebase",
+  "displayName": "RevenueBase",
+  "description": "B2B contact search and data.",
+  "homepage": "https://revenuebase.ai/",
+  "docs": "https://revenuebase.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "revenuebase": {
+      "url": "https://mcp.revenuebase.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aqueduct",
+  "displayName": "Aqueduct",
+  "description": "Create procedural materials.",
+  "homepage": "https://aqueduct.sh",
+  "docs": "https://aqueduct.sh",
+  "auth": "oauth",
+  "mcpServers": {
+    "aqueduct": {
+      "url": "https://mcp.aqueduct.sh/"
+    }
+  }
+}

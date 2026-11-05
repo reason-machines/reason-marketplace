@@ -1,0 +1,13 @@
+{
+  "name": "hms-flow",
+  "displayName": "HMS Flow",
+  "description": "Hotel management assistant.",
+  "homepage": "https://www.hmsflow.com",
+  "docs": "https://www.hmsflow.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hms-flow": {
+      "url": "https://mcp.hmsflow.com/mcp"
+    }
+  }
+}

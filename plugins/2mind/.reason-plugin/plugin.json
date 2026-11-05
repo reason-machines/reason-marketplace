@@ -1,0 +1,13 @@
+{
+  "name": "2mind",
+  "displayName": "2Mind",
+  "description": "Personal memory interface.",
+  "homepage": "https://use2mind.com/",
+  "docs": "https://use2mind.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "2mind": {
+      "url": "https://api.use2mind.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "simply-business",
+  "displayName": "Simply Business",
+  "description": "Find small business insurance.",
+  "homepage": "https://www.simplybusiness.co.uk/",
+  "docs": "https://tedix.dev/apps/simply-business/",
+  "auth": "none",
+  "mcpServers": {
+    "simply-business": {
+      "url": "https://ts-mcp.simplybusiness.com/mcp"
+    }
+  }
+}

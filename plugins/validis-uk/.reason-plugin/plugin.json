@@ -1,0 +1,13 @@
+{
+  "name": "validis-uk",
+  "displayName": "Validis (UK)",
+  "description": "Analyse financial data.",
+  "homepage": "https://www.validis.com/",
+  "docs": "https://www.validis.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "validis-uk": {
+      "url": "https://mcp.validis.com/mcp"
+    }
+  }
+}

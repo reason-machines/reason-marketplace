@@ -1,0 +1,13 @@
+{
+  "name": "humanfn",
+  "displayName": "HumanFn",
+  "description": "Human sign-off for your AI.",
+  "homepage": "https://humanfn.com",
+  "docs": "https://humanfn.com",
+  "auth": "none",
+  "mcpServers": {
+    "humanfn": {
+      "url": "https://humanfn.com/mcp"
+    }
+  }
+}

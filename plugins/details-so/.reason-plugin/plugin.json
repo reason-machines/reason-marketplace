@@ -1,0 +1,13 @@
+{
+  "name": "details-so",
+  "displayName": "Details.so",
+  "description": "Build from website inspiration.",
+  "homepage": "https://www.details.so",
+  "docs": "https://www.details.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "details-so": {
+      "url": "https://details.so/mcp"
+    }
+  }
+}

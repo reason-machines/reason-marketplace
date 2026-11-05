@@ -1,0 +1,13 @@
+{
+  "name": "jusratio",
+  "displayName": "Jusratio",
+  "description": "Brazilian legal research.",
+  "homepage": "https://jusratio.com.br",
+  "docs": "https://jusratio.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "jusratio": {
+      "url": "https://mcp.jusratio.com.br/mcp"
+    }
+  }
+}

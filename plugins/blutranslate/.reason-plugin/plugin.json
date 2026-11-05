@@ -1,0 +1,13 @@
+{
+  "name": "blutranslate",
+  "displayName": "BluTranslate",
+  "description": "Translate PDFs and documents.",
+  "homepage": "https://www.bluente.com/",
+  "docs": "https://www.bluente.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "blutranslate": {
+      "url": "https://mcp.bluente.com/mcp"
+    }
+  }
+}

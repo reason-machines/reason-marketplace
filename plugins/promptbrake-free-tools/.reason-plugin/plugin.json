@@ -1,0 +1,13 @@
+{
+  "name": "promptbrake-free-tools",
+  "displayName": "PromptBrake Free Tools",
+  "description": "Build AI tests and plans.",
+  "homepage": "https://promptbrake.com",
+  "docs": "https://promptbrake.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "promptbrake-free-tools": {
+      "url": "https://promptbrake.com/free-tools/mcp"
+    }
+  }
+}

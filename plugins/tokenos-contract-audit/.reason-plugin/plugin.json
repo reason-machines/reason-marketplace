@@ -1,0 +1,13 @@
+{
+  "name": "tokenos-contract-audit",
+  "displayName": "TokenOS Contract Audit",
+  "description": "Scan Solidity & Anchor code.",
+  "homepage": "https://tokenos.ai/chatgpt-apps/contract-audit",
+  "docs": "https://tokenos.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "tokenos-contract-audit": {
+      "url": "https://tokenos.ai/api/mcp/apps/contract-audit"
+    }
+  }
+}

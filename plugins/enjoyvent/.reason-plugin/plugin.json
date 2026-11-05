@@ -1,0 +1,13 @@
+{
+  "name": "enjoyvent",
+  "displayName": "Enjoyvent",
+  "description": "Find concerts, shows & events.",
+  "homepage": "https://enjoyvent.com",
+  "docs": "https://enjoyvent.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "enjoyvent": {
+      "url": "https://api.enjoyvent.com/mcp"
+    }
+  }
+}

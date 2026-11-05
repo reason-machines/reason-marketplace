@@ -1,0 +1,13 @@
+{
+  "name": "greener-closet",
+  "displayName": "Greener Closet",
+  "description": "Find clothes without polyester.",
+  "homepage": "https://greenercloset.com",
+  "docs": "https://greenercloset.com",
+  "auth": "none",
+  "mcpServers": {
+    "greener-closet": {
+      "url": "https://greenercloset.com/mcp"
+    }
+  }
+}

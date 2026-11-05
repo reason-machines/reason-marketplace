@@ -1,0 +1,13 @@
+{
+  "name": "about-my-sound",
+  "displayName": "About My Sound",
+  "description": "Music websites for artists.",
+  "homepage": "https://aboutmysound.com",
+  "docs": "https://aboutmysound.com",
+  "auth": "none",
+  "mcpServers": {
+    "about-my-sound": {
+      "url": "https://aboutmysound.com/mcp"
+    }
+  }
+}

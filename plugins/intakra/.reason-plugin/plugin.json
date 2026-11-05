@@ -1,0 +1,13 @@
+{
+  "name": "intakra",
+  "displayName": "Intakra",
+  "description": "Find accounts worth a look.",
+  "homepage": "https://intakra.com",
+  "docs": "https://intakra.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "intakra": {
+      "url": "https://mcp.intakra.com/mcp"
+    }
+  }
+}

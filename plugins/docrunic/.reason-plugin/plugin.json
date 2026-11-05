@@ -1,0 +1,13 @@
+{
+  "name": "docrunic",
+  "displayName": "DocRunic",
+  "description": "Search, read, and manage docs.",
+  "homepage": "https://docrunic.com/",
+  "docs": "https://docrunic.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "docrunic": {
+      "url": "https://mcp.docrunic.com/mcp"
+    }
+  }
+}

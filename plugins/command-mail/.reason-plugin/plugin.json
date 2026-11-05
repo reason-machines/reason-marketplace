@@ -1,0 +1,13 @@
+{
+  "name": "command-mail",
+  "displayName": "Command Mail",
+  "description": "Read, draft and act on email.",
+  "homepage": "https://commandmail.app",
+  "docs": "https://commandmail.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "command-mail": {
+      "url": "https://commandmail.app/mcp"
+    }
+  }
+}

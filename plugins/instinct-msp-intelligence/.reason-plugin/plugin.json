@@ -1,0 +1,13 @@
+{
+  "name": "instinct-msp-intelligence",
+  "displayName": "Instinct MSP Intelligence",
+  "description": "MSP market intelligence.",
+  "homepage": "https://mspmcp.com",
+  "docs": "https://mspmcp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "instinct-msp-intelligence": {
+      "url": "https://mcp.mspmcp.com/mcp"
+    }
+  }
+}

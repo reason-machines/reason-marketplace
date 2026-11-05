@@ -1,0 +1,13 @@
+{
+  "name": "watchman-tower",
+  "displayName": "Watchman Tower",
+  "description": "Website and server monitoring.",
+  "homepage": "https://watchmantower.com",
+  "docs": "https://watchmantower.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "watchman-tower": {
+      "url": "https://mcp.watchmantower.com/mcp"
+    }
+  }
+}

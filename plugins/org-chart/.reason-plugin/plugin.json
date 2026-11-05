@@ -1,0 +1,13 @@
+{
+  "name": "org-chart",
+  "displayName": "Zovo Org Chart Maker",
+  "description": "Org charts from a team list.",
+  "homepage": "https://org-chart.zovo.one",
+  "docs": "https://org-chart.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "org-chart": {
+      "url": "https://org-chart.zovo.one/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "woosh",
+  "displayName": "Woosh",
+  "description": "Plan with your friends.",
+  "homepage": "https://woosh.social",
+  "docs": "https://woosh.social",
+  "auth": "oauth",
+  "mcpServers": {
+    "woosh": {
+      "url": "https://mcp.woosh.social/mcp"
+    }
+  }
+}

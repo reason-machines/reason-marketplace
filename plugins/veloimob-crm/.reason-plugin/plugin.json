@@ -1,0 +1,13 @@
+{
+  "name": "veloimob-crm",
+  "displayName": "VeloImob CRM",
+  "description": "Gerencie sua imobiliária.",
+  "homepage": "https://veloimob.com.br",
+  "docs": "https://veloimob.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "veloimob-crm": {
+      "url": "https://mcp.veloimob.com.br/mcp"
+    }
+  }
+}

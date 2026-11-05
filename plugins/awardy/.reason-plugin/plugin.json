@@ -1,0 +1,13 @@
+{
+  "name": "awardy",
+  "displayName": "Awardy",
+  "description": "Plan and manage award entries.",
+  "homepage": "https://awardy.ai",
+  "docs": "https://awardy.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "awardy": {
+      "url": "https://mcp.awardy.ai/mcp"
+    }
+  }
+}

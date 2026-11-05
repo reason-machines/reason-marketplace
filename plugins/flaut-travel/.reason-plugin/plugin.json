@@ -1,0 +1,13 @@
+{
+  "name": "flaut-travel",
+  "displayName": "Flaut.Travel",
+  "description": "Find flights & explore fares.",
+  "homepage": "https://flaut.travel",
+  "docs": "https://flaut.travel",
+  "auth": "none",
+  "mcpServers": {
+    "flaut-travel": {
+      "url": "https://flaut.travel/mcp"
+    }
+  }
+}

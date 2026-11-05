@@ -1,0 +1,13 @@
+{
+  "name": "closedloop-ai",
+  "displayName": "ClosedLoop AI",
+  "description": "Know what to build next.",
+  "homepage": "https://closedloop.sh",
+  "docs": "https://closedloop.sh",
+  "auth": "oauth",
+  "mcpServers": {
+    "closedloop-ai": {
+      "url": "https://mcp.closedloop.sh/"
+    }
+  }
+}

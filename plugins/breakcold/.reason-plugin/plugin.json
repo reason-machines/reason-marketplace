@@ -1,0 +1,13 @@
+{
+  "name": "breakcold",
+  "displayName": "Breakcold",
+  "description": "Manage your Breakcold CRM.",
+  "homepage": "https://us.breakcold.com",
+  "docs": "https://breakcold.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "breakcold": {
+      "url": "https://mcp.breakcold.com/mcp/v1"
+    }
+  }
+}

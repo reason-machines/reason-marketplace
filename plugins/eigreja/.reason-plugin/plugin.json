@@ -1,0 +1,13 @@
+{
+  "name": "eigreja",
+  "displayName": "eIgreja",
+  "description": "eIgreja Manual.",
+  "homepage": "https://eigreja.com",
+  "docs": "https://eigreja.com",
+  "auth": "none",
+  "mcpServers": {
+    "eigreja": {
+      "url": "https://mcp.eigreja.com/mcp"
+    }
+  }
+}

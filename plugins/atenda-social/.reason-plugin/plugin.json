@@ -1,0 +1,13 @@
+{
+  "name": "atenda-social",
+  "displayName": "Atenda Social",
+  "description": "Instagram posts for your brand.",
+  "homepage": "https://atenda.tech/social",
+  "docs": "https://atenda.tech/social",
+  "auth": "oauth",
+  "mcpServers": {
+    "atenda-social": {
+      "url": "https://mcp.atenda.tech/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "grow-my-website",
+  "displayName": "Grow My Website",
+  "description": "Free website scans and growth.",
+  "homepage": "https://growmywebsite.com/",
+  "docs": "https://growmywebsite.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "grow-my-website": {
+      "url": "https://www.growmywebsite.com/api/mcp"
+    }
+  }
+}

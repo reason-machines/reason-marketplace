@@ -1,0 +1,13 @@
+{
+  "name": "cloudaware-service-graph",
+  "displayName": "Cloudaware Service Graph",
+  "description": "Live multi-cloud inventory.",
+  "homepage": "https://cloudaware.com/",
+  "docs": "https://cloudaware.com/mcp-server/",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudaware-service-graph": {
+      "url": "https://inbound.prod.cloudaware.com/mcp"
+    }
+  }
+}

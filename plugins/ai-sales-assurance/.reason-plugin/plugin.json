@@ -1,0 +1,13 @@
+{
+  "name": "ai-sales-assurance",
+  "displayName": "AI Visibility for Stores",
+  "description": "Shopify & WooCommerce checks.",
+  "homepage": "https://aisalesassurance.com",
+  "docs": "https://aisalesassurance.com",
+  "auth": "none",
+  "mcpServers": {
+    "ai-sales-assurance": {
+      "url": "https://aisalesassurance.com/mcp"
+    }
+  }
+}

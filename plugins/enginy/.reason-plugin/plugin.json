@@ -1,0 +1,13 @@
+{
+  "name": "enginy",
+  "displayName": "Enginy",
+  "description": "Find and reach B2B contacts.",
+  "homepage": "https://enginy.ai",
+  "docs": "https://help.enginy.ai/en/articles/15885836-getting-started-with-enginy-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "enginy": {
+      "url": "https://openapi.enginy.ai/mcp"
+    }
+  }
+}

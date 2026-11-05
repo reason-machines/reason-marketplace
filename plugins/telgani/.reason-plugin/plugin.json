@@ -1,0 +1,13 @@
+{
+  "name": "telgani",
+  "displayName": "Telgani",
+  "description": "Rent a Car.",
+  "homepage": "https://www.telgani.com/en",
+  "docs": "https://www.telgani.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "telgani": {
+      "url": "https://mcp.telgani.com/mcp"
+    }
+  }
+}

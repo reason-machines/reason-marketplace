@@ -1,0 +1,13 @@
+{
+  "name": "intern",
+  "displayName": "Intern",
+  "description": "Build private team sites.",
+  "homepage": "https://tryintern.dev",
+  "docs": "https://tryintern.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "intern": {
+      "url": "https://tryintern.dev/mcp"
+    }
+  }
+}

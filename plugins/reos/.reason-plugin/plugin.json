@@ -1,0 +1,13 @@
+{
+  "name": "reos",
+  "displayName": "Reos",
+  "description": "Work with your user research.",
+  "homepage": "https://www.reos.ai",
+  "docs": "https://www.reos.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "reos": {
+      "url": "https://www.reos.ai/api/mcp"
+    }
+  }
+}

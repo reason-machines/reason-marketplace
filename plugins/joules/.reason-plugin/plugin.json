@@ -1,0 +1,13 @@
+{
+  "name": "joules",
+  "displayName": "Joules",
+  "description": "Level up your AI cycling coach.",
+  "homepage": "https://joules.cc",
+  "docs": "https://joules.cc",
+  "auth": "oauth",
+  "mcpServers": {
+    "joules": {
+      "url": "https://mcp.joules.cc/"
+    }
+  }
+}

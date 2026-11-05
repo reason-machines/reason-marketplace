@@ -1,0 +1,13 @@
+{
+  "name": "dayze",
+  "displayName": "Dayze",
+  "description": "Give AI your life context.",
+  "homepage": "https://dayze.com",
+  "docs": "https://dayze.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "dayze": {
+      "url": "https://dayze.com/api/mcp"
+    }
+  }
+}

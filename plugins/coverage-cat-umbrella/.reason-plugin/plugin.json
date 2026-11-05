@@ -1,0 +1,13 @@
+{
+  "name": "coverage-cat-umbrella",
+  "displayName": "Coverage Cat Insurance",
+  "description": "Compare insurance.",
+  "homepage": "https://www.coveragecat.com",
+  "docs": "https://www.coveragecat.com",
+  "auth": "none",
+  "mcpServers": {
+    "coverage-cat-umbrella": {
+      "url": "https://www.coveragecat.com/api/consumer/mcp"
+    }
+  }
+}

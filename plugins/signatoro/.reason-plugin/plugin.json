@@ -1,0 +1,13 @@
+{
+  "name": "signatoro",
+  "displayName": "Signatoro",
+  "description": "Email signatures for your team.",
+  "homepage": "https://signatoro.com",
+  "docs": "https://signatoro.com",
+  "auth": "none",
+  "mcpServers": {
+    "signatoro": {
+      "url": "https://signatoro.com/mcp"
+    }
+  }
+}

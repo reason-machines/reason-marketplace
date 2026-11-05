@@ -1,0 +1,13 @@
+{
+  "name": "aioscan",
+  "displayName": "AIOScan: AI Visibility Check",
+  "description": "Can AI read and cite your site.",
+  "homepage": "https://aioscan.com",
+  "docs": "https://aioscan.com",
+  "auth": "none",
+  "mcpServers": {
+    "aioscan": {
+      "url": "https://aioscan.com/mcp"
+    }
+  }
+}

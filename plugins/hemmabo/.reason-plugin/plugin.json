@@ -1,0 +1,13 @@
+{
+  "name": "hemmabo",
+  "displayName": "HemmaBo",
+  "description": "Verified stay offers.",
+  "homepage": "https://www.hemmabo.com",
+  "docs": "https://www.hemmabo.com",
+  "auth": "none",
+  "mcpServers": {
+    "hemmabo": {
+      "url": "https://hemmabo.com/mcp"
+    }
+  }
+}

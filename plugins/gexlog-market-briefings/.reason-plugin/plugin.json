@@ -1,0 +1,13 @@
+{
+  "name": "gexlog-market-briefings",
+  "displayName": "GEXLOG Market Briefings",
+  "description": "SPX Market briefs.",
+  "homepage": "https://gexlog.com",
+  "docs": "https://gexlog.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "gexlog-market-briefings": {
+      "url": "https://agent.gexlog.com/mcp"
+    }
+  }
+}

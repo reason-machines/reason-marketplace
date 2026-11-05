@@ -1,0 +1,13 @@
+{
+  "name": "valyou",
+  "displayName": "ValYou",
+  "description": "Ask about your own net worth.",
+  "homepage": "https://getvalyou.co/welcome",
+  "docs": "https://getvalyou.co/welcome",
+  "auth": "oauth",
+  "mcpServers": {
+    "valyou": {
+      "url": "https://mcp.getvalyou.co/mcp"
+    }
+  }
+}

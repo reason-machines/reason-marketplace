@@ -1,0 +1,13 @@
+{
+  "name": "audiopen",
+  "displayName": "AudioPen",
+  "description": "Search and read your notes.",
+  "homepage": "https://audiopen.ai",
+  "docs": "https://audiopen.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "audiopen": {
+      "url": "https://mcp.audiopen.ai/mcp"
+    }
+  }
+}

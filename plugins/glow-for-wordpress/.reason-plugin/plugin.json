@@ -1,0 +1,13 @@
+{
+  "name": "glow-for-wordpress",
+  "displayName": "Glow for WordPress",
+  "description": "Manage many WordPress sites.",
+  "homepage": "https://getglow.io/integrations/ai-assistants/",
+  "docs": "https://getglow.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "glow-for-wordpress": {
+      "url": "https://my.getglow.io/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shamela-link",
+  "displayName": "Shamela Link",
+  "description": "Search the Shamela library.",
+  "homepage": "https://shamela.link",
+  "docs": "https://shamela.link",
+  "auth": "oauth",
+  "mcpServers": {
+    "shamela-link": {
+      "url": "https://shamela.link/mcp"
+    }
+  }
+}

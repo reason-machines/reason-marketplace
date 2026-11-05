@@ -1,0 +1,13 @@
+{
+  "name": "ppl-free-ground-school",
+  "displayName": "PPL Free Ground School",
+  "description": "Free FAA pilot ground school.",
+  "homepage": "https://pplfree.com",
+  "docs": "https://pplfree.com",
+  "auth": "none",
+  "mcpServers": {
+    "ppl-free-ground-school": {
+      "url": "https://pplfree.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "openlayer",
+  "displayName": "Openlayer",
+  "description": "Monitor and govern AI.",
+  "homepage": "https://openlayer.com",
+  "docs": "https://openlayer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "openlayer": {
+      "url": "https://mcp.openlayer.com/mcp"
+    }
+  }
+}

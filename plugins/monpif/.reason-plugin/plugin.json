@@ -1,0 +1,13 @@
+{
+  "name": "monpif",
+  "displayName": "monPIF",
+  "description": "Support for Home Education.",
+  "homepage": "https://www.monpif.be",
+  "docs": "https://www.monpif.be",
+  "auth": "none",
+  "mcpServers": {
+    "monpif": {
+      "url": "https://monpif.be/mcp"
+    }
+  }
+}

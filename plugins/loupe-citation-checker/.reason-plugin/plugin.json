@@ -1,0 +1,13 @@
+{
+  "name": "loupe-citation-checker",
+  "displayName": "Loupe Citation Checker",
+  "description": "Check legal citations.",
+  "homepage": "https://loupe.legal",
+  "docs": "https://loupe.legal",
+  "auth": "oauth",
+  "mcpServers": {
+    "loupe-citation-checker": {
+      "url": "https://loupe.legal/mcp"
+    }
+  }
+}

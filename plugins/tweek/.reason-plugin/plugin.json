@@ -1,0 +1,13 @@
+{
+  "name": "tweek",
+  "displayName": "Tweek",
+  "description": "Minimal weekly planner.",
+  "homepage": "https://tweek.so",
+  "docs": "https://tweek.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "tweek": {
+      "url": "https://tweek.so/mcp"
+    }
+  }
+}

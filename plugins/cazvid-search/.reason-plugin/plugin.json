@@ -1,0 +1,16 @@
+{
+  "name": "cazvid-search",
+  "displayName": "CazVid Job Search",
+  "description": "Find jobs and view details.",
+  "homepage": "https://cazvid.com",
+  "docs": "https://cazvid.com",
+  "auth": "api_key",
+  "mcpServers": {
+    "cazvid-search": {
+      "url": "https://mcp.cazvid.com/mcp",
+      "headers": {
+        "X-API-Key": "${API_KEY}"
+      }
+    }
+  }
+}

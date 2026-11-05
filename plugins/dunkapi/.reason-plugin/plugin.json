@@ -1,0 +1,13 @@
+{
+  "name": "dunkapi",
+  "displayName": "DunkAPI",
+  "description": "NBA basketball data and stats.",
+  "homepage": "https://dunkapi.com",
+  "docs": "https://dunkapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dunkapi": {
+      "url": "https://mcp.dunkapi.com/mcp"
+    }
+  }
+}

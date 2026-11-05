@@ -1,0 +1,13 @@
+{
+  "name": "metricduck",
+  "displayName": "MetricDuck",
+  "description": "SEC filings and financial data.",
+  "homepage": "https://www.metricduck.com/",
+  "docs": "https://www.metricduck.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "metricduck": {
+      "url": "https://mcp.metricduck.com/mcp"
+    }
+  }
+}

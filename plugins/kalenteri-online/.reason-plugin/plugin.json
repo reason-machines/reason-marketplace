@@ -1,0 +1,13 @@
+{
+  "name": "kalenteri-online",
+  "displayName": "Kalenteri.online",
+  "description": "Finnish calendar data.",
+  "homepage": "https://kalenteri.online",
+  "docs": "https://api.kalenteri.online/.well-known/oauth-protected-resource",
+  "auth": "none",
+  "mcpServers": {
+    "kalenteri-online": {
+      "url": "https://api.kalenteri.online/v1/mcp"
+    }
+  }
+}

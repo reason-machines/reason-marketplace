@@ -1,0 +1,13 @@
+{
+  "name": "alize",
+  "displayName": "Alizé",
+  "description": "Research legal data.",
+  "homepage": "https://alize.eu",
+  "docs": "https://alize.eu/lu/fr/connecteur-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "alize": {
+      "url": "https://api.alize.lu/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chessy",
+  "displayName": "Chessy",
+  "description": "Play Chess Against Reason.",
+  "homepage": "https://chess.altmatter.com/",
+  "docs": "https://chess.altmatter.com/",
+  "auth": "none",
+  "mcpServers": {
+    "chessy": {
+      "url": "https://chess.altmatter.com/mcp"
+    }
+  }
+}

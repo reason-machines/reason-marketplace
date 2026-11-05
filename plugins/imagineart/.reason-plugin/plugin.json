@@ -1,0 +1,13 @@
+{
+  "name": "imagineart",
+  "displayName": "ImagineArt",
+  "description": "Generate images, video, music.",
+  "homepage": "https://imagine.art",
+  "docs": "https://imagine.art",
+  "auth": "oauth",
+  "mcpServers": {
+    "imagineart": {
+      "url": "https://mcp.imagine.art/mcp"
+    }
+  }
+}

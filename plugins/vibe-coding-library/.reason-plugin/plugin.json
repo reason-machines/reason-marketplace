@@ -1,0 +1,13 @@
+{
+  "name": "vibe-coding-library",
+  "displayName": "Vibe Coding Library",
+  "description": "Coding workflows on demand.",
+  "homepage": "https://arty-kk.github.io/vibe-coding",
+  "docs": "https://arty-kk.github.io/vibe-coding",
+  "auth": "none",
+  "mcpServers": {
+    "vibe-coding-library": {
+      "url": "https://vibe-coding-library.swift-seal-1081.chatgpt.site/library/mcp"
+    }
+  }
+}

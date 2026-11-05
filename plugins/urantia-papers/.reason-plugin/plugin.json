@@ -1,0 +1,13 @@
+{
+  "name": "urantia-papers",
+  "displayName": "Urantia Papers",
+  "description": "Search, read, and cite.",
+  "homepage": "https://urantia.dev",
+  "docs": "https://urantia.dev",
+  "auth": "none",
+  "mcpServers": {
+    "urantia-papers": {
+      "url": "https://urantia.dev/mcp"
+    }
+  }
+}

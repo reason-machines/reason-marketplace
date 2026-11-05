@@ -1,0 +1,43 @@
+{
+  "name": "terralab",
+  "displayName": "TerraLab",
+  "description": "GIS data for any place.",
+  "homepage": "https://terra-lab.ai",
+  "docs": "https://terra-lab.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "terralab": {
+      "url": "https://mcp.terra-lab.ai/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "map-data-for-a-place",
+      "description": "Gets open map data for any place in the world as a map, a count and a file that opens in QGIS. Covers administrative boundaries (countries, regions, departments, districts), building footprints, roads, railways, transit stops, addresses, points of interest such as schools, pharmacies or shops, land ",
+      "source": "terralabai/mcp#79e20598a3e056aa15087817d97455502ee68894",
+      "skill": "map-data-for-a-place",
+      "url": "https://github.com/terralabai/mcp/tree/79e20598a3e056aa15087817d97455502ee68894/skills/map-data-for-a-place"
+    },
+    {
+      "name": "places-files-and-coordinates",
+      "description": "Puts addresses, coordinates or a GIS file on a map and converts them. Covers geocoding one address or a list of up to 100 (pasted or CSV) and the address at a point, opening and checking GeoJSON, KML, KMZ, GPX, zipped Shapefile, CSV or WKT files, converting between these formats, converting coordina",
+      "source": "terralabai/mcp#79e20598a3e056aa15087817d97455502ee68894",
+      "skill": "places-files-and-coordinates",
+      "url": "https://github.com/terralabai/mcp/tree/79e20598a3e056aa15087817d97455502ee68894/skills/places-files-and-coordinates"
+    },
+    {
+      "name": "site-study",
+      "description": "Builds a first look at a site or plot anywhere in the world before a project such as a house, an extension, a solar farm, a shop or a purchase. Combines the terrain (altitude and slope), what lies around it (buildings, roads, rivers and lakes, land use, protected areas, power lines, transit) and, in",
+      "source": "terralabai/mcp#79e20598a3e056aa15087817d97455502ee68894",
+      "skill": "site-study",
+      "url": "https://github.com/terralabai/mcp/tree/79e20598a3e056aa15087817d97455502ee68894/skills/site-study"
+    },
+    {
+      "name": "terrain-and-elevation",
+      "description": "Gives terrain information anywhere in the world from the Copernicus 30 m elevation model. Covers the altitude of places, an elevation profile between points or along a route with total ascent and descent, a DEM clipped to an area as a GeoTIFF with a hillshade and a slope map, contour lines (topograp",
+      "source": "terralabai/mcp#79e20598a3e056aa15087817d97455502ee68894",
+      "skill": "terrain-and-elevation",
+      "url": "https://github.com/terralabai/mcp/tree/79e20598a3e056aa15087817d97455502ee68894/skills/terrain-and-elevation"
+    }
+  ]
+}

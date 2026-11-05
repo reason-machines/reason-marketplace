@@ -1,0 +1,13 @@
+{
+  "name": "chainels",
+  "displayName": "Chainels",
+  "description": "Manage your Chainels community.",
+  "homepage": "https://getchainels.com/en",
+  "docs": "https://kb.getchainels.com/en/knowledge/connecting-your-ai-assistant-to-chainels",
+  "auth": "oauth",
+  "mcpServers": {
+    "chainels": {
+      "url": "https://mcp.chainels.com/mcp"
+    }
+  }
+}

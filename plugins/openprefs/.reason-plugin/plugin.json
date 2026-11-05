@@ -1,0 +1,13 @@
+{
+  "name": "openprefs",
+  "displayName": "OpenPrefs",
+  "description": "Your preferences in one place.",
+  "homepage": "https://openprefs.ai",
+  "docs": "https://openprefs.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "openprefs": {
+      "url": "https://mcp.openprefs.ai/"
+    }
+  }
+}

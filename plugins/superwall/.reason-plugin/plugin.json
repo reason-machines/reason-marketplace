@@ -1,0 +1,13 @@
+{
+  "name": "superwall",
+  "displayName": "Superwall",
+  "description": "Paywalls and revenue analytics.",
+  "homepage": "https://superwall.com/docs/dashboard/guides/superwall-mcp",
+  "docs": "https://superwall.com/docs/dashboard/guides/superwall-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "superwall": {
+      "url": "https://mcp.superwall.com/mcp"
+    }
+  }
+}

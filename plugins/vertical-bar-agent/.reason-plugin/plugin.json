@@ -1,0 +1,13 @@
+{
+  "name": "vertical-bar-agent",
+  "displayName": "Vertical Bar Agent",
+  "description": "Analyze NetSuite operations.",
+  "homepage": "https://vertical.bar",
+  "docs": "https://vertical.bar",
+  "auth": "oauth",
+  "mcpServers": {
+    "vertical-bar-agent": {
+      "url": "https://mcp.vertical.bar/mcp"
+    }
+  }
+}

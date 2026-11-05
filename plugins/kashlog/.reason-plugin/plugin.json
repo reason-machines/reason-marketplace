@@ -1,0 +1,13 @@
+{
+  "name": "kashlog",
+  "displayName": "KashLog",
+  "description": "Multi-currency expense tracker.",
+  "homepage": "https://kashlog.app",
+  "docs": "https://kashlog.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "kashlog": {
+      "url": "https://kashlog.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ytpuller",
+  "displayName": "YTPuller",
+  "description": "Read any public YouTube video.",
+  "homepage": "https://ytpuller.com",
+  "docs": "https://ytpuller.com/api-docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "ytpuller": {
+      "url": "https://ytpuller.com/api/v1/mcp"
+    }
+  }
+}

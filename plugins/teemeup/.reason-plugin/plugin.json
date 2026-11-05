@@ -1,0 +1,13 @@
+{
+  "name": "teemeup",
+  "displayName": "Teemeup",
+  "description": "Search & book tee times.",
+  "homepage": "https://www.teemeup.ai/",
+  "docs": "https://www.teemeup.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "teemeup": {
+      "url": "https://mcp.teemeup.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "raidrunner",
+  "displayName": "RaidRunner",
+  "description": "Manage your raid-train slots.",
+  "homepage": "https://raidrunner.net",
+  "docs": "https://raidrunner.net",
+  "auth": "oauth",
+  "mcpServers": {
+    "raidrunner": {
+      "url": "https://raidrunner.net/mcp"
+    }
+  }
+}

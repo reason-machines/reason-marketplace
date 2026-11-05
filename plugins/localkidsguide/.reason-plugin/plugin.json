@@ -1,0 +1,13 @@
+{
+  "name": "localkidsguide",
+  "displayName": "LocalKidsGuide",
+  "description": "Find kids' activities near you.",
+  "homepage": "https://localkidsguide.com",
+  "docs": "https://localkidsguide.com",
+  "auth": "none",
+  "mcpServers": {
+    "localkidsguide": {
+      "url": "https://mcp.localkidsguide.com/mcp"
+    }
+  }
+}

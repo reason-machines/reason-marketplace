@@ -1,0 +1,13 @@
+{
+  "name": "aicut",
+  "displayName": "aicut",
+  "description": "AI video, image & audio.",
+  "homepage": "https://www.aicut.pro",
+  "docs": "https://www.aicut.pro",
+  "auth": "oauth",
+  "mcpServers": {
+    "aicut": {
+      "url": "https://mcp.aicut.pro/mcp"
+    }
+  }
+}

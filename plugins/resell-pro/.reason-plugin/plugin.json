@@ -1,0 +1,13 @@
+{
+  "name": "resell-pro",
+  "displayName": "Resell Pro",
+  "description": "Explore Vinted market data.",
+  "homepage": "https://resellpro.com",
+  "docs": "https://resellpro.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "resell-pro": {
+      "url": "https://resellpro.com/mcp"
+    }
+  }
+}

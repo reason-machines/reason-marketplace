@@ -1,0 +1,13 @@
+{
+  "name": "destiny-atlas",
+  "displayName": "Destiny Atlas",
+  "description": "Charts, cards and reflection.",
+  "homepage": "https://destiny-atlas.com",
+  "docs": "https://destiny-atlas.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "destiny-atlas": {
+      "url": "https://api.destiny-atlas.com/mcp"
+    }
+  }
+}

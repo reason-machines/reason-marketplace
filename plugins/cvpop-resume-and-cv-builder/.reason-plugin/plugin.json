@@ -1,0 +1,13 @@
+{
+  "name": "cvpop-resume-and-cv-builder",
+  "displayName": "CVpop - Resume & CV Builder",
+  "description": "Your next job starts here.",
+  "homepage": "https://cvpop.com",
+  "docs": "https://cvpop.com",
+  "auth": "none",
+  "mcpServers": {
+    "cvpop-resume-and-cv-builder": {
+      "url": "https://mcp.cvpop.com/mcp"
+    }
+  }
+}

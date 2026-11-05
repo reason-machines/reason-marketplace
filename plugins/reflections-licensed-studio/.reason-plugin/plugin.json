@@ -1,0 +1,13 @@
+{
+  "name": "reflections-licensed-studio",
+  "displayName": "Reflections Licensed Studio",
+  "description": "Create licensed imagery.",
+  "homepage": "https://app.reflections.ai",
+  "docs": "https://app.reflections.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "reflections-licensed-studio": {
+      "url": "https://app.reflections.ai/api/mcp"
+    }
+  }
+}

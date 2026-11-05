@@ -1,0 +1,13 @@
+{
+  "name": "tictoon",
+  "displayName": "TicToon",
+  "description": "Create and publish comics.",
+  "homepage": "https://tictoon-global.web.app",
+  "docs": "https://tictoon-global.web.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "tictoon": {
+      "url": "https://tictoon-global.web.app/mcp"
+    }
+  }
+}

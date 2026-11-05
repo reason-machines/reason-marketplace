@@ -1,0 +1,13 @@
+{
+  "name": "able-style",
+  "displayName": "Able.Style",
+  "description": "Fashion ideas for any weather.",
+  "homepage": "https://able.style",
+  "docs": "https://able.style",
+  "auth": "oauth",
+  "mcpServers": {
+    "able-style": {
+      "url": "https://able.style/mcp"
+    }
+  }
+}

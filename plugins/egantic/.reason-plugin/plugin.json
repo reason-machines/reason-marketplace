@@ -1,0 +1,13 @@
+{
+  "name": "egantic",
+  "displayName": "Egantic",
+  "description": "Bol-marktdata in je AI.",
+  "homepage": "https://egantic.ai",
+  "docs": "https://egantic.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "egantic": {
+      "url": "https://egantic.ai/mcp"
+    }
+  }
+}

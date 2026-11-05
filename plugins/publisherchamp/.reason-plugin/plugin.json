@@ -1,0 +1,13 @@
+{
+  "name": "publisherchamp",
+  "displayName": "PublisherChamp",
+  "description": "Book sales analytics.",
+  "homepage": "https://www.publisherchamp.com/",
+  "docs": "https://www.publisherchamp.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "publisherchamp": {
+      "url": "https://mcp.publisherchamp.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nefoligift",
+  "displayName": "nefoliGIFT",
+  "description": "Wishlists & Gifts.",
+  "homepage": "https://gift.nefoli.de/",
+  "docs": "https://gift.nefoli.de/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "nefoligift": {
+      "url": "https://gift.nefoli.de/mcp"
+    }
+  }
+}

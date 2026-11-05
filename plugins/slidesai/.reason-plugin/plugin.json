@@ -1,0 +1,13 @@
+{
+  "name": "slidesai",
+  "displayName": "SlidesAI",
+  "description": "Create presentation slides.",
+  "homepage": "https://www.slidesai.io",
+  "docs": "https://www.slidesai.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "slidesai": {
+      "url": "https://mcp.slidesai.io/mcp"
+    }
+  }
+}

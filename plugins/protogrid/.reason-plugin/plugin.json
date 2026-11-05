@@ -1,0 +1,13 @@
+{
+  "name": "protogrid",
+  "displayName": "Protogrid",
+  "description": "MCP server search for agents.",
+  "homepage": "https://protogrid.dev",
+  "docs": "https://protogrid.dev",
+  "auth": "none",
+  "mcpServers": {
+    "protogrid": {
+      "url": "https://protogrid.dev/mcp"
+    }
+  }
+}

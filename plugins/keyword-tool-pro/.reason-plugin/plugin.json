@@ -1,0 +1,13 @@
+{
+  "name": "keyword-tool-pro",
+  "displayName": "Keyword Tool Pro",
+  "description": "Keyword research and SEO data.",
+  "homepage": "https://keywordtool.io/mcp",
+  "docs": "https://keywordtool.io/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "keyword-tool-pro": {
+      "url": "https://mcp.keywordtool.io/"
+    }
+  }
+}

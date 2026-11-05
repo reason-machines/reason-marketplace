@@ -1,0 +1,13 @@
+{
+  "name": "axiom-axiom",
+  "displayName": "Axiom",
+  "description": "Order products through Axiom.",
+  "homepage": "https://www.useaxiom.ai",
+  "docs": "https://www.useaxiom.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "axiom-axiom": {
+      "url": "https://mcp.useaxiom.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "flyweel",
+  "displayName": "Flyweel",
+  "description": "Analyse your ad campaigns.",
+  "homepage": "https://www.flyweel.co/",
+  "docs": "https://www.flyweel.co/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "flyweel": {
+      "url": "https://api.flyweel.co/functions/v1/mcp-server/mcp"
+    }
+  }
+}

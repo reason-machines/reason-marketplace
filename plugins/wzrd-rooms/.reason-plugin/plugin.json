@@ -1,0 +1,13 @@
+{
+  "name": "wzrd-rooms",
+  "displayName": "WZRD",
+  "description": "Make proposals, portals & more.",
+  "homepage": "https://wzrd.to",
+  "docs": "https://wzrd.to/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "wzrd-rooms": {
+      "url": "https://wzrd.to/api/mcp"
+    }
+  }
+}

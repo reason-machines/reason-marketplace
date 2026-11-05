@@ -1,0 +1,13 @@
+{
+  "name": "boy-or-girl-names",
+  "displayName": "Boy or Girl Names",
+  "description": "Find baby names by letter.",
+  "homepage": "https://boyorgirlnames.com",
+  "docs": "https://boyorgirlnames.com",
+  "auth": "none",
+  "mcpServers": {
+    "boy-or-girl-names": {
+      "url": "https://boyorgirlnames.com/mcp"
+    }
+  }
+}

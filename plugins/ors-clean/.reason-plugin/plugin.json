@@ -1,0 +1,13 @@
+{
+  "name": "ors-clean",
+  "displayName": "ORS Clean",
+  "description": "Exterior cleaning quotes.",
+  "homepage": "https://orsclean.com",
+  "docs": "https://orsclean.com",
+  "auth": "none",
+  "mcpServers": {
+    "ors-clean": {
+      "url": "https://mcp.orsclean.com/mcp"
+    }
+  }
+}

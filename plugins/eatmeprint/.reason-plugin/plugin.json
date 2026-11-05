@@ -1,0 +1,13 @@
+{
+  "name": "eatmeprint",
+  "displayName": "EatMePrint",
+  "description": "Order photo-printed macarons.",
+  "homepage": "https://eatmeprint.com",
+  "docs": "https://eatmeprint.com/for-agents/",
+  "auth": "none",
+  "mcpServers": {
+    "eatmeprint": {
+      "url": "https://eatmeprint-mcp.eatmeprint.workers.dev/mcp"
+    }
+  }
+}

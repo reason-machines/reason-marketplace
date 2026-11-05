@@ -1,0 +1,13 @@
+{
+  "name": "permitsnag-lookup",
+  "displayName": "PermitSnag",
+  "description": "US permit and campsite lookup.",
+  "homepage": "https://permitsnag.com",
+  "docs": "https://permitsnag.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "permitsnag-lookup": {
+      "url": "https://api.permitsnag.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "patent-connector",
+  "displayName": "Patent Connector",
+  "description": "Search patents & trademarks.",
+  "homepage": "https://patent.dev",
+  "docs": "https://patent.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "patent-connector": {
+      "url": "https://mcp.patent.dev/mcp"
+    }
+  }
+}

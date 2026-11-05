@@ -1,0 +1,13 @@
+{
+  "name": "jaz-accounting",
+  "displayName": "Jaz Accounting",
+  "description": "Fastest ledger for agents.",
+  "homepage": "https://www.jaz.ai/",
+  "docs": "https://www.jaz.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "jaz-accounting": {
+      "url": "https://mcp.jaz.ai/mcp"
+    }
+  }
+}

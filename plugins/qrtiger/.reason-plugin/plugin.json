@@ -1,0 +1,13 @@
+{
+  "name": "qrtiger",
+  "displayName": "QR Tiger",
+  "description": "Create and manage QR codes.",
+  "homepage": "https://www.qrcode-tiger.com",
+  "docs": "https://qrcode-tiger.com/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "qrtiger": {
+      "url": "https://qrtiger.com/mcp"
+    }
+  }
+}

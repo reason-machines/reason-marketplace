@@ -1,0 +1,13 @@
+{
+  "name": "adrihosan",
+  "displayName": "Adrihosan",
+  "description": "Find renovation materials.",
+  "homepage": "https://www.adrihosan.com/",
+  "docs": "https://www.adrihosan.com/",
+  "auth": "none",
+  "mcpServers": {
+    "adrihosan": {
+      "url": "https://mcp.adrihosan.com/mcp"
+    }
+  }
+}

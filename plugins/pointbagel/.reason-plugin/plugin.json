@@ -1,0 +1,13 @@
+{
+  "name": "pointbagel",
+  "displayName": "PointBagel",
+  "description": "Credit card rewards & points.",
+  "homepage": "https://pointbagel.com",
+  "docs": "https://pointbagel.com/ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "pointbagel": {
+      "url": "https://pointbagel.com/api/mcp"
+    }
+  }
+}

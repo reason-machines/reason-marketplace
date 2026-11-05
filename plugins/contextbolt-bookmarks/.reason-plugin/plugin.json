@@ -1,0 +1,13 @@
+{
+  "name": "contextbolt-bookmarks",
+  "displayName": "ContextBolt Bookmarks",
+  "description": "Find and save bookmarks.",
+  "homepage": "https://contextbolt.com/bookmarks/",
+  "docs": "https://contextbolt.com/bookmarks/connect-claude-to-bookmarks/",
+  "auth": "oauth",
+  "mcpServers": {
+    "contextbolt-bookmarks": {
+      "url": "https://api.contextbolt.app/mcp"
+    }
+  }
+}

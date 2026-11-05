@@ -1,0 +1,13 @@
+{
+  "name": "tokenos-gas-tracker",
+  "displayName": "TokenOS Gas Tracker",
+  "description": "Live fees on five chains.",
+  "homepage": "https://tokenos.ai/chatgpt-apps/gas-tracker",
+  "docs": "https://tokenos.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "tokenos-gas-tracker": {
+      "url": "https://tokenos.ai/api/mcp/apps/gas-tracker"
+    }
+  }
+}

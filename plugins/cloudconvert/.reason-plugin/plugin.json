@@ -1,0 +1,13 @@
+{
+  "name": "cloudconvert",
+  "displayName": "CloudConvert",
+  "description": "Convert and process files.",
+  "homepage": "https://cloudconvert.com",
+  "docs": "https://cloudconvert.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudconvert": {
+      "url": "https://mcp.cloudconvert.com/"
+    }
+  }
+}

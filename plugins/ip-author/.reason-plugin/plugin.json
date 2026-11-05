@@ -1,0 +1,13 @@
+{
+  "name": "ip-author",
+  "displayName": "IP Author",
+  "description": "Patent search and analysis.",
+  "homepage": "https://ipauthor.com/",
+  "docs": "https://ipauthor.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "ip-author": {
+      "url": "https://mcp.ipauthor.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "homelantern",
+  "displayName": "HomeLantern",
+  "description": "Review your rental portfolio.",
+  "homepage": "https://login.homelantern.app",
+  "docs": "https://login.homelantern.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "homelantern": {
+      "url": "https://mcp.homelantern.app/mcp"
+    }
+  }
+}

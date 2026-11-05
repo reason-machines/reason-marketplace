@@ -1,0 +1,13 @@
+{
+  "name": "addy-ai",
+  "displayName": "Addy AI",
+  "description": "Close mortgage loans in days.",
+  "homepage": "https://addy.com/",
+  "docs": "https://tedix.dev/apps/addy-ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "addy-ai": {
+      "url": "https://chatgpt-mcp.addy.so/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dashthis",
+  "displayName": "DashThis",
+  "description": "Client-ready marketing reports.",
+  "homepage": "https://dashthis.com/",
+  "docs": "https://dashthis.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "dashthis": {
+      "url": "https://mcp.dashthis.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gfit-home-workouts",
+  "displayName": "gFit Home Workouts",
+  "description": "Guided home workouts.",
+  "homepage": "https://chatgpt.gfit.world",
+  "docs": "https://chatgpt.gfit.world",
+  "auth": "none",
+  "mcpServers": {
+    "gfit-home-workouts": {
+      "url": "https://chatgpt.gfit.world/mcp"
+    }
+  }
+}

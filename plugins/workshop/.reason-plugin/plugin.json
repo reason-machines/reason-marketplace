@@ -1,0 +1,13 @@
+{
+  "name": "workshop",
+  "displayName": "Workshop",
+  "description": "Pull analytics & draft emails.",
+  "homepage": "https://useworkshop.com/features/mcp-server/",
+  "docs": "https://useworkshop.com/features/mcp-server/",
+  "auth": "oauth",
+  "mcpServers": {
+    "workshop": {
+      "url": "https://mcp.useworkshop.com/mcp"
+    }
+  }
+}

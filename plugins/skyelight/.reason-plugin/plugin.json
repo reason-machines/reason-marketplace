@@ -1,0 +1,13 @@
+{
+  "name": "skyelight",
+  "displayName": "Skyelight",
+  "description": "Feedback pinned on your app.",
+  "homepage": "https://www.skyelight.ai",
+  "docs": "https://skyelight.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "skyelight": {
+      "url": "https://app.skyelight.ai/mcp"
+    }
+  }
+}

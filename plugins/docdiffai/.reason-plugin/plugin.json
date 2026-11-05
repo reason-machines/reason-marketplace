@@ -1,0 +1,13 @@
+{
+  "name": "docdiffai",
+  "displayName": "DocDiffAI",
+  "description": "Compare document versions.",
+  "homepage": "https://docdiffai.com",
+  "docs": "https://docdiffai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "docdiffai": {
+      "url": "https://docdiffai.com/mcp"
+    }
+  }
+}

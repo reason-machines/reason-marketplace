@@ -1,0 +1,13 @@
+{
+  "name": "webzum",
+  "displayName": "WebZum",
+  "description": "Websites for small businesses.",
+  "homepage": "https://webzum.com",
+  "docs": "https://webzum.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "webzum": {
+      "url": "https://webzum.com/api/mcp"
+    }
+  }
+}

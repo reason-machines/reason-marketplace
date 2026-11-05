@@ -1,0 +1,13 @@
+{
+  "name": "mntn",
+  "displayName": "MNTN",
+  "description": "Manage Performance TV.",
+  "homepage": "https://mountain.com",
+  "docs": "https://mountain.com/tech/inside-mntn-mcp-bringing-performance-tv-into-your-ai-assistant/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mntn": {
+      "url": "https://mcp.ex.mountain.com/mcp"
+    }
+  }
+}

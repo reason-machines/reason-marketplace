@@ -1,0 +1,13 @@
+{
+  "name": "gsa-calc-plus-by-1102tools",
+  "displayName": "GSA CALC+ by 1102tools",
+  "description": "Compare federal labor rates.",
+  "homepage": "https://1102tools.com",
+  "docs": "https://1102tools.com/mcp/gsa-calc",
+  "auth": "none",
+  "mcpServers": {
+    "gsa-calc-plus-by-1102tools": {
+      "url": "https://gsa-calc.1102tools.com/mcp"
+    }
+  }
+}

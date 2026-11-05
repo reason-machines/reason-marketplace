@@ -1,0 +1,13 @@
+{
+  "name": "beamtrace",
+  "displayName": "Beamtrace",
+  "description": "See how AI ranks your business.",
+  "homepage": "https://beamtrace.com",
+  "docs": "https://beamtrace.com/integrations/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "beamtrace": {
+      "url": "https://beamtrace.com/api/mcp"
+    }
+  }
+}

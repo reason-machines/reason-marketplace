@@ -1,0 +1,13 @@
+{
+  "name": "trackberry",
+  "displayName": "Trackberry",
+  "description": "Track fresh produce shipments.",
+  "homepage": "https://trackberry.com",
+  "docs": "https://trackberry.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "trackberry": {
+      "url": "https://trackberry.com/mcp"
+    }
+  }
+}

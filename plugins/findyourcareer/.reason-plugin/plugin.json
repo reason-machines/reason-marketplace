@@ -1,0 +1,13 @@
+{
+  "name": "findyourcareer",
+  "displayName": "Find Your Career",
+  "description": "Find jobs matching your needs.",
+  "homepage": "https://findyourcareer.io",
+  "docs": "https://findyourcareer.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "findyourcareer": {
+      "url": "https://findyourcareer.io/mcp"
+    }
+  }
+}

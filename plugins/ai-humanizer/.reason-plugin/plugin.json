@@ -1,0 +1,13 @@
+{
+  "name": "ai-humanizer",
+  "displayName": "AI Humanizer",
+  "description": "Humanize AI text.",
+  "homepage": "https://www.humanizeai.pro/",
+  "docs": "https://www.humanizeai.pro/",
+  "auth": "none",
+  "mcpServers": {
+    "ai-humanizer": {
+      "url": "https://mcp.humanizeai.pro/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "seguro-match",
+  "displayName": "Seguro Match",
+  "description": "Compare insurance.",
+  "homepage": "https://seguromatch.com/",
+  "docs": "https://seguromatch.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "seguro-match": {
+      "url": "https://seguromatch.com/api/agent/mcp"
+    }
+  }
+}

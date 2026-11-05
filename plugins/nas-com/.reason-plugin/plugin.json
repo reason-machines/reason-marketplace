@@ -1,0 +1,13 @@
+{
+  "name": "nas-com",
+  "displayName": "Nas.com",
+  "description": "Nas.com builds your storefront.",
+  "homepage": "https://nas.com",
+  "docs": "https://nas.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "nas-com": {
+      "url": "https://mcp.nas.com/mcp"
+    }
+  }
+}

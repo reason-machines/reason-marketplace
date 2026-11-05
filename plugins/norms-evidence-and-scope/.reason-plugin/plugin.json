@@ -1,0 +1,13 @@
+{
+  "name": "norms-evidence-and-scope",
+  "displayName": "NORMS: Evidence & Scope",
+  "description": "Structured evidence checks.",
+  "homepage": "https://norms.beforebabel.org/",
+  "docs": "https://norms.beforebabel.org/",
+  "auth": "none",
+  "mcpServers": {
+    "norms-evidence-and-scope": {
+      "url": "https://norms.beforebabel.org/mcp"
+    }
+  }
+}

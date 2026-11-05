@@ -1,0 +1,13 @@
+{
+  "name": "recruit-crm",
+  "displayName": "Recruit CRM",
+  "description": "ATS & CRM insights to action.",
+  "homepage": "https://recruitcrm.io",
+  "docs": "https://recruitcrm.io",
+  "auth": "none",
+  "mcpServers": {
+    "recruit-crm": {
+      "url": "https://mcp.recruitcrm.io/mcp"
+    }
+  }
+}

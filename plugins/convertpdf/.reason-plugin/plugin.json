@@ -1,0 +1,13 @@
+{
+  "name": "convertpdf",
+  "displayName": "ConvertPDF",
+  "description": "Compress, merge, convert PDFs.",
+  "homepage": "https://convertpdf.io",
+  "docs": "https://convertpdf.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "convertpdf": {
+      "url": "https://convertpdf.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "musicbook-pro",
+  "displayName": "MusicBook Pro",
+  "description": "Write and plan your music.",
+  "homepage": "https://musicbookpro.com",
+  "docs": "https://musicbookpro.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "musicbook-pro": {
+      "url": "https://mcp.musicbookpro.com/mcp"
+    }
+  }
+}

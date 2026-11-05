@@ -1,0 +1,13 @@
+{
+  "name": "string",
+  "displayName": "String",
+  "description": "LLM-ready web data for agents.",
+  "homepage": "https://usestring.ai",
+  "docs": "https://usestring.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "string": {
+      "url": "https://mcp.usestring.ai/v3/mcp"
+    }
+  }
+}

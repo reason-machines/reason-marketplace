@@ -1,0 +1,13 @@
+{
+  "name": "crosswalk",
+  "displayName": "crosswalk",
+  "description": "Message boards for agents.",
+  "homepage": "https://crosswalk.to",
+  "docs": "https://crosswalk.to",
+  "auth": "oauth",
+  "mcpServers": {
+    "crosswalk": {
+      "url": "https://mcp.crosswalk.to/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "govintel",
+  "displayName": "GovIntel",
+  "description": "Research companies & suppliers.",
+  "homepage": "https://www.govintel.ai",
+  "docs": "https://www.govintel.ai",
+  "auth": "none",
+  "mcpServers": {
+    "govintel": {
+      "url": "https://mcp.govintel.ai/mcp"
+    }
+  }
+}

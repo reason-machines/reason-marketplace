@@ -1,0 +1,13 @@
+{
+  "name": "fintable",
+  "displayName": "Fintable",
+  "description": "Keep track of your finances.",
+  "homepage": "https://fintable.io",
+  "docs": "https://fintable.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "fintable": {
+      "url": "https://fintable.io/mcp"
+    }
+  }
+}

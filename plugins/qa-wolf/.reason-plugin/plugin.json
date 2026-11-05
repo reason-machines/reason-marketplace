@@ -1,0 +1,13 @@
+{
+  "name": "qa-wolf",
+  "displayName": "QA Wolf",
+  "description": "End-to-end test automation.",
+  "homepage": "https://www.qawolf.com",
+  "docs": "https://docs.qawolf.com/qawolf-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "qa-wolf": {
+      "url": "https://app.qawolf.com/api/mcp"
+    }
+  }
+}

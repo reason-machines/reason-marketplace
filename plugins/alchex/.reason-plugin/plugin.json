@@ -1,0 +1,13 @@
+{
+  "name": "alchex",
+  "displayName": "Alchex",
+  "description": "Compliance management software.",
+  "homepage": "https://alchex.com",
+  "docs": "https://alchex.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "alchex": {
+      "url": "https://mcp.alchex.com/mcp"
+    }
+  }
+}

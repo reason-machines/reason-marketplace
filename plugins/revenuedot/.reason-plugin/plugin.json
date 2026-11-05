@@ -1,0 +1,13 @@
+{
+  "name": "revenuedot",
+  "displayName": "RevenueDot",
+  "description": "Run mobile app subscriptions.",
+  "homepage": "https://revenuedot.app",
+  "docs": "https://revenuedot.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "revenuedot": {
+      "url": "https://mcp.revenuedot.app/mcp"
+    }
+  }
+}

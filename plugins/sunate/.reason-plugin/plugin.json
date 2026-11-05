@@ -1,0 +1,13 @@
+{
+  "name": "sunate",
+  "displayName": "Sunate",
+  "description": "Manage your CRM from Reason.",
+  "homepage": "https://www.sunate.app/",
+  "docs": "https://sunate.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "sunate": {
+      "url": "https://crm.sunate.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wealthstoryline",
+  "displayName": "WealthStoryLine",
+  "description": "Retirement & wealth simulator.",
+  "homepage": "https://wealthstoryline.com",
+  "docs": "https://wealthstoryline.com",
+  "auth": "none",
+  "mcpServers": {
+    "wealthstoryline": {
+      "url": "https://wealthstoryline.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "agentcollect",
+  "displayName": "AgentCollect",
+  "description": "Ask your AR portfolio anything.",
+  "homepage": "https://agentcollect.com",
+  "docs": "https://agentcollect.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentcollect": {
+      "url": "https://mcp.agentcollect.com/public-mcp"
+    }
+  }
+}

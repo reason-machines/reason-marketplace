@@ -1,0 +1,13 @@
+{
+  "name": "health-memory",
+  "displayName": "Health Memory",
+  "description": "Manage your health memory.",
+  "homepage": "https://trianglehealth.com",
+  "docs": "https://trianglehealth.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "health-memory": {
+      "url": "https://app.trianglehealth.com/mcp"
+    }
+  }
+}

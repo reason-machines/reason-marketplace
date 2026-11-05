@@ -1,0 +1,13 @@
+{
+  "name": "pair-team-benefits-check",
+  "displayName": "Benefits Check",
+  "description": "Find benefits and local help.",
+  "homepage": "https://pairteam.com",
+  "docs": "https://pairteam.com",
+  "auth": "none",
+  "mcpServers": {
+    "pair-team-benefits-check": {
+      "url": "https://mcp.pairteam.com/mcp"
+    }
+  }
+}

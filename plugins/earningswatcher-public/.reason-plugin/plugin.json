@@ -1,0 +1,13 @@
+{
+  "name": "earningswatcher-public",
+  "displayName": "EarningsWatcher",
+  "description": "Earnings & options research.",
+  "homepage": "https://earnings-watcher.com/wiki",
+  "docs": "https://earnings-watcher.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "earningswatcher-public": {
+      "url": "https://earnings-watcher-mcp-611514391657.us-central1.run.app/mcp"
+    }
+  }
+}

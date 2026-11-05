@@ -1,0 +1,13 @@
+{
+  "name": "ridedesk",
+  "displayName": "RideDesk",
+  "description": "Build transfer booking sites.",
+  "homepage": "https://ridedesk.app/developers",
+  "docs": "https://ridedesk.app/developers",
+  "auth": "none",
+  "mcpServers": {
+    "ridedesk": {
+      "url": "https://ridedesk.app/api/mcp"
+    }
+  }
+}

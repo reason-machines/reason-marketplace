@@ -1,0 +1,13 @@
+{
+  "name": "vivideo",
+  "displayName": "Vivideo",
+  "description": "Create and manage AI videos.",
+  "homepage": "https://vivideo.ai/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.egocen-vivideo/vivideo",
+  "auth": "none",
+  "mcpServers": {
+    "vivideo": {
+      "url": "https://api.vivideo.ai/mcp"
+    }
+  }
+}

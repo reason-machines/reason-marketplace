@@ -1,0 +1,13 @@
+{
+  "name": "nlocale",
+  "displayName": "NLocale",
+  "description": "Explore Aisne, France.",
+  "homepage": "https://nlocale.fr",
+  "docs": "https://nlocale.fr",
+  "auth": "none",
+  "mcpServers": {
+    "nlocale": {
+      "url": "https://nlocale.fr/mcp"
+    }
+  }
+}

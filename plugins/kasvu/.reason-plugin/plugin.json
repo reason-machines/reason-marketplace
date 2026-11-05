@@ -1,0 +1,13 @@
+{
+  "name": "kasvu",
+  "displayName": "Kasvu",
+  "description": "Science-backed training plans.",
+  "homepage": "https://kasvu.fit",
+  "docs": "https://kasvu.fit",
+  "auth": "oauth",
+  "mcpServers": {
+    "kasvu": {
+      "url": "https://mcp.kasvu.fit/mcp"
+    }
+  }
+}

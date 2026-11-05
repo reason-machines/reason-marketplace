@@ -1,0 +1,13 @@
+{
+  "name": "marketing-intelligence",
+  "displayName": "Marketing Intelligence",
+  "description": "Search marketing examples.",
+  "homepage": "https://www.enrichlabs.ai",
+  "docs": "https://www.enrichlabs.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "marketing-intelligence": {
+      "url": "https://enrichlabs.ai/mcp"
+    }
+  }
+}

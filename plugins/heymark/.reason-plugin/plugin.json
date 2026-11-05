@@ -1,0 +1,13 @@
+{
+  "name": "heymark",
+  "displayName": "HeyMark",
+  "description": "Plan, schedule and reply.",
+  "homepage": "https://heymark.ai",
+  "docs": "https://heymark.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "heymark": {
+      "url": "https://mcp.heymark.ai/mcp"
+    }
+  }
+}

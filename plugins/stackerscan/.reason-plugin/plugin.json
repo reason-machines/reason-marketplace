@@ -1,0 +1,13 @@
+{
+  "name": "stackerscan",
+  "displayName": "StackerScan",
+  "description": "Live gold and silver premiums.",
+  "homepage": "https://www.stackerscan.com",
+  "docs": "https://www.stackerscan.com",
+  "auth": "none",
+  "mcpServers": {
+    "stackerscan": {
+      "url": "https://stackerscan.com/mcp"
+    }
+  }
+}

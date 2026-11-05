@@ -1,0 +1,13 @@
+{
+  "name": "atlas",
+  "displayName": "Atlas",
+  "description": "Send & sign contracts in chat.",
+  "homepage": "https://atlaswork.ai",
+  "docs": "https://atlaswork.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlas": {
+      "url": "https://mcp.atlaswork.ai/mcp"
+    }
+  }
+}

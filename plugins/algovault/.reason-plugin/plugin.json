@@ -1,0 +1,13 @@
+{
+  "name": "algovault",
+  "displayName": "AlgoVault",
+  "description": "Crypto trade-call analysis.",
+  "homepage": "https://algovault.com",
+  "docs": "https://algovault.com",
+  "auth": "none",
+  "mcpServers": {
+    "algovault": {
+      "url": "https://api.algovault.com/mcp?src=landing"
+    }
+  }
+}

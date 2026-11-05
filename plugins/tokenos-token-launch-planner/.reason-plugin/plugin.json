@@ -1,0 +1,13 @@
+{
+  "name": "tokenos-token-launch-planner",
+  "displayName": "TokenOS Token Launch Planner",
+  "description": "Plan a Solana token launch.",
+  "homepage": "https://tokenos.ai/chatgpt-apps/token-launch-planner",
+  "docs": "https://tokenos.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "tokenos-token-launch-planner": {
+      "url": "https://tokenos.ai/api/mcp/apps/token-launch-planner"
+    }
+  }
+}

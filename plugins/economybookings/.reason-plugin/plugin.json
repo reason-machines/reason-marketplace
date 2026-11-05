@@ -1,0 +1,13 @@
+{
+  "name": "economybookings",
+  "displayName": "EconomyBookings",
+  "description": "Find and compare rental cars.",
+  "homepage": "https://www.economybookings.com",
+  "docs": "https://www.economybookings.com",
+  "auth": "none",
+  "mcpServers": {
+    "economybookings": {
+      "url": "https://mcp.economybookings.com/mcp"
+    }
+  }
+}

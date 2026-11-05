@@ -1,0 +1,13 @@
+{
+  "name": "better-email",
+  "displayName": "Better Email",
+  "description": "Build on-brand email campaigns.",
+  "homepage": "https://better.email",
+  "docs": "https://better.email",
+  "auth": "oauth",
+  "mcpServers": {
+    "better-email": {
+      "url": "https://mcp.better.email/mcp"
+    }
+  }
+}

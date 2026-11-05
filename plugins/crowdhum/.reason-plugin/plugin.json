@@ -1,0 +1,13 @@
+{
+  "name": "crowdhum",
+  "displayName": "CrowdHum",
+  "description": "Cinematic live polling.",
+  "homepage": "https://crowdhum.com",
+  "docs": "https://crowdhum.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "crowdhum": {
+      "url": "https://mcp.crowdhum.com/mcp"
+    }
+  }
+}

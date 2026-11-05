@@ -1,0 +1,13 @@
+{
+  "name": "clear-energy-facts",
+  "displayName": "Clear Energy Facts",
+  "description": "Compare electricity rates.",
+  "homepage": "https://clearenergyfacts.com/en",
+  "docs": "https://clearenergyfacts.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "clear-energy-facts": {
+      "url": "https://mcp.clearenergyfacts.com/mcp"
+    }
+  }
+}

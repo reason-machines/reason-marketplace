@@ -1,0 +1,13 @@
+{
+  "name": "thedogs-app",
+  "displayName": "TheDogs.app",
+  "description": "Dog breed fit & real vet costs.",
+  "homepage": "https://thedogs.app",
+  "docs": "https://thedogs.app",
+  "auth": "none",
+  "mcpServers": {
+    "thedogs-app": {
+      "url": "https://mcp.thedogs.app/mcp"
+    }
+  }
+}

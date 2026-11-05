@@ -1,0 +1,13 @@
+{
+  "name": "misar-blog",
+  "displayName": "Misar.Blog",
+  "description": "Write and publish blog posts.",
+  "homepage": "https://www.misar.blog",
+  "docs": "https://www.misar.blog",
+  "auth": "oauth",
+  "mcpServers": {
+    "misar-blog": {
+      "url": "https://mcp.misar.blog/mcp"
+    }
+  }
+}

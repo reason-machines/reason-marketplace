@@ -1,0 +1,13 @@
+{
+  "name": "muziek-maken-met-ai",
+  "displayName": "Muziek maken met AI",
+  "description": "Make original songs in chat.",
+  "homepage": "https://muziekmakenmetai.nl/ai-assistent/",
+  "docs": "https://muziekmakenmetai.nl/ai-assistent/",
+  "auth": "oauth",
+  "mcpServers": {
+    "muziek-maken-met-ai": {
+      "url": "https://muziekmakenmetai.nl/mcp"
+    }
+  }
+}

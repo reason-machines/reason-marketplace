@@ -1,0 +1,13 @@
+{
+  "name": "api-documentation-checker",
+  "displayName": "API Documentation Checker",
+  "description": "Check API documentation.",
+  "homepage": "https://api-documentation-checker.sidcraigau.workers.dev",
+  "docs": "https://api-documentation-checker.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "api-documentation-checker": {
+      "url": "https://api-documentation-checker.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

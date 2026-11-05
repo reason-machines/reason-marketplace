@@ -1,0 +1,13 @@
+{
+  "name": "classwise-school-and-district",
+  "displayName": "ClassWise School & District",
+  "description": "School & district insights.",
+  "homepage": "https://class-wise.com",
+  "docs": "https://class-wise.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "classwise-school-and-district": {
+      "url": "https://mcp.class-wise.com/mcp"
+    }
+  }
+}

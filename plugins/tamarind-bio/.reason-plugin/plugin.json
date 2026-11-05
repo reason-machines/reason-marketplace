@@ -1,0 +1,13 @@
+{
+  "name": "tamarind-bio",
+  "displayName": "Tamarind Bio",
+  "description": "Protein and molecular design.",
+  "homepage": "https://www.tamarind.bio/",
+  "docs": "https://www.tamarind.bio/",
+  "auth": "oauth",
+  "mcpServers": {
+    "tamarind-bio": {
+      "url": "https://mcp.tamarind.bio/mcp"
+    }
+  }
+}

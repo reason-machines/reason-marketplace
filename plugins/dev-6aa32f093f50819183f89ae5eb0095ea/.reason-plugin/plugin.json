@@ -1,0 +1,13 @@
+{
+  "name": "dev-6aa32f093f50819183f89ae5eb0095ea",
+  "displayName": "Hardware API",
+  "description": "Preview, quote and 3D print.",
+  "homepage": "https://www.hardwareapi.dev",
+  "docs": "https://www.hardwareapi.dev",
+  "auth": "none",
+  "mcpServers": {
+    "dev-6aa32f093f50819183f89ae5eb0095ea": {
+      "url": "https://hardwareapi.dev/mcp"
+    }
+  }
+}

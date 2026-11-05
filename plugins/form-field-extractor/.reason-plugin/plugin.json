@@ -1,0 +1,13 @@
+{
+  "name": "form-field-extractor",
+  "displayName": "Form Field Extractor",
+  "description": "Extract form fields.",
+  "homepage": "https://task-app-hub-form-processing.sidcraigau.workers.dev/form-field-extractor",
+  "docs": "https://task-app-hub-form-processing.sidcraigau.workers.dev/form-field-extractor",
+  "auth": "none",
+  "mcpServers": {
+    "form-field-extractor": {
+      "url": "https://task-app-hub-form-processing.sidcraigau.workers.dev/form-field-extractor/mcp"
+    }
+  }
+}

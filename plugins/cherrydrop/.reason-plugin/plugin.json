@@ -1,0 +1,13 @@
+{
+  "name": "cherrydrop",
+  "displayName": "CherryDrop",
+  "description": "Save and share your drops.",
+  "homepage": "https://cherry-drop.io",
+  "docs": "https://cherry-drop.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "cherrydrop": {
+      "url": "https://cherry-drop.io/mcp"
+    }
+  }
+}

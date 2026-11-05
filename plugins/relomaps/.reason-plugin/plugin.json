@@ -1,0 +1,13 @@
+{
+  "name": "relomaps",
+  "displayName": "ReloMaps",
+  "description": "Find the best place to live.",
+  "homepage": "https://relomaps.com/chatgpt",
+  "docs": "https://relomaps.com/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "relomaps": {
+      "url": "https://mcp.relomaps.com/mcp"
+    }
+  }
+}

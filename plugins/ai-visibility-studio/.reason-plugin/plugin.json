@@ -1,0 +1,13 @@
+{
+  "name": "ai-visibility-studio",
+  "displayName": "AI Visibility Studio",
+  "description": "Inspect and recheck your pages.",
+  "homepage": "https://aivisibilitystudio.com/plugin-support",
+  "docs": "https://aivisibilitystudio.com/plugin-support",
+  "auth": "none",
+  "mcpServers": {
+    "ai-visibility-studio": {
+      "url": "https://aivisibilitystudio.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "synthesis-astrology",
+  "displayName": "Synthesis Astrology",
+  "description": "Your zodiac sign composition.",
+  "homepage": "https://synthesisastrology.com",
+  "docs": "https://synthesisastrology.com",
+  "auth": "none",
+  "mcpServers": {
+    "synthesis-astrology": {
+      "url": "https://synthesisastrology.com/mcp"
+    }
+  }
+}

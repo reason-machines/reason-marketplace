@@ -1,0 +1,13 @@
+{
+  "name": "chatbotgen",
+  "displayName": "ChatbotGen",
+  "description": "Build a website chatbot.",
+  "homepage": "https://www.chatbotgen.com",
+  "docs": "https://chatbotgen.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "chatbotgen": {
+      "url": "https://www.chatbotgen.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "storra-for-creators",
+  "displayName": "Storra for Creators",
+  "description": "Charity stories to tell.",
+  "homepage": "https://getstorra.com",
+  "docs": "https://getstorra.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "storra-for-creators": {
+      "url": "https://mcp.getstorra.com/mcp"
+    }
+  }
+}

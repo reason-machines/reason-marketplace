@@ -1,0 +1,13 @@
+{
+  "name": "whoovia",
+  "displayName": "Whoovia",
+  "description": "Manage homebuyer profiles.",
+  "homepage": "https://whoovia.com",
+  "docs": "https://whoovia.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "whoovia": {
+      "url": "https://mcp.whoovia.com/mcp"
+    }
+  }
+}

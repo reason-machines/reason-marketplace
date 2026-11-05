@@ -1,0 +1,13 @@
+{
+  "name": "aiflowchart",
+  "displayName": "AI Flowchart",
+  "description": "Turn ideas into diagrams.",
+  "homepage": "https://aiflowchart.io",
+  "docs": "https://aiflowchart.io",
+  "auth": "none",
+  "mcpServers": {
+    "aiflowchart": {
+      "url": "https://mcp.aiflowchart.io/mcp"
+    }
+  }
+}

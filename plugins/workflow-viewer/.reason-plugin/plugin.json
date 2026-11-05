@@ -1,0 +1,13 @@
+{
+  "name": "workflow-viewer",
+  "displayName": "Workflow Viewer",
+  "description": "Map workflows through chat.",
+  "homepage": "https://workflow-viewer.workflow-atlas.workers.dev",
+  "docs": "https://workflow-viewer.workflow-atlas.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "workflow-viewer": {
+      "url": "https://workflow-viewer.workflow-atlas.workers.dev/mcp"
+    }
+  }
+}

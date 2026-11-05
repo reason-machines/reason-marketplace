@@ -1,0 +1,13 @@
+{
+  "name": "e-esim",
+  "displayName": "e-eSIM",
+  "description": "Find travel eSIM plans.",
+  "homepage": "https://e-esim.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.e-esim/esim-catalog",
+  "auth": "none",
+  "mcpServers": {
+    "e-esim": {
+      "url": "https://e-esim.com/wp-json/e-esim/mcp"
+    }
+  }
+}

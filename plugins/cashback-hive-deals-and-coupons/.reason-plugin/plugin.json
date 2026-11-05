@@ -1,0 +1,13 @@
+{
+  "name": "cashback-hive-deals-and-coupons",
+  "displayName": "Cashback Hive: Deals & Coupons",
+  "description": "Save on every purchase.",
+  "homepage": "https://cashbackhive.com/",
+  "docs": "https://cashbackhive.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "cashback-hive-deals-and-coupons": {
+      "url": "https://mcp.cashbackhive.com/mcp"
+    }
+  }
+}

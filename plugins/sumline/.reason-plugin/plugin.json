@@ -1,0 +1,13 @@
+{
+  "name": "sumline",
+  "displayName": "Sumline",
+  "description": "Real estate deal calculations.",
+  "homepage": "https://usesumline.com",
+  "docs": "https://usesumline.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sumline": {
+      "url": "https://usesumline.com/mcp"
+    }
+  }
+}

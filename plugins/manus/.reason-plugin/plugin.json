@@ -1,0 +1,13 @@
+{
+  "name": "manus",
+  "displayName": "Manus",
+  "description": "Create slides, websites, video.",
+  "homepage": "https://manus.im",
+  "docs": "https://manus.im",
+  "auth": "oauth",
+  "mcpServers": {
+    "manus": {
+      "url": "https://mcp.manus.im/mcp"
+    }
+  }
+}

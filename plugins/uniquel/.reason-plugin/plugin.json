@@ -1,0 +1,13 @@
+{
+  "name": "uniquel",
+  "displayName": "Uniquel UI Components",
+  "description": "Find UI components.",
+  "homepage": "https://uniquel.io",
+  "docs": "https://uniquel.io/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "uniquel": {
+      "url": "https://uniquel.io/api/mcp"
+    }
+  }
+}

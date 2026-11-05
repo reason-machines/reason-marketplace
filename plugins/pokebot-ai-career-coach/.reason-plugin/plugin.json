@@ -1,0 +1,13 @@
+{
+  "name": "pokebot-ai-career-coach",
+  "displayName": "PokeBot.ai Career Coach",
+  "description": "Resume, interview, job prep.",
+  "homepage": "https://pokebot.ai",
+  "docs": "https://pokebot.ai",
+  "auth": "none",
+  "mcpServers": {
+    "pokebot-ai-career-coach": {
+      "url": "https://mcp.pokebot.ai/mcp"
+    }
+  }
+}

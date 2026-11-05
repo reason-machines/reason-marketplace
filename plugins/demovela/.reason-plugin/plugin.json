@@ -1,0 +1,13 @@
+{
+  "name": "demovela",
+  "displayName": "Demovela",
+  "description": "Browse videos and save drafts.",
+  "homepage": "https://demovela.com",
+  "docs": "https://demovela.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "demovela": {
+      "url": "https://mcp.demovela.com/mcp"
+    }
+  }
+}

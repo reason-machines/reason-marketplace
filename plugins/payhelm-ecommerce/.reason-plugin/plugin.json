@@ -1,0 +1,13 @@
+{
+  "name": "payhelm-ecommerce",
+  "displayName": "PayHelm",
+  "description": "Ecommerce data and actions.",
+  "homepage": "https://payhelm.com",
+  "docs": "https://payhelm.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "payhelm-ecommerce": {
+      "url": "https://mcp.payhelm.com/mcp"
+    }
+  }
+}

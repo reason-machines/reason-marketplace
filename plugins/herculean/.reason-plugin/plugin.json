@@ -1,0 +1,13 @@
+{
+  "name": "herculean",
+  "displayName": "Herculean",
+  "description": "Personal planning & execution.",
+  "homepage": "https://herculean.chat",
+  "docs": "https://herculean.chat",
+  "auth": "oauth",
+  "mcpServers": {
+    "herculean": {
+      "url": "https://mcp.herculean.chat/mcp"
+    }
+  }
+}

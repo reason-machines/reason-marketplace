@@ -1,0 +1,13 @@
+{
+  "name": "propertyradar",
+  "displayName": "PropertyRadar",
+  "description": "Search U.S. property data.",
+  "homepage": "https://www.propertyradar.com/features/api",
+  "docs": "https://www.propertyradar.com/features/api",
+  "auth": "oauth",
+  "mcpServers": {
+    "propertyradar": {
+      "url": "https://mcp.propertyradar.com/mcp"
+    }
+  }
+}

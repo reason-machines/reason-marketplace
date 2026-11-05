@@ -1,0 +1,13 @@
+{
+  "name": "the-visa-services",
+  "displayName": "The Visa Services",
+  "description": "Visa answers and applications.",
+  "homepage": "https://www.thevisa.com",
+  "docs": "https://www.thevisa.com",
+  "auth": "none",
+  "mcpServers": {
+    "the-visa-services": {
+      "url": "https://mcp.thevisa.com/mcp"
+    }
+  }
+}

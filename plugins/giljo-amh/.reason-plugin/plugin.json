@@ -1,0 +1,13 @@
+{
+  "name": "giljo-amh",
+  "displayName": "Giljo Agent Message Hub",
+  "description": "Shared threads for AI agents.",
+  "homepage": "https://www.giljo.ai/documentation/amh/",
+  "docs": "https://www.giljo.ai/documentation/amh/",
+  "auth": "oauth",
+  "mcpServers": {
+    "giljo-amh": {
+      "url": "https://amh.giljo.ai/mcp"
+    }
+  }
+}

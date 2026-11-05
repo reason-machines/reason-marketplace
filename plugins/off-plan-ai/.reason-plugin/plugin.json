@@ -1,0 +1,13 @@
+{
+  "name": "off-plan-ai",
+  "displayName": "Off Plan AI",
+  "description": "Saudi off-plan projects.",
+  "homepage": "https://www.offplan.sa",
+  "docs": "https://www.offplan.sa",
+  "auth": "none",
+  "mcpServers": {
+    "off-plan-ai": {
+      "url": "https://mcp.offplan.sa/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "openseo",
+  "displayName": "OpenSEO",
+  "description": "SEO made simple.",
+  "homepage": "https://openseo.so",
+  "docs": "https://openseo.so/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "openseo": {
+      "url": "https://app.openseo.so/mcp"
+    }
+  }
+}

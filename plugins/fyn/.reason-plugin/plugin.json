@@ -1,0 +1,13 @@
+{
+  "name": "fyn",
+  "displayName": "FYN",
+  "description": "Budgets, receipts and spending.",
+  "homepage": "https://fyn.fyi",
+  "docs": "https://fyn.fyi",
+  "auth": "oauth",
+  "mcpServers": {
+    "fyn": {
+      "url": "https://mcp.fyn.fyi/"
+    }
+  }
+}

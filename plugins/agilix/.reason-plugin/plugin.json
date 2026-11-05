@@ -1,0 +1,13 @@
+{
+  "name": "agilix",
+  "displayName": "Agilix",
+  "description": "Dog-sport club classes.",
+  "homepage": "https://agilix.dog/ai-assistants",
+  "docs": "https://api.agilix.dog/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "agilix": {
+      "url": "https://api.agilix.dog/mcp"
+    }
+  }
+}

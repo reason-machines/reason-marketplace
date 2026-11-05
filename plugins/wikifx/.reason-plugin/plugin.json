@@ -1,0 +1,13 @@
+{
+  "name": "wikifx",
+  "displayName": "WikiFx",
+  "description": "Check Brokers, View Reviews.",
+  "homepage": "https://www.wikifx.com/",
+  "docs": "https://tedix.dev/apps/wikifx/",
+  "auth": "none",
+  "mcpServers": {
+    "wikifx": {
+      "url": "https://amp.eeeoeee.com/mcp"
+    }
+  }
+}

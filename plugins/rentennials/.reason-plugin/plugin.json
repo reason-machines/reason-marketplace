@@ -1,0 +1,13 @@
+{
+  "name": "rentennials",
+  "displayName": "Rentennials",
+  "description": "Find and book rental cars.",
+  "homepage": "https://www.rentennials.app",
+  "docs": "https://www.rentennials.app",
+  "auth": "none",
+  "mcpServers": {
+    "rentennials": {
+      "url": "https://mcp.rentennials.app/mcp"
+    }
+  }
+}

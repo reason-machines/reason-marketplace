@@ -1,0 +1,13 @@
+{
+  "name": "pft-edgebook-trading-journal",
+  "displayName": "PFT Edgebook - Trading Journal",
+  "description": "AI-ready trading journal.",
+  "homepage": "https://profuturestrading.de",
+  "docs": "https://profuturestrading.de/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "pft-edgebook-trading-journal": {
+      "url": "https://pft-edgebook-mcp.insider-f82.workers.dev/mcp"
+    }
+  }
+}

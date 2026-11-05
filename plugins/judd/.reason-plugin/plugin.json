@@ -1,0 +1,13 @@
+{
+  "name": "judd",
+  "displayName": "Judd",
+  "description": "Your buyer's advocate.",
+  "homepage": "https://flowinfo.co/judd",
+  "docs": "https://flowinfo.co/judd",
+  "auth": "oauth",
+  "mcpServers": {
+    "judd": {
+      "url": "https://judd.flowinfo.co/mcp"
+    }
+  }
+}

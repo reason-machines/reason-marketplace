@@ -1,0 +1,13 @@
+{
+  "name": "practicpro",
+  "displayName": "PracticPro",
+  "description": "The CRM for service businesses.",
+  "homepage": "https://practicpro.com/",
+  "docs": "https://practicpro.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "practicpro": {
+      "url": "https://mcp.practicpro.com/mcp"
+    }
+  }
+}

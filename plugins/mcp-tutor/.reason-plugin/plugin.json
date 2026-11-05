@@ -1,0 +1,13 @@
+{
+  "name": "mcp-tutor",
+  "displayName": "MCP Tutor",
+  "description": "Training, playbooks & sales.",
+  "homepage": "https://www.mcptutor.com",
+  "docs": "https://www.mcptutor.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mcp-tutor": {
+      "url": "https://mcp.mcptutor.com/mcp"
+    }
+  }
+}

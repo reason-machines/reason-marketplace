@@ -1,0 +1,13 @@
+{
+  "name": "the-learning-mate",
+  "displayName": "The Learning Mate",
+  "description": "Ask about your class results.",
+  "homepage": "https://thelearningmate.com",
+  "docs": "https://thelearningmate.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "the-learning-mate": {
+      "url": "https://thelearningmate.com/api/mcp"
+    }
+  }
+}

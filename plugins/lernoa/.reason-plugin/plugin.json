@@ -1,0 +1,13 @@
+{
+  "name": "lernoa",
+  "displayName": "Lernoa",
+  "description": "Build courses and flashcards.",
+  "homepage": "https://lernoa.com/",
+  "docs": "https://lernoa.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "lernoa": {
+      "url": "https://mcp.lernoa.com/"
+    }
+  }
+}

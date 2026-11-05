@@ -1,0 +1,13 @@
+{
+  "name": "your-va-benefits",
+  "displayName": "Your VA Benefits",
+  "description": "VA benefits and VSO tools.",
+  "homepage": "https://yourvabenefits.com",
+  "docs": "https://yourvabenefits.com",
+  "auth": "none",
+  "mcpServers": {
+    "your-va-benefits": {
+      "url": "https://mcp.yourvabenefits.com/mcp"
+    }
+  }
+}

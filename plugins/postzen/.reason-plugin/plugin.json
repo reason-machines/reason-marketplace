@@ -1,0 +1,13 @@
+{
+  "name": "postzen",
+  "displayName": "PostZen",
+  "description": "Publish and analyze posts.",
+  "homepage": "https://www.postzen.dev/",
+  "docs": "https://www.postzen.dev/",
+  "auth": "oauth",
+  "mcpServers": {
+    "postzen": {
+      "url": "https://mcp.postzen.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "voxeldraft",
+  "displayName": "VoxelDraft",
+  "description": "Create and export voxel art.",
+  "homepage": "https://voxeldraft.com",
+  "docs": "https://voxeldraft.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "voxeldraft": {
+      "url": "https://voxeldraft.com/api/mcp"
+    }
+  }
+}

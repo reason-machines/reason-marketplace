@@ -1,0 +1,13 @@
+{
+  "name": "time-machine",
+  "displayName": "Time Machine",
+  "description": "AI-powered learning platform.",
+  "homepage": "https://timeml.ai",
+  "docs": "https://timeml.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "time-machine": {
+      "url": "https://api.timeml.ai/api/v1/mcp"
+    }
+  }
+}

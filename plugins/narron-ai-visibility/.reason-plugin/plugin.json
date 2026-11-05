@@ -1,0 +1,13 @@
+{
+  "name": "narron-ai-visibility",
+  "displayName": "Narron",
+  "description": "AI search visibility.",
+  "homepage": "https://lens.narron.io",
+  "docs": "https://lens.narron.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "narron-ai-visibility": {
+      "url": "https://mcp.narron.io/mcp"
+    }
+  }
+}

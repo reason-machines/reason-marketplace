@@ -1,0 +1,13 @@
+{
+  "name": "mopmob",
+  "displayName": "MopMob",
+  "description": "Manage premium cleans.",
+  "homepage": "https://mopmob.co.uk",
+  "docs": "https://mopmob.co.uk",
+  "auth": "oauth",
+  "mcpServers": {
+    "mopmob": {
+      "url": "https://mcp.mopmob.co.uk/mcp"
+    }
+  }
+}

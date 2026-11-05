@@ -1,0 +1,13 @@
+{
+  "name": "releasemyad-newspaper-ads",
+  "displayName": "releaseMyAd Newspaper Ads",
+  "description": "Newspaper ad rates & booking.",
+  "homepage": "https://www.releasemyad.com",
+  "docs": "https://www.releasemyad.com",
+  "auth": "none",
+  "mcpServers": {
+    "releasemyad-newspaper-ads": {
+      "url": "https://mcp.releasemyad.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sessionboard",
+  "displayName": "Sessionboard",
+  "description": "Query and manage event data.",
+  "homepage": "https://www.sessionboard.com",
+  "docs": "https://www.sessionboard.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sessionboard": {
+      "url": "https://mcp.sessionboard.com/mcp"
+    }
+  }
+}

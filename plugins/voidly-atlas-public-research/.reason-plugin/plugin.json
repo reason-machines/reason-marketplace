@@ -1,0 +1,13 @@
+{
+  "name": "voidly-atlas-public-research",
+  "displayName": "Voidly Atlas",
+  "description": "Public censorship research.",
+  "homepage": "https://voidly.ai/llms.txt",
+  "docs": "https://voidly.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "voidly-atlas-public-research": {
+      "url": "https://api.voidly.ai/mcp"
+    }
+  }
+}

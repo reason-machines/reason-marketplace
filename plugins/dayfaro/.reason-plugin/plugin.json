@@ -1,0 +1,13 @@
+{
+  "name": "dayfaro",
+  "displayName": "Dayfaro",
+  "description": "Turn your text into podcasts.",
+  "homepage": "https://dayfaro.com",
+  "docs": "https://dayfaro.com/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "dayfaro": {
+      "url": "https://api.dayfaro.com/v1/mcp"
+    }
+  }
+}

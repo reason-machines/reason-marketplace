@@ -1,0 +1,13 @@
+{
+  "name": "kalk-nma-yat-r-m-bankas",
+  "displayName": "Kalkınma Yatırım Bankası",
+  "description": "Public TKYB Information.",
+  "homepage": "https://kalkinma.com.tr/",
+  "docs": "https://kalkinma.com.tr/",
+  "auth": "none",
+  "mcpServers": {
+    "kalk-nma-yat-r-m-bankas": {
+      "url": "https://mcp.kalkinma.com.tr/mcp"
+    }
+  }
+}

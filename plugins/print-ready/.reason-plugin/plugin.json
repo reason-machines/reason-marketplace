@@ -1,0 +1,13 @@
+{
+  "name": "print-ready",
+  "displayName": "Print Ready",
+  "description": "Design useful printable parts.",
+  "homepage": "https://printreadyparts.com",
+  "docs": "https://printreadyparts.com",
+  "auth": "none",
+  "mcpServers": {
+    "print-ready": {
+      "url": "https://printreadyparts.com/mcp"
+    }
+  }
+}

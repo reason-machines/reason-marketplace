@@ -1,0 +1,13 @@
+{
+  "name": "rezervaonline",
+  "displayName": "RezervaOnline",
+  "description": "Rezervă cazare în România.",
+  "homepage": "https://rezervaonline.ro",
+  "docs": "https://rezervaonline.ro",
+  "auth": "none",
+  "mcpServers": {
+    "rezervaonline": {
+      "url": "https://rezervaonline.ro/mcp"
+    }
+  }
+}

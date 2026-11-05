@@ -1,0 +1,13 @@
+{
+  "name": "kukini",
+  "displayName": "Kukini",
+  "description": "Organize your family & home.",
+  "homepage": "https://kukiniapp.com",
+  "docs": "https://kukiniapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "kukini": {
+      "url": "https://kukiniapp.com/mcp"
+    }
+  }
+}

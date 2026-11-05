@@ -1,0 +1,13 @@
+{
+  "name": "beatandraise",
+  "displayName": "beatandraise",
+  "description": "Search SEC filings.",
+  "homepage": "https://beatandraise.com",
+  "docs": "https://beatandraise.com",
+  "auth": "none",
+  "mcpServers": {
+    "beatandraise": {
+      "url": "https://mcp.beatandraise.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nextcard",
+  "displayName": "nextcard",
+  "description": "Cards, credits, and rewards.",
+  "homepage": "https://www.nextcard.com/mcp",
+  "docs": "https://www.nextcard.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "nextcard": {
+      "url": "https://mcp.nextcard.com/mcp"
+    }
+  }
+}

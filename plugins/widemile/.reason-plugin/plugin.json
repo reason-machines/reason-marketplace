@@ -1,0 +1,13 @@
+{
+  "name": "widemile",
+  "displayName": "Widemile",
+  "description": "Create videos, images & music.",
+  "homepage": "https://widemile.ai/",
+  "docs": "https://widemile.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "widemile": {
+      "url": "https://mcp.widemile.ai/mcp"
+    }
+  }
+}

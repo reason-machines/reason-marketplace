@@ -1,0 +1,13 @@
+{
+  "name": "blockworks",
+  "displayName": "Blockworks",
+  "description": "Find crypto & blockchain data.",
+  "homepage": "https://blockworks.com",
+  "docs": "https://blockworks.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "blockworks": {
+      "url": "https://mcp.blockworks.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "leapcast",
+  "displayName": "Leapcast",
+  "description": "Meetings, notes and recordings.",
+  "homepage": "https://leapcast.ai",
+  "docs": "https://leapcast.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "leapcast": {
+      "url": "https://mcp.leapcast.ai/mcp"
+    }
+  }
+}

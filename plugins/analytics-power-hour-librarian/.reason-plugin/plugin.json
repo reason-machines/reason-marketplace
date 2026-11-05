@@ -1,0 +1,13 @@
+{
+  "name": "analytics-power-hour-librarian",
+  "displayName": "Analytics Power Hour Librarian",
+  "description": "Search and quote transcripts.",
+  "homepage": "https://analyticshour.io",
+  "docs": "https://analyticshour.io",
+  "auth": "none",
+  "mcpServers": {
+    "analytics-power-hour-librarian": {
+      "url": "https://mcp.analyticshour.io/mcp"
+    }
+  }
+}

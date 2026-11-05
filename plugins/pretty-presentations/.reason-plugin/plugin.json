@@ -1,0 +1,13 @@
+{
+  "name": "pretty-presentations",
+  "displayName": "Pretty",
+  "description": "Design PowerPoint slides.",
+  "homepage": "https://make-pretty.com",
+  "docs": "https://docs.make-pretty.com/mcp/overview",
+  "auth": "oauth",
+  "mcpServers": {
+    "pretty-presentations": {
+      "url": "https://api.make-pretty.com/mcp"
+    }
+  }
+}

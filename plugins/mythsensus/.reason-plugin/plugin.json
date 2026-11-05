@@ -1,0 +1,13 @@
+{
+  "name": "mythsensus",
+  "displayName": "Mythsensus",
+  "description": "Compare 26 astrology systems.",
+  "homepage": "https://mythsensus.com",
+  "docs": "https://mythsensus.com",
+  "auth": "none",
+  "mcpServers": {
+    "mythsensus": {
+      "url": "https://mythsensus.com/mcp"
+    }
+  }
+}

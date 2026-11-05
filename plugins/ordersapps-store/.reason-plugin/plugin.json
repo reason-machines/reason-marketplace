@@ -1,0 +1,13 @@
+{
+  "name": "ordersapps-store",
+  "displayName": "OrdersApps",
+  "description": "Run your online store by chat.",
+  "homepage": "https://www.ordersapps.com",
+  "docs": "https://www.ordersapps.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ordersapps-store": {
+      "url": "https://mcp.ordersapps.com/mcp"
+    }
+  }
+}

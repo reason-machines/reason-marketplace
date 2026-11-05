@@ -1,0 +1,13 @@
+{
+  "name": "phone-inc",
+  "displayName": "Phone.inc",
+  "description": "Your business calls in Reason.",
+  "homepage": "https://docs.phone.inc/mcp",
+  "docs": "https://docs.phone.inc/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "phone-inc": {
+      "url": "https://app.phone.inc/mcp"
+    }
+  }
+}

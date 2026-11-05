@@ -1,0 +1,13 @@
+{
+  "name": "alldiscgolf",
+  "displayName": "AllDiscGolf",
+  "description": "Compare disc golf prices.",
+  "homepage": "https://alldiscgolf.com",
+  "docs": "https://alldiscgolf.com",
+  "auth": "none",
+  "mcpServers": {
+    "alldiscgolf": {
+      "url": "https://alldiscgolf.com/mcp"
+    }
+  }
+}

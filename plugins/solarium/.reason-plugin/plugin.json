@@ -1,0 +1,13 @@
+{
+  "name": "solarium",
+  "displayName": "Solarium",
+  "description": "Bookkeeping your AI can run.",
+  "homepage": "https://trysolarium.com",
+  "docs": "https://trysolarium.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "solarium": {
+      "url": "https://mcp.trysolarium.com/mcp"
+    }
+  }
+}

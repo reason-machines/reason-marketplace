@@ -1,0 +1,13 @@
+{
+  "name": "meiku-charts",
+  "displayName": "Meiku Charts",
+  "description": "Charts and tables to embed.",
+  "homepage": "https://meikucharts.com",
+  "docs": "https://meikucharts.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "meiku-charts": {
+      "url": "https://meikucharts.com/mcp"
+    }
+  }
+}

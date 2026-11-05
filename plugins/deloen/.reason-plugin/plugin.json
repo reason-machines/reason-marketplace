@@ -1,0 +1,13 @@
+{
+  "name": "deloen",
+  "displayName": "Deloen",
+  "description": "Writing skills for AI models.",
+  "homepage": "https://deloen.com",
+  "docs": "https://deloen.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "deloen": {
+      "url": "https://deloen.com/api/mcp"
+    }
+  }
+}

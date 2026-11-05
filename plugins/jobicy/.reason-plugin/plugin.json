@@ -1,0 +1,13 @@
+{
+  "name": "jobicy",
+  "displayName": "Jobicy",
+  "description": "Find remote jobs and careers.",
+  "homepage": "https://jobicy.com",
+  "docs": "https://jobicy.com",
+  "auth": "none",
+  "mcpServers": {
+    "jobicy": {
+      "url": "https://jobicy.com/mcp"
+    }
+  }
+}

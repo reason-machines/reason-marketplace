@@ -1,0 +1,13 @@
+{
+  "name": "privateauto",
+  "displayName": "PrivateAuto",
+  "description": "Shop used cars.",
+  "homepage": "https://privateauto.com",
+  "docs": "https://privateauto.com",
+  "auth": "none",
+  "mcpServers": {
+    "privateauto": {
+      "url": "https://mcp.privateauto.com/mcp"
+    }
+  }
+}

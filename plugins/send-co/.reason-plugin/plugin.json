@@ -1,0 +1,13 @@
+{
+  "name": "send-co",
+  "displayName": "Send",
+  "description": "Share work as a tracked link.",
+  "homepage": "https://www.send.co/",
+  "docs": "https://www.send.co/",
+  "auth": "oauth",
+  "mcpServers": {
+    "send-co": {
+      "url": "https://send.co/mcp"
+    }
+  }
+}

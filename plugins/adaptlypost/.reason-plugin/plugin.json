@@ -1,0 +1,13 @@
+{
+  "name": "adaptlypost",
+  "displayName": "AdaptlyPost",
+  "description": "Schedule social media posts.",
+  "homepage": "https://adaptlypost.com",
+  "docs": "https://adaptlypost.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "adaptlypost": {
+      "url": "https://mcp.adaptlypost.com/mcp"
+    }
+  }
+}

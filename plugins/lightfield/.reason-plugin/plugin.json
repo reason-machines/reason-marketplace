@@ -1,0 +1,13 @@
+{
+  "name": "lightfield",
+  "displayName": "Lightfield",
+  "description": "Work with your Lightfield CRM.",
+  "homepage": "https://lightfield.app",
+  "docs": "https://lightfield.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "lightfield": {
+      "url": "https://mcp.lightfield.app/mcp"
+    }
+  }
+}

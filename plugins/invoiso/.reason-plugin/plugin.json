@@ -1,0 +1,13 @@
+{
+  "name": "invoiso",
+  "displayName": "invoiso",
+  "description": "Invoicing and bookkeeping.",
+  "homepage": "https://www.invoiso.com",
+  "docs": "https://tedix.dev/apps/invoiso/",
+  "auth": "oauth",
+  "mcpServers": {
+    "invoiso": {
+      "url": "https://www.invoiso.com/api/mcp"
+    }
+  }
+}

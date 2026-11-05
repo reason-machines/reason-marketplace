@@ -1,0 +1,13 @@
+{
+  "name": "mtor-atlas",
+  "displayName": "Oliver's mTOR Atlas",
+  "description": "mTOR research with evidence.",
+  "homepage": "https://mtor-atlas.org",
+  "docs": "https://mtor-atlas.org/api/",
+  "auth": "none",
+  "mcpServers": {
+    "mtor-atlas": {
+      "url": "https://mtor-atlas-mcp.mtor-atlas.workers.dev/mcp"
+    }
+  }
+}

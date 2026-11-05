@@ -1,0 +1,13 @@
+{
+  "name": "puzzel-org",
+  "displayName": "Puzzel.org",
+  "description": "Interactive puzzle maker.",
+  "homepage": "https://puzzel.org/en/features/ai-assistant-connector",
+  "docs": "https://puzzel.org/en/features/ai-assistant-connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "puzzel-org": {
+      "url": "https://puzzel.org/mcp"
+    }
+  }
+}

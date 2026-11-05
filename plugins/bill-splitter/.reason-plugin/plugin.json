@@ -1,0 +1,13 @@
+{
+  "name": "bill-splitter",
+  "displayName": "Bill Splitter",
+  "description": "Share the check.",
+  "homepage": "https://www.widget.olutely.com",
+  "docs": "https://tedix.dev/apps/bill-splitter/",
+  "auth": "none",
+  "mcpServers": {
+    "bill-splitter": {
+      "url": "https://bill-splitter.widgets.widget.olutely.com/mcp"
+    }
+  }
+}

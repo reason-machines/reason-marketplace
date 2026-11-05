@@ -10,5 +10,14 @@
     "speko": {
       "url": "https://mcp.speko.ai/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "speko-phone-call",
+      "description": "Place a real outbound phone call through Speko and read back what was said. Use when the user wants someone actually called on the telephone — booking, confirming, chasing, asking a business a question — or wants to rehearse such a call first, or wants to review a call that already happened.",
+      "source": "spekoai/agent-skills#680e9ad5d9c0f22ba237893a1ae30f12311a137b",
+      "skill": "speko-phone-call",
+      "url": "https://github.com/spekoai/agent-skills/tree/680e9ad5d9c0f22ba237893a1ae30f12311a137b/skills/speko-phone-call"
+    }
+  ]
 }

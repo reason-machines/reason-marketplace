@@ -1,0 +1,13 @@
+{
+  "name": "tessryx",
+  "displayName": "Tessryx",
+  "description": "Build and host live web apps.",
+  "homepage": "https://tessryx.com",
+  "docs": "https://tessryx.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "tessryx": {
+      "url": "https://mcp.tessryx.io/"
+    }
+  }
+}

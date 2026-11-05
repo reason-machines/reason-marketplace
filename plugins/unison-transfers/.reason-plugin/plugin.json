@@ -1,0 +1,13 @@
+{
+  "name": "unison-transfers",
+  "displayName": "Unison Transfers",
+  "description": "Gold Coast airport transfers.",
+  "homepage": "https://www.unisontransfers.com.au",
+  "docs": "https://www.unisontransfers.com.au",
+  "auth": "none",
+  "mcpServers": {
+    "unison-transfers": {
+      "url": "https://mcp.unisontransfers.com.au/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "assembly",
+  "displayName": "Assembly",
+  "description": "Manage client work.",
+  "homepage": "https://assembly.com",
+  "docs": "https://assembly.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "assembly": {
+      "url": "https://mcp.assembly.com/"
+    }
+  }
+}

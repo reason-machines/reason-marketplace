@@ -1,0 +1,13 @@
+{
+  "name": "diamond-painting-converter",
+  "displayName": "Diamond Painting Converter",
+  "description": "Download purchased patterns.",
+  "homepage": "https://diamondpaintingconverter.com/plugin/",
+  "docs": "https://diamondpaintingconverter.com/plugin/",
+  "auth": "oauth",
+  "mcpServers": {
+    "diamond-painting-converter": {
+      "url": "https://diamondpaintingconverter.com/mcp"
+    }
+  }
+}

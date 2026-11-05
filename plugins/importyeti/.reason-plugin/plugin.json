@@ -1,0 +1,13 @@
+{
+  "name": "importyeti",
+  "displayName": "ImportYeti",
+  "description": "Find importers and suppliers.",
+  "homepage": "https://www.importyeti.com/",
+  "docs": "https://www.importyeti.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "importyeti": {
+      "url": "https://data.importyeti.com/mcp"
+    }
+  }
+}

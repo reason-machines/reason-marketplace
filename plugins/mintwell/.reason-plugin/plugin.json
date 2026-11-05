@@ -1,0 +1,13 @@
+{
+  "name": "mintwell",
+  "displayName": "Mintwell",
+  "description": "Your work-optional check.",
+  "homepage": "https://app.mintwell.ai",
+  "docs": "https://app.mintwell.ai",
+  "auth": "none",
+  "mcpServers": {
+    "mintwell": {
+      "url": "https://mintwell.ai/mcp"
+    }
+  }
+}

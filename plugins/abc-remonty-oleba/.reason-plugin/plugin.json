@@ -1,0 +1,13 @@
+{
+  "name": "abc-remonty-oleba",
+  "displayName": "ABC Remonty Oleba",
+  "description": "Renovation info and prices.",
+  "homepage": "https://oleba.pl/",
+  "docs": "https://oleba.pl/",
+  "auth": "none",
+  "mcpServers": {
+    "abc-remonty-oleba": {
+      "url": "https://oleba.pl/mcp"
+    }
+  }
+}

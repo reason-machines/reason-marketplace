@@ -1,0 +1,13 @@
+{
+  "name": "slabline",
+  "displayName": "Slabline",
+  "description": "Card values & AI grading.",
+  "homepage": "https://slabline.ai",
+  "docs": "https://slabline.ai",
+  "auth": "none",
+  "mcpServers": {
+    "slabline": {
+      "url": "https://slabline.ai/mcp"
+    }
+  }
+}

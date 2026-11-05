@@ -1,0 +1,13 @@
+{
+  "name": "dataforseo",
+  "displayName": "DataForSEO",
+  "description": "Get SEO, GEO & marketing data.",
+  "homepage": "https://dataforseo.com/",
+  "docs": "https://dataforseo.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "dataforseo": {
+      "url": "https://mcp.dataforseo.com/mcp"
+    }
+  }
+}

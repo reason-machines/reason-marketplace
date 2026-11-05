@@ -1,0 +1,13 @@
+{
+  "name": "avery-labels",
+  "displayName": "Sheetwise Label Maker",
+  "description": "Address labels from any list.",
+  "homepage": "https://avery-labels.zovo.one",
+  "docs": "https://avery-labels.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "avery-labels": {
+      "url": "https://avery-labels.zovo.one/mcp"
+    }
+  }
+}

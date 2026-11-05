@@ -1,0 +1,13 @@
+{
+  "name": "fintrx",
+  "displayName": "FINTRX",
+  "description": "FINTRX data at your fingertips.",
+  "homepage": "https://www.fintrx.com/",
+  "docs": "https://tedix.dev/apps/fintrx/",
+  "auth": "oauth",
+  "mcpServers": {
+    "fintrx": {
+      "url": "https://aia.fintrx.com/mcp"
+    }
+  }
+}

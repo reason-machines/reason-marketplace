@@ -1,0 +1,13 @@
+{
+  "name": "fridai",
+  "displayName": "FRIDAI",
+  "description": "Review and improve AI replies.",
+  "homepage": "https://fridai.fansnetwork.ai/",
+  "docs": "https://fridai.fansnetwork.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "fridai": {
+      "url": "https://www.fansnetwork.ai/api/mcp/ruleops"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "headcountlabs-places",
+  "displayName": "Headcount Labs Places",
+  "description": "Places open now near you.",
+  "homepage": "https://headcountlabs.com",
+  "docs": "https://headcountlabs.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "headcountlabs-places": {
+      "url": "https://api.headcountlabs.com/mcp"
+    }
+  }
+}

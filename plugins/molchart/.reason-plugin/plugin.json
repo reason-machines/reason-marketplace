@@ -1,0 +1,13 @@
+{
+  "name": "molchart",
+  "displayName": "MolChart",
+  "description": "Draw molecular structures.",
+  "homepage": "https://molchart.com",
+  "docs": "https://molchart.com",
+  "auth": "none",
+  "mcpServers": {
+    "molchart": {
+      "url": "https://molchart.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "manpage-ai",
+  "displayName": "manpage.ai",
+  "description": "Version-aware Linux manuals.",
+  "homepage": "https://manpage.ai/",
+  "docs": "https://manpage.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "manpage-ai": {
+      "url": "https://manpage.ai/mcp"
+    }
+  }
+}

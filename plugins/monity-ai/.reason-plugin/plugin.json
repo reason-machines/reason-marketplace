@@ -1,0 +1,13 @@
+{
+  "name": "monity-ai",
+  "displayName": "monity.ai",
+  "description": "Track website changes.",
+  "homepage": "https://monity.ai",
+  "docs": "https://monity.ai/integrations/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "monity-ai": {
+      "url": "https://api.monity.ai/plugins/mcp"
+    }
+  }
+}

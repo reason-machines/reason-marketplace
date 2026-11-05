@@ -1,0 +1,13 @@
+{
+  "name": "nordiccontacts",
+  "displayName": "NordicContacts",
+  "description": "Find Nordic decision-makers.",
+  "homepage": "https://nordiccontacts.eu/",
+  "docs": "https://nordiccontacts.eu/",
+  "auth": "oauth",
+  "mcpServers": {
+    "nordiccontacts": {
+      "url": "https://nordiccontacts.eu/mcp"
+    }
+  }
+}

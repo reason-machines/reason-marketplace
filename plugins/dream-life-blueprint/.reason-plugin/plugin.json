@@ -1,0 +1,13 @@
+{
+  "name": "dream-life-blueprint",
+  "displayName": "Dream Life Blueprint",
+  "description": "Live your dream life.",
+  "homepage": "https://thedlb.lovable.app/",
+  "docs": "https://thedlb.lovable.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "dream-life-blueprint": {
+      "url": "https://thedlb.lovable.app/mcp"
+    }
+  }
+}

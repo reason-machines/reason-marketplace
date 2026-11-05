@@ -1,0 +1,13 @@
+{
+  "name": "dayonelead",
+  "displayName": "DayOneLead",
+  "description": "Find leads & manage campaigns.",
+  "homepage": "https://dayonelead.com",
+  "docs": "https://dayonelead.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dayonelead": {
+      "url": "https://dayonelead.com/mcp"
+    }
+  }
+}

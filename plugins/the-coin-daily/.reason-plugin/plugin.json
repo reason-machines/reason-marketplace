@@ -1,0 +1,13 @@
+{
+  "name": "the-coin-daily",
+  "displayName": "The Coin Daily",
+  "description": "Your crypto research desk.",
+  "homepage": "https://thecoindaily.co",
+  "docs": "https://thecoindaily.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "the-coin-daily": {
+      "url": "https://mcp.thecoindaily.co/mcp"
+    }
+  }
+}

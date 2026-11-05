@@ -1,0 +1,13 @@
+{
+  "name": "squatch-connect",
+  "displayName": "Squatch Connect",
+  "description": "Travel eSIM plans & prices.",
+  "homepage": "https://www.saasquatchlab.com/squatch-connect",
+  "docs": "https://www.saasquatchlab.com/squatch-connect",
+  "auth": "none",
+  "mcpServers": {
+    "squatch-connect": {
+      "url": "https://saasquatchlab.com/mcp"
+    }
+  }
+}

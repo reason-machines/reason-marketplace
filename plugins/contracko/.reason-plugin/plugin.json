@@ -10,5 +10,14 @@
     "contracko": {
       "url": "https://app.contracko.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "contracko",
+      "description": "Manage contracts in Contracko: import or upload documents, set renewal and notice reminders, review AI analysis and reports, organise folders and types, draft new agreements.",
+      "source": "contracko/contracko-skills#5bb29900b130a87f90d702772a9c40cad129c353",
+      "skill": "contracko",
+      "url": "https://github.com/contracko/contracko-skills/tree/5bb29900b130a87f90d702772a9c40cad129c353/packages/agent-plugin/skills/contracko"
+    }
+  ]
 }

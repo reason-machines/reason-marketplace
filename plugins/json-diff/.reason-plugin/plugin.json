@@ -1,0 +1,13 @@
+{
+  "name": "json-diff",
+  "displayName": "Structura JSON Diff",
+  "description": "Compare JSON paths and types.",
+  "homepage": "https://json-diff.zovo.one",
+  "docs": "https://json-diff.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "json-diff": {
+      "url": "https://json-diff.zovo.one/mcp"
+    }
+  }
+}

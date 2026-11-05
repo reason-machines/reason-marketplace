@@ -1,0 +1,13 @@
+{
+  "name": "capacities",
+  "displayName": "Capacities",
+  "description": "Access personal knowledge.",
+  "homepage": "https://capacities.io",
+  "docs": "https://api.capacities.io/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "capacities": {
+      "url": "https://api.capacities.io/mcp"
+    }
+  }
+}

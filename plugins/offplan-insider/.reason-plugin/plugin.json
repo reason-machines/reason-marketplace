@@ -1,0 +1,13 @@
+{
+  "name": "offplan-insider",
+  "displayName": "Offplan Insider",
+  "description": "UAE off-plan property data.",
+  "homepage": "https://offplaninsider.com",
+  "docs": "https://offplaninsider.com",
+  "auth": "none",
+  "mcpServers": {
+    "offplan-insider": {
+      "url": "https://offplaninsider.com/mcp"
+    }
+  }
+}

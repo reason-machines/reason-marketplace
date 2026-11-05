@@ -1,0 +1,13 @@
+{
+  "name": "raamtrade",
+  "displayName": "RaamTrade",
+  "description": "Invent And Optimize Strategies.",
+  "homepage": "https://raamtrade.com",
+  "docs": "https://raamtrade.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "raamtrade": {
+      "url": "https://mcp.raamtrade.com/mcp"
+    }
+  }
+}

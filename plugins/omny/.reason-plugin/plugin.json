@@ -1,0 +1,13 @@
+{
+  "name": "omny",
+  "displayName": "Omny",
+  "description": "Trouve ton bien immobilier.",
+  "homepage": "https://omny.fr",
+  "docs": "https://omny.fr",
+  "auth": "oauth",
+  "mcpServers": {
+    "omny": {
+      "url": "https://mcp.omny.fr/mcp"
+    }
+  }
+}

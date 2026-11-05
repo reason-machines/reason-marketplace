@@ -1,0 +1,13 @@
+{
+  "name": "trip1",
+  "displayName": "trip1",
+  "description": "Book hotels, pay with crypto.",
+  "homepage": "https://trip1.com",
+  "docs": "https://trip1.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "trip1": {
+      "url": "https://trip1.com/api/mcp"
+    }
+  }
+}

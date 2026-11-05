@@ -1,0 +1,13 @@
+{
+  "name": "prophecy-datagpt",
+  "displayName": "Prophecy DataGPT",
+  "description": "Governed data work in Reason.",
+  "homepage": "https://www.prophecy.ai/",
+  "docs": "https://docs.prophecy.ai/data-analysis/getting-started/datagpt/connect-datagpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "prophecy-datagpt": {
+      "url": "https://app.prophecy.ai/datagpt/mcp"
+    }
+  }
+}

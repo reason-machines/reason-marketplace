@@ -1,0 +1,13 @@
+{
+  "name": "beigecheck",
+  "displayName": "BeigeCheck",
+  "description": "Your company's facts and voice.",
+  "homepage": "https://www.beigecheck.com",
+  "docs": "https://www.beigecheck.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "beigecheck": {
+      "url": "https://mcp.beigecheck.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "radarkit",
+  "displayName": "Radarkit",
+  "description": "Grow your AI Search Visibility.",
+  "homepage": "https://radarkit.ai",
+  "docs": "https://radarkit.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "radarkit": {
+      "url": "https://radarkit.ai/mcp"
+    }
+  }
+}

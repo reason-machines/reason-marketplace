@@ -1,0 +1,13 @@
+{
+  "name": "nestpilot",
+  "displayName": "NestPilot",
+  "description": "Retirement decision tools.",
+  "homepage": "https://www.nestpilot.org",
+  "docs": "https://www.nestpilot.org",
+  "auth": "none",
+  "mcpServers": {
+    "nestpilot": {
+      "url": "https://mcp.nestpilot.org/mcp"
+    }
+  }
+}

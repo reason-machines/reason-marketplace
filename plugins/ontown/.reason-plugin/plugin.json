@@ -1,0 +1,13 @@
+{
+  "name": "ontown",
+  "displayName": "ontown",
+  "description": "What's on in your city.",
+  "homepage": "https://ontown.app",
+  "docs": "https://ontown.app/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "ontown": {
+      "url": "https://ontown.app/mcp/"
+    }
+  }
+}

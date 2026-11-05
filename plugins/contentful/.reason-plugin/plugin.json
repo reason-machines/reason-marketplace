@@ -1,0 +1,13 @@
+{
+  "name": "contentful",
+  "displayName": "Contentful",
+  "description": "Manage content and assets.",
+  "homepage": "https://contentful.com",
+  "docs": "https://contentful.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "contentful": {
+      "url": "https://mcp.contentful.com/mcp"
+    }
+  }
+}

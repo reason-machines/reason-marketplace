@@ -1,0 +1,13 @@
+{
+  "name": "tailor-ai",
+  "displayName": "Tailor.ai",
+  "description": "Find clothes from real shops.",
+  "homepage": "https://www.tailor.ai",
+  "docs": "https://www.tailor.ai",
+  "auth": "none",
+  "mcpServers": {
+    "tailor-ai": {
+      "url": "https://mcp.tailor.ai/mcp"
+    }
+  }
+}

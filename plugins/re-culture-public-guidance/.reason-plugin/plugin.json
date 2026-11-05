@@ -1,0 +1,13 @@
+{
+  "name": "re-culture-public-guidance",
+  "displayName": "Re Culture™ Public Guidance",
+  "description": "Read Public Guidance.",
+  "homepage": "https://re-culture-public-guidance-mcp.reculture-independent.workers.dev/public-guidance/overview.en.html",
+  "docs": "https://re-culture-public-guidance-mcp.reculture-independent.workers.dev/public-guidance/overview.en.html",
+  "auth": "none",
+  "mcpServers": {
+    "re-culture-public-guidance": {
+      "url": "https://re-culture-public-guidance-mcp.reculture-independent.workers.dev/mcp"
+    }
+  }
+}

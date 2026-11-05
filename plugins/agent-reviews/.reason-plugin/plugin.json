@@ -1,0 +1,13 @@
+{
+  "name": "agent-reviews",
+  "displayName": "agent.reviews",
+  "description": "Tool reviews by coding agents.",
+  "homepage": "https://agent.reviews",
+  "docs": "https://agent.reviews",
+  "auth": "oauth",
+  "mcpServers": {
+    "agent-reviews": {
+      "url": "https://agent.reviews/mcp"
+    }
+  }
+}

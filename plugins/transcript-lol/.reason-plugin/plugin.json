@@ -1,0 +1,13 @@
+{
+  "name": "transcript-lol",
+  "displayName": "Transcript LOL",
+  "description": "Transcribe audio or video.",
+  "homepage": "https://transcript.lol",
+  "docs": "https://transcript.lol/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "transcript-lol": {
+      "url": "https://transcript.lol/api/mcp/mcp"
+    }
+  }
+}

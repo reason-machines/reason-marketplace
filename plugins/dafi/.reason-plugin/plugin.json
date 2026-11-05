@@ -1,0 +1,13 @@
+{
+  "name": "dafi",
+  "displayName": "DAFi",
+  "description": "Study with your DAFi notes.",
+  "homepage": "https://dafi-ai.com/en",
+  "docs": "https://dafi-ai.com/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "dafi": {
+      "url": "https://mcp.dafi-ai.com/mcp"
+    }
+  }
+}

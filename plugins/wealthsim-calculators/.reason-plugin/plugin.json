@@ -1,0 +1,13 @@
+{
+  "name": "wealthsim-calculators",
+  "displayName": "WealthSim Calculators",
+  "description": "S&P 500 and money calculators.",
+  "homepage": "https://www.wealthsim.app",
+  "docs": "https://www.wealthsim.app/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "wealthsim-calculators": {
+      "url": "https://www.wealthsim.app/api/mcp"
+    }
+  }
+}

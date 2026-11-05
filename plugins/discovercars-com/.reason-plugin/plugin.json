@@ -1,0 +1,13 @@
+{
+  "name": "discovercars-com",
+  "displayName": "DiscoverCars.com",
+  "description": "Car rental comparison platform.",
+  "homepage": "https://www.discovercars.com/",
+  "docs": "https://www.discovercars.com/",
+  "auth": "none",
+  "mcpServers": {
+    "discovercars-com": {
+      "url": "https://mcp.discovercars.com/mcp"
+    }
+  }
+}

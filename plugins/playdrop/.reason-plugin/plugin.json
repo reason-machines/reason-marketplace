@@ -1,0 +1,13 @@
+{
+  "name": "playdrop",
+  "displayName": "PlayDrop",
+  "description": "Build, test and share games.",
+  "homepage": "https://www.playdrop.ai/docs/connectors",
+  "docs": "https://www.playdrop.ai/docs/connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "playdrop": {
+      "url": "https://mcp.playdrop.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sourceprd",
+  "displayName": "SourcePRD",
+  "description": "The product, not the plan.",
+  "homepage": "https://sourceprd.com",
+  "docs": "https://sourceprd.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "sourceprd": {
+      "url": "https://pm.sourceprd.com/mcp"
+    }
+  }
+}

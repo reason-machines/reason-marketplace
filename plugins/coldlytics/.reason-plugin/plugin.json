@@ -1,0 +1,13 @@
+{
+  "name": "coldlytics",
+  "displayName": "Coldlytics",
+  "description": "Search companies and contacts.",
+  "homepage": "https://www.coldlytics.com",
+  "docs": "https://www.coldlytics.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "coldlytics": {
+      "url": "https://mcp.coldlytics.com/mcp"
+    }
+  }
+}

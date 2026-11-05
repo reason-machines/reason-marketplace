@@ -1,0 +1,13 @@
+{
+  "name": "vaderarkivets-vaderassistent",
+  "displayName": "Väderarkivets väderassistent",
+  "description": "Analysera historiskt väder.",
+  "homepage": "https://vaderarkiv.se/",
+  "docs": "https://vaderarkiv.se/",
+  "auth": "none",
+  "mcpServers": {
+    "vaderarkivets-vaderassistent": {
+      "url": "https://vaderarkiv.se/mcp"
+    }
+  }
+}

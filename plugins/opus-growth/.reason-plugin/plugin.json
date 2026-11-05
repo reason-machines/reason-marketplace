@@ -1,0 +1,13 @@
+{
+  "name": "opus-growth",
+  "displayName": "Opus Growth",
+  "description": "Run your ad accounts from chat.",
+  "homepage": "https://opus-growth.com/",
+  "docs": "https://opus-growth.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "opus-growth": {
+      "url": "https://mcp.opus-growth.com/mcp"
+    }
+  }
+}

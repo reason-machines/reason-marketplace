@@ -1,0 +1,13 @@
+{
+  "name": "account-executive-jobs",
+  "displayName": "Account Executive Jobs",
+  "description": "Sales jobs and hiring.",
+  "homepage": "https://accountexecutivejobs.com/",
+  "docs": "https://accountexecutivejobs.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "account-executive-jobs": {
+      "url": "https://mcp.accountexecutivejobs.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dados-b3",
+  "displayName": "Dados B3",
+  "description": "Brazilian stock fundamentals.",
+  "homepage": "https://dadosb3.com",
+  "docs": "https://dadosb3.com",
+  "auth": "none",
+  "mcpServers": {
+    "dados-b3": {
+      "url": "https://dadosb3.com/mcp"
+    }
+  }
+}

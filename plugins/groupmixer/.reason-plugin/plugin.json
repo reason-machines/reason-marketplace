@@ -1,0 +1,13 @@
+{
+  "name": "groupmixer",
+  "displayName": "GroupMixer",
+  "description": "Create groups and rotations.",
+  "homepage": "https://groupmixer.app",
+  "docs": "https://groupmixer.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "groupmixer": {
+      "url": "https://groupmixer.app/api/mcp?registration=public"
+    }
+  }
+}

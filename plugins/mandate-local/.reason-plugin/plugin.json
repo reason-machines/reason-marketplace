@@ -1,0 +1,13 @@
+{
+  "name": "mandate-local",
+  "displayName": "Mandate™",
+  "description": "Portable project plans.",
+  "homepage": "https://mandate-public-file-preview.dannygriffin.workers.dev/about",
+  "docs": "https://mandate-public-file-preview.dannygriffin.workers.dev/about",
+  "auth": "none",
+  "mcpServers": {
+    "mandate-local": {
+      "url": "https://mandate-public-file-preview.dannygriffin.workers.dev/mcp"
+    }
+  }
+}

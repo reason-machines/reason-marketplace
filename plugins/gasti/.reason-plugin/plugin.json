@@ -1,0 +1,13 @@
+{
+  "name": "gasti",
+  "displayName": "Gasti",
+  "description": "Track personal finances.",
+  "homepage": "https://gasti.pro",
+  "docs": "https://tedix.dev/apps/gasti/",
+  "auth": "oauth",
+  "mcpServers": {
+    "gasti": {
+      "url": "https://mcp.public.gasti.pro/mcp"
+    }
+  }
+}

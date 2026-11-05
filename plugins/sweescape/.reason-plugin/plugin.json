@@ -1,0 +1,13 @@
+{
+  "name": "sweescape",
+  "displayName": "Sweescape",
+  "description": "Manage your event operations.",
+  "homepage": "https://sweescape.com/en/",
+  "docs": "https://sweescape.com/en/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sweescape": {
+      "url": "https://mcp.sweescape.com/mcp"
+    }
+  }
+}

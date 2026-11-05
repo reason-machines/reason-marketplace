@@ -1,0 +1,13 @@
+{
+  "name": "symbioza",
+  "displayName": "Symbioza",
+  "description": "Run GPU jobs under a spend cap.",
+  "homepage": "https://symbioza.dev",
+  "docs": "https://symbioza.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "symbioza": {
+      "url": "https://symbioza.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lindo-ai-website-builder",
+  "displayName": "Lindo AI Website Builder",
+  "description": "Create and edit websites.",
+  "homepage": "https://lindo.ai",
+  "docs": "https://lindo.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "lindo-ai-website-builder": {
+      "url": "https://mcp.lindo.ai/mcp"
+    }
+  }
+}

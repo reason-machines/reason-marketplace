@@ -1,0 +1,13 @@
+{
+  "name": "signal-by-stackenhance",
+  "displayName": "Signal by StackEnhance",
+  "description": "What brands email, and when.",
+  "homepage": "https://stackenhance.com/signal",
+  "docs": "https://stackenhance.com/signal",
+  "auth": "none",
+  "mcpServers": {
+    "signal-by-stackenhance": {
+      "url": "https://mcp.stackenhance.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "superfunds",
+  "displayName": "Superfunds",
+  "description": "Explore Israeli mutual funds.",
+  "homepage": "https://superfunds.ai",
+  "docs": "https://tedix.dev/apps/superfunds/",
+  "auth": "oauth",
+  "mcpServers": {
+    "superfunds": {
+      "url": "https://api.superfunds.ai/mcp"
+    }
+  }
+}

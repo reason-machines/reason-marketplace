@@ -1,0 +1,13 @@
+{
+  "name": "voithos-ai",
+  "displayName": "Voithos AI",
+  "description": "Search in your meetings.",
+  "homepage": "https://voithos.ai",
+  "docs": "https://voithos.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "voithos-ai": {
+      "url": "https://mcp.voithos.ai/mcp"
+    }
+  }
+}

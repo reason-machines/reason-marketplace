@@ -1,0 +1,13 @@
+{
+  "name": "clearfile-metadata-remover",
+  "displayName": "Clearfile Metadata Remover",
+  "description": "Remove AI & file metadata.",
+  "homepage": "https://clearfile-metadata.fly.dev/",
+  "docs": "https://clearfile-metadata.fly.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "clearfile-metadata-remover": {
+      "url": "https://clearfile-metadata.fly.dev/mcp"
+    }
+  }
+}

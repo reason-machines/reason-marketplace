@@ -1,0 +1,13 @@
+{
+  "name": "vedpatrika",
+  "displayName": "VedPatrika",
+  "description": "Vedic chart guidance.",
+  "homepage": "https://vedpatrika.in",
+  "docs": "https://vedpatrika.in",
+  "auth": "none",
+  "mcpServers": {
+    "vedpatrika": {
+      "url": "https://mcp.vedpatrika.in/mcp"
+    }
+  }
+}

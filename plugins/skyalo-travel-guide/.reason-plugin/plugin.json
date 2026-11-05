@@ -1,0 +1,13 @@
+{
+  "name": "skyalo-travel-guide",
+  "displayName": "Skyalo Travel Guide",
+  "description": "Plan travel connectivity.",
+  "homepage": "https://skyalo.com/en",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.skyalo/travel-connectivity-guide",
+  "auth": "none",
+  "mcpServers": {
+    "skyalo-travel-guide": {
+      "url": "https://skyalo.com/chatgpt/mcp"
+    }
+  }
+}

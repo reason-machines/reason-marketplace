@@ -1,0 +1,13 @@
+{
+  "name": "smartspectra",
+  "displayName": "SmartSpectra",
+  "description": "Contactless vitals, any camera.",
+  "homepage": "https://presagetech.com",
+  "docs": "https://presagetech.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "smartspectra": {
+      "url": "https://mcp.presagetech.com/mcp"
+    }
+  }
+}

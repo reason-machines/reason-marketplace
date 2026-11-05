@@ -1,0 +1,13 @@
+{
+  "name": "drawio",
+  "displayName": "draw.io",
+  "description": "Create editable diagrams.",
+  "homepage": "https://www.drawio.com",
+  "docs": "https://www.drawio.com/mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "drawio": {
+      "url": "https://mcp.draw.io/mcp"
+    }
+  }
+}

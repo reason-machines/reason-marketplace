@@ -1,0 +1,13 @@
+{
+  "name": "connhex",
+  "displayName": "Connhex",
+  "description": "AI-native IoT infrastructure.",
+  "homepage": "https://connhex.com",
+  "docs": "https://connhex.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "connhex": {
+      "url": "https://mcp.connhex.com/"
+    }
+  }
+}

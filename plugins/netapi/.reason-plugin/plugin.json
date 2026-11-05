@@ -1,0 +1,13 @@
+{
+  "name": "netapi",
+  "displayName": "NetAPI",
+  "description": "Registered domain lists.",
+  "homepage": "https://netapi.com/",
+  "docs": "https://netapi.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "netapi": {
+      "url": "https://mcp.netapi.com/mcp"
+    }
+  }
+}

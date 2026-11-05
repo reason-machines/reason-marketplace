@@ -1,0 +1,13 @@
+{
+  "name": "my-wine",
+  "displayName": "My wine",
+  "description": "Compare wine prices near you.",
+  "homepage": "https://mywine.dev",
+  "docs": "https://mywine.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "my-wine": {
+      "url": "https://mcp.mywine.dev/mcp"
+    }
+  }
+}

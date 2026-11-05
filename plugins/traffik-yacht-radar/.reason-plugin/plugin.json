@@ -1,0 +1,13 @@
+{
+  "name": "traffik-yacht-radar",
+  "displayName": "Traffik Yacht Radar",
+  "description": "Measured superyacht movement.",
+  "homepage": "https://traffik.ai",
+  "docs": "https://traffik.ai",
+  "auth": "none",
+  "mcpServers": {
+    "traffik-yacht-radar": {
+      "url": "https://traffik.ai/mcp"
+    }
+  }
+}

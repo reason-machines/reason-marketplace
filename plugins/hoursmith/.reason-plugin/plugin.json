@@ -1,0 +1,13 @@
+{
+  "name": "hoursmith",
+  "displayName": "Hoursmith",
+  "description": "Projects, tasks, and time.",
+  "homepage": "https://hoursmith.app/features/chatgpt",
+  "docs": "https://hoursmith.app/features/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "hoursmith": {
+      "url": "https://hoursmith.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "imagen-for-real-estate",
+  "displayName": "Imagen for Real Estate",
+  "description": "AI editing for listing photos.",
+  "homepage": "https://imagen-ai.com/real-estate/",
+  "docs": "https://api-docs.imagen-ai.com/",
+  "auth": "none",
+  "mcpServers": {
+    "imagen-for-real-estate": {
+      "url": "https://api-docs.imagen-ai.com/mcp"
+    }
+  }
+}

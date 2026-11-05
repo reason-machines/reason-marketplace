@@ -1,0 +1,13 @@
+{
+  "name": "selfpubgo",
+  "displayName": "SelfPub Go",
+  "description": "Amazon Ads for KDP authors.",
+  "homepage": "https://selfpubgo.com",
+  "docs": "https://selfpubgo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "selfpubgo": {
+      "url": "https://mcp.selfpubgo.com/mcp"
+    }
+  }
+}

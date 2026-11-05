@@ -1,0 +1,13 @@
+{
+  "name": "winrate",
+  "displayName": "Winrate",
+  "description": "League of Legends stats.",
+  "homepage": "https://winrate.gg",
+  "docs": "https://winrate.gg",
+  "auth": "none",
+  "mcpServers": {
+    "winrate": {
+      "url": "https://winrate.gg/mcp"
+    }
+  }
+}

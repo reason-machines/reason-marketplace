@@ -1,0 +1,13 @@
+{
+  "name": "dash-social",
+  "displayName": "Dash Social",
+  "description": "Connect your brand insights.",
+  "homepage": "https://www.dashsocial.com/",
+  "docs": "https://www.dashsocial.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "dash-social": {
+      "url": "https://mcp.dashsocial.com/mcp"
+    }
+  }
+}

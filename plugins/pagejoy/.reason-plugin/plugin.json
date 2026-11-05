@@ -1,0 +1,13 @@
+{
+  "name": "pagejoy",
+  "displayName": "PageJoy",
+  "description": "Edit PDFs, invoices and photos.",
+  "homepage": "https://pagejoy.app",
+  "docs": "https://pagejoy.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "pagejoy": {
+      "url": "https://pagejoy.app/mcp"
+    }
+  }
+}

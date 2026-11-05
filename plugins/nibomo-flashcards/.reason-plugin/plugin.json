@@ -1,0 +1,13 @@
+{
+  "name": "nibomo-flashcards",
+  "displayName": "Nibomo Flashcards",
+  "description": "Create and study flashcards.",
+  "homepage": "https://nibomo.com",
+  "docs": "https://nibomo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "nibomo-flashcards": {
+      "url": "https://mcp.nibomo.com/mcp"
+    }
+  }
+}

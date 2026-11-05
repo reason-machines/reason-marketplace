@@ -1,0 +1,13 @@
+{
+  "name": "emailr",
+  "displayName": "Emailr",
+  "description": "Review email workspace data.",
+  "homepage": "https://emailr.dev",
+  "docs": "https://emailr.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "emailr": {
+      "url": "https://mcp.emailr.dev/mcp"
+    }
+  }
+}

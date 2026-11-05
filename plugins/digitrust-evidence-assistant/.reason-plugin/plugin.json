@@ -1,0 +1,13 @@
+{
+  "name": "digitrust-evidence-assistant",
+  "displayName": "DigiTrust Evidence Assistant",
+  "description": "Procurement & vendor evidence.",
+  "homepage": "https://www.digitranshq.com/evidence-assistant/",
+  "docs": "https://www.digitranshq.com/evidence-assistant/",
+  "auth": "none",
+  "mcpServers": {
+    "digitrust-evidence-assistant": {
+      "url": "https://mcp.digitranshq.com/mcp"
+    }
+  }
+}

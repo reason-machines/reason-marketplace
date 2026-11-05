@@ -1,0 +1,13 @@
+{
+  "name": "postedly-correspondence",
+  "displayName": "Postedly",
+  "description": "Review mail, fax and cards.",
+  "homepage": "https://postedly.com",
+  "docs": "https://postedly.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "postedly-correspondence": {
+      "url": "https://postedly.com/mcp/send"
+    }
+  }
+}

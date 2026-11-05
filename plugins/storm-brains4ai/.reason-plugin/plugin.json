@@ -1,0 +1,13 @@
+{
+  "name": "storm-brains4ai",
+  "displayName": "STORM Brains4Ai",
+  "description": "Automate AI workflows safely.",
+  "homepage": "https://getbrains4ai.com",
+  "docs": "https://getbrains4ai.com",
+  "auth": "none",
+  "mcpServers": {
+    "storm-brains4ai": {
+      "url": "https://getbrains4ai.com/api/mcp"
+    }
+  }
+}

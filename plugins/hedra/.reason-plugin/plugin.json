@@ -1,0 +1,13 @@
+{
+  "name": "hedra",
+  "displayName": "Hedra",
+  "description": "Create images, video and audio.",
+  "homepage": "https://hedra.com/llms.txt",
+  "docs": "https://hedra.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "hedra": {
+      "url": "https://mcp.hedra.com/"
+    }
+  }
+}

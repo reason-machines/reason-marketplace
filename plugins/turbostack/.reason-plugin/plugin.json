@@ -1,0 +1,13 @@
+{
+  "name": "turbostack",
+  "displayName": "TurboStack",
+  "description": "Manage your TurboStack hosting.",
+  "homepage": "https://www.hosted-power.com/en/platform/turbostack-what-turbostack",
+  "docs": "https://www.hosted-power.com/en/platform/turbostack-what-turbostack",
+  "auth": "oauth",
+  "mcpServers": {
+    "turbostack": {
+      "url": "https://mcp.hosted-power.com/mcp"
+    }
+  }
+}

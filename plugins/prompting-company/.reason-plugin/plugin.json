@@ -1,0 +1,13 @@
+{
+  "name": "prompting-company",
+  "displayName": "The Prompting Company",
+  "description": "Brand visibility in AI answers.",
+  "homepage": "https://promptingcompany.com/",
+  "docs": "https://docs.promptingcompany.com/guides/MCP-Server",
+  "auth": "oauth",
+  "mcpServers": {
+    "prompting-company": {
+      "url": "https://mcp.promptingco.com/mcp"
+    }
+  }
+}

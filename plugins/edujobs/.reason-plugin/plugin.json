@@ -1,0 +1,13 @@
+{
+  "name": "edujobs",
+  "displayName": "EduJobs",
+  "description": "Find teaching and school jobs.",
+  "homepage": "https://edujobs.org",
+  "docs": "https://edujobs.org",
+  "auth": "none",
+  "mcpServers": {
+    "edujobs": {
+      "url": "https://edujobs.org/api/mcp"
+    }
+  }
+}

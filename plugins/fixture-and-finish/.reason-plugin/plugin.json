@@ -1,0 +1,13 @@
+{
+  "name": "fixture-and-finish",
+  "displayName": "Fixture and Finish",
+  "description": "Selections for custom homes.",
+  "homepage": "https://fixtureandfinish.com/",
+  "docs": "https://fixtureandfinish.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "fixture-and-finish": {
+      "url": "https://fixtureandfinish.com/mcp"
+    }
+  }
+}

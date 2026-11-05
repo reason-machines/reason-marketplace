@@ -1,0 +1,13 @@
+{
+  "name": "clypmint",
+  "displayName": "Clypmint",
+  "description": "Edit videos in Reason.",
+  "homepage": "https://clypmint.com",
+  "docs": "https://clypmint.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "clypmint": {
+      "url": "https://clypmint.com/mcp"
+    }
+  }
+}

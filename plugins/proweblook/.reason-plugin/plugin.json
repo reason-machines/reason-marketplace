@@ -1,0 +1,16 @@
+{
+  "name": "proweblook",
+  "displayName": "ProWebLook",
+  "description": "Verify lists and research.",
+  "homepage": "https://proweblook.com/",
+  "docs": "https://proweblook.com/",
+  "auth": "api_key",
+  "mcpServers": {
+    "proweblook": {
+      "url": "https://mcp.proweblook.com/mcp",
+      "headers": {
+        "X-API-KEY": "${API_KEY}"
+      }
+    }
+  }
+}

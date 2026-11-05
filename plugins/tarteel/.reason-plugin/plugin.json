@@ -1,0 +1,13 @@
+{
+  "name": "tarteel",
+  "displayName": "Tarteel",
+  "description": "Explore Quranic resources.",
+  "homepage": "https://tarteel.ai",
+  "docs": "https://tarteel.ai",
+  "auth": "none",
+  "mcpServers": {
+    "tarteel": {
+      "url": "https://mcp.tarteel.ai/mcp"
+    }
+  }
+}

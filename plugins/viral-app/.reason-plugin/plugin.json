@@ -1,0 +1,13 @@
+{
+  "name": "viral-app",
+  "displayName": "viral.app",
+  "description": "UGC analytics and creator ops.",
+  "homepage": "https://viral.app",
+  "docs": "https://viral.app/free-tools/tiktok-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "viral-app": {
+      "url": "https://viral.app/api/mcp"
+    }
+  }
+}

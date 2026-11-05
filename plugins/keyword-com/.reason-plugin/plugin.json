@@ -1,0 +1,13 @@
+{
+  "name": "keyword-com",
+  "displayName": "Keyword.com",
+  "description": "Track SEO & AEO visibility.",
+  "homepage": "https://keyword.com/",
+  "docs": "https://keyword.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "keyword-com": {
+      "url": "https://app.keyword.com/mcp"
+    }
+  }
+}

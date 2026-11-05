@@ -1,0 +1,13 @@
+{
+  "name": "querycraft-sql-coach",
+  "displayName": "QueryCraft SQL Coach",
+  "description": "Practice SQL interactively.",
+  "homepage": "https://querycraftsql.app/",
+  "docs": "https://querycraftsql.app/",
+  "auth": "none",
+  "mcpServers": {
+    "querycraft-sql-coach": {
+      "url": "https://querycraftsql.app/mcp"
+    }
+  }
+}

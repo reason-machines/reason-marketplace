@@ -1,0 +1,13 @@
+{
+  "name": "octolane",
+  "displayName": "Octolane",
+  "description": "Revenue Superintelligence.",
+  "homepage": "https://www.octolane.com/",
+  "docs": "https://www.octolane.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "octolane": {
+      "url": "https://mcp.octolane.com/mcp"
+    }
+  }
+}

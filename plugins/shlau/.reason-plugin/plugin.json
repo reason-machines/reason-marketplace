@@ -1,0 +1,13 @@
+{
+  "name": "shlau",
+  "displayName": "Shlau",
+  "description": "Work with your Shlau data.",
+  "homepage": "https://shlau.com",
+  "docs": "https://shlau.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "shlau": {
+      "url": "https://mcp.shlau.com/mcp"
+    }
+  }
+}

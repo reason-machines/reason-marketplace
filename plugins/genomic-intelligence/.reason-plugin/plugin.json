@@ -1,0 +1,13 @@
+{
+  "name": "genomic-intelligence",
+  "displayName": "Genomic Intelligence",
+  "description": "DNA sequence analysis with AI.",
+  "homepage": "https://genomicintelligence.ai",
+  "docs": "https://genomicintelligence.ai",
+  "auth": "none",
+  "mcpServers": {
+    "genomic-intelligence": {
+      "url": "https://mcp.genomicintelligence.ai/mcp"
+    }
+  }
+}

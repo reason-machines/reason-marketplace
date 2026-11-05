@@ -1,0 +1,13 @@
+{
+  "name": "lodestar-stamp",
+  "displayName": "Lodestar Stamp",
+  "description": "Dated public business records.",
+  "homepage": "https://lodestarstamp.com",
+  "docs": "https://lodestarstamp.com/.well-known/mcp.json",
+  "auth": "none",
+  "mcpServers": {
+    "lodestar-stamp": {
+      "url": "https://api.lodestarindex.com/mcp"
+    }
+  }
+}

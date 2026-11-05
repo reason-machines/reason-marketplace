@@ -1,0 +1,13 @@
+{
+  "name": "itha",
+  "displayName": "Itha",
+  "description": "Industrial & robotics vendors.",
+  "homepage": "https://itha.ai",
+  "docs": "https://itha.ai",
+  "auth": "none",
+  "mcpServers": {
+    "itha": {
+      "url": "https://mcp.itha.ai/mcp"
+    }
+  }
+}

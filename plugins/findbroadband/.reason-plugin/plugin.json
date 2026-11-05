@@ -1,0 +1,13 @@
+{
+  "name": "findbroadband",
+  "displayName": "FindBroadband",
+  "description": "Compare UK broadband deals.",
+  "homepage": "https://www.findbroadbanddeals.com",
+  "docs": "https://tedix.dev/apps/findbroadband/",
+  "auth": "none",
+  "mcpServers": {
+    "findbroadband": {
+      "url": "https://www.findbroadbanddeals.com/api/mcp"
+    }
+  }
+}

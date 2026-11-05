@@ -1,0 +1,13 @@
+{
+  "name": "recovr-retention",
+  "displayName": "Recovr",
+  "description": "Spot risk. Keep members.",
+  "homepage": "https://retention.recovr.com/mcp",
+  "docs": "https://retention.recovr.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "recovr-retention": {
+      "url": "https://retention-backend.recovr.com/mcp"
+    }
+  }
+}

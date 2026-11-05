@@ -1,0 +1,13 @@
+{
+  "name": "pgicover",
+  "displayName": "PGicover",
+  "description": "Personal guarantee insurance.",
+  "homepage": "https://chatgpt-mcp.pgicover.com/mcp",
+  "docs": "https://chatgpt-mcp.pgicover.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "pgicover": {
+      "url": "https://chatgpt-mcp.pgicover.com/mcp"
+    }
+  }
+}

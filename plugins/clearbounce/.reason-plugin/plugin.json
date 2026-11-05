@@ -1,0 +1,13 @@
+{
+  "name": "clearbounce",
+  "displayName": "ClearBounce",
+  "description": "Verify & find email addresses.",
+  "homepage": "https://clearbounce.net",
+  "docs": "https://clearbounce.net",
+  "auth": "oauth",
+  "mcpServers": {
+    "clearbounce": {
+      "url": "https://clearbounce.net/mcp"
+    }
+  }
+}

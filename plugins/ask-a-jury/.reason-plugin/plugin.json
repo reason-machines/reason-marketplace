@@ -1,0 +1,13 @@
+{
+  "name": "ask-a-jury",
+  "displayName": "Ask a Jury",
+  "description": "Real people, real verdicts.",
+  "homepage": "https://askajury.com",
+  "docs": "https://askajury.com",
+  "auth": "none",
+  "mcpServers": {
+    "ask-a-jury": {
+      "url": "https://askajury.com/mcp"
+    }
+  }
+}

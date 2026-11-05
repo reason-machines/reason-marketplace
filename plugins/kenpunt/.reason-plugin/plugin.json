@@ -1,0 +1,13 @@
+{
+  "name": "kenpunt",
+  "displayName": "KenPunt",
+  "description": "Read college football ratings.",
+  "homepage": "https://kenpunt.com",
+  "docs": "https://kenpunt.com",
+  "auth": "none",
+  "mcpServers": {
+    "kenpunt": {
+      "url": "https://kenpunt.com/mcp"
+    }
+  }
+}

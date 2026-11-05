@@ -1,0 +1,13 @@
+{
+  "name": "mcp-conduct-register",
+  "displayName": "MCP Conduct Register",
+  "description": "Check MCP server conduct.",
+  "homepage": "https://shield.the-horizons-innovation.com/verify-directory/",
+  "docs": "https://shield.the-horizons-innovation.com/verify-directory/",
+  "auth": "none",
+  "mcpServers": {
+    "mcp-conduct-register": {
+      "url": "https://gate.horizonshield.dev/mcp"
+    }
+  }
+}

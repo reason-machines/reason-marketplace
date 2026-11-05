@@ -1,0 +1,13 @@
+{
+  "name": "tix",
+  "displayName": "TIX",
+  "description": "Live shows in Australia & NZ.",
+  "homepage": "https://tix.com.au",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=au.com.tix/shows",
+  "auth": "none",
+  "mcpServers": {
+    "tix": {
+      "url": "https://tix.com.au/_hcms/api/mcp"
+    }
+  }
+}

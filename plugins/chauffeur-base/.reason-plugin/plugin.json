@@ -1,0 +1,13 @@
+{
+  "name": "chauffeur-base",
+  "displayName": "Chauffeur Base",
+  "description": "Manage your VTC fleet.",
+  "homepage": "https://chauffeur-base.com",
+  "docs": "https://chauffeur-base.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "chauffeur-base": {
+      "url": "https://app.chauffeur-base.com/mcp"
+    }
+  }
+}

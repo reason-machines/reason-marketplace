@@ -1,0 +1,13 @@
+{
+  "name": "ledgerbooks",
+  "displayName": "LedgerBooks",
+  "description": "Accounting for small business.",
+  "homepage": "https://ledgerbooksapp.com",
+  "docs": "https://ledgerbooksapp.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ledgerbooks": {
+      "url": "https://ledgerbooksapp.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stayforwork",
+  "displayName": "StayForWork: Housing & Hotels",
+  "description": "Extended stays for work travel.",
+  "homepage": "https://www.stayforwork.com",
+  "docs": "https://www.stayforwork.com",
+  "auth": "none",
+  "mcpServers": {
+    "stayforwork": {
+      "url": "https://stayforwork.com/mcp"
+    }
+  }
+}

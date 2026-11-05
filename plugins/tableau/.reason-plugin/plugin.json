@@ -1,0 +1,13 @@
+{
+  "name": "tableau",
+  "displayName": "Tableau",
+  "description": "See and understand data.",
+  "homepage": "https://www.tableau.com/",
+  "docs": "https://www.tableau.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "tableau": {
+      "url": "https://mcp.tableau.com/"
+    }
+  }
+}

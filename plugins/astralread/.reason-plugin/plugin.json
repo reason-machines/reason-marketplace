@@ -1,0 +1,13 @@
+{
+  "name": "astralread",
+  "displayName": "AstralRead",
+  "description": "Birth charts & transits.",
+  "homepage": "https://astralread.com/en",
+  "docs": "https://astralread.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "astralread": {
+      "url": "https://astralread.com/mcp"
+    }
+  }
+}

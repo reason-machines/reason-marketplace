@@ -1,0 +1,13 @@
+{
+  "name": "lazybird",
+  "displayName": "Lazybird",
+  "description": "Turn scripts into voiceovers.",
+  "homepage": "https://www.lazybird.app",
+  "docs": "https://www.lazybird.app/chatgpt-claude-connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "lazybird": {
+      "url": "https://api.lazybird.app/mcp"
+    }
+  }
+}

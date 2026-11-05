@@ -1,0 +1,13 @@
+{
+  "name": "forinvest",
+  "displayName": "ForInvest",
+  "description": "Real Time Financial Data.",
+  "homepage": "https://www.forinvest.com",
+  "docs": "https://www.forinvest.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "forinvest": {
+      "url": "https://mcp.forinvest.com/mcp"
+    }
+  }
+}

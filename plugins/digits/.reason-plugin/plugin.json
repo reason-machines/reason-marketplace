@@ -1,0 +1,13 @@
+{
+  "name": "digits",
+  "displayName": "Digits",
+  "description": "Track & analyze your finances.",
+  "homepage": "https://digits.com/",
+  "docs": "https://help.digits.com/firms-connections/digits-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "digits": {
+      "url": "https://api.digits.com/mcp"
+    }
+  }
+}

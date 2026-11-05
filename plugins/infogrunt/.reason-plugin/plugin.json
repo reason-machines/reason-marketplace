@@ -1,0 +1,13 @@
+{
+  "name": "infogrunt",
+  "displayName": "InfoGrunt",
+  "description": "Sprawdź działkę w Polsce.",
+  "homepage": "https://infogrunt.pl",
+  "docs": "https://infogrunt.pl",
+  "auth": "none",
+  "mcpServers": {
+    "infogrunt": {
+      "url": "https://infogrunt.pl/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "recalo",
+  "displayName": "Recalo",
+  "description": "Save anything, access it here.",
+  "homepage": "https://recaloapp.com",
+  "docs": "https://recaloapp.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "recalo": {
+      "url": "https://my.recaloapp.com/api/mcp"
+    }
+  }
+}

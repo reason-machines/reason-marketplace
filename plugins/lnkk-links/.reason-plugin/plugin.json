@@ -1,0 +1,13 @@
+{
+  "name": "lnkk-links",
+  "displayName": "Lnkk.it Smart Link & QR Studio",
+  "description": "Smart Links & Vector QR.",
+  "homepage": "https://www.lnkk.it/",
+  "docs": "https://lnkk.it/.well-known/oauth-protected-resource",
+  "auth": "none",
+  "mcpServers": {
+    "lnkk-links": {
+      "url": "https://www.lnkk.it/api/mcp/v1"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mappu",
+  "displayName": "Mappu",
+  "description": "Plan trips, keep them in Mappu.",
+  "homepage": "https://www.mappu.ai",
+  "docs": "https://mappu.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "mappu": {
+      "url": "https://api.mappu.ai/mcp"
+    }
+  }
+}

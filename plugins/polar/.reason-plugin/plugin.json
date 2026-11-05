@@ -1,0 +1,13 @@
+{
+  "name": "polar",
+  "displayName": "Polar",
+  "description": "Payments and billing for apps.",
+  "homepage": "https://polar.sh",
+  "docs": "https://polar.sh/docs/integrate/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "polar": {
+      "url": "https://mcp.polar.sh/mcp/polar-mcp"
+    }
+  }
+}

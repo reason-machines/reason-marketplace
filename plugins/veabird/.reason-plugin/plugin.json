@@ -1,0 +1,13 @@
+{
+  "name": "veabird",
+  "displayName": "Veabird Ski & Beach",
+  "description": "Ski & beach trip planner.",
+  "homepage": "https://veabird.com/ai/",
+  "docs": "https://veabird.com/ai/",
+  "auth": "none",
+  "mcpServers": {
+    "veabird": {
+      "url": "https://veabird.com/mcp"
+    }
+  }
+}

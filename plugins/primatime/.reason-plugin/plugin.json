@@ -1,0 +1,13 @@
+{
+  "name": "primatime",
+  "displayName": "primaTime",
+  "description": "Track time and manage work.",
+  "homepage": "https://primatime.com",
+  "docs": "https://primatime.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "primatime": {
+      "url": "https://mcp.primatime.com/mcp"
+    }
+  }
+}

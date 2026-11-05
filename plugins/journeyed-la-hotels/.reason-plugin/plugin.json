@@ -1,0 +1,13 @@
+{
+  "name": "journeyed-la-hotels",
+  "displayName": "Journeyed LA hotel facts",
+  "description": "Sourced LA hotel facts.",
+  "homepage": "https://journeyed.org/",
+  "docs": "https://journeyed.org/",
+  "auth": "none",
+  "mcpServers": {
+    "journeyed-la-hotels": {
+      "url": "https://journeyed.org/mcp"
+    }
+  }
+}

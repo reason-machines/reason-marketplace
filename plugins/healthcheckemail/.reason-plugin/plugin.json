@@ -1,0 +1,13 @@
+{
+  "name": "healthcheckemail",
+  "displayName": "HealthCheckEmail",
+  "description": "Inspect email domain health.",
+  "homepage": "https://healthcheckemail.com",
+  "docs": "https://healthcheckemail.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "healthcheckemail": {
+      "url": "https://mcp.healthcheckemail.com/mcp"
+    }
+  }
+}

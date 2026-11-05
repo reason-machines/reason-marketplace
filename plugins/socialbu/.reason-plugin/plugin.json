@@ -1,0 +1,22 @@
+{
+  "name": "socialbu",
+  "displayName": "SocialBu",
+  "description": "Manage your social media.",
+  "homepage": "https://socialbu.com/mcp-server",
+  "docs": "https://socialbu.com/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "socialbu": {
+      "url": "https://socialbu.com/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "socialbu",
+      "description": "Use SocialBu through its MCP server when the user wants to inspect connected social accounts, create or schedule posts, manage queues, analyze performance, work with automations, browse curated content, or manage social listening items. Do not use it for unrelated public social data.",
+      "source": "socialbu/socialbu-agent#59cb0d35e306acc3ecec51c868b4d39c63956937",
+      "skill": "socialbu",
+      "url": "https://github.com/socialbu/socialbu-agent/tree/59cb0d35e306acc3ecec51c868b4d39c63956937/skills/socialbu"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pine-assistant",
+  "displayName": "Pine Assistant",
+  "description": "Delegate real-world tasks.",
+  "homepage": "https://pine.im",
+  "docs": "https://pine.im",
+  "auth": "oauth",
+  "mcpServers": {
+    "pine-assistant": {
+      "url": "https://mcp.pine.im/mcp"
+    }
+  }
+}

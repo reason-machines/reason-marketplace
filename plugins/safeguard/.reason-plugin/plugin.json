@@ -1,0 +1,13 @@
+{
+  "name": "safeguard",
+  "displayName": "Safeguard",
+  "description": "Secure software supply chain.",
+  "homepage": "https://safeguard.sh",
+  "docs": "https://safeguard.sh",
+  "auth": "oauth",
+  "mcpServers": {
+    "safeguard": {
+      "url": "https://mcp.safeguard.sh/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "one-step-travel",
+  "displayName": "One Step Travel",
+  "description": "Plan trips and estimate costs.",
+  "homepage": "https://onesteptravel.app",
+  "docs": "https://onesteptravel.app",
+  "auth": "none",
+  "mcpServers": {
+    "one-step-travel": {
+      "url": "https://onesteptravel.app/mcp"
+    }
+  }
+}

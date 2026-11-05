@@ -1,0 +1,13 @@
+{
+  "name": "go-echoo",
+  "displayName": "Go Echoo",
+  "description": "Your Super Memory notes.",
+  "homepage": "https://goechoo.com",
+  "docs": "https://goechoo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "go-echoo": {
+      "url": "https://mcp.goechoo.com/mcp"
+    }
+  }
+}

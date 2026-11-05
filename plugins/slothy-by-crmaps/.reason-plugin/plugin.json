@@ -1,0 +1,13 @@
+{
+  "name": "slothy-by-crmaps",
+  "displayName": "Slothy by CRMaps",
+  "description": "Explore Costa Rica.",
+  "homepage": "https://www.crmaps.com/",
+  "docs": "https://www.crmaps.com/",
+  "auth": "none",
+  "mcpServers": {
+    "slothy-by-crmaps": {
+      "url": "https://mcp.crmaps.com/mcp"
+    }
+  }
+}

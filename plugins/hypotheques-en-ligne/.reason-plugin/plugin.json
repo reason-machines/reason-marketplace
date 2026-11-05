@@ -1,0 +1,13 @@
+{
+  "name": "hypotheques-en-ligne",
+  "displayName": "Hypothèques en ligne",
+  "description": "French land registry quotes.",
+  "homepage": "https://www.hypotheques-en-ligne.fr",
+  "docs": "https://hypotheques-en-ligne.fr/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "hypotheques-en-ligne": {
+      "url": "https://www.hypotheques-en-ligne.fr/wp-json/easy-mcp-ai/v1/mcp"
+    }
+  }
+}

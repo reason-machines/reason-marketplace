@@ -1,0 +1,13 @@
+{
+  "name": "third-law-3rd",
+  "displayName": "3RD",
+  "description": "Brand visibility in AI answers.",
+  "homepage": "https://www.get3rd.com",
+  "docs": "https://docs.get3rd.com/mcp/claude",
+  "auth": "oauth",
+  "mcpServers": {
+    "third-law-3rd": {
+      "url": "https://app.get3rd.com/api/mcp"
+    }
+  }
+}

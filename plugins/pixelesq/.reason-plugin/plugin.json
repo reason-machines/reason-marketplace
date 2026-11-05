@@ -1,0 +1,13 @@
+{
+  "name": "pixelesq",
+  "displayName": "Pixelesq",
+  "description": "Build and manage websites.",
+  "homepage": "https://www.pixelesq.com/",
+  "docs": "https://www.pixelesq.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "pixelesq": {
+      "url": "https://mcp.pixelesq.app/mcp"
+    }
+  }
+}

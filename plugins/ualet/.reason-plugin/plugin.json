@@ -1,0 +1,13 @@
+{
+  "name": "ualet",
+  "displayName": "ualet",
+  "description": "Understand your finances.",
+  "homepage": "https://ualet.cl",
+  "docs": "https://ualet.cl",
+  "auth": "oauth",
+  "mcpServers": {
+    "ualet": {
+      "url": "https://mcp.ualet.cl/"
+    }
+  }
+}

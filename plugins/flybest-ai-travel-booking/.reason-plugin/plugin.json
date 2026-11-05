@@ -1,0 +1,13 @@
+{
+  "name": "flybest-ai-travel-booking",
+  "displayName": "Flybest AI Travel Booking",
+  "description": "Search and book hotels.",
+  "homepage": "https://flybest.org",
+  "docs": "https://flybest.org/ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "flybest-ai-travel-booking": {
+      "url": "https://ai.flybest.org/mcp"
+    }
+  }
+}

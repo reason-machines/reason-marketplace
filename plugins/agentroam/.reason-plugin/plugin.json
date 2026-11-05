@@ -1,0 +1,13 @@
+{
+  "name": "agentroam",
+  "displayName": "AgentRoam",
+  "description": "Buy travel eSIMs with crypto.",
+  "homepage": "https://agentroam.ai",
+  "docs": "https://agentroam.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "agentroam": {
+      "url": "https://agentroam.ai/api/mcp"
+    }
+  }
+}

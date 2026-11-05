@@ -1,0 +1,13 @@
+{
+  "name": "prophours",
+  "displayName": "PropHours",
+  "description": "Track rental work hours.",
+  "homepage": "https://prophours.app/",
+  "docs": "https://prophours.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "prophours": {
+      "url": "https://prophours.app/api/mcp"
+    }
+  }
+}

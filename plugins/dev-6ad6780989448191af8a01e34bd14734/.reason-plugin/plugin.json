@@ -1,0 +1,13 @@
+{
+  "name": "dev-6ad6780989448191af8a01e34bd14734",
+  "displayName": "Drata",
+  "description": "Manage compliance in Drata.",
+  "homepage": "https://developers.drata.com/developer-portal/v2/mcp-server/",
+  "docs": "https://developers.drata.com/developer-portal/v2/mcp-server/",
+  "auth": "oauth",
+  "mcpServers": {
+    "dev-6ad6780989448191af8a01e34bd14734": {
+      "url": "https://mcp.drata.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bencher",
+  "displayName": "Bencher",
+  "description": "Continuous Benchmarking.",
+  "homepage": "https://bencher.dev",
+  "docs": "https://bencher.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "bencher": {
+      "url": "https://mcp.bencher.dev/mcp"
+    }
+  }
+}

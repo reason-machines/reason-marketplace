@@ -1,0 +1,13 @@
+{
+  "name": "smry",
+  "displayName": "smry",
+  "description": "Read articles from any link.",
+  "homepage": "https://smry.ai",
+  "docs": "https://smry.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "smry": {
+      "url": "https://api.smry.ai/mcp"
+    }
+  }
+}

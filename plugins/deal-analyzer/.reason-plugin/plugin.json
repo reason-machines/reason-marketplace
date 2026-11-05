@@ -1,0 +1,13 @@
+{
+  "name": "deal-analyzer",
+  "displayName": "Deal Analyzer MCP",
+  "description": "Analyze rental deals.",
+  "homepage": "https://deal-analyzer-mcp-production.up.railway.app",
+  "docs": "https://tedix.dev/apps/deal-analyzer-mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "deal-analyzer": {
+      "url": "https://deal-analyzer-mcp-production.up.railway.app/mcp"
+    }
+  }
+}

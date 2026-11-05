@@ -1,0 +1,13 @@
+{
+  "name": "boulie",
+  "displayName": "Boulie",
+  "description": "Plan and review training.",
+  "homepage": "https://boulie.ai",
+  "docs": "https://boulie.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "boulie": {
+      "url": "https://mcp.boulie.ai/mcp"
+    }
+  }
+}

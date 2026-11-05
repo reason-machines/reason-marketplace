@@ -1,0 +1,13 @@
+{
+  "name": "sheet-join",
+  "displayName": "Zovo Spreadsheet Merge",
+  "description": "Merge sheets on messy IDs.",
+  "homepage": "https://sheet-join.zovo.one",
+  "docs": "https://sheet-join.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "sheet-join": {
+      "url": "https://sheet-join.zovo.one/mcp"
+    }
+  }
+}

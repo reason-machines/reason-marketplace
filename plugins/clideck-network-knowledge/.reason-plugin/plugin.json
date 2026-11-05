@@ -1,0 +1,13 @@
+{
+  "name": "clideck-network-knowledge",
+  "displayName": "CliDeck Network Knowledge",
+  "description": "Version-aware network guidance.",
+  "homepage": "https://clideck.com/software/mcp",
+  "docs": "https://clideck.com/software/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "clideck-network-knowledge": {
+      "url": "https://mcp.clideck.com/mcp"
+    }
+  }
+}

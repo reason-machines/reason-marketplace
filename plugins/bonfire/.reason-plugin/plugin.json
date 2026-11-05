@@ -1,0 +1,13 @@
+{
+  "name": "bonfire",
+  "displayName": "Bonfire",
+  "description": "Custom Apparel & Merch Tool.",
+  "homepage": "https://www.bonfire.com/",
+  "docs": "https://www.bonfire.com/",
+  "auth": "none",
+  "mcpServers": {
+    "bonfire": {
+      "url": "https://mcp.bonfire.com/mcp"
+    }
+  }
+}

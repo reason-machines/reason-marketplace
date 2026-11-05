@@ -1,0 +1,13 @@
+{
+  "name": "jobsdxb-com",
+  "displayName": "JobsDXB.com",
+  "description": "Find UAE jobs.",
+  "homepage": "https://jobsdxb.com",
+  "docs": "https://jobsdxb.com",
+  "auth": "none",
+  "mcpServers": {
+    "jobsdxb-com": {
+      "url": "https://jobsdxb.com/api/mcp"
+    }
+  }
+}

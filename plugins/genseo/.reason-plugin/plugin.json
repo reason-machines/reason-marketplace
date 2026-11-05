@@ -1,0 +1,13 @@
+{
+  "name": "genseo",
+  "displayName": "Genseo",
+  "description": "AI visibility, SEO, AEO & GEO.",
+  "homepage": "https://www.genseo.co",
+  "docs": "https://docs.genseo.co/mcp/overview",
+  "auth": "oauth",
+  "mcpServers": {
+    "genseo": {
+      "url": "https://api.genseo.co/mcp"
+    }
+  }
+}

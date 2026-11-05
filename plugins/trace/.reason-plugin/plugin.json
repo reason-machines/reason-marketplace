@@ -1,0 +1,13 @@
+{
+  "name": "trace",
+  "displayName": "Trace",
+  "description": "AI native technographics.",
+  "homepage": "https://tracedata.ai/",
+  "docs": "https://tracedata.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "trace": {
+      "url": "https://mcp.tracedata.ai/mcp"
+    }
+  }
+}

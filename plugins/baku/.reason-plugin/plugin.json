@@ -1,0 +1,13 @@
+{
+  "name": "baku",
+  "displayName": "baku",
+  "description": "Your card credits, managed.",
+  "homepage": "https://usebaku.com",
+  "docs": "https://usebaku.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "baku": {
+      "url": "https://dashboard.usebaku.com/api/mcp"
+    }
+  }
+}

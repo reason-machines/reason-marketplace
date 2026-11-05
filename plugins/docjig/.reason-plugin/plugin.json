@@ -1,0 +1,13 @@
+{
+  "name": "docjig",
+  "displayName": "DocJig",
+  "description": "AI template prep and signing.",
+  "homepage": "https://docjig.com/",
+  "docs": "https://docjig.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "docjig": {
+      "url": "https://docjig.com/mcp"
+    }
+  }
+}

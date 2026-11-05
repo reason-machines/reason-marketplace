@@ -1,0 +1,13 @@
+{
+  "name": "everygen",
+  "displayName": "Everygen",
+  "description": "Create videos with AI.",
+  "homepage": "https://everygen.ai/",
+  "docs": "https://everygen.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "everygen": {
+      "url": "https://everygen.ai/api/mcp"
+    }
+  }
+}

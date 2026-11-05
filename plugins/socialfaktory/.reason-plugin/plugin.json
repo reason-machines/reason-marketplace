@@ -1,0 +1,13 @@
+{
+  "name": "socialfaktory",
+  "displayName": "SocialFaktory",
+  "description": "Make and post social content.",
+  "homepage": "https://www.socialfaktory.com",
+  "docs": "https://www.socialfaktory.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "socialfaktory": {
+      "url": "https://socialfaktory.com/mcp"
+    }
+  }
+}

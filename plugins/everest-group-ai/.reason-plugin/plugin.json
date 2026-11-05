@@ -1,0 +1,13 @@
+{
+  "name": "everest-group-ai",
+  "displayName": "Everest Group AI",
+  "description": "Access Everest Group research.",
+  "homepage": "https://www.everestgrp.com",
+  "docs": "https://www.everestgrp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "everest-group-ai": {
+      "url": "https://mcp.everestgrp.com/mcp"
+    }
+  }
+}

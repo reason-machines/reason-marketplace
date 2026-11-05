@@ -1,0 +1,13 @@
+{
+  "name": "dispensa-lista-de-compras",
+  "displayName": "Dispensa: lista de compras",
+  "description": "Marcas e o que falta em casa.",
+  "homepage": "https://mcp-despensa-hub.onrender.com",
+  "docs": "https://mcp-despensa-hub.onrender.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dispensa-lista-de-compras": {
+      "url": "https://mcp-despensa-hub.onrender.com/mcp"
+    }
+  }
+}

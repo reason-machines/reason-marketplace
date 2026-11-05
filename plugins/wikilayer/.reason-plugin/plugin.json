@@ -1,0 +1,13 @@
+{
+  "name": "wikilayer",
+  "displayName": "Wikilayer",
+  "description": "Create and edit wiki pages.",
+  "homepage": "https://wikilayer.org/",
+  "docs": "https://wikilayer.org/",
+  "auth": "oauth",
+  "mcpServers": {
+    "wikilayer": {
+      "url": "https://wikilayer.org/mcp"
+    }
+  }
+}

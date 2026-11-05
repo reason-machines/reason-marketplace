@@ -1,0 +1,13 @@
+{
+  "name": "voder",
+  "displayName": "VODER",
+  "description": "Xero, FreshBooks, MYOB & QBO.",
+  "homepage": "https://voder.ai/",
+  "docs": "https://tedix.dev/apps/voder/",
+  "auth": "oauth",
+  "mcpServers": {
+    "voder": {
+      "url": "https://app.voder.ai/mcp"
+    }
+  }
+}

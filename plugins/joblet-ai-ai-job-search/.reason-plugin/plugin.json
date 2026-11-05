@@ -1,0 +1,13 @@
+{
+  "name": "joblet-ai-ai-job-search",
+  "displayName": "joblet.ai - AI Job Search",
+  "description": "Let AI find you the right job.",
+  "homepage": "https://joblet.ai",
+  "docs": "https://joblet.ai",
+  "auth": "none",
+  "mcpServers": {
+    "joblet-ai-ai-job-search": {
+      "url": "https://mcp.joblet.ai/mcp"
+    }
+  }
+}

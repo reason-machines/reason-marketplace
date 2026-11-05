@@ -1,0 +1,13 @@
+{
+  "name": "crossbeam",
+  "displayName": "Crossbeam",
+  "description": "Explore partner insights.",
+  "homepage": "https://www.crossbeam.com/",
+  "docs": "https://www.crossbeam.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "crossbeam": {
+      "url": "https://mcp.crossbeam.com/mcp"
+    }
+  }
+}

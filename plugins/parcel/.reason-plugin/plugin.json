@@ -1,0 +1,13 @@
+{
+  "name": "parcel",
+  "displayName": "Parcel",
+  "description": "Organize your job search.",
+  "homepage": "https://workinparcel.com/",
+  "docs": "https://workinparcel.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "parcel": {
+      "url": "https://workinparcel.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nyambot",
+  "displayName": "Nyambot",
+  "description": "Données officielles France.",
+  "homepage": "https://nyambot.ai",
+  "docs": "https://nyambot.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "nyambot": {
+      "url": "https://mcp.nyambot.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "reducto-office",
+  "displayName": "Reducto Office",
+  "description": "Full-fidelity document editor.",
+  "homepage": "https://office.reducto.ai",
+  "docs": "https://office.reducto.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "reducto-office": {
+      "url": "https://office.reducto.ai/api/mcp"
+    }
+  }
+}

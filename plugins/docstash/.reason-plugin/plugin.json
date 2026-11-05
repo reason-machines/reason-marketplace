@@ -1,0 +1,13 @@
+{
+  "name": "docstash",
+  "displayName": "DocStash",
+  "description": "Home for what your AI makes.",
+  "homepage": "https://docstash.ai",
+  "docs": "https://docstash.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "docstash": {
+      "url": "https://mcp.docstash.ai/mcp"
+    }
+  }
+}

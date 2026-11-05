@@ -1,0 +1,13 @@
+{
+  "name": "paycheck-calculator",
+  "displayName": "Netwise Paycheck Calculator",
+  "description": "2026 paycheck after taxes.",
+  "homepage": "https://paycheck-calculator.zovo.one",
+  "docs": "https://paycheck-calculator.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "paycheck-calculator": {
+      "url": "https://paycheck-calculator.zovo.one/mcp"
+    }
+  }
+}

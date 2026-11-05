@@ -1,0 +1,13 @@
+{
+  "name": "h-and-r-block",
+  "displayName": "H&R Block",
+  "description": "Tax Appointments & Estimates.",
+  "homepage": "https://www.hrblock.com/",
+  "docs": "https://tedix.dev/apps/hr-block/",
+  "auth": "none",
+  "mcpServers": {
+    "h-and-r-block": {
+      "url": "https://mcp-server.hrblock.com/mcp"
+    }
+  }
+}

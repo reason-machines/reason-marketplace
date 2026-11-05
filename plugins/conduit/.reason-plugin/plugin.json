@@ -1,0 +1,13 @@
+{
+  "name": "conduit",
+  "displayName": "Conduit",
+  "description": "Read customer operations.",
+  "homepage": "https://www.conduit.ai",
+  "docs": "https://www.conduit.ai/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "conduit": {
+      "url": "https://api.conduit.ai/v1/mcp"
+    }
+  }
+}

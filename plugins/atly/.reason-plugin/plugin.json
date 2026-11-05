@@ -1,0 +1,13 @@
+{
+  "name": "atly",
+  "displayName": "Atly",
+  "description": "Find places worth going to.",
+  "homepage": "https://www.atly.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.atly/places",
+  "auth": "none",
+  "mcpServers": {
+    "atly": {
+      "url": "https://agentic-api.atly.com/mcp"
+    }
+  }
+}

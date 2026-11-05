@@ -1,0 +1,13 @@
+{
+  "name": "biohub-esm",
+  "displayName": "Biohub ESM",
+  "description": "Understand proteins with ESM.",
+  "homepage": "https://biohub.ai/esm/protein",
+  "docs": "https://biohub.ai/esm/protein",
+  "auth": "oauth",
+  "mcpServers": {
+    "biohub-esm": {
+      "url": "https://biohub.ai/mcp"
+    }
+  }
+}

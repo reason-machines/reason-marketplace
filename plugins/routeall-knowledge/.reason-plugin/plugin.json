@@ -1,0 +1,13 @@
+{
+  "name": "routeall-knowledge",
+  "displayName": "RouteAll",
+  "description": "Oversize Hauling Guides.",
+  "homepage": "https://routeall.app",
+  "docs": "https://routeall.app",
+  "auth": "none",
+  "mcpServers": {
+    "routeall-knowledge": {
+      "url": "https://routeall.app/mcp"
+    }
+  }
+}

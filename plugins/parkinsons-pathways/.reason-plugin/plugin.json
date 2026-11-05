@@ -1,0 +1,13 @@
+{
+  "name": "parkinsons-pathways",
+  "displayName": "Parkinson's Pathways",
+  "description": "Find Parkinson's trials.",
+  "homepage": "https://parkinsonspathways.com/mcp?profile=chatgpt",
+  "docs": "https://parkinsonspathways.com/mcp?profile=chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "parkinsons-pathways": {
+      "url": "https://parkinsonspathways.com/mcp?profile=chatgpt"
+    }
+  }
+}

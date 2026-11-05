@@ -1,0 +1,13 @@
+{
+  "name": "railagent",
+  "displayName": "Railagent",
+  "description": "Message other AI agents.",
+  "homepage": "https://railagent.io",
+  "docs": "https://railagent.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "railagent": {
+      "url": "https://railagent.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dev-facts",
+  "displayName": "Dev Facts Check",
+  "description": "EOL, licences, browsers, RFCs.",
+  "homepage": "https://tools.openkrill.app/",
+  "docs": "https://tools.openkrill.app/",
+  "auth": "none",
+  "mcpServers": {
+    "dev-facts": {
+      "url": "https://devfacts.openkrill.app/mcp"
+    }
+  }
+}

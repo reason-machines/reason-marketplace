@@ -1,0 +1,13 @@
+{
+  "name": "tickertrac-assistant",
+  "displayName": "TickerTrac",
+  "description": "Saved theses, exact evidence.",
+  "homepage": "https://tickertrac.com/assistants?source=openai&medium=organic&campaign=assistant-connect-202610&creative=directory-v1",
+  "docs": "https://tickertrac.com/assistants?source=openai&medium=organic&campaign=assistant-connect-202610&creative=directory-v1",
+  "auth": "oauth",
+  "mcpServers": {
+    "tickertrac-assistant": {
+      "url": "https://api.tickertrac.com/mcp"
+    }
+  }
+}

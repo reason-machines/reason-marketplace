@@ -1,0 +1,13 @@
+{
+  "name": "notem",
+  "displayName": "Notem",
+  "description": "Save notes and use in any chat.",
+  "homepage": "https://notemcp.com",
+  "docs": "https://notemcp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "notem": {
+      "url": "https://notemcp.com/mcp"
+    }
+  }
+}

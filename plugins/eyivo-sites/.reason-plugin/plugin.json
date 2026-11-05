@@ -1,0 +1,13 @@
+{
+  "name": "eyivo-sites",
+  "displayName": "Eyivo Sites",
+  "description": "Manage your Eyivo sites.",
+  "homepage": "https://eyivo.com/developers/mcp",
+  "docs": "https://eyivo.com/developers/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "eyivo-sites": {
+      "url": "https://app.eyivo.com/mcp"
+    }
+  }
+}

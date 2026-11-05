@@ -1,0 +1,13 @@
+{
+  "name": "instant-books",
+  "displayName": "Instant Books",
+  "description": "Ask your AI Bookkeeper.",
+  "homepage": "https://instantbooks.ai",
+  "docs": "https://instantbooks.ai/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "instant-books": {
+      "url": "https://ui.instantbooks.ai/mcp"
+    }
+  }
+}

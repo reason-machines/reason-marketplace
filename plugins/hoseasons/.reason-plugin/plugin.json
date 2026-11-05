@@ -1,0 +1,13 @@
+{
+  "name": "hoseasons",
+  "displayName": "Hoseasons",
+  "description": "Explore UK holiday parks.",
+  "homepage": "https://www.hoseasons.co.uk/",
+  "docs": "https://www.hoseasons.co.uk/",
+  "auth": "none",
+  "mcpServers": {
+    "hoseasons": {
+      "url": "https://mcp.hoseasons.co.uk/mcp"
+    }
+  }
+}

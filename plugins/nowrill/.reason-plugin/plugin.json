@@ -1,0 +1,13 @@
+{
+  "name": "nowrill",
+  "displayName": "Nowrill",
+  "description": "Your day, open to change.",
+  "homepage": "https://nowrill.com",
+  "docs": "https://nowrill.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "nowrill": {
+      "url": "https://nowrill.com/api/mcp"
+    }
+  }
+}

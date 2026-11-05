@@ -1,0 +1,13 @@
+{
+  "name": "signalhire",
+  "displayName": "SignalHire",
+  "description": "B2B Data, emails & phone.",
+  "homepage": "https://signalhire.com",
+  "docs": "https://docs.signalhire.com/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "signalhire": {
+      "url": "https://mcp.signalhire.services/mcp"
+    }
+  }
+}

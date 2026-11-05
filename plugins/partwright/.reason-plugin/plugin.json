@@ -1,0 +1,13 @@
+{
+  "name": "partwright",
+  "displayName": "Partwright",
+  "description": "Replacement & custom 3D parts.",
+  "homepage": "https://partwright.app/",
+  "docs": "https://partwright.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "partwright": {
+      "url": "https://partwright.app/mcp"
+    }
+  }
+}

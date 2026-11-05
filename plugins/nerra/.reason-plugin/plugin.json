@@ -1,0 +1,13 @@
+{
+  "name": "nerra",
+  "displayName": "nerra",
+  "description": "Context for AI agents/teams.",
+  "homepage": "https://nerra.ai/",
+  "docs": "https://nerra.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "nerra": {
+      "url": "https://control.nerra.ai/api/agent/mcp"
+    }
+  }
+}

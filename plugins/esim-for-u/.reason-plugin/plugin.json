@@ -1,0 +1,13 @@
+{
+  "name": "esim-for-u",
+  "displayName": "eSIM For U",
+  "description": "Mobile data for your trips.",
+  "homepage": "https://esimforu.app",
+  "docs": "https://esimforu.app",
+  "auth": "none",
+  "mcpServers": {
+    "esim-for-u": {
+      "url": "https://mcp.esimforu.app/mcp"
+    }
+  }
+}

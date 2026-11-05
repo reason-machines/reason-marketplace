@@ -1,0 +1,13 @@
+{
+  "name": "loops",
+  "displayName": "Loops",
+  "description": "Email marketing for SaaS.",
+  "homepage": "https://loops.so",
+  "docs": "https://loops.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "loops": {
+      "url": "https://mcp.loops.so/"
+    }
+  }
+}

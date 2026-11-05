@@ -1,0 +1,13 @@
+{
+  "name": "thegram-cloud",
+  "displayName": "Thegram",
+  "description": "One .gram for people and AI.",
+  "homepage": "https://thegram.one",
+  "docs": "https://thegram.one/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "thegram-cloud": {
+      "url": "https://vault.thegram.one/mcp"
+    }
+  }
+}

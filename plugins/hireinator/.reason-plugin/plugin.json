@@ -1,0 +1,13 @@
+{
+  "name": "hireinator",
+  "displayName": "Hireinator",
+  "description": "Technical hiring from chat.",
+  "homepage": "https://hireinator.com/",
+  "docs": "https://hireinator.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hireinator": {
+      "url": "https://hireinator.com/mcp"
+    }
+  }
+}

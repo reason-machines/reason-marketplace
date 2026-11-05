@@ -1,0 +1,13 @@
+{
+  "name": "capable-cap-table",
+  "displayName": "Capable Cap Table",
+  "description": "AI-native cap table platform.",
+  "homepage": "https://capable.so",
+  "docs": "https://capable.so/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "capable-cap-table": {
+      "url": "https://capable.so/api/mcp"
+    }
+  }
+}

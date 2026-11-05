@@ -1,0 +1,13 @@
+{
+  "name": "leela-online",
+  "displayName": "Leela Online",
+  "description": "For when you keep circling.",
+  "homepage": "https://en.quantumgame.love",
+  "docs": "https://en.quantumgame.love",
+  "auth": "none",
+  "mcpServers": {
+    "leela-online": {
+      "url": "https://en.quantumgame.love/mcp"
+    }
+  }
+}

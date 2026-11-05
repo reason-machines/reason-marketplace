@@ -1,0 +1,13 @@
+{
+  "name": "collage-easy",
+  "displayName": "Collage Easy",
+  "description": "Create photo collages.",
+  "homepage": "https://collageeasy.app/chatgpt/",
+  "docs": "https://collageeasy.app/chatgpt/",
+  "auth": "none",
+  "mcpServers": {
+    "collage-easy": {
+      "url": "https://collageeasy.app/chatgpt/mcp"
+    }
+  }
+}

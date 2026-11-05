@@ -1,0 +1,13 @@
+{
+  "name": "octopus-do",
+  "displayName": "Octopus.do",
+  "description": "Build and edit sitemaps.",
+  "homepage": "https://octopus.do",
+  "docs": "https://octopus.do",
+  "auth": "oauth",
+  "mcpServers": {
+    "octopus-do": {
+      "url": "https://mcp.octopus.do/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "descrybe-legal-engine",
+  "displayName": "Descrybe Legal Engine",
+  "description": "Primary law research toolkit.",
+  "homepage": "https://descrybe.com",
+  "docs": "https://descrybe.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "descrybe-legal-engine": {
+      "url": "https://mcp.descrybe.com/mcp"
+    }
+  }
+}

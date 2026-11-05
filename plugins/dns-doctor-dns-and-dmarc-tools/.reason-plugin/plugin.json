@@ -1,0 +1,13 @@
+{
+  "name": "dns-doctor-dns-and-dmarc-tools",
+  "displayName": "DNS Doctor - DNS & DMARC Tools",
+  "description": "DNS checks & DMARC monitoring.",
+  "homepage": "https://dnsdoctor.dev",
+  "docs": "https://dnsdoctor.dev",
+  "auth": "none",
+  "mcpServers": {
+    "dns-doctor-dns-and-dmarc-tools": {
+      "url": "https://dnsdoctor.dev/mcp"
+    }
+  }
+}

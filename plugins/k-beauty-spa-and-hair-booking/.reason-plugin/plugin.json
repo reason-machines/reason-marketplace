@@ -1,0 +1,13 @@
+{
+  "name": "k-beauty-spa-and-hair-booking",
+  "displayName": "K-Beauty, Spa & Hair Booking",
+  "description": "Book K-Beauty in Korea.",
+  "homepage": "https://timeplex.ai",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.timeplex/booking",
+  "auth": "none",
+  "mcpServers": {
+    "k-beauty-spa-and-hair-booking": {
+      "url": "https://chat.timeplex.ai/mcp"
+    }
+  }
+}

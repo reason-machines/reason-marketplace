@@ -1,0 +1,13 @@
+{
+  "name": "point-topic",
+  "displayName": "Point Topic",
+  "description": "UK broadband market reference.",
+  "homepage": "https://www.point-topic.com/",
+  "docs": "https://www.point-topic.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "point-topic": {
+      "url": "https://mcp.point-topic.com/mcp"
+    }
+  }
+}

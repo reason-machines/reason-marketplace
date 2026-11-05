@@ -1,0 +1,13 @@
+{
+  "name": "earlybird",
+  "displayName": "EarlyBird",
+  "description": "Find jobs and manage alerts.",
+  "homepage": "https://earlybird.live",
+  "docs": "https://earlybird.live",
+  "auth": "oauth",
+  "mcpServers": {
+    "earlybird": {
+      "url": "https://mcp.earlybird.live/mcp"
+    }
+  }
+}

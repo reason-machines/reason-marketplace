@@ -1,0 +1,13 @@
+{
+  "name": "mock-mentor",
+  "displayName": "Mock Mentor",
+  "description": "AI exam preparation coach.",
+  "homepage": "https://mockmentor.ai",
+  "docs": "https://mockmentor.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "mock-mentor": {
+      "url": "https://mcp.mockmentor.ai/mcp"
+    }
+  }
+}

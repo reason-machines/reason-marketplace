@@ -1,0 +1,13 @@
+{
+  "name": "folkso",
+  "displayName": "Folkso",
+  "description": "Find people for your task.",
+  "homepage": "https://folkso.app",
+  "docs": "https://folkso.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "folkso": {
+      "url": "https://folkso.app/api/mcp"
+    }
+  }
+}

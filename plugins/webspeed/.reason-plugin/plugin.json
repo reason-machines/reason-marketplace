@@ -1,0 +1,13 @@
+{
+  "name": "webspeed",
+  "displayName": "WebSpeed",
+  "description": "Measure and compare page speed.",
+  "homepage": "https://webspeed.pro/",
+  "docs": "https://webspeed.pro/en/apps/",
+  "auth": "none",
+  "mcpServers": {
+    "webspeed": {
+      "url": "https://api.webspeed.pro/mcp"
+    }
+  }
+}

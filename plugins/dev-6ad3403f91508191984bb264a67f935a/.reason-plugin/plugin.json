@@ -1,0 +1,13 @@
+{
+  "name": "dev-6ad3403f91508191984bb264a67f935a",
+  "displayName": "00Quiz: Your AI Quizmaster",
+  "description": "Your personal daily quiz host.",
+  "homepage": "https://00quiz.com/",
+  "docs": "https://00quiz.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "dev-6ad3403f91508191984bb264a67f935a": {
+      "url": "https://api.00quiz.com/mcp"
+    }
+  }
+}

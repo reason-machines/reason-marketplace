@@ -1,0 +1,13 @@
+{
+  "name": "tutors-kz",
+  "displayName": "Tutors.kz",
+  "description": "Find a tutor in Kazakhstan.",
+  "homepage": "https://tutors.kz/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=kz.tutors/tutors",
+  "auth": "none",
+  "mcpServers": {
+    "tutors-kz": {
+      "url": "https://tutors.kz/api/mcp"
+    }
+  }
+}

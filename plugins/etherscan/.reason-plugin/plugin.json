@@ -1,0 +1,13 @@
+{
+  "name": "etherscan",
+  "displayName": "Etherscan",
+  "description": "Explore live blockchain data.",
+  "homepage": "https://etherscan.io",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.etherscan",
+  "auth": "none",
+  "mcpServers": {
+    "etherscan": {
+      "url": "https://mcp-keyless.etherscan.io/mcp"
+    }
+  }
+}

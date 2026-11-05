@@ -1,0 +1,13 @@
+{
+  "name": "paint-power-project-planner",
+  "displayName": "Paint Power Project Planner",
+  "description": "Plan painting & remodeling.",
+  "homepage": "https://paintpower.net/",
+  "docs": "https://paintpower.net/",
+  "auth": "none",
+  "mcpServers": {
+    "paint-power-project-planner": {
+      "url": "https://mcp.paintpower.net/mcp"
+    }
+  }
+}

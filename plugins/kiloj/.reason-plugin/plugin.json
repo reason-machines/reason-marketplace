@@ -1,0 +1,13 @@
+{
+  "name": "kiloj",
+  "displayName": "KiloJ",
+  "description": "Calorie & nutrition tracker.",
+  "homepage": "https://kiloj.com",
+  "docs": "https://kiloj.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "kiloj": {
+      "url": "https://mcp.kiloj.com/mcp"
+    }
+  }
+}

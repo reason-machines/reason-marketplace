@@ -1,0 +1,13 @@
+{
+  "name": "pr-readiness-check",
+  "displayName": "PR Readiness Check",
+  "description": "Check PR review readiness.",
+  "homepage": "https://pr-readiness-check.sidcraigau.workers.dev",
+  "docs": "https://pr-readiness-check.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "pr-readiness-check": {
+      "url": "https://pr-readiness-check.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

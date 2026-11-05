@@ -1,0 +1,13 @@
+{
+  "name": "aveon-sigorta",
+  "displayName": "Aveon Sigorta",
+  "description": "Insurance in North Cyprus.",
+  "homepage": "https://aveoninsurance.com/en",
+  "docs": "https://aveoninsurance.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "aveon-sigorta": {
+      "url": "https://aveoninsurance.com/mcp"
+    }
+  }
+}

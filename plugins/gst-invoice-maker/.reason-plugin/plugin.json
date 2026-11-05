@@ -1,0 +1,13 @@
+{
+  "name": "gst-invoice-maker",
+  "displayName": "GST Invoice Maker",
+  "description": "Free Printable GST Bills.",
+  "homepage": "https://gstinvoicemaker.in/",
+  "docs": "https://gstinvoicemaker.in/",
+  "auth": "none",
+  "mcpServers": {
+    "gst-invoice-maker": {
+      "url": "https://gstinvoicemaker.in/mcp"
+    }
+  }
+}

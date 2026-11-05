@@ -1,0 +1,13 @@
+{
+  "name": "corezoid",
+  "displayName": "Corezoid",
+  "description": "Corezoid processes in your IDE.",
+  "homepage": "https://corezoid.com",
+  "docs": "https://corezoid.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "corezoid": {
+      "url": "https://mcp.corezoid.com/mcp"
+    }
+  }
+}

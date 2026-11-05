@@ -1,0 +1,13 @@
+{
+  "name": "certscore-ai-privacy-scanner",
+  "displayName": "CertScore.ai Privacy Scanner",
+  "description": "GDPR, cookies & trackers.",
+  "homepage": "https://certscore.ai",
+  "docs": "https://certscore.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "certscore-ai-privacy-scanner": {
+      "url": "https://mcp.certscore.ai/mcp"
+    }
+  }
+}

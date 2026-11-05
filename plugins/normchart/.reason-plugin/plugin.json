@@ -1,0 +1,13 @@
+{
+  "name": "normchart",
+  "displayName": "normchart",
+  "description": "Business charts for reports.",
+  "homepage": "https://www.normchart.com",
+  "docs": "https://www.normchart.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "normchart": {
+      "url": "https://normchart.com/mcp"
+    }
+  }
+}

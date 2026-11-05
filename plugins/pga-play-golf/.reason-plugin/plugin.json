@@ -1,0 +1,13 @@
+{
+  "name": "pga-play-golf",
+  "displayName": "PGA – Play Golf",
+  "description": "Find a golf coach.",
+  "homepage": "https://www.pga.com",
+  "docs": "https://www.pga.com",
+  "auth": "none",
+  "mcpServers": {
+    "pga-play-golf": {
+      "url": "https://mcp.pga.com/mcp"
+    }
+  }
+}

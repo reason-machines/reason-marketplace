@@ -1,0 +1,13 @@
+{
+  "name": "tripways",
+  "displayName": "TripWays",
+  "description": "Tours with live group prices.",
+  "homepage": "https://tripways.com",
+  "docs": "https://tripways.com",
+  "auth": "none",
+  "mcpServers": {
+    "tripways": {
+      "url": "https://mcp.tripways.com/mcp"
+    }
+  }
+}

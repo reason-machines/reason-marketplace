@@ -1,0 +1,13 @@
+{
+  "name": "coffeedatenow",
+  "displayName": "CoffeeDateNow",
+  "description": "Meet for coffee right now.",
+  "homepage": "https://coffeedatenow.com",
+  "docs": "https://coffeedatenow.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "coffeedatenow": {
+      "url": "https://coffeedatenow.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "caipi",
+  "displayName": "Caipi",
+  "description": "The agent-native workspace.",
+  "homepage": "https://caipi.ai",
+  "docs": "https://caipi.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "caipi": {
+      "url": "https://caipi.ai/mcp"
+    }
+  }
+}

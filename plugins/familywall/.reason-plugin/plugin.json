@@ -1,0 +1,13 @@
+{
+  "name": "familywall",
+  "displayName": "FamilyWall",
+  "description": "Family life, made simple.",
+  "homepage": "https://www.familywall.com/",
+  "docs": "https://www.familywall.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "familywall": {
+      "url": "https://mcp.familywall.com/mcp"
+    }
+  }
+}

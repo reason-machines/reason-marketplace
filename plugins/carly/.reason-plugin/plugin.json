@@ -1,0 +1,13 @@
+{
+  "name": "carly",
+  "displayName": "Carly",
+  "description": "Email, CRM, and workflows.",
+  "homepage": "https://www.usecarly.com",
+  "docs": "https://usecarly.com/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "carly": {
+      "url": "https://carlyassistant.com/mcp/"
+    }
+  }
+}

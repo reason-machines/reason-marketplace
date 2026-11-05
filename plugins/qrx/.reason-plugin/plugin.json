@@ -1,0 +1,13 @@
+{
+  "name": "qrx",
+  "displayName": "QRX",
+  "description": "Artistic, scannable QR codes.",
+  "homepage": "https://qrx.codes",
+  "docs": "https://qrx.codes",
+  "auth": "oauth",
+  "mcpServers": {
+    "qrx": {
+      "url": "https://qrx.codes/mcp"
+    }
+  }
+}

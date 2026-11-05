@@ -1,0 +1,13 @@
+{
+  "name": "hamla",
+  "displayName": "Hamla",
+  "description": "Campaigns, contacts, reports.",
+  "homepage": "https://hamla.io",
+  "docs": "https://hamla.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "hamla": {
+      "url": "https://app.hamla.io/mcp"
+    }
+  }
+}

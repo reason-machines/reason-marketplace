@@ -1,0 +1,13 @@
+{
+  "name": "wishkit",
+  "displayName": "WishKit",
+  "description": "Feature requests and reviews.",
+  "homepage": "https://www.wishkit.io/?ref=chatgpt-directory",
+  "docs": "https://www.wishkit.io/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "wishkit": {
+      "url": "https://www.wishkit.io/mcp"
+    }
+  }
+}

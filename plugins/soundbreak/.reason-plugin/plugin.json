@@ -1,0 +1,13 @@
+{
+  "name": "soundbreak",
+  "displayName": "SoundBreak",
+  "description": "Create AI Music with Artists.",
+  "homepage": "https://soundbreak.ai",
+  "docs": "https://soundbreak.ai",
+  "auth": "none",
+  "mcpServers": {
+    "soundbreak": {
+      "url": "https://mcp.soundbreak.ai/mcp"
+    }
+  }
+}

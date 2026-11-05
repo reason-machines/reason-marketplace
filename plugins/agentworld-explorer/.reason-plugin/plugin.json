@@ -1,0 +1,13 @@
+{
+  "name": "agentworld-explorer",
+  "displayName": "AgentWorld Explorer",
+  "description": "Live AI agent economy data.",
+  "homepage": "https://agentworld.me",
+  "docs": "https://agentworld.me",
+  "auth": "none",
+  "mcpServers": {
+    "agentworld-explorer": {
+      "url": "https://agentworld.me/mcp"
+    }
+  }
+}

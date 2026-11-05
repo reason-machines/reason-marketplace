@@ -1,0 +1,13 @@
+{
+  "name": "bimwired-elektroplanung",
+  "displayName": "BimWired Elektroplanung Revit",
+  "description": "Stromkreise, VDE, DIN 18015.",
+  "homepage": "https://bimwired.com/landing/",
+  "docs": "https://bimwired.com/landing/",
+  "auth": "none",
+  "mcpServers": {
+    "bimwired-elektroplanung": {
+      "url": "https://mcp.bimwired.com/mcp"
+    }
+  }
+}

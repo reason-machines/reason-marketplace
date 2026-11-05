@@ -1,0 +1,13 @@
+{
+  "name": "tiro",
+  "displayName": "Tiro",
+  "description": "Search and organize notes.",
+  "homepage": "https://tiro.ooo",
+  "docs": "https://tiro.ooo",
+  "auth": "oauth",
+  "mcpServers": {
+    "tiro": {
+      "url": "https://mcp.tiro.ooo/mcp"
+    }
+  }
+}

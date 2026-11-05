@@ -1,0 +1,13 @@
+{
+  "name": "gravl",
+  "displayName": "Gravl",
+  "description": "Log and plan your workouts.",
+  "homepage": "https://gravl.ai",
+  "docs": "https://gravl.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "gravl": {
+      "url": "https://mcp.gravl.ai/mcp"
+    }
+  }
+}

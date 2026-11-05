@@ -1,0 +1,13 @@
+{
+  "name": "randevu-takvimim",
+  "displayName": "Randevu Takvimim",
+  "description": "Find & book beauty salons.",
+  "homepage": "https://randevutakvimim.com/",
+  "docs": "https://randevutakvimim.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "randevu-takvimim": {
+      "url": "https://randevutakvimim.com/mcp/"
+    }
+  }
+}

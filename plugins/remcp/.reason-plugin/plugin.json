@@ -1,0 +1,13 @@
+{
+  "name": "remcp",
+  "displayName": "ReMCP",
+  "description": "Operate your paired computers.",
+  "homepage": "https://remcp.site",
+  "docs": "https://remcp.site",
+  "auth": "oauth",
+  "mcpServers": {
+    "remcp": {
+      "url": "https://remcp.site/mcp"
+    }
+  }
+}

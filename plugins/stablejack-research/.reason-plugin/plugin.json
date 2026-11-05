@@ -1,0 +1,13 @@
+{
+  "name": "stablejack-research",
+  "displayName": "StableJack Research",
+  "description": "Market research and insights.",
+  "homepage": "https://www.stablejack.xyz/",
+  "docs": "https://tedix.dev/apps/stablejack-research/",
+  "auth": "oauth",
+  "mcpServers": {
+    "stablejack-research": {
+      "url": "https://ai.stable-jack.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "marcora",
+  "displayName": "Marcora",
+  "description": "On-brand marketing content.",
+  "homepage": "https://marcora.ai/",
+  "docs": "https://marcora.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "marcora": {
+      "url": "https://mcp.marcora.ai/"
+    }
+  }
+}

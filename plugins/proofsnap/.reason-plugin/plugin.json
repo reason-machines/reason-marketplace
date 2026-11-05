@@ -1,0 +1,13 @@
+{
+  "name": "proofsnap",
+  "displayName": "ProofSnap",
+  "description": "Web pages as signed evidence.",
+  "homepage": "https://getproofsnap.com/api/mcp.html",
+  "docs": "https://getproofsnap.com/api/mcp.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "proofsnap": {
+      "url": "https://mcp.getproofsnap.com/mcp"
+    }
+  }
+}

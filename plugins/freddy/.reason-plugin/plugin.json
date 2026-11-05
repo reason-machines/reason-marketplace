@@ -1,0 +1,13 @@
+{
+  "name": "freddy",
+  "displayName": "freddy",
+  "description": "Ask about your health data.",
+  "homepage": "https://freddy.coach",
+  "docs": "https://freddy.coach",
+  "auth": "oauth",
+  "mcpServers": {
+    "freddy": {
+      "url": "https://freddy.coach/mcp"
+    }
+  }
+}

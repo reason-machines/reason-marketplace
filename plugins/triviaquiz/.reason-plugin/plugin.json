@@ -1,0 +1,13 @@
+{
+  "name": "triviaquiz",
+  "displayName": "TriviaQuiz",
+  "description": "Run live quiz games.",
+  "homepage": "https://triviaquiz.pro",
+  "docs": "https://triviaquiz.pro",
+  "auth": "none",
+  "mcpServers": {
+    "triviaquiz": {
+      "url": "https://triviaquiz.pro/mcp"
+    }
+  }
+}

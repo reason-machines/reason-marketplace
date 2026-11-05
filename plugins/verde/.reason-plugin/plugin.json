@@ -1,0 +1,13 @@
+{
+  "name": "verde",
+  "displayName": "Verde",
+  "description": "Manage shared team knowledge.",
+  "homepage": "https://www.getverde.ai",
+  "docs": "https://www.getverde.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "verde": {
+      "url": "https://getverde.ai/mcp"
+    }
+  }
+}

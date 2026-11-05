@@ -1,0 +1,13 @@
+{
+  "name": "eventshub",
+  "displayName": "eventshub",
+  "description": "What's on in Cyprus.",
+  "homepage": "https://eventshub.cy",
+  "docs": "https://eventshub.cy",
+  "auth": "none",
+  "mcpServers": {
+    "eventshub": {
+      "url": "https://eventshub.cy/mcp"
+    }
+  }
+}

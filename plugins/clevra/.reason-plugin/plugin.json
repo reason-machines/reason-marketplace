@@ -1,0 +1,13 @@
+{
+  "name": "clevra",
+  "displayName": "Clevra",
+  "description": "Field service jobs & schedule.",
+  "homepage": "https://clevra.ai",
+  "docs": "https://clevra.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "clevra": {
+      "url": "https://app.clevra.ai/api/mcp"
+    }
+  }
+}

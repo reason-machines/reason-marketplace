@@ -1,0 +1,13 @@
+{
+  "name": "haveibeensquatted",
+  "displayName": "Have I Been Squatted",
+  "description": "Catch attacker infrastructure.",
+  "homepage": "https://haveibeensquatted.com",
+  "docs": "https://haveibeensquatted.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "haveibeensquatted": {
+      "url": "https://mcp.haveibeensquatted.com/mcp"
+    }
+  }
+}

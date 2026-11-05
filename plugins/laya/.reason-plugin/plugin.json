@@ -1,0 +1,13 @@
+{
+  "name": "laya",
+  "displayName": "Laya UPSC",
+  "description": "UPSC Civil Services Exam prep.",
+  "homepage": "https://getlaya.in",
+  "docs": "https://getlaya.in",
+  "auth": "oauth",
+  "mcpServers": {
+    "laya": {
+      "url": "https://getlaya.in/mcp"
+    }
+  }
+}

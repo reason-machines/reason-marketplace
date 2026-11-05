@@ -1,0 +1,13 @@
+{
+  "name": "airprompter",
+  "displayName": "AirPrompter",
+  "description": "Use prompts and workflows.",
+  "homepage": "https://airprompter.com",
+  "docs": "https://airprompter.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "airprompter": {
+      "url": "https://mcp.airprompter.com/mcp"
+    }
+  }
+}

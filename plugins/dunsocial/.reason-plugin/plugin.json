@@ -1,0 +1,13 @@
+{
+  "name": "dunsocial",
+  "displayName": "DunSocial",
+  "description": "Schedule and publish posts.",
+  "homepage": "https://www.dunsocial.com",
+  "docs": "https://dunsocial.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "dunsocial": {
+      "url": "https://api.dunsocial.com/api/mcp"
+    }
+  }
+}

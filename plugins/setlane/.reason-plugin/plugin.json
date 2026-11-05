@@ -1,0 +1,13 @@
+{
+  "name": "setlane",
+  "displayName": "Setlane: Gym Workout Tracker",
+  "description": "Track and manage workouts.",
+  "homepage": "https://setlane.app",
+  "docs": "https://app.setlane.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "setlane": {
+      "url": "https://app.setlane.app/mcp"
+    }
+  }
+}

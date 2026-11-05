@@ -1,0 +1,13 @@
+{
+  "name": "stickers",
+  "displayName": "Stickers.com",
+  "description": "Custom stickers and labels.",
+  "homepage": "https://www.stickers.com",
+  "docs": "https://www.stickers.com",
+  "auth": "none",
+  "mcpServers": {
+    "stickers": {
+      "url": "https://mcp.stickers.com/mcp"
+    }
+  }
+}

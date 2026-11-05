@@ -1,0 +1,13 @@
+{
+  "name": "ponito",
+  "displayName": "Ponito",
+  "description": "Compare products and prices.",
+  "homepage": "https://www.ponito.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.ponito/product-intelligence",
+  "auth": "none",
+  "mcpServers": {
+    "ponito": {
+      "url": "https://www.ponito.com/mcp"
+    }
+  }
+}

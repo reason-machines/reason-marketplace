@@ -1,0 +1,13 @@
+{
+  "name": "carabela-licitaciones",
+  "displayName": "Carabela – Public tenders",
+  "description": "Find open public tenders.",
+  "homepage": "https://carabela.ai",
+  "docs": "https://carabela.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "carabela-licitaciones": {
+      "url": "https://app.carabela.ai/api/mcp"
+    }
+  }
+}

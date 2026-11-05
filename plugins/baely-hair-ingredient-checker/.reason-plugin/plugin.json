@@ -1,0 +1,13 @@
+{
+  "name": "baely-hair-ingredient-checker",
+  "displayName": "Baely Hair Ingredient Checker",
+  "description": "Check haircare ingredients.",
+  "homepage": "https://app.hairqare.co/scanner",
+  "docs": "https://app.hairqare.co/scanner",
+  "auth": "none",
+  "mcpServers": {
+    "baely-hair-ingredient-checker": {
+      "url": "https://mcp.hairqare.co/mcp"
+    }
+  }
+}

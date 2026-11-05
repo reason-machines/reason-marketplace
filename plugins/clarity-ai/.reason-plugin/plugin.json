@@ -1,0 +1,13 @@
+{
+  "name": "clarity-ai",
+  "displayName": "Clarity AI",
+  "description": "Extra-financial risk analysis.",
+  "homepage": "https://tedix.dev/apps/clarity-ai/",
+  "docs": "https://tedix.dev/apps/clarity-ai/",
+  "auth": "none",
+  "mcpServers": {
+    "clarity-ai": {
+      "url": "https://clarity-sfdr20-mcp.pro.clarity.ai/mcp"
+    }
+  }
+}

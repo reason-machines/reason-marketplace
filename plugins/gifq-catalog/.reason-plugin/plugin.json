@@ -1,0 +1,13 @@
+{
+  "name": "gifq-catalog",
+  "displayName": "GIFQ Gift Card Catalog",
+  "description": "Browse 5,400+ gift card brands.",
+  "homepage": "https://www.gifq.com",
+  "docs": "https://www.gifq.com",
+  "auth": "none",
+  "mcpServers": {
+    "gifq-catalog": {
+      "url": "https://mcp.gifq.com/mcp"
+    }
+  }
+}

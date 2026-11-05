@@ -1,0 +1,13 @@
+{
+  "name": "concept-workspace",
+  "displayName": "Concept Workspace",
+  "description": "Team context and tools.",
+  "homepage": "https://www.concept.dev",
+  "docs": "https://api.concept.dev/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "concept-workspace": {
+      "url": "https://api.concept.dev/api/v1/mcp"
+    }
+  }
+}

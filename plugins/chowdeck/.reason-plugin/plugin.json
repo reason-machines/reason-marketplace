@@ -1,0 +1,13 @@
+{
+  "name": "chowdeck",
+  "displayName": "Chowdeck",
+  "description": "Order food and track delivery.",
+  "homepage": "https://chowdeck.com",
+  "docs": "https://chowdeck.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "chowdeck": {
+      "url": "https://mcp.chowdeck.com/mcp"
+    }
+  }
+}

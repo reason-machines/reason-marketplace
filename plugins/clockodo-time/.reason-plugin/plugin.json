@@ -1,0 +1,13 @@
+{
+  "name": "clockodo-time",
+  "displayName": "Clockodo",
+  "description": "Track time, view project hours.",
+  "homepage": "https://www.clockodo.com/",
+  "docs": "https://www.clockodo.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "clockodo-time": {
+      "url": "https://mcp.clockodo.com/mcp"
+    }
+  }
+}

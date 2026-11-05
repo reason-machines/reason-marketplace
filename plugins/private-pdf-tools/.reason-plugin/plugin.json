@@ -1,0 +1,13 @@
+{
+  "name": "private-pdf-tools",
+  "displayName": "Private PDF Tools",
+  "description": "Edit PDF files privately.",
+  "homepage": "https://ailabtools.work/",
+  "docs": "https://ailabtools.work/",
+  "auth": "none",
+  "mcpServers": {
+    "private-pdf-tools": {
+      "url": "https://mcp.ailabtools.work/mcp"
+    }
+  }
+}

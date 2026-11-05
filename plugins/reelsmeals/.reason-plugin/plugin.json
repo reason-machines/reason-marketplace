@@ -1,0 +1,13 @@
+{
+  "name": "reelsmeals",
+  "displayName": "ReelsMeals",
+  "description": "Find recipes. Cook your saves.",
+  "homepage": "https://reelsmeals.com/agents/connect",
+  "docs": "https://reelsmeals.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "reelsmeals": {
+      "url": "https://reelsmeals.com/api/mcp"
+    }
+  }
+}

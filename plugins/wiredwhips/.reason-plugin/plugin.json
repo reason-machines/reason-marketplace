@@ -1,0 +1,13 @@
+{
+  "name": "wiredwhips",
+  "displayName": "WiredWhips",
+  "description": "E-bike parts with fit checks.",
+  "homepage": "https://wiredwhips.com",
+  "docs": "https://wiredwhips.com",
+  "auth": "none",
+  "mcpServers": {
+    "wiredwhips": {
+      "url": "https://wiredwhips.com/mcp"
+    }
+  }
+}

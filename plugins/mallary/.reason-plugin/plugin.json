@@ -1,0 +1,13 @@
+{
+  "name": "mallary",
+  "displayName": "Mallary",
+  "description": "Post and reply on social media.",
+  "homepage": "https://mallary.ai",
+  "docs": "https://mallary.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "mallary": {
+      "url": "https://mallary.ai/mcp"
+    }
+  }
+}

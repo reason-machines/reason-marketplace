@@ -1,0 +1,13 @@
+{
+  "name": "wp-image-fixer",
+  "displayName": "WP Image Fixer",
+  "description": "Optimize WordPress images.",
+  "homepage": "https://www.wpimagefixer.com/",
+  "docs": "https://www.wpimagefixer.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "wp-image-fixer": {
+      "url": "https://mcp.wpimagefixer.com/mcp"
+    }
+  }
+}

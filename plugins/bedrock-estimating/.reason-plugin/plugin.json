@@ -1,0 +1,13 @@
+{
+  "name": "bedrock-estimating",
+  "displayName": "Bedrock Estimating",
+  "description": "Plans, takeoff and estimates.",
+  "homepage": "https://www.bedrockestimating.com",
+  "docs": "https://www.bedrockestimating.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "bedrock-estimating": {
+      "url": "https://bedrockestimating.com/mcp"
+    }
+  }
+}

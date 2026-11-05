@@ -1,0 +1,13 @@
+{
+  "name": "footballgpt",
+  "displayName": "FootballGPT",
+  "description": "Plan better football sessions.",
+  "homepage": "https://footballgpt.co",
+  "docs": "https://footballgpt.co/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "footballgpt": {
+      "url": "https://footballgpt.co/api/mcp/stream"
+    }
+  }
+}

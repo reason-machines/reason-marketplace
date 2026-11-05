@@ -1,0 +1,13 @@
+{
+  "name": "circlemark",
+  "displayName": "Circlemark",
+  "description": "CRE maturities, who to reach.",
+  "homepage": "https://circlemark.ai/chatgpt",
+  "docs": "https://circlemark.ai/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "circlemark": {
+      "url": "https://circlemark.ai/api/mcp"
+    }
+  }
+}

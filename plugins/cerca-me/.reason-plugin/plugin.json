@@ -1,0 +1,13 @@
+{
+  "name": "cerca-me",
+  "displayName": "Cerca.me",
+  "description": "Your places, in your AI.",
+  "homepage": "https://cerca.me/mcp",
+  "docs": "https://cerca.me/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "cerca-me": {
+      "url": "https://cerca.me/mcp"
+    }
+  }
+}

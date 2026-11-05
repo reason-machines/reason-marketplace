@@ -1,0 +1,13 @@
+{
+  "name": "octen",
+  "displayName": "Octen",
+  "description": "Live web search & extraction.",
+  "homepage": "https://octen.ai/",
+  "docs": "https://octen.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "octen": {
+      "url": "https://mcp.octen.ai/mcp"
+    }
+  }
+}

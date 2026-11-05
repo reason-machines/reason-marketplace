@@ -1,0 +1,13 @@
+{
+  "name": "agenda-hero",
+  "displayName": "Agenda Hero",
+  "description": "Turn images into events.",
+  "homepage": "https://agendahero.com",
+  "docs": "https://agendahero.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "agenda-hero": {
+      "url": "https://agendahero.com/api/mcp"
+    }
+  }
+}

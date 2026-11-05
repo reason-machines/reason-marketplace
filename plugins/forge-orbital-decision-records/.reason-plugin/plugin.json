@@ -1,0 +1,13 @@
+{
+  "name": "forge-orbital-decision-records",
+  "displayName": "Forge AI Accountability",
+  "description": "Check. Compare. Verify.",
+  "homepage": "https://forgeorbital.com",
+  "docs": "https://forgeorbital.com",
+  "auth": "none",
+  "mcpServers": {
+    "forge-orbital-decision-records": {
+      "url": "https://demo.forgeorbital.com/mcp"
+    }
+  }
+}

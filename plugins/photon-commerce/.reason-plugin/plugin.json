@@ -1,0 +1,13 @@
+{
+  "name": "photon-commerce",
+  "displayName": "Photon Commerce",
+  "description": "Document AI OCR HITL Labeling.",
+  "homepage": "https://www.photoncommerce.com/",
+  "docs": "https://www.photoncommerce.com/",
+  "auth": "none",
+  "mcpServers": {
+    "photon-commerce": {
+      "url": "https://mcp.photoncommerce.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sponge",
+  "displayName": "Sponge",
+  "description": "Wallet for your agent.",
+  "homepage": "https://paysponge.com",
+  "docs": "https://tedix.dev/apps/sponge/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sponge": {
+      "url": "https://api.wallet.paysponge.com/chatgpt/mcp"
+    }
+  }
+}

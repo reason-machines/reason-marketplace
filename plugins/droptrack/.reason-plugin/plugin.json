@@ -1,0 +1,13 @@
+{
+  "name": "droptrack",
+  "displayName": "DropTrack",
+  "description": "Analyze and promote music.",
+  "homepage": "https://www.droptrack.com/",
+  "docs": "https://www.droptrack.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "droptrack": {
+      "url": "https://mcp.droptrack.com/mcp"
+    }
+  }
+}

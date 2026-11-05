@@ -1,0 +1,13 @@
+{
+  "name": "rightway-parking-reservations",
+  "displayName": "Rightway Parking",
+  "description": "Airport, cruise, event parking.",
+  "homepage": "https://rightwayparking.com",
+  "docs": "https://rightwayparking.com",
+  "auth": "none",
+  "mcpServers": {
+    "rightway-parking-reservations": {
+      "url": "https://rightwayparking.com/mcp"
+    }
+  }
+}

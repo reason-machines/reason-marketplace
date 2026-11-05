@@ -1,0 +1,13 @@
+{
+  "name": "occam-edge",
+  "displayName": "Occam Edge",
+  "description": "Project intelligence.",
+  "homepage": "https://www.occam-edge.com",
+  "docs": "https://www.occam-edge.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "occam-edge": {
+      "url": "https://mcp.occam-edge.com/mcp"
+    }
+  }
+}

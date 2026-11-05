@@ -1,0 +1,13 @@
+{
+  "name": "nella-finance-ai",
+  "displayName": "Nella Finance AI",
+  "description": "Your finance team in chat.",
+  "homepage": "https://nellafinance.com",
+  "docs": "https://nellafinance.com/help/claude/",
+  "auth": "oauth",
+  "mcpServers": {
+    "nella-finance-ai": {
+      "url": "https://mcp.nellafinance.co.uk/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "baby-names",
+  "displayName": "Zovo Baby Names",
+  "description": "US baby name trends & finder.",
+  "homepage": "https://baby-names.zovo.one",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.theluckystrike/baby-names",
+  "auth": "none",
+  "mcpServers": {
+    "baby-names": {
+      "url": "https://baby-names.zovo.one/mcp"
+    }
+  }
+}

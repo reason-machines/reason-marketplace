@@ -1,0 +1,13 @@
+{
+  "name": "getimg",
+  "displayName": "getimg",
+  "description": "Create images, video and audio.",
+  "homepage": "https://getimg.ai/mcp",
+  "docs": "https://getimg.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "getimg": {
+      "url": "https://getimg.ai/mcp"
+    }
+  }
+}

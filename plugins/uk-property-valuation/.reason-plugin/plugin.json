@@ -1,0 +1,13 @@
+{
+  "name": "uk-property-valuation",
+  "displayName": "UK Property Valuation",
+  "description": "UK House and Flat Valuation.",
+  "homepage": "https://www.mcpbundles.com/mcp-apps/uk-property-intelligence",
+  "docs": "https://www.mcpbundles.com/mcp-apps/uk-property-intelligence",
+  "auth": "oauth",
+  "mcpServers": {
+    "uk-property-valuation": {
+      "url": "https://mcp.mcpbundles.com/bundle/uk-property-intelligence"
+    }
+  }
+}

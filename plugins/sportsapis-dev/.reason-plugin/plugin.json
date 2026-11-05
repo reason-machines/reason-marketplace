@@ -1,0 +1,13 @@
+{
+  "name": "sportsapis-dev",
+  "displayName": "SportsAPIs.dev",
+  "description": "Find sports data & odds APIs.",
+  "homepage": "https://sportsapis.dev",
+  "docs": "https://sportsapis.dev",
+  "auth": "none",
+  "mcpServers": {
+    "sportsapis-dev": {
+      "url": "https://sportsapis.dev/mcp"
+    }
+  }
+}

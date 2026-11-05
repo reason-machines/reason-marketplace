@@ -1,0 +1,13 @@
+{
+  "name": "typerelay",
+  "displayName": "Typerelay",
+  "description": "Find and save snippets.",
+  "homepage": "https://typerelay.com",
+  "docs": "https://typerelay.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "typerelay": {
+      "url": "https://mcp.typerelay.com/mcp"
+    }
+  }
+}

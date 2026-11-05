@@ -1,0 +1,13 @@
+{
+  "name": "evenda",
+  "displayName": "Evenda",
+  "description": "Your organizer workspace.",
+  "homepage": "https://evenda.io/en/integrations/chatgpt",
+  "docs": "https://evenda.io/en/integrations/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "evenda": {
+      "url": "https://evenda.io/mcp"
+    }
+  }
+}

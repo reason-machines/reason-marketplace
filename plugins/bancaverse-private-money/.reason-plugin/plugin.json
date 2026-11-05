@@ -1,0 +1,13 @@
+{
+  "name": "bancaverse-private-money",
+  "displayName": "Bancaverse™ Private Money",
+  "description": "Private money deal analyzer.",
+  "homepage": "https://bancaverse.com",
+  "docs": "https://bancaverse.com",
+  "auth": "none",
+  "mcpServers": {
+    "bancaverse-private-money": {
+      "url": "https://mcp.bancaverse.com/mcp"
+    }
+  }
+}

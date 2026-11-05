@@ -1,0 +1,13 @@
+{
+  "name": "skywatch",
+  "displayName": "SkyWatch",
+  "description": "Search satellite imagery data.",
+  "homepage": "https://skywatch.com",
+  "docs": "https://skywatch.com",
+  "auth": "none",
+  "mcpServers": {
+    "skywatch": {
+      "url": "https://mcp.skywatch.com/mcp"
+    }
+  }
+}

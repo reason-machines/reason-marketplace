@@ -1,0 +1,13 @@
+{
+  "name": "just-domain",
+  "displayName": "Just Domain",
+  "description": "Search and buy domain name.",
+  "homepage": "https://justdomain.ai",
+  "docs": "https://justdomain.ai",
+  "auth": "none",
+  "mcpServers": {
+    "just-domain": {
+      "url": "https://mcp.justdomain.ai/mcp"
+    }
+  }
+}

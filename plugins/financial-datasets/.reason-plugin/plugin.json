@@ -1,0 +1,13 @@
+{
+  "name": "financial-datasets",
+  "displayName": "Financial Datasets",
+  "description": "Access stock market data.",
+  "homepage": "https://www.financialdatasets.ai/",
+  "docs": "https://www.financialdatasets.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "financial-datasets": {
+      "url": "https://mcp.financialdatasets.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "restl-table-reservations",
+  "displayName": "RESTL – Table Reservations",
+  "description": "Book tables in Austria.",
+  "homepage": "https://restl.at",
+  "docs": "https://restl.at",
+  "auth": "none",
+  "mcpServers": {
+    "restl-table-reservations": {
+      "url": "https://mcp.restl.at/mcp"
+    }
+  }
+}

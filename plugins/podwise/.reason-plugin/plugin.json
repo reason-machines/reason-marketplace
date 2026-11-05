@@ -1,0 +1,13 @@
+{
+  "name": "podwise",
+  "displayName": "Podwise",
+  "description": "Search and summarize podcasts.",
+  "homepage": "https://podwise.ai",
+  "docs": "https://podwise.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "podwise": {
+      "url": "https://mcp.podwise.ai/mcp"
+    }
+  }
+}

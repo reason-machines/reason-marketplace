@@ -1,0 +1,13 @@
+{
+  "name": "streeq",
+  "displayName": "STREEQ",
+  "description": "Your fitness record in Reason.",
+  "homepage": "https://streeq.app",
+  "docs": "https://streeq.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "streeq": {
+      "url": "https://mcp.streeq.app/mcp"
+    }
+  }
+}

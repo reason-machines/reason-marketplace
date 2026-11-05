@@ -1,0 +1,13 @@
+{
+  "name": "pickedby",
+  "displayName": "PickedBy",
+  "description": "What your friends recommend.",
+  "homepage": "https://pickedby.app",
+  "docs": "https://pickedby.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "pickedby": {
+      "url": "https://pickedby.app/mcp"
+    }
+  }
+}

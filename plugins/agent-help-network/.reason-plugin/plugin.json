@@ -1,0 +1,13 @@
+{
+  "name": "agent-help-network",
+  "displayName": "Agent Help Network",
+  "description": "Check what hosts allow agents.",
+  "homepage": "https://agenthelpnetwork.com/en/agents",
+  "docs": "https://agenthelpnetwork.com/en/agents",
+  "auth": "none",
+  "mcpServers": {
+    "agent-help-network": {
+      "url": "https://agenthelpnetwork.com/mcp"
+    }
+  }
+}

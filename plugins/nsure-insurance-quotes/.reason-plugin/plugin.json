@@ -1,0 +1,13 @@
+{
+  "name": "nsure-insurance-quotes",
+  "displayName": "Nsure Insurance Quotes",
+  "description": "Find and buy home insurance.",
+  "homepage": "https://nsure.com",
+  "docs": "https://tedix.dev/apps/nsure-insurance-quotes/",
+  "auth": "none",
+  "mcpServers": {
+    "nsure-insurance-quotes": {
+      "url": "https://endpoint-app-frontend-mcp-prd-01-cda8erbuhfdfeqam.a01.azurefd.net/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "marcopolo",
+  "displayName": "MarcoPolo",
+  "description": "Secure AI Data Workspace.",
+  "homepage": "https://marcopolo.dev",
+  "docs": "https://marcopolo.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "marcopolo": {
+      "url": "https://mcp.marcopolo.dev/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "asr",
+  "displayName": "ASR (에사)",
+  "description": "Shared memory for AI tools.",
+  "homepage": "https://asrmemory.com",
+  "docs": "https://asrmemory.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "asr": {
+      "url": "https://asrmemory.com/mcp"
+    }
+  }
+}

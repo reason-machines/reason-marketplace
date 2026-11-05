@@ -1,0 +1,13 @@
+{
+  "name": "superqda",
+  "displayName": "SuperQDA",
+  "description": "Analyze qualitative research.",
+  "homepage": "https://www.superqda.com",
+  "docs": "https://www.superqda.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "superqda": {
+      "url": "https://superqda.com/mcp"
+    }
+  }
+}

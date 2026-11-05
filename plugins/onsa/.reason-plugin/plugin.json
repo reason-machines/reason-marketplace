@@ -1,0 +1,13 @@
+{
+  "name": "onsa",
+  "displayName": "Onsa",
+  "description": "Find and qualify B2B leads.",
+  "homepage": "https://onsa.ai",
+  "docs": "https://onsa.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "onsa": {
+      "url": "https://api.onsa.ai/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ljbus-lpp-bus-arrivals",
+  "displayName": "ljbus — LPP bus arrivals",
+  "description": "Ljubljana bus LPP arrivals.",
+  "homepage": "https://ljbus.cc",
+  "docs": "https://ljbus.cc",
+  "auth": "none",
+  "mcpServers": {
+    "ljbus-lpp-bus-arrivals": {
+      "url": "https://ljbus.cc/mcp"
+    }
+  }
+}

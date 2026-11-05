@@ -1,0 +1,13 @@
+{
+  "name": "unicorn-ai-studio",
+  "displayName": "Unicorn AI Studio",
+  "description": "Create narration and podcasts.",
+  "homepage": "https://unicornstudio.ca",
+  "docs": "https://unicornstudio.ca",
+  "auth": "oauth",
+  "mcpServers": {
+    "unicorn-ai-studio": {
+      "url": "https://unicornstudio.ca/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "r-space",
+  "displayName": "R.Space",
+  "description": "PropTech Ecosystem.",
+  "homepage": "https://rspace.ae/",
+  "docs": "https://rspace.ae/",
+  "auth": "none",
+  "mcpServers": {
+    "r-space": {
+      "url": "https://mcp.rspace.ae/mcp"
+    }
+  }
+}

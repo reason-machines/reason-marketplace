@@ -1,0 +1,13 @@
+{
+  "name": "adalysis",
+  "displayName": "Adalysis",
+  "description": "Your PPC automation co-pilot.",
+  "homepage": "https://adalysis.com",
+  "docs": "https://adalysis.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "adalysis": {
+      "url": "https://mcp.adalysis.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "imovertical",
+  "displayName": "ImoVertical",
+  "description": "Check a French property.",
+  "homepage": "https://imovertical.com",
+  "docs": "https://imovertical.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "imovertical": {
+      "url": "https://mcp.imovertical.com/mcp"
+    }
+  }
+}

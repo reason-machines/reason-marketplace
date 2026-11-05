@@ -1,0 +1,13 @@
+{
+  "name": "faces",
+  "displayName": "Faces",
+  "description": "Build slide decks.",
+  "homepage": "https://faces.app",
+  "docs": "https://faces.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "faces": {
+      "url": "https://mcp.faces.app/mcp"
+    }
+  }
+}

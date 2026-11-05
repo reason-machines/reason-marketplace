@@ -1,0 +1,13 @@
+{
+  "name": "black-car-service",
+  "displayName": "Black Car Service",
+  "description": "SUV quotes and reservations.",
+  "homepage": "https://www.blackcarservice.co/ai",
+  "docs": "https://blackcarservice.co/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "black-car-service": {
+      "url": "https://blackcarservice.co/api/mcp"
+    }
+  }
+}

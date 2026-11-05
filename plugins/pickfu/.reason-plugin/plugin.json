@@ -1,0 +1,13 @@
+{
+  "name": "pickfu",
+  "displayName": "PickFu",
+  "description": "Test ideas with real people.",
+  "homepage": "https://www.pickfu.com",
+  "docs": "https://www.pickfu.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "pickfu": {
+      "url": "https://mcp.pickfu.com/mcp"
+    }
+  }
+}

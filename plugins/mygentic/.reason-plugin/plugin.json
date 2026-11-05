@@ -1,0 +1,13 @@
+{
+  "name": "mygentic",
+  "displayName": "Mygentic",
+  "description": "Chat with your work apps.",
+  "homepage": "https://mygentic.io",
+  "docs": "https://mygentic.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "mygentic": {
+      "url": "https://mcp.mygentic.io/mcp"
+    }
+  }
+}

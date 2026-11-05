@@ -1,0 +1,13 @@
+{
+  "name": "viewprinter",
+  "displayName": "ViewPrinter",
+  "description": "Schedule social posts.",
+  "homepage": "https://viewprinter.tech",
+  "docs": "https://viewprinter.tech/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "viewprinter": {
+      "url": "https://viewprinter.tech/api/mcp"
+    }
+  }
+}

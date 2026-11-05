@@ -1,0 +1,13 @@
+{
+  "name": "perfectsens",
+  "displayName": "PerfectSens",
+  "description": "FPS sensitivity and aim tests.",
+  "homepage": "https://perfectsens.com",
+  "docs": "https://perfectsens.com",
+  "auth": "none",
+  "mcpServers": {
+    "perfectsens": {
+      "url": "https://mcp.perfectsens.com/mcp"
+    }
+  }
+}

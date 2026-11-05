@@ -1,0 +1,13 @@
+{
+  "name": "mylens",
+  "displayName": "MyLens",
+  "description": "AI that presents your content.",
+  "homepage": "https://mylens.ai",
+  "docs": "https://mylens.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "mylens": {
+      "url": "https://mcp.mylens.ai/mcp"
+    }
+  }
+}

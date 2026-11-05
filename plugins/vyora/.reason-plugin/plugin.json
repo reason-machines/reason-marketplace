@@ -1,0 +1,13 @@
+{
+  "name": "vyora",
+  "displayName": "Vyora",
+  "description": "AI calling agents for India.",
+  "homepage": "https://www.vyora.ai",
+  "docs": "https://www.vyora.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "vyora": {
+      "url": "https://mcp.vyora.ai/mcp"
+    }
+  }
+}

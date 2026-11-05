@@ -1,0 +1,13 @@
+{
+  "name": "ria-money-transfer",
+  "displayName": "Ria Money Transfer",
+  "description": "Rates and transfer quotes.",
+  "homepage": "https://www.riamoneytransfer.com",
+  "docs": "https://tedix.dev/apps/ria-money-transfer/",
+  "auth": "none",
+  "mcpServers": {
+    "ria-money-transfer": {
+      "url": "https://ria-chatgpt-app.vercel.app/mcp"
+    }
+  }
+}

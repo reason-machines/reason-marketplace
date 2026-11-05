@@ -1,0 +1,13 @@
+{
+  "name": "astraverify-domain-trust-check",
+  "displayName": "AstraVerify Domain Trust Check",
+  "description": "Email and AI discovery check.",
+  "homepage": "https://astraverify.com",
+  "docs": "https://astraverify.com",
+  "auth": "none",
+  "mcpServers": {
+    "astraverify-domain-trust-check": {
+      "url": "https://astraverify.com/mcp"
+    }
+  }
+}

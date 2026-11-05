@@ -1,0 +1,13 @@
+{
+  "name": "norscout",
+  "displayName": "NorScout",
+  "description": "Prospects in Norway and Sweden.",
+  "homepage": "https://www.norscout.com",
+  "docs": "https://www.norscout.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "norscout": {
+      "url": "https://norscout.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shipstatic",
+  "displayName": "ShipStatic",
+  "description": "Deploy static sites instantly.",
+  "homepage": "https://shipstatic.com",
+  "docs": "https://shipstatic.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "shipstatic": {
+      "url": "https://mcp.shipstatic.com/"
+    }
+  }
+}

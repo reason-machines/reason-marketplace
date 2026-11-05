@@ -1,0 +1,13 @@
+{
+  "name": "regevidencehub-waste",
+  "displayName": "RegEvidenceHub Waste",
+  "description": "England waste compliance.",
+  "homepage": "https://waste.regevidencehub.com/waste-rule-preflight",
+  "docs": "https://waste.regevidencehub.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "regevidencehub-waste": {
+      "url": "https://waste.regevidencehub.com/mcp"
+    }
+  }
+}

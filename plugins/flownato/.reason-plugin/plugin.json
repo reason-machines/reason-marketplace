@@ -1,0 +1,13 @@
+{
+  "name": "flownato",
+  "displayName": "Flownato",
+  "description": "Real app flows and screens.",
+  "homepage": "https://www.flownato.com/about",
+  "docs": "https://flownato.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "flownato": {
+      "url": "https://agent.flownato.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "draftboard",
+  "displayName": "Draftboard",
+  "description": "Warm intros from your network.",
+  "homepage": "https://www.draftboard.com",
+  "docs": "https://www.draftboard.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "draftboard": {
+      "url": "https://mcp.draftboard.com/mcp"
+    }
+  }
+}

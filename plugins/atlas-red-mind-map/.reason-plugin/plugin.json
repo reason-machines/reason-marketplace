@@ -1,0 +1,13 @@
+{
+  "name": "atlas-red-mind-map",
+  "displayName": "Atlas Red Mind Map",
+  "description": "Brainstorm and outline ideas.",
+  "homepage": "https://atlas-red.com",
+  "docs": "https://atlas-red.com/mind-map-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlas-red-mind-map": {
+      "url": "https://app.atlas-red.com/mcp"
+    }
+  }
+}

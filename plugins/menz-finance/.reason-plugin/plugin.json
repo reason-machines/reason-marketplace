@@ -1,0 +1,13 @@
+{
+  "name": "menz-finance",
+  "displayName": "Menz Finance",
+  "description": "Finanças PF e PJ autorizadas.",
+  "homepage": "https://finance.menzinvest.com/",
+  "docs": "https://finance.menzinvest.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "menz-finance": {
+      "url": "https://mcp.menzinvest.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "uae-gratuity-calculator",
+  "displayName": "UAE Gratuity Calculator",
+  "description": "UAE end-of-service gratuity.",
+  "homepage": "https://bratucapital.com",
+  "docs": "https://tedix.dev/apps/uae-gratuity-calculator/",
+  "auth": "none",
+  "mcpServers": {
+    "uae-gratuity-calculator": {
+      "url": "https://plugins.bratucapital.com/gratuity/mcp"
+    }
+  }
+}

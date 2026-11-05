@@ -1,0 +1,13 @@
+{
+  "name": "quok",
+  "displayName": "Quok",
+  "description": "Shared family calendar & lists.",
+  "homepage": "https://getquok.com",
+  "docs": "https://getquok.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "quok": {
+      "url": "https://api.getquok.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "treza",
+  "displayName": "Treza",
+  "description": "Create and edit AI videos.",
+  "homepage": "https://www.trezalabs.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.treza-labs/treza",
+  "auth": "oauth",
+  "mcpServers": {
+    "treza": {
+      "url": "https://trezalabs.com/api/mcp"
+    }
+  }
+}

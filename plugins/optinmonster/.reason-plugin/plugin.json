@@ -1,0 +1,13 @@
+{
+  "name": "optinmonster",
+  "displayName": "OptinMonster",
+  "description": "Popups and lead generation.",
+  "homepage": "https://optinmonster.com/",
+  "docs": "https://optinmonster.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "optinmonster": {
+      "url": "https://mcp.optinmonster.com/mcp"
+    }
+  }
+}

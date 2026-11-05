@@ -1,0 +1,13 @@
+{
+  "name": "schedly",
+  "displayName": "Schedly",
+  "description": "Plan and manage schoolwork.",
+  "homepage": "https://schedly.liamkellum.com/chatgpt",
+  "docs": "https://schedly.liamkellum.com/api/mcp/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "schedly": {
+      "url": "https://schedly.liamkellum.com/api/mcp"
+    }
+  }
+}

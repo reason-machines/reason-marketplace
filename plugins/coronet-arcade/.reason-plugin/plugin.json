@@ -1,0 +1,13 @@
+{
+  "name": "coronet-arcade",
+  "displayName": "Coronet Arcade",
+  "description": "Thirteen daily puzzles.",
+  "homepage": "https://coronet.one/connect/",
+  "docs": "https://coronet.one/connect/",
+  "auth": "none",
+  "mcpServers": {
+    "coronet-arcade": {
+      "url": "https://coronet.one/mcp"
+    }
+  }
+}

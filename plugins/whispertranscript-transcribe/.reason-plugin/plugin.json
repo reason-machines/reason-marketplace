@@ -1,0 +1,13 @@
+{
+  "name": "whispertranscript-transcribe",
+  "displayName": "WhisperTranscript: Transcribe",
+  "description": "Transcribe audio and video.",
+  "homepage": "https://whispertranscript.ai/",
+  "docs": "https://whispertranscript.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "whispertranscript-transcribe": {
+      "url": "https://mcp.whispertranscript.ai/mcp"
+    }
+  }
+}

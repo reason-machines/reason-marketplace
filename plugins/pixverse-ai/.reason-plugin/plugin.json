@@ -1,0 +1,13 @@
+{
+  "name": "pixverse-ai",
+  "displayName": "PixVerse",
+  "description": "Your AI video and image studio.",
+  "homepage": "https://app.pixverse.ai",
+  "docs": "https://app.pixverse.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "pixverse-ai": {
+      "url": "https://mcp.pixverse.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "solo-401k-calculator",
+  "displayName": "Solo 401k Calculator",
+  "description": "Calculate solo 401k limits.",
+  "homepage": "https://bestsolo401k.com",
+  "docs": "https://tedix.dev/apps/solo-401k-calculator/",
+  "auth": "none",
+  "mcpServers": {
+    "solo-401k-calculator": {
+      "url": "https://contribution-calculator.bestsolo401k.app/mcp"
+    }
+  }
+}

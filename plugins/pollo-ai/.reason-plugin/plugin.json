@@ -1,0 +1,13 @@
+{
+  "name": "pollo-ai",
+  "displayName": "Pollo AI",
+  "description": "Create videos, images, designs.",
+  "homepage": "https://pollo.ai",
+  "docs": "https://pollo.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "pollo-ai": {
+      "url": "https://mcp.pollo.ai/mcp"
+    }
+  }
+}

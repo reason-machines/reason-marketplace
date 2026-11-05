@@ -1,0 +1,13 @@
+{
+  "name": "gtfs-validator",
+  "displayName": "GTFS Validator",
+  "description": "GTFS feed validation.",
+  "homepage": "https://ttezer.github.io/gtfs-analyzer/",
+  "docs": "https://agent-plugins.directory/ttezer/gtfs-validator",
+  "auth": "none",
+  "mcpServers": {
+    "gtfs-validator": {
+      "url": "https://gtfs-validator-i7fk2joqbq-ew.a.run.app/mcp"
+    }
+  }
+}

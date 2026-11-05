@@ -1,0 +1,13 @@
+{
+  "name": "dataflows-sms",
+  "displayName": "DataFlows SMS",
+  "description": "SMS, campaigns and scheduling.",
+  "homepage": "https://dataflows.com.au",
+  "docs": "https://docs.dataflows.com.au/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "dataflows-sms": {
+      "url": "https://sms.dataflows.com.au/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "midlyr",
+  "displayName": "Midlyr",
+  "description": "Compliance workflows.",
+  "homepage": "https://www.midlyr.com/",
+  "docs": "https://www.midlyr.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "midlyr": {
+      "url": "https://mcp.midlyr.com/mcp"
+    }
+  }
+}

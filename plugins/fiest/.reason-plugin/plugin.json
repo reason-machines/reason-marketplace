@@ -1,0 +1,13 @@
+{
+  "name": "fiest",
+  "displayName": "Fiest Business",
+  "description": "Run your restaurant with Fiest.",
+  "homepage": "https://fiest.io",
+  "docs": "https://fiest.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "fiest": {
+      "url": "https://mcp.fiest.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pikes",
+  "displayName": "Pikes",
+  "description": "Your brand creative suite.",
+  "homepage": "https://pikes.ai",
+  "docs": "https://pikes.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "pikes": {
+      "url": "https://pikes.ai/mcp"
+    }
+  }
+}

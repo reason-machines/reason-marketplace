@@ -1,0 +1,13 @@
+{
+  "name": "my-askai",
+  "displayName": "My AskAI",
+  "description": "Search My AskAI help.",
+  "homepage": "https://myaskai.com",
+  "docs": "https://myaskai.com",
+  "auth": "none",
+  "mcpServers": {
+    "my-askai": {
+      "url": "https://mcp.myaskai.com/mcp"
+    }
+  }
+}

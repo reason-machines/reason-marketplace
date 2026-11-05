@@ -1,0 +1,13 @@
+{
+  "name": "datapublica",
+  "displayName": "Datapublica",
+  "description": "Analyze Danish companies.",
+  "homepage": "https://datapublica.dk/",
+  "docs": "https://datapublica.dk/",
+  "auth": "oauth",
+  "mcpServers": {
+    "datapublica": {
+      "url": "https://mcp.datapublica.dk/mcp"
+    }
+  }
+}

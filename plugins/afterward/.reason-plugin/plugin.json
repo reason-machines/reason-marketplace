@@ -1,0 +1,13 @@
+{
+  "name": "afterward",
+  "displayName": "Afterward",
+  "description": "Website launch checks.",
+  "homepage": "https://afterward.run",
+  "docs": "https://afterward.run",
+  "auth": "none",
+  "mcpServers": {
+    "afterward": {
+      "url": "https://mcp.afterward.run/mcp"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "markdown-by-mdedit-ai",
+  "displayName": "Markdown by mdedit.ai",
+  "description": "Create and share Markdown docs.",
+  "homepage": "https://mdedit.ai",
+  "docs": "https://mdedit.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "markdown-by-mdedit-ai": {
+      "url": "https://mcp.mdedit.ai/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "find-mdedit-document",
+      "description": "Find and read an existing Markdown Document stored in mdedit. Use when the user asks to locate, open, retrieve, quote, summarize, or inspect a saved mdedit document. Do not use for local files, web pages, or generic Markdown questions unrelated to mdedit storage.",
+      "source": "mdedit-ai/mdedit-agent-plugin#403a01aae8a9b94f28b3ac33d763c4787628bcff",
+      "skill": "find-mdedit-document",
+      "url": "https://github.com/mdedit-ai/mdedit-agent-plugin/tree/403a01aae8a9b94f28b3ac33d763c4787628bcff/skills/find-mdedit-document"
+    },
+    {
+      "name": "publish-mdedit-document",
+      "description": "Check or change Public Document Publishing for an existing mdedit Markdown Document. Use when the user explicitly asks to publish, unpublish, inspect publication status, or create or update a public mded.it link. Do not use for private editor links, local files, or generic sharing advice.",
+      "source": "mdedit-ai/mdedit-agent-plugin#403a01aae8a9b94f28b3ac33d763c4787628bcff",
+      "skill": "publish-mdedit-document",
+      "url": "https://github.com/mdedit-ai/mdedit-agent-plugin/tree/403a01aae8a9b94f28b3ac33d763c4787628bcff/skills/publish-mdedit-document"
+    },
+    {
+      "name": "review-mdedit-document",
+      "description": "Review an existing Markdown Document in mdedit with anchored comments and suggestions, or accept or reject an existing suggestion. Use when the user asks to review, critique, proofread, suggest improvements, or decide pending review feedback on a saved mdedit document. Do not use when the user asks ",
+      "source": "mdedit-ai/mdedit-agent-plugin#403a01aae8a9b94f28b3ac33d763c4787628bcff",
+      "skill": "review-mdedit-document",
+      "url": "https://github.com/mdedit-ai/mdedit-agent-plugin/tree/403a01aae8a9b94f28b3ac33d763c4787628bcff/skills/review-mdedit-document"
+    },
+    {
+      "name": "revise-mdedit-document",
+      "description": "Safely revise an existing Markdown Document stored in mdedit with anchored, conflict-aware edits. Use when the user asks to update, rewrite, correct, insert, remove, or reorganize content in a saved mdedit document. Do not use for unsaved local Markdown, local files, or generic editing advice.",
+      "source": "mdedit-ai/mdedit-agent-plugin#403a01aae8a9b94f28b3ac33d763c4787628bcff",
+      "skill": "revise-mdedit-document",
+      "url": "https://github.com/mdedit-ai/mdedit-agent-plugin/tree/403a01aae8a9b94f28b3ac33d763c4787628bcff/skills/revise-mdedit-document"
+    },
+    {
+      "name": "save-mdedit-document",
+      "description": "Create and durably save a private Markdown Document in mdedit. Use when the user explicitly asks to save, persist, archive, or turn conversation content into a document in mdedit. Do not use for generic Markdown writing, formatting, or local-file creation that does not require mdedit storage.",
+      "source": "mdedit-ai/mdedit-agent-plugin#403a01aae8a9b94f28b3ac33d763c4787628bcff",
+      "skill": "save-mdedit-document",
+      "url": "https://github.com/mdedit-ai/mdedit-agent-plugin/tree/403a01aae8a9b94f28b3ac33d763c4787628bcff/skills/save-mdedit-document"
+    }
+  ]
+}

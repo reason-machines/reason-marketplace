@@ -1,0 +1,13 @@
+{
+  "name": "funlet",
+  "displayName": "Funlet",
+  "description": "Invites, polls, RSVPs by text.",
+  "homepage": "https://funlet.ai",
+  "docs": "https://funlet.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "funlet": {
+      "url": "https://mcp.funlet.ai/mcp"
+    }
+  }
+}

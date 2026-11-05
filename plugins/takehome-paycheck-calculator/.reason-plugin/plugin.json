@@ -1,0 +1,13 @@
+{
+  "name": "takehome-paycheck-calculator",
+  "displayName": "TakeHome Paycheck Calculator",
+  "description": "Your paycheck after taxes.",
+  "homepage": "https://takehome-paycheck.vercel.app",
+  "docs": "https://tedix.dev/apps/takehome-paycheck-calculator/",
+  "auth": "none",
+  "mcpServers": {
+    "takehome-paycheck-calculator": {
+      "url": "https://takehome-paycheck.vercel.app/mcp"
+    }
+  }
+}

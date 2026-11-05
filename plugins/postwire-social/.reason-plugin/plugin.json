@@ -1,0 +1,13 @@
+{
+  "name": "postwire-social",
+  "displayName": "PostWire for Social Media",
+  "description": "Schedule social media posts.",
+  "homepage": "https://postwire.io",
+  "docs": "https://postwire.io",
+  "auth": "none",
+  "mcpServers": {
+    "postwire-social": {
+      "url": "https://postwire.io/api/mcp"
+    }
+  }
+}

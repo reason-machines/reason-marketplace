@@ -1,0 +1,13 @@
+{
+  "name": "praxikon",
+  "displayName": "Praxikon",
+  "description": "EU AI Act and GDPR checks.",
+  "homepage": "https://www.praxikon.com/en/ai-assistant",
+  "docs": "https://www.praxikon.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "praxikon": {
+      "url": "https://www.praxikon.com/api/mcp"
+    }
+  }
+}

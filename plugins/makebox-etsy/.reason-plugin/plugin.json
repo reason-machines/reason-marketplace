@@ -1,0 +1,13 @@
+{
+  "name": "makebox-etsy",
+  "displayName": "MakeBox for Etsy",
+  "description": "Create better Etsy listings.",
+  "homepage": "https://www.makebox.ai",
+  "docs": "https://www.makebox.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "makebox-etsy": {
+      "url": "https://mcp.makebox.ai/mcp"
+    }
+  }
+}

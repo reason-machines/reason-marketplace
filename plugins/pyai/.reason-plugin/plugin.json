@@ -1,0 +1,13 @@
+{
+  "name": "pyai",
+  "displayName": "PyAI",
+  "description": "Create and transcribe audio.",
+  "homepage": "https://pyai.com/mcp.md",
+  "docs": "https://pyai.com/mcp.md",
+  "auth": "oauth",
+  "mcpServers": {
+    "pyai": {
+      "url": "https://api.pyai.com/mcp"
+    }
+  }
+}

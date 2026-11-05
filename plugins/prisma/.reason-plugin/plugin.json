@@ -10,5 +10,14 @@
     "prisma": {
       "url": "https://mcp.prisma.io/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "prisma-composer-core-concepts",
+      "description": "Use when deploying or managing an app that uses Prisma Composer (`@prisma/composer`): wiring its services and Modules, running it locally, testing composed services, or standing up / tearing down an environment. Triggers on \"prisma composer\", \"@prisma/composer\", \"prisma app\", the `prisma-composer` C",
+      "source": "prisma/composer#f19abf360b500161bc6c1f0a3c7be785ed635864",
+      "skill": "prisma-composer-core-concepts",
+      "url": "https://github.com/prisma/composer/tree/f19abf360b500161bc6c1f0a3c7be785ed635864/skills/prisma-composer-core-concepts"
+    }
+  ]
 }

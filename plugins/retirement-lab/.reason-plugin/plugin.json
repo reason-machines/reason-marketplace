@@ -1,0 +1,13 @@
+{
+  "name": "retirement-lab",
+  "displayName": "Retirement Lab",
+  "description": "Retirement projections.",
+  "homepage": "https://retirementlab.app",
+  "docs": "https://retirementlab.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "retirement-lab": {
+      "url": "https://retirementlab.app/api/mcp"
+    }
+  }
+}

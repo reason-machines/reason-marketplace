@@ -1,0 +1,13 @@
+{
+  "name": "glance",
+  "displayName": "Glance",
+  "description": "Connect widgets to anything.",
+  "homepage": "https://glance.cool",
+  "docs": "https://glance.cool/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "glance": {
+      "url": "https://glance-api.fly.dev/mcp"
+    }
+  }
+}

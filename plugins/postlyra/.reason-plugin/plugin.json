@@ -1,0 +1,13 @@
+{
+  "name": "postlyra",
+  "displayName": "Postlyra",
+  "description": "Format & publish to Telegram.",
+  "homepage": "https://postlyra.app/en/",
+  "docs": "https://postlyra.app/en/",
+  "auth": "oauth",
+  "mcpServers": {
+    "postlyra": {
+      "url": "https://postlyra.app/mcp"
+    }
+  }
+}

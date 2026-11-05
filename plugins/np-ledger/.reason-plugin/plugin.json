@@ -1,0 +1,13 @@
+{
+  "name": "np-ledger",
+  "displayName": "NP Ledger",
+  "description": "Nonprofit fund accounting.",
+  "homepage": "https://70ware.com",
+  "docs": "https://tedix.dev/apps/np-ledger/",
+  "auth": "oauth",
+  "mcpServers": {
+    "np-ledger": {
+      "url": "https://mcp.npledger.com/v1/"
+    }
+  }
+}

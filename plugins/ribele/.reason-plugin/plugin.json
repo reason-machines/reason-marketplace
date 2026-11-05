@@ -1,0 +1,13 @@
+{
+  "name": "ribele",
+  "displayName": "Ribele",
+  "description": "Create, edit, track campaigns.",
+  "homepage": "https://ribele.com/",
+  "docs": "https://ribele.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "ribele": {
+      "url": "https://ribele.com/mcp"
+    }
+  }
+}

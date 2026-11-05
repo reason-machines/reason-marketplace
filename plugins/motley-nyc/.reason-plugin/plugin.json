@@ -1,0 +1,13 @@
+{
+  "name": "motley-nyc",
+  "displayName": "Motley NYC",
+  "description": "NYC schools + neighborhoods.",
+  "homepage": "https://motley.nyc",
+  "docs": "https://motley.nyc",
+  "auth": "none",
+  "mcpServers": {
+    "motley-nyc": {
+      "url": "https://mcp.motley.nyc/mcp"
+    }
+  }
+}

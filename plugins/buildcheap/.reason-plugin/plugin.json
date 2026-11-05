@@ -1,0 +1,13 @@
+{
+  "name": "buildcheap",
+  "displayName": "BuildCheap",
+  "description": "Publish sites to a live URL.",
+  "homepage": "https://www.buildcheap.app",
+  "docs": "https://www.buildcheap.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "buildcheap": {
+      "url": "https://www.buildcheap.app/api/mcp/mcp"
+    }
+  }
+}

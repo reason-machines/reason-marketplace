@@ -1,0 +1,13 @@
+{
+  "name": "beliefstate",
+  "displayName": "BeliefState",
+  "description": "Find and compare stock ideas.",
+  "homepage": "https://beliefstate.ai",
+  "docs": "https://beliefstate.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "beliefstate": {
+      "url": "https://beliefstate.ai/mcp"
+    }
+  }
+}

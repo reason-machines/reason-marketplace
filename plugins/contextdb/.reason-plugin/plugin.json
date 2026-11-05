@@ -1,0 +1,13 @@
+{
+  "name": "contextdb",
+  "displayName": "ContextDB",
+  "description": "Save facts, check them first.",
+  "homepage": "https://contextdb.ai",
+  "docs": "https://contextdb.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "contextdb": {
+      "url": "https://api.contextdb.ai/mcp"
+    }
+  }
+}

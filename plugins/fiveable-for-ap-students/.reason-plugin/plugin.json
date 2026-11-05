@@ -1,0 +1,13 @@
+{
+  "name": "fiveable-for-ap-students",
+  "displayName": "Fiveable for AP Students",
+  "description": "Study for every AP class.",
+  "homepage": "https://fiveable.me/llms.txt",
+  "docs": "https://fiveable.me/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "fiveable-for-ap-students": {
+      "url": "https://fiveable.me/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "seline",
+  "displayName": "Seline",
+  "description": "Chat with your website stats.",
+  "homepage": "https://seline.com",
+  "docs": "https://seline.com/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "seline": {
+      "url": "https://api.seline.com/mcp"
+    }
+  }
+}

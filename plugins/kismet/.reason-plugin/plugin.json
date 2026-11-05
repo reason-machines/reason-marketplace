@@ -1,0 +1,13 @@
+{
+  "name": "kismet",
+  "displayName": "Kismet",
+  "description": "Find and book vacation rentals.",
+  "homepage": "https://kismet.travel",
+  "docs": "https://kismet.travel",
+  "auth": "none",
+  "mcpServers": {
+    "kismet": {
+      "url": "https://mcp.kismet.travel/mcp"
+    }
+  }
+}

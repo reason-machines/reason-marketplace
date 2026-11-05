@@ -1,0 +1,13 @@
+{
+  "name": "mizan",
+  "displayName": "Mizan",
+  "description": "Shariah stock screening.",
+  "homepage": "https://askmizan.com",
+  "docs": "https://askmizan.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "mizan": {
+      "url": "https://goodturn-mcp.pages.dev/mizan/mcp"
+    }
+  }
+}

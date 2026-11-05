@@ -1,0 +1,13 @@
+{
+  "name": "justtranscribe",
+  "displayName": "JustTranscribe",
+  "description": "Video and audio to text.",
+  "homepage": "https://justtranscribe.ai",
+  "docs": "https://justtranscribe.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "justtranscribe": {
+      "url": "https://justtranscribe.ai/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "wpvibe",
+  "displayName": "WPVibe",
+  "description": "AI WordPress tools.",
+  "homepage": "https://wpvibe.ai",
+  "docs": "https://wpvibe.ai",
+  "logo": "logo.webp",
+  "auth": "oauth",
+  "mcpServers": {
+    "wpvibe": {
+      "url": "https://mcp.wpvibe.ai/mcp"
+    }
+  }
+}

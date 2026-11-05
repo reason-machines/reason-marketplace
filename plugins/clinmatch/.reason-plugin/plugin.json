@@ -1,0 +1,13 @@
+{
+  "name": "clinmatch",
+  "displayName": "ClinMatch",
+  "description": "Supervised dental cleanings.",
+  "homepage": "https://clinmatch.io",
+  "docs": "https://www.clinmatch.io/privacy",
+  "auth": "none",
+  "mcpServers": {
+    "clinmatch": {
+      "url": "https://clinmatch.io/api/mcp"
+    }
+  }
+}

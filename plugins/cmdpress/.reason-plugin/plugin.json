@@ -1,0 +1,13 @@
+{
+  "name": "cmdpress",
+  "displayName": "CMDPress",
+  "description": "Manage your WordPress sites.",
+  "homepage": "https://cmdpress.com/",
+  "docs": "https://app.cmdpress.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "cmdpress": {
+      "url": "https://app.cmdpress.com/api/ai/mcp"
+    }
+  }
+}

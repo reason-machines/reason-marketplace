@@ -1,0 +1,13 @@
+{
+  "name": "portfoliofit",
+  "displayName": "PortfolioFit",
+  "description": "Agent-first portfolio analysis.",
+  "homepage": "https://portfolio.fit/",
+  "docs": "https://portfolio.fit/",
+  "auth": "oauth",
+  "mcpServers": {
+    "portfoliofit": {
+      "url": "https://portfolio.fit/mcp"
+    }
+  }
+}

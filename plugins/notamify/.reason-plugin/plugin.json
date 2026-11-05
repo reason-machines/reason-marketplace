@@ -1,0 +1,13 @@
+{
+  "name": "notamify",
+  "displayName": "Notamify",
+  "description": "NOTAMs and flight briefings.",
+  "homepage": "https://notamify.com",
+  "docs": "https://notamify.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "notamify": {
+      "url": "https://mcp.notamify.com/mcp"
+    }
+  }
+}

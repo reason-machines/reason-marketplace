@@ -1,0 +1,13 @@
+{
+  "name": "juicy-profit-analytics",
+  "displayName": "Juicy Profit Analytics",
+  "description": "Shopify profit & ad analytics.",
+  "homepage": "https://juicy.fyi/",
+  "docs": "https://juicy.fyi/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "juicy-profit-analytics": {
+      "url": "https://juicy.easyapps.cloud/api/mcp"
+    }
+  }
+}

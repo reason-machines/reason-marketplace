@@ -1,0 +1,13 @@
+{
+  "name": "sky-keepsake",
+  "displayName": "Moon & Star Map",
+  "description": "Moon phases & star map posters.",
+  "homepage": "https://sky-keepsake.zovo.one",
+  "docs": "https://sky-keepsake.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "sky-keepsake": {
+      "url": "https://sky-keepsake.zovo.one/mcp"
+    }
+  }
+}

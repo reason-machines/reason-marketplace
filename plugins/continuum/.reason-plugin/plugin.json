@@ -1,0 +1,13 @@
+{
+  "name": "continuum",
+  "displayName": "Continuum",
+  "description": "Manage your work in Continuum.",
+  "homepage": "https://oncontinuum.com",
+  "docs": "https://oncontinuum.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "continuum": {
+      "url": "https://mcp.oncontinuum.com/mcp"
+    }
+  }
+}

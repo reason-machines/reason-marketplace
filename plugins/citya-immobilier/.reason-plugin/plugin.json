@@ -1,0 +1,13 @@
+{
+  "name": "citya-immobilier",
+  "displayName": "Citya Immobilier",
+  "description": "Citya properties in Reason.",
+  "homepage": "https://www.citya.com/",
+  "docs": "https://www.citya.com/",
+  "auth": "none",
+  "mcpServers": {
+    "citya-immobilier": {
+      "url": "https://mcp.citya.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "realy",
+  "displayName": "Realy Data Analytics",
+  "description": "Read-only table analysis.",
+  "homepage": "https://realy-mcp.vercel.app/",
+  "docs": "https://realy-mcp.vercel.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "realy": {
+      "url": "https://realy-mcp.vercel.app/mcp"
+    }
+  }
+}

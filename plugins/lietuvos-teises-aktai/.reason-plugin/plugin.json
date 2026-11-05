@@ -1,0 +1,13 @@
+{
+  "name": "lietuvos-teises-aktai",
+  "displayName": "Lietuvos teisės aktai",
+  "description": "Lithuanian law on a given date.",
+  "homepage": "https://nodo.lt",
+  "docs": "https://nodo.lt",
+  "auth": "oauth",
+  "mcpServers": {
+    "lietuvos-teises-aktai": {
+      "url": "https://mcp.nodo.lt/mcp"
+    }
+  }
+}

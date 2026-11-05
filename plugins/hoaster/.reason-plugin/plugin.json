@@ -1,0 +1,13 @@
+{
+  "name": "hoaster",
+  "displayName": "Hoaster",
+  "description": "Publish web content to a URL.",
+  "homepage": "https://hoaster.app/",
+  "docs": "https://hoaster.app/api/auth/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "hoaster": {
+      "url": "https://hoaster.app/api/mcp"
+    }
+  }
+}

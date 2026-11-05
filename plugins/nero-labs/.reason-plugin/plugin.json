@@ -1,0 +1,13 @@
+{
+  "name": "nero-labs",
+  "displayName": "Nero Labs",
+  "description": "Data, web and compliance tools.",
+  "homepage": "https://nero-labs-chatgpt.nerolabs.workers.dev/",
+  "docs": "https://nero-labs-chatgpt.nerolabs.workers.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "nero-labs": {
+      "url": "https://nero-labs-chatgpt.nerolabs.workers.dev/mcp"
+    }
+  }
+}

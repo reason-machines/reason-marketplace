@@ -1,0 +1,13 @@
+{
+  "name": "sweet-analytics",
+  "displayName": "Sweet Analytics",
+  "description": "Ask your data anything.",
+  "homepage": "https://sweetanalytics.com/privacy-policy",
+  "docs": "https://sweetanalytics.com/privacy-policy",
+  "auth": "oauth",
+  "mcpServers": {
+    "sweet-analytics": {
+      "url": "https://mcp.sweetanalytics.com/mcp"
+    }
+  }
+}

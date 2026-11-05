@@ -1,0 +1,13 @@
+{
+  "name": "sitegpt",
+  "displayName": "SiteGPT",
+  "description": "Manage AI support chatbots.",
+  "homepage": "https://sitegpt.ai/support",
+  "docs": "https://sitegpt.ai/support",
+  "auth": "oauth",
+  "mcpServers": {
+    "sitegpt": {
+      "url": "https://sitegpt.ai/mcp"
+    }
+  }
+}

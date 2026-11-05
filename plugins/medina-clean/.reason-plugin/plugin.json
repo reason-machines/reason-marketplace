@@ -1,0 +1,13 @@
+{
+  "name": "medina-clean",
+  "displayName": "Medina Clean",
+  "description": "Book Rosa's cleaning service.",
+  "homepage": "https://medinaclean.com",
+  "docs": "https://medinaclean.com",
+  "auth": "none",
+  "mcpServers": {
+    "medina-clean": {
+      "url": "https://medinaclean.com/mcp"
+    }
+  }
+}

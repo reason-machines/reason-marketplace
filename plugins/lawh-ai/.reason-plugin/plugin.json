@@ -1,0 +1,13 @@
+{
+  "name": "lawh-ai",
+  "displayName": "Lawh.ai",
+  "description": "Layered designs you can edit.",
+  "homepage": "https://lawh.ai/",
+  "docs": "https://lawh.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "lawh-ai": {
+      "url": "https://lawh.ai/api/mcp"
+    }
+  }
+}

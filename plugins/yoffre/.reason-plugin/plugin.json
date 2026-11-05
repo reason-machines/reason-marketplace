@@ -1,0 +1,13 @@
+{
+  "name": "yoffre",
+  "displayName": "Yoffre",
+  "description": "Votre offre d'achat immobilier.",
+  "homepage": "https://yoffre.fr",
+  "docs": "https://yoffre.fr",
+  "auth": "none",
+  "mcpServers": {
+    "yoffre": {
+      "url": "https://yoffre.fr/mcp"
+    }
+  }
+}

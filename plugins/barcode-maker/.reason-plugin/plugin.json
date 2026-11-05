@@ -1,0 +1,13 @@
+{
+  "name": "barcode-maker",
+  "displayName": "Zovo Barcode Maker",
+  "description": "EAN, UPC & Code 128 barcodes.",
+  "homepage": "https://barcode-maker.zovo.one",
+  "docs": "https://barcode-maker.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "barcode-maker": {
+      "url": "https://barcode-maker.zovo.one/mcp"
+    }
+  }
+}

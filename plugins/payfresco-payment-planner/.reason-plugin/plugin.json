@@ -1,0 +1,13 @@
+{
+  "name": "payfresco-payment-planner",
+  "displayName": "PayFresco Payment Planner",
+  "description": "Currency and readiness plans.",
+  "homepage": "https://payfresco.com/",
+  "docs": "https://tedix.dev/apps/payfresco-payment-planner/",
+  "auth": "none",
+  "mcpServers": {
+    "payfresco-payment-planner": {
+      "url": "https://chatgpt.payfresco.com/mcp"
+    }
+  }
+}

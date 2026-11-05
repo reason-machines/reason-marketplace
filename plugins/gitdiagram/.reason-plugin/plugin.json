@@ -1,0 +1,13 @@
+{
+  "name": "gitdiagram",
+  "displayName": "GitDiagram",
+  "description": "Architecture diagrams of repos.",
+  "homepage": "https://gitdiagram.com",
+  "docs": "https://gitdiagram.com",
+  "auth": "none",
+  "mcpServers": {
+    "gitdiagram": {
+      "url": "https://gitdiagram.com/mcp"
+    }
+  }
+}

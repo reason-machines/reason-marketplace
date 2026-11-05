@@ -1,0 +1,13 @@
+{
+  "name": "tailwind",
+  "displayName": "Tailwind",
+  "description": "Create & plan Pinterest Pins.",
+  "homepage": "https://tailwindapp.com",
+  "docs": "https://tailwindapp.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "tailwind": {
+      "url": "https://mcp.tailwind.ai/"
+    }
+  }
+}

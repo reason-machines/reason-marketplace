@@ -1,0 +1,13 @@
+{
+  "name": "totem",
+  "displayName": "Totem",
+  "description": "Coordinate AI agents.",
+  "homepage": "https://totemlayer.com",
+  "docs": "https://totemlayer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "totem": {
+      "url": "https://totemlayer.com/mcp"
+    }
+  }
+}

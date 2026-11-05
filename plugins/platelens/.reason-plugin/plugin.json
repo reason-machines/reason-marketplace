@@ -1,0 +1,13 @@
+{
+  "name": "platelens",
+  "displayName": "PlateLens",
+  "description": "PlateLens AI calorie insights.",
+  "homepage": "https://platelens.app/",
+  "docs": "https://platelens.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "platelens": {
+      "url": "https://mcp.platelens.app/mcp"
+    }
+  }
+}

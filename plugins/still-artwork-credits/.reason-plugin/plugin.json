@@ -1,0 +1,13 @@
+{
+  "name": "still-artwork-credits",
+  "displayName": "STILL Artwork Credits",
+  "description": "Create artwork credits.",
+  "homepage": "https://thisisstill.art",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=art.thisisstill/still-mcp",
+  "auth": "none",
+  "mcpServers": {
+    "still-artwork-credits": {
+      "url": "https://still-mcp.still-limit-c6ac.workers.dev/mcp"
+    }
+  }
+}

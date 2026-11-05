@@ -1,0 +1,13 @@
+{
+  "name": "docmino",
+  "displayName": "Docmino",
+  "description": "Create interactive guides.",
+  "homepage": "https://docmino.com",
+  "docs": "https://docmino.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "docmino": {
+      "url": "https://mcp.docmino.com/mcp"
+    }
+  }
+}

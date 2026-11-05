@@ -1,0 +1,13 @@
+{
+  "name": "recordo",
+  "displayName": "Recordo",
+  "description": "Capture tasks and notes.",
+  "homepage": "https://recordo.app",
+  "docs": "https://recordo.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "recordo": {
+      "url": "https://api.recordo.app/api/mcp/adhd/mcp"
+    }
+  }
+}

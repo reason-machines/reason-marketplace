@@ -1,0 +1,13 @@
+{
+  "name": "samvat",
+  "displayName": "Samvat",
+  "description": "Panchang, festivals & Kundli.",
+  "homepage": "https://samvat.in",
+  "docs": "https://samvat.in",
+  "auth": "none",
+  "mcpServers": {
+    "samvat": {
+      "url": "https://mcp.samvat.in/mcp"
+    }
+  }
+}

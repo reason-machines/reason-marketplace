@@ -1,0 +1,13 @@
+{
+  "name": "cyber-library",
+  "displayName": "Cyber Library",
+  "description": "Search cybersecurity knowledge.",
+  "homepage": "https://registry.modelcontextprotocol.io/v0/servers?search=com.cyberlibrary/library",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.cyberlibrary/library",
+  "auth": "none",
+  "mcpServers": {
+    "cyber-library": {
+      "url": "https://www.cyberlibrary.com/api/mcp"
+    }
+  }
+}

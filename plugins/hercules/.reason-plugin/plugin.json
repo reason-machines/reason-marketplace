@@ -1,0 +1,13 @@
+{
+  "name": "hercules",
+  "displayName": "Hercules",
+  "description": "Build apps and websites.",
+  "homepage": "https://hercules.app",
+  "docs": "https://hercules.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "hercules": {
+      "url": "https://hercules.app/mcp"
+    }
+  }
+}

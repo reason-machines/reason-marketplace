@@ -1,0 +1,13 @@
+{
+  "name": "money-youre-owed",
+  "displayName": "Money You're Owed",
+  "description": "Find money you're owed.",
+  "homepage": "https://moneyyoureowed.com",
+  "docs": "https://moneyyoureowed.com",
+  "auth": "none",
+  "mcpServers": {
+    "money-youre-owed": {
+      "url": "https://mcp.moneyyoureowed.com/mcp"
+    }
+  }
+}

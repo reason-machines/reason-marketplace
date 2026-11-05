@@ -1,0 +1,13 @@
+{
+  "name": "mapped",
+  "displayName": "Mapped",
+  "description": "Query Mapped building data.",
+  "homepage": "https://www.mapped.com",
+  "docs": "https://www.mapped.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mapped": {
+      "url": "https://mcp.mapped.com/mcp"
+    }
+  }
+}

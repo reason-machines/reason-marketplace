@@ -1,0 +1,13 @@
+{
+  "name": "goodterm",
+  "displayName": "Goodterm",
+  "description": "Your mind, unboxed.",
+  "homepage": "https://goodterm.net",
+  "docs": "https://goodterm.net",
+  "auth": "oauth",
+  "mcpServers": {
+    "goodterm": {
+      "url": "https://mcp.goodterm.net/"
+    }
+  }
+}

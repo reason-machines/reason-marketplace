@@ -1,0 +1,13 @@
+{
+  "name": "explorationmaps",
+  "displayName": "ExplorationMaps",
+  "description": "Map and search mineral claims.",
+  "homepage": "https://www.explorationmaps.com",
+  "docs": "https://www.explorationmaps.com/mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "explorationmaps": {
+      "url": "https://www.explorationmaps.com/mcp/server"
+    }
+  }
+}

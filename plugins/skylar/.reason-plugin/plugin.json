@@ -1,0 +1,13 @@
+{
+  "name": "skylar",
+  "displayName": "Skylar",
+  "description": "Sales coaching insights.",
+  "homepage": "https://www.getskylar.com",
+  "docs": "https://www.getskylar.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "skylar": {
+      "url": "https://app.getskylar.com/mcp"
+    }
+  }
+}

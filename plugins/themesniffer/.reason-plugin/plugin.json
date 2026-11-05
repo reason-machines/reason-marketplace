@@ -1,0 +1,13 @@
+{
+  "name": "themesniffer",
+  "displayName": "ThemeSniffer",
+  "description": "WP theme and plugin detector.",
+  "homepage": "https://themesniffer.com",
+  "docs": "https://themesniffer.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "themesniffer": {
+      "url": "https://themesniffer.com/api/mcp"
+    }
+  }
+}

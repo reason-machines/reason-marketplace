@@ -1,0 +1,13 @@
+{
+  "name": "shopbooster",
+  "displayName": "ShopBooster",
+  "description": "Your shop's CRM, in chat.",
+  "homepage": "https://getshopbooster.com/ai",
+  "docs": "https://getshopbooster.com/ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "shopbooster": {
+      "url": "https://getshopbooster.com/api/mcp"
+    }
+  }
+}

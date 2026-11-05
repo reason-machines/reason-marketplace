@@ -1,0 +1,13 @@
+{
+  "name": "gps-ortung24",
+  "displayName": "GPS-Ortung24",
+  "description": "Query your vehicle fleet.",
+  "homepage": "https://gps-ortung24.de",
+  "docs": "https://gps-ortung24.de",
+  "auth": "oauth",
+  "mcpServers": {
+    "gps-ortung24": {
+      "url": "https://mcp.gps-ortung24.de/mcp"
+    }
+  }
+}

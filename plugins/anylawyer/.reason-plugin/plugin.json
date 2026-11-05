@@ -1,0 +1,13 @@
+{
+  "name": "anylawyer",
+  "displayName": "AnyLawyer",
+  "description": "Research legal sources.",
+  "homepage": "https://anylawyer.com",
+  "docs": "https://anylawyer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "anylawyer": {
+      "url": "https://anylawyer.com/mcp"
+    }
+  }
+}

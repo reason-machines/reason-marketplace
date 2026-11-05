@@ -1,0 +1,13 @@
+{
+  "name": "property-tax-appeal-comps",
+  "displayName": "Cook County Tax Appeal",
+  "description": "Find appeal comps in minutes.",
+  "homepage": "https://taxcomps.eralpbayraktar.com/",
+  "docs": "https://taxcomps.eralpbayraktar.com/",
+  "auth": "none",
+  "mcpServers": {
+    "property-tax-appeal-comps": {
+      "url": "https://taxcomps.eralpbayraktar.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lara-translate",
+  "displayName": "Lara Translate",
+  "description": "Professional AI Translation.",
+  "homepage": "https://laratranslate.com",
+  "docs": "https://laratranslate.com/mcp-server-translation",
+  "auth": "oauth",
+  "mcpServers": {
+    "lara-translate": {
+      "url": "https://mcp-v2.laratranslate.com/v1"
+    }
+  }
+}

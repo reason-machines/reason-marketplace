@@ -1,0 +1,13 @@
+{
+  "name": "rent-ledger",
+  "displayName": "LeaseLine Rent Ledger",
+  "description": "Rent ledgers and prorated rent.",
+  "homepage": "https://rent-ledger.zovo.one",
+  "docs": "https://rent-ledger.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "rent-ledger": {
+      "url": "https://rent-ledger.zovo.one/mcp"
+    }
+  }
+}

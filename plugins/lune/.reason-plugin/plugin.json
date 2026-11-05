@@ -1,0 +1,13 @@
+{
+  "name": "lune",
+  "displayName": "Lune",
+  "description": "Research knowledge and tools.",
+  "homepage": "https://luneresearch.com",
+  "docs": "https://luneresearch.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lune": {
+      "url": "https://mcp.luneresearch.com/mcp"
+    }
+  }
+}

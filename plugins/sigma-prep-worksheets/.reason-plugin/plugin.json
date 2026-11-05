@@ -1,0 +1,13 @@
+{
+  "name": "sigma-prep-worksheets",
+  "displayName": "Sigma Prep Worksheets",
+  "description": "Printable math worksheets.",
+  "homepage": "https://www.sigmaprep.io/worksheets",
+  "docs": "https://sigmaprep.io/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "sigma-prep-worksheets": {
+      "url": "https://sigmaprep.io/api/mcp"
+    }
+  }
+}

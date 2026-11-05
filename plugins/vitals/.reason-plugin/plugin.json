@@ -1,0 +1,13 @@
+{
+  "name": "vitals",
+  "displayName": "VITALS",
+  "description": "Use your VITALS profile.",
+  "homepage": "https://www.vitals.me",
+  "docs": "https://www.vitals.me",
+  "auth": "oauth",
+  "mcpServers": {
+    "vitals": {
+      "url": "https://mcp.vitals.me/mcp"
+    }
+  }
+}

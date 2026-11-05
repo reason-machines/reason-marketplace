@@ -1,0 +1,13 @@
+{
+  "name": "orca-security",
+  "displayName": "Orca Security",
+  "description": "Fix code, cloud & AI risks.",
+  "homepage": "https://orca.security",
+  "docs": "https://orca.security/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "orca-security": {
+      "url": "https://mcp.orcasecurity.io/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "zyft",
+  "displayName": "Zyft",
+  "description": "Australian price comparison.",
+  "homepage": "https://zyft.com",
+  "docs": "https://zyft.com",
+  "auth": "none",
+  "mcpServers": {
+    "zyft": {
+      "url": "https://mcp.zyft.com/mcp"
+    }
+  }
+}

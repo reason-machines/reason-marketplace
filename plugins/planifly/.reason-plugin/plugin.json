@@ -1,0 +1,13 @@
+{
+  "name": "planifly",
+  "displayName": "Planifly",
+  "description": "Plan social posts & analytics.",
+  "homepage": "https://planifly.app",
+  "docs": "https://planifly.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "planifly": {
+      "url": "https://mcp.planifly.app/mcp"
+    }
+  }
+}

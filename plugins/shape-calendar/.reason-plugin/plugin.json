@@ -1,0 +1,13 @@
+{
+  "name": "shape-calendar",
+  "displayName": "Shape Calendar",
+  "description": "Plan training, sync to watch.",
+  "homepage": "https://shapecalendar.com",
+  "docs": "https://shapecalendar.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "shape-calendar": {
+      "url": "https://shapecalendar.com/mcp"
+    }
+  }
+}

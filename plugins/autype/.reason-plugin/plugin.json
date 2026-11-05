@@ -1,0 +1,13 @@
+{
+  "name": "autype",
+  "displayName": "Autype",
+  "description": "Documents from briefs and data.",
+  "homepage": "https://autype.com/en",
+  "docs": "https://autype.com/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "autype": {
+      "url": "https://mcp.autype.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "eu-money",
+  "displayName": "EU Money",
+  "description": "Find EU funding in Hungary.",
+  "homepage": "https://eumoney.hu/",
+  "docs": "https://eumoney.hu/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "eu-money": {
+      "url": "https://eumoney.hu/chatgpt/mcp"
+    }
+  }
+}

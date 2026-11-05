@@ -1,0 +1,13 @@
+{
+  "name": "mailsenpai",
+  "displayName": "MailSenpai",
+  "description": "Manage email marketing.",
+  "homepage": "https://www.mailsenpai.com",
+  "docs": "https://www.mailsenpai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mailsenpai": {
+      "url": "https://mcp.mailsenpai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kunskapskartan",
+  "displayName": "Kunskapskartan",
+  "description": "Swedish school curriculum map.",
+  "homepage": "https://kunskapskartan.se",
+  "docs": "https://kunskapskartan.se",
+  "auth": "none",
+  "mcpServers": {
+    "kunskapskartan": {
+      "url": "https://kunskapskartan.se/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shop-nobi",
+  "displayName": "Shop Nobi",
+  "description": "Find and compare products.",
+  "homepage": "https://nobi.ai/shop",
+  "docs": "https://nobi.ai/shop/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "shop-nobi": {
+      "url": "https://api.nobi.ai/v1/shop/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shager",
+  "displayName": "Shager",
+  "description": "Plan and publish social posts.",
+  "homepage": "https://shager.ai/en",
+  "docs": "https://shager.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "shager": {
+      "url": "https://app.shager.ai/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "deepmark",
+  "displayName": "Deepmark",
+  "description": "Search everything you saved.",
+  "homepage": "https://usedeepmark.com",
+  "docs": "https://usedeepmark.com/can-claude-watch-videos",
+  "auth": "oauth",
+  "mcpServers": {
+    "deepmark": {
+      "url": "https://usedeepmark.com/api/mcp"
+    }
+  }
+}

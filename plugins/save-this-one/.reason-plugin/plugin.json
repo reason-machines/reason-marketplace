@@ -1,0 +1,13 @@
+{
+  "name": "save-this-one",
+  "displayName": "Save This One",
+  "description": "Save, find, and read bookmarks.",
+  "homepage": "https://savethisone.com/llms.txt",
+  "docs": "https://savethisone.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "save-this-one": {
+      "url": "https://mcp.savethisone.com/mcp"
+    }
+  }
+}

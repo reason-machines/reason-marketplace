@@ -1,0 +1,13 @@
+{
+  "name": "happenstance",
+  "displayName": "Happenstance",
+  "description": "Search your network.",
+  "homepage": "https://happenstance.ai",
+  "docs": "https://happenstance.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "happenstance": {
+      "url": "https://happenstance.ai/mcp"
+    }
+  }
+}

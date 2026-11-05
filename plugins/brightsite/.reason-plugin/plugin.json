@@ -1,0 +1,13 @@
+{
+  "name": "brightsite",
+  "displayName": "BrightSite",
+  "description": "Build and manage websites.",
+  "homepage": "https://onbrightsite.com",
+  "docs": "https://onbrightsite.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "brightsite": {
+      "url": "https://onbrightsite.com/api/mcp"
+    }
+  }
+}

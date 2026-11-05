@@ -1,0 +1,13 @@
+{
+  "name": "autonomad",
+  "displayName": "Autonomad",
+  "description": "Search and book whole trips.",
+  "homepage": "https://www.autonomad.ai",
+  "docs": "https://www.autonomad.ai",
+  "auth": "none",
+  "mcpServers": {
+    "autonomad": {
+      "url": "https://mcp.autonomad.ai/mcp"
+    }
+  }
+}

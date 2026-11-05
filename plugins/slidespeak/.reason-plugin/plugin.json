@@ -1,0 +1,13 @@
+{
+  "name": "slidespeak",
+  "displayName": "SlideSpeak",
+  "description": "AI presentations from a prompt.",
+  "homepage": "https://slidespeak.co/",
+  "docs": "https://slidespeak.co/",
+  "auth": "oauth",
+  "mcpServers": {
+    "slidespeak": {
+      "url": "https://mcp.slidespeak.co/mcp"
+    }
+  }
+}

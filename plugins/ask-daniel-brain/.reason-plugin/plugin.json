@@ -1,0 +1,13 @@
+{
+  "name": "ask-daniel-brain",
+  "displayName": "Ask Daniel Brain",
+  "description": "Research Daniel Brain's work.",
+  "homepage": "https://danielbrain.ai",
+  "docs": "https://danielbrain.ai",
+  "auth": "none",
+  "mcpServers": {
+    "ask-daniel-brain": {
+      "url": "https://danielbrain.ai/mcp"
+    }
+  }
+}

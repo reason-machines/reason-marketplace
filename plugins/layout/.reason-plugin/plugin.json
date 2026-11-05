@@ -1,0 +1,13 @@
+{
+  "name": "layout",
+  "displayName": "Layout",
+  "description": "Order food anywhere.",
+  "homepage": "https://layout.link",
+  "docs": "https://layout.link",
+  "auth": "oauth",
+  "mcpServers": {
+    "layout": {
+      "url": "https://mcp.layout.link/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "churn-solution",
+  "displayName": "Churn Solution",
+  "description": "Retain revenue and customers.",
+  "homepage": "https://churnsolution.com",
+  "docs": "https://churnsolution.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "churn-solution": {
+      "url": "https://mcp.churnsolution.com/mcp"
+    }
+  }
+}

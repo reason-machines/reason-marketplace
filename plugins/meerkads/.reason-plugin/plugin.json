@@ -1,0 +1,13 @@
+{
+  "name": "meerkads",
+  "displayName": "Meerkads",
+  "description": "Ad and store performance.",
+  "homepage": "https://meerkads.com",
+  "docs": "https://meerkads.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "meerkads": {
+      "url": "https://mcp.meerkads.com/mcp"
+    }
+  }
+}

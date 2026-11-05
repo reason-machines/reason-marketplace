@@ -1,0 +1,13 @@
+{
+  "name": "runneth",
+  "displayName": "Runneth",
+  "description": "Creative strategy for your ads.",
+  "homepage": "https://runneth.com",
+  "docs": "https://runneth.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "runneth": {
+      "url": "https://mcp.runneth.com/"
+    }
+  }
+}

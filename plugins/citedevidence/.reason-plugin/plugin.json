@@ -1,0 +1,13 @@
+{
+  "name": "citedevidence",
+  "displayName": "CitedEvidence",
+  "description": "Real papers, checked citations.",
+  "homepage": "https://citedevidence.com/integrations/ai-assistants",
+  "docs": "https://citedevidence.com/integrations/ai-assistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "citedevidence": {
+      "url": "https://citedevidence.com/mcp"
+    }
+  }
+}

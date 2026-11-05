@@ -1,0 +1,13 @@
+{
+  "name": "share-a-cart",
+  "displayName": "Share-A-Cart",
+  "description": "Share shopping carts.",
+  "homepage": "https://share-a-cart.com",
+  "docs": "https://share-a-cart.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "share-a-cart": {
+      "url": "https://share-a-cart.com/mcp"
+    }
+  }
+}

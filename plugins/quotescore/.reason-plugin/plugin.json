@@ -1,0 +1,13 @@
+{
+  "name": "quotescore",
+  "displayName": "QuoteScore",
+  "description": "Check repair quote pricing.",
+  "homepage": "https://quotescore.ai",
+  "docs": "https://quotescore.ai",
+  "auth": "none",
+  "mcpServers": {
+    "quotescore": {
+      "url": "https://quotescore.ai/mcp"
+    }
+  }
+}

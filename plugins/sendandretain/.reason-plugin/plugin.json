@@ -1,0 +1,13 @@
+{
+  "name": "sendandretain",
+  "displayName": "Send & Retain Emails",
+  "description": "Email templates & automations.",
+  "homepage": "https://sendandretain.com",
+  "docs": "https://sendandretain.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "sendandretain": {
+      "url": "https://sendandretain.com/api/mcp"
+    }
+  }
+}

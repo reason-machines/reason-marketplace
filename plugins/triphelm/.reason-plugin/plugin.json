@@ -1,0 +1,13 @@
+{
+  "name": "triphelm",
+  "displayName": "TripHelm",
+  "description": "Plan trips on a calendar.",
+  "homepage": "https://www.triphelm.com/",
+  "docs": "https://www.triphelm.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "triphelm": {
+      "url": "https://triphelm.com/mcp"
+    }
+  }
+}

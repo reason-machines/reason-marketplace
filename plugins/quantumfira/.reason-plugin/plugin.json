@@ -1,0 +1,13 @@
+{
+  "name": "quantumfira",
+  "displayName": "QuantumFira",
+  "description": "Quantum portfolio optimisation.",
+  "homepage": "https://www.quantumfira.com",
+  "docs": "https://www.quantumfira.com",
+  "auth": "none",
+  "mcpServers": {
+    "quantumfira": {
+      "url": "https://quantumfira.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dharmikstudio",
+  "displayName": "DharmikStudio",
+  "description": "Devotional audio and stories.",
+  "homepage": "https://studio.dharmikvibes.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.dharmikvibes/studio",
+  "auth": "none",
+  "mcpServers": {
+    "dharmikstudio": {
+      "url": "https://studio.dharmikvibes.com/mcp"
+    }
+  }
+}

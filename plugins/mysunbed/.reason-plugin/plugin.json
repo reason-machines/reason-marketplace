@@ -1,0 +1,13 @@
+{
+  "name": "mysunbed",
+  "displayName": "MySunbed",
+  "description": "Book your beach club.",
+  "homepage": "https://mysunbed.com/en/ai/",
+  "docs": "https://mysunbed.com/en/ai/",
+  "auth": "none",
+  "mcpServers": {
+    "mysunbed": {
+      "url": "https://mcp.mysunbed.com/mcp"
+    }
+  }
+}

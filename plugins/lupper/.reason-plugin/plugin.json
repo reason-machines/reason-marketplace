@@ -1,0 +1,13 @@
+{
+  "name": "lupper",
+  "displayName": "Lupper",
+  "description": "Email results and drafts.",
+  "homepage": "https://www.lupper.io",
+  "docs": "https://www.lupper.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "lupper": {
+      "url": "https://mcp.lupper.io/mcp"
+    }
+  }
+}

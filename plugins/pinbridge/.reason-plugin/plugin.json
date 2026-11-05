@@ -1,0 +1,13 @@
+{
+  "name": "pinbridge",
+  "displayName": "Pinbridge",
+  "description": "Easily publish to Pinterest.",
+  "homepage": "https://www.pinbridge.io",
+  "docs": "https://www.pinbridge.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "pinbridge": {
+      "url": "https://mcp.pinbridge.io/mcp"
+    }
+  }
+}

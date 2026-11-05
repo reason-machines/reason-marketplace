@@ -1,0 +1,22 @@
+{
+  "name": "squish",
+  "displayName": "Squish",
+  "description": "Navigate video by timecode.",
+  "homepage": "https://getsquish.app",
+  "docs": "https://getsquish.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "squish": {
+      "url": "https://api.getsquish.app/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "video-navigation",
+      "description": "Navigate videos an agent cannot ingest directly - turn any clip into timestamped contact sheets, read the grid, zoom into ranges, and cite exact timecodes. Use when asked what happens in a video or screen recording, to find the moment something changes or appears, or to answer with timestamp citatio",
+      "source": "getsquish/squish#f131c05d518333e89833692addd09ce4186a39ab",
+      "skill": "video-navigation",
+      "url": "https://github.com/getsquish/squish/tree/f131c05d518333e89833692addd09ce4186a39ab/skills/video-navigation"
+    }
+  ]
+}

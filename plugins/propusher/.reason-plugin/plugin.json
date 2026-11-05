@@ -1,0 +1,13 @@
+{
+  "name": "propusher",
+  "displayName": "Propusher",
+  "description": "Workout and program builder.",
+  "homepage": "https://propusher.com/",
+  "docs": "https://propusher.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "propusher": {
+      "url": "https://app.propusher.com/mcp"
+    }
+  }
+}

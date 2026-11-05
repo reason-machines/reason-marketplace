@@ -1,0 +1,13 @@
+{
+  "name": "grantlink",
+  "displayName": "GrantLink",
+  "description": "Grant accounting insights.",
+  "homepage": "https://grantlink.app",
+  "docs": "https://grantlink.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "grantlink": {
+      "url": "https://grantlink.app/mcp"
+    }
+  }
+}

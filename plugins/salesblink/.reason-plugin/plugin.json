@@ -1,0 +1,13 @@
+{
+  "name": "salesblink",
+  "displayName": "SalesBlink",
+  "description": "Manage sales outreach.",
+  "homepage": "https://salesblink.io",
+  "docs": "https://salesblink.io",
+  "auth": "none",
+  "mcpServers": {
+    "salesblink": {
+      "url": "https://mcp.salesblink.io/mcp"
+    }
+  }
+}

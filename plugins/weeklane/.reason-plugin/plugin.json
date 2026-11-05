@@ -1,0 +1,13 @@
+{
+  "name": "weeklane",
+  "displayName": "Weeklane",
+  "description": "Plan your week in Weeklane.",
+  "homepage": "https://weeklane.app/ai",
+  "docs": "https://weeklane.app/ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "weeklane": {
+      "url": "https://mcp.weeklane.app/mcp"
+    }
+  }
+}

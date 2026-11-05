@@ -1,0 +1,13 @@
+{
+  "name": "birdie",
+  "displayName": "Birdie",
+  "description": "Capture customer issue context.",
+  "homepage": "https://www.birdie.so",
+  "docs": "https://www.birdie.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "birdie": {
+      "url": "https://mcp.birdie.so/mcp"
+    }
+  }
+}

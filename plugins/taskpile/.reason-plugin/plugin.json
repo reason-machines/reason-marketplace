@@ -1,0 +1,13 @@
+{
+  "name": "taskpile",
+  "displayName": "Taskpile",
+  "description": "Capture, plan and finish tasks.",
+  "homepage": "https://taskpile.app",
+  "docs": "https://taskpile.app/mcp-task-manager",
+  "auth": "oauth",
+  "mcpServers": {
+    "taskpile": {
+      "url": "https://taskpile.app/api/mcp"
+    }
+  }
+}

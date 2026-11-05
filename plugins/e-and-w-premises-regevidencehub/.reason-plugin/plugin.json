@@ -1,0 +1,13 @@
+{
+  "name": "e-and-w-premises-regevidencehub",
+  "displayName": "E&W Premises — RegEvidenceHub",
+  "description": "Premises licensing checks.",
+  "homepage": "https://premises.regevidencehub.com/uk-premises-licence-navigator",
+  "docs": "https://premises.regevidencehub.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "e-and-w-premises-regevidencehub": {
+      "url": "https://premises.regevidencehub.com/mcp"
+    }
+  }
+}

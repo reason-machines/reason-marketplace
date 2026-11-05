@@ -1,0 +1,13 @@
+{
+  "name": "coinrebate",
+  "displayName": "CoinRebate",
+  "description": "Compare crypto exchange fees.",
+  "homepage": "https://www.coinrebate.vip",
+  "docs": "https://www.coinrebate.vip/developers",
+  "auth": "none",
+  "mcpServers": {
+    "coinrebate": {
+      "url": "https://www.coinrebate.vip/api/mcp"
+    }
+  }
+}

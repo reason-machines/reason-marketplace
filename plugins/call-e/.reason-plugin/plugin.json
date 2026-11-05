@@ -1,0 +1,13 @@
+{
+  "name": "call-e",
+  "displayName": "CALL-E",
+  "description": "Make phone calls for you.",
+  "homepage": "https://www.heycall-e.com/",
+  "docs": "https://api.heycall-e.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "call-e": {
+      "url": "https://seleven-mcp-sg.airudder.com/mcp"
+    }
+  }
+}

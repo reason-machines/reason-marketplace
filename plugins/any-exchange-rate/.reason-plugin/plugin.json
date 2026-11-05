@@ -1,0 +1,13 @@
+{
+  "name": "any-exchange-rate",
+  "displayName": "Any Exchange Rate",
+  "description": "Quickly check rates: $€¥.",
+  "homepage": "https://www.widget.olutely.com",
+  "docs": "https://integrations.sh/olutely.com/any-exchange-rate-mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "any-exchange-rate": {
+      "url": "https://forex.widgets.widget.olutely.com/forex/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "predis-ai",
+  "displayName": "Predis.ai",
+  "description": "Make Ads Videos, UGC with AI.",
+  "homepage": "https://predis.ai/",
+  "docs": "https://predis.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "predis-ai": {
+      "url": "https://mcp.predis.ai/mcp"
+    }
+  }
+}

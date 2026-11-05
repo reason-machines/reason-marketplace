@@ -1,0 +1,13 @@
+{
+  "name": "padlet",
+  "displayName": "Padlet",
+  "description": "Create and manage padlets.",
+  "homepage": "https://padlet.com",
+  "docs": "https://padlet.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "padlet": {
+      "url": "https://mcp.padlet.com/"
+    }
+  }
+}

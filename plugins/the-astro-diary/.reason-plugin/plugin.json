@@ -1,0 +1,13 @@
+{
+  "name": "the-astro-diary",
+  "displayName": "The Astro Diary",
+  "description": "Your day and week in astrology.",
+  "homepage": "https://theastrodiary.com",
+  "docs": "https://theastrodiary.com",
+  "auth": "none",
+  "mcpServers": {
+    "the-astro-diary": {
+      "url": "https://theastrodiary.com/mcp"
+    }
+  }
+}

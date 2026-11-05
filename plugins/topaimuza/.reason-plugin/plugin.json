@@ -1,0 +1,13 @@
+{
+  "name": "topaimuza",
+  "displayName": "TopAIMuza",
+  "description": "Ranking polskiej muzyki AI.",
+  "homepage": "https://topaimuza.pl/",
+  "docs": "https://topaimuza.pl/",
+  "auth": "none",
+  "mcpServers": {
+    "topaimuza": {
+      "url": "https://topaimuza.pl/mcp"
+    }
+  }
+}

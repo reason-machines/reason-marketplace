@@ -1,0 +1,13 @@
+{
+  "name": "repolore",
+  "displayName": "RepoLore",
+  "description": "Explain public code history.",
+  "homepage": "https://repolore.devlab.group",
+  "docs": "https://repolore.devlab.group",
+  "auth": "none",
+  "mcpServers": {
+    "repolore": {
+      "url": "https://repolore.devlab.group/mcp"
+    }
+  }
+}

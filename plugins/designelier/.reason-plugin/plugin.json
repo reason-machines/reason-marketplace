@@ -1,0 +1,13 @@
+{
+  "name": "designelier",
+  "displayName": "Designelier",
+  "description": "Generate icons & illustrations.",
+  "homepage": "https://app.designelier.com/plugin",
+  "docs": "https://app.designelier.com/plugin",
+  "auth": "oauth",
+  "mcpServers": {
+    "designelier": {
+      "url": "https://mcp.designelier.com/mcp"
+    }
+  }
+}

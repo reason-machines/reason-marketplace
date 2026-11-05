@@ -1,0 +1,13 @@
+{
+  "name": "search1api",
+  "displayName": "Search1API",
+  "description": "Live web access for AI agents.",
+  "homepage": "https://s1.dev",
+  "docs": "https://s1.dev/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "search1api": {
+      "url": "https://mcp.search1api.com/mcp"
+    }
+  }
+}

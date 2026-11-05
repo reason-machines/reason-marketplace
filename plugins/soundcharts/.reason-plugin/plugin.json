@@ -1,0 +1,13 @@
+{
+  "name": "soundcharts",
+  "displayName": "Soundcharts",
+  "description": "Actionable Data for the Music.",
+  "homepage": "https://soundcharts.com",
+  "docs": "https://soundcharts.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "soundcharts": {
+      "url": "https://mcp.soundcharts.com/mcp"
+    }
+  }
+}

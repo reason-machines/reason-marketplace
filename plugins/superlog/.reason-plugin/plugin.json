@@ -1,0 +1,13 @@
+{
+  "name": "superlog",
+  "displayName": "Superlog",
+  "description": "Triage errors in Slack.",
+  "homepage": "https://superlog.sh/",
+  "docs": "https://docs.superlog.sh/api-reference/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "superlog": {
+      "url": "https://superlog.sh/api/mcp"
+    }
+  }
+}

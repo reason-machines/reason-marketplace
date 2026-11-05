@@ -1,0 +1,13 @@
+{
+  "name": "configquote",
+  "displayName": "ConfigQuote",
+  "description": "Create and send sales quotes.",
+  "homepage": "https://configquote.com",
+  "docs": "https://configquote.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "configquote": {
+      "url": "https://mcp.configquote.com/mcp"
+    }
+  }
+}

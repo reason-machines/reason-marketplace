@@ -1,0 +1,13 @@
+{
+  "name": "thrifle",
+  "displayName": "Thrifle",
+  "description": "Return policies, deals, prices.",
+  "homepage": "https://thrifle.com/mcp",
+  "docs": "https://thrifle.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "thrifle": {
+      "url": "https://api.thrifle.com/api/mcp"
+    }
+  }
+}

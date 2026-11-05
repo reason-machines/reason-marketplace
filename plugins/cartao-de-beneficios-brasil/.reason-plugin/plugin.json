@@ -1,0 +1,13 @@
+{
+  "name": "cartao-de-beneficios-brasil",
+  "displayName": "Cartão de Benefícios Brasil",
+  "description": "Clube de benefícios próprio.",
+  "homepage": "https://www.cartaodebeneficios.com.br/",
+  "docs": "https://www.cartaodebeneficios.com.br/",
+  "auth": "none",
+  "mcpServers": {
+    "cartao-de-beneficios-brasil": {
+      "url": "https://mcp.cartaodebeneficios.com.br/mcp"
+    }
+  }
+}

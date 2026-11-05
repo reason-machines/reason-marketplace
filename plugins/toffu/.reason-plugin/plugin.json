@@ -1,0 +1,13 @@
+{
+  "name": "toffu",
+  "displayName": "Toffu",
+  "description": "AI marketing agent.",
+  "homepage": "https://toffu.ai",
+  "docs": "https://toffu.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "toffu": {
+      "url": "https://mcp.toffu.ai/mcp"
+    }
+  }
+}

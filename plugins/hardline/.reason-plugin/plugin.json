@@ -1,0 +1,13 @@
+{
+  "name": "hardline",
+  "displayName": "Hardline",
+  "description": "Search your calls & notes.",
+  "homepage": "https://www.hardlineapp.com",
+  "docs": "https://docs.hardlineapp.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hardline": {
+      "url": "https://api.hardlineapp.com/mcp"
+    }
+  }
+}

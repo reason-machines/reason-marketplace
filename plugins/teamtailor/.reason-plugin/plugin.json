@@ -1,0 +1,13 @@
+{
+  "name": "teamtailor",
+  "displayName": "Teamtailor",
+  "description": "Manage recruiting data.",
+  "homepage": "https://teamtailor.com/",
+  "docs": "https://teamtailor.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "teamtailor": {
+      "url": "https://mcp.teamtailor.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "restplass-no",
+  "displayName": "restplass.no",
+  "description": "Charter og pakkereiser.",
+  "homepage": "https://www.restplass.no/",
+  "docs": "https://restplass.no/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "restplass-no": {
+      "url": "https://www.restplass.no/mcp"
+    }
+  }
+}

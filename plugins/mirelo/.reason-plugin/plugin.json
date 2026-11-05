@@ -1,0 +1,13 @@
+{
+  "name": "mirelo",
+  "displayName": "Mirelo",
+  "description": "Generate sound effects.",
+  "homepage": "https://mirelo.ai",
+  "docs": "https://mirelo.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "mirelo": {
+      "url": "https://mcp.mirelo.ai/mcp"
+    }
+  }
+}

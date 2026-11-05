@@ -1,0 +1,13 @@
+{
+  "name": "one4wall",
+  "displayName": "One4Wall",
+  "description": "Find and save phone wallpapers.",
+  "homepage": "https://www.one4wall.app",
+  "docs": "https://one4wall.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "one4wall": {
+      "url": "https://mcp.one4wall.app/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "studyarena",
+  "displayName": "StudyArena",
+  "description": "Compare AI answers for study.",
+  "homepage": "https://studyarena.com",
+  "docs": "https://studyarena.com/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "studyarena": {
+      "url": "https://studyarena.com/api/mcp"
+    }
+  }
+}

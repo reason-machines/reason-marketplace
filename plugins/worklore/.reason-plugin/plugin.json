@@ -1,0 +1,13 @@
+{
+  "name": "worklore",
+  "displayName": "worklore",
+  "description": "Dev stories, capability x-ray.",
+  "homepage": "https://worklore.dev",
+  "docs": "https://worklore.dev",
+  "auth": "none",
+  "mcpServers": {
+    "worklore": {
+      "url": "https://worklore.dev/mcp"
+    }
+  }
+}

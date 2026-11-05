@@ -1,0 +1,13 @@
+{
+  "name": "simplefeed-news-free",
+  "displayName": "SimpleFeed News Free MCP",
+  "description": "Rights Cleared Content.",
+  "homepage": "https://www.simplefeed.com/ai-llms-new/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.simplefeed/mcp-free",
+  "auth": "oauth",
+  "mcpServers": {
+    "simplefeed-news-free": {
+      "url": "https://d3b8d1lqb9mb0.cloudfront.net/mcp"
+    }
+  }
+}

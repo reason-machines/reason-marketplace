@@ -1,0 +1,13 @@
+{
+  "name": "voicelabs",
+  "displayName": "VoiceLabs",
+  "description": "Text to speech and transcripts.",
+  "homepage": "https://voicelabs.now/",
+  "docs": "https://voicelabs.now/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "voicelabs": {
+      "url": "https://app.voicelabs.now/api/mcp"
+    }
+  }
+}

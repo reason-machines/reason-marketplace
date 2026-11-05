@@ -1,0 +1,13 @@
+{
+  "name": "scite",
+  "displayName": "Scite",
+  "description": "Search scientific literature.",
+  "homepage": "https://www.scite.ai",
+  "docs": "https://scite.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "scite": {
+      "url": "https://api.scite.ai/mcp"
+    }
+  }
+}

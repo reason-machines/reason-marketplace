@@ -1,0 +1,13 @@
+{
+  "name": "badonion-data",
+  "displayName": "BadOnion Data",
+  "description": "Trade, PPI & company data.",
+  "homepage": "https://badonion.co.kr",
+  "docs": "https://badonion.co.kr",
+  "auth": "oauth",
+  "mcpServers": {
+    "badonion-data": {
+      "url": "https://badonion.co.kr/mcp"
+    }
+  }
+}

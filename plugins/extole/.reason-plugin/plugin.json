@@ -1,0 +1,13 @@
+{
+  "name": "extole",
+  "displayName": "Extole",
+  "description": "Extole program insights.",
+  "homepage": "https://www.extole.com",
+  "docs": "https://www.extole.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "extole": {
+      "url": "https://mcp.extole.com/mcp"
+    }
+  }
+}

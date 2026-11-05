@@ -1,0 +1,13 @@
+{
+  "name": "cria-car-rental",
+  "displayName": "Cria.al",
+  "description": "Find rental cars in Albania.",
+  "homepage": "https://cria.al",
+  "docs": "https://cria.al",
+  "auth": "none",
+  "mcpServers": {
+    "cria-car-rental": {
+      "url": "https://cria.al/mcp"
+    }
+  }
+}

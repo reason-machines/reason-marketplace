@@ -1,0 +1,13 @@
+{
+  "name": "smart-money-tracker",
+  "displayName": "Budget Tracker by Smart Money",
+  "description": "Track expenses & budgets.",
+  "homepage": "https://smart-money.ink/",
+  "docs": "https://smart-money.ink/",
+  "auth": "oauth",
+  "mcpServers": {
+    "smart-money-tracker": {
+      "url": "https://smart-money.ink/mcp"
+    }
+  }
+}

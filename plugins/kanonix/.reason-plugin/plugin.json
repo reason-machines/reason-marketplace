@@ -1,0 +1,13 @@
+{
+  "name": "kanonix",
+  "displayName": "Kanonix",
+  "description": "Algerian law, sourced.",
+  "homepage": "https://kanonix.app",
+  "docs": "https://kanonix.app",
+  "auth": "none",
+  "mcpServers": {
+    "kanonix": {
+      "url": "https://kanonix.app/mcp"
+    }
+  }
+}

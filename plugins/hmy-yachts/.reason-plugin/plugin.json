@@ -1,0 +1,13 @@
+{
+  "name": "hmy-yachts",
+  "displayName": "HMY Yacht Sales",
+  "description": "Research yachts for sale.",
+  "homepage": "https://www.hmy.com/",
+  "docs": "https://www.hmy.com/",
+  "auth": "none",
+  "mcpServers": {
+    "hmy-yachts": {
+      "url": "https://mcp.hmy.com/mcp"
+    }
+  }
+}

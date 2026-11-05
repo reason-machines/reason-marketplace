@@ -1,0 +1,13 @@
+{
+  "name": "helpwell",
+  "displayName": "HelpWell",
+  "description": "Run your help desk from chat.",
+  "homepage": "https://helpwell.ai",
+  "docs": "https://app.helpwell.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "helpwell": {
+      "url": "https://app.helpwell.ai/mcp"
+    }
+  }
+}

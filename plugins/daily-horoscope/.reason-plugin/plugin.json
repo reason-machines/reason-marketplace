@@ -1,0 +1,13 @@
+{
+  "name": "daily-horoscope",
+  "displayName": "Daily Horoscope",
+  "description": "Horoscopes, zodiac & tarot.",
+  "homepage": "https://todayhoroscopeapp.com",
+  "docs": "https://todayhoroscopeapp.com",
+  "auth": "none",
+  "mcpServers": {
+    "daily-horoscope": {
+      "url": "https://mcp.todayhoroscopeapp.com/mcp"
+    }
+  }
+}

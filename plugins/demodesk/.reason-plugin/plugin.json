@@ -1,0 +1,13 @@
+{
+  "name": "demodesk",
+  "displayName": "Demodesk",
+  "description": "Demodesk sales data in Reason.",
+  "homepage": "https://demodesk.com",
+  "docs": "https://demodesk.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "demodesk": {
+      "url": "https://mcp.demodesk.com/mcp"
+    }
+  }
+}

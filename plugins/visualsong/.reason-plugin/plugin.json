@@ -1,0 +1,13 @@
+{
+  "name": "visualsong",
+  "displayName": "VisualSong",
+  "description": "Create music-reactive visuals.",
+  "homepage": "https://visualsong-chatgpt-app.kunyoungpark.workers.dev/",
+  "docs": "https://visualsong-chatgpt-app.kunyoungpark.workers.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "visualsong": {
+      "url": "https://visualsong-chatgpt-app.kunyoungpark.workers.dev/mcp"
+    }
+  }
+}

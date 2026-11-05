@@ -1,0 +1,22 @@
+{
+  "name": "pushary",
+  "displayName": "Pushary",
+  "description": "Answer agents from your phone.",
+  "homepage": "https://pushary.com",
+  "docs": "https://pushary.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "pushary": {
+      "url": "https://pushary.com/api/mcp/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "pushary-chatgpt",
+      "description": "Reach the user on their phone through Pushary while ChatGPT or Codex works on a task. Use it to get a plan approved before starting, to ask before a step the user has not approved, and to send one summary when the work is done or fails. Use for requests such as get my approval on my phone first, ask",
+      "source": "pushary/pushary-skill#8eb070f12d8dba88613e42ae81da9c674cfc2027",
+      "skill": "pushary-chatgpt",
+      "url": "https://github.com/pushary/pushary-skill/tree/8eb070f12d8dba88613e42ae81da9c674cfc2027/skills/pushary-chatgpt"
+    }
+  ]
+}

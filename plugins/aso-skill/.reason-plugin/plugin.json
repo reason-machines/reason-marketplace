@@ -1,0 +1,13 @@
+{
+  "name": "aso-skill",
+  "displayName": "ASO Skill",
+  "description": "Apple App Store research.",
+  "homepage": "https://www.asoskill.com",
+  "docs": "https://www.asoskill.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "aso-skill": {
+      "url": "https://api.asoskill.com/mcp"
+    }
+  }
+}

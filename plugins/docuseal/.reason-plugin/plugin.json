@@ -1,0 +1,29 @@
+{
+  "name": "docuseal",
+  "displayName": "DocuSeal",
+  "description": "Manage e-signatures.",
+  "homepage": "https://www.docuseal.com",
+  "docs": "https://www.docuseal.com",
+  "auth": "none",
+  "mcpServers": {
+    "docuseal": {
+      "url": "https://mcp.docuseal.com/"
+    }
+  },
+  "skills": [
+    {
+      "name": "docuseal-cli",
+      "description": "Manage DocuSeal e-signature workflows from the terminal via the DocuSeal CLI - create templates from PDF/DOCX/HTML, send documents for signing, track submissions, and update submitters. Use when the user wants to run DocuSeal commands in the shell, scripts, or CI/CD pipelines. Always load this skill",
+      "source": "docusealco/docuseal-agent-skills#cd32f55842fe18799810e18350b6bbf6b316c1be",
+      "skill": "docuseal-cli",
+      "url": "https://github.com/docusealco/docuseal-agent-skills/tree/cd32f55842fe18799810e18350b6bbf6b316c1be/skills/docuseal-cli"
+    },
+    {
+      "name": "docuseal-code",
+      "description": "DocuSeal development reference. Embed signing forms and template builder into web and mobile apps (JS/React/Vue/Angular, WebView, JWT, CSS theming). REST API with all endpoints, request/response schemas, code examples (cURL, CLI, Node.js, TypeScript, Python, Ruby, PHP, Go, C#, Java), and webhooks. U",
+      "source": "docusealco/docuseal-agent-skills#cd32f55842fe18799810e18350b6bbf6b316c1be",
+      "skill": "docuseal-code",
+      "url": "https://github.com/docusealco/docuseal-agent-skills/tree/cd32f55842fe18799810e18350b6bbf6b316c1be/skills/docuseal-code"
+    }
+  ]
+}

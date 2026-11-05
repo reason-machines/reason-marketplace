@@ -1,0 +1,13 @@
+{
+  "name": "vinellu",
+  "displayName": "Vinellu",
+  "description": "Encontre vinhos e sua adega.",
+  "homepage": "https://vinellu.com",
+  "docs": "https://vinellu.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "vinellu": {
+      "url": "https://vinellu.com/mcp"
+    }
+  }
+}

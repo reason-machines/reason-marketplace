@@ -1,0 +1,13 @@
+{
+  "name": "griddo-ax-docs",
+  "displayName": "Griddo AX Docs",
+  "description": "Griddo backoffice docs.",
+  "homepage": "https://docs.griddo.io/mcp/",
+  "docs": "https://docs.griddo.io/mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "griddo-ax-docs": {
+      "url": "https://ax.mcp.griddo.io/mcp"
+    }
+  }
+}

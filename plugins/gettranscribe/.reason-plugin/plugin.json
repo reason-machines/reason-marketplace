@@ -1,0 +1,13 @@
+{
+  "name": "gettranscribe",
+  "displayName": "GetTranscribe",
+  "description": "Transcribe public video links.",
+  "homepage": "https://www.gettranscribe.ai",
+  "docs": "https://www.gettranscribe.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "gettranscribe": {
+      "url": "https://mcp.gettranscribe.ai/mcp"
+    }
+  }
+}

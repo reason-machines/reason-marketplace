@@ -1,0 +1,13 @@
+{
+  "name": "gighq-ai",
+  "displayName": "GigHQ.ai",
+  "description": "Track jobs and growth.",
+  "homepage": "https://www.gighq.ai",
+  "docs": "https://www.gighq.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "gighq-ai": {
+      "url": "https://mcp.gighq.ai/mcp"
+    }
+  }
+}

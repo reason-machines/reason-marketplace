@@ -1,0 +1,13 @@
+{
+  "name": "simpliciter-ai",
+  "displayName": "Simpliciter AI",
+  "description": "Legal research with sources.",
+  "homepage": "https://simpliciter.ai",
+  "docs": "https://simpliciter.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "simpliciter-ai": {
+      "url": "https://simpliciter.ai/mcp"
+    }
+  }
+}

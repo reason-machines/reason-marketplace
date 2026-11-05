@@ -1,0 +1,13 @@
+{
+  "name": "cloudx",
+  "displayName": "CloudX",
+  "description": "Manage mobile ad monetization.",
+  "homepage": "https://cloudx.ai",
+  "docs": "https://cloudx.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "cloudx": {
+      "url": "https://provisioning.cloudx.io/mcp"
+    }
+  }
+}

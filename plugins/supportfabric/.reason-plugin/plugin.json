@@ -1,0 +1,13 @@
+{
+  "name": "supportfabric",
+  "displayName": "SupportFabric",
+  "description": "Run your customer support.",
+  "homepage": "https://supportfabric.com",
+  "docs": "https://supportfabric.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "supportfabric": {
+      "url": "https://mcp.supportfabric.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "octoeverywhere",
+  "displayName": "OctoEverywhere",
+  "description": "Monitor & Control 3D Printers.",
+  "homepage": "https://octoeverywhere.com",
+  "docs": "https://octoeverywhere.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "octoeverywhere": {
+      "url": "https://octoeverywhere.com//api/mcp"
+    }
+  }
+}

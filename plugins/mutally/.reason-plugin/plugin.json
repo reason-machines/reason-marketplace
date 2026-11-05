@@ -1,0 +1,13 @@
+{
+  "name": "mutally",
+  "displayName": "Mutally",
+  "description": "Mutual debt book.",
+  "homepage": "https://mutally.rsteam.uz",
+  "docs": "https://mutally.rsteam.uz/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "mutally": {
+      "url": "https://mutally.rsteam.uz/mcp"
+    }
+  }
+}

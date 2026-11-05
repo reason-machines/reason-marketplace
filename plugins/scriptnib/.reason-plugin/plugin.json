@@ -1,0 +1,13 @@
+{
+  "name": "scriptnib",
+  "displayName": "ScriptNib",
+  "description": "Connect your screenplay work.",
+  "homepage": "https://scriptnib.com",
+  "docs": "https://scriptnib.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "scriptnib": {
+      "url": "https://scriptnib.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "parky",
+  "displayName": "Parky",
+  "description": "Check park waits and hours.",
+  "homepage": "https://parkypass.com/",
+  "docs": "https://parkypass.com/",
+  "auth": "none",
+  "mcpServers": {
+    "parky": {
+      "url": "https://mcp.parkypass.com/mcp"
+    }
+  }
+}

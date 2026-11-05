@@ -1,0 +1,13 @@
+{
+  "name": "nexus-calories-and-workouts",
+  "displayName": "Nexus: Calories & Workouts",
+  "description": "Track macros, plan workouts.",
+  "homepage": "https://nexus.kushalsm.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.kushalsm.nexus/nexus",
+  "auth": "oauth",
+  "mcpServers": {
+    "nexus-calories-and-workouts": {
+      "url": "https://mcp.nexus.kushalsm.com/mcp"
+    }
+  }
+}

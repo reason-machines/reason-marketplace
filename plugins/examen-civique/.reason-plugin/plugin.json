@@ -1,0 +1,13 @@
+{
+  "name": "examen-civique",
+  "displayName": "Examen Civique",
+  "description": "Practice the French civic exam.",
+  "homepage": "https://examen-civique-alice.fr",
+  "docs": "https://examen-civique-alice.fr",
+  "auth": "none",
+  "mcpServers": {
+    "examen-civique": {
+      "url": "https://examen-civique-alice.fr/mcp"
+    }
+  }
+}

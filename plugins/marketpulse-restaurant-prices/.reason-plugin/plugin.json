@@ -1,0 +1,13 @@
+{
+  "name": "marketpulse-restaurant-prices",
+  "displayName": "MarketPulse Restaurant Prices",
+  "description": "Explore tracked menu prices.",
+  "homepage": "https://getmarketpulse.com/integrations/chatgpt",
+  "docs": "https://getmarketpulse.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "marketpulse-restaurant-prices": {
+      "url": "https://getmarketpulse.com/api/mcp/diner"
+    }
+  }
+}

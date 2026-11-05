@@ -1,0 +1,13 @@
+{
+  "name": "propush",
+  "displayName": "Propush.me",
+  "description": "Manage Propush monetization.",
+  "homepage": "https://propush.me/",
+  "docs": "https://propush.me/",
+  "auth": "oauth",
+  "mcpServers": {
+    "propush": {
+      "url": "https://mcp.propush.me/mcp"
+    }
+  }
+}

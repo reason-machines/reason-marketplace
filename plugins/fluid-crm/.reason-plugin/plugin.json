@@ -1,0 +1,13 @@
+{
+  "name": "fluid-crm",
+  "displayName": "Fluid CRM",
+  "description": "Update your CRM by talking.",
+  "homepage": "https://fluidcrm.io",
+  "docs": "https://fluidcrm.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "fluid-crm": {
+      "url": "https://mcp.fluidcrm.io/mcp"
+    }
+  }
+}

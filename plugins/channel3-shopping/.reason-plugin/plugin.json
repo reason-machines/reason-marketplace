@@ -1,0 +1,13 @@
+{
+  "name": "channel3-shopping",
+  "displayName": "Channel3 Shopping",
+  "description": "Shop products across the web.",
+  "homepage": "https://trychannel3.com",
+  "docs": "https://trychannel3.com",
+  "auth": "none",
+  "mcpServers": {
+    "channel3-shopping": {
+      "url": "https://mcp.trychannel3.com/"
+    }
+  }
+}

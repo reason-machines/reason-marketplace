@@ -1,0 +1,13 @@
+{
+  "name": "sonarlex",
+  "displayName": "Sonarlex Word Puzzle",
+  "description": "Daily game: guess the word.",
+  "homepage": "https://sonarlex.ambientapp.ai",
+  "docs": "https://unsaid.ambientapp.ai/docs",
+  "auth": "none",
+  "mcpServers": {
+    "sonarlex": {
+      "url": "https://unsaid.ambientapp.ai/mcp/claude"
+    }
+  }
+}

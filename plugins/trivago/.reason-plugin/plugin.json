@@ -1,0 +1,13 @@
+{
+  "name": "trivago",
+  "displayName": "trivago",
+  "description": "Find your ideal hotel, fast.",
+  "homepage": "https://www.trivago.com",
+  "docs": "https://www.trivago.com",
+  "auth": "none",
+  "mcpServers": {
+    "trivago": {
+      "url": "https://mcp.trivago.com/mcp"
+    }
+  }
+}

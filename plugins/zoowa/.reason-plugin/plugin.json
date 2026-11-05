@@ -1,0 +1,13 @@
+{
+  "name": "zoowa",
+  "displayName": "Zoowa",
+  "description": "AI presence and agent commerce.",
+  "homepage": "https://zoowa.ai",
+  "docs": "https://zoowa.ai",
+  "auth": "none",
+  "mcpServers": {
+    "zoowa": {
+      "url": "https://mcp.zoowa.ai/mcp"
+    }
+  }
+}

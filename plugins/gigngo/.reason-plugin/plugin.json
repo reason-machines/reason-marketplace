@@ -1,0 +1,13 @@
+{
+  "name": "gigngo",
+  "displayName": "GigNGo",
+  "description": "Find locals for home jobs.",
+  "homepage": "https://gigngo.org",
+  "docs": "https://gigngo.org",
+  "auth": "none",
+  "mcpServers": {
+    "gigngo": {
+      "url": "https://gigngo.org/mcp"
+    }
+  }
+}

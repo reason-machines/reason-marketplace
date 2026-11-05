@@ -1,0 +1,13 @@
+{
+  "name": "earningsfeed",
+  "displayName": "Earnings Feed",
+  "description": "SEC filings and insider data.",
+  "homepage": "https://earningsfeed.com/mcp",
+  "docs": "https://earningsfeed.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "earningsfeed": {
+      "url": "https://earningsfeed.com/api/mcp"
+    }
+  }
+}

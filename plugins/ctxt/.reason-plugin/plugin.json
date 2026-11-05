@@ -1,0 +1,13 @@
+{
+  "name": "ctxt",
+  "displayName": "Context — ctxt.io",
+  "description": "Share links that expire.",
+  "homepage": "https://ctxt.io/mcp/docs",
+  "docs": "https://ctxt.io/mcp/docs",
+  "auth": "none",
+  "mcpServers": {
+    "ctxt": {
+      "url": "https://ctxt.io/mcp"
+    }
+  }
+}

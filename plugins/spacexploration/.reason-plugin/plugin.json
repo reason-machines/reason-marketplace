@@ -1,0 +1,13 @@
+{
+  "name": "spacexploration",
+  "displayName": "SPACEXPLORATION",
+  "description": "Commercial real estate search.",
+  "homepage": "https://spacexploration.com",
+  "docs": "https://spacexploration.com",
+  "auth": "none",
+  "mcpServers": {
+    "spacexploration": {
+      "url": "https://spacexploration.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stockfit",
+  "displayName": "StockFit",
+  "description": "Financial API you can rely on.",
+  "homepage": "https://developer.stockfit.io/",
+  "docs": "https://developer.stockfit.io/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "stockfit": {
+      "url": "https://api.stockfit.io/mcp"
+    }
+  }
+}

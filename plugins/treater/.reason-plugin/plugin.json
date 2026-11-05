@@ -1,0 +1,13 @@
+{
+  "name": "treater",
+  "displayName": "Treater",
+  "description": "Manage Treater from Reason.",
+  "homepage": "https://trytreater.com",
+  "docs": "https://trytreater.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "treater": {
+      "url": "https://mcp.trytreater.com/mcp"
+    }
+  }
+}

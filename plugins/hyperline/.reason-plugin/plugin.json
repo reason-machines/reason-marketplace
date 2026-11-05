@@ -1,0 +1,13 @@
+{
+  "name": "hyperline",
+  "displayName": "Hyperline",
+  "description": "CPQ, billing, and revenue.",
+  "homepage": "https://hyperline.co",
+  "docs": "https://hyperline.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "hyperline": {
+      "url": "https://mcp.hyperline.co/mcp"
+    }
+  }
+}

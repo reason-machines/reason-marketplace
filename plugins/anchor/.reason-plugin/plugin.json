@@ -1,0 +1,13 @@
+{
+  "name": "anchor",
+  "displayName": "Anchor",
+  "description": "Shared drive: HTML, MD & more.",
+  "homepage": "https://anchor.cc",
+  "docs": "https://anchor.cc",
+  "auth": "oauth",
+  "mcpServers": {
+    "anchor": {
+      "url": "https://mcp.anchor.cc/mcp"
+    }
+  }
+}

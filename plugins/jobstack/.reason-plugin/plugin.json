@@ -1,0 +1,13 @@
+{
+  "name": "jobstack",
+  "displayName": "JobStack",
+  "description": "HVAC & field operations.",
+  "homepage": "https://jobstackcrm.com",
+  "docs": "https://jobstackcrm.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "jobstack": {
+      "url": "https://mcp.jobstackcrm.com/mcp"
+    }
+  }
+}

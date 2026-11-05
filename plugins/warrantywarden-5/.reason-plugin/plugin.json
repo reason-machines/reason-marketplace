@@ -1,0 +1,13 @@
+{
+  "name": "warrantywarden-5",
+  "displayName": "WarrantyWarden",
+  "description": "Track your product warranties.",
+  "homepage": "https://warrantywarden.com",
+  "docs": "https://warrantywarden.com",
+  "auth": "none",
+  "mcpServers": {
+    "warrantywarden-5": {
+      "url": "https://mcp.warrantywarden.com/mcp"
+    }
+  }
+}

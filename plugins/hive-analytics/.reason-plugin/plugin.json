@@ -1,0 +1,13 @@
+{
+  "name": "hive-analytics",
+  "displayName": "Hive Analytics",
+  "description": "Hive video event analytics.",
+  "homepage": "https://www.hivestreaming.com",
+  "docs": "https://www.hivestreaming.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hive-analytics": {
+      "url": "https://mcp.hivestreaming.com/mcp"
+    }
+  }
+}

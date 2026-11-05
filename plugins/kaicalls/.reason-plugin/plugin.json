@@ -1,0 +1,13 @@
+{
+  "name": "kaicalls",
+  "displayName": "KaiCalls",
+  "description": "AI answers your business calls.",
+  "homepage": "https://www.kaicalls.com",
+  "docs": "https://www.kaicalls.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "kaicalls": {
+      "url": "https://kaicalls.com/mcp"
+    }
+  }
+}

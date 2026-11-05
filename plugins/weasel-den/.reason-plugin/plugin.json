@@ -1,0 +1,13 @@
+{
+  "name": "weasel-den",
+  "displayName": "Weasel Den",
+  "description": "Track receipts for price drops.",
+  "homepage": "https://www.weaselden.ai",
+  "docs": "https://www.weaselden.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "weasel-den": {
+      "url": "https://mcp.weaselden.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "call-trace",
+  "displayName": "Call Trace",
+  "description": "Review calls and transcripts.",
+  "homepage": "https://www.call-trace.com",
+  "docs": "https://www.call-trace.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "call-trace": {
+      "url": "https://call-trace.com/mcp"
+    }
+  }
+}

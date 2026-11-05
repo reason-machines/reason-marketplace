@@ -1,0 +1,13 @@
+{
+  "name": "rezi-resume-builder",
+  "displayName": "Rezi Resume Builder",
+  "description": "Build and Tailor Resumes.",
+  "homepage": "https://www.rezi.ai/",
+  "docs": "https://rezi.ai/resume-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "rezi-resume-builder": {
+      "url": "https://api.rezi.ai/mcp"
+    }
+  }
+}

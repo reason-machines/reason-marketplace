@@ -1,0 +1,13 @@
+{
+  "name": "agroportal-kg",
+  "displayName": "AgroPortal KG",
+  "description": "Аграрный маркетплейс.",
+  "homepage": "https://agroportal.kg/",
+  "docs": "https://agroportal.kg/",
+  "auth": "none",
+  "mcpServers": {
+    "agroportal-kg": {
+      "url": "https://mcp.agroportal.kg/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "addsign",
+  "displayName": "AddSign",
+  "description": "Send documents for e-signature.",
+  "homepage": "https://addsign.io",
+  "docs": "https://addsign.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "addsign": {
+      "url": "https://addsign.io/api/mcp"
+    }
+  }
+}

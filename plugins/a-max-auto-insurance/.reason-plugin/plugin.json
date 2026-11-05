@@ -1,0 +1,13 @@
+{
+  "name": "a-max-auto-insurance",
+  "displayName": "A-Max Auto Insurance",
+  "description": "Compare Auto Insurance Rates.",
+  "homepage": "https://www.amaxinsurance.com/",
+  "docs": "https://tedix.dev/apps/a-max-auto-insurance/",
+  "auth": "none",
+  "mcpServers": {
+    "a-max-auto-insurance": {
+      "url": "https://quote-mcp-app.amaxinsurance.com/amax/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "krisp",
+  "displayName": "Krisp",
+  "description": "Add meeting context to chats.",
+  "homepage": "https://krisp.ai",
+  "docs": "https://krisp.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "krisp": {
+      "url": "https://mcp.krisp.ai/mcp"
+    }
+  }
+}

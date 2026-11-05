@@ -1,0 +1,13 @@
+{
+  "name": "shellway",
+  "displayName": "Shellway",
+  "description": "Your PC, controlled by Reason.",
+  "homepage": "https://getshellway.com",
+  "docs": "https://getshellway.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "shellway": {
+      "url": "https://mcp.getshellway.com/mcp"
+    }
+  }
+}

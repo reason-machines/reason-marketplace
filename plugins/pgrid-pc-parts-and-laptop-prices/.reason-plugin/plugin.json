@@ -1,0 +1,13 @@
+{
+  "name": "pgrid-pc-parts-and-laptop-prices",
+  "displayName": "PGrid PC Parts & Laptop Prices",
+  "description": "Laptops, GPUs, CPUs, SSDs, RAM.",
+  "homepage": "https://www.pgrid.app",
+  "docs": "https://pgrid.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "pgrid-pc-parts-and-laptop-prices": {
+      "url": "https://www.pgrid.app/mcp"
+    }
+  }
+}

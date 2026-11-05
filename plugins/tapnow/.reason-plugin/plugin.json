@@ -1,0 +1,13 @@
+{
+  "name": "tapnow",
+  "displayName": "TapNow",
+  "description": "Your AI creative engine.",
+  "homepage": "https://www.tapnow.ai",
+  "docs": "https://docs.tapnow.ai/en/docs/mcp/add-a-custom-connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "tapnow": {
+      "url": "https://mcp.tapnow.ai/api/agent-gateway/mcp/general/mcp"
+    }
+  }
+}

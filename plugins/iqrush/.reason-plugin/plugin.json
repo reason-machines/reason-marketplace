@@ -1,0 +1,13 @@
+{
+  "name": "iqrush",
+  "displayName": "IQRush",
+  "description": "Measure AI search visibility.",
+  "homepage": "https://iqrush.ai",
+  "docs": "https://iqrush.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "iqrush": {
+      "url": "https://api.prod.gso.iqrush.ai/api/mcp/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "option-desk-hosted",
+  "displayName": "Option Desk (hosted)",
+  "description": "Analyze option-chain data.",
+  "homepage": "https://optiondesk.avidquant.com",
+  "docs": "https://optiondesk.avidquant.com",
+  "auth": "none",
+  "mcpServers": {
+    "option-desk-hosted": {
+      "url": "https://optiondesk.avidquant.com/mcp"
+    }
+  }
+}

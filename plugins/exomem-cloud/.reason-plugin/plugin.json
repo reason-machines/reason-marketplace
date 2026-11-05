@@ -1,0 +1,13 @@
+{
+  "name": "exomem-cloud",
+  "displayName": "Exomem",
+  "description": "Proactive, grounded AI memory.",
+  "homepage": "https://substratesystems.io/exomem",
+  "docs": "https://exomem.substratesystems.io/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "exomem-cloud": {
+      "url": "https://exomem.substratesystems.io/mcp"
+    }
+  }
+}

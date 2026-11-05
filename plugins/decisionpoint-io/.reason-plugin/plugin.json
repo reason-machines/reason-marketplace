@@ -1,0 +1,13 @@
+{
+  "name": "decisionpoint-io",
+  "displayName": "decisionpoint.io",
+  "description": "Structured decision making.",
+  "homepage": "https://decisionpoint.io",
+  "docs": "https://mcp.decisionpoint.io/.well-known/oauth-protected-resource/v1/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "decisionpoint-io": {
+      "url": "https://mcp.decisionpoint.io/v1/mcp"
+    }
+  }
+}

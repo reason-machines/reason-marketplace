@@ -1,0 +1,13 @@
+{
+  "name": "yuqi-video-home-tour",
+  "displayName": "Yuqi 视频看房 Video Home Tour",
+  "description": "Real video tours of CA homes.",
+  "homepage": "https://www.yunaione.com",
+  "docs": "https://www.yunaione.com",
+  "auth": "none",
+  "mcpServers": {
+    "yuqi-video-home-tour": {
+      "url": "https://mcp.yunaione.com/mcp"
+    }
+  }
+}

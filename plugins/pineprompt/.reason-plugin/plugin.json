@@ -1,0 +1,13 @@
+{
+  "name": "pineprompt",
+  "displayName": "Pineprompt",
+  "description": "AI search visibility tracking.",
+  "homepage": "https://pineprompt.com",
+  "docs": "https://pineprompt.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "pineprompt": {
+      "url": "https://pineprompt.com/mcp"
+    }
+  }
+}

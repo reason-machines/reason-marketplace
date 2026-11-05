@@ -1,0 +1,13 @@
+{
+  "name": "lingard",
+  "displayName": "Lingard",
+  "description": "Learn words you care about.",
+  "homepage": "https://lingard.app",
+  "docs": "https://lingard.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "lingard": {
+      "url": "https://lingard.app/mcp"
+    }
+  }
+}

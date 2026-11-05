@@ -1,0 +1,13 @@
+{
+  "name": "physical-ai-jobs",
+  "displayName": "Physical AI Jobs",
+  "description": "Find Physical AI jobs.",
+  "homepage": "https://www.physicalai.jobs",
+  "docs": "https://www.physicalai.jobs",
+  "auth": "none",
+  "mcpServers": {
+    "physical-ai-jobs": {
+      "url": "https://physicalai.jobs/mcp"
+    }
+  }
+}

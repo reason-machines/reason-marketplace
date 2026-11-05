@@ -1,0 +1,13 @@
+{
+  "name": "basicdeploy",
+  "displayName": "BasicDeploy",
+  "description": "Deploy apps from the chat.",
+  "homepage": "https://basicdeploy.com",
+  "docs": "https://basicdeploy.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "basicdeploy": {
+      "url": "https://mcp.basicdeploy.com/mcp"
+    }
+  }
+}

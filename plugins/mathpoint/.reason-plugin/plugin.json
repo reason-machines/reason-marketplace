@@ -1,0 +1,13 @@
+{
+  "name": "mathpoint",
+  "displayName": "MathPoint",
+  "description": "TeX math in PowerPoint & Word.",
+  "homepage": "https://mcp.tex64.com/mathpoint/docs?lang=en",
+  "docs": "https://mcp.tex64.com/mathpoint/docs?lang=en",
+  "auth": "oauth",
+  "mcpServers": {
+    "mathpoint": {
+      "url": "https://mcp.tex64.com/mathpoint/mcp"
+    }
+  }
+}

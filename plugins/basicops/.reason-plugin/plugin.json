@@ -1,0 +1,13 @@
+{
+  "name": "basicops",
+  "displayName": "BasicOps",
+  "description": "Manage work and team chat.",
+  "homepage": "https://www.basicops.com/",
+  "docs": "https://www.basicops.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "basicops": {
+      "url": "https://mcp.basicops.com/mcp"
+    }
+  }
+}

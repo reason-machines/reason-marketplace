@@ -1,0 +1,13 @@
+{
+  "name": "open-ephemeris",
+  "displayName": "Open Ephemeris",
+  "description": "Accurate charts & Human Design.",
+  "homepage": "https://openephemeris.com",
+  "docs": "https://openephemeris.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "open-ephemeris": {
+      "url": "https://mcp.openephemeris.com/mcp"
+    }
+  }
+}

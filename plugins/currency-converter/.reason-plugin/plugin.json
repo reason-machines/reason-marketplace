@@ -1,0 +1,13 @@
+{
+  "name": "currency-converter",
+  "displayName": "Zovo Currency Converter",
+  "description": "Currency rates & history.",
+  "homepage": "https://currency-converter.zovo.one",
+  "docs": "https://currency-converter.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "currency-converter": {
+      "url": "https://currency-converter.zovo.one/mcp"
+    }
+  }
+}

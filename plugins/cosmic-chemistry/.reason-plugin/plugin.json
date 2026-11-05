@@ -1,0 +1,13 @@
+{
+  "name": "cosmic-chemistry",
+  "displayName": "Cosmic Chemistry",
+  "description": "Vedic astrology, made fun.",
+  "homepage": "https://cosmicchemistry.co",
+  "docs": "https://cosmicchemistry.co",
+  "auth": "none",
+  "mcpServers": {
+    "cosmic-chemistry": {
+      "url": "https://cosmicchemistry.co/mcp"
+    }
+  }
+}

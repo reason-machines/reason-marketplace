@@ -1,0 +1,13 @@
+{
+  "name": "joompulse",
+  "displayName": "JoomPulse",
+  "description": "Brazil E-Commerce Data.",
+  "homepage": "https://joompulse.com/",
+  "docs": "https://joompulse.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "joompulse": {
+      "url": "https://joompulse.com/mcp"
+    }
+  }
+}

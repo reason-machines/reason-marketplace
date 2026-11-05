@@ -1,0 +1,13 @@
+{
+  "name": "xpost",
+  "displayName": "xpost",
+  "description": "Schedule social media posts.",
+  "homepage": "https://xpost.to",
+  "docs": "https://xpost.to/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "xpost": {
+      "url": "https://xpost.to/api/mcp"
+    }
+  }
+}

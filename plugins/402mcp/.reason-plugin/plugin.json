@@ -1,0 +1,13 @@
+{
+  "name": "402mcp",
+  "displayName": "402MCP",
+  "description": "Decode HTTP 402 payments.",
+  "homepage": "https://402mcp.org",
+  "docs": "https://402mcp.org",
+  "auth": "none",
+  "mcpServers": {
+    "402mcp": {
+      "url": "https://402mcp.org/api/v1/mcp"
+    }
+  }
+}

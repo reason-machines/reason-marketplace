@@ -10,5 +10,147 @@
     "daloopa": {
       "url": "https://mcp.daloopa.com/server/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "build-model",
+      "description": "Build a multi-tab Excel financial model",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "build-model",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/build-model"
+    },
+    {
+      "name": "bull-bear",
+      "description": "Bull/bear/base case scenario framework for a given company",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "bull-bear",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/bull-bear"
+    },
+    {
+      "name": "capital-allocation",
+      "description": "Deep dive into capital deployment, buybacks, dividends, and shareholder yield",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "capital-allocation",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/capital-allocation"
+    },
+    {
+      "name": "comp-sheet",
+      "description": "Build an industry comp sheet Excel model with deep operational KPIs",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "comp-sheet",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/comp-sheet"
+    },
+    {
+      "name": "comps",
+      "description": "Trading comparables analysis with peer multiples and implied valuation",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "comps",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/comps"
+    },
+    {
+      "name": "dcf",
+      "description": "Discounted cash flow valuation with sensitivity analysis",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "dcf",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/dcf"
+    },
+    {
+      "name": "earnings-flash",
+      "description": "Rapid first-read earnings flash for a given company",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "earnings-flash",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/earnings-flash"
+    },
+    {
+      "name": "earnings-prep",
+      "description": "Pre-earnings preparation report for the night before a company reports",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "earnings-prep",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/earnings-prep"
+    },
+    {
+      "name": "earnings-review",
+      "description": "Full earnings analysis with guidance tracking for a given company",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "earnings-review",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/earnings-review"
+    },
+    {
+      "name": "guidance-tracker",
+      "description": "Track management guidance accuracy over time for a given company",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "guidance-tracker",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/guidance-tracker"
+    },
+    {
+      "name": "ib-deck",
+      "description": "Generate an institutional-grade investment banking pitch deck (HTML)",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "ib-deck",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/ib-deck"
+    },
+    {
+      "name": "industry",
+      "description": "Cross-company industry comparison across multiple tickers",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "industry",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/industry"
+    },
+    {
+      "name": "inflection",
+      "description": "Auto-detect biggest acceleration/deceleration inflections across all metrics",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "inflection",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/inflection"
+    },
+    {
+      "name": "initiate",
+      "description": "Initiate coverage — generate both research note (HTML) and Excel model (.xlsx)",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "initiate",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/initiate"
+    },
+    {
+      "name": "precedent-transactions",
+      "description": "Precedent M&A transactions analysis with deal multiples and acquisition history",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "precedent-transactions",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/precedent-transactions"
+    },
+    {
+      "name": "research-note",
+      "description": "Generate a professional Word document research note",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "research-note",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/research-note"
+    },
+    {
+      "name": "supply-chain",
+      "description": "Interactive supply chain dashboard mapping suppliers, customers, and financial interdependencies",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "supply-chain",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/supply-chain"
+    },
+    {
+      "name": "tearsheet",
+      "description": "Quick one-page company overview and snapshot",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "tearsheet",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/tearsheet"
+    },
+    {
+      "name": "unit-economics",
+      "description": "Bottoms-up unit economics decomposition for any public company",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "unit-economics",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/unit-economics"
+    },
+    {
+      "name": "working-capital",
+      "description": "Cash conversion cycle, earnings quality, and working capital deep-dive",
+      "source": "daloopa/daloopa-plugin-claude#fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9",
+      "skill": "working-capital",
+      "url": "https://github.com/daloopa/daloopa-plugin-claude/tree/fb1ed7a6e0fd2c430e8f89b952cdd0f34137cde9/skills/working-capital"
+    }
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "name": "fakturoid",
+  "displayName": "Fakturoid",
+  "description": "Online invoicing.",
+  "homepage": "https://www.fakturoid.cz",
+  "docs": "https://www.aifirst.cz/pruvodce/fakturoid-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "fakturoid": {
+      "url": "https://app.fakturoid.cz/mcp/v1/"
+    }
+  }
+}

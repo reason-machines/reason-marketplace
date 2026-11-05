@@ -1,0 +1,13 @@
+{
+  "name": "vibecode",
+  "displayName": "Vibecode",
+  "description": "App builder for iPhone and web.",
+  "homepage": "https://www.vibecodeapp.com",
+  "docs": "https://www.vibecodeapp.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "vibecode": {
+      "url": "https://api.vibecodeapp.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "infoparcelle",
+  "displayName": "Infoparcelle",
+  "description": "French cadastre & sale prices.",
+  "homepage": "https://www.infoparcelle.fr",
+  "docs": "https://www.infoparcelle.fr",
+  "auth": "oauth",
+  "mcpServers": {
+    "infoparcelle": {
+      "url": "https://mcp.infoparcelle.fr/mcp"
+    }
+  }
+}

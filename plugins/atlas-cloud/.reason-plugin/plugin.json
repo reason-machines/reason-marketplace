@@ -1,0 +1,13 @@
+{
+  "name": "atlas-cloud",
+  "displayName": "Atlas Cloud",
+  "description": "Create media with 400+ models.",
+  "homepage": "https://www.atlascloud.ai/",
+  "docs": "https://www.atlascloud.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlas-cloud": {
+      "url": "https://mcp.atlascloud.ai/mcp"
+    }
+  }
+}

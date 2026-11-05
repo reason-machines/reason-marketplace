@@ -1,0 +1,13 @@
+{
+  "name": "newsmind-rss-for-your-ai",
+  "displayName": "Newsmind — RSS for your AI",
+  "description": "Read and search your RSS feeds.",
+  "homepage": "https://newsmind.app",
+  "docs": "https://newsmind.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "newsmind-rss-for-your-ai": {
+      "url": "https://newsmind.app/mcp"
+    }
+  }
+}

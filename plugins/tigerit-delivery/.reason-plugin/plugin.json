@@ -1,0 +1,13 @@
+{
+  "name": "tigerit-delivery",
+  "displayName": "TiGERit delivery",
+  "description": "Products, orders, and sales.",
+  "homepage": "https://tigerit.app",
+  "docs": "https://tigerit.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "tigerit-delivery": {
+      "url": "https://mcp.tigerit.app/mcp"
+    }
+  }
+}

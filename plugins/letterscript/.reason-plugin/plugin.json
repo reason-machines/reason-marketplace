@@ -1,0 +1,13 @@
+{
+  "name": "letterscript",
+  "displayName": "LetterScript",
+  "description": "California deal facts, dates.",
+  "homepage": "https://letterscript.com",
+  "docs": "https://letterscript.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "letterscript": {
+      "url": "https://mcp.letterscript.com/mcp"
+    }
+  }
+}

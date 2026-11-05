@@ -1,0 +1,13 @@
+{
+  "name": "momentum",
+  "displayName": "Momentum",
+  "description": "Private equity data for Poland.",
+  "homepage": "https://momentumterminal.pl",
+  "docs": "https://momentumterminal.pl/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "momentum": {
+      "url": "https://app.momentumterminal.pl/api/mcp"
+    }
+  }
+}

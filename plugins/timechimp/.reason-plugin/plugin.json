@@ -1,0 +1,13 @@
+{
+  "name": "timechimp",
+  "displayName": "TimeChimp",
+  "description": "Hours, projects and planning.",
+  "homepage": "https://www.timechimp.com",
+  "docs": "https://www.timechimp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "timechimp": {
+      "url": "https://mcp.timechimp.com/mcp"
+    }
+  }
+}

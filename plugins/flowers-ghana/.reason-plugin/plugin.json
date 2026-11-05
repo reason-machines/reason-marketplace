@@ -1,0 +1,13 @@
+{
+  "name": "flowers-ghana",
+  "displayName": "Flowers Ghana",
+  "description": "Find flowers in Ghana.",
+  "homepage": "https://www.flowersghana.com",
+  "docs": "https://www.flowersghana.com",
+  "auth": "none",
+  "mcpServers": {
+    "flowers-ghana": {
+      "url": "https://flowersghana.com/mcp"
+    }
+  }
+}

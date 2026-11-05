@@ -1,0 +1,13 @@
+{
+  "name": "globalsource-partners",
+  "displayName": "GlobalSource Partners",
+  "description": "Emerging markets research.",
+  "homepage": "https://www.globalsourcepartners.com/",
+  "docs": "https://www.globalsourcepartners.com/",
+  "auth": "none",
+  "mcpServers": {
+    "globalsource-partners": {
+      "url": "https://globalsourcepartners.com/mcp"
+    }
+  }
+}

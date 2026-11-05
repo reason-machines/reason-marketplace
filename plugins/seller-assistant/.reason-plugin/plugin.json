@@ -1,0 +1,13 @@
+{
+  "name": "seller-assistant",
+  "displayName": "Seller Assistant",
+  "description": "Run Amazon wholesale ops.",
+  "homepage": "https://www.sellerassistant.app",
+  "docs": "https://www.sellerassistant.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "seller-assistant": {
+      "url": "https://mcp.sellerassistant.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pro",
+  "displayName": "P.R.O.",
+  "description": "Your fitness, in conversation.",
+  "homepage": "https://proapp.uk/mcp-connect",
+  "docs": "https://proapp.uk/mcp-connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "pro": {
+      "url": "https://mcp.proapp.uk/mcp"
+    }
+  }
+}

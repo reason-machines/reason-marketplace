@@ -1,0 +1,13 @@
+{
+  "name": "retiplex",
+  "displayName": "Retiplex",
+  "description": "Create AI video ads.",
+  "homepage": "https://app.retiplex.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.retiplex/retiplex",
+  "auth": "oauth",
+  "mcpServers": {
+    "retiplex": {
+      "url": "https://app.retiplex.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sync-socials",
+  "displayName": "Sync Socials",
+  "description": "Create videos and posts.",
+  "homepage": "https://sync-socials.com",
+  "docs": "https://sync-socials.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "sync-socials": {
+      "url": "https://app.sync-socials.com/api/mcp"
+    }
+  }
+}

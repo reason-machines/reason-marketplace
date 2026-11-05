@@ -1,0 +1,13 @@
+{
+  "name": "football-charts",
+  "displayName": "Football Charts",
+  "description": "Stats for 93 football leagues.",
+  "homepage": "https://www.football-charts.com",
+  "docs": "https://www.football-charts.com",
+  "auth": "none",
+  "mcpServers": {
+    "football-charts": {
+      "url": "https://mcp.football-charts.com/mcp"
+    }
+  }
+}

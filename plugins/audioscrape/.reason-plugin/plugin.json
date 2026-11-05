@@ -1,0 +1,13 @@
+{
+  "name": "audioscrape",
+  "displayName": "Audioscrape",
+  "description": "Transcribe & search audio.",
+  "homepage": "https://www.audioscrape.com",
+  "docs": "https://www.audioscrape.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "audioscrape": {
+      "url": "https://mcp.audioscrape.com/"
+    }
+  }
+}

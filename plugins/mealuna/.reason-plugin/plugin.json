@@ -1,0 +1,13 @@
+{
+  "name": "mealuna",
+  "displayName": "Mealuna",
+  "description": "Pantry, lists, meals, recipes.",
+  "homepage": "https://mealuna.eu",
+  "docs": "https://mealuna.eu",
+  "auth": "oauth",
+  "mcpServers": {
+    "mealuna": {
+      "url": "https://mcp.mealuna.eu/"
+    }
+  }
+}

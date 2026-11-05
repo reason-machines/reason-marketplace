@@ -1,0 +1,13 @@
+{
+  "name": "trainbrain",
+  "displayName": "TrainBrain",
+  "description": "Explore UK trains and routes.",
+  "homepage": "https://rail.mikegtn.net",
+  "docs": "https://rail.mikegtn.net",
+  "auth": "none",
+  "mcpServers": {
+    "trainbrain": {
+      "url": "https://rail.mikegtn.net/mcp"
+    }
+  }
+}

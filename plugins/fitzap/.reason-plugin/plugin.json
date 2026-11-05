@@ -1,0 +1,13 @@
+{
+  "name": "fitzap",
+  "displayName": "Fitzap",
+  "description": "Training and nutrition.",
+  "homepage": "https://fitzapapps.com/ai-assistants",
+  "docs": "https://fitzapapps.com/ai-assistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "fitzap": {
+      "url": "https://fitzapapps.com/mcp"
+    }
+  }
+}

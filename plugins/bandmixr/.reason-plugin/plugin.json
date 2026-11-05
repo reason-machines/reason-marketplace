@@ -1,0 +1,13 @@
+{
+  "name": "bandmixr",
+  "displayName": "Bandmixr",
+  "description": "Mix stems and master songs.",
+  "homepage": "https://bandmixr.com",
+  "docs": "https://bandmixr.com",
+  "auth": "none",
+  "mcpServers": {
+    "bandmixr": {
+      "url": "https://bandmixr.com/mcp"
+    }
+  }
+}

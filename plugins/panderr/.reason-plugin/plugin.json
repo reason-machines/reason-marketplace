@@ -1,0 +1,13 @@
+{
+  "name": "panderr",
+  "displayName": "Panderr",
+  "description": "Migrate and edit websites.",
+  "homepage": "https://panderr.com",
+  "docs": "https://panderr.com",
+  "auth": "none",
+  "mcpServers": {
+    "panderr": {
+      "url": "https://panderr.com/mcp"
+    }
+  }
+}

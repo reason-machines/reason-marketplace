@@ -1,0 +1,13 @@
+{
+  "name": "questionstar",
+  "displayName": "QUESTIONSTAR",
+  "description": "Build and analyze surveys.",
+  "homepage": "https://questionstar.com",
+  "docs": "https://questionstar.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "questionstar": {
+      "url": "https://mcp.questionstar.com/mcp"
+    }
+  }
+}

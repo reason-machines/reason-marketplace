@@ -1,0 +1,13 @@
+{
+  "name": "mavlow",
+  "displayName": "Mavlow",
+  "description": "Manage your social media.",
+  "homepage": "https://mavlow.com",
+  "docs": "https://mavlow.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mavlow": {
+      "url": "https://mcp.mavlow.com/mcp"
+    }
+  }
+}

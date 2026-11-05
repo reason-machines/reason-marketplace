@@ -1,0 +1,13 @@
+{
+  "name": "openmail",
+  "displayName": "OpenMail",
+  "description": "Email inboxes for AI agents.",
+  "homepage": "https://openmail.sh",
+  "docs": "https://openmail.sh",
+  "auth": "oauth",
+  "mcpServers": {
+    "openmail": {
+      "url": "https://mcp.openmail.sh/mcp"
+    }
+  }
+}

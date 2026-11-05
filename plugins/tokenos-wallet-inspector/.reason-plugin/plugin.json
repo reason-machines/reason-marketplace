@@ -1,0 +1,13 @@
+{
+  "name": "tokenos-wallet-inspector",
+  "displayName": "TokenOS Wallet Inspector",
+  "description": "Wallets, tokens, rug checks.",
+  "homepage": "https://tokenos.ai/chatgpt-apps/wallet-inspector",
+  "docs": "https://tokenos.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "tokenos-wallet-inspector": {
+      "url": "https://tokenos.ai/api/mcp/apps/wallet-inspector"
+    }
+  }
+}

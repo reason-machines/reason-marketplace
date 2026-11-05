@@ -1,0 +1,13 @@
+{
+  "name": "humanize-ai",
+  "displayName": "Humanize AI",
+  "description": "Make AI writing sound human.",
+  "homepage": "https://humanizeaitext.ai/",
+  "docs": "https://humanizeaitext.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "humanize-ai": {
+      "url": "https://mcp.humanizeaitext.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "unicourt",
+  "displayName": "UniCourt",
+  "description": "Search and view court cases.",
+  "homepage": "https://unicourt.com/",
+  "docs": "https://unicourt.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "unicourt": {
+      "url": "https://mcp.unicourt.com/mcp"
+    }
+  }
+}

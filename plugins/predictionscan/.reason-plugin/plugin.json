@@ -1,0 +1,13 @@
+{
+  "name": "predictionscan",
+  "displayName": "PredictionScan",
+  "description": "Prediction market data.",
+  "homepage": "https://predictionscan.org/",
+  "docs": "https://predictionscan.org/",
+  "auth": "none",
+  "mcpServers": {
+    "predictionscan": {
+      "url": "https://mcp.predictionscan.org/mcp"
+    }
+  }
+}

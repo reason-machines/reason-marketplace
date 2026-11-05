@@ -1,0 +1,13 @@
+{
+  "name": "valuedge-stock-valuation",
+  "displayName": "ValuEdge - Stock Valuation",
+  "description": "Valuation & Portfolio Research.",
+  "homepage": "https://valuedge.app",
+  "docs": "https://valuedge.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "valuedge-stock-valuation": {
+      "url": "https://valuedge.app/mcp"
+    }
+  }
+}

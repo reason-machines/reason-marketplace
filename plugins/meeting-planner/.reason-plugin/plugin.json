@@ -1,0 +1,13 @@
+{
+  "name": "meeting-planner",
+  "displayName": "Zovo Meeting Planner",
+  "description": "Find meeting times across TZs.",
+  "homepage": "https://meeting-planner.zovo.one",
+  "docs": "https://meeting-planner.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "meeting-planner": {
+      "url": "https://meeting-planner.zovo.one/mcp"
+    }
+  }
+}

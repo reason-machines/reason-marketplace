@@ -1,0 +1,13 @@
+{
+  "name": "pool-chemical-dose-calculator",
+  "displayName": "Pool Chemical Dose Calculator",
+  "description": "Exact pool chemical doses.",
+  "homepage": "https://cyanaqua.com/",
+  "docs": "https://cyanaqua.com/",
+  "auth": "none",
+  "mcpServers": {
+    "pool-chemical-dose-calculator": {
+      "url": "https://mcp.cyanaqua.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "smat",
+  "displayName": "SMAT",
+  "description": "Plan and manage social posts.",
+  "homepage": "https://smat.chat/",
+  "docs": "https://smat.chat/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "smat": {
+      "url": "https://api.smat.chat/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "underpriced-ai",
+  "displayName": "Underpriced AI",
+  "description": "Find what an item resells for.",
+  "homepage": "https://underpricedai.com",
+  "docs": "https://underpricedai.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "underpriced-ai": {
+      "url": "https://underpricedai.com/api/mcp"
+    }
+  }
+}

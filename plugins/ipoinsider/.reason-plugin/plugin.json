@@ -1,0 +1,13 @@
+{
+  "name": "ipoinsider",
+  "displayName": "IPOInsider",
+  "description": "IPO market data.",
+  "homepage": "https://www.ipoinsider.com",
+  "docs": "https://www.ipoinsider.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ipoinsider": {
+      "url": "https://mcp.ipoinsider.com/mcp"
+    }
+  }
+}

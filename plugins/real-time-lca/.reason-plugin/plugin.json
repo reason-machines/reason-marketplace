@@ -1,0 +1,13 @@
+{
+  "name": "real-time-lca",
+  "displayName": "Real-Time LCA",
+  "description": "Manage building LCAs.",
+  "homepage": "https://www.realtimelca.com/",
+  "docs": "https://www.realtimelca.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "real-time-lca": {
+      "url": "https://mcp.realtimelca.com/mcp"
+    }
+  }
+}

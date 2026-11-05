@@ -1,0 +1,13 @@
+{
+  "name": "aperture-contracts",
+  "displayName": "Aperture Contracts",
+  "description": "Federal contract intelligence.",
+  "homepage": "https://engentfy.com",
+  "docs": "https://engentfy.com/plugins/aperture",
+  "auth": "oauth",
+  "mcpServers": {
+    "aperture-contracts": {
+      "url": "https://aperture.engentfy.com/mcp"
+    }
+  }
+}

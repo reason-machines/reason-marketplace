@@ -1,0 +1,13 @@
+{
+  "name": "offgen",
+  "displayName": "offgen",
+  "description": "Branded PowerPoint decks.",
+  "homepage": "https://offgen.ai",
+  "docs": "https://offgen.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "offgen": {
+      "url": "https://offgen.ai/mcp"
+    }
+  }
+}

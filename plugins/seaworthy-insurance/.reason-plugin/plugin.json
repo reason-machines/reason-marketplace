@@ -1,0 +1,13 @@
+{
+  "name": "seaworthy-insurance",
+  "displayName": "Seaworthy Insurance",
+  "description": "Disability insurance estimates.",
+  "homepage": "https://seaworthy.io",
+  "docs": "https://seaworthy.io",
+  "auth": "none",
+  "mcpServers": {
+    "seaworthy-insurance": {
+      "url": "https://mcp.seaworthy.io/mcp"
+    }
+  }
+}

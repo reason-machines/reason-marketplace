@@ -1,0 +1,13 @@
+{
+  "name": "orchetta",
+  "displayName": "Orchetta",
+  "description": "Work on your customer journeys.",
+  "homepage": "https://orchetta.com",
+  "docs": "https://orchetta.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "orchetta": {
+      "url": "https://orchetta.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "splot",
+  "displayName": "Splot",
+  "description": "Log and plan meals.",
+  "homepage": "https://splot.health",
+  "docs": "https://splot.health/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "splot": {
+      "url": "https://app.splot.health/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ocapi",
+  "displayName": "Ocapi",
+  "description": "Manage your online store.",
+  "homepage": "https://ocapi.shop",
+  "docs": "https://ocapi.shop/ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "ocapi": {
+      "url": "https://dashboard.ocapi.shop/mcp"
+    }
+  }
+}

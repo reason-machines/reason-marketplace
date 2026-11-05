@@ -1,0 +1,13 @@
+{
+  "name": "fitbod",
+  "displayName": "Fitbod",
+  "description": "Get your next workout.",
+  "homepage": "https://fitbod.me/",
+  "docs": "https://fitbod.me/",
+  "auth": "none",
+  "mcpServers": {
+    "fitbod": {
+      "url": "https://mcp.fitbod.me/mcp"
+    }
+  }
+}

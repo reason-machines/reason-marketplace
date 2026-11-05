@@ -1,0 +1,13 @@
+{
+  "name": "empirio-ai",
+  "displayName": "empirio.ai",
+  "description": "Create and analyze surveys.",
+  "homepage": "https://www.empirio.ai",
+  "docs": "https://empirio.ai/learn/survey-with-chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "empirio-ai": {
+      "url": "https://platform.empirio.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wealth-tracker",
+  "displayName": "Wealth Tracker",
+  "description": "Net worth, history, spending.",
+  "homepage": "https://getwealthtracker.com",
+  "docs": "https://getwealthtracker.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "wealth-tracker": {
+      "url": "https://getwealthtracker.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "canonical-company-search",
+  "displayName": "Canonical Company Search",
+  "description": "Find and enrich companies.",
+  "homepage": "https://trycanonical.ai",
+  "docs": "https://trycanonical.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "canonical-company-search": {
+      "url": "https://trycanonical.ai/mcp"
+    }
+  }
+}

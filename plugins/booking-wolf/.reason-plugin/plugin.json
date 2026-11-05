@@ -1,0 +1,13 @@
+{
+  "name": "booking-wolf",
+  "displayName": "Booking Wolf",
+  "description": "Hotels, tours and activities.",
+  "homepage": "https://bookingwolf.com",
+  "docs": "https://bookingwolf.com",
+  "auth": "none",
+  "mcpServers": {
+    "booking-wolf": {
+      "url": "https://mcp.bookingwolf.com/mcp"
+    }
+  }
+}

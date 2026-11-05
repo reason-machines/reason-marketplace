@@ -1,0 +1,13 @@
+{
+  "name": "namecheap",
+  "displayName": "Namecheap",
+  "description": "Search domains & pricing.",
+  "homepage": "https://www.namecheap.com",
+  "docs": "https://www.namecheap.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "namecheap": {
+      "url": "https://mcp.namecheap.com/mcp"
+    }
+  }
+}

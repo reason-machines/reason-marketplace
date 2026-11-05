@@ -1,0 +1,13 @@
+{
+  "name": "keycarpool",
+  "displayName": "Key Carpool",
+  "description": "Your carpool, at a glance.",
+  "homepage": "https://www.keycarpool.com/agents",
+  "docs": "https://www.keycarpool.com/agents",
+  "auth": "oauth",
+  "mcpServers": {
+    "keycarpool": {
+      "url": "https://www.keycarpool.com/api/agents/mcp"
+    }
+  }
+}

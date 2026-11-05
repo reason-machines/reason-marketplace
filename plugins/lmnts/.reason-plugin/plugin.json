@@ -1,0 +1,13 @@
+{
+  "name": "lmnts",
+  "displayName": "lmnts",
+  "description": "Plan and draft social posts.",
+  "homepage": "https://www.lmnts.studio",
+  "docs": "https://lmnts.studio/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "lmnts": {
+      "url": "https://www.lmnts.studio/api/mcp"
+    }
+  }
+}

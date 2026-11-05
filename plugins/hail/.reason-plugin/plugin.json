@@ -1,0 +1,13 @@
+{
+  "name": "hail",
+  "displayName": "Heroes of AI League (HAIL)",
+  "description": "Assess a team's AI Fluency.",
+  "homepage": "https://heroleague.ai",
+  "docs": "https://heroleague.ai",
+  "auth": "none",
+  "mcpServers": {
+    "hail": {
+      "url": "https://heroleague.ai/mcp"
+    }
+  }
+}

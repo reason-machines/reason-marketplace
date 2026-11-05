@@ -1,0 +1,13 @@
+{
+  "name": "mychatbot",
+  "displayName": "MyChatBot",
+  "description": "AI sales assistant for stores.",
+  "homepage": "https://connector.mychatbot.app",
+  "docs": "https://connector.mychatbot.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "mychatbot": {
+      "url": "https://connector.mychatbot.app/mcp"
+    }
+  }
+}

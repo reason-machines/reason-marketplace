@@ -1,0 +1,13 @@
+{
+  "name": "fitcard",
+  "displayName": "FitCard",
+  "description": "Shirt sizes from your shirts.",
+  "homepage": "https://fitcard.ai",
+  "docs": "https://fitcard.ai",
+  "auth": "none",
+  "mcpServers": {
+    "fitcard": {
+      "url": "https://fitcard.ai/mcp"
+    }
+  }
+}

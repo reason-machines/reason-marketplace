@@ -1,0 +1,13 @@
+{
+  "name": "fielmo",
+  "displayName": "Fielmo",
+  "description": "Service biz, searchable by AI.",
+  "homepage": "https://fielmo.com",
+  "docs": "https://fielmo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fielmo": {
+      "url": "https://mcp.fielmo.com/mcp"
+    }
+  }
+}

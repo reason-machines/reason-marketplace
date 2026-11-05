@@ -1,0 +1,13 @@
+{
+  "name": "tote",
+  "displayName": "Tote",
+  "description": "Find and organize saved Totes.",
+  "homepage": "https://tote.fyi",
+  "docs": "https://tote.fyi",
+  "auth": "oauth",
+  "mcpServers": {
+    "tote": {
+      "url": "https://mcp.tote.fyi/mcp"
+    }
+  }
+}

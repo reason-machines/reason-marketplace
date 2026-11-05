@@ -1,0 +1,13 @@
+{
+  "name": "getmypage",
+  "displayName": "GetMyPage",
+  "description": "Manage pages and chats.",
+  "homepage": "https://getmy.page",
+  "docs": "https://getmy.page",
+  "auth": "oauth",
+  "mcpServers": {
+    "getmypage": {
+      "url": "https://mcp.getmy.page/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "boardroomlist",
+  "displayName": "boardroomlist.com",
+  "description": "Senior jobs at the Fortune 500.",
+  "homepage": "https://boardroomlist.com",
+  "docs": "https://boardroomlist.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "boardroomlist": {
+      "url": "https://boardroomlist.com/api/mcp"
+    }
+  }
+}

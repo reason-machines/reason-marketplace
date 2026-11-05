@@ -1,0 +1,13 @@
+{
+  "name": "paperguide",
+  "displayName": "Paperguide",
+  "description": "Find, read & synthesize papers.",
+  "homepage": "https://paperguide.ai",
+  "docs": "https://paperguide.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "paperguide": {
+      "url": "https://mcp.paperguide.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "teleprompter",
+  "displayName": "Linepace Teleprompter",
+  "description": "Live script reader and timer.",
+  "homepage": "https://teleprompter.zovo.one",
+  "docs": "https://teleprompter.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "teleprompter": {
+      "url": "https://teleprompter.zovo.one/mcp"
+    }
+  }
+}

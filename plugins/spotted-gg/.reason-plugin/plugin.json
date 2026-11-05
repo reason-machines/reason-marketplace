@@ -1,0 +1,13 @@
+{
+  "name": "spotted-gg",
+  "displayName": "Spotted.gg",
+  "description": "CS2 match times and alerts.",
+  "homepage": "https://spotted.gg",
+  "docs": "https://spotted.gg",
+  "auth": "none",
+  "mcpServers": {
+    "spotted-gg": {
+      "url": "https://spotted.gg/mcp"
+    }
+  }
+}

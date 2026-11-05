@@ -1,0 +1,13 @@
+{
+  "name": "archome-ai",
+  "displayName": "Archome AI",
+  "description": "Stage rooms and render designs.",
+  "homepage": "https://archome.ai",
+  "docs": "https://archome.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "archome-ai": {
+      "url": "https://archome.ai/api/mcp"
+    }
+  }
+}

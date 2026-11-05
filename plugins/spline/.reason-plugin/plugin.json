@@ -1,0 +1,13 @@
+{
+  "name": "spline",
+  "displayName": "Spline",
+  "description": "3D scenes and web design.",
+  "homepage": "https://spline.design",
+  "docs": "https://spline.design",
+  "auth": "oauth",
+  "mcpServers": {
+    "spline": {
+      "url": "https://mcp.spline.design/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "zentrik",
+  "displayName": "Zentrik",
+  "description": "Evidence for product decisions.",
+  "homepage": "https://zentrik.ai/features/chatgpt-integration",
+  "docs": "https://zentrik.ai/features/chatgpt-integration",
+  "auth": "oauth",
+  "mcpServers": {
+    "zentrik": {
+      "url": "https://zentrik.ai/mcp"
+    }
+  }
+}

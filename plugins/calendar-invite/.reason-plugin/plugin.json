@@ -1,0 +1,13 @@
+{
+  "name": "calendar-invite",
+  "displayName": "InviteKit Calendar Files",
+  "description": ".ics files & calendar links.",
+  "homepage": "https://calendar-invite.zovo.one",
+  "docs": "https://calendar-invite.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "calendar-invite": {
+      "url": "https://calendar-invite.zovo.one/mcp"
+    }
+  }
+}

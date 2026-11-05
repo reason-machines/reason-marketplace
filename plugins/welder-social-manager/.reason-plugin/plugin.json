@@ -1,0 +1,13 @@
+{
+  "name": "welder-social-manager",
+  "displayName": "Welder: Social Autoposting",
+  "description": "TikTok, Instagram & YouTube.",
+  "homepage": "https://weldergtm.com",
+  "docs": "https://weldergtm.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "welder-social-manager": {
+      "url": "https://weldergtm.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dmap-ai",
+  "displayName": "DMAP AI",
+  "description": "Drought analysis.",
+  "homepage": "https://droughtanalysis.com/",
+  "docs": "https://droughtanalysis.com/",
+  "auth": "none",
+  "mcpServers": {
+    "dmap-ai": {
+      "url": "https://droughtanalysis.com/mcp"
+    }
+  }
+}

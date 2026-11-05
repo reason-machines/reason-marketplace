@@ -1,0 +1,13 @@
+{
+  "name": "le-confidant",
+  "displayName": "Le Confidant",
+  "description": "WhatsApp tools and statistics.",
+  "homepage": "https://leconfidant.ai",
+  "docs": "https://leconfidant.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "le-confidant": {
+      "url": "https://leconfidant.ai/api/mcp"
+    }
+  }
+}

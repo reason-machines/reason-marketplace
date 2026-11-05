@@ -1,0 +1,13 @@
+{
+  "name": "appllama",
+  "displayName": "Appllama",
+  "description": "Study screens of top iOS apps.",
+  "homepage": "https://appllama.io",
+  "docs": "https://appllama.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "appllama": {
+      "url": "https://mcp.appllama.io/mcp"
+    }
+  }
+}

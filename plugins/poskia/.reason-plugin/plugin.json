@@ -1,0 +1,13 @@
+{
+  "name": "poskia",
+  "displayName": "POSKIA",
+  "description": "Consulta y pide domicilios.",
+  "homepage": "https://poskia.com",
+  "docs": "https://poskia.com",
+  "auth": "none",
+  "mcpServers": {
+    "poskia": {
+      "url": "https://poskia.com/mcp"
+    }
+  }
+}

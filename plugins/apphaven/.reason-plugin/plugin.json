@@ -1,0 +1,13 @@
+{
+  "name": "apphaven",
+  "displayName": "Apphaven",
+  "description": "A home for websites and apps.",
+  "homepage": "https://apphaven.com",
+  "docs": "https://apphaven.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "apphaven": {
+      "url": "https://apphaven.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "patchops",
+  "displayName": "PatchOps",
+  "description": "Oil and gas data, with sources.",
+  "homepage": "https://patchops.ai",
+  "docs": "https://patchops.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "patchops": {
+      "url": "https://patchops.ai/mcp"
+    }
+  }
+}

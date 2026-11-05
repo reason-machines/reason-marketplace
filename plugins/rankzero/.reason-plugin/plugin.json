@@ -1,0 +1,13 @@
+{
+  "name": "rankzero",
+  "displayName": "RankZero",
+  "description": "AI search visibility insights.",
+  "homepage": "https://www.rankzero.io/",
+  "docs": "https://www.rankzero.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "rankzero": {
+      "url": "https://rankzero.io/mcp"
+    }
+  }
+}

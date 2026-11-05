@@ -1,0 +1,13 @@
+{
+  "name": "pdf-to-excel",
+  "displayName": "Zovo PDF to Spreadsheet",
+  "description": "PDF tables into a spreadsheet.",
+  "homepage": "https://pdf-to-excel.zovo.one",
+  "docs": "https://pdf-to-excel.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "pdf-to-excel": {
+      "url": "https://pdf-to-excel.zovo.one/mcp"
+    }
+  }
+}

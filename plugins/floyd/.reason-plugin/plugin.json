@@ -1,0 +1,13 @@
+{
+  "name": "floyd",
+  "displayName": "Floyd by The F Suite",
+  "description": "CFO peer answers & vendors.",
+  "homepage": "https://www.fsuite.co/",
+  "docs": "https://tedix.dev/apps/floyd-by-the-f-suite/",
+  "auth": "oauth",
+  "mcpServers": {
+    "floyd": {
+      "url": "https://api.fsuite.co/api/mcp/floyd/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chessigma",
+  "displayName": "Chessigma",
+  "description": "Openings, puzzles, game facts.",
+  "homepage": "https://www.chessigma.com",
+  "docs": "https://chessigma.com/llms-full.txt",
+  "auth": "none",
+  "mcpServers": {
+    "chessigma": {
+      "url": "https://chessigma.com/api/mcp"
+    }
+  }
+}

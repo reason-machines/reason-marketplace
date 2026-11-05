@@ -1,0 +1,13 @@
+{
+  "name": "wisprs-ai-connectors",
+  "displayName": "Wisprs",
+  "description": "Turn recordings into content.",
+  "homepage": "https://wisprs.co",
+  "docs": "https://wisprs.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "wisprs-ai-connectors": {
+      "url": "https://wisprs.co/mcp"
+    }
+  }
+}

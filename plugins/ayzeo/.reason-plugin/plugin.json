@@ -1,0 +1,13 @@
+{
+  "name": "ayzeo",
+  "displayName": "Ayzeo",
+  "description": "Track your brand in AI search.",
+  "homepage": "https://ayzeo.com/",
+  "docs": "https://ayzeo.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ayzeo": {
+      "url": "https://ayzeo.com/mcp/v2"
+    }
+  }
+}

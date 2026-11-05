@@ -1,0 +1,13 @@
+{
+  "name": "carat",
+  "displayName": "Carat",
+  "description": "Create AI images and videos.",
+  "homepage": "https://carat.im",
+  "docs": "https://carat.im",
+  "auth": "oauth",
+  "mcpServers": {
+    "carat": {
+      "url": "https://mcp.carat.im/mcp"
+    }
+  }
+}

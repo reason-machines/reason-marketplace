@@ -1,0 +1,13 @@
+{
+  "name": "trackstone",
+  "displayName": "Trackstone",
+  "description": "Rented homes: price and yield.",
+  "homepage": "https://www.trackstone.fr",
+  "docs": "https://tedix.dev/apps/trackstone/",
+  "auth": "none",
+  "mcpServers": {
+    "trackstone": {
+      "url": "https://www.trackstone.fr/mcp/public"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "deley",
+  "displayName": "Deley",
+  "description": "Leyes y juicios de Ecuador.",
+  "homepage": "https://deley.io",
+  "docs": "https://deley.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "deley": {
+      "url": "https://mcp.deley.io/mcp"
+    }
+  }
+}

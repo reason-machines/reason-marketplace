@@ -1,0 +1,13 @@
+{
+  "name": "growby",
+  "displayName": "Growby",
+  "description": "Pregnancy & baby guides.",
+  "homepage": "https://growby.app",
+  "docs": "https://growby.app",
+  "auth": "none",
+  "mcpServers": {
+    "growby": {
+      "url": "https://mcp.growby.app/mcp"
+    }
+  }
+}

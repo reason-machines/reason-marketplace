@@ -1,0 +1,13 @@
+{
+  "name": "optionsahoy",
+  "displayName": "OptionsAhoy",
+  "description": "Equity comp tax planning.",
+  "homepage": "https://optionsahoy.com/for-agents",
+  "docs": "https://optionsahoy.com/for-agents",
+  "auth": "none",
+  "mcpServers": {
+    "optionsahoy": {
+      "url": "https://optionsahoy.com/mcp"
+    }
+  }
+}

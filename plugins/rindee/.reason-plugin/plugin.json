@@ -1,0 +1,13 @@
+{
+  "name": "rindee",
+  "displayName": "Rindee",
+  "description": "AI calling for your business.",
+  "homepage": "https://rindee.ai",
+  "docs": "https://docs.rindee.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "rindee": {
+      "url": "https://api.rindee.ai/mcp"
+    }
+  }
+}

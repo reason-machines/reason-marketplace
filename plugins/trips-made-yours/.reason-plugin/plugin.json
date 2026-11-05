@@ -1,0 +1,13 @@
+{
+  "name": "trips-made-yours",
+  "displayName": "Trips, Made Yours.",
+  "description": "Plan and save shared trips.",
+  "homepage": "https://tripsmadeyours.com",
+  "docs": "https://tripsmadeyours.com",
+  "auth": "none",
+  "mcpServers": {
+    "trips-made-yours": {
+      "url": "https://tripsmadeyours.com/mcp"
+    }
+  }
+}

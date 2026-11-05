@@ -1,0 +1,13 @@
+{
+  "name": "dochub",
+  "displayName": "DocHub",
+  "description": "Edit and Send PDFs.",
+  "homepage": "https://www.dochub.com/",
+  "docs": "https://www.dochub.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "dochub": {
+      "url": "https://dochub.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rapier",
+  "displayName": "Rapier - Markdown Editor & Art",
+  "description": "Write and draw with Reason.",
+  "homepage": "https://rapier.website/agents",
+  "docs": "https://rapier.website/agents",
+  "auth": "none",
+  "mcpServers": {
+    "rapier": {
+      "url": "https://mcp.rapier.website/mcp"
+    }
+  }
+}

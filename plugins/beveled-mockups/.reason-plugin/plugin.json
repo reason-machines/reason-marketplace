@@ -1,0 +1,13 @@
+{
+  "name": "beveled-mockups",
+  "displayName": "Beveled",
+  "description": "Screenshots to mockups.",
+  "homepage": "https://beveled.app",
+  "docs": "https://beveled.app",
+  "auth": "none",
+  "mcpServers": {
+    "beveled-mockups": {
+      "url": "https://mcp.beveled.app/mcp"
+    }
+  }
+}

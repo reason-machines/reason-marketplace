@@ -1,0 +1,13 @@
+{
+  "name": "not-just-you",
+  "displayName": "Not Just You",
+  "description": "AI status, source-separated.",
+  "homepage": "https://notjustyou.dev",
+  "docs": "https://notjustyou.dev",
+  "auth": "none",
+  "mcpServers": {
+    "not-just-you": {
+      "url": "https://notjustyou.dev/mcp"
+    }
+  }
+}

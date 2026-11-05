@@ -1,0 +1,13 @@
+{
+  "name": "resume-builder",
+  "displayName": "Resume Builder",
+  "description": "Analyze, refine your resume.",
+  "homepage": "https://jobright.ai",
+  "docs": "https://jobright.ai",
+  "auth": "none",
+  "mcpServers": {
+    "resume-builder": {
+      "url": "https://mcp.jobright.ai/mcp"
+    }
+  }
+}

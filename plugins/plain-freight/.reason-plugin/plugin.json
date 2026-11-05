@@ -1,0 +1,13 @@
+{
+  "name": "plain-freight",
+  "displayName": "Plain Freight",
+  "description": "China to USA shipping quotes.",
+  "homepage": "https://plainfreight.com",
+  "docs": "https://plainfreight.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "plain-freight": {
+      "url": "https://plainfreight.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "coschedule",
+  "displayName": "CoSchedule",
+  "description": "Your social media calendar.",
+  "homepage": "https://coschedule.com",
+  "docs": "https://coschedule.com/support/integrations/ai-chat-apps/connect-chatgpt-to-coschedule",
+  "auth": "oauth",
+  "mcpServers": {
+    "coschedule": {
+      "url": "https://platform.coschedule.com/mcp"
+    }
+  }
+}

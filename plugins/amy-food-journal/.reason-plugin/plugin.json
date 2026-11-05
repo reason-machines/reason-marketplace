@@ -1,0 +1,13 @@
+{
+  "name": "amy-food-journal",
+  "displayName": "Amy Food Journal",
+  "description": "Food tracking like Notes.",
+  "homepage": "https://www.amyfoodjournal.com",
+  "docs": "https://amyfoodjournal.com/connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "amy-food-journal": {
+      "url": "https://connect.amyfoodjournal.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "saleseq",
+  "displayName": "SalesEQ",
+  "description": "Connect your meeting data.",
+  "homepage": "https://saleseq.ai",
+  "docs": "https://saleseq.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "saleseq": {
+      "url": "https://mcp.saleseq.ai/mcp"
+    }
+  }
+}

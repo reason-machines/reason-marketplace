@@ -1,0 +1,13 @@
+{
+  "name": "rapidly",
+  "displayName": "Rapidly",
+  "description": "Test ideas before building.",
+  "homepage": "https://www.rapidly.co/rapidly-mcp",
+  "docs": "https://www.rapidly.co/rapidly-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "rapidly": {
+      "url": "https://rapidly.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pegasus-airlines",
+  "displayName": "Pegasus Airlines",
+  "description": "Pegasus: Cheap Flight Tickets.",
+  "homepage": "https://www.flypgs.com/",
+  "docs": "https://www.flypgs.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "pegasus-airlines": {
+      "url": "https://mcp.flypgs.com/mcp"
+    }
+  }
+}

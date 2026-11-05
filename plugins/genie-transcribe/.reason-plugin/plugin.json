@@ -1,0 +1,13 @@
+{
+  "name": "genie-transcribe",
+  "displayName": "Genie Transcribe",
+  "description": "Talk to your Transcripts.",
+  "homepage": "https://genietranscribe.ai/",
+  "docs": "https://genietranscribe.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "genie-transcribe": {
+      "url": "https://mcp.genietranscribe.ai/mcp"
+    }
+  }
+}

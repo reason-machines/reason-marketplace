@@ -1,0 +1,13 @@
+{
+  "name": "jus",
+  "displayName": "Juscribe",
+  "description": "Plan and track work in chat.",
+  "homepage": "https://juscribe.ai",
+  "docs": "https://juscribe.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "jus": {
+      "url": "https://mcp.juscribe.ai/mcp"
+    }
+  }
+}

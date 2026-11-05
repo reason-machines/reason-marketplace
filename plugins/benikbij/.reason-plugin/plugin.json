@@ -1,0 +1,13 @@
+{
+  "name": "benikbij",
+  "displayName": "BenIkBij",
+  "description": "Manage your volleyball team.",
+  "homepage": "https://benikbij.vercel.app/",
+  "docs": "https://benikbij.vercel.app/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "benikbij": {
+      "url": "https://benikbij.vercel.app/mcp"
+    }
+  }
+}

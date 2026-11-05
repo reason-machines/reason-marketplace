@@ -1,0 +1,13 @@
+{
+  "name": "brava",
+  "displayName": "Brava",
+  "description": "CRM, Analytics & Marketing.",
+  "homepage": "https://mcp.brava.cards/mcp",
+  "docs": "https://mcp.brava.cards/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "brava": {
+      "url": "https://mcp.brava.cards/mcp"
+    }
+  }
+}

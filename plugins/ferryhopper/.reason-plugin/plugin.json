@@ -1,0 +1,13 @@
+{
+  "name": "ferryhopper",
+  "displayName": "Ferryhopper",
+  "description": "Search and compare ferries.",
+  "homepage": "https://www.ferryhopper.com",
+  "docs": "https://www.ferryhopper.com",
+  "auth": "none",
+  "mcpServers": {
+    "ferryhopper": {
+      "url": "https://mcp.ferryhopper.com/mcp"
+    }
+  }
+}

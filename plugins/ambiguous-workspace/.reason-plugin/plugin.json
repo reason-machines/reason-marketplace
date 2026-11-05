@@ -1,0 +1,13 @@
+{
+  "name": "ambiguous-workspace",
+  "displayName": "Ambiguous Workspace",
+  "description": "Workspace for Humans + AI.",
+  "homepage": "https://ambiguous.ai",
+  "docs": "https://ambiguous.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "ambiguous-workspace": {
+      "url": "https://ambiguous.ai/mcp"
+    }
+  }
+}

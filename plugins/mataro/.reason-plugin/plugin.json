@@ -1,0 +1,13 @@
+{
+  "name": "mataro",
+  "displayName": "Mataró",
+  "description": "Mataró news and events.",
+  "homepage": "https://mataro.fm/",
+  "docs": "https://mataro.fm/",
+  "auth": "none",
+  "mcpServers": {
+    "mataro": {
+      "url": "https://mataro.fm/mcp"
+    }
+  }
+}

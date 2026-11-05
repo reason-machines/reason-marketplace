@@ -1,0 +1,13 @@
+{
+  "name": "sommeliers-window",
+  "displayName": "Sommelier's Window",
+  "description": "Wine drinking windows.",
+  "homepage": "https://sommelierswindow.com",
+  "docs": "https://sommelierswindow.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "sommeliers-window": {
+      "url": "https://sommelierswindow.com/api/mcp"
+    }
+  }
+}

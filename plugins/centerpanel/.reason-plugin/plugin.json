@@ -1,0 +1,13 @@
+{
+  "name": "centerpanel",
+  "displayName": "CenterPanel",
+  "description": "Manage assets, work and trips.",
+  "homepage": "https://www.centerpanel.com",
+  "docs": "https://www.centerpanel.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "centerpanel": {
+      "url": "https://mcp.centerpanel.com/mcp"
+    }
+  }
+}

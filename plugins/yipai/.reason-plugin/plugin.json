@@ -1,0 +1,13 @@
+{
+  "name": "yipai",
+  "displayName": "Yipai",
+  "description": "Wechat article formatter.",
+  "homepage": "https://wechat-official-publisher-449629554430.asia-southeast1.run.app/",
+  "docs": "https://wechat-official-publisher-449629554430.asia-southeast1.run.app/",
+  "auth": "none",
+  "mcpServers": {
+    "yipai": {
+      "url": "https://wechat-official-publisher-449629554430.asia-southeast1.run.app/mcp"
+    }
+  }
+}

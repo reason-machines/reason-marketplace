@@ -1,0 +1,13 @@
+{
+  "name": "findtunes",
+  "displayName": "FindTunes",
+  "description": "Find songs from video links.",
+  "homepage": "https://findtunes.app",
+  "docs": "https://findtunes.app",
+  "auth": "none",
+  "mcpServers": {
+    "findtunes": {
+      "url": "https://findtunes.app/mcp"
+    }
+  }
+}

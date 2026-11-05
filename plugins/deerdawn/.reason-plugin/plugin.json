@@ -1,0 +1,13 @@
+{
+  "name": "deerdawn",
+  "displayName": "DeerDawn",
+  "description": "AI project session memory.",
+  "homepage": "https://deerdawn.com",
+  "docs": "https://deerdawn.com/docs/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "deerdawn": {
+      "url": "https://api.deerdawn.com/mcp"
+    }
+  }
+}

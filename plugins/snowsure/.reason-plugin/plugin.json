@@ -1,0 +1,13 @@
+{
+  "name": "snowsure",
+  "displayName": "SnowSure",
+  "description": "Live snow reports & forecasts.",
+  "homepage": "https://www.snowsure.ai/",
+  "docs": "https://www.snowsure.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "snowsure": {
+      "url": "https://snowsure.ai/mcp"
+    }
+  }
+}

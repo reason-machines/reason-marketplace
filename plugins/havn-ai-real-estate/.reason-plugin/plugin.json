@@ -1,0 +1,13 @@
+{
+  "name": "havn-ai-real-estate",
+  "displayName": "HAVN AI Real Estate",
+  "description": "Top AI Powered Open House CRM.",
+  "homepage": "https://havnre.app/",
+  "docs": "https://havnre.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "havn-ai-real-estate": {
+      "url": "https://mcp.havnre.app/mcp"
+    }
+  }
+}

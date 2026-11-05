@@ -1,0 +1,13 @@
+{
+  "name": "crm-consulting",
+  "displayName": "CRM Consulting",
+  "description": "Find Salesforce partners.",
+  "homepage": "https://crm.consulting",
+  "docs": "https://crm.consulting/.well-known/oauth-protected-resource",
+  "auth": "none",
+  "mcpServers": {
+    "crm-consulting": {
+      "url": "https://crm.consulting/api/mcp"
+    }
+  }
+}

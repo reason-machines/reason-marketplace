@@ -1,0 +1,13 @@
+{
+  "name": "ioreum-saju",
+  "displayName": "ioreum Saju",
+  "description": "Korean saju charts, computed.",
+  "homepage": "https://www.ioreum.com/en/connector",
+  "docs": "https://ioreum.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "ioreum-saju": {
+      "url": "https://ioreum.com/api/mcp"
+    }
+  }
+}

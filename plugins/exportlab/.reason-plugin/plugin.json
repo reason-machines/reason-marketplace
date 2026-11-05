@@ -1,0 +1,13 @@
+{
+  "name": "exportlab",
+  "displayName": "Exportlab",
+  "description": "Manage creative workflows.",
+  "homepage": "https://exportlab.io",
+  "docs": "https://exportlab.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "exportlab": {
+      "url": "https://mcp.exportlab.io/mcp"
+    }
+  }
+}

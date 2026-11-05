@@ -1,0 +1,13 @@
+{
+  "name": "emaqi",
+  "displayName": "emaqi",
+  "description": "Discover manga on emaqi.",
+  "homepage": "https://emaqi.com",
+  "docs": "https://emaqi.com",
+  "auth": "none",
+  "mcpServers": {
+    "emaqi": {
+      "url": "https://mcp.emaqi.com/mcp"
+    }
+  }
+}

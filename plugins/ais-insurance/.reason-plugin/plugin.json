@@ -1,0 +1,13 @@
+{
+  "name": "ais-insurance",
+  "displayName": "AIS Insurance",
+  "description": "Compare auto insurance quotes.",
+  "homepage": "https://www.aisinsurance.com/",
+  "docs": "https://tedix.dev/apps/ais-insurance/",
+  "auth": "none",
+  "mcpServers": {
+    "ais-insurance": {
+      "url": "https://api.mercuryinsurance.com/api/ai-quote-tools/v1/mcp"
+    }
+  }
+}

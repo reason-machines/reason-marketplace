@@ -1,0 +1,13 @@
+{
+  "name": "justworks",
+  "displayName": "Justworks",
+  "description": "Get PEO information.",
+  "homepage": "https://www.justworks.com/",
+  "docs": "https://www.justworks.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "justworks": {
+      "url": "https://mcp.justworks.com/"
+    }
+  }
+}

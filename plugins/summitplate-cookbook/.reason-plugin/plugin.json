@@ -1,0 +1,13 @@
+{
+  "name": "summitplate-cookbook",
+  "displayName": "SummitPlate Cookbook",
+  "description": "Recipes, plans and groceries.",
+  "homepage": "https://www.summitplate.com",
+  "docs": "https://summitplate.com/.well-known/oauth-protected-resource",
+  "auth": "none",
+  "mcpServers": {
+    "summitplate-cookbook": {
+      "url": "https://www.summitplate.com/api/mcp"
+    }
+  }
+}

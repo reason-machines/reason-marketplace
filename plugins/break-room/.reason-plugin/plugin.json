@@ -1,0 +1,13 @@
+{
+  "name": "break-room",
+  "displayName": "Breakroom",
+  "description": "A daily question in links.",
+  "homepage": "https://breakroom.si",
+  "docs": "https://breakroom.si",
+  "auth": "oauth",
+  "mcpServers": {
+    "break-room": {
+      "url": "https://breakroom.si/mcp"
+    }
+  }
+}

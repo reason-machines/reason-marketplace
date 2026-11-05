@@ -1,0 +1,13 @@
+{
+  "name": "machine-relations-index",
+  "displayName": "Machine Relations",
+  "description": "Plan your next authority move.",
+  "homepage": "https://machinerelations.ai/skill",
+  "docs": "https://machinerelations.ai/skill",
+  "auth": "none",
+  "mcpServers": {
+    "machine-relations-index": {
+      "url": "https://machinerelations.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "allnutrition",
+  "displayName": "AllNutrition",
+  "description": "Nutrition health cited answers.",
+  "homepage": "https://www.allnutrition.info",
+  "docs": "https://www.allnutrition.info",
+  "auth": "oauth",
+  "mcpServers": {
+    "allnutrition": {
+      "url": "https://mcp.allnutrition.info/mcp"
+    }
+  }
+}

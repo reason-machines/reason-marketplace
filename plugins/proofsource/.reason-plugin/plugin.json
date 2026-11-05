@@ -1,0 +1,13 @@
+{
+  "name": "proofsource",
+  "displayName": "Proofsource",
+  "description": "Brand visibility in AI answers.",
+  "homepage": "https://proofsource.co/ai-assistants",
+  "docs": "https://proofsource.co/ai-assistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "proofsource": {
+      "url": "https://mcp.proofsource.co/mcp"
+    }
+  }
+}

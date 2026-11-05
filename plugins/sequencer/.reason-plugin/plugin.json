@@ -1,0 +1,13 @@
+{
+  "name": "sequencer",
+  "displayName": "Sequencer",
+  "description": "Create and edit AI videos.",
+  "homepage": "https://sequencer.media",
+  "docs": "https://sequencer.media",
+  "auth": "none",
+  "mcpServers": {
+    "sequencer": {
+      "url": "https://mcp.sequencer.media/mcp"
+    }
+  }
+}

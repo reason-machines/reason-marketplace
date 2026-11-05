@@ -1,0 +1,13 @@
+{
+  "name": "aqua",
+  "displayName": "Aqua Voice",
+  "description": "Find and use your transcripts.",
+  "homepage": "https://aquavoice.com/llms.txt",
+  "docs": "https://aquavoice.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "aqua": {
+      "url": "https://api.aquavoice.com/mcp"
+    }
+  }
+}

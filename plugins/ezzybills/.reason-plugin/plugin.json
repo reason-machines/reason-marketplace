@@ -1,0 +1,13 @@
+{
+  "name": "ezzybills",
+  "displayName": "EzzyBills",
+  "description": "Build apps with EzzyBills APIs.",
+  "homepage": "https://www.ezzybills.com/",
+  "docs": "https://www.ezzybills.com/",
+  "auth": "none",
+  "mcpServers": {
+    "ezzybills": {
+      "url": "https://mcp.ezzybills.com/mcp"
+    }
+  }
+}

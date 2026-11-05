@@ -1,0 +1,13 @@
+{
+  "name": "remly",
+  "displayName": "Remly",
+  "description": "Give Reason your context.",
+  "homepage": "https://www.remly.it",
+  "docs": "https://www.remly.it",
+  "auth": "oauth",
+  "mcpServers": {
+    "remly": {
+      "url": "https://mcp.remly.it/mcp"
+    }
+  }
+}

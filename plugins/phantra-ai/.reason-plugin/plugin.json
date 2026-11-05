@@ -1,0 +1,13 @@
+{
+  "name": "phantra-ai",
+  "displayName": "Phantra AI",
+  "description": "AI images and video, in chat.",
+  "homepage": "https://phantra.ai/mcp",
+  "docs": "https://phantra.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "phantra-ai": {
+      "url": "https://api.phantra.ai/mcp"
+    }
+  }
+}

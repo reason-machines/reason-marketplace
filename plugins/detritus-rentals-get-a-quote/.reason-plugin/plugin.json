@@ -1,0 +1,13 @@
+{
+  "name": "detritus-rentals-get-a-quote",
+  "displayName": "Detritus Rentals: Get a Quote",
+  "description": "Quote jobsite services.",
+  "homepage": "https://detritus.us",
+  "docs": "https://detritus.us",
+  "auth": "none",
+  "mcpServers": {
+    "detritus-rentals-get-a-quote": {
+      "url": "https://mcp.detritus.us/mcp"
+    }
+  }
+}

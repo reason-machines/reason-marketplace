@@ -1,0 +1,13 @@
+{
+  "name": "v-marketing-kit",
+  "displayName": "V-Kit",
+  "description": "Your ad and app metrics.",
+  "homepage": "https://marketing-kit.app",
+  "docs": "https://marketing-kit.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "v-marketing-kit": {
+      "url": "https://marketing-kit.app/mcp"
+    }
+  }
+}

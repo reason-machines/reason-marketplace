@@ -1,0 +1,13 @@
+{
+  "name": "affinity",
+  "displayName": "Affinity",
+  "description": "Search, update, and prep deals.",
+  "homepage": "https://affinity.co",
+  "docs": "https://affinity.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "affinity": {
+      "url": "https://mcp.affinity.co/mcp"
+    }
+  }
+}

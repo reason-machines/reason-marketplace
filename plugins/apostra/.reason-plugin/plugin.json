@@ -1,0 +1,13 @@
+{
+  "name": "apostra",
+  "displayName": "Apostra",
+  "description": "Agentic ad distribution.",
+  "homepage": "https://apostra.com/",
+  "docs": "https://docs.apostra.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "apostra": {
+      "url": "https://api.apostra.com/mcp"
+    }
+  }
+}

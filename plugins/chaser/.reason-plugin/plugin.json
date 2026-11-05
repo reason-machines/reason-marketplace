@@ -1,0 +1,13 @@
+{
+  "name": "chaser",
+  "displayName": "Chaser",
+  "description": "Manage Slack tasks with AI.",
+  "homepage": "https://www.trychaser.com/mcp",
+  "docs": "https://www.trychaser.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "chaser": {
+      "url": "https://api.trychaser.com/mcp"
+    }
+  }
+}

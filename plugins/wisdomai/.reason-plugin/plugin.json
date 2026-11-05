@@ -1,0 +1,13 @@
+{
+  "name": "wisdomai",
+  "displayName": "WisdomAI",
+  "description": "Answers from data you govern.",
+  "homepage": "https://www.wisdom.ai/",
+  "docs": "https://www.wisdom.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "wisdomai": {
+      "url": "https://mcp.wisdom.ai/mcp"
+    }
+  }
+}

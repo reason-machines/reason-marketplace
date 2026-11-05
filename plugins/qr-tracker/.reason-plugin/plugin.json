@@ -1,0 +1,13 @@
+{
+  "name": "qr-tracker",
+  "displayName": "QR Tracker",
+  "description": "Create and Track QR codes.",
+  "homepage": "https://qrtracker.io",
+  "docs": "https://qrtracker.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "qr-tracker": {
+      "url": "https://auth.qrtracker.io/functions/v1/mcp"
+    }
+  }
+}

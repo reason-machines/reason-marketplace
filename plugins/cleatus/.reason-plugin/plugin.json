@@ -1,0 +1,13 @@
+{
+  "name": "cleatus",
+  "displayName": "CLEATUS",
+  "description": "AI for Government Contracting.",
+  "homepage": "https://www.cleat.ai/",
+  "docs": "https://www.cleat.ai/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "cleatus": {
+      "url": "https://www.cleat.ai/api/mcp/mcp"
+    }
+  }
+}

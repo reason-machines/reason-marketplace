@@ -1,0 +1,13 @@
+{
+  "name": "allnew-homes",
+  "displayName": "All New Homes",
+  "description": "Find new-construction homes.",
+  "homepage": "https://allnew.homes/plugin",
+  "docs": "https://allnew.homes/plugin",
+  "auth": "none",
+  "mcpServers": {
+    "allnew-homes": {
+      "url": "https://mcp.allnew.homes/mcp"
+    }
+  }
+}

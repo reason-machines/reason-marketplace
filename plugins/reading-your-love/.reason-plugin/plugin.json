@@ -1,0 +1,13 @@
+{
+  "name": "reading-your-love",
+  "displayName": "Reading Your Love",
+  "description": "See your love temperature.",
+  "homepage": "https://www.readingyourlove.com",
+  "docs": "https://www.readingyourlove.com",
+  "auth": "none",
+  "mcpServers": {
+    "reading-your-love": {
+      "url": "https://mcp.readingyourlove.com/mcp"
+    }
+  }
+}

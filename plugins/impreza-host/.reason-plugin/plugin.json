@@ -1,0 +1,13 @@
+{
+  "name": "impreza-host",
+  "displayName": "Impreza Host",
+  "description": "Deploy apps, manage servers.",
+  "homepage": "https://impreza.host/",
+  "docs": "https://impreza.host/",
+  "auth": "none",
+  "mcpServers": {
+    "impreza-host": {
+      "url": "https://mcp.imprezahost.com/mcp"
+    }
+  }
+}

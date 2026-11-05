@@ -1,0 +1,13 @@
+{
+  "name": "alice-flights",
+  "displayName": "Alice Flights",
+  "description": "Israel-based flight search.",
+  "homepage": "https://alice.co.il",
+  "docs": "https://alice.co.il",
+  "auth": "oauth",
+  "mcpServers": {
+    "alice-flights": {
+      "url": "https://mcp.alice.co.il/mcp"
+    }
+  }
+}

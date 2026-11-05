@@ -1,0 +1,13 @@
+{
+  "name": "affirm",
+  "displayName": "Affirm",
+  "description": "Flexible payments, big savings.",
+  "homepage": "https://www.affirm.com/",
+  "docs": "https://tedix.dev/apps/affirm/",
+  "auth": "none",
+  "mcpServers": {
+    "affirm": {
+      "url": "https://affirm.com/api/pba/v1/mcp"
+    }
+  }
+}

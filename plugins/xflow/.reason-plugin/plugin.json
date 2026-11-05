@@ -1,0 +1,13 @@
+{
+  "name": "xflow",
+  "displayName": "Xflow",
+  "description": "FX rates & insights.",
+  "homepage": "https://www.xflowpay.com/",
+  "docs": "https://mcp.so/servers/xflow",
+  "auth": "none",
+  "mcpServers": {
+    "xflow": {
+      "url": "https://mcp.xflowpay.com/mcp/claude"
+    }
+  }
+}

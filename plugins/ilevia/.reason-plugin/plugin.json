@@ -1,0 +1,13 @@
+{
+  "name": "ilevia",
+  "displayName": "ILEVIA",
+  "description": "Control your ILEVIA smart home.",
+  "homepage": "https://www.ilevia.com",
+  "docs": "https://www.ilevia.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ilevia": {
+      "url": "https://mcp.ilevia.com/mcp"
+    }
+  }
+}

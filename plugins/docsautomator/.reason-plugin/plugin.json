@@ -1,0 +1,13 @@
+{
+  "name": "docsautomator",
+  "displayName": "DocsAutomator",
+  "description": "Quotes, contracts, invoices.",
+  "homepage": "https://docsautomator.co/features/ai-and-agents/",
+  "docs": "https://docsautomator.co/features/ai-and-agents/",
+  "auth": "oauth",
+  "mcpServers": {
+    "docsautomator": {
+      "url": "https://mcp.docsautomator.co/mcp"
+    }
+  }
+}

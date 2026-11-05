@@ -1,0 +1,13 @@
+{
+  "name": "rovyn",
+  "displayName": "Rovyn",
+  "description": "Podcasts assistant curates.",
+  "homepage": "https://rovyn.app",
+  "docs": "https://rovyn.app/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "rovyn": {
+      "url": "https://api.rovyn.app/mcp"
+    }
+  }
+}

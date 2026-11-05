@@ -1,0 +1,13 @@
+{
+  "name": "omgskills",
+  "displayName": "omgskills",
+  "description": "Find trusted agent skills.",
+  "homepage": "https://omgskills.com/",
+  "docs": "https://omgskills.com/",
+  "auth": "none",
+  "mcpServers": {
+    "omgskills": {
+      "url": "https://omgskills.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "keep-highlights",
+  "displayName": "KEEP Highlights",
+  "description": "Find key moments in any media.",
+  "homepage": "https://skeepit.co",
+  "docs": "https://skeepit.co",
+  "auth": "none",
+  "mcpServers": {
+    "keep-highlights": {
+      "url": "https://skeepit.co/mcp"
+    }
+  }
+}

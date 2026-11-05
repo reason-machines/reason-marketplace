@@ -1,0 +1,13 @@
+{
+  "name": "remode",
+  "displayName": "Remode",
+  "description": "Shop any outfit from a photo.",
+  "homepage": "https://remode.app",
+  "docs": "https://remode.app",
+  "auth": "none",
+  "mcpServers": {
+    "remode": {
+      "url": "https://mcp.remode.app/mcp"
+    }
+  }
+}

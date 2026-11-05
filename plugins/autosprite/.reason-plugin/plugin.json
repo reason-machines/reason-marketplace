@@ -1,0 +1,13 @@
+{
+  "name": "autosprite",
+  "displayName": "AutoSprite",
+  "description": "Animated sprites for games.",
+  "homepage": "https://www.autosprite.io/chatgpt",
+  "docs": "https://autosprite.io/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "autosprite": {
+      "url": "https://autosprite.io/api/mcp"
+    }
+  }
+}

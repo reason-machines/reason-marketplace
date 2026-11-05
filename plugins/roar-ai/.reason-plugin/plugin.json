@@ -1,0 +1,13 @@
+{
+  "name": "roar-ai",
+  "displayName": "Roar AI",
+  "description": "AI models + app hosting.",
+  "homepage": "https://roar-ai.com/mcp",
+  "docs": "https://roar-ai.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "roar-ai": {
+      "url": "https://cloud.roar-ai.com/mcp"
+    }
+  }
+}

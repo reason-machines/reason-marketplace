@@ -1,0 +1,13 @@
+{
+  "name": "kova",
+  "displayName": "Kova",
+  "description": "Keep investments on strategy.",
+  "homepage": "https://kovatools.com",
+  "docs": "https://kovatools.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "kova": {
+      "url": "https://kovatools.com/mcp"
+    }
+  }
+}

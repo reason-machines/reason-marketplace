@@ -1,0 +1,13 @@
+{
+  "name": "songup-ai",
+  "displayName": "SongUp AI",
+  "description": "Hear and make AI songs.",
+  "homepage": "https://www.songupai.com",
+  "docs": "https://www.songupai.com",
+  "auth": "none",
+  "mcpServers": {
+    "songup-ai": {
+      "url": "https://songupai.com/mcp"
+    }
+  }
+}

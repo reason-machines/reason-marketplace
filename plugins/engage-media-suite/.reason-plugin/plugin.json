@@ -1,0 +1,13 @@
+{
+  "name": "engage-media-suite",
+  "displayName": "Engage Media Suite",
+  "description": "Create Reels and carousels.",
+  "homepage": "https://www.engagemediasuite.com",
+  "docs": "https://www.engagemediasuite.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "engage-media-suite": {
+      "url": "https://engagemediasuite.com/mcp"
+    }
+  }
+}

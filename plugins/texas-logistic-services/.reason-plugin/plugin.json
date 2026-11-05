@@ -1,0 +1,13 @@
+{
+  "name": "texas-logistic-services",
+  "displayName": "TLS Logistics Planner",
+  "description": "Plan your logistics needs.",
+  "homepage": "https://chatgpt.texaslogisticservices.com/",
+  "docs": "https://chatgpt.texaslogisticservices.com/",
+  "auth": "none",
+  "mcpServers": {
+    "texas-logistic-services": {
+      "url": "https://chatgpt.texaslogisticservices.com/mcp"
+    }
+  }
+}

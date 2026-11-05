@@ -1,0 +1,13 @@
+{
+  "name": "spacinsider",
+  "displayName": "SPACInsider",
+  "description": "SPAC and de-SPAC market data.",
+  "homepage": "https://www.spacinsider.com",
+  "docs": "https://tedix.dev/apps/spacinsider/",
+  "auth": "oauth",
+  "mcpServers": {
+    "spacinsider": {
+      "url": "https://api.spacinsider.com/v2/mcp"
+    }
+  }
+}

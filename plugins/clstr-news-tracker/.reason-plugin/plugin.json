@@ -1,0 +1,13 @@
+{
+  "name": "clstr-news-tracker",
+  "displayName": "CLSTR News Tracker",
+  "description": "News search and timelines.",
+  "homepage": "https://clstr.news/",
+  "docs": "https://clstr.news/",
+  "auth": "none",
+  "mcpServers": {
+    "clstr-news-tracker": {
+      "url": "https://mcp.clstr.news/mcp"
+    }
+  }
+}

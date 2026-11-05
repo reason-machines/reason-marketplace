@@ -1,0 +1,13 @@
+{
+  "name": "scribble",
+  "displayName": "Scribble",
+  "description": "Handwritten cards in real ink.",
+  "homepage": "https://scribblecards.com/",
+  "docs": "https://scribblecards.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "scribble": {
+      "url": "https://scribblecards.com/api/mcp"
+    }
+  }
+}

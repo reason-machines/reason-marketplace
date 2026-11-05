@@ -1,0 +1,13 @@
+{
+  "name": "creonda-ugc-creator-search",
+  "displayName": "Creonda UGC Creator Search",
+  "description": "Find vetted UGC creators.",
+  "homepage": "https://creonda.com",
+  "docs": "https://creonda.com",
+  "auth": "none",
+  "mcpServers": {
+    "creonda-ugc-creator-search": {
+      "url": "https://mcp.creonda.com/mcp"
+    }
+  }
+}

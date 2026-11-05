@@ -1,0 +1,13 @@
+{
+  "name": "arcads",
+  "displayName": "Arcads",
+  "description": "Generate ad creatives.",
+  "homepage": "https://www.arcads.ai",
+  "docs": "https://www.arcads.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "arcads": {
+      "url": "https://mcp.arcads.ai/mcp"
+    }
+  }
+}

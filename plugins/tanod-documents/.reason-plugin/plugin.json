@@ -1,0 +1,13 @@
+{
+  "name": "tanod-documents",
+  "displayName": "Tanod Documents",
+  "description": "PDF and Office document tools.",
+  "homepage": "https://tanod.dev",
+  "docs": "https://tanod.dev",
+  "auth": "none",
+  "mcpServers": {
+    "tanod-documents": {
+      "url": "https://tanod.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cosimo",
+  "displayName": "Cosimo",
+  "description": "Intelligent fashion discovery.",
+  "homepage": "https://cosimo.shop",
+  "docs": "https://cosimo.shop",
+  "auth": "oauth",
+  "mcpServers": {
+    "cosimo": {
+      "url": "https://mcp.cosimo.shop/mcp"
+    }
+  }
+}

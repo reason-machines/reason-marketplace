@@ -1,0 +1,13 @@
+{
+  "name": "keys-locksmith",
+  "displayName": "Keys Locksmith",
+  "description": "Find and book local locksmiths.",
+  "homepage": "https://keys.app",
+  "docs": "https://keys.app",
+  "auth": "none",
+  "mcpServers": {
+    "keys-locksmith": {
+      "url": "https://mcp.keys.app/mcp"
+    }
+  }
+}

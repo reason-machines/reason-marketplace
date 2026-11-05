@@ -1,0 +1,13 @@
+{
+  "name": "happens-mk",
+  "displayName": "Happens.mk",
+  "description": "Live guide to Skopje - events.",
+  "homepage": "https://happens.mk/",
+  "docs": "https://happens.mk/",
+  "auth": "none",
+  "mcpServers": {
+    "happens-mk": {
+      "url": "https://happens.mk/mcp"
+    }
+  }
+}

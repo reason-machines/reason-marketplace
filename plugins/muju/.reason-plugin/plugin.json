@@ -1,0 +1,13 @@
+{
+  "name": "muju",
+  "displayName": "Muju",
+  "description": "Discover and order locally.",
+  "homepage": "https://mujucommunity.com",
+  "docs": "https://mujucommunity.com",
+  "auth": "none",
+  "mcpServers": {
+    "muju": {
+      "url": "https://mujucommunity.com/mcp"
+    }
+  }
+}

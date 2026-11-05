@@ -1,0 +1,13 @@
+{
+  "name": "nysa",
+  "displayName": "Nysa",
+  "description": "Search your company brain.",
+  "homepage": "https://usenysa.com/",
+  "docs": "https://usenysa.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "nysa": {
+      "url": "https://mcp.usenysa.com/mcp"
+    }
+  }
+}

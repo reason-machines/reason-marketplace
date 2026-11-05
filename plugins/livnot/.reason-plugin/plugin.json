@@ -1,0 +1,13 @@
+{
+  "name": "livnot",
+  "displayName": "Livnot",
+  "description": "Craft your shidduch résumé.",
+  "homepage": "https://livnot.app",
+  "docs": "https://livnot.app",
+  "auth": "none",
+  "mcpServers": {
+    "livnot": {
+      "url": "https://mcp.livnot.app/mcp"
+    }
+  }
+}

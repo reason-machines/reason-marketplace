@@ -1,0 +1,13 @@
+{
+  "name": "bestbus",
+  "displayName": "BestBus",
+  "description": "Thailand bus times & tickets.",
+  "homepage": "https://bestbus.me",
+  "docs": "https://bestbus.me",
+  "auth": "none",
+  "mcpServers": {
+    "bestbus": {
+      "url": "https://bestbus.me/mcp"
+    }
+  }
+}

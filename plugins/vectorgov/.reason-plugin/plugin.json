@@ -1,0 +1,13 @@
+{
+  "name": "vectorgov",
+  "displayName": "VectorGov",
+  "description": "Consulte licitações.",
+  "homepage": "https://vectorgov.io",
+  "docs": "https://vectorgov.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "vectorgov": {
+      "url": "https://mcp.vectorgov.io/mcp"
+    }
+  }
+}

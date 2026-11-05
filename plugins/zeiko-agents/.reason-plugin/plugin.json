@@ -1,0 +1,13 @@
+{
+  "name": "zeiko-agents",
+  "displayName": "Zeiko Agents",
+  "description": "Create and test support agents.",
+  "homepage": "https://zeiko.io",
+  "docs": "https://zeiko.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "zeiko-agents": {
+      "url": "https://zeiko.io/mcp"
+    }
+  }
+}

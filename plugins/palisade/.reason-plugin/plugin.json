@@ -1,0 +1,13 @@
+{
+  "name": "palisade",
+  "displayName": "Palisade",
+  "description": "Monitor email deliverability.",
+  "homepage": "https://www.palisade.email",
+  "docs": "https://www.palisade.email",
+  "auth": "oauth",
+  "mcpServers": {
+    "palisade": {
+      "url": "https://api.palisade.email/mcp"
+    }
+  }
+}

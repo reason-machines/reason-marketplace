@@ -1,0 +1,22 @@
+{
+  "name": "callforme",
+  "displayName": "CallForMe",
+  "description": "Your agent calls businesses.",
+  "homepage": "https://callforme.tel",
+  "docs": "https://callforme.tel",
+  "auth": "oauth",
+  "mcpServers": {
+    "callforme": {
+      "url": "https://callforme.tel/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "callforme",
+      "description": "Phone a business for the user (quotes, reservations, appointments, cancellations, stock checks, waiting on hold, bill negotiation), or call around to several businesses of a kind near a place. Use when the user asks you to call, ring, phone, or \"check with\" a business, or when the answer needs a pho",
+      "source": "callforme-tel/callforme#b27bc62e1cfb5f0732d241a35eb0a34d79f277f2",
+      "skill": "callforme",
+      "url": "https://github.com/callforme-tel/callforme/tree/b27bc62e1cfb5f0732d241a35eb0a34d79f277f2/skills/callforme"
+    }
+  ]
+}

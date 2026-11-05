@@ -1,0 +1,13 @@
+{
+  "name": "reverie-movies",
+  "displayName": "Reverie Movies",
+  "description": "Make AI films and music videos.",
+  "homepage": "https://reveriemovies.com",
+  "docs": "https://reveriemovies.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "reverie-movies": {
+      "url": "https://api.reveriemovies.com/mcp"
+    }
+  }
+}

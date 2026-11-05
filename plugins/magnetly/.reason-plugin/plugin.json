@@ -1,0 +1,13 @@
+{
+  "name": "magnetly",
+  "displayName": "Magnetly",
+  "description": "Build interactive lead tools.",
+  "homepage": "https://www.magnetly.co",
+  "docs": "https://www.magnetly.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "magnetly": {
+      "url": "https://mcp.magnetly.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kite",
+  "displayName": "Kite",
+  "description": "Your AI marketing teammate.",
+  "homepage": "https://kite.ai",
+  "docs": "https://kite.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "kite": {
+      "url": "https://kite.ai/mcp"
+    }
+  }
+}

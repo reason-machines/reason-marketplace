@@ -1,0 +1,13 @@
+{
+  "name": "biostacks",
+  "displayName": "BioStacks",
+  "description": "Supplements review by evidence.",
+  "homepage": "https://biostacks.co",
+  "docs": "https://biostacks.co",
+  "auth": "none",
+  "mcpServers": {
+    "biostacks": {
+      "url": "https://biostacks.co/mcp"
+    }
+  }
+}

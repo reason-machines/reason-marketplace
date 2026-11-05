@@ -1,0 +1,13 @@
+{
+  "name": "upword",
+  "displayName": "upword",
+  "description": "Track client AI citations.",
+  "homepage": "https://www.goupword.com",
+  "docs": "https://www.goupword.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "upword": {
+      "url": "https://goupword.com/mcp"
+    }
+  }
+}

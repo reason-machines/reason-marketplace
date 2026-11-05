@@ -1,0 +1,13 @@
+{
+  "name": "project-plan-365",
+  "displayName": "Project Plan 365",
+  "description": "Manage Microsoft Project MPP.",
+  "homepage": "https://www.projectplan365.com/",
+  "docs": "https://www.projectplan365.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "project-plan-365": {
+      "url": "https://mcp.projectplan365.com/mcp"
+    }
+  }
+}

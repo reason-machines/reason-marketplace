@@ -1,0 +1,13 @@
+{
+  "name": "astorie",
+  "displayName": "Astorie",
+  "description": "Make images and videos.",
+  "homepage": "https://astorie.ai",
+  "docs": "https://astorie.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "astorie": {
+      "url": "https://astorie.ai/api/mcp"
+    }
+  }
+}

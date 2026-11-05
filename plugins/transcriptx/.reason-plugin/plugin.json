@@ -1,0 +1,13 @@
+{
+  "name": "transcriptx",
+  "displayName": "TranscriptX",
+  "description": "Transcribe videos and audio.",
+  "homepage": "https://transcriptx.ai/connectors/",
+  "docs": "https://transcriptx.ai/connectors/",
+  "auth": "oauth",
+  "mcpServers": {
+    "transcriptx": {
+      "url": "https://transcriptx.ai/mcp"
+    }
+  }
+}

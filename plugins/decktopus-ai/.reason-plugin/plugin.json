@@ -1,0 +1,13 @@
+{
+  "name": "decktopus-ai",
+  "displayName": "Decktopus AI",
+  "description": "Make presentations, carousels.",
+  "homepage": "https://www.decktopus.com",
+  "docs": "https://www.decktopus.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "decktopus-ai": {
+      "url": "https://apiv21.decktopus.com/mcp"
+    }
+  }
+}

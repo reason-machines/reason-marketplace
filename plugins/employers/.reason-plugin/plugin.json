@@ -1,0 +1,13 @@
+{
+  "name": "employers",
+  "displayName": "EMPLOYERS",
+  "description": "Get a workers' comp quote.",
+  "homepage": "https://www.employers.com",
+  "docs": "https://tedix.dev/apps/employers/",
+  "auth": "none",
+  "mcpServers": {
+    "employers": {
+      "url": "https://mcp.employers.com/direct/mcp"
+    }
+  }
+}

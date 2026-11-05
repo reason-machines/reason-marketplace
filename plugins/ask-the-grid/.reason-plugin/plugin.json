@@ -1,0 +1,13 @@
+{
+  "name": "ask-the-grid",
+  "displayName": "Ask the Grid",
+  "description": "Explore US power markets.",
+  "homepage": "https://askthegrid.com",
+  "docs": "https://askthegrid.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ask-the-grid": {
+      "url": "https://mcp.askthegrid.com/v1/global"
+    }
+  }
+}

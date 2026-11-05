@@ -1,0 +1,13 @@
+{
+  "name": "amtstools",
+  "displayName": "Amtstools",
+  "description": "Amtstools-Hilfe.",
+  "homepage": "https://amtstools.de/ki",
+  "docs": "https://amtstools.de/ki",
+  "auth": "none",
+  "mcpServers": {
+    "amtstools": {
+      "url": "https://amtstools.de/mcp"
+    }
+  }
+}

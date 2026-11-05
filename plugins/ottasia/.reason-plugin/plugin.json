@@ -1,0 +1,13 @@
+{
+  "name": "ottasia",
+  "displayName": "OTTASIA",
+  "description": "Find where to stream.",
+  "homepage": "https://ottasia.com",
+  "docs": "https://ottasia.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "ottasia": {
+      "url": "https://ottasia.com/api/mcp/sse"
+    }
+  }
+}

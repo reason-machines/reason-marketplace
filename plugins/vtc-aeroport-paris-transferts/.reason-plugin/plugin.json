@@ -1,0 +1,13 @@
+{
+  "name": "vtc-aeroport-paris-transferts",
+  "displayName": "VTC AEROPORT PARIS",
+  "description": "Paris airport transfers.",
+  "homepage": "https://vtc-aeroport.fr/",
+  "docs": "https://vtc-aeroport.fr/reserver-vtc-avec-ia/",
+  "auth": "none",
+  "mcpServers": {
+    "vtc-aeroport-paris-transferts": {
+      "url": "https://vtc-aeroport.fr/wp-json/sivtc/v1/mcp"
+    }
+  }
+}

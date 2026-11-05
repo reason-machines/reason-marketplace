@@ -1,0 +1,13 @@
+{
+  "name": "pampaia-ar",
+  "displayName": "PampaIA.AR",
+  "description": "Official Argentine farm data.",
+  "homepage": "https://pampaia.ar/en/agrobrain",
+  "docs": "https://pampaia.ar/en/agrobrain",
+  "auth": "oauth",
+  "mcpServers": {
+    "pampaia-ar": {
+      "url": "https://pampaia.ar/mcp"
+    }
+  }
+}

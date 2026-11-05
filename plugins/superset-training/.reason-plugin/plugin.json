@@ -1,0 +1,13 @@
+{
+  "name": "superset-training",
+  "displayName": "Superset",
+  "description": "Coach and log workouts.",
+  "homepage": "https://www.supersetapp.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.supersetapp/public",
+  "auth": "none",
+  "mcpServers": {
+    "superset-training": {
+      "url": "https://www.supersetapp.com/api/mcp/public"
+    }
+  }
+}

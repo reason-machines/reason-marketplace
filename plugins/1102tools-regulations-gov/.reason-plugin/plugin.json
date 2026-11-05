@@ -1,0 +1,13 @@
+{
+  "name": "1102tools-regulations-gov",
+  "displayName": "1102tools for Regulations.gov",
+  "description": "Search rulemaking dockets.",
+  "homepage": "https://1102tools.com",
+  "docs": "https://1102tools.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "1102tools-regulations-gov": {
+      "url": "https://regulations-gov.1102tools.com/mcp"
+    }
+  }
+}

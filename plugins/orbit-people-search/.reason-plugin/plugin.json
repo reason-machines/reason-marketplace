@@ -1,0 +1,13 @@
+{
+  "name": "orbit-people-search",
+  "displayName": "Orbit - People search",
+  "description": "People search and profiles.",
+  "homepage": "https://orbitsearch.com/",
+  "docs": "https://api.orbitsearch.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "orbit-people-search": {
+      "url": "https://api.orbitsearch.com/mcp"
+    }
+  }
+}

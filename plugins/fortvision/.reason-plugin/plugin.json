@@ -1,0 +1,13 @@
+{
+  "name": "fortvision",
+  "displayName": "FORTVISION",
+  "description": "Manage campaigns and leads.",
+  "homepage": "https://fortvision.com",
+  "docs": "https://app.fortvision.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "fortvision": {
+      "url": "https://app.fortvision.com/mcp"
+    }
+  }
+}

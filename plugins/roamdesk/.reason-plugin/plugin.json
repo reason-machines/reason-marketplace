@@ -1,0 +1,13 @@
+{
+  "name": "roamdesk",
+  "displayName": "Roamdesk",
+  "description": "Plan remote work and travel.",
+  "homepage": "https://roamdesk.karsonbailey.com/",
+  "docs": "https://roamdesk.karsonbailey.com/",
+  "auth": "none",
+  "mcpServers": {
+    "roamdesk": {
+      "url": "https://roamdesk.karsonbailey.com/mcp"
+    }
+  }
+}

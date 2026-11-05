@@ -1,0 +1,13 @@
+{
+  "name": "clicktimer",
+  "displayName": "ClickTimer",
+  "description": "Email countdown timers.",
+  "homepage": "https://www.clicktimer.co",
+  "docs": "https://www.clicktimer.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "clicktimer": {
+      "url": "https://clicktimer.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "incarn",
+  "displayName": "Incarn",
+  "description": "Animate old family photos.",
+  "homepage": "https://www.incarn.co/",
+  "docs": "https://incarn.co/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "incarn": {
+      "url": "https://api.incarn.co/mcp"
+    }
+  }
+}

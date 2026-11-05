@@ -1,0 +1,13 @@
+{
+  "name": "hausia",
+  "displayName": "Hausia",
+  "description": "Encuentra vivienda con Hausia.",
+  "homepage": "https://hausia.io",
+  "docs": "https://hausia.io",
+  "auth": "none",
+  "mcpServers": {
+    "hausia": {
+      "url": "https://mcp.hausia.io/mcp"
+    }
+  }
+}

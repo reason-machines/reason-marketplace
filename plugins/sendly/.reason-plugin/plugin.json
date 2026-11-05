@@ -1,0 +1,13 @@
+{
+  "name": "sendly",
+  "displayName": "Sendly",
+  "description": "Contacts, campaigns, delivery.",
+  "homepage": "https://sendly.now",
+  "docs": "https://sendly.now/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "sendly": {
+      "url": "https://app.sendly.now/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "waypoint-log",
+  "displayName": "Waypoint Log",
+  "description": "Ask about your pilot logbook.",
+  "homepage": "https://www.waypointlog.com",
+  "docs": "https://www.waypointlog.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "waypoint-log": {
+      "url": "https://mcp.waypointlog.com/mcp"
+    }
+  }
+}

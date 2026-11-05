@@ -1,0 +1,13 @@
+{
+  "name": "transcriptor",
+  "displayName": "Transcriptor",
+  "description": "Video transcripts and metadata.",
+  "homepage": "https://transcriptor-mcp.org/llms.txt",
+  "docs": "https://transcriptor-mcp.org/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "transcriptor": {
+      "url": "https://transcriptor.gateway.mcpal.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "booqer",
+  "displayName": "Booqer",
+  "description": "Book local home-service pros.",
+  "homepage": "https://booqer.ai",
+  "docs": "https://booqer.ai",
+  "auth": "none",
+  "mcpServers": {
+    "booqer": {
+      "url": "https://booqer.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "3d-printer-on-demand",
+  "displayName": "3D Printer on Demand",
+  "description": "3D print cost and design help.",
+  "homepage": "https://3dprinterondemand.com",
+  "docs": "https://3dprinterondemand.com/ai-assistants",
+  "auth": "none",
+  "mcpServers": {
+    "3d-printer-on-demand": {
+      "url": "https://3dprinterondemand.com/api/mcp"
+    }
+  }
+}

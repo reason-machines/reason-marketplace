@@ -1,0 +1,13 @@
+{
+  "name": "vauprime",
+  "displayName": "VauPrime",
+  "description": "Manage accountings and stock.",
+  "homepage": "https://vauprime.com",
+  "docs": "https://vauprime.com",
+  "auth": "none",
+  "mcpServers": {
+    "vauprime": {
+      "url": "https://mcp.vauprime.com/mcp"
+    }
+  }
+}

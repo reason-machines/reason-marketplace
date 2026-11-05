@@ -1,0 +1,13 @@
+{
+  "name": "context-link",
+  "displayName": "Context Link",
+  "description": "Talk to your business.",
+  "homepage": "https://www.context-link.ai",
+  "docs": "https://www.context-link.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "context-link": {
+      "url": "https://mcp.context-link.ai/mcp"
+    }
+  }
+}

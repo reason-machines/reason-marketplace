@@ -1,0 +1,13 @@
+{
+  "name": "coglen-learner",
+  "displayName": "Coglen",
+  "description": "Know what to practise next.",
+  "homepage": "https://coglen.ai",
+  "docs": "https://coglen.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "coglen-learner": {
+      "url": "https://mcp.coglen.ai/mcp"
+    }
+  }
+}

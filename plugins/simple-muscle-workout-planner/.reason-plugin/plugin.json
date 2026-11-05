@@ -1,0 +1,13 @@
+{
+  "name": "simple-muscle-workout-planner",
+  "displayName": "Simple Muscle: Workout Planner",
+  "description": "Workout planner & tracker.",
+  "homepage": "https://simplemuscle.ai",
+  "docs": "https://simplemuscle.ai/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "simple-muscle-workout-planner": {
+      "url": "https://api.simplemuscle.ai/mcp"
+    }
+  }
+}

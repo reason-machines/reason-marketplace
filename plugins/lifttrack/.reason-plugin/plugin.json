@@ -1,0 +1,13 @@
+{
+  "name": "lifttrack",
+  "displayName": "LiftTrack",
+  "description": "Weightlifting For Garmin.",
+  "homepage": "https://lifttrackapp.com",
+  "docs": "https://lifttrackapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lifttrack": {
+      "url": "https://mcp.lifttrackapp.com/"
+    }
+  }
+}

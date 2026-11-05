@@ -1,0 +1,13 @@
+{
+  "name": "totalcms",
+  "displayName": "Total CMS",
+  "description": "Total CMS docs and reference.",
+  "homepage": "https://totalcms.co",
+  "docs": "https://totalcms.co",
+  "auth": "none",
+  "mcpServers": {
+    "totalcms": {
+      "url": "https://mcp.totalcms.co/mcp"
+    }
+  }
+}

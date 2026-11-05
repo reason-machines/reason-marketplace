@@ -1,0 +1,13 @@
+{
+  "name": "reinvestwealth",
+  "displayName": "ReInvestWealth",
+  "description": "Bookkeeping and reporting.",
+  "homepage": "https://www.reinvestwealth.com",
+  "docs": "https://tedix.dev/apps/reinvestwealth/",
+  "auth": "oauth",
+  "mcpServers": {
+    "reinvestwealth": {
+      "url": "https://api.reinvestwealth.com/mcp"
+    }
+  }
+}

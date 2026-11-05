@@ -1,0 +1,13 @@
+{
+  "name": "sugra-api",
+  "displayName": "Sugra API",
+  "description": "Data from primary sources.",
+  "homepage": "https://sugra.ai",
+  "docs": "https://sugra.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "sugra-api": {
+      "url": "https://mcp.sugra.ai/mcp"
+    }
+  }
+}

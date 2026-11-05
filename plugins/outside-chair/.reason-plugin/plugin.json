@@ -1,0 +1,13 @@
+{
+  "name": "outside-chair",
+  "displayName": "Outside Chair — Strategy",
+  "description": "Strategy into follow-through.",
+  "homepage": "https://outsidechair.com",
+  "docs": "https://outsidechair.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "outside-chair": {
+      "url": "https://outsidechair.com/mcp"
+    }
+  }
+}

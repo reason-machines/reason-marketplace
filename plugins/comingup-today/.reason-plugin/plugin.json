@@ -1,0 +1,13 @@
+{
+  "name": "comingup-today",
+  "displayName": "ComingUp Today",
+  "description": "Shared household organizer.",
+  "homepage": "https://www.comingup.today",
+  "docs": "https://comingup.today/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "comingup-today": {
+      "url": "https://api.comingup.today/mcp"
+    }
+  }
+}

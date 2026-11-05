@@ -1,0 +1,13 @@
+{
+  "name": "averth",
+  "displayName": "Averth",
+  "description": "True cost of every agent run.",
+  "homepage": "https://getaverth.com",
+  "docs": "https://getaverth.com",
+  "auth": "none",
+  "mcpServers": {
+    "averth": {
+      "url": "https://mcp.getaverth.com/mcp"
+    }
+  }
+}

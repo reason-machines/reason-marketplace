@@ -1,0 +1,13 @@
+{
+  "name": "almosafer-com",
+  "displayName": "Almosafer.com",
+  "description": "Find flights, hotels and more.",
+  "homepage": "https://www.almosafer.com/en",
+  "docs": "https://www.almosafer.com/en",
+  "auth": "none",
+  "mcpServers": {
+    "almosafer-com": {
+      "url": "https://mcp.almosafer.com/mcp"
+    }
+  }
+}

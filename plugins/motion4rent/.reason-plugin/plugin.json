@@ -1,0 +1,13 @@
+{
+  "name": "motion4rent",
+  "displayName": "Motion4rent",
+  "description": "Rent mobility equipment.",
+  "homepage": "https://www.motion4rent.com",
+  "docs": "https://www.motion4rent.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "motion4rent": {
+      "url": "https://mcp.motion4rent.com/mcp"
+    }
+  }
+}

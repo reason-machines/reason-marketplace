@@ -1,0 +1,13 @@
+{
+  "name": "resplendent-tea",
+  "displayName": "A Resplendent Tea Experience",
+  "description": "Tea catering and contact.",
+  "homepage": "https://resplendenttea.com",
+  "docs": "https://resplendenttea.com",
+  "auth": "none",
+  "mcpServers": {
+    "resplendent-tea": {
+      "url": "https://resplendenttea.com/mcp"
+    }
+  }
+}

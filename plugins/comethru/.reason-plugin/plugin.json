@@ -1,0 +1,13 @@
+{
+  "name": "comethru",
+  "displayName": "comethru",
+  "description": "Create and run events.",
+  "homepage": "https://www.comethru.app/connectors",
+  "docs": "https://www.comethru.app/connectors",
+  "auth": "oauth",
+  "mcpServers": {
+    "comethru": {
+      "url": "https://www.comethru.app/api/mcp"
+    }
+  }
+}

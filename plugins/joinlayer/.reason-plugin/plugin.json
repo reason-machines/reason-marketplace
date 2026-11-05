@@ -1,0 +1,22 @@
+{
+  "name": "joinlayer",
+  "displayName": "JoinLayer",
+  "description": "Build and run data pipelines.",
+  "homepage": "https://joinlayer.app",
+  "docs": "https://joinlayer.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "joinlayer": {
+      "url": "https://mcp.joinlayer.app/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "joinlayer-pipelines",
+      "description": "Create, validate, preview, run, monitor, and diagnose JoinLayer data pipelines through the JoinLayer MCP server. Use for PostgreSQL/MySQL replication, Kafka JSON or Avro streams and Schema Registry, ClickHouse finite sources and append targets, BigQuery targets, mappings, filters, calculated fields,",
+      "source": "joinlayer/agent-toolkit#36add21c57cab279e4f3cb25b9a84ca052f22e25",
+      "skill": "joinlayer-pipelines",
+      "url": "https://github.com/joinlayer/agent-toolkit/tree/36add21c57cab279e4f3cb25b9a84ca052f22e25/plugins/joinlayer/skills/joinlayer-pipelines"
+    }
+  ]
+}

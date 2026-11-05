@@ -1,0 +1,13 @@
+{
+  "name": "cape-partners",
+  "displayName": "Cape Partners",
+  "description": "Find M&A targets and buyers.",
+  "homepage": "https://www.capepartners.fr/",
+  "docs": "https://www.capepartners.fr/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "cape-partners": {
+      "url": "https://www.capepartners.fr/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ledger-botje-exact-online",
+  "displayName": "Ledger Botje - Exact Online",
+  "description": "Connect Exact Online to AI.",
+  "homepage": "https://ledgerbotje.nl/",
+  "docs": "https://ledgerbotje.nl/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ledger-botje-exact-online": {
+      "url": "https://ledgerbotje.nl/app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "impala",
+  "displayName": "Impala",
+  "description": "Nonprofit & Foundation Data.",
+  "homepage": "https://impala.digital/",
+  "docs": "https://impala.digital/",
+  "auth": "oauth",
+  "mcpServers": {
+    "impala": {
+      "url": "https://mcp.impala.digital/mcp"
+    }
+  }
+}

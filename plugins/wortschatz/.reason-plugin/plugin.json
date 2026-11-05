@@ -1,0 +1,13 @@
+{
+  "name": "wortschatz",
+  "displayName": "Wortschatz",
+  "description": "Create flashcard decks.",
+  "homepage": "https://getlingvo.com/",
+  "docs": "https://getlingvo.com/",
+  "auth": "none",
+  "mcpServers": {
+    "wortschatz": {
+      "url": "https://getlingvo.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "glomiq-legal-docs",
+  "displayName": "Glomiq Legal Documents",
+  "description": "Automate legal contracts.",
+  "homepage": "https://www.glomiq.com",
+  "docs": "https://www.glomiq.com",
+  "auth": "none",
+  "mcpServers": {
+    "glomiq-legal-docs": {
+      "url": "https://glomiq.com/api/mcp"
+    }
+  }
+}

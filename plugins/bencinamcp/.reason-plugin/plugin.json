@@ -1,0 +1,13 @@
+{
+  "name": "bencinamcp",
+  "displayName": "BencinaMCP",
+  "description": "Chile fuel monitor.",
+  "homepage": "https://bencinachilemcp.kemenylabs.com/",
+  "docs": "https://bencinachilemcp.kemenylabs.com/",
+  "auth": "none",
+  "mcpServers": {
+    "bencinamcp": {
+      "url": "https://bencinachilemcp.kemenylabs.com/mcp"
+    }
+  }
+}

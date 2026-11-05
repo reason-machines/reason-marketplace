@@ -1,0 +1,13 @@
+{
+  "name": "shareout",
+  "displayName": "Shareout",
+  "description": "Share what your agent makes.",
+  "homepage": "https://shareout.io",
+  "docs": "https://shareout.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "shareout": {
+      "url": "https://shareout.io/mcp"
+    }
+  }
+}

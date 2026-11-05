@@ -1,0 +1,13 @@
+{
+  "name": "trulata",
+  "displayName": "TruLata",
+  "description": "Your leads, in Reason.",
+  "homepage": "https://trulata.com/product/api",
+  "docs": "https://trulata.com/product/api",
+  "auth": "oauth",
+  "mcpServers": {
+    "trulata": {
+      "url": "https://api.trulata.com/mcp"
+    }
+  }
+}

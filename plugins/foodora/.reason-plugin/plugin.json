@@ -1,0 +1,13 @@
+{
+  "name": "foodora",
+  "displayName": "foodora",
+  "description": "Find restaurants and menus.",
+  "homepage": "https://www.foodora.com/",
+  "docs": "https://www.foodora.com/",
+  "auth": "none",
+  "mcpServers": {
+    "foodora": {
+      "url": "https://mcp.foodora.com/mcp"
+    }
+  }
+}

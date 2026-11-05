@@ -1,0 +1,13 @@
+{
+  "name": "werkcv",
+  "displayName": "WerkCV",
+  "description": "CV feedback for Dutch jobs.",
+  "homepage": "https://werkcv.nl/en/ai-assistant",
+  "docs": "https://werkcv.nl/en/ai-assistant",
+  "auth": "none",
+  "mcpServers": {
+    "werkcv": {
+      "url": "https://werkcv.nl/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fold",
+  "displayName": "Fold",
+  "description": "Understand your money.",
+  "homepage": "https://fold.money",
+  "docs": "https://fold.money",
+  "auth": "oauth",
+  "mcpServers": {
+    "fold": {
+      "url": "https://mcp.fold.money/mcp"
+    }
+  }
+}

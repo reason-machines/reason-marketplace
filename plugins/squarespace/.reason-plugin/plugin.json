@@ -1,0 +1,13 @@
+{
+  "name": "squarespace",
+  "displayName": "Squarespace",
+  "description": "Find domains, run your store.",
+  "homepage": "https://www.squarespace.com/",
+  "docs": "https://developers.squarespace.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "squarespace": {
+      "url": "https://mcp.squarespace.com/mcp"
+    }
+  }
+}

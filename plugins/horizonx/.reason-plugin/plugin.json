@@ -1,0 +1,13 @@
+{
+  "name": "horizonx",
+  "displayName": "HorizonX — Premium UI Library",
+  "description": "Animated UI for your code.",
+  "homepage": "https://horizonx.so",
+  "docs": "https://horizonx.so/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "horizonx": {
+      "url": "https://horizonx.so/api/mcp"
+    }
+  }
+}

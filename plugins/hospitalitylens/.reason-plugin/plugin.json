@@ -1,0 +1,13 @@
+{
+  "name": "hospitalitylens",
+  "displayName": "HospitalityLens",
+  "description": "Professional property photos.",
+  "homepage": "https://hospitalitylens.com",
+  "docs": "https://hospitalitylens.com",
+  "auth": "none",
+  "mcpServers": {
+    "hospitalitylens": {
+      "url": "https://mcp.hospitalitylens.com/mcp"
+    }
+  }
+}

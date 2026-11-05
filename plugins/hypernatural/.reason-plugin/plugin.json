@@ -1,0 +1,13 @@
+{
+  "name": "hypernatural",
+  "displayName": "Hypernatural",
+  "description": "Create and edit AI videos.",
+  "homepage": "https://hypernatural.ai",
+  "docs": "https://hypernatural.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "hypernatural": {
+      "url": "https://api.hypernatural.ai/mcp"
+    }
+  }
+}

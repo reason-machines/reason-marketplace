@@ -1,0 +1,13 @@
+{
+  "name": "playlistable",
+  "displayName": "Playlistable",
+  "description": "AI playlists, Spotify/Apple.",
+  "homepage": "https://playlistable.io",
+  "docs": "https://playlistable.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "playlistable": {
+      "url": "https://mcp.playlistable.io/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "zonefoundry-for-sonos",
+  "displayName": "ZoneFoundry for Sonos",
+  "description": "Control your Sonos speakers.",
+  "homepage": "https://zonefoundry.dev/guides/ai-agent-control/",
+  "docs": "https://zonefoundry.dev/guides/ai-agent-control/",
+  "auth": "oauth",
+  "mcpServers": {
+    "zonefoundry-for-sonos": {
+      "url": "https://relay.zonefoundry.dev/mcp"
+    }
+  }
+}

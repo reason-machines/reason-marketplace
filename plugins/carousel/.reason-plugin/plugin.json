@@ -1,0 +1,13 @@
+{
+  "name": "carousel",
+  "displayName": "Carousel",
+  "description": "Screen and verify applicants.",
+  "homepage": "https://oncarousel.com",
+  "docs": "https://oncarousel.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "carousel": {
+      "url": "https://mcp.oncarousel.com/mcp"
+    }
+  }
+}

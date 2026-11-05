@@ -1,0 +1,13 @@
+{
+  "name": "patlytics",
+  "displayName": "Patlytics",
+  "description": "Search patents and literature.",
+  "homepage": "https://www.patlytics.ai",
+  "docs": "https://www.patlytics.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "patlytics": {
+      "url": "https://mcp.patlytics.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "flashloop",
+  "displayName": "Flashloop",
+  "description": "Create AI videos and images.",
+  "homepage": "https://www.flashloop.ai",
+  "docs": "https://www.flashloop.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "flashloop": {
+      "url": "https://mcp.flashloop.ai/mcp"
+    }
+  }
+}

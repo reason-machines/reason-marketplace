@@ -1,0 +1,13 @@
+{
+  "name": "simbye",
+  "displayName": "Simbye",
+  "description": "Find travel eSIM plans.",
+  "homepage": "https://simbye.com",
+  "docs": "https://simbye.com",
+  "auth": "none",
+  "mcpServers": {
+    "simbye": {
+      "url": "https://mcp.simbye.com/mcp"
+    }
+  }
+}

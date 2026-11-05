@@ -1,0 +1,13 @@
+{
+  "name": "fooundit-lost-and-found",
+  "displayName": "Fooundit  Lost and Found",
+  "description": "Search missing and found pets.",
+  "homepage": "https://fooundit.com",
+  "docs": "https://fooundit.com",
+  "auth": "none",
+  "mcpServers": {
+    "fooundit-lost-and-found": {
+      "url": "https://fooundit.com/mcp"
+    }
+  }
+}

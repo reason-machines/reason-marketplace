@@ -1,0 +1,13 @@
+{
+  "name": "blazehive",
+  "displayName": "BlazeHive",
+  "description": "Plan, write and publish SEO.",
+  "homepage": "https://www.blazehive.io",
+  "docs": "https://www.blazehive.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "blazehive": {
+      "url": "https://mcp.blazehive.io/mcp"
+    }
+  }
+}

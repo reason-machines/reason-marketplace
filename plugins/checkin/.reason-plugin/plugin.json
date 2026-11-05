@@ -1,0 +1,13 @@
+{
+  "name": "checkin",
+  "displayName": "Checkin",
+  "description": "Analyze event performance.",
+  "homepage": "https://www.checkinevent.com/",
+  "docs": "https://www.checkinevent.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "checkin": {
+      "url": "https://mcp.checkinevent.com/mcp"
+    }
+  }
+}

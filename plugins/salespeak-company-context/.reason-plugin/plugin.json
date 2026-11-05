@@ -1,0 +1,13 @@
+{
+  "name": "salespeak-company-context",
+  "displayName": "Salespeak Company Context",
+  "description": "Your company's own answers.",
+  "homepage": "https://salespeak.ai/gtm-context-layer/",
+  "docs": "https://salespeak.ai/gtm-context-layer/",
+  "auth": "none",
+  "mcpServers": {
+    "salespeak-company-context": {
+      "url": "https://salespeak.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "date-calculator",
+  "displayName": "Zovo Date Calculator",
+  "description": "Days between dates & workdays.",
+  "homepage": "https://date-calculator.zovo.one",
+  "docs": "https://date-calculator.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "date-calculator": {
+      "url": "https://date-calculator.zovo.one/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "blink",
+  "displayName": "Blink",
+  "description": "Build websites and mobile apps.",
+  "homepage": "https://blink.new",
+  "docs": "https://blink.new",
+  "auth": "oauth",
+  "mcpServers": {
+    "blink": {
+      "url": "https://blink.new/mcp"
+    }
+  }
+}

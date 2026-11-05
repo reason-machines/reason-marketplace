@@ -1,0 +1,13 @@
+{
+  "name": "affil",
+  "displayName": "Affil",
+  "description": "Review affiliate content.",
+  "homepage": "https://www.affil.ai",
+  "docs": "https://www.affil.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "affil": {
+      "url": "https://mcp.affil.ai/mcp"
+    }
+  }
+}

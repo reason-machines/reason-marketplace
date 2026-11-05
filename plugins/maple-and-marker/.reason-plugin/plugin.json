@@ -1,0 +1,13 @@
+{
+  "name": "maple-and-marker",
+  "displayName": "Maple & Marker",
+  "description": "Turn images into wall art.",
+  "homepage": "https://maplemarker.com",
+  "docs": "https://maplemarker.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "maple-and-marker": {
+      "url": "https://maplemarker.com/mcp"
+    }
+  }
+}

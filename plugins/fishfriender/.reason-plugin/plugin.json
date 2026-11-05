@@ -1,0 +1,13 @@
+{
+  "name": "fishfriender",
+  "displayName": "FishFriender",
+  "description": "Your fishing companion.",
+  "homepage": "https://www.fishfriender.com",
+  "docs": "https://fishfriender.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "fishfriender": {
+      "url": "https://www.fishfriender.com/mcp"
+    }
+  }
+}

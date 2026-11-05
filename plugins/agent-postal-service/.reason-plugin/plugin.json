@@ -1,0 +1,13 @@
+{
+  "name": "agent-postal-service",
+  "displayName": "Agent Postal Service",
+  "description": "Turn PDFs into physical mail.",
+  "homepage": "https://www.agentpostalservice.com/",
+  "docs": "https://www.agentpostalservice.com/",
+  "auth": "none",
+  "mcpServers": {
+    "agent-postal-service": {
+      "url": "https://www.agentpostalservice.com/api/mcp"
+    }
+  }
+}

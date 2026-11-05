@@ -1,0 +1,13 @@
+{
+  "name": "coros",
+  "displayName": "COROS",
+  "description": "Know your training. Plan ahead.",
+  "homepage": "https://coros.com/",
+  "docs": "https://coros.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "coros": {
+      "url": "https://mcp.coros.com/mcp"
+    }
+  }
+}

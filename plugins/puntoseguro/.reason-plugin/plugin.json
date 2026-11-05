@@ -1,0 +1,13 @@
+{
+  "name": "puntoseguro",
+  "displayName": "PuntoSeguro",
+  "description": "Seguros de vida y salud.",
+  "homepage": "https://www.puntoseguro.com/",
+  "docs": "https://www.puntoseguro.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "puntoseguro": {
+      "url": "https://app.puntoseguro.com/mcp"
+    }
+  }
+}

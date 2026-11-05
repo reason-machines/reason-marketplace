@@ -1,0 +1,13 @@
+{
+  "name": "helium-10",
+  "displayName": "Helium 10",
+  "description": "Access your Helium 10 data.",
+  "homepage": "https://www.helium10.com/",
+  "docs": "https://www.helium10.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "helium-10": {
+      "url": "https://mcp.helium10.com/mcp"
+    }
+  }
+}

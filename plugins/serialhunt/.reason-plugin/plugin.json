@@ -1,0 +1,13 @@
+{
+  "name": "serialhunt",
+  "displayName": "SerialHunt",
+  "description": "Check US bill serial numbers.",
+  "homepage": "https://bigballi.com/SerialHunt/lookup",
+  "docs": "https://bigballi.com/SerialHunt/connect",
+  "auth": "none",
+  "mcpServers": {
+    "serialhunt": {
+      "url": "https://bigballi.com/SerialHunt/mcp"
+    }
+  }
+}

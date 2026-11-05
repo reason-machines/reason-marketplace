@@ -1,0 +1,13 @@
+{
+  "name": "plymove",
+  "displayName": "PlyMove",
+  "description": "Elo-aware chess storyboards.",
+  "homepage": "https://plymove.com",
+  "docs": "https://plymove.com",
+  "auth": "none",
+  "mcpServers": {
+    "plymove": {
+      "url": "https://mcp.plymove.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "printfriendly",
+  "displayName": "PrintFriendly",
+  "description": "Print and save clean web pages.",
+  "homepage": "https://www.printfriendly.com",
+  "docs": "https://printfriendly.com/help/api-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "printfriendly": {
+      "url": "https://www.printfriendly.com/v2/mcp"
+    }
+  }
+}

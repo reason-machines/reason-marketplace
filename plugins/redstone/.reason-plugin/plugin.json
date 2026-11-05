@@ -1,0 +1,13 @@
+{
+  "name": "redstone",
+  "displayName": "Redstone",
+  "description": "Stock & ETF risk and backtests.",
+  "homepage": "https://redstonemarkets.com",
+  "docs": "https://redstonemarkets.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "redstone": {
+      "url": "https://redstonemarkets.com/api/mcp"
+    }
+  }
+}

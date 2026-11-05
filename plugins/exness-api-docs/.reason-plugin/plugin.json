@@ -1,0 +1,13 @@
+{
+  "name": "exness-api-docs",
+  "displayName": "Exness",
+  "description": "Exness API documentation.",
+  "homepage": "https://www.exness-api.com/",
+  "docs": "https://www.exness-api.com/",
+  "auth": "none",
+  "mcpServers": {
+    "exness-api-docs": {
+      "url": "https://api.exness.com/mcp"
+    }
+  }
+}

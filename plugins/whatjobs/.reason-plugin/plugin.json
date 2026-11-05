@@ -1,0 +1,13 @@
+{
+  "name": "whatjobs",
+  "displayName": "Whatjobs",
+  "description": "Search jobs near you.",
+  "homepage": "https://www.whatjobs.com/",
+  "docs": "https://www.whatjobs.com/",
+  "auth": "none",
+  "mcpServers": {
+    "whatjobs": {
+      "url": "https://mcp.whatjobs.com/mcp"
+    }
+  }
+}

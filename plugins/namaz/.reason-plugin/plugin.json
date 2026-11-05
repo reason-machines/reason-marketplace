@@ -1,0 +1,13 @@
+{
+  "name": "namaz",
+  "displayName": "Namaz: Prayer Times",
+  "description": "Daily Muslim prayer times.",
+  "homepage": "https://namaz.io",
+  "docs": "https://namaz.io",
+  "auth": "none",
+  "mcpServers": {
+    "namaz": {
+      "url": "https://mcp.namaz.io/"
+    }
+  }
+}

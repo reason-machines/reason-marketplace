@@ -1,0 +1,13 @@
+{
+  "name": "badger-maps-advanced",
+  "displayName": "Badger Maps (Advanced)",
+  "description": "Build optimized routes.",
+  "homepage": "https://www.badgermapping.com",
+  "docs": "https://www.badgermapping.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "badger-maps-advanced": {
+      "url": "https://mcp.badgermapping.com/mcp"
+    }
+  }
+}

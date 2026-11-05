@@ -1,0 +1,13 @@
+{
+  "name": "corpusiq",
+  "displayName": "CorpusIQ",
+  "description": "All your business data in chat.",
+  "homepage": "https://www.corpusiq.io",
+  "docs": "https://www.corpusiq.io/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "corpusiq": {
+      "url": "https://mcp2.corpusiq.io/mcp"
+    }
+  }
+}

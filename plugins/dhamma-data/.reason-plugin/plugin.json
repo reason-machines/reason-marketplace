@@ -1,0 +1,13 @@
+{
+  "name": "dhamma-data",
+  "displayName": "Dhamma Data",
+  "description": "Research Buddhist texts.",
+  "homepage": "https://dhamma.fly.dev/",
+  "docs": "https://dhamma.fly.dev/",
+  "auth": "none",
+  "mcpServers": {
+    "dhamma-data": {
+      "url": "https://dhamma.fly.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "further",
+  "displayName": "Further",
+  "description": "The future of fund admin.",
+  "homepage": "https://www.joinfurther.com",
+  "docs": "https://tedix.dev/apps/further/",
+  "auth": "oauth",
+  "mcpServers": {
+    "further": {
+      "url": "https://api.joinfurther.com/mcp"
+    }
+  }
+}

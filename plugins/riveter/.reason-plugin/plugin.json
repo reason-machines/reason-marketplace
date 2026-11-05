@@ -1,0 +1,13 @@
+{
+  "name": "riveter",
+  "displayName": "Riveter",
+  "description": "Build structured web datasets.",
+  "homepage": "https://www.riveterhq.com/",
+  "docs": "https://www.riveterhq.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "riveter": {
+      "url": "https://mcp.riveterhq.com/mcp"
+    }
+  }
+}

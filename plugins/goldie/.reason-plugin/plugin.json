@@ -1,0 +1,13 @@
+{
+  "name": "goldie",
+  "displayName": "Goldie",
+  "description": "Print-on-demand design help.",
+  "homepage": "https://goldie-app-sigma.vercel.app",
+  "docs": "https://goldie-app-sigma.vercel.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "goldie": {
+      "url": "https://goldie-app-sigma.vercel.app/api/mcp"
+    }
+  }
+}

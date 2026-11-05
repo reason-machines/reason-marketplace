@@ -1,0 +1,13 @@
+{
+  "name": "find-my-money",
+  "displayName": "Find My Money",
+  "description": "Find unclaimed money.",
+  "homepage": "https://findmymoney.pages.dev",
+  "docs": "https://findmymoney.pages.dev/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "find-my-money": {
+      "url": "https://goodturn-mcp.pages.dev/findmymoney/mcp"
+    }
+  }
+}

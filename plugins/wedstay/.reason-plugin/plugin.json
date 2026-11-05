@@ -1,0 +1,13 @@
+{
+  "name": "wedstay",
+  "displayName": "WedStay",
+  "description": "Wedding venues you can stay at.",
+  "homepage": "https://www.thewedstay.com",
+  "docs": "https://www.thewedstay.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "wedstay": {
+      "url": "https://mcp.wedstay.com/api/ai/mcp"
+    }
+  }
+}

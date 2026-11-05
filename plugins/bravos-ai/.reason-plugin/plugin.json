@@ -1,0 +1,13 @@
+{
+  "name": "bravos-ai",
+  "displayName": "Bravos AI",
+  "description": "Train and manage your chatbot.",
+  "homepage": "https://bravos-ai.com/en",
+  "docs": "https://bravos-ai.com/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "bravos-ai": {
+      "url": "https://mcp.bravos-ai.com/mcp"
+    }
+  }
+}

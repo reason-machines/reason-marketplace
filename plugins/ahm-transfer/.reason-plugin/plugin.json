@@ -1,0 +1,13 @@
+{
+  "name": "ahm-transfer",
+  "displayName": "AHM Transfer",
+  "description": "Airport transfers in Alanya.",
+  "homepage": "https://ahmtransfer.com/en/",
+  "docs": "https://ahmtransfer.com/en/",
+  "auth": "none",
+  "mcpServers": {
+    "ahm-transfer": {
+      "url": "https://ahmtransfer.com/mcp"
+    }
+  }
+}

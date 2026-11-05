@@ -1,0 +1,13 @@
+{
+  "name": "farmooly",
+  "displayName": "Farmooly",
+  "description": "Find local food & markets.",
+  "homepage": "https://farmooly.com",
+  "docs": "https://farmooly.com",
+  "auth": "none",
+  "mcpServers": {
+    "farmooly": {
+      "url": "https://farmooly.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tally-markets",
+  "displayName": "Tally Markets",
+  "description": "Your AI trading risk officer.",
+  "homepage": "https://tally.markets",
+  "docs": "https://tally.markets/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "tally-markets": {
+      "url": "https://tally.markets/api/mcp"
+    }
+  }
+}

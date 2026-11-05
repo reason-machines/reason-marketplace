@@ -1,0 +1,13 @@
+{
+  "name": "toise",
+  "displayName": "TOISE",
+  "description": "Land, owners & zoning, France.",
+  "homepage": "https://toiseai.com",
+  "docs": "https://toiseai.com",
+  "auth": "none",
+  "mcpServers": {
+    "toise": {
+      "url": "https://mcp.toiseai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "writrex-seo",
+  "displayName": "Writrex SEO",
+  "description": "SEO audits for websites.",
+  "homepage": "https://seo.writrex.com",
+  "docs": "https://seo.writrex.com",
+  "auth": "none",
+  "mcpServers": {
+    "writrex-seo": {
+      "url": "https://seo.writrex.com/mcp"
+    }
+  }
+}

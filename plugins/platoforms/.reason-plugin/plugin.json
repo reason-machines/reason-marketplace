@@ -1,0 +1,13 @@
+{
+  "name": "platoforms",
+  "displayName": "PlatoForms",
+  "description": "Find forms and submissions.",
+  "homepage": "https://www.platoforms.com/mcp/",
+  "docs": "https://www.platoforms.com/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "platoforms": {
+      "url": "https://mcp.platoforms.com/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "somantic",
+  "displayName": "Somantic",
+  "description": "German real estate search.",
+  "homepage": "https://www.somantic.net/developers",
+  "docs": "https://www.somantic.net/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "somantic": {
+      "url": "https://www.somantic.net/api/mcp/"
+    }
+  }
+}

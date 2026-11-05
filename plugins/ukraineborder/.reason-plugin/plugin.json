@@ -1,0 +1,13 @@
+{
+  "name": "ukraineborder",
+  "displayName": "UkraineBorder",
+  "description": "Ukraine travel & insurance.",
+  "homepage": "https://www.ukraineborder.com",
+  "docs": "https://ukraineborder.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "ukraineborder": {
+      "url": "https://ukraineborder.com/api/mcp"
+    }
+  }
+}

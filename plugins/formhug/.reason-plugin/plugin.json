@@ -1,0 +1,13 @@
+{
+  "name": "formhug",
+  "displayName": "FormHug",
+  "description": "Create forms, surveys, quizzes.",
+  "homepage": "https://formhug.ai",
+  "docs": "https://formhug.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "formhug": {
+      "url": "https://formhug.ai/mcp"
+    }
+  }
+}

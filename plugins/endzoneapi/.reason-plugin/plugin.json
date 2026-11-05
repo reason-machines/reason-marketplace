@@ -1,0 +1,13 @@
+{
+  "name": "endzoneapi",
+  "displayName": "EndzoneAPI",
+  "description": "NFL football data and stats.",
+  "homepage": "https://endzoneapi.com",
+  "docs": "https://endzoneapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "endzoneapi": {
+      "url": "https://mcp.endzoneapi.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "previbe",
+  "displayName": "PreVibe",
+  "description": "Validate your SaaS idea.",
+  "homepage": "https://previbe.io",
+  "docs": "https://previbe.io/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "previbe": {
+      "url": "https://previbe.io/api/mcp"
+    }
+  }
+}

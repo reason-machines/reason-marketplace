@@ -1,0 +1,13 @@
+{
+  "name": "graphchinese",
+  "displayName": "GraphChinese",
+  "description": "Learn Chinese by conversation.",
+  "homepage": "https://graphchinese.com/",
+  "docs": "https://graphchinese.com/",
+  "auth": "none",
+  "mcpServers": {
+    "graphchinese": {
+      "url": "https://graphchinese.com/mcp"
+    }
+  }
+}

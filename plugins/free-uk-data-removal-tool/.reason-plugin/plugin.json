@@ -1,0 +1,13 @@
+{
+  "name": "free-uk-data-removal-tool",
+  "displayName": "UK Data Removal Tool",
+  "description": "Get off UK data broker lists.",
+  "homepage": "https://freeukdataremovaltool.co.uk",
+  "docs": "https://freeukdataremovaltool.co.uk",
+  "auth": "none",
+  "mcpServers": {
+    "free-uk-data-removal-tool": {
+      "url": "https://freeukdataremovaltool.co.uk/mcp"
+    }
+  }
+}

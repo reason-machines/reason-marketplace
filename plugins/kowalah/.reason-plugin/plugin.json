@@ -1,0 +1,13 @@
+{
+  "name": "kowalah",
+  "displayName": "Kowalah",
+  "description": "Your AI operating model.",
+  "homepage": "https://www.kowalah.com",
+  "docs": "https://kowalah.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "kowalah": {
+      "url": "https://mcp.kowalah.com/api/mcp"
+    }
+  }
+}

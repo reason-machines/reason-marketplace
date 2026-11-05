@@ -1,0 +1,13 @@
+{
+  "name": "puzzlemaker-pro",
+  "displayName": "PuzzleMaker Pro",
+  "description": "Create classroom puzzles.",
+  "homepage": "https://puzzlemakerpro.app/use-with-ai",
+  "docs": "https://puzzlemakerpro.app/use-with-ai",
+  "auth": "none",
+  "mcpServers": {
+    "puzzlemaker-pro": {
+      "url": "https://puzzlemakerpro.app/mcp"
+    }
+  }
+}

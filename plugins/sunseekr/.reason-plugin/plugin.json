@@ -1,0 +1,13 @@
+{
+  "name": "sunseekr",
+  "displayName": "SunSeekr",
+  "description": "Sunny terraces, hour by hour.",
+  "homepage": "https://www.sunseekr.com",
+  "docs": "https://www.sunseekr.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sunseekr": {
+      "url": "https://mcp.sunseekr.com/mcp"
+    }
+  }
+}

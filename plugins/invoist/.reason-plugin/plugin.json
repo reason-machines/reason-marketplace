@@ -1,0 +1,13 @@
+{
+  "name": "invoist",
+  "displayName": "Invoist",
+  "description": "Draft invoices from your work.",
+  "homepage": "https://invoist.app",
+  "docs": "https://invoist.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "invoist": {
+      "url": "https://invoist.app/mcp"
+    }
+  }
+}

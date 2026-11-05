@@ -1,0 +1,13 @@
+{
+  "name": "trainedby",
+  "displayName": "TRAINEDBY",
+  "description": "Coach from verified records.",
+  "homepage": "https://www.trainedby.fit",
+  "docs": "https://www.trainedby.fit",
+  "auth": "oauth",
+  "mcpServers": {
+    "trainedby": {
+      "url": "https://mcp.trainedby.fit/mcp"
+    }
+  }
+}

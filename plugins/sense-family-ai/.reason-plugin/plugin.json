@@ -1,0 +1,13 @@
+{
+  "name": "sense-family-ai",
+  "displayName": "Sense Family AI",
+  "description": "Family calendar, lists, chores.",
+  "homepage": "https://getsense.ai",
+  "docs": "https://api.getsense.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "sense-family-ai": {
+      "url": "https://api.getsense.ai/mcp"
+    }
+  }
+}

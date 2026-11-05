@@ -1,0 +1,13 @@
+{
+  "name": "juudd",
+  "displayName": "juudd",
+  "description": "Put your AI project online.",
+  "homepage": "https://juudd.com",
+  "docs": "https://juudd.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "juudd": {
+      "url": "https://mcp.juudd.com/mcp"
+    }
+  }
+}

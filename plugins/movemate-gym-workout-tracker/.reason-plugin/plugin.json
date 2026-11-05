@@ -1,0 +1,13 @@
+{
+  "name": "movemate-gym-workout-tracker",
+  "displayName": "MoveMate: Gym Workout Tracker",
+  "description": "Schedule workouts, track stats.",
+  "homepage": "https://movemate.app/chatgpt",
+  "docs": "https://movemate.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "movemate-gym-workout-tracker": {
+      "url": "https://api.movemate.app/mcp"
+    }
+  }
+}

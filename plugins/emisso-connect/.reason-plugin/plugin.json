@@ -1,0 +1,13 @@
+{
+  "name": "emisso-connect",
+  "displayName": "Emisso Connect",
+  "description": "Consulta SII y bancos de Chile.",
+  "homepage": "https://connect.emisso.ai",
+  "docs": "https://connect.emisso.ai/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "emisso-connect": {
+      "url": "https://connect.emisso.ai/mcp"
+    }
+  }
+}

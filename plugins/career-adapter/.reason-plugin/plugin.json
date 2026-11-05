@@ -1,0 +1,13 @@
+{
+  "name": "career-adapter",
+  "displayName": "Career Adapter",
+  "description": "Tailor your resume to any job.",
+  "homepage": "https://www.careeradapter.ai/",
+  "docs": "https://www.careeradapter.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "career-adapter": {
+      "url": "https://mcp.careeradapter.ai/mcp"
+    }
+  }
+}

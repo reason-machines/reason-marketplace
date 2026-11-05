@@ -1,0 +1,13 @@
+{
+  "name": "boltwright",
+  "displayName": "BoltWright",
+  "description": "Your commercial HVAC shop.",
+  "homepage": "https://boltwright.com/mcp",
+  "docs": "https://boltwright.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "boltwright": {
+      "url": "https://app.boltwright.com/mcp"
+    }
+  }
+}

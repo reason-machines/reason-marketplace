@@ -1,0 +1,13 @@
+{
+  "name": "homepins",
+  "displayName": "HomePins",
+  "description": "Search Bangalore apartments.",
+  "homepage": "https://www.homepins.in",
+  "docs": "https://homepins.in/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "homepins": {
+      "url": "https://propcontext-production.up.railway.app/mcp"
+    }
+  }
+}

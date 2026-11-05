@@ -1,0 +1,13 @@
+{
+  "name": "mozio",
+  "displayName": "Mozio",
+  "description": "Airport transfers worldwide.",
+  "homepage": "https://mozio.com",
+  "docs": "https://mozio.com",
+  "auth": "none",
+  "mcpServers": {
+    "mozio": {
+      "url": "https://mcp.mozio.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "factograph",
+  "displayName": "FactoGraph",
+  "description": "Approved facts, cited answers.",
+  "homepage": "https://www.factograph.app",
+  "docs": "https://www.factograph.app/for-ai-agents.html",
+  "auth": "none",
+  "mcpServers": {
+    "factograph": {
+      "url": "https://api.factograph.app/api/mcp"
+    }
+  }
+}

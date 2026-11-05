@@ -1,0 +1,13 @@
+{
+  "name": "directoryz",
+  "displayName": "Directoryz",
+  "description": "Browse directory listings.",
+  "homepage": "https://directoryz.app",
+  "docs": "https://directoryz.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "directoryz": {
+      "url": "https://mcp.directoryz.app/mcp"
+    }
+  }
+}

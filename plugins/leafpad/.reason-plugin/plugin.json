@@ -1,0 +1,13 @@
+{
+  "name": "leafpad",
+  "displayName": "Leafpad",
+  "description": "Review pages losing traffic.",
+  "homepage": "https://leafpad.io",
+  "docs": "https://leafpad.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "leafpad": {
+      "url": "https://leafpad.io/mcp"
+    }
+  }
+}

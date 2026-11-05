@@ -1,0 +1,13 @@
+{
+  "name": "insitu-sales",
+  "displayName": "inSitu Sales",
+  "description": "Run wholesale sales operations.",
+  "homepage": "https://www.insitusales.com/",
+  "docs": "https://www.insitusales.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "insitu-sales": {
+      "url": "https://api.insitusales.com/mcp"
+    }
+  }
+}

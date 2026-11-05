@@ -1,0 +1,13 @@
+{
+  "name": "world-airfares",
+  "displayName": "World Airfares",
+  "description": "Search flights, tap to book.",
+  "homepage": "https://www.worldairfares.com",
+  "docs": "https://www.worldairfares.com",
+  "auth": "none",
+  "mcpServers": {
+    "world-airfares": {
+      "url": "https://mcp.worldairfares.com/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wander",
+  "displayName": "Wander",
+  "description": "Your notes, in conversation.",
+  "homepage": "https://wander.md",
+  "docs": "https://wander.md",
+  "auth": "oauth",
+  "mcpServers": {
+    "wander": {
+      "url": "https://mcp.wander.md/mcp"
+    }
+  }
+}

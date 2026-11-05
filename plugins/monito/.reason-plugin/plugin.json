@@ -1,0 +1,13 @@
+{
+  "name": "monito",
+  "displayName": "Monito",
+  "description": "Compare global money transfers.",
+  "homepage": "https://www.monito.com",
+  "docs": "https://tedix.dev/apps/monito/",
+  "auth": "none",
+  "mcpServers": {
+    "monito": {
+      "url": "https://ai.monito.com/mcp"
+    }
+  }
+}

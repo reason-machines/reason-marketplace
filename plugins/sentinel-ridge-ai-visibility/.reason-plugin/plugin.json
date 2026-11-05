@@ -1,0 +1,13 @@
+{
+  "name": "sentinel-ridge-ai-visibility",
+  "displayName": "Sentinel Ridge AI Visibility",
+  "description": "AI visibility website audits.",
+  "homepage": "https://sentinelridgesoftware.com/",
+  "docs": "https://sentinelridgesoftware.com/",
+  "auth": "none",
+  "mcpServers": {
+    "sentinel-ridge-ai-visibility": {
+      "url": "https://mcp.sentinelridgesoftware.com/mcp"
+    }
+  }
+}

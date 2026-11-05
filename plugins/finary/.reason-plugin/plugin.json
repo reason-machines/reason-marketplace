@@ -1,0 +1,13 @@
+{
+  "name": "finary",
+  "displayName": "Finary",
+  "description": "Understand your finances.",
+  "homepage": "https://finary.com",
+  "docs": "https://tedix.dev/apps/finary/",
+  "auth": "oauth",
+  "mcpServers": {
+    "finary": {
+      "url": "https://public-api.finary.com/mcp"
+    }
+  }
+}

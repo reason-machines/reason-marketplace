@@ -1,0 +1,13 @@
+{
+  "name": "indexgrid-commercial-intent",
+  "displayName": "IndexGrid Commercial Intent",
+  "description": "Enquire with cited businesses.",
+  "homepage": "https://indexgrid.io/",
+  "docs": "https://indexgrid.io/",
+  "auth": "none",
+  "mcpServers": {
+    "indexgrid-commercial-intent": {
+      "url": "https://mcp.indexgrid.io/mcp"
+    }
+  }
+}

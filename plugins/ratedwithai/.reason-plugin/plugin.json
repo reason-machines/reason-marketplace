@@ -1,0 +1,13 @@
+{
+  "name": "ratedwithai",
+  "displayName": "RatedWithAI",
+  "description": "Check websites for WCAG issues.",
+  "homepage": "https://ratedwithai.com/",
+  "docs": "https://ratedwithai.com/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "ratedwithai": {
+      "url": "https://ratedwithai.com/api/mcp"
+    }
+  }
+}

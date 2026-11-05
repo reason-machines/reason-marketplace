@@ -1,0 +1,13 @@
+{
+  "name": "twistly-ai-presentation-maker",
+  "displayName": "Twistly AI Presentation Maker",
+  "description": "Create editable slide decks.",
+  "homepage": "https://twistly.ai/",
+  "docs": "https://twistly.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "twistly-ai-presentation-maker": {
+      "url": "https://mcp.twistly.ai/mcp"
+    }
+  }
+}

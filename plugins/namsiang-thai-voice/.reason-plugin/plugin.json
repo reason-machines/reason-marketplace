@@ -1,0 +1,13 @@
+{
+  "name": "namsiang-thai-voice",
+  "displayName": "Namsiang Thai Voice",
+  "description": "Direct Thai voice performances.",
+  "homepage": "https://tts.popnx.com/",
+  "docs": "https://tts.popnx.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "namsiang-thai-voice": {
+      "url": "https://tts.popnx.com/api/mcp"
+    }
+  }
+}

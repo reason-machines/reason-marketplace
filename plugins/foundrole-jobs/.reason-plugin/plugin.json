@@ -1,0 +1,13 @@
+{
+  "name": "foundrole-jobs",
+  "displayName": "FoundRole Jobs",
+  "description": "Jobs, remote, resume & salary.",
+  "homepage": "https://www.foundrole.com/ai-search-mcp",
+  "docs": "https://foundrole.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "foundrole-jobs": {
+      "url": "https://www.foundrole.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "contexter",
+  "displayName": "Contexter",
+  "description": "Memory for any AI & Telegram.",
+  "homepage": "https://contexterai.com",
+  "docs": "https://contexterai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "contexter": {
+      "url": "https://contexterai.com/mcp"
+    }
+  }
+}

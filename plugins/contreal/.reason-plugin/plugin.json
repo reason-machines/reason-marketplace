@@ -1,0 +1,13 @@
+{
+  "name": "contreal",
+  "displayName": "Contreal",
+  "description": "Tasks, clients and projects.",
+  "homepage": "https://contreal.io",
+  "docs": "https://contreal.io/integrations/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "contreal": {
+      "url": "https://api.contreal.io/mcp"
+    }
+  }
+}

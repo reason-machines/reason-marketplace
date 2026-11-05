@@ -1,0 +1,13 @@
+{
+  "name": "travomint",
+  "displayName": "Travomint",
+  "description": "Cheap Flight Ticket.",
+  "homepage": "https://www.travomint.com/",
+  "docs": "https://www.travomint.com/",
+  "auth": "none",
+  "mcpServers": {
+    "travomint": {
+      "url": "https://mcp.travomint.com/mcp"
+    }
+  }
+}

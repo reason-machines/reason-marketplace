@@ -1,0 +1,13 @@
+{
+  "name": "bidwell-health",
+  "displayName": "Bidwell Health",
+  "description": "Understand online care options.",
+  "homepage": "https://tools.bidwellhealth.com/chatgpt",
+  "docs": "https://bidwellhealth.com/ai-connector",
+  "auth": "none",
+  "mcpServers": {
+    "bidwell-health": {
+      "url": "https://tools.bidwellhealth.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "handled-locator",
+  "displayName": "Handled Locator",
+  "description": "Manage your store locator.",
+  "homepage": "https://locator.handledlocal.com",
+  "docs": "https://locator.handledlocal.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "handled-locator": {
+      "url": "https://app.handledlocal.com/api/mcp"
+    }
+  }
+}

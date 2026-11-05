@@ -1,0 +1,13 @@
+{
+  "name": "perfume-picks",
+  "displayName": "Perfume Picks",
+  "description": "Fragrance dupes and picks.",
+  "homepage": "https://perfumepicks.app",
+  "docs": "https://perfumepicks.app",
+  "auth": "none",
+  "mcpServers": {
+    "perfume-picks": {
+      "url": "https://mcp.perfumepicks.app/mcp"
+    }
+  }
+}

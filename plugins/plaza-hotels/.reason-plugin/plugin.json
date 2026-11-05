@@ -1,0 +1,13 @@
+{
+  "name": "plaza-hotels",
+  "displayName": "PLAZA Hotels",
+  "description": "PLAZA hotel info and booking.",
+  "homepage": "https://plazahotels.de/",
+  "docs": "https://plazahotels.de/",
+  "auth": "none",
+  "mcpServers": {
+    "plaza-hotels": {
+      "url": "https://mcp.plazahotels.de/mcp"
+    }
+  }
+}

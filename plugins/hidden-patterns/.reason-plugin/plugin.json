@@ -1,0 +1,13 @@
+{
+  "name": "hidden-patterns",
+  "displayName": "Hidden Patterns",
+  "description": "Understand recurring patterns.",
+  "homepage": "https://hiddenpatterns.ai",
+  "docs": "https://hiddenpatterns.ai",
+  "auth": "none",
+  "mcpServers": {
+    "hidden-patterns": {
+      "url": "https://mcp.hiddenpatterns.ai/mcp"
+    }
+  }
+}

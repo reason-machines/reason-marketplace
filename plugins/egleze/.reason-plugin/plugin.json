@@ -1,0 +1,13 @@
+{
+  "name": "egleze",
+  "displayName": "Egleze",
+  "description": "Search verified podcast news.",
+  "homepage": "https://egleze.com",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.egleze/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "egleze": {
+      "url": "https://egleze-mcp-server.onrender.com/mcp"
+    }
+  }
+}

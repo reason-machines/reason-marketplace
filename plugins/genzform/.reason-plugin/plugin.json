@@ -1,0 +1,13 @@
+{
+  "name": "genzform",
+  "displayName": "GenZform",
+  "description": "Create forms with AI.",
+  "homepage": "https://genzform.com",
+  "docs": "https://genzform.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "genzform": {
+      "url": "https://genzform.com/api/mcp"
+    }
+  }
+}

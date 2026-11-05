@@ -1,0 +1,13 @@
+{
+  "name": "alphayou",
+  "displayName": "AlphaYou: Smart Money Intel",
+  "description": "Congress, Insiders & Whales.",
+  "homepage": "https://alphayou.net/chatgpt",
+  "docs": "https://alphayou.net/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "alphayou": {
+      "url": "https://alphayou.net/api/mcp/market?utm_source=claude"
+    }
+  }
+}

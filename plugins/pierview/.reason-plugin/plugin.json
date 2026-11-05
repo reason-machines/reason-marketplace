@@ -1,0 +1,13 @@
+{
+  "name": "pierview",
+  "displayName": "Pierview",
+  "description": "AI search visibility metrics.",
+  "homepage": "https://www.pierview.ai",
+  "docs": "https://www.pierview.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "pierview": {
+      "url": "https://mcp.pierview.ai/"
+    }
+  }
+}

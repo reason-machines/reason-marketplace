@@ -1,0 +1,13 @@
+{
+  "name": "allratestoday",
+  "displayName": "AllRatesToday",
+  "description": "Official rates for currencies.",
+  "homepage": "https://allratestoday.com/mcp/",
+  "docs": "https://allratestoday.com/mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "allratestoday": {
+      "url": "https://allratestoday.com/api/mcp/public"
+    }
+  }
+}

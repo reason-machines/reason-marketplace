@@ -1,0 +1,13 @@
+{
+  "name": "vivu",
+  "displayName": "Vivu",
+  "description": "Search and manage video.",
+  "homepage": "https://vivu.ai",
+  "docs": "https://vivu.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "vivu": {
+      "url": "https://mcp.vivu.ai/mcp"
+    }
+  }
+}

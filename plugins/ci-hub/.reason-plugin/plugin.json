@@ -1,0 +1,13 @@
+{
+  "name": "ci-hub",
+  "displayName": "CI HUB",
+  "description": "Manage your DAM assets.",
+  "homepage": "https://ci-hub.com",
+  "docs": "https://ci-hub.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ci-hub": {
+      "url": "https://mcp.ci-hub.com/mcp"
+    }
+  }
+}

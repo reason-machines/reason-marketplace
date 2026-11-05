@@ -1,0 +1,13 @@
+{
+  "name": "liftaven",
+  "displayName": "Liftaven",
+  "description": "Review SEO and website data.",
+  "homepage": "https://liftaven.com",
+  "docs": "https://liftaven.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "liftaven": {
+      "url": "https://mcp.liftaven.com/mcp"
+    }
+  }
+}

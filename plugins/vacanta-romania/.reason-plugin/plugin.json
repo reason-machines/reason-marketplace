@@ -1,0 +1,13 @@
+{
+  "name": "vacanta-romania",
+  "displayName": "Vacanța România",
+  "description": "Find attractions in Romania.",
+  "homepage": "https://vacantaromania.ro",
+  "docs": "https://vacantaromania.ro",
+  "auth": "none",
+  "mcpServers": {
+    "vacanta-romania": {
+      "url": "https://vacantaromania.ro/mcp"
+    }
+  }
+}

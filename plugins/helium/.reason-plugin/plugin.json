@@ -1,0 +1,13 @@
+{
+  "name": "helium",
+  "displayName": "Helium - Student Planner",
+  "description": "Your semester, from syllabi.",
+  "homepage": "https://www.heliumedu.com/",
+  "docs": "https://www.heliumedu.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "helium": {
+      "url": "https://mcp.heliumedu.com/mcp"
+    }
+  }
+}

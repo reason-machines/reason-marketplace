@@ -1,0 +1,13 @@
+{
+  "name": "fluxbuilder",
+  "displayName": "FluxBuilder",
+  "description": "Create e-commerce apps.",
+  "homepage": "https://fluxbuilder.com",
+  "docs": "https://fluxbuilder.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "fluxbuilder": {
+      "url": "https://ai.fluxbuilder.com/mcp"
+    }
+  }
+}

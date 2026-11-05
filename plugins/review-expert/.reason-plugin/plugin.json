@@ -1,0 +1,13 @@
+{
+  "name": "review-expert",
+  "displayName": "Review Expert",
+  "description": "App review insights & replies.",
+  "homepage": "https://review.expert",
+  "docs": "https://review.expert",
+  "auth": "oauth",
+  "mcpServers": {
+    "review-expert": {
+      "url": "https://mcp.review.expert/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "beanhub",
+  "displayName": "BeanHub",
+  "description": "Read and update ledger books.",
+  "homepage": "https://beanhub.io",
+  "docs": "https://tedix.dev/apps/beanhub/",
+  "auth": "oauth",
+  "mcpServers": {
+    "beanhub": {
+      "url": "https://api.beanhub.io/mcp"
+    }
+  }
+}

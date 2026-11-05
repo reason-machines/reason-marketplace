@@ -1,0 +1,13 @@
+{
+  "name": "fraghab",
+  "displayName": "Fraghab",
+  "description": "Track your fragrance shelf.",
+  "homepage": "https://fraghab.com",
+  "docs": "https://fraghab.com/landing/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "fraghab": {
+      "url": "https://fraghab.com/api/mcp"
+    }
+  }
+}

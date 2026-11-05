@@ -1,0 +1,13 @@
+{
+  "name": "campus-os",
+  "displayName": "Campus OS",
+  "description": "Classes, notes and due dates.",
+  "homepage": "https://app.campus-os.net",
+  "docs": "https://app.campus-os.net/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "campus-os": {
+      "url": "https://app.campus-os.net/mcp"
+    }
+  }
+}

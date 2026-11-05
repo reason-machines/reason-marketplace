@@ -1,0 +1,13 @@
+{
+  "name": "clip-recipe",
+  "displayName": "Clip Recipe",
+  "description": "Recipes from cooking videos.",
+  "homepage": "https://www.cliprecipe.com",
+  "docs": "https://www.cliprecipe.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "clip-recipe": {
+      "url": "https://cliprecipe.com/mcp"
+    }
+  }
+}

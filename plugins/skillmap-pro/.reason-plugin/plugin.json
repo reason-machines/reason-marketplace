@@ -1,0 +1,13 @@
+{
+  "name": "skillmap-pro",
+  "displayName": "Skillmap Pro",
+  "description": "Servicios y trabajo en Chile.",
+  "homepage": "https://skillmap.cl",
+  "docs": "https://skillmap.cl",
+  "auth": "none",
+  "mcpServers": {
+    "skillmap-pro": {
+      "url": "https://skillmap.cl/mcp"
+    }
+  }
+}

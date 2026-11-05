@@ -1,0 +1,13 @@
+{
+  "name": "ciro",
+  "displayName": "Ciro",
+  "description": "Sell-out and stock analytics.",
+  "homepage": "https://heyciro.com",
+  "docs": "https://heyciro.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ciro": {
+      "url": "https://api.heyciro.com/mcp"
+    }
+  }
+}

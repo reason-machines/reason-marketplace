@@ -1,0 +1,13 @@
+{
+  "name": "meetly",
+  "displayName": "Meetly",
+  "description": "Meetings into useful work.",
+  "homepage": "https://www.getmeetly.ai/",
+  "docs": "https://www.getmeetly.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "meetly": {
+      "url": "https://mcp.getmeetly.ai/mcp"
+    }
+  }
+}

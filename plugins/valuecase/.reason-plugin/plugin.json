@@ -1,0 +1,13 @@
+{
+  "name": "valuecase",
+  "displayName": "Valuecase",
+  "description": "Manage Valuecase spaces.",
+  "homepage": "https://valuecase.com",
+  "docs": "https://valuecase.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "valuecase": {
+      "url": "https://mcp.valuecase.com/mcp"
+    }
+  }
+}

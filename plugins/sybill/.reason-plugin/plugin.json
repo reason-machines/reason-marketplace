@@ -1,0 +1,13 @@
+{
+  "name": "sybill",
+  "displayName": "Sybill",
+  "description": "Context layer for revenue orgs.",
+  "homepage": "https://www.sybill.ai",
+  "docs": "https://www.sybill.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "sybill": {
+      "url": "https://mcp.sybill.ai/mcp"
+    }
+  }
+}

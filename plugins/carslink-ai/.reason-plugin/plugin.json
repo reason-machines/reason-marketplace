@@ -1,0 +1,13 @@
+{
+  "name": "carslink-ai",
+  "displayName": "CarsLink.ai",
+  "description": "Search UK cars, vans & bikes.",
+  "homepage": "https://carslink.ai",
+  "docs": "https://carslink.ai",
+  "auth": "none",
+  "mcpServers": {
+    "carslink-ai": {
+      "url": "https://mcp.carslink.ai/mcp"
+    }
+  }
+}

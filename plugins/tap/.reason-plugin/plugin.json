@@ -1,0 +1,13 @@
+{
+  "name": "tap",
+  "displayName": "Tap",
+  "description": "Compare and buy ad media.",
+  "homepage": "https://tap.co",
+  "docs": "https://tap.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "tap": {
+      "url": "https://mcp.tap.co/"
+    }
+  }
+}

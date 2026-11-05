@@ -1,0 +1,13 @@
+{
+  "name": "policy-radar",
+  "displayName": "Techy Surgeon Policy Radar",
+  "description": "Prices, ASC markets & policy.",
+  "homepage": "https://techysurgeon-mcp.netlify.app/",
+  "docs": "https://techysurgeon-mcp.netlify.app/",
+  "auth": "none",
+  "mcpServers": {
+    "policy-radar": {
+      "url": "https://techysurgeon-mcp.netlify.app/policy/mcp"
+    }
+  }
+}

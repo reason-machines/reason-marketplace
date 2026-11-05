@@ -1,0 +1,13 @@
+{
+  "name": "everloot",
+  "displayName": "Everloot",
+  "description": "WoW: Forever data with sources.",
+  "homepage": "https://everloot.app",
+  "docs": "https://everloot.app/docs/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "everloot": {
+      "url": "https://everloot.app/mcp/public"
+    }
+  }
+}

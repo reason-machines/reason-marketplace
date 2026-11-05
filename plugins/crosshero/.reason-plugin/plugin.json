@@ -1,0 +1,13 @@
+{
+  "name": "crosshero",
+  "displayName": "CrossHero",
+  "description": "Track your gym, plan workouts.",
+  "homepage": "https://crosshero.com",
+  "docs": "https://crosshero.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "crosshero": {
+      "url": "https://mcp.crosshero.com/mcp"
+    }
+  }
+}

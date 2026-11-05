@@ -1,0 +1,13 @@
+{
+  "name": "fokusflow",
+  "displayName": "Fokusflow",
+  "description": "App health and alerts.",
+  "homepage": "https://fokusflow.io",
+  "docs": "https://fokusflow.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "fokusflow": {
+      "url": "https://fokusflow.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "allback",
+  "displayName": "AllBack",
+  "description": "Forms with automatic reminders.",
+  "homepage": "https://www.allback.ai",
+  "docs": "https://www.allback.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "allback": {
+      "url": "https://mcp.allback.ai/mcp"
+    }
+  }
+}

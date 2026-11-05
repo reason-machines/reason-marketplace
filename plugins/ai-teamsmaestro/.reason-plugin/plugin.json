@@ -1,0 +1,13 @@
+{
+  "name": "ai-teamsmaestro",
+  "displayName": "AI TeamsMaestro",
+  "description": "Search meetings and AI notes.",
+  "homepage": "https://maestrolabs.com",
+  "docs": "https://maestrolabs.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai-teamsmaestro": {
+      "url": "https://mcp.maestrolabs.com/mcp"
+    }
+  }
+}

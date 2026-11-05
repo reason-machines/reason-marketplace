@@ -1,0 +1,13 @@
+{
+  "name": "adwhispr-ads",
+  "displayName": "AdWhispr Ads Marketing Manager",
+  "description": "Research, launch & manage ads.",
+  "homepage": "https://adwhispr.com/",
+  "docs": "https://adwhispr.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "adwhispr-ads": {
+      "url": "https://adwhispr.com/api/mcp"
+    }
+  }
+}

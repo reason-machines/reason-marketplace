@@ -1,0 +1,13 @@
+{
+  "name": "fighterapi",
+  "displayName": "FighterAPI",
+  "description": "MMA fight data and stats.",
+  "homepage": "https://fighterapi.com",
+  "docs": "https://fighterapi.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "fighterapi": {
+      "url": "https://mcp.fighterapi.com/mcp"
+    }
+  }
+}

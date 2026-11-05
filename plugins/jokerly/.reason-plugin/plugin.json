@@ -1,0 +1,13 @@
+{
+  "name": "jokerly",
+  "displayName": "Jokerly American Mahjong",
+  "description": "Mah jongg hands & Charleston.",
+  "homepage": "https://jokerly.ambientapp.ai",
+  "docs": "https://jokerly.ambientapp.ai/docs",
+  "auth": "none",
+  "mcpServers": {
+    "jokerly": {
+      "url": "https://jokerly.ambientapp.ai/mcp/claude"
+    }
+  }
+}

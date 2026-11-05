@@ -1,0 +1,13 @@
+{
+  "name": "embarko",
+  "displayName": "Embarko",
+  "description": "Deploy and manage Embarko apps.",
+  "homepage": "https://embarko.ai",
+  "docs": "https://embarko.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "embarko": {
+      "url": "https://mcp.embarko.ai/mcp"
+    }
+  }
+}

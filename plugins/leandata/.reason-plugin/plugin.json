@@ -1,0 +1,13 @@
+{
+  "name": "leandata",
+  "displayName": "LeanData MCP",
+  "description": "Manage and schedule meetings.",
+  "homepage": "https://www.leandata.com/",
+  "docs": "https://www.leandata.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "leandata": {
+      "url": "https://mcp.leandata.com/mcp"
+    }
+  }
+}

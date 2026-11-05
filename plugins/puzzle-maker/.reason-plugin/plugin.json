@@ -1,0 +1,13 @@
+{
+  "name": "puzzle-maker",
+  "displayName": "GridSmith Puzzle Maker",
+  "description": "Crossword, word search, sudoku.",
+  "homepage": "https://puzzle-maker.zovo.one",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.theluckystrike/puzzle-maker",
+  "auth": "none",
+  "mcpServers": {
+    "puzzle-maker": {
+      "url": "https://puzzle-maker.zovo.one/mcp"
+    }
+  }
+}

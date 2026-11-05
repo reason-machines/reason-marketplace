@@ -1,0 +1,13 @@
+{
+  "name": "qualitati",
+  "displayName": "QualiTaTi",
+  "description": "Run AI interviews and surveys.",
+  "homepage": "https://qualitati.com",
+  "docs": "https://qualitati.com/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "qualitati": {
+      "url": "https://api.qualitati.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hyperhuman-agent-workspace",
+  "displayName": "Hyperhuman Agent Workspace",
+  "description": "Operate fitness content.",
+  "homepage": "https://hyperhuman.cc/",
+  "docs": "https://hyperhuman.cc/",
+  "auth": "none",
+  "mcpServers": {
+    "hyperhuman-agent-workspace": {
+      "url": "https://mcp.hyperhuman.cc/mcp"
+    }
+  }
+}

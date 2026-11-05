@@ -1,0 +1,13 @@
+{
+  "name": "memory",
+  "displayName": "#memory",
+  "description": "Recall for you and your agent.",
+  "homepage": "https://www.usememory.com",
+  "docs": "https://usememory.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "memory": {
+      "url": "https://www.usememory.com/api/mcp"
+    }
+  }
+}

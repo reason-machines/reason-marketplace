@@ -1,0 +1,13 @@
+{
+  "name": "stayonomy",
+  "displayName": "Stayonomy",
+  "description": "Real travel prices & booking.",
+  "homepage": "https://stayonomy.com/",
+  "docs": "https://stayonomy.com/",
+  "auth": "none",
+  "mcpServers": {
+    "stayonomy": {
+      "url": "https://stayonomy.com/mcp"
+    }
+  }
+}

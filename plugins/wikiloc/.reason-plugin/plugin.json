@@ -1,0 +1,13 @@
+{
+  "name": "wikiloc",
+  "displayName": "Wikiloc",
+  "description": "Your perfect trail. Just ask.",
+  "homepage": "https://www.wikiloc.com/",
+  "docs": "https://www.wikiloc.com/",
+  "auth": "none",
+  "mcpServers": {
+    "wikiloc": {
+      "url": "https://mcp.wikiloc.com/mcp"
+    }
+  }
+}

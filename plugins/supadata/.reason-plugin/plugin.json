@@ -1,0 +1,13 @@
+{
+  "name": "supadata",
+  "displayName": "Supadata",
+  "description": "Video transcripts & web pages.",
+  "homepage": "https://supadata.ai",
+  "docs": "https://supadata.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "supadata": {
+      "url": "https://api.supadata.ai/mcp"
+    }
+  }
+}

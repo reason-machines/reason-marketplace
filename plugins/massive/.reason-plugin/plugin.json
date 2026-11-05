@@ -1,0 +1,13 @@
+{
+  "name": "massive",
+  "displayName": "Massive",
+  "description": "Real-time stocks data and more.",
+  "homepage": "https://massive.com",
+  "docs": "https://massive.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "massive": {
+      "url": "https://mcp.massive.com/"
+    }
+  }
+}

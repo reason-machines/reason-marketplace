@@ -1,0 +1,13 @@
+{
+  "name": "shruwd",
+  "displayName": "Shruwd",
+  "description": "Track your brand in AI search.",
+  "homepage": "https://shruwd.io/",
+  "docs": "https://shruwd.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "shruwd": {
+      "url": "https://shruwd.io/mcp"
+    }
+  }
+}

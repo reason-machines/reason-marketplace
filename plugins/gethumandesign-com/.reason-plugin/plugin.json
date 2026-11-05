@@ -1,0 +1,13 @@
+{
+  "name": "gethumandesign-com",
+  "displayName": "gethumandesign.com",
+  "description": "Explore your human design.",
+  "homepage": "https://www.gethumandesign.com",
+  "docs": "https://gethumandesign.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "gethumandesign-com": {
+      "url": "https://api.gethumandesign.com/mcp"
+    }
+  }
+}

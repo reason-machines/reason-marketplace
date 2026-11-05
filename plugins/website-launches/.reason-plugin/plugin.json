@@ -1,0 +1,13 @@
+{
+  "name": "website-launches",
+  "displayName": "Website Launches",
+  "description": "Check launch dates & trust.",
+  "homepage": "https://websitelaunches.com/",
+  "docs": "https://websitelaunches.com/",
+  "auth": "none",
+  "mcpServers": {
+    "website-launches": {
+      "url": "https://websitelaunches.com/mcp"
+    }
+  }
+}

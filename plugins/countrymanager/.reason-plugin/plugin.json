@@ -1,0 +1,13 @@
+{
+  "name": "countrymanager",
+  "displayName": "countrymanager",
+  "description": "Mobile apps: reviews and text.",
+  "homepage": "https://countrymanager.app",
+  "docs": "https://countrymanager.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "countrymanager": {
+      "url": "https://countrymanager.app/api/loc/mcp"
+    }
+  }
+}

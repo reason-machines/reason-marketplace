@@ -1,0 +1,13 @@
+{
+  "name": "musicatlas",
+  "displayName": "MusicAtlas",
+  "description": "Discover music by sound.",
+  "homepage": "https://musicatlas.ai",
+  "docs": "https://musicatlas.ai",
+  "auth": "none",
+  "mcpServers": {
+    "musicatlas": {
+      "url": "https://mcp.musicatlas.ai/mcp"
+    }
+  }
+}

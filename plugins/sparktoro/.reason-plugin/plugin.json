@@ -1,0 +1,13 @@
+{
+  "name": "sparktoro",
+  "displayName": "SparkToro",
+  "description": "Audience research and insights.",
+  "homepage": "https://sparktoro.com",
+  "docs": "https://sparktoro.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "sparktoro": {
+      "url": "https://mcp.sparktoro.com/mcp"
+    }
+  }
+}

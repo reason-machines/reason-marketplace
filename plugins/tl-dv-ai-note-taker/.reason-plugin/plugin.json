@@ -1,0 +1,13 @@
+{
+  "name": "tl-dv-ai-note-taker",
+  "displayName": "tl;dv - AI Note Taker",
+  "description": "Fetch your meeting transcripts.",
+  "homepage": "https://tldv.io",
+  "docs": "https://tldv.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "tl-dv-ai-note-taker": {
+      "url": "https://mcp.tldv.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bugsmash",
+  "displayName": "BugSmash",
+  "description": "Instant Feedback & Collab.",
+  "homepage": "https://bugsmash.io/",
+  "docs": "https://bugsmash.io/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "bugsmash": {
+      "url": "https://api.bugsmash.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ticknow",
+  "displayName": "TickNow",
+  "description": "Plan your day and track time.",
+  "homepage": "https://ticknow.app",
+  "docs": "https://ticknow.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "ticknow": {
+      "url": "https://mcp.ticknow.app/mcp"
+    }
+  }
+}

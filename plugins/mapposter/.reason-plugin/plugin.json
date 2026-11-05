@@ -1,0 +1,13 @@
+{
+  "name": "mapposter",
+  "displayName": "MapPoster",
+  "description": "Map poster gifts and wall art.",
+  "homepage": "https://mapposter.xyz",
+  "docs": "https://mapposter.xyz",
+  "auth": "none",
+  "mcpServers": {
+    "mapposter": {
+      "url": "https://mcp.mapposter.xyz/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wavebrook",
+  "displayName": "Wavebrook",
+  "description": "Apps, earnings and payouts.",
+  "homepage": "https://wavebrook.com",
+  "docs": "https://wavebrook.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "wavebrook": {
+      "url": "https://mcp.wavebrook.com/mcp"
+    }
+  }
+}

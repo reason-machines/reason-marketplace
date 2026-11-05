@@ -1,0 +1,13 @@
+{
+  "name": "lustrastudio",
+  "displayName": "Lustra Studio",
+  "description": "AI images for jewelry.",
+  "homepage": "https://lustrastudio.co",
+  "docs": "https://lustrastudio.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "lustrastudio": {
+      "url": "https://mcp.lustrastudio.co/mcp"
+    }
+  }
+}

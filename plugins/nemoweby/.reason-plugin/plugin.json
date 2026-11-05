@@ -1,0 +1,13 @@
+{
+  "name": "nemoweby",
+  "displayName": "NEMOweby",
+  "description": "Properties, inquiries and AI.",
+  "homepage": "https://www.nemoweby.cz",
+  "docs": "https://nemoweby.cz/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "nemoweby": {
+      "url": "https://www.nemoweby.cz/api/mcp"
+    }
+  }
+}

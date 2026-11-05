@@ -1,0 +1,13 @@
+{
+  "name": "zelta-protein-target",
+  "displayName": "Zelta Protein Per Day",
+  "description": "Protein Per Day.",
+  "homepage": "https://zelta.in",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=in.zelta/protein-target",
+  "auth": "none",
+  "mcpServers": {
+    "zelta-protein-target": {
+      "url": "https://protein-mcp.zelta.in/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ribbon-leads",
+  "displayName": "Ribbon Leads",
+  "description": "Who's about to open, by city.",
+  "homepage": "https://ribbonleads.com/chatgpt",
+  "docs": "https://ribbonleads.com/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "ribbon-leads": {
+      "url": "https://ribbonleads.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "etftracker",
+  "displayName": "ETFtracker",
+  "description": "Australian ETF research.",
+  "homepage": "https://www.etftracker.com.au",
+  "docs": "https://www.etftracker.com.au",
+  "auth": "none",
+  "mcpServers": {
+    "etftracker": {
+      "url": "https://mcp.etftracker.com.au/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mcpbackend",
+  "displayName": "MCPBackend",
+  "description": "Manage schemas and APIs.",
+  "homepage": "https://mcpbackend.com",
+  "docs": "https://mcpbackend.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mcpbackend": {
+      "url": "https://mcp.mcpbackend.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "how-walkable",
+  "displayName": "How Walkable",
+  "description": "Walkability scores anywhere.",
+  "homepage": "https://howwalkable.com",
+  "docs": "https://howwalkable.com",
+  "auth": "none",
+  "mcpServers": {
+    "how-walkable": {
+      "url": "https://howwalkable.com/mcp"
+    }
+  }
+}

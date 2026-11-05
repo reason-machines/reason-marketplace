@@ -1,0 +1,13 @@
+{
+  "name": "plota-planning-applications",
+  "displayName": "Plota: Planning Applications",
+  "description": "UK planning permission search.",
+  "homepage": "https://plota.co.uk",
+  "docs": "https://plota.co.uk/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "plota-planning-applications": {
+      "url": "https://api.plota.co.uk/v1/mcp"
+    }
+  }
+}

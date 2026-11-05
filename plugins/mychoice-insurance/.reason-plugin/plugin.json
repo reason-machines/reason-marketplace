@@ -1,0 +1,13 @@
+{
+  "name": "mychoice-insurance",
+  "displayName": "MyChoice Insurance",
+  "description": "Get Insurance Quotes in Canada.",
+  "homepage": "https://www.mychoice.ca",
+  "docs": "https://tedix.dev/apps/mychoice-insurance/",
+  "auth": "none",
+  "mcpServers": {
+    "mychoice-insurance": {
+      "url": "https://mcp-new.mychoice.ca/mcp"
+    }
+  }
+}

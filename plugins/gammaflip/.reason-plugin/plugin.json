@@ -1,0 +1,13 @@
+{
+  "name": "gammaflip",
+  "displayName": "GammaFlip",
+  "description": "Options gamma exposure levels.",
+  "homepage": "https://gammaflip.io",
+  "docs": "https://gammaflip.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "gammaflip": {
+      "url": "https://mcp.gammaflip.io/mcp"
+    }
+  }
+}

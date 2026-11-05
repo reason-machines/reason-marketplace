@@ -1,0 +1,13 @@
+{
+  "name": "comparatif-coworking",
+  "displayName": "Comparatif Coworking",
+  "description": "Trouvez votre coworking.",
+  "homepage": "https://comparatifcoworking.com/",
+  "docs": "https://comparatifcoworking.com/",
+  "auth": "none",
+  "mcpServers": {
+    "comparatif-coworking": {
+      "url": "https://comparatifcoworking.com/mcp"
+    }
+  }
+}

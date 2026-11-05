@@ -1,0 +1,13 @@
+{
+  "name": "fuxux",
+  "displayName": "Fuxux",
+  "description": "Schedule social media posts.",
+  "homepage": "https://www.fuxux.com",
+  "docs": "https://fuxux.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "fuxux": {
+      "url": "https://www.fuxux.com/api/mcp"
+    }
+  }
+}

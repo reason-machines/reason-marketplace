@@ -1,0 +1,13 @@
+{
+  "name": "roux",
+  "displayName": "Roux",
+  "description": "Collect human context.",
+  "homepage": "https://www.helloroux.com",
+  "docs": "https://www.helloroux.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "roux": {
+      "url": "https://helloroux.com/mcp"
+    }
+  }
+}

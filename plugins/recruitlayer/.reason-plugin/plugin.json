@@ -1,0 +1,13 @@
+{
+  "name": "recruitlayer",
+  "displayName": "recruitlayer",
+  "description": "Manage your recruitment ops.",
+  "homepage": "https://recruitlayer.com",
+  "docs": "https://recruitlayer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "recruitlayer": {
+      "url": "https://mcp.recruitlayer.com/mcp"
+    }
+  }
+}

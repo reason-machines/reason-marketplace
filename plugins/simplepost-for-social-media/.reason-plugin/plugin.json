@@ -1,0 +1,13 @@
+{
+  "name": "simplepost-for-social-media",
+  "displayName": "SimplePost for Social Media",
+  "description": "Schedule & publish your posts.",
+  "homepage": "https://simplepost.social",
+  "docs": "https://simplepost.social/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "simplepost-for-social-media": {
+      "url": "https://app.simplepost.social/mcp"
+    }
+  }
+}

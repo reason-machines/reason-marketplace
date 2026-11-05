@@ -1,0 +1,13 @@
+{
+  "name": "sara-by-aitomic",
+  "displayName": "SARA by Aitomic",
+  "description": "Retail analytics and actions.",
+  "homepage": "https://aitomic.ai",
+  "docs": "https://sara.aitomic.ai/mcp-docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "sara-by-aitomic": {
+      "url": "https://sara.aitomic.ai/mcp"
+    }
+  }
+}

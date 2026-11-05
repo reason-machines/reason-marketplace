@@ -1,0 +1,13 @@
+{
+  "name": "rillet",
+  "displayName": "Rillet",
+  "description": "Manage financial operations.",
+  "homepage": "https://www.rillet.com/",
+  "docs": "https://www.rillet.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "rillet": {
+      "url": "https://api.rillet.com/mcp"
+    }
+  }
+}

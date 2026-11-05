@@ -1,0 +1,13 @@
+{
+  "name": "trove-trove-technologies-inc",
+  "displayName": "Trove",
+  "description": "Find and save your saves.",
+  "homepage": "https://trove.life",
+  "docs": "https://trove.life",
+  "auth": "oauth",
+  "mcpServers": {
+    "trove-trove-technologies-inc": {
+      "url": "https://trove.life/mcp"
+    }
+  }
+}

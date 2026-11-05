@@ -1,0 +1,13 @@
+{
+  "name": "ronda",
+  "displayName": "Ronda",
+  "description": "Edit your web app from chat.",
+  "homepage": "https://useronda.com",
+  "docs": "https://useronda.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ronda": {
+      "url": "https://mcp.useronda.com/"
+    }
+  }
+}

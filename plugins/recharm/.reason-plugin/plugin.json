@@ -1,0 +1,13 @@
+{
+  "name": "recharm",
+  "displayName": "Recharm",
+  "description": "Footage briefs and clip picks.",
+  "homepage": "https://www.recharm.com",
+  "docs": "https://www.recharm.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "recharm": {
+      "url": "https://mcp.recharm.com/mcp"
+    }
+  }
+}

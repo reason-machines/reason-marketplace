@@ -1,0 +1,13 @@
+{
+  "name": "sketchmonkey-design",
+  "displayName": "SketchMonkey Design Studio",
+  "description": "Explore products and designs.",
+  "homepage": "https://www.sketchmonkey.design",
+  "docs": "https://www.sketchmonkey.design",
+  "auth": "none",
+  "mcpServers": {
+    "sketchmonkey-design": {
+      "url": "https://sketchmonkey-neuraldeepnet.on.adaptive.ai/api/mcp"
+    }
+  }
+}

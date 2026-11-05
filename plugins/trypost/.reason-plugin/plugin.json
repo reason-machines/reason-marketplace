@@ -1,0 +1,13 @@
+{
+  "name": "trypost",
+  "displayName": "TryPost",
+  "description": "Schedule social media posts.",
+  "homepage": "https://trypost.it",
+  "docs": "https://trypost.it/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "trypost": {
+      "url": "https://app.trypost.it/mcp/trypost"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pablooo-club-benchmark-library",
+  "displayName": "Pablooo.club Benchmark library",
+  "description": "Benchmark 10k+ screenshots.",
+  "homepage": "https://pablooo.club",
+  "docs": "https://pablooo.club",
+  "auth": "none",
+  "mcpServers": {
+    "pablooo-club-benchmark-library": {
+      "url": "https://mcp.pablooo.club/mcp"
+    }
+  }
+}

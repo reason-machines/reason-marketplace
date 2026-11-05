@@ -1,0 +1,13 @@
+{
+  "name": "idyora",
+  "displayName": "IDYORA",
+  "description": "Indian recipes and calories.",
+  "homepage": "https://idyora.com",
+  "docs": "https://idyora.com",
+  "auth": "none",
+  "mcpServers": {
+    "idyora": {
+      "url": "https://idyora.com/mcp"
+    }
+  }
+}

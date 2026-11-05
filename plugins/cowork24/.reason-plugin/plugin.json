@@ -1,0 +1,13 @@
+{
+  "name": "cowork24",
+  "displayName": "cowork24",
+  "description": "Discover and find workspaces.",
+  "homepage": "https://cowork24.ch",
+  "docs": "https://cowork24.ch",
+  "auth": "oauth",
+  "mcpServers": {
+    "cowork24": {
+      "url": "https://mcp.cowork24.ch/mcp"
+    }
+  }
+}

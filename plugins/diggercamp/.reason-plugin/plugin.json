@@ -1,0 +1,13 @@
+{
+  "name": "diggercamp",
+  "displayName": "diggercamp",
+  "description": "Find similar music tracks.",
+  "homepage": "https://diggercamp.com/",
+  "docs": "https://diggercamp.com/",
+  "auth": "none",
+  "mcpServers": {
+    "diggercamp": {
+      "url": "https://mcp.diggercamp.com/mcp"
+    }
+  }
+}

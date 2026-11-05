@@ -1,0 +1,13 @@
+{
+  "name": "grasp",
+  "displayName": "Grasp",
+  "description": "Company research for M&A.",
+  "homepage": "https://www.grasp-ai.com",
+  "docs": "https://app.grasp-ai.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "grasp": {
+      "url": "https://app.grasp-ai.com/mcp"
+    }
+  }
+}

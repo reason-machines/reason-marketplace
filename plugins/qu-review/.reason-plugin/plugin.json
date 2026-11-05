@@ -1,0 +1,13 @@
+{
+  "name": "qu-review",
+  "displayName": "Qu Review",
+  "description": "Get a second opinion.",
+  "homepage": "https://qureview.ai",
+  "docs": "https://qureview.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "qu-review": {
+      "url": "https://app.qureview.ai/claude/mcp"
+    }
+  }
+}

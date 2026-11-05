@@ -1,0 +1,13 @@
+{
+  "name": "pexafy-stock-photos",
+  "displayName": "Pexafy Stock Photos",
+  "description": "Find free-to-use stock photos.",
+  "homepage": "https://pexafy.com/mcp/",
+  "docs": "https://pexafy.com/mcp/",
+  "auth": "none",
+  "mcpServers": {
+    "pexafy-stock-photos": {
+      "url": "https://pexafy.com/mcp/"
+    }
+  }
+}

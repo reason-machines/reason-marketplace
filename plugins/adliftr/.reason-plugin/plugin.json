@@ -1,0 +1,13 @@
+{
+  "name": "adliftr",
+  "displayName": "AdLiftr",
+  "description": "Meta, TikTok, Google, Snapchat.",
+  "homepage": "https://adliftr.com",
+  "docs": "https://adliftr.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "adliftr": {
+      "url": "https://mcp.adliftr.com/mcp"
+    }
+  }
+}

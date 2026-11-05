@@ -1,0 +1,13 @@
+{
+  "name": "slides-ai",
+  "displayName": "Slides AI",
+  "description": "Create and edit presentations.",
+  "homepage": "https://gpt.space/slides/chatgpt-presentation-maker",
+  "docs": "https://gpt.space/slides/chatgpt-presentation-maker",
+  "auth": "oauth",
+  "mcpServers": {
+    "slides-ai": {
+      "url": "https://api.gpt.space/servers/google-slides/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shippdf",
+  "displayName": "ShipPDF",
+  "description": "Create templates and PDFs.",
+  "homepage": "https://shippdf.com",
+  "docs": "https://shippdf.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "shippdf": {
+      "url": "https://mcp.shippdf.com/mcp"
+    }
+  }
+}

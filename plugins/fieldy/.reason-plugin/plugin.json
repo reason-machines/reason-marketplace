@@ -1,0 +1,13 @@
+{
+  "name": "fieldy",
+  "displayName": "Fieldy",
+  "description": "Recall Fieldy conversations.",
+  "homepage": "https://fieldy.ai",
+  "docs": "https://api.fieldy.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "fieldy": {
+      "url": "https://api.fieldy.ai/mcp"
+    }
+  }
+}

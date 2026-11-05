@@ -1,0 +1,13 @@
+{
+  "name": "hiku",
+  "displayName": "Hiku",
+  "description": "Daily number puzzle.",
+  "homepage": "https://hikupuzzle.com/en/",
+  "docs": "https://hikupuzzle.com/en/",
+  "auth": "none",
+  "mcpServers": {
+    "hiku": {
+      "url": "https://hikupuzzle.com/mcp"
+    }
+  }
+}

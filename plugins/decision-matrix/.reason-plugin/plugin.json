@@ -1,0 +1,13 @@
+{
+  "name": "decision-matrix",
+  "displayName": "Clarity Decision Matrix",
+  "description": "Weighted choice sensitivity.",
+  "homepage": "https://decision-matrix.zovo.one",
+  "docs": "https://decision-matrix.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "decision-matrix": {
+      "url": "https://decision-matrix.zovo.one/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tripsy",
+  "displayName": "Tripsy",
+  "description": "Plan and organize your trips.",
+  "homepage": "https://tripsy.app",
+  "docs": "https://tripsy.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "tripsy": {
+      "url": "https://mcp.tripsy.app/mcp"
+    }
+  }
+}

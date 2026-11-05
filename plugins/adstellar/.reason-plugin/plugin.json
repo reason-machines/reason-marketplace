@@ -1,0 +1,13 @@
+{
+  "name": "adstellar",
+  "displayName": "AdStellar",
+  "description": "Create and optimize Meta ads.",
+  "homepage": "https://www.adstellar.ai",
+  "docs": "https://docs.adstellar.ai/api-mcp/authentication",
+  "auth": "oauth",
+  "mcpServers": {
+    "adstellar": {
+      "url": "https://app.adstellar.ai/api/mcp"
+    }
+  }
+}

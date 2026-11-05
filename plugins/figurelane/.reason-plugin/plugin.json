@@ -1,0 +1,13 @@
+{
+  "name": "figurelane",
+  "displayName": "FigureLane",
+  "description": "Records and accountant reports.",
+  "homepage": "https://figurelane.com",
+  "docs": "https://figurelane.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "figurelane": {
+      "url": "https://figurelane.com/mcp"
+    }
+  }
+}

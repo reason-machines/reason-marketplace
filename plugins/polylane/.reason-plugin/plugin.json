@@ -1,0 +1,13 @@
+{
+  "name": "polylane",
+  "displayName": "Polylane",
+  "description": "Investigate production issues.",
+  "homepage": "https://polylane.com",
+  "docs": "https://polylane.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "polylane": {
+      "url": "https://mcp.polylane.com/mcp"
+    }
+  }
+}

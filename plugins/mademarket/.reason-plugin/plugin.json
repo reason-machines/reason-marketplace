@@ -1,0 +1,13 @@
+{
+  "name": "mademarket",
+  "displayName": "MadeMarket",
+  "description": "Search pipeline and deals.",
+  "homepage": "https://www.mademarket.com",
+  "docs": "https://mademarket.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "mademarket": {
+      "url": "https://mcp.mademarket.co/mcp"
+    }
+  }
+}

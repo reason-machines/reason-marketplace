@@ -1,0 +1,13 @@
+{
+  "name": "pethost",
+  "displayName": "Pethost",
+  "description": "Deploy and host your projects.",
+  "homepage": "https://pethost.dev",
+  "docs": "https://pethost.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "pethost": {
+      "url": "https://mcp.pethost.dev/mcp"
+    }
+  }
+}

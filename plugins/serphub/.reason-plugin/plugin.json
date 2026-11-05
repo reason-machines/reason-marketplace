@@ -1,0 +1,13 @@
+{
+  "name": "serphub",
+  "displayName": "SERPHub",
+  "description": "Analyze your SEO and site data.",
+  "homepage": "https://serphub.io",
+  "docs": "https://serphub.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "serphub": {
+      "url": "https://serphub.io/mcp"
+    }
+  }
+}

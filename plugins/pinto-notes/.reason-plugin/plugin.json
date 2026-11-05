@@ -1,0 +1,13 @@
+{
+  "name": "pinto-notes",
+  "displayName": "Pinto Notes",
+  "description": "Read and edit your notes.",
+  "homepage": "https://pintonotes.com",
+  "docs": "https://pintonotes.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "pinto-notes": {
+      "url": "https://mcp.pintonotes.com/"
+    }
+  }
+}

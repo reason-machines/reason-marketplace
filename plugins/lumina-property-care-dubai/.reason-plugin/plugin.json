@@ -1,0 +1,13 @@
+{
+  "name": "lumina-property-care-dubai",
+  "displayName": "LUMINA Property Care Dubai",
+  "description": "Book home cleaning in Dubai.",
+  "homepage": "https://book.luminacare.ae/book",
+  "docs": "https://book.luminacare.ae/book",
+  "auth": "none",
+  "mcpServers": {
+    "lumina-property-care-dubai": {
+      "url": "https://book.luminacare.ae/mcp"
+    }
+  }
+}

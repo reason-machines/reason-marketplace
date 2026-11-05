@@ -1,0 +1,13 @@
+{
+  "name": "zocks",
+  "displayName": "Zocks",
+  "description": "Analyze client insights.",
+  "homepage": "https://zocks.io/",
+  "docs": "https://help.zocks.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "zocks": {
+      "url": "https://mcp.zocks.io/v1/mcp"
+    }
+  }
+}

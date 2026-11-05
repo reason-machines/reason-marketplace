@@ -1,0 +1,13 @@
+{
+  "name": "realie",
+  "displayName": "Realie",
+  "description": "U.S. property records & comps.",
+  "homepage": "https://www.realie.ai",
+  "docs": "https://www.realie.ai/info/realie-chatgpt-setup-guide",
+  "auth": "oauth",
+  "mcpServers": {
+    "realie": {
+      "url": "https://app.realie.ai/api/mcp"
+    }
+  }
+}

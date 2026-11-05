@@ -1,0 +1,13 @@
+{
+  "name": "world-war-watcher",
+  "displayName": "World War Watcher",
+  "description": "Cited Iran–US war briefings.",
+  "homepage": "https://worldwarwatcher.com",
+  "docs": "https://worldwarwatcher.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "world-war-watcher": {
+      "url": "https://api.worldwarwatcher.com/mcp"
+    }
+  }
+}

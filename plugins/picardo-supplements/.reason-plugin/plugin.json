@@ -1,0 +1,13 @@
+{
+  "name": "picardo-supplements",
+  "displayName": "Picardo Supplements",
+  "description": "Combine supplements into one.",
+  "homepage": "https://picardo.health",
+  "docs": "https://picardo.health",
+  "auth": "none",
+  "mcpServers": {
+    "picardo-supplements": {
+      "url": "https://mcp.picardo.health/mcp"
+    }
+  }
+}

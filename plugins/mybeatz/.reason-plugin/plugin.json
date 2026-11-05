@@ -1,0 +1,13 @@
+{
+  "name": "mybeatz",
+  "displayName": "MyBeatz",
+  "description": "AI beats and type beats.",
+  "homepage": "https://mybeatz.ai",
+  "docs": "https://mybeatz.ai",
+  "auth": "none",
+  "mcpServers": {
+    "mybeatz": {
+      "url": "https://mybeatz.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "job-search-by-jobtome",
+  "displayName": "Job Search by Jobtome",
+  "description": "Find jobs in 30+ countries.",
+  "homepage": "https://www.jobtome.com",
+  "docs": "https://www.jobtome.com",
+  "auth": "none",
+  "mcpServers": {
+    "job-search-by-jobtome": {
+      "url": "https://mcp.jobtome.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wejob",
+  "displayName": "WeJob",
+  "description": "Swiss jobs and companies.",
+  "homepage": "https://wejob.ch",
+  "docs": "https://wejob.ch",
+  "auth": "none",
+  "mcpServers": {
+    "wejob": {
+      "url": "https://mcp.wejob.ch/mcp"
+    }
+  }
+}

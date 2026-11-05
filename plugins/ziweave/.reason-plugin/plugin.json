@@ -1,0 +1,13 @@
+{
+  "name": "ziweave",
+  "displayName": "Ziweave",
+  "description": "Ziwei astrology, made clear.",
+  "homepage": "https://ziweave.com",
+  "docs": "https://ziweave.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ziweave": {
+      "url": "https://mcp.ziweave.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "winelabs-research",
+  "displayName": "Wine Labs",
+  "description": "Wine market research.",
+  "homepage": "https://winelabs.ai/agents",
+  "docs": "https://winelabs.ai/agents",
+  "auth": "oauth",
+  "mcpServers": {
+    "winelabs-research": {
+      "url": "https://chat.wine-labs.com/mcp"
+    }
+  }
+}

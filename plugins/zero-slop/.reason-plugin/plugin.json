@@ -1,0 +1,22 @@
+{
+  "name": "zero-slop",
+  "displayName": "Zero Slop",
+  "description": "Edit and check your writing.",
+  "homepage": "https://zero-slop.ai/",
+  "docs": "https://zero-slop.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "zero-slop": {
+      "url": "https://mcp.zero-slop.ai/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "zero-slop",
+      "description": "Edit drafts into natural prose, inspect AI-sounding patterns, or review how a specified audience might respond passage by passage. Zero Slop runs inside the user's existing AI assistant with local tools that protect source details. Use for humanizing or de-slopping writing, polishing outward-facing ",
+      "source": "manavmishra/zeroslop#7294a405893dd388b9fbff809f58d66fe641bb44",
+      "skill": "zero-slop",
+      "url": "https://github.com/manavmishra/zeroslop/tree/7294a405893dd388b9fbff809f58d66fe641bb44/distribution/plugins/zero-slop/skills/zero-slop"
+    }
+  ]
+}

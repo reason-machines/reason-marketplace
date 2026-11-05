@@ -1,0 +1,13 @@
+{
+  "name": "urbanpro-tutor-finder",
+  "displayName": "UrbanPro Tutor Finder",
+  "description": "Find tutors for 1000+ subjects.",
+  "homepage": "https://www.urbanpro.com",
+  "docs": "https://www.urbanpro.com",
+  "auth": "none",
+  "mcpServers": {
+    "urbanpro-tutor-finder": {
+      "url": "https://mcp.urbanpro.com/mcp"
+    }
+  }
+}

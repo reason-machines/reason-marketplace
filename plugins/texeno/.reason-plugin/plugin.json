@@ -1,0 +1,13 @@
+{
+  "name": "texeno",
+  "displayName": "Texeno LaTeX and Typst Editor",
+  "description": "LaTeX and Typst papers to PDF.",
+  "homepage": "https://texeno.com",
+  "docs": "https://texeno.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "texeno": {
+      "url": "https://mcp.texeno.com/mcp"
+    }
+  }
+}

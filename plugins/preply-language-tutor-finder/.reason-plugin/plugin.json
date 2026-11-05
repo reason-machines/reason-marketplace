@@ -1,0 +1,13 @@
+{
+  "name": "preply-language-tutor-finder",
+  "displayName": "Preply Language Tutor Finder",
+  "description": "Find language tutors.",
+  "homepage": "https://preply.com/",
+  "docs": "https://preply.com/",
+  "auth": "none",
+  "mcpServers": {
+    "preply-language-tutor-finder": {
+      "url": "https://preply.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "db-fiddle",
+  "displayName": "DB Fiddle",
+  "description": "Run SQL without leaving chat.",
+  "homepage": "https://www.db-fiddle.com",
+  "docs": "https://www.db-fiddle.com",
+  "auth": "none",
+  "mcpServers": {
+    "db-fiddle": {
+      "url": "https://mcp.db-fiddle.com/mcp"
+    }
+  }
+}

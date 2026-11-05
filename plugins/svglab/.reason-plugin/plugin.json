@@ -1,0 +1,13 @@
+{
+  "name": "svglab",
+  "displayName": "SVG Lab",
+  "description": "Design app UI, icons, logos.",
+  "homepage": "https://svglab.app/mcp-server",
+  "docs": "https://svglab.app/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "svglab": {
+      "url": "https://svglab.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "supermcp",
+  "displayName": "SuperMCP",
+  "description": "Compare Israeli grocery prices.",
+  "homepage": "https://supermcp.web.app",
+  "docs": "https://supermcp.web.app",
+  "auth": "none",
+  "mcpServers": {
+    "supermcp": {
+      "url": "https://supermcp.co.il/mcp"
+    }
+  }
+}

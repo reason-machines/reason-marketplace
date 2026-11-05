@@ -1,0 +1,16 @@
+{
+  "name": "clofin",
+  "displayName": "CloFin",
+  "description": "Organize your finances.",
+  "homepage": "https://www.clofin.com.br",
+  "docs": "https://tedix.dev/apps/clofin/",
+  "auth": "api_key",
+  "mcpServers": {
+    "clofin": {
+      "url": "https://www.clofin.com.br/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

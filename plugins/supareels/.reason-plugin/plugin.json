@@ -1,0 +1,13 @@
+{
+  "name": "supareels",
+  "displayName": "Supareels",
+  "description": "Free b-roll and video overlays.",
+  "homepage": "https://supareels.com",
+  "docs": "https://supareels.com",
+  "auth": "none",
+  "mcpServers": {
+    "supareels": {
+      "url": "https://supareels.com/mcp"
+    }
+  }
+}

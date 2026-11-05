@@ -1,0 +1,13 @@
+{
+  "name": "deglaze",
+  "displayName": "Deglaze",
+  "description": "Chat with your recipe library.",
+  "homepage": "https://www.deglaze.app",
+  "docs": "https://www.deglaze.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "deglaze": {
+      "url": "https://mcp.deglaze.app/mcp"
+    }
+  }
+}

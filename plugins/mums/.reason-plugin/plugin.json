@@ -1,0 +1,13 @@
+{
+  "name": "mums",
+  "displayName": "Mums!",
+  "description": "Save and find your recipes.",
+  "homepage": "https://recipe-memory.yaffazhang87.workers.dev/",
+  "docs": "https://recipe-memory.yaffazhang87.workers.dev/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "mums": {
+      "url": "https://recipe-memory.yaffazhang87.workers.dev/mcp"
+    }
+  }
+}

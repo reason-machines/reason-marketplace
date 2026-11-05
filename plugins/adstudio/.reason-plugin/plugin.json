@@ -1,0 +1,13 @@
+{
+  "name": "adstudio",
+  "displayName": "Adstudio",
+  "description": "Ask your ad accounts anything.",
+  "homepage": "https://useadstudio.com",
+  "docs": "https://useadstudio.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "adstudio": {
+      "url": "https://useadstudio.com/api/mcp"
+    }
+  }
+}

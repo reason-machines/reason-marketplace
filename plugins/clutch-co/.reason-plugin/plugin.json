@@ -1,0 +1,13 @@
+{
+  "name": "clutch-co",
+  "displayName": "Clutch.co",
+  "description": "Find the perfect B2B partner.",
+  "homepage": "https://clutch.co/",
+  "docs": "https://clutch.co/about-mcp",
+  "auth": "none",
+  "mcpServers": {
+    "clutch-co": {
+      "url": "https://bot.clutch.co/mcp"
+    }
+  }
+}

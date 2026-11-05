@@ -1,0 +1,13 @@
+{
+  "name": "beksar",
+  "displayName": "BEKSAR",
+  "description": "Shop analytics for Kazakhstan.",
+  "homepage": "https://beksar.kz",
+  "docs": "https://beksar.kz",
+  "auth": "none",
+  "mcpServers": {
+    "beksar": {
+      "url": "https://mcp.beksar.kz/mcp"
+    }
+  }
+}

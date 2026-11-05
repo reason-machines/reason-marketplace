@@ -1,0 +1,13 @@
+{
+  "name": "bajaj-broking",
+  "displayName": "Bajaj Broking",
+  "description": "Check portfolio & market data.",
+  "homepage": "https://www.bajajbroking.in",
+  "docs": "https://www.bajajbroking.in",
+  "auth": "oauth",
+  "mcpServers": {
+    "bajaj-broking": {
+      "url": "https://mcp.bajajbroking.in/mcp"
+    }
+  }
+}

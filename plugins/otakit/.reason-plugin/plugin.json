@@ -1,0 +1,13 @@
+{
+  "name": "otakit",
+  "displayName": "OtaKit",
+  "description": "OTA updates for Capacitor apps.",
+  "homepage": "https://otakit.app",
+  "docs": "https://otakit.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "otakit": {
+      "url": "https://console.otakit.app/mcp"
+    }
+  }
+}

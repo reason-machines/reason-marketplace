@@ -1,0 +1,13 @@
+{
+  "name": "economic-mind",
+  "displayName": "Economic Mind",
+  "description": "Traceable market insights.",
+  "homepage": "https://www.economicmind.com/",
+  "docs": "https://www.economicmind.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "economic-mind": {
+      "url": "https://mcp.economicmind.com/mcp"
+    }
+  }
+}

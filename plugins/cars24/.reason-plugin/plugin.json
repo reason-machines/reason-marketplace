@@ -1,0 +1,13 @@
+{
+  "name": "cars24",
+  "displayName": "CARS24",
+  "description": "Find your dream car.",
+  "homepage": "https://www.cars24.com/",
+  "docs": "https://www.cars24.com/",
+  "auth": "none",
+  "mcpServers": {
+    "cars24": {
+      "url": "https://mcp.cars24.com/"
+    }
+  }
+}

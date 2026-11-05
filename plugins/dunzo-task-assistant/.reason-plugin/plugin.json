@@ -1,0 +1,13 @@
+{
+  "name": "dunzo-task-assistant",
+  "displayName": "Dunzo - Task Assistant",
+  "description": "Capture and manage tasks.",
+  "homepage": "https://itsdunzo.com",
+  "docs": "https://itsdunzo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dunzo-task-assistant": {
+      "url": "https://api.itsdunzo.com/mcp"
+    }
+  }
+}

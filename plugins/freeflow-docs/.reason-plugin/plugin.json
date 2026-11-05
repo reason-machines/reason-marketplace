@@ -1,0 +1,13 @@
+{
+  "name": "freeflow-docs",
+  "displayName": "Universal Docs",
+  "description": "Office files, edited by chat.",
+  "homepage": "https://docs.freeflow.im",
+  "docs": "https://app.freeflow.im/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "freeflow-docs": {
+      "url": "https://app.freeflow.im/mcp"
+    }
+  }
+}

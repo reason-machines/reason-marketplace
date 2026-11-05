@@ -1,0 +1,13 @@
+{
+  "name": "lacquer",
+  "displayName": "Lacquer",
+  "description": "Book US nail salon visits.",
+  "homepage": "https://lacquer.beauty",
+  "docs": "https://lacquer.beauty",
+  "auth": "none",
+  "mcpServers": {
+    "lacquer": {
+      "url": "https://lacquer.beauty/mcp"
+    }
+  }
+}

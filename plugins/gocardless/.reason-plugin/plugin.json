@@ -1,0 +1,13 @@
+{
+  "name": "gocardless",
+  "displayName": "GoCardless",
+  "description": "Accept and manage payments.",
+  "homepage": "https://gocardless.com/",
+  "docs": "https://gocardless.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "gocardless": {
+      "url": "https://mcp.gocardless.com/mcp"
+    }
+  }
+}

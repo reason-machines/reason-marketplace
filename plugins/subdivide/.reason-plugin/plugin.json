@@ -1,0 +1,13 @@
+{
+  "name": "subdivide",
+  "displayName": "Subdivide",
+  "description": "Metronome and click tracks.",
+  "homepage": "https://www.subdivide.app",
+  "docs": "https://www.subdivide.app",
+  "auth": "none",
+  "mcpServers": {
+    "subdivide": {
+      "url": "https://mcp.subdivide.app/mcp"
+    }
+  }
+}

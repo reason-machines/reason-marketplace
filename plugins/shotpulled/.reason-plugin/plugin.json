@@ -1,0 +1,13 @@
+{
+  "name": "shotpulled",
+  "displayName": "ShotPulled",
+  "description": "Track and dial in espresso.",
+  "homepage": "https://shotpulled.com",
+  "docs": "https://shotpulled.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "shotpulled": {
+      "url": "https://mcp.shotpulled.com/mcp"
+    }
+  }
+}

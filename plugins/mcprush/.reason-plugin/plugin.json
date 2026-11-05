@@ -1,0 +1,13 @@
+{
+  "name": "mcprush",
+  "displayName": "mcprush.com",
+  "description": "Find MCP servers and skills.",
+  "homepage": "https://mcprush.com",
+  "docs": "https://mcprush.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mcprush": {
+      "url": "https://mcprush.com/mcp"
+    }
+  }
+}

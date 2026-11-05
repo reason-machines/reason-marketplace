@@ -1,0 +1,13 @@
+{
+  "name": "manusights",
+  "displayName": "Manusights",
+  "description": "Check citations & manuscripts.",
+  "homepage": "https://manusights.com",
+  "docs": "https://manusights.com",
+  "auth": "none",
+  "mcpServers": {
+    "manusights": {
+      "url": "https://manusights.com/mcp"
+    }
+  }
+}

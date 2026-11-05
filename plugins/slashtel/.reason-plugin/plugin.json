@@ -1,0 +1,13 @@
+{
+  "name": "slashtel",
+  "displayName": "Slashtel",
+  "description": "Travel eSIM, top-up, recharge.",
+  "homepage": "https://slashtel.com",
+  "docs": "https://slashtel.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "slashtel": {
+      "url": "https://slashtel.com/api/mcp"
+    }
+  }
+}

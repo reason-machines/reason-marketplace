@@ -1,0 +1,13 @@
+{
+  "name": "data2content",
+  "displayName": "Data2Content",
+  "description": "Plan content and scripts.",
+  "homepage": "https://data2content.ai",
+  "docs": "https://data2content.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "data2content": {
+      "url": "https://data2content.ai/api/mcp"
+    }
+  }
+}

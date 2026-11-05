@@ -1,0 +1,13 @@
+{
+  "name": "fluent",
+  "displayName": "Fluent",
+  "description": "Your closet in Reason.",
+  "homepage": "https://meetfluent.app",
+  "docs": "https://meetfluent.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "fluent": {
+      "url": "https://mcp.meetfluent.app/mcp"
+    }
+  }
+}

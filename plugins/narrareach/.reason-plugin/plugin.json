@@ -1,0 +1,13 @@
+{
+  "name": "narrareach",
+  "displayName": "Narrareach",
+  "description": "Substack, Medium & social.",
+  "homepage": "https://www.narrareach.com",
+  "docs": "https://www.narrareach.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "narrareach": {
+      "url": "https://narrareach.com/mcp"
+    }
+  }
+}

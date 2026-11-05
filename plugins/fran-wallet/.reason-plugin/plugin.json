@@ -1,0 +1,13 @@
+{
+  "name": "fran-wallet",
+  "displayName": "Fran — Franchise Wallet",
+  "description": "Know what needs attention.",
+  "homepage": "https://franwallet.com",
+  "docs": "https://tedix.dev/apps/fran-franchise-wallet/",
+  "auth": "oauth",
+  "mcpServers": {
+    "fran-wallet": {
+      "url": "https://api.franwallet.com/functions/v1/fran-mcp"
+    }
+  }
+}

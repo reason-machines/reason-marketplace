@@ -1,0 +1,13 @@
+{
+  "name": "ullimo",
+  "displayName": "ULLIMO",
+  "description": "Video and audio projects.",
+  "homepage": "https://ullimo.com/en/",
+  "docs": "https://ullimo.com/en/",
+  "auth": "oauth",
+  "mcpServers": {
+    "ullimo": {
+      "url": "https://ullimo.com/mcp"
+    }
+  }
+}

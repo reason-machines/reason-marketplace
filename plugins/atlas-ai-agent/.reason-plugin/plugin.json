@@ -1,0 +1,13 @@
+{
+  "name": "atlas-ai-agent",
+  "displayName": "Atlas AI Agent",
+  "description": "Briefings, leads, post drafts.",
+  "homepage": "https://atlas.ayonix.com",
+  "docs": "https://atlas.ayonix.com",
+  "auth": "none",
+  "mcpServers": {
+    "atlas-ai-agent": {
+      "url": "https://ayonix.com/mcp"
+    }
+  }
+}

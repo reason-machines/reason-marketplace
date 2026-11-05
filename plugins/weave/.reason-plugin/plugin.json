@@ -1,0 +1,13 @@
+{
+  "name": "weave",
+  "displayName": "Weave",
+  "description": "Your life's context, in chat.",
+  "homepage": "https://weave.cloud/",
+  "docs": "https://weave.cloud/",
+  "auth": "oauth",
+  "mcpServers": {
+    "weave": {
+      "url": "https://mcp.weave.cloud/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wistia",
+  "displayName": "Wistia",
+  "description": "Manage your Wistia content.",
+  "homepage": "https://wistia.com",
+  "docs": "https://wistia.com/product/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "wistia": {
+      "url": "https://api.wistia.com/mcp/api"
+    }
+  }
+}

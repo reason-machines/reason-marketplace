@@ -1,0 +1,13 @@
+{
+  "name": "stilnote",
+  "displayName": "Stilnote",
+  "description": "Find products and plan rooms.",
+  "homepage": "https://stilnote.com",
+  "docs": "https://stilnote.com/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "stilnote": {
+      "url": "https://stilnote.com/api/mcp"
+    }
+  }
+}

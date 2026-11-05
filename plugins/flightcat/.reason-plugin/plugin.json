@@ -1,0 +1,13 @@
+{
+  "name": "flightcat",
+  "displayName": "Flightcat",
+  "description": "Flexible flight search engine.",
+  "homepage": "https://flightcat.io",
+  "docs": "https://flightcat.io",
+  "auth": "none",
+  "mcpServers": {
+    "flightcat": {
+      "url": "https://mcp.flightcat.io/mcp"
+    }
+  }
+}

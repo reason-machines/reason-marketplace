@@ -1,0 +1,13 @@
+{
+  "name": "starcovery",
+  "displayName": "Starcovery",
+  "description": "Find and hire creators.",
+  "homepage": "https://www.starcovery.com",
+  "docs": "https://www.starcovery.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "starcovery": {
+      "url": "https://www.starcovery.com/api/mcp"
+    }
+  }
+}

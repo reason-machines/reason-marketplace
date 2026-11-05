@@ -1,0 +1,13 @@
+{
+  "name": "seats-aero",
+  "displayName": "seats.aero",
+  "description": "Find award flights with points.",
+  "homepage": "https://seats.aero",
+  "docs": "https://seats.aero",
+  "auth": "none",
+  "mcpServers": {
+    "seats-aero": {
+      "url": "https://seats.aero/mcp"
+    }
+  }
+}

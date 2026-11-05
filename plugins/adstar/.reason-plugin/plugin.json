@@ -1,0 +1,13 @@
+{
+  "name": "adstar",
+  "displayName": "AdStar",
+  "description": "Video ads for your products.",
+  "homepage": "https://www.adstar.ai",
+  "docs": "https://www.adstar.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "adstar": {
+      "url": "https://adstar.ai/mcp"
+    }
+  }
+}

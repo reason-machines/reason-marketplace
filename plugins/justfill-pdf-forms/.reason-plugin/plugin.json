@@ -1,0 +1,13 @@
+{
+  "name": "justfill-pdf-forms",
+  "displayName": "JustFill PDF Forms",
+  "description": "Fill existing PDF forms.",
+  "homepage": "https://justfill.app/mcp",
+  "docs": "https://justfill.app/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "justfill-pdf-forms": {
+      "url": "https://justfill.app/api/mcp"
+    }
+  }
+}

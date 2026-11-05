@@ -1,0 +1,13 @@
+{
+  "name": "coram",
+  "displayName": "Coram",
+  "description": "Search and inspect CCTV.",
+  "homepage": "https://www.coram.ai",
+  "docs": "https://www.coram.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "coram": {
+      "url": "https://mcp.coram.ai/mcp"
+    }
+  }
+}

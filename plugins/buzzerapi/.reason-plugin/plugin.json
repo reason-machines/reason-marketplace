@@ -1,0 +1,13 @@
+{
+  "name": "buzzerapi",
+  "displayName": "BuzzerAPI",
+  "description": "Manage building access.",
+  "homepage": "https://www.buzzerapi.com/mcp.html",
+  "docs": "https://www.buzzerapi.com/mcp.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "buzzerapi": {
+      "url": "https://api.buzzerapi.com/mcp"
+    }
+  }
+}

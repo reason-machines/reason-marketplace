@@ -1,0 +1,13 @@
+{
+  "name": "arso",
+  "displayName": "arso.lol — Slovenian weather",
+  "description": "Slovenian weather (unofficial).",
+  "homepage": "https://arso.lol",
+  "docs": "https://arso.lol",
+  "auth": "none",
+  "mcpServers": {
+    "arso": {
+      "url": "https://arso.lol/mcp"
+    }
+  }
+}

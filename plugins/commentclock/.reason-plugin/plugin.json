@@ -1,0 +1,13 @@
+{
+  "name": "commentclock",
+  "displayName": "Public Comment Deadlines",
+  "description": "Find comment closing dates.",
+  "homepage": "https://commentclock-mcp.sunrysetech.com/",
+  "docs": "https://commentclock-mcp.sunrysetech.com/",
+  "auth": "none",
+  "mcpServers": {
+    "commentclock": {
+      "url": "https://commentclock-mcp.sunrysetech.com/mcp"
+    }
+  }
+}

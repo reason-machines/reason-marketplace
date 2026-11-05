@@ -1,0 +1,13 @@
+{
+  "name": "family-trip-budget",
+  "displayName": "Family Trip Budget",
+  "description": "Family trip costs in seconds.",
+  "homepage": "https://www.endlesstravelplans.com/ai-assistants",
+  "docs": "https://www.endlesstravelplans.com/ai-assistants",
+  "auth": "none",
+  "mcpServers": {
+    "family-trip-budget": {
+      "url": "https://www.endlesstravelplans.com/mcp"
+    }
+  }
+}

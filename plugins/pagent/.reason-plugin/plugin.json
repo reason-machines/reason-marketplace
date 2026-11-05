@@ -1,0 +1,13 @@
+{
+  "name": "pagent",
+  "displayName": "pagent",
+  "description": "Optimize website experiments.",
+  "homepage": "https://pagent.ai",
+  "docs": "https://pagent.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "pagent": {
+      "url": "https://app.pagent.ai/api/mcp"
+    }
+  }
+}

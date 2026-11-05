@@ -1,0 +1,13 @@
+{
+  "name": "bybit",
+  "displayName": "Bybit",
+  "description": "Real-time crypto market data.",
+  "homepage": "https://www.bybit.com/",
+  "docs": "https://tedix.dev/apps/bybit/",
+  "auth": "none",
+  "mcpServers": {
+    "bybit": {
+      "url": "https://agent.bybit.com/mcp/chatgpt"
+    }
+  }
+}

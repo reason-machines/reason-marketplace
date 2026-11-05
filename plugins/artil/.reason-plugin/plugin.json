@@ -1,0 +1,13 @@
+{
+  "name": "artil",
+  "displayName": "Artil",
+  "description": "Email, SMS numbers for Reason.",
+  "homepage": "https://artil.ai",
+  "docs": "https://artil.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "artil": {
+      "url": "https://mcp.artil.ai/mcp"
+    }
+  }
+}

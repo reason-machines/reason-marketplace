@@ -1,0 +1,13 @@
+{
+  "name": "motionvid",
+  "displayName": "Motionvid",
+  "description": "Motion graphics video maker.",
+  "homepage": "https://motionvid.ai/",
+  "docs": "https://motionvid.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "motionvid": {
+      "url": "https://motionvid.ai/mcp"
+    }
+  }
+}

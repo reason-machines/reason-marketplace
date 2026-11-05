@@ -1,0 +1,13 @@
+{
+  "name": "myareareport",
+  "displayName": "MyAreaReport",
+  "description": "UK area intelligence.",
+  "homepage": "https://myareareport.com/",
+  "docs": "https://myareareport.com/",
+  "auth": "none",
+  "mcpServers": {
+    "myareareport": {
+      "url": "https://mcp.myareareport.com/mcp"
+    }
+  }
+}

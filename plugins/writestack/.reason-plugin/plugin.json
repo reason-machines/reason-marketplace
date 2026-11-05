@@ -1,0 +1,13 @@
+{
+  "name": "writestack",
+  "displayName": "WriteStack",
+  "description": "Manage Substack Notes.",
+  "homepage": "https://www.writestack.io",
+  "docs": "https://www.writestack.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "writestack": {
+      "url": "https://www.writestack.io/api/mcp/mcp"
+    }
+  }
+}

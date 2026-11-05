@@ -1,0 +1,13 @@
+{
+  "name": "hoptodesk",
+  "displayName": "HopToDesk",
+  "description": "Fix the computers you manage.",
+  "homepage": "https://www.hoptodesk.com/connect",
+  "docs": "https://www.hoptodesk.com/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "hoptodesk": {
+      "url": "https://dashboard.hoptodesk.com/mcp"
+    }
+  }
+}

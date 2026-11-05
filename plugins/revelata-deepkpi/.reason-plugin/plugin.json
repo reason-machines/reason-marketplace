@@ -1,0 +1,13 @@
+{
+  "name": "revelata-deepkpi",
+  "displayName": "Revelata deepKPI",
+  "description": "SEC KPIs and filings.",
+  "homepage": "https://www.revelata.com/",
+  "docs": "https://tedix.dev/apps/revelata-deepkpi/",
+  "auth": "oauth",
+  "mcpServers": {
+    "revelata-deepkpi": {
+      "url": "https://deepkpi-mcp.revelata.com/mcp"
+    }
+  }
+}

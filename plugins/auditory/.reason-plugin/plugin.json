@@ -1,0 +1,13 @@
+{
+  "name": "auditory",
+  "displayName": "Auditory",
+  "description": "Make every rep your best rep.",
+  "homepage": "https://auditory.co",
+  "docs": "https://api.auditory.co/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "auditory": {
+      "url": "https://api.auditory.co/mcp"
+    }
+  }
+}

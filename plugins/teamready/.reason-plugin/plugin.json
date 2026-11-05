@@ -1,0 +1,13 @@
+{
+  "name": "teamready",
+  "displayName": "TeamReady",
+  "description": "Youth sports game scheduling.",
+  "homepage": "https://teamready-chatgpt-app.vercel.app/plugin",
+  "docs": "https://teamready-chatgpt-app.vercel.app/plugin",
+  "auth": "none",
+  "mcpServers": {
+    "teamready": {
+      "url": "https://teamready-chatgpt-app.vercel.app/mcp"
+    }
+  }
+}

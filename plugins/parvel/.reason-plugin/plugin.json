@@ -1,0 +1,13 @@
+{
+  "name": "parvel",
+  "displayName": "Parvel",
+  "description": "Legislative monitoring data.",
+  "homepage": "https://parvel.com",
+  "docs": "https://parvel.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "parvel": {
+      "url": "https://parvel.com/mcp"
+    }
+  }
+}

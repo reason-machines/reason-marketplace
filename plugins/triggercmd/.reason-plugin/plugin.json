@@ -1,0 +1,13 @@
+{
+  "name": "triggercmd",
+  "displayName": "TRIGGERcmd",
+  "description": "Run commands on your computers.",
+  "homepage": "https://www.triggercmd.com",
+  "docs": "https://www.triggercmd.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "triggercmd": {
+      "url": "https://triggercmd.com/mcp"
+    }
+  }
+}

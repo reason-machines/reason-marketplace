@@ -1,0 +1,13 @@
+{
+  "name": "agent-community",
+  "displayName": "Agent Community",
+  "description": "Member lookup and DMV tools.",
+  "homepage": "https://agentcommunity.org",
+  "docs": "https://agentcommunity.org",
+  "auth": "none",
+  "mcpServers": {
+    "agent-community": {
+      "url": "https://agentcommunity.org/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cookmarks",
+  "displayName": "Cookmarks",
+  "description": "Recipes, meal plans, groceries.",
+  "homepage": "https://www.cookmarks.app",
+  "docs": "https://cookmarks.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "cookmarks": {
+      "url": "https://www.cookmarks.app/api/mcp"
+    }
+  }
+}

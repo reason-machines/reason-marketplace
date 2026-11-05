@@ -1,0 +1,13 @@
+{
+  "name": "quantdaily",
+  "displayName": "Quant Daily",
+  "description": "Verified GRE/GMAT quant daily.",
+  "homepage": "https://quantdaily.app",
+  "docs": "https://quantdaily.app",
+  "auth": "none",
+  "mcpServers": {
+    "quantdaily": {
+      "url": "https://mcp.quantdaily.app/mcp"
+    }
+  }
+}

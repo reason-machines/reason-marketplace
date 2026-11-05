@@ -1,0 +1,13 @@
+{
+  "name": "larridin-work-context",
+  "displayName": "Larridin Work Context",
+  "description": "Your work, in context.",
+  "homepage": "https://larridin.com/work-context/",
+  "docs": "https://app.larridin.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "larridin-work-context": {
+      "url": "https://app.larridin.com/mcp/larridin"
+    }
+  }
+}

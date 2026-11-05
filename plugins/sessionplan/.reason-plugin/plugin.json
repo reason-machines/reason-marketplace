@@ -1,0 +1,13 @@
+{
+  "name": "sessionplan",
+  "displayName": "Sessionplan",
+  "description": "Create and revise agendas.",
+  "homepage": "https://sessionplan.de/en",
+  "docs": "https://sessionplan.de/en",
+  "auth": "none",
+  "mcpServers": {
+    "sessionplan": {
+      "url": "https://sessionplan.de/mcp"
+    }
+  }
+}

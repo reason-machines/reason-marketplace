@@ -1,0 +1,13 @@
+{
+  "name": "switchnest",
+  "displayName": "SwitchNest",
+  "description": "Control your smart home.",
+  "homepage": "https://onlineswitch.bhartitechnical.com/",
+  "docs": "https://onlineswitch.bhartitechnical.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "switchnest": {
+      "url": "https://onlineswitch.bhartitechnical.com/mcp"
+    }
+  }
+}

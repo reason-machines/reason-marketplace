@@ -1,0 +1,13 @@
+{
+  "name": "otnox",
+  "displayName": "Otnox",
+  "description": "Search public tenders.",
+  "homepage": "https://otnox.com",
+  "docs": "https://otnox.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "otnox": {
+      "url": "https://mcp.otnox.com/mcp"
+    }
+  }
+}

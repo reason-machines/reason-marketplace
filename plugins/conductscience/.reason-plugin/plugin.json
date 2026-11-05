@@ -1,0 +1,13 @@
+{
+  "name": "conductscience",
+  "displayName": "ConductScience",
+  "description": "Research equipment & software.",
+  "homepage": "https://conductscience.com",
+  "docs": "https://conductscience.com",
+  "auth": "none",
+  "mcpServers": {
+    "conductscience": {
+      "url": "https://conductscience.com/api/mcp"
+    }
+  }
+}

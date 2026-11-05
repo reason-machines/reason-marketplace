@@ -1,0 +1,13 @@
+{
+  "name": "lochless",
+  "displayName": "Lochless",
+  "description": "Every match, not the top 10.",
+  "homepage": "https://lochless.io",
+  "docs": "https://lochless.io",
+  "auth": "none",
+  "mcpServers": {
+    "lochless": {
+      "url": "https://api.lochless.io/demo/mcp"
+    }
+  }
+}

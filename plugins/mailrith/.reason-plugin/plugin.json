@@ -1,0 +1,13 @@
+{
+  "name": "mailrith",
+  "displayName": "Mailrith",
+  "description": "Manage email marketing.",
+  "homepage": "https://mailrith.com/",
+  "docs": "https://mailrith.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "mailrith": {
+      "url": "https://api.mailrith.com/mcp"
+    }
+  }
+}

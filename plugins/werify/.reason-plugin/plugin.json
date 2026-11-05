@@ -1,0 +1,13 @@
+{
+  "name": "werify",
+  "displayName": "Werify",
+  "description": "Your WhatsApp archive.",
+  "homepage": "https://werify.app",
+  "docs": "https://werify.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "werify": {
+      "url": "https://werify.app/mcp"
+    }
+  }
+}

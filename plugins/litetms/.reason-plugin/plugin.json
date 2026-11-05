@@ -1,0 +1,13 @@
+{
+  "name": "litetms",
+  "displayName": "LiteTMS",
+  "description": "LiteTMS in plain language.",
+  "homepage": "https://litetms.eu",
+  "docs": "https://litetms.eu",
+  "auth": "oauth",
+  "mcpServers": {
+    "litetms": {
+      "url": "https://mcp.litetms.eu/mcp"
+    }
+  }
+}

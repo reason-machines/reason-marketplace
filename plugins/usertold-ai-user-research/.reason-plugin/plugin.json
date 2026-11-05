@@ -1,0 +1,13 @@
+{
+  "name": "usertold-ai-user-research",
+  "displayName": "UserTold: AI User Research",
+  "description": "User interviews & UX testing.",
+  "homepage": "https://usertold.ai",
+  "docs": "https://usertold.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "usertold-ai-user-research": {
+      "url": "https://mcp.usertold.ai/mcp"
+    }
+  }
+}

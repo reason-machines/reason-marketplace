@@ -1,0 +1,13 @@
+{
+  "name": "usagetap",
+  "displayName": "UsageTap",
+  "description": "Analyze customer AI usage.",
+  "homepage": "https://usagetap.com",
+  "docs": "https://usagetap.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "usagetap": {
+      "url": "https://mcp.usagetap.com/mcp"
+    }
+  }
+}

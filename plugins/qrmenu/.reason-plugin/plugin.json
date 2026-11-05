@@ -1,0 +1,13 @@
+{
+  "name": "qrmenu",
+  "displayName": "QRMenü",
+  "description": "Manage your restaurant menus.",
+  "homepage": "https://qrmenu.evdsoft.com",
+  "docs": "https://qrmenu.evdsoft.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "qrmenu": {
+      "url": "https://qrmenu.evdsoft.com/mcp"
+    }
+  }
+}

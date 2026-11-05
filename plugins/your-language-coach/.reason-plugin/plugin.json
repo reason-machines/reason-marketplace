@@ -1,0 +1,13 @@
+{
+  "name": "your-language-coach",
+  "displayName": "Your Language Coach",
+  "description": "Run your language centre.",
+  "homepage": "https://yourlanguage.coach",
+  "docs": "https://yourlanguage.coach",
+  "auth": "oauth",
+  "mcpServers": {
+    "your-language-coach": {
+      "url": "https://mcp.yourlanguage.coach/mcp"
+    }
+  }
+}

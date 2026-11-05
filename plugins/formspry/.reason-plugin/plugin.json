@@ -1,0 +1,13 @@
+{
+  "name": "formspry",
+  "displayName": "Formspry",
+  "description": "Build and manage forms.",
+  "homepage": "https://formspry.com",
+  "docs": "https://formspry.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "formspry": {
+      "url": "https://formspry.com/api/mcp"
+    }
+  }
+}

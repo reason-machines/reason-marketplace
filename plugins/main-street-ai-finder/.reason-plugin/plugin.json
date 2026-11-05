@@ -1,0 +1,13 @@
+{
+  "name": "main-street-ai-finder",
+  "displayName": "Main Street AI Finder™",
+  "description": "AI tools for small businesses.",
+  "homepage": "https://mainstaifinder.com",
+  "docs": "https://mainstaifinder.com",
+  "auth": "none",
+  "mcpServers": {
+    "main-street-ai-finder": {
+      "url": "https://mainstaifinder.com/mcp"
+    }
+  }
+}

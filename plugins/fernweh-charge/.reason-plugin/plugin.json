@@ -1,0 +1,13 @@
+{
+  "name": "fernweh-charge",
+  "displayName": "Fernweh Charge",
+  "description": "Live EV charging in Germany.",
+  "homepage": "https://www.fernweh.world/en/charge",
+  "docs": "https://www.fernweh.world/en/charge",
+  "auth": "none",
+  "mcpServers": {
+    "fernweh-charge": {
+      "url": "https://charge.fernweh.world/mcp"
+    }
+  }
+}

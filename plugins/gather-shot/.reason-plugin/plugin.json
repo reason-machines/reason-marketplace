@@ -1,0 +1,13 @@
+{
+  "name": "gather-shot",
+  "displayName": "Gather Shot",
+  "description": "Manage event photo sharing.",
+  "homepage": "https://gathershot.com",
+  "docs": "https://gathershot.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "gather-shot": {
+      "url": "https://app.gathershot.com/mcp"
+    }
+  }
+}

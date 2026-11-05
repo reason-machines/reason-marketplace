@@ -1,0 +1,13 @@
+{
+  "name": "magister-marketing",
+  "displayName": "Magister Marketing",
+  "description": "Plan and run your marketing.",
+  "homepage": "https://magistermarketing.com",
+  "docs": "https://magistermarketing.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "magister-marketing": {
+      "url": "https://mcp.magistermarketing.com/mcp"
+    }
+  }
+}

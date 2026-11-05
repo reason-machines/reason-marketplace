@@ -1,0 +1,13 @@
+{
+  "name": "proppi",
+  "displayName": "Proppi",
+  "description": "Property records and listings.",
+  "homepage": "https://proppi.ai",
+  "docs": "https://agents.proppi.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "proppi": {
+      "url": "https://agents.proppi.ai/api/mcp"
+    }
+  }
+}

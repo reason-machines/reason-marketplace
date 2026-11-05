@@ -1,0 +1,13 @@
+{
+  "name": "warmhub",
+  "displayName": "WarmHub",
+  "description": "Work with knowledge graphs.",
+  "homepage": "https://warmhub.ai/",
+  "docs": "https://warmhub.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "warmhub": {
+      "url": "https://mcp.warmhub.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tusella",
+  "displayName": "Tusella",
+  "description": "Etsy listing workspace.",
+  "homepage": "https://tusella.com",
+  "docs": "https://tusella.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "tusella": {
+      "url": "https://mcp.tusella.com/mcp"
+    }
+  }
+}

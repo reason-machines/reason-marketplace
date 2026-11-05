@@ -1,0 +1,13 @@
+{
+  "name": "kiasumiles",
+  "displayName": "KiasuMiles",
+  "description": "Pick the best miles card.",
+  "homepage": "https://kiasumiles.space",
+  "docs": "https://kiasumiles.space",
+  "auth": "none",
+  "mcpServers": {
+    "kiasumiles": {
+      "url": "https://kiasumiles.space/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "btc-dca-engine",
+  "displayName": "BTC DCA Engine",
+  "description": "Historical DCA simulator.",
+  "homepage": "https://btcdcaengine.com/mcp-server",
+  "docs": "https://btcdcaengine.com/mcp-server",
+  "auth": "none",
+  "mcpServers": {
+    "btc-dca-engine": {
+      "url": "https://btcdcaengine.com/mcp"
+    }
+  }
+}

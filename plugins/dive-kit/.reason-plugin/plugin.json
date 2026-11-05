@@ -1,0 +1,13 @@
+{
+  "name": "dive-kit",
+  "displayName": "Dive Kit",
+  "description": "Scuba dive planning tools.",
+  "homepage": "https://divekit.app/ai/",
+  "docs": "https://divekit.app/ai/",
+  "auth": "none",
+  "mcpServers": {
+    "dive-kit": {
+      "url": "https://mcp.divekit.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "reelyze",
+  "displayName": "Reelyze",
+  "description": "Find why reels lose viewers.",
+  "homepage": "https://getreelyze.com",
+  "docs": "https://api.getreelyze.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "reelyze": {
+      "url": "https://api.getreelyze.com/mcp"
+    }
+  }
+}

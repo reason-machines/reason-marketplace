@@ -1,0 +1,13 @@
+{
+  "name": "bowtie-one",
+  "displayName": "Bowtie One",
+  "description": "Build and review bowtie risks.",
+  "homepage": "https://www.bowtie.one",
+  "docs": "https://bowtie.one/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "bowtie-one": {
+      "url": "https://app.bowtie.one/api/mcp"
+    }
+  }
+}

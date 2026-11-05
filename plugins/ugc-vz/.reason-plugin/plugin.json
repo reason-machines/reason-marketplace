@@ -1,0 +1,13 @@
+{
+  "name": "ugc-vz",
+  "displayName": "UGC VZ",
+  "description": "Find real UGC creators (DACH).",
+  "homepage": "https://ugc-vz.de/",
+  "docs": "https://ugc-vz.de/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "ugc-vz": {
+      "url": "https://ugc-vz.de/api/mcp"
+    }
+  }
+}

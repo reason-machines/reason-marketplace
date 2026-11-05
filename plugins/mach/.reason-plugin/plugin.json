@@ -1,0 +1,13 @@
+{
+  "name": "mach",
+  "displayName": "mach",
+  "description": "Inspect mobile delivery safely.",
+  "homepage": "https://getmach.dev",
+  "docs": "https://getmach.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "mach": {
+      "url": "https://mcp.getmach.dev/mcp"
+    }
+  }
+}

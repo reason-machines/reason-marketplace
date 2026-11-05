@@ -1,0 +1,13 @@
+{
+  "name": "shorty-edit",
+  "displayName": "Shorty Edit",
+  "description": "AI edits your ads.",
+  "homepage": "https://shortyedit.com",
+  "docs": "https://shortyedit.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "shorty-edit": {
+      "url": "https://mcp.shortyedit.com/mcp"
+    }
+  }
+}

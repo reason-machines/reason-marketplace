@@ -1,0 +1,13 @@
+{
+  "name": "lemlist",
+  "displayName": "lemlist",
+  "description": "Run multichannel outreach.",
+  "homepage": "https://www.lemlist.com/",
+  "docs": "https://www.lemlist.com/blog/lemlist-mcp-use-cases",
+  "auth": "oauth",
+  "mcpServers": {
+    "lemlist": {
+      "url": "https://app.lemlist.com/mcp"
+    }
+  }
+}

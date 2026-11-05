@@ -1,0 +1,13 @@
+{
+  "name": "mindmap-town",
+  "displayName": "MindMap.Town",
+  "description": "Turn ideas into mind maps.",
+  "homepage": "https://mindmap.town",
+  "docs": "https://mindmap.town",
+  "auth": "none",
+  "mcpServers": {
+    "mindmap-town": {
+      "url": "https://mindmap.town/mcp"
+    }
+  }
+}

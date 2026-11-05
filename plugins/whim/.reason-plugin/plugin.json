@@ -1,0 +1,13 @@
+{
+  "name": "whim",
+  "displayName": "Whim",
+  "description": "Turn any idea into a song.",
+  "homepage": "https://onwhim.app",
+  "docs": "https://onwhim.app",
+  "auth": "none",
+  "mcpServers": {
+    "whim": {
+      "url": "https://onwhim.app/mcp"
+    }
+  }
+}

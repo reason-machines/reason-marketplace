@@ -1,0 +1,13 @@
+{
+  "name": "social-magnum",
+  "displayName": "Social Magnum",
+  "description": "Plan and manage social posts.",
+  "homepage": "https://socialmagnum.com/mcp",
+  "docs": "https://socialmagnum.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "social-magnum": {
+      "url": "https://socialmagnum.com/api/mcp"
+    }
+  }
+}

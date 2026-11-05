@@ -1,0 +1,13 @@
+{
+  "name": "thecam",
+  "displayName": "theCam",
+  "description": "Find pros. Plan your shoot.",
+  "homepage": "https://thecam.app",
+  "docs": "https://api.thecam.app/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "thecam": {
+      "url": "https://api.thecam.app/user-mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "revenue-analytics",
+  "displayName": "Revenue Analytics",
+  "description": "Non-trivial RevOps reports.",
+  "homepage": "https://datalabs.store/ai-context-bridge-for-hubspot",
+  "docs": "https://datalabs.store/ai-context-bridge-for-hubspot",
+  "auth": "oauth",
+  "mcpServers": {
+    "revenue-analytics": {
+      "url": "https://mcp.datalabs.store/mcp"
+    }
+  }
+}

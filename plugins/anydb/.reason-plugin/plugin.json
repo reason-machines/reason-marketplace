@@ -1,0 +1,13 @@
+{
+  "name": "anydb",
+  "displayName": "AnyDB",
+  "description": "Manage records and workflows.",
+  "homepage": "https://www.anydb.com",
+  "docs": "https://www.anydb.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "anydb": {
+      "url": "https://mcp.anydb.com/"
+    }
+  }
+}

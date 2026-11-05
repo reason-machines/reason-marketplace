@@ -1,0 +1,13 @@
+{
+  "name": "what-shipping",
+  "displayName": "WHAT Shipping",
+  "description": "Dropshipping store research.",
+  "homepage": "https://www.whatshipping.com",
+  "docs": "https://www.whatshipping.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "what-shipping": {
+      "url": "https://www.whatshipping.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "buzzy",
+  "displayName": "Buzzy",
+  "description": "Create images, videos, and ads.",
+  "homepage": "https://www.buzzy.now",
+  "docs": "https://www.buzzy.now",
+  "auth": "oauth",
+  "mcpServers": {
+    "buzzy": {
+      "url": "https://mcp.buzzy.now/mcp"
+    }
+  }
+}

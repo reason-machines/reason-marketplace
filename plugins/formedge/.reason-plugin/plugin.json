@@ -1,0 +1,13 @@
+{
+  "name": "formedge",
+  "displayName": "FormEdge",
+  "description": "Forms and one-page websites.",
+  "homepage": "https://formedge.app/",
+  "docs": "https://formedge.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "formedge": {
+      "url": "https://mcp.formedge.app/mcp"
+    }
+  }
+}

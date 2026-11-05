@@ -1,0 +1,13 @@
+{
+  "name": "agentxray",
+  "displayName": "AgentXray",
+  "description": "Amazon seller profit and PPC.",
+  "homepage": "https://agentxray.ai/connect/chatgpt",
+  "docs": "https://agentxray.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentxray": {
+      "url": "https://agentxray.ai/api/mcp"
+    }
+  }
+}

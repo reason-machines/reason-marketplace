@@ -1,0 +1,13 @@
+{
+  "name": "priceluma",
+  "displayName": "Priceluma: Compare Prices",
+  "description": "New and secondhand prices.",
+  "homepage": "https://priceluma.com",
+  "docs": "https://priceluma.com",
+  "auth": "none",
+  "mcpServers": {
+    "priceluma": {
+      "url": "https://mcp.priceluma.com/mcp"
+    }
+  }
+}

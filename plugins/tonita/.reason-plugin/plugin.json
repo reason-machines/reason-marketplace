@@ -1,0 +1,13 @@
+{
+  "name": "tonita",
+  "displayName": "Tonita",
+  "description": "Shopping Search and Discovery.",
+  "homepage": "https://tonita.co/",
+  "docs": "https://tonita.co/",
+  "auth": "none",
+  "mcpServers": {
+    "tonita": {
+      "url": "https://mcp.tonita.co/mcp"
+    }
+  }
+}

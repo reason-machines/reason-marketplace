@@ -1,0 +1,13 @@
+{
+  "name": "signalraven",
+  "displayName": "SignalRaven",
+  "description": "LinkedIn buying-intent signals.",
+  "homepage": "https://signalraven.ai",
+  "docs": "https://signalraven.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "signalraven": {
+      "url": "https://api.signalraven.ai/mcp"
+    }
+  }
+}

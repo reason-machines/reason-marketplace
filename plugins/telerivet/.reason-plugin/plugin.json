@@ -1,0 +1,13 @@
+{
+  "name": "telerivet",
+  "displayName": "Telerivet",
+  "description": "Send/automate SMS & WhatsApp.",
+  "homepage": "https://www.telerivet.com/",
+  "docs": "https://telerivet.com/integrations/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "telerivet": {
+      "url": "https://api.telerivet.com/mcp"
+    }
+  }
+}

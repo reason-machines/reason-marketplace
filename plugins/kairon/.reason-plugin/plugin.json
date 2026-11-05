@@ -1,0 +1,13 @@
+{
+  "name": "kairon",
+  "displayName": "Kairon",
+  "description": "Find, qualify, reach leads.",
+  "homepage": "https://heykairon.com",
+  "docs": "https://heykairon.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "kairon": {
+      "url": "https://app.heykairon.com/mcp"
+    }
+  }
+}

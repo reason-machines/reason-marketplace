@@ -1,0 +1,13 @@
+{
+  "name": "survicate",
+  "displayName": "Survicate",
+  "description": "Customer Feedback Platform.",
+  "homepage": "https://survicate.com",
+  "docs": "https://survicate.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "survicate": {
+      "url": "https://mcp.survicate.com/mcp"
+    }
+  }
+}

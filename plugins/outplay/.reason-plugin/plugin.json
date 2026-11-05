@@ -1,0 +1,13 @@
+{
+  "name": "outplay",
+  "displayName": "Outplay",
+  "description": "Run your sales outreach.",
+  "homepage": "https://outplay.ai",
+  "docs": "https://outplay.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "outplay": {
+      "url": "https://mcp.outplay.ai/mcp"
+    }
+  }
+}

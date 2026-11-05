@@ -1,0 +1,13 @@
+{
+  "name": "rainvis-hourly-weather-charts",
+  "displayName": "RainVis Hourly Weather Charts",
+  "description": "How much will it rain and when.",
+  "homepage": "https://rainvis.com",
+  "docs": "https://rainvis.com",
+  "auth": "none",
+  "mcpServers": {
+    "rainvis-hourly-weather-charts": {
+      "url": "https://rainvis.com/mcp"
+    }
+  }
+}

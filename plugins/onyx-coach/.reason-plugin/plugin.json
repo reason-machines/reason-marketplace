@@ -1,0 +1,13 @@
+{
+  "name": "onyx-coach",
+  "displayName": "Onyx Coach",
+  "description": "Coach clients and workouts.",
+  "homepage": "https://onyxcoach.com/",
+  "docs": "https://onyxcoach.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "onyx-coach": {
+      "url": "https://api.onyxcoach.com/mcp"
+    }
+  }
+}

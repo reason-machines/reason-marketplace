@@ -1,0 +1,13 @@
+{
+  "name": "world-news-sources",
+  "displayName": "World News Sources",
+  "description": "Find RSS feeds and sitemaps.",
+  "homepage": "https://news.bymyleslee.com",
+  "docs": "https://news.bymyleslee.com",
+  "auth": "none",
+  "mcpServers": {
+    "world-news-sources": {
+      "url": "https://news.bymyleslee.com/mcp"
+    }
+  }
+}

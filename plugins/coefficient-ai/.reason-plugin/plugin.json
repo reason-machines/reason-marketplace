@@ -1,0 +1,13 @@
+{
+  "name": "coefficient-ai",
+  "displayName": "Coefficient AI",
+  "description": "The data agent for everyone.",
+  "homepage": "https://coefficient.io/ai",
+  "docs": "https://superagent.app.coefficient.io/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "coefficient-ai": {
+      "url": "https://superagent.app.coefficient.io/mcp"
+    }
+  }
+}

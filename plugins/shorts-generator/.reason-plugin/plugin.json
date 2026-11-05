@@ -1,0 +1,13 @@
+{
+  "name": "shorts-generator",
+  "displayName": "Shorts Generator",
+  "description": "Create and finish short videos.",
+  "homepage": "https://www.shortsgenerator.com/chatgpt",
+  "docs": "https://www.shortsgenerator.com/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "shorts-generator": {
+      "url": "https://shortsgenerator.com/mcp"
+    }
+  }
+}

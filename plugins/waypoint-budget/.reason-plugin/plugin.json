@@ -1,0 +1,13 @@
+{
+  "name": "waypoint-budget",
+  "displayName": "Waypoint Budget",
+  "description": "Your budget, ready to answer.",
+  "homepage": "https://waypointbudget.com",
+  "docs": "https://waypointbudget.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "waypoint-budget": {
+      "url": "https://waypointbudget.com/api/mcp"
+    }
+  }
+}

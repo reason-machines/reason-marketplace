@@ -1,0 +1,13 @@
+{
+  "name": "sisulift",
+  "displayName": "SisuLift",
+  "description": "Gym programs that progress.",
+  "homepage": "https://www.sisulift.app",
+  "docs": "https://www.sisulift.app",
+  "auth": "none",
+  "mcpServers": {
+    "sisulift": {
+      "url": "https://sisulift.app/mcp"
+    }
+  }
+}

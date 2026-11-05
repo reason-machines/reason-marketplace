@@ -1,0 +1,13 @@
+{
+  "name": "hourproof",
+  "displayName": "HourProof",
+  "description": "Log rental participation hours.",
+  "homepage": "https://www.hourproof.app",
+  "docs": "https://tedix.dev/apps/hourproof/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hourproof": {
+      "url": "https://www.hourproof.app/api/mcp"
+    }
+  }
+}

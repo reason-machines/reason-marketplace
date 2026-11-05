@@ -1,0 +1,13 @@
+{
+  "name": "daoco",
+  "displayName": "Daoco",
+  "description": "Your brand's marketing team.",
+  "homepage": "https://daoco.org",
+  "docs": "https://daoco.org",
+  "auth": "oauth",
+  "mcpServers": {
+    "daoco": {
+      "url": "https://daoco.org/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "evertrain",
+  "displayName": "evertrain",
+  "description": "Plan and adjust your training.",
+  "homepage": "https://evertrain.app/",
+  "docs": "https://evertrain.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "evertrain": {
+      "url": "https://mcp.evertrain.app/mcp"
+    }
+  }
+}

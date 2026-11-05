@@ -1,0 +1,13 @@
+{
+  "name": "ai-rechtshulp",
+  "displayName": "AI Rechtshulp",
+  "description": "Rechtspraak met bronpassages.",
+  "homepage": "https://app.ai-rechtshulp.nl/plugin/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.smrht/ai-rechtshulp",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai-rechtshulp": {
+      "url": "https://app.ai-rechtshulp.nl/mcp"
+    }
+  }
+}

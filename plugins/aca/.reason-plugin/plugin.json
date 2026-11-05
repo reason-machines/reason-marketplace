@@ -1,0 +1,13 @@
+{
+  "name": "aca",
+  "displayName": "ACA",
+  "description": "Manage leads and outreach.",
+  "homepage": "https://www.automatedclientacquisition.com/mcp",
+  "docs": "https://www.automatedclientacquisition.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "aca": {
+      "url": "https://mcp.automatedclientacquisition.com/mcp"
+    }
+  }
+}

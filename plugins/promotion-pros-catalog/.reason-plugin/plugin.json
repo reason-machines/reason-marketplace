@@ -1,0 +1,13 @@
+{
+  "name": "promotion-pros-catalog",
+  "displayName": "Promotion Pros Catalog",
+  "description": "Price merch, check delivery.",
+  "homepage": "https://www.promotionpros.com",
+  "docs": "https://www.promotionpros.com",
+  "auth": "none",
+  "mcpServers": {
+    "promotion-pros-catalog": {
+      "url": "https://mcp.promotionpros.com/mcp"
+    }
+  }
+}

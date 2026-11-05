@@ -1,0 +1,13 @@
+{
+  "name": "miromiro",
+  "displayName": "MiroMiro",
+  "description": "Extract any website's design.",
+  "homepage": "https://miromiro.app/api",
+  "docs": "https://miromiro.app/api",
+  "auth": "oauth",
+  "mcpServers": {
+    "miromiro": {
+      "url": "https://miromiro.app/mcp"
+    }
+  }
+}

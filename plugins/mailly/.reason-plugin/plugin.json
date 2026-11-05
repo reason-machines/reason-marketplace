@@ -1,0 +1,13 @@
+{
+  "name": "mailly",
+  "displayName": "Mailly",
+  "description": "Email for agents.",
+  "homepage": "https://mailly.site",
+  "docs": "https://mailly.site",
+  "auth": "oauth",
+  "mcpServers": {
+    "mailly": {
+      "url": "https://mcp.mailly.site/mcp"
+    }
+  }
+}

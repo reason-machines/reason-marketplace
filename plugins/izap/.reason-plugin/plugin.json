@@ -1,0 +1,13 @@
+{
+  "name": "izap",
+  "displayName": "iZap",
+  "description": "Manage your WhatsApp business.",
+  "homepage": "https://izap.ai?utm_source=chatgpt",
+  "docs": "https://izap.ai?utm_source=chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "izap": {
+      "url": "https://izap.ai/mcp"
+    }
+  }
+}

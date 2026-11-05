@@ -1,0 +1,13 @@
+{
+  "name": "lexgo-jobs",
+  "displayName": "LexGO Jobs",
+  "description": "Legal jobs in BE/LU.",
+  "homepage": "https://www.lexgo.be/developers",
+  "docs": "https://www.lexgo.be/developers",
+  "auth": "none",
+  "mcpServers": {
+    "lexgo-jobs": {
+      "url": "https://lexgo.be/mcp"
+    }
+  }
+}

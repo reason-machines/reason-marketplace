@@ -1,0 +1,13 @@
+{
+  "name": "deepstack",
+  "displayName": "DeepStack",
+  "description": "Where investors disagree.",
+  "homepage": "https://deepstack.ltd",
+  "docs": "https://deepstack.ltd",
+  "auth": "none",
+  "mcpServers": {
+    "deepstack": {
+      "url": "https://mcp.deepstack.ltd/mcp"
+    }
+  }
+}

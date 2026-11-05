@@ -1,0 +1,13 @@
+{
+  "name": "sendhq",
+  "displayName": "SendHQ",
+  "description": "Email API and inbox.",
+  "homepage": "https://sendhq.cc",
+  "docs": "https://sendhq.cc",
+  "auth": "oauth",
+  "mcpServers": {
+    "sendhq": {
+      "url": "https://mcp.sendhq.cc/mcp"
+    }
+  }
+}

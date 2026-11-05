@@ -1,0 +1,13 @@
+{
+  "name": "betteroff",
+  "displayName": "BetterOff",
+  "description": "Your accounts and crypto.",
+  "homepage": "https://betteroff.finance",
+  "docs": "https://betteroff.finance/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "betteroff": {
+      "url": "https://api.betteroff.finance/mcp"
+    }
+  }
+}

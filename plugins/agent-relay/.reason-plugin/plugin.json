@@ -1,0 +1,13 @@
+{
+  "name": "agent-relay",
+  "displayName": "Agent Relay in ChatGPT",
+  "description": "Agent sessions and messages.",
+  "homepage": "https://agentrelay.com",
+  "docs": "https://agentrelay.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "agent-relay": {
+      "url": "https://agentrelay.com/mcp"
+    }
+  }
+}

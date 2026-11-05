@@ -1,0 +1,13 @@
+{
+  "name": "tradecatalog",
+  "displayName": "TradeCatalog",
+  "description": "Supplier catalogues and orders.",
+  "homepage": "https://tradecatalog.app",
+  "docs": "https://tradecatalog.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "tradecatalog": {
+      "url": "https://tradecatalog.app/mcp"
+    }
+  }
+}

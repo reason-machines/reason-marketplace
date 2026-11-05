@@ -1,0 +1,13 @@
+{
+  "name": "invokary-platform-requirements",
+  "displayName": "Invokary Platform Requirements",
+  "description": "Connector listing requirements.",
+  "homepage": "https://invokary.com/open-source",
+  "docs": "https://invokary.com/open-source",
+  "auth": "none",
+  "mcpServers": {
+    "invokary-platform-requirements": {
+      "url": "https://mcp.invokary.com/mcp"
+    }
+  }
+}

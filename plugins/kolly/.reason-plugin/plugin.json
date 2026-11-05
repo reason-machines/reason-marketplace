@@ -1,0 +1,13 @@
+{
+  "name": "kolly",
+  "displayName": "Kolly",
+  "description": "Creators, brands & agencies.",
+  "homepage": "https://kolly.my",
+  "docs": "https://kolly.my/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "kolly": {
+      "url": "https://kolly.my/api/mcp"
+    }
+  }
+}

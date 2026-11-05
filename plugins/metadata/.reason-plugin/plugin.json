@@ -1,0 +1,13 @@
+{
+  "name": "metadata",
+  "displayName": "Metadata",
+  "description": "Manage B2B ad campaigns.",
+  "homepage": "https://metadata.io",
+  "docs": "https://metadata.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "metadata": {
+      "url": "https://mcp.metadata.io/mcp"
+    }
+  }
+}

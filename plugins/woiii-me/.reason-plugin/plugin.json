@@ -1,0 +1,13 @@
+{
+  "name": "woiii-me",
+  "displayName": "WOIII.me",
+  "description": "Find the best vinyl pressing.",
+  "homepage": "https://woiii.me",
+  "docs": "https://woiii.me",
+  "auth": "oauth",
+  "mcpServers": {
+    "woiii-me": {
+      "url": "https://mcp.woiii.me/mcp"
+    }
+  }
+}

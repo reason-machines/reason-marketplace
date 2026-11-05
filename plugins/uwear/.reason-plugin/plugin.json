@@ -1,0 +1,13 @@
+{
+  "name": "uwear",
+  "displayName": "Uwear",
+  "description": "Create AI fashion imagery.",
+  "homepage": "https://uwear.ai",
+  "docs": "https://uwear.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "uwear": {
+      "url": "https://api.uwear.ai/mcp"
+    }
+  }
+}

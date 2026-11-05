@@ -1,0 +1,13 @@
+{
+  "name": "burnweek",
+  "displayName": "BurnWeek",
+  "description": "AI calorie counter, food diary.",
+  "homepage": "https://burnweek.fit",
+  "docs": "https://burnweek.fit",
+  "auth": "oauth",
+  "mcpServers": {
+    "burnweek": {
+      "url": "https://mcp.burnweek.fit/mcp"
+    }
+  }
+}

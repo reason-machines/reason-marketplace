@@ -1,0 +1,13 @@
+{
+  "name": "channelziq",
+  "displayName": "ChannelzIQ",
+  "description": "YouTube analytics and planning.",
+  "homepage": "https://channelziq.com",
+  "docs": "https://channelziq.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "channelziq": {
+      "url": "https://mcp.channelziq.com/mcp"
+    }
+  }
+}

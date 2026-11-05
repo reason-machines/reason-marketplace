@@ -1,0 +1,13 @@
+{
+  "name": "monitly",
+  "displayName": "Monitly",
+  "description": "Global official statistics.",
+  "homepage": "https://monit.ly",
+  "docs": "https://monit.ly/mcp-docs",
+  "auth": "none",
+  "mcpServers": {
+    "monitly": {
+      "url": "https://monit.ly/api/mcp/public"
+    }
+  }
+}

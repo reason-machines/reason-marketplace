@@ -1,0 +1,13 @@
+{
+  "name": "griezelgids",
+  "displayName": "GriezelGids",
+  "description": "Halloween map for NL and BE.",
+  "homepage": "https://griezelgids.nl",
+  "docs": "https://griezelgids.nl",
+  "auth": "none",
+  "mcpServers": {
+    "griezelgids": {
+      "url": "https://mcp.griezelgids.nl/mcp"
+    }
+  }
+}

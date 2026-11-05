@@ -1,0 +1,13 @@
+{
+  "name": "pocket-runway",
+  "displayName": "Pocket Runway",
+  "description": "Know What’s Safe Until Payday.",
+  "homepage": "https://pocketrunway.com",
+  "docs": "https://pocketrunway.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "pocket-runway": {
+      "url": "https://pocketrunway.com/mcp"
+    }
+  }
+}

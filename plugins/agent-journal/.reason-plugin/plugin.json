@@ -1,0 +1,13 @@
+{
+  "name": "agent-journal",
+  "displayName": "Folded Page",
+  "description": "A journal that grows with you.",
+  "homepage": "https://foldedpage.app",
+  "docs": "https://foldedpage.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "agent-journal": {
+      "url": "https://foldedpage.app/mcp"
+    }
+  }
+}

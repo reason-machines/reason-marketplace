@@ -1,0 +1,13 @@
+{
+  "name": "savedit",
+  "displayName": "SavedIt",
+  "description": "Find anything you saved.",
+  "homepage": "https://saveditapp.com",
+  "docs": "https://saveditapp.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "savedit": {
+      "url": "https://mcp.saveditapp.com/mcp"
+    }
+  }
+}

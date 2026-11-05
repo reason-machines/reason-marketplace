@@ -1,0 +1,13 @@
+{
+  "name": "buy-hard",
+  "displayName": "BUY HARD",
+  "description": "Your business buying desk.",
+  "homepage": "https://reliable-albatross-463.convex.site/",
+  "docs": "https://reliable-albatross-463.convex.site/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "buy-hard": {
+      "url": "https://reliable-albatross-463.convex.site/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "switchwize",
+  "displayName": "SwitchWize",
+  "description": "Compare verified rates.",
+  "homepage": "https://www.switchwize.com",
+  "docs": "https://www.switchwize.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "switchwize": {
+      "url": "https://www.switchwize.com/api/mcp"
+    }
+  }
+}

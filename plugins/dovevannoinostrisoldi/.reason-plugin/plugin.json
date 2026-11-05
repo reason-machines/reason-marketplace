@@ -1,0 +1,13 @@
+{
+  "name": "dovevannoinostrisoldi",
+  "displayName": "DoveVannoINostriSoldi",
+  "description": "Explore Italian public data.",
+  "homepage": "https://www.dovevannoinostrisoldi.com",
+  "docs": "https://www.dovevannoinostrisoldi.com",
+  "auth": "none",
+  "mcpServers": {
+    "dovevannoinostrisoldi": {
+      "url": "https://mcp.dovevannoinostrisoldi.com/mcp"
+    }
+  }
+}

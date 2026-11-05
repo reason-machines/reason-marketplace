@@ -1,0 +1,13 @@
+{
+  "name": "mot-check",
+  "displayName": "MOT Check",
+  "description": "Check any UK vehicle's MOT.",
+  "homepage": "https://motcheck.io",
+  "docs": "https://motcheck.io",
+  "auth": "none",
+  "mcpServers": {
+    "mot-check": {
+      "url": "https://motcheck.io/mcp"
+    }
+  }
+}

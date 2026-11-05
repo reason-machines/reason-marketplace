@@ -1,0 +1,13 @@
+{
+  "name": "ecogpt",
+  "displayName": "EcoGPT",
+  "description": "AI's footprint, with sources.",
+  "homepage": "https://ecogpt.com",
+  "docs": "https://ecogpt.com",
+  "auth": "none",
+  "mcpServers": {
+    "ecogpt": {
+      "url": "https://ecogpt.com/mcp"
+    }
+  }
+}

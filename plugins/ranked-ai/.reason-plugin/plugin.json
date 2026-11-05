@@ -1,0 +1,13 @@
+{
+  "name": "ranked-ai",
+  "displayName": "Ranked AI",
+  "description": "Manage your SEO & PPC.",
+  "homepage": "https://www.ranked.ai",
+  "docs": "https://ranked.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "ranked-ai": {
+      "url": "https://www.ranked.ai/api/mcp/sse"
+    }
+  }
+}

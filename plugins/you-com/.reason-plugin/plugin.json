@@ -10,5 +10,35 @@
     "you-com": {
       "url": "https://api.you.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "you-discover",
+      "description": "Route You.com integration planning through the you-discover MCP tool, AI Catalog entries, Docs MCP, and direct API options.",
+      "source": "youdotcom-oss/agent-skills#5c0ccb002c34e85a2cfbfbdc7010a6ca55a74e40",
+      "skill": "you-discover",
+      "url": "https://github.com/youdotcom-oss/agent-skills/tree/5c0ccb002c34e85a2cfbfbdc7010a6ca55a74e40/skills/you-discover"
+    },
+    {
+      "name": "you-finance",
+      "description": "Route finance questions to an existing local script, a new You.com Finance Research API call, or an MCP payment-aware fallback.",
+      "source": "youdotcom-oss/agent-skills#5c0ccb002c34e85a2cfbfbdc7010a6ca55a74e40",
+      "skill": "you-finance",
+      "url": "https://github.com/youdotcom-oss/agent-skills/tree/5c0ccb002c34e85a2cfbfbdc7010a6ca55a74e40/skills/you-finance"
+    },
+    {
+      "name": "you-research",
+      "description": "Route research tasks between a cost-conscious agentic search workflow, You.com Research API scripts, and managed or payment-aware MCP fallback.",
+      "source": "youdotcom-oss/agent-skills#5c0ccb002c34e85a2cfbfbdc7010a6ca55a74e40",
+      "skill": "you-research",
+      "url": "https://github.com/youdotcom-oss/agent-skills/tree/5c0ccb002c34e85a2cfbfbdc7010a6ca55a74e40/skills/you-research"
+    },
+    {
+      "name": "you-web",
+      "description": "Use You.com MCP tools for current web search, URL content extraction, cited web synthesis, and x402-aware web access.",
+      "source": "youdotcom-oss/agent-skills#5c0ccb002c34e85a2cfbfbdc7010a6ca55a74e40",
+      "skill": "you-web",
+      "url": "https://github.com/youdotcom-oss/agent-skills/tree/5c0ccb002c34e85a2cfbfbdc7010a6ca55a74e40/skills/you-web"
+    }
+  ]
 }

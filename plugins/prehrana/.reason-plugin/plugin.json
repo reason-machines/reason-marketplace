@@ -1,0 +1,13 @@
+{
+  "name": "prehrana",
+  "displayName": "Prehrana",
+  "description": "Log meals by describing them.",
+  "homepage": "https://prehrana.app",
+  "docs": "https://prehrana.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "prehrana": {
+      "url": "https://prehrana.app/mcp"
+    }
+  }
+}

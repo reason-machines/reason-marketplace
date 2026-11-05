@@ -1,0 +1,13 @@
+{
+  "name": "spott",
+  "displayName": "Spott",
+  "description": "Run recruiting workflows.",
+  "homepage": "https://spott.io",
+  "docs": "https://spott.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "spott": {
+      "url": "https://mcp.spott.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "julius",
+  "displayName": "Julius: Excel & Data Analysis",
+  "description": "Analyze data and build reports.",
+  "homepage": "https://julius.ai",
+  "docs": "https://julius.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "julius": {
+      "url": "https://mcp.julius.ai/mcp"
+    }
+  }
+}

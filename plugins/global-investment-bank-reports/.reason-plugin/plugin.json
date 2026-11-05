@@ -1,0 +1,13 @@
+{
+  "name": "global-investment-bank-reports",
+  "displayName": "ReportGem Research",
+  "description": "Equity research with sources.",
+  "homepage": "https://www.reportgem.com",
+  "docs": "https://www.reportgem.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "global-investment-bank-reports": {
+      "url": "https://reportgem.com/mcp"
+    }
+  }
+}

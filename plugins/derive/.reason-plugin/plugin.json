@@ -1,0 +1,13 @@
+{
+  "name": "derive",
+  "displayName": "Derive",
+  "description": "Interact with your notes.",
+  "homepage": "https://derivenotes.com",
+  "docs": "https://derivenotes.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "derive": {
+      "url": "https://mcp.derivenotes.com/mcp"
+    }
+  }
+}

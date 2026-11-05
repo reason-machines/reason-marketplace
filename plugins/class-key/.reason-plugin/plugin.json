@@ -1,0 +1,13 @@
+{
+  "name": "class-key",
+  "displayName": "Class Key",
+  "description": "先生のプロンプトを、コードひとつで生徒へ.",
+  "homepage": "https://ai-eigo-lab.com/classkey/",
+  "docs": "https://ai-eigo-lab.com/classkey/",
+  "auth": "none",
+  "mcpServers": {
+    "class-key": {
+      "url": "https://mcp.ai-eigo-lab.com/mcp"
+    }
+  }
+}

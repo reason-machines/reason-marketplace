@@ -1,0 +1,13 @@
+{
+  "name": "fingerprint",
+  "displayName": "Fingerprint",
+  "description": "Query fraud & device signals.",
+  "homepage": "https://fingerprint.com",
+  "docs": "https://docs.fingerprint.com/docs/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "fingerprint": {
+      "url": "https://mcp.fpjs.io/mcp"
+    }
+  }
+}

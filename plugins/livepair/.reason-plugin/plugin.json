@@ -1,0 +1,13 @@
+{
+  "name": "livepair",
+  "displayName": "LivePair",
+  "description": "AI image & video prompts.",
+  "homepage": "https://livepairai.com",
+  "docs": "https://livepairai.com",
+  "auth": "none",
+  "mcpServers": {
+    "livepair": {
+      "url": "https://livepairai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "postify",
+  "displayName": "Postify",
+  "description": "Draft and schedule posts.",
+  "homepage": "https://usepostify.com",
+  "docs": "https://usepostify.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "postify": {
+      "url": "https://app.usepostify.com/api/mcp"
+    }
+  }
+}

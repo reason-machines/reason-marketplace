@@ -1,0 +1,13 @@
+{
+  "name": "jawd",
+  "displayName": "JAWD",
+  "description": "Shop JAWD jaw trainers.",
+  "homepage": "https://jawd.in",
+  "docs": "https://jawd.in",
+  "auth": "none",
+  "mcpServers": {
+    "jawd": {
+      "url": "https://mcp.jawd.in/mcp"
+    }
+  }
+}

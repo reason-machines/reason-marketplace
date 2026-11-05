@@ -1,0 +1,13 @@
+{
+  "name": "drugbank",
+  "displayName": "DrugBank",
+  "description": "Analyze drug intelligence.",
+  "homepage": "https://go.drugbank.com",
+  "docs": "https://go.drugbank.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "drugbank": {
+      "url": "https://mcp.drugbank.com/mcp"
+    }
+  }
+}

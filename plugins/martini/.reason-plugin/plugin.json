@@ -1,0 +1,13 @@
+{
+  "name": "martini",
+  "displayName": "Martini",
+  "description": "AI video production studio.",
+  "homepage": "https://www.martini.film",
+  "docs": "https://www.martini.film",
+  "auth": "oauth",
+  "mcpServers": {
+    "martini": {
+      "url": "https://martini.film/mcp"
+    }
+  }
+}

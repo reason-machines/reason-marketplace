@@ -1,0 +1,13 @@
+{
+  "name": "fryd",
+  "displayName": "Fryd",
+  "description": "Your Gardening Companion.",
+  "homepage": "https://fryd.app",
+  "docs": "https://fryd.app",
+  "auth": "none",
+  "mcpServers": {
+    "fryd": {
+      "url": "https://mcp.fryd.app/mcp"
+    }
+  }
+}

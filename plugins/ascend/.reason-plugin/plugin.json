@@ -1,0 +1,13 @@
+{
+  "name": "ascend",
+  "displayName": "ASCEND",
+  "description": "Track the rising sign now.",
+  "homepage": "https://ascendrising.com/",
+  "docs": "https://ascendrising.com/",
+  "auth": "none",
+  "mcpServers": {
+    "ascend": {
+      "url": "https://ascendrising.com/mcp"
+    }
+  }
+}

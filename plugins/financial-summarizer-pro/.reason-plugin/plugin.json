@@ -1,0 +1,13 @@
+{
+  "name": "financial-summarizer-pro",
+  "displayName": "Financial Summarizer Pro",
+  "description": "Get instant financial details.",
+  "homepage": "https://tedix.dev/apps/financial-summarizer-pro/",
+  "docs": "https://tedix.dev/apps/financial-summarizer-pro/",
+  "auth": "none",
+  "mcpServers": {
+    "financial-summarizer-pro": {
+      "url": "https://gpt.perceptive-analytics.com/financial-summarizer/mcp"
+    }
+  }
+}

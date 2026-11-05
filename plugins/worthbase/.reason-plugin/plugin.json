@@ -1,0 +1,13 @@
+{
+  "name": "worthbase",
+  "displayName": "Worthbase",
+  "description": "Track your household net worth.",
+  "homepage": "https://worthbase.app",
+  "docs": "https://worthbase.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "worthbase": {
+      "url": "https://worthbase.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sticklight",
+  "displayName": "Sticklight",
+  "description": "Create apps and websites.",
+  "homepage": "https://sticklight.com/",
+  "docs": "https://sticklight.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sticklight": {
+      "url": "https://mcp.sticklight.com/mcp"
+    }
+  }
+}

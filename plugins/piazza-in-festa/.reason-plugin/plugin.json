@@ -1,0 +1,13 @@
+{
+  "name": "piazza-in-festa",
+  "displayName": "Piazza in Festa",
+  "description": "Italian town events and fairs.",
+  "homepage": "https://piazzainfesta.it/",
+  "docs": "https://piazzainfesta.it/",
+  "auth": "none",
+  "mcpServers": {
+    "piazza-in-festa": {
+      "url": "https://piazzainfesta.it/mcp"
+    }
+  }
+}

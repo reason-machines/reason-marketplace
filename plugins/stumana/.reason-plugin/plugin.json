@@ -1,0 +1,13 @@
+{
+  "name": "stumana",
+  "displayName": "StuMana",
+  "description": "Student management.",
+  "homepage": "https://stumana.com",
+  "docs": "https://stumana.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "stumana": {
+      "url": "https://stumana.com/mcp"
+    }
+  }
+}

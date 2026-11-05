@@ -1,0 +1,13 @@
+{
+  "name": "rolepocket",
+  "displayName": "RolePocket",
+  "description": "Your job search assistant.",
+  "homepage": "https://rolepocket.com",
+  "docs": "https://rolepocket.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "rolepocket": {
+      "url": "https://rolepocket.com/mcp"
+    }
+  }
+}

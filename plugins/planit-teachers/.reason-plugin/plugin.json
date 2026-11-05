@@ -1,0 +1,13 @@
+{
+  "name": "planit-teachers",
+  "displayName": "Planit Teachers",
+  "description": "Create classroom resources.",
+  "homepage": "https://planitteachers.ai",
+  "docs": "https://planitteachers.ai",
+  "auth": "none",
+  "mcpServers": {
+    "planit-teachers": {
+      "url": "https://planitteachers.ai/mcp"
+    }
+  }
+}

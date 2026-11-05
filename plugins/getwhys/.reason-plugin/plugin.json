@@ -1,0 +1,13 @@
+{
+  "name": "getwhys",
+  "displayName": "GetWhys",
+  "description": "Ground GTM in buyer evidence.",
+  "homepage": "https://getwhys.io",
+  "docs": "https://api.getwhys.io/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "getwhys": {
+      "url": "https://api.getwhys.io/mcp"
+    }
+  }
+}

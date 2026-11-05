@@ -1,0 +1,13 @@
+{
+  "name": "repuso-reviews",
+  "displayName": "Repuso Reviews",
+  "description": "Track reviews from 50+ sites.",
+  "homepage": "https://repuso.com/developers/",
+  "docs": "https://repuso.com/developers/",
+  "auth": "oauth",
+  "mcpServers": {
+    "repuso-reviews": {
+      "url": "https://api.repuso.com/public/v1/mcp"
+    }
+  }
+}

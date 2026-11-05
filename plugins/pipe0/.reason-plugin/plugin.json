@@ -1,0 +1,13 @@
+{
+  "name": "pipe0",
+  "displayName": "pipe0",
+  "description": "Find, enrich & automate leads.",
+  "homepage": "https://pipe0.com",
+  "docs": "https://pipe0.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "pipe0": {
+      "url": "https://api.pipe0.com/v1/mcp"
+    }
+  }
+}

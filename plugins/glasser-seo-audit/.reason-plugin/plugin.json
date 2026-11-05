@@ -1,0 +1,13 @@
+{
+  "name": "glasser-seo-audit",
+  "displayName": "Glasser SEO Audit",
+  "description": "SEO audit on Semrush & Ahrefs.",
+  "homepage": "https://glasser.ai",
+  "docs": "https://glasser.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "glasser-seo-audit": {
+      "url": "https://api.glasser.ai/mcp"
+    }
+  }
+}

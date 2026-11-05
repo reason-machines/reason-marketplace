@@ -1,0 +1,13 @@
+{
+  "name": "trulycricket",
+  "displayName": "TrulyCricket",
+  "description": "Live cricket scores and tables.",
+  "homepage": "https://trulycricket.com",
+  "docs": "https://trulycricket.com",
+  "auth": "none",
+  "mcpServers": {
+    "trulycricket": {
+      "url": "https://trulycricket.com/mcp"
+    }
+  }
+}

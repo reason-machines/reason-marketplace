@@ -1,0 +1,13 @@
+{
+  "name": "timebook",
+  "displayName": "Timebook",
+  "description": "Track billable time.",
+  "homepage": "https://usetimebook.com",
+  "docs": "https://usetimebook.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "timebook": {
+      "url": "https://usetimebook.com/mcp"
+    }
+  }
+}

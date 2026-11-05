@@ -1,0 +1,13 @@
+{
+  "name": "partfinder",
+  "displayName": "PartFinder",
+  "description": "Industrial parts intelligence.",
+  "homepage": "https://partfinder.dev",
+  "docs": "https://partfinder.dev/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "partfinder": {
+      "url": "https://api.partfinder.dev/mcp"
+    }
+  }
+}

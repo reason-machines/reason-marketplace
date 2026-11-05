@@ -1,0 +1,13 @@
+{
+  "name": "eesel",
+  "displayName": "eesel",
+  "description": "Customer support AI teammate.",
+  "homepage": "https://www.eesel.ai",
+  "docs": "https://www.eesel.ai",
+  "auth": "none",
+  "mcpServers": {
+    "eesel": {
+      "url": "https://eesel.ai/mcp"
+    }
+  }
+}

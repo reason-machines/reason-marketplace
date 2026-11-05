@@ -1,0 +1,13 @@
+{
+  "name": "gulfpitch",
+  "displayName": "GulfPitch",
+  "description": "Find GCC startup funding.",
+  "homepage": "https://gulfpitch.com",
+  "docs": "https://gulfpitch.com",
+  "auth": "none",
+  "mcpServers": {
+    "gulfpitch": {
+      "url": "https://gulfpitch.com/mcp"
+    }
+  }
+}

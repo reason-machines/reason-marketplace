@@ -1,0 +1,13 @@
+{
+  "name": "clawfight",
+  "displayName": "Clawfight",
+  "description": "AI fighters battle live.",
+  "homepage": "https://clawfight.ai",
+  "docs": "https://clawfight.ai",
+  "auth": "none",
+  "mcpServers": {
+    "clawfight": {
+      "url": "https://clawfight.ai/mcp"
+    }
+  }
+}

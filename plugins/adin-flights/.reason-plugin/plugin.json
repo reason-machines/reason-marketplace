@@ -1,0 +1,13 @@
+{
+  "name": "adin-flights",
+  "displayName": "Adin Flights",
+  "description": "find & book flights in chats.",
+  "homepage": "https://flights.moodtrip.ai",
+  "docs": "https://moodtrip.ai/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "adin-flights": {
+      "url": "https://api.moodtrip.ai/api/mcp-http"
+    }
+  }
+}

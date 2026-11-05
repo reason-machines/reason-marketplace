@@ -1,0 +1,13 @@
+{
+  "name": "paperagent",
+  "displayName": "PaperAgent",
+  "description": "Send real letters by USPS.",
+  "homepage": "https://paperagent.dev",
+  "docs": "https://paperagent.dev",
+  "auth": "none",
+  "mcpServers": {
+    "paperagent": {
+      "url": "https://paperagent.dev/mcp"
+    }
+  }
+}

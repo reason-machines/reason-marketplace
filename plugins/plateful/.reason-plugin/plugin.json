@@ -1,0 +1,13 @@
+{
+  "name": "plateful",
+  "displayName": "Plateful",
+  "description": "Search and save your recipes.",
+  "homepage": "https://plateful.cloud",
+  "docs": "https://plateful.cloud",
+  "auth": "oauth",
+  "mcpServers": {
+    "plateful": {
+      "url": "https://mcp.plateful.cloud/mcp"
+    }
+  }
+}

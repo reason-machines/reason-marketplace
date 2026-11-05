@@ -1,0 +1,13 @@
+{
+  "name": "ab-projects",
+  "displayName": "AB Projects",
+  "description": "AI Actions for MS Teams.",
+  "homepage": "https://actionbridge.io",
+  "docs": "https://actionbridge.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "ab-projects": {
+      "url": "https://mcp.actionbridge.io/mcp"
+    }
+  }
+}

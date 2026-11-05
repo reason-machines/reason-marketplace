@@ -1,0 +1,13 @@
+{
+  "name": "ai2sql-sql",
+  "displayName": "AI2SQL",
+  "description": "Write, fix and run SQL.",
+  "homepage": "https://ai2sql.io",
+  "docs": "https://ai2sql.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai2sql-sql": {
+      "url": "https://builder.ai2sql.io/api/mcp"
+    }
+  }
+}

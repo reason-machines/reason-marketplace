@@ -1,0 +1,13 @@
+{
+  "name": "morningstar",
+  "displayName": "Morningstar",
+  "description": "Investment and market insights.",
+  "homepage": "https://www.morningstar.com/business/products/direct-ai-solutions",
+  "docs": "https://www.morningstar.com/business/products/direct-ai-solutions",
+  "auth": "oauth",
+  "mcpServers": {
+    "morningstar": {
+      "url": "https://mcp.morningstar.com/mcp"
+    }
+  }
+}

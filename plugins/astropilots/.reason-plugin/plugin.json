@@ -1,0 +1,13 @@
+{
+  "name": "astropilots",
+  "displayName": "AstroPilots",
+  "description": "Astrology readings & Q&A.",
+  "homepage": "https://astropilots.app",
+  "docs": "https://astropilots.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "astropilots": {
+      "url": "https://astropilots.app/mcp"
+    }
+  }
+}

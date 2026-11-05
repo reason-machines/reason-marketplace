@@ -1,0 +1,13 @@
+{
+  "name": "pocket-informant",
+  "displayName": "Pocket Informant",
+  "description": "Plan tasks, events, and notes.",
+  "homepage": "https://www.pocketinformant.com/",
+  "docs": "https://www.pocketinformant.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "pocket-informant": {
+      "url": "https://mcp.pocketinformant.com/mcp"
+    }
+  }
+}

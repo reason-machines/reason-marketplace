@@ -1,0 +1,13 @@
+{
+  "name": "nobrainner",
+  "displayName": "NoBrainner",
+  "description": "Smarter Flashcards.",
+  "homepage": "https://nobrainner.xyz/",
+  "docs": "https://nobrainner.xyz/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "nobrainner": {
+      "url": "https://app.nobrainner.xyz/api/chatgpt/mcp"
+    }
+  }
+}

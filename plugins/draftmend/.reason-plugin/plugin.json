@@ -1,0 +1,13 @@
+{
+  "name": "draftmend",
+  "displayName": "draftmend",
+  "description": "Review and export documents.",
+  "homepage": "https://draftmend.com/",
+  "docs": "https://draftmend.com/",
+  "auth": "none",
+  "mcpServers": {
+    "draftmend": {
+      "url": "https://api.draftmend.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "padconsole",
+  "displayName": "PadConsole",
+  "description": "Game night ideas for groups.",
+  "homepage": "https://padconsole.com/",
+  "docs": "https://padconsole.com/",
+  "auth": "none",
+  "mcpServers": {
+    "padconsole": {
+      "url": "https://padconsole.com/mcp"
+    }
+  }
+}

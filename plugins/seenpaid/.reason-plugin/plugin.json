@@ -1,0 +1,13 @@
+{
+  "name": "seenpaid",
+  "displayName": "seenpaid",
+  "description": "Schedule social media posts.",
+  "homepage": "https://seenpaid.com",
+  "docs": "https://seenpaid.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "seenpaid": {
+      "url": "https://api.seenpaid.com/mcp"
+    }
+  }
+}

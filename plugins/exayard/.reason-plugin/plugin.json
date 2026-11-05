@@ -1,0 +1,13 @@
+{
+  "name": "exayard",
+  "displayName": "Exayard",
+  "description": "Takeoffs, pricing and bids.",
+  "homepage": "https://exayard.com",
+  "docs": "https://exayard.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "exayard": {
+      "url": "https://api.exayard.com/mcp"
+    }
+  }
+}

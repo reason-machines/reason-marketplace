@@ -1,0 +1,13 @@
+{
+  "name": "upapi",
+  "displayName": "upAPI",
+  "description": "Ready-to-use APIs in one place.",
+  "homepage": "https://upapi.io/",
+  "docs": "https://upapi.io/",
+  "auth": "oauth",
+  "mcpServers": {
+    "upapi": {
+      "url": "https://app.upapi.io/api/mcp"
+    }
+  }
+}

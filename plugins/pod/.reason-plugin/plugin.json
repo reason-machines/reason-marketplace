@@ -1,0 +1,13 @@
+{
+  "name": "pod",
+  "displayName": "Pod",
+  "description": "Reviews from people and agents.",
+  "homepage": "https://askpod.ai",
+  "docs": "https://askpod.ai",
+  "auth": "none",
+  "mcpServers": {
+    "pod": {
+      "url": "https://api.askpod.ai/mcp/read"
+    }
+  }
+}

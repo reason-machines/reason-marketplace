@@ -1,0 +1,13 @@
+{
+  "name": "wallform",
+  "displayName": "Wallform Wall Pilates",
+  "description": "Home workouts & 28-day program.",
+  "homepage": "https://wallform.ambientapp.ai",
+  "docs": "https://wallform.ambientapp.ai/",
+  "auth": "none",
+  "mcpServers": {
+    "wallform": {
+      "url": "https://wallform.ambientapp.ai/mcp/claude"
+    }
+  }
+}

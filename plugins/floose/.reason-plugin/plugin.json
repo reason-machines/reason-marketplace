@@ -1,0 +1,13 @@
+{
+  "name": "floose",
+  "displayName": "Floose",
+  "description": "Notes, files and canvases.",
+  "homepage": "https://note.floose.app",
+  "docs": "https://note.floose.app/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "floose": {
+      "url": "https://note.floose.app/mcp"
+    }
+  }
+}

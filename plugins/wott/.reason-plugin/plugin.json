@@ -1,0 +1,13 @@
+{
+  "name": "wott",
+  "displayName": "WOTT",
+  "description": "Search and manage notebooks.",
+  "homepage": "https://wott.ai",
+  "docs": "https://wott.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "wott": {
+      "url": "https://mcp.wott.ai/mcp"
+    }
+  }
+}

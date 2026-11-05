@@ -1,0 +1,13 @@
+{
+  "name": "plate",
+  "displayName": "Plate",
+  "description": "Project management for teams.",
+  "homepage": "https://plate.to",
+  "docs": "https://plate.to",
+  "auth": "oauth",
+  "mcpServers": {
+    "plate": {
+      "url": "https://plate.to/mcp"
+    }
+  }
+}

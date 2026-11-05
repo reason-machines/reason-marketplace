@@ -1,0 +1,13 @@
+{
+  "name": "bestremit",
+  "displayName": "BestRemit",
+  "description": "Compare money transfer apps.",
+  "homepage": "https://bestremit.app",
+  "docs": "https://bestremit.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "bestremit": {
+      "url": "https://bestremit.app/api/mcp/mcp"
+    }
+  }
+}

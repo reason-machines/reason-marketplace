@@ -1,0 +1,13 @@
+{
+  "name": "lismoa",
+  "displayName": "LISMOA",
+  "description": "Amazon sales, profit, and ads.",
+  "homepage": "https://lismoa.com",
+  "docs": "https://lismoa.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lismoa": {
+      "url": "https://mcp.lismoa.com/mcp"
+    }
+  }
+}

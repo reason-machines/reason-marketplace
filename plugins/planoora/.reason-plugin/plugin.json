@@ -1,0 +1,13 @@
+{
+  "name": "planoora",
+  "displayName": "Planoora",
+  "description": "Book local appointments.",
+  "homepage": "https://www.planoora.com",
+  "docs": "https://www.planoora.com",
+  "auth": "none",
+  "mcpServers": {
+    "planoora": {
+      "url": "https://planoora.com/mcp"
+    }
+  }
+}

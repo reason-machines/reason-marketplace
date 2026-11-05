@@ -1,0 +1,13 @@
+{
+  "name": "atlabs-ai",
+  "displayName": "Atlabs Ai",
+  "description": "Connect to Atlabs Ai.",
+  "homepage": "https://www.atlabs.ai/",
+  "docs": "https://www.atlabs.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "atlabs-ai": {
+      "url": "https://mcp.atlabs.ai/mcp"
+    }
+  }
+}

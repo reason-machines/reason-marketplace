@@ -1,0 +1,13 @@
+{
+  "name": "human-forward-findability",
+  "displayName": "Human Forward Findability",
+  "description": "How findable is your brand.",
+  "homepage": "https://humanforward.io",
+  "docs": "https://humanforward.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "human-forward-findability": {
+      "url": "https://app.humanforward.io/mcp"
+    }
+  }
+}

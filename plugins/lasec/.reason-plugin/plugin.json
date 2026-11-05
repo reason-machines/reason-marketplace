@@ -1,0 +1,13 @@
+{
+  "name": "lasec",
+  "displayName": "LASEC",
+  "description": "Piloter la gouvernance cyber.",
+  "homepage": "https://lasec.fr/",
+  "docs": "https://app.lasec.fr/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "lasec": {
+      "url": "https://app.lasec.fr/mcp/"
+    }
+  }
+}

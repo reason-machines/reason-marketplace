@@ -1,0 +1,92 @@
+{
+  "name": "thunderphone",
+  "displayName": "ThunderPhone",
+  "description": "Build and run AI phone agents.",
+  "homepage": "https://thunderphone.com",
+  "docs": "https://thunderphone.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "thunderphone": {
+      "url": "https://api.thunderphone.com/v1/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "add-knowledge",
+      "description": "Give a ThunderPhone agent facts to answer from: create a knowledge base, add text or a public page, attach it to the agent and confirm the agent can find the facts. Use when someone asks to add FAQs, hours, prices, policies or a website to an agent.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "add-knowledge",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/add-knowledge"
+    },
+    {
+      "name": "create-agent",
+      "description": "Build a ThunderPhone AI phone agent from a plain-language brief and leave it as a draft that is ready to test. Use when someone asks to create a receptionist, booking, intake, support or outbound agent, pick a voice or language, or set up how the agent handles transfers, voicemail and silence.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "create-agent",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/create-agent"
+    },
+    {
+      "name": "get-phone-number",
+      "description": "Get a phone number for a ThunderPhone agent: buy a ThunderPhone number or bring the user's own carrier, then route it to an agent. Use when someone asks for a number, wants an agent to answer calls, or wants to use their Twilio, Telnyx or SIP numbers.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "get-phone-number",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/get-phone-number"
+    },
+    {
+      "name": "iterate-on-agent",
+      "description": "Improve a live ThunderPhone agent from its real calls: find what goes wrong, fix one thing on the draft, check it and deploy after the user agrees. Use when someone says calls are going badly, asks why an agent did something, or wants a report on how calls are going.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "iterate-on-agent",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/iterate-on-agent"
+    },
+    {
+      "name": "migrate-from-bland",
+      "description": "Move Bland agents to ThunderPhone without sharing a Bland key in chat. Use when someone asks to migrate or import from Bland, review what an import mapped, or finish an import.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "migrate-from-bland",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/migrate-from-bland"
+    },
+    {
+      "name": "migrate-from-elevenlabs",
+      "description": "Move ElevenLabs agents to ThunderPhone without sharing a ElevenLabs key in chat. Use when someone asks to migrate or import from ElevenLabs, review what an import mapped, or finish an import.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "migrate-from-elevenlabs",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/migrate-from-elevenlabs"
+    },
+    {
+      "name": "migrate-from-retell",
+      "description": "Move Retell agents to ThunderPhone without sharing a Retell key in chat. Use when someone asks to migrate or import from Retell, review what an import mapped, or finish an import.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "migrate-from-retell",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/migrate-from-retell"
+    },
+    {
+      "name": "migrate-from-vapi",
+      "description": "Move Vapi assistants to ThunderPhone without sharing a Vapi key in chat. Use when someone asks to migrate or import from Vapi, review what an import mapped, or finish an import.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "migrate-from-vapi",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/migrate-from-vapi"
+    },
+    {
+      "name": "run-campaign",
+      "description": "Run a consent-based ThunderPhone outbound campaign to people who agreed to be called (appointment reminders, callbacks, follow-ups) - create it, load contacts, start, pause, stop, monitor, or troubleshoot. Use when someone asks about campaign setup, contact lists, calling windows, consent, campaign ",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "run-campaign",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/plugins/thunderphone-directory/skills/run-campaign"
+    },
+    {
+      "name": "test-agent",
+      "description": "Test a ThunderPhone agent and decide whether it is ready to deploy. Use when someone asks to test an agent, run test scenarios or simulated calls, check a change before deploying, or read test results.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "test-agent",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/plugins/thunderphone-directory/skills/test-agent"
+    },
+    {
+      "name": "troubleshoot",
+      "description": "Find out why something in ThunderPhone is not working, from evidence: a number that does not ring through, a campaign that does not call, a webhook that does not arrive, or an agent that behaves wrongly. Use when someone reports a problem or asks for a person.",
+      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
+      "skill": "troubleshoot",
+      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/plugins/thunderphone-directory/skills/troubleshoot"
+    }
+  ]
+}

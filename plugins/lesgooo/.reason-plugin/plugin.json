@@ -1,0 +1,13 @@
+{
+  "name": "lesgooo",
+  "displayName": "lesgooo",
+  "description": "Plan together, no signup.",
+  "homepage": "https://lesgooo.fun/",
+  "docs": "https://lesgooo.fun/",
+  "auth": "none",
+  "mcpServers": {
+    "lesgooo": {
+      "url": "https://lesgooo.fun/mcp"
+    }
+  }
+}

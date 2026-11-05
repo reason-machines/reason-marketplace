@@ -1,0 +1,13 @@
+{
+  "name": "coingecko",
+  "displayName": "CoinGecko",
+  "description": "Cryptocurrency prices & charts.",
+  "homepage": "https://www.coingecko.com",
+  "docs": "https://www.coingecko.com",
+  "auth": "none",
+  "mcpServers": {
+    "coingecko": {
+      "url": "https://mcp.coingecko.com/mcp"
+    }
+  }
+}

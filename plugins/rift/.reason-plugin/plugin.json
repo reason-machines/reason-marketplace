@@ -1,0 +1,13 @@
+{
+  "name": "rift",
+  "displayName": "Rift",
+  "description": "Market insights and education.",
+  "homepage": "https://rift.ai",
+  "docs": "https://rift.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "rift": {
+      "url": "https://mcp.rift.ai/mcp"
+    }
+  }
+}

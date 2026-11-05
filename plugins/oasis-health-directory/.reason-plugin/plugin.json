@@ -1,0 +1,13 @@
+{
+  "name": "oasis-health-directory",
+  "displayName": "Oasis Health",
+  "description": "Packaged food health scores.",
+  "homepage": "https://www.oasishealth.app",
+  "docs": "https://www.oasishealth.app",
+  "auth": "none",
+  "mcpServers": {
+    "oasis-health-directory": {
+      "url": "https://oasishealth.app/mcp"
+    }
+  }
+}

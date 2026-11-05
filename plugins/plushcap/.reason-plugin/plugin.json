@@ -1,0 +1,13 @@
+{
+  "name": "plushcap",
+  "displayName": "Plushcap",
+  "description": "Developer & AI trends.",
+  "homepage": "https://www.plushcap.com",
+  "docs": "https://www.plushcap.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "plushcap": {
+      "url": "https://mcp.plushcap.com/mcp"
+    }
+  }
+}

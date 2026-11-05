@@ -1,0 +1,13 @@
+{
+  "name": "webmetic",
+  "displayName": "Webmetic",
+  "description": "Identify visiting companies.",
+  "homepage": "https://webmetic.de",
+  "docs": "https://webmetic.de",
+  "auth": "oauth",
+  "mcpServers": {
+    "webmetic": {
+      "url": "https://mcp.webmetic.de/mcp"
+    }
+  }
+}

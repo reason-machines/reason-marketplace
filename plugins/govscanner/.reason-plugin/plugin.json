@@ -1,0 +1,13 @@
+{
+  "name": "govscanner",
+  "displayName": "GovScanner",
+  "description": "West Australian Gov Data.",
+  "homepage": "https://govscanner.com.au",
+  "docs": "https://govscanner.com.au",
+  "auth": "oauth",
+  "mcpServers": {
+    "govscanner": {
+      "url": "https://mcp.govscanner.com.au/mcp"
+    }
+  }
+}

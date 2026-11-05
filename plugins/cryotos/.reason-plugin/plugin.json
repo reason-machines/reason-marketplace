@@ -1,0 +1,13 @@
+{
+  "name": "cryotos",
+  "displayName": "Cryotos",
+  "description": "Cryotos CMMS SAAS application.",
+  "homepage": "https://www.cryotos.com/cryotos-ai",
+  "docs": "https://www.cryotos.com/cryotos-ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "cryotos": {
+      "url": "https://mcp.cryotos.com/mcp"
+    }
+  }
+}

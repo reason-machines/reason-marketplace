@@ -1,0 +1,13 @@
+{
+  "name": "meshed-cover",
+  "displayName": "Meshed Cover",
+  "description": "Quote for business insurance.",
+  "homepage": "https://meshedcover.com",
+  "docs": "https://tedix.dev/apps/meshed-cover/",
+  "auth": "none",
+  "mcpServers": {
+    "meshed-cover": {
+      "url": "https://mcp.trymalcolm.com/mcp-aa3605b4-70cd-4274-aeea-79c5b9795ec7/v1"
+    }
+  }
+}

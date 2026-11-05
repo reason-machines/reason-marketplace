@@ -1,0 +1,13 @@
+{
+  "name": "clairwave",
+  "displayName": "Clairwave",
+  "description": "Ocean acoustics & live ships.",
+  "homepage": "https://www.clairwave.com",
+  "docs": "https://clairwave.com/",
+  "auth": "none",
+  "mcpServers": {
+    "clairwave": {
+      "url": "https://www.clairwave.com/mcp"
+    }
+  }
+}

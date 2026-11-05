@@ -1,0 +1,13 @@
+{
+  "name": "cleanapp",
+  "displayName": "CleanApp",
+  "description": "Find and report problems.",
+  "homepage": "https://live.cleanapp.io/openai/",
+  "docs": "https://live.cleanapp.io/openai/",
+  "auth": "none",
+  "mcpServers": {
+    "cleanapp": {
+      "url": "https://live.cleanapp.io/openai/mcp"
+    }
+  }
+}

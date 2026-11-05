@@ -10,5 +10,77 @@
     "elevenlabs": {
       "url": "https://api.us.elevenlabs.io/v1/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "agents",
+      "description": "Build voice AI agents with ElevenLabs. Use when creating voice assistants, customer service bots, interactive voice characters, or any real-time voice conversation experience, and when configuring an agent's tools, workflows, or procedures, including creating, editing, compiling, and publishing proc",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "agents",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/agents"
+    },
+    {
+      "name": "dubbing",
+      "description": "Dub audio and video into other languages using the ElevenLabs Dubbing API (dubbing_v2), preserving the original speakers' voices. Use when translating videos, podcasts, or recordings into other languages, localizing media content, reviewing or correcting dubbing transcripts and translations, or rege",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "dubbing",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/dubbing"
+    },
+    {
+      "name": "music",
+      "description": "Generate music using ElevenLabs Music API. Use when creating instrumental tracks, songs with lyrics, background music, jingles, or any AI-generated music composition. Supports prompt-based generation, composition plans for granular control, and detailed output with metadata.",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "music",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/music"
+    },
+    {
+      "name": "setup-api-key",
+      "description": "Guides users through setting up an ElevenLabs API key for ElevenLabs MCP tools. Use when the user needs to configure an ElevenLabs API key, when ElevenLabs tools fail due to missing API key, or when the user mentions needing access to ElevenLabs. First checks whether ELEVENLABS_API_KEY is already co",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "setup-api-key",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/setup-api-key"
+    },
+    {
+      "name": "sound-effects",
+      "description": "Generate sound effects from text descriptions using ElevenLabs. Use when creating sound effects, generating audio textures, producing ambient sounds, cinematic impacts, UI sounds, or any audio that isn't speech. Supports looping, duration control, and prompt influence tuning.",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "sound-effects",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/sound-effects"
+    },
+    {
+      "name": "speech-engine",
+      "description": "Add real-time voice conversations to a custom agent runtime with ElevenLabs Speech Engine. Use when building Speech Engine servers, WebSocket handlers, WebRTC browser clients, conversation token endpoints, interruption-aware streaming responses, or voice-enabled chat agents that connect developer-ow",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "speech-engine",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/speech-engine"
+    },
+    {
+      "name": "speech-to-text",
+      "description": "Transcribe audio to text using ElevenLabs Scribe v2. Use when converting audio/video to text, generating subtitles, transcribing meetings, or processing spoken content.",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "speech-to-text",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/speech-to-text"
+    },
+    {
+      "name": "text-to-speech",
+      "description": "Convert text to speech using ElevenLabs voice AI. Use when generating audio from text, creating voiceovers, building voice apps, or synthesizing speech in 70+ languages.",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "text-to-speech",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/text-to-speech"
+    },
+    {
+      "name": "voice-changer",
+      "description": "Transform the voice in an audio recording into a different target voice while preserving emotion, timing, and delivery using the ElevenLabs Voice Changer (speech-to-speech) API. Use when converting one voice to another, changing the speaker/narrator of an existing recording, dubbing a voice-over in ",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "voice-changer",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/voice-changer"
+    },
+    {
+      "name": "voice-isolator",
+      "description": "Remove background noise and isolate vocals/speech from audio using ElevenLabs Voice Isolator (audio isolation) API. Use when cleaning up noisy recordings, removing music or background ambience from dialogue, isolating speech from field recordings, preparing audio for transcription, extracting vocals",
+      "source": "elevenlabs/skills#503d4e9fda0190ab9357142f44e51de626f97f90",
+      "skill": "voice-isolator",
+      "url": "https://github.com/elevenlabs/skills/tree/503d4e9fda0190ab9357142f44e51de626f97f90/voice-isolator"
+    }
+  ]
 }

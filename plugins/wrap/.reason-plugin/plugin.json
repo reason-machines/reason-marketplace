@@ -1,0 +1,13 @@
+{
+  "name": "wrap",
+  "displayName": "Wrap",
+  "description": "Images into mockup templates.",
+  "homepage": "https://www.wrap.design",
+  "docs": "https://www.wrap.design",
+  "auth": "oauth",
+  "mcpServers": {
+    "wrap": {
+      "url": "https://mcp.wrap.design/mcp"
+    }
+  }
+}

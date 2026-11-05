@@ -1,0 +1,13 @@
+{
+  "name": "voicecursor-dictionary",
+  "displayName": "VoiceCursor Dictionary",
+  "description": "Manage personal dictionaries.",
+  "homepage": "https://voicecursor.ai",
+  "docs": "https://api.voicecursor.ai/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "voicecursor-dictionary": {
+      "url": "https://api.voicecursor.ai/mcp"
+    }
+  }
+}

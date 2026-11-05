@@ -1,0 +1,13 @@
+{
+  "name": "brf-rapporten",
+  "displayName": "BRF-Rapporten",
+  "description": "Sök BRF-nyckeltal.",
+  "homepage": "https://brfrapporten.se",
+  "docs": "https://brfrapporten.se",
+  "auth": "none",
+  "mcpServers": {
+    "brf-rapporten": {
+      "url": "https://brfrapporten.se/mcp"
+    }
+  }
+}

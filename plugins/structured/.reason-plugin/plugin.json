@@ -1,0 +1,13 @@
+{
+  "name": "structured",
+  "displayName": "Structured",
+  "description": "All in one daily planner.",
+  "homepage": "https://structured.app",
+  "docs": "https://structured.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "structured": {
+      "url": "https://mcp.structured.app/mcp"
+    }
+  }
+}

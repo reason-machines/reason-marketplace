@@ -1,0 +1,13 @@
+{
+  "name": "ogrecords",
+  "displayName": "OGRECORDS",
+  "description": "Your music catalog in Reason.",
+  "homepage": "https://www.og-records.com/en/integrations/ai-assistants",
+  "docs": "https://www.og-records.com/en/integrations/ai-assistants",
+  "auth": "oauth",
+  "mcpServers": {
+    "ogrecords": {
+      "url": "https://www.og-records.com/api/agent/mcp"
+    }
+  }
+}

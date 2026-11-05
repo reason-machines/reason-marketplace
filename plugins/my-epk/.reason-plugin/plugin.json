@@ -1,0 +1,13 @@
+{
+  "name": "my-epk",
+  "displayName": "MY EPK",
+  "description": "Build and share your press kit.",
+  "homepage": "https://my-epk.com",
+  "docs": "https://my-epk.com",
+  "auth": "none",
+  "mcpServers": {
+    "my-epk": {
+      "url": "https://my-epk.com/mcp"
+    }
+  }
+}

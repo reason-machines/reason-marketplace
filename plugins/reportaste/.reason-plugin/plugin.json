@@ -1,0 +1,13 @@
+{
+  "name": "reportaste",
+  "displayName": "ReportAste",
+  "description": "Auction search and inventory.",
+  "homepage": "https://www.reportaste.it/",
+  "docs": "https://www.reportaste.it/",
+  "auth": "oauth",
+  "mcpServers": {
+    "reportaste": {
+      "url": "https://mcp.reportaste.it/mcp"
+    }
+  }
+}

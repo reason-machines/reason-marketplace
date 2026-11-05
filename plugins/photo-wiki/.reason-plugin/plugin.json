@@ -1,0 +1,13 @@
+{
+  "name": "photo-wiki",
+  "displayName": "Photo Wiki",
+  "description": "Answers from your saved photos.",
+  "homepage": "https://photowiki.app",
+  "docs": "https://photowiki.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "photo-wiki": {
+      "url": "https://photowiki.app/mcp"
+    }
+  }
+}

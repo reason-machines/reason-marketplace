@@ -1,0 +1,13 @@
+{
+  "name": "dataforb2b",
+  "displayName": "DataForB2B",
+  "description": "People & company data.",
+  "homepage": "https://dataforb2b.ai",
+  "docs": "https://dataforb2b.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "dataforb2b": {
+      "url": "https://mcp.dataforb2b.ai/mcp"
+    }
+  }
+}

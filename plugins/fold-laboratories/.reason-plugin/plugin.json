@@ -1,0 +1,13 @@
+{
+  "name": "fold-laboratories",
+  "displayName": "Fold Laboratories",
+  "description": "Find and buy original art.",
+  "homepage": "https://foldlaboratories.com",
+  "docs": "https://foldlaboratories.com",
+  "auth": "none",
+  "mcpServers": {
+    "fold-laboratories": {
+      "url": "https://foldlaboratories.com/mcp"
+    }
+  }
+}

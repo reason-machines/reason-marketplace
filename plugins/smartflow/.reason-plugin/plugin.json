@@ -1,0 +1,13 @@
+{
+  "name": "smartflow",
+  "displayName": "SmartFlow",
+  "description": "Client projects and invoices.",
+  "homepage": "https://portal.smartflowsa.ch/",
+  "docs": "https://portal.smartflowsa.ch/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "smartflow": {
+      "url": "https://portal.smartflowsa.ch/mcp"
+    }
+  }
+}

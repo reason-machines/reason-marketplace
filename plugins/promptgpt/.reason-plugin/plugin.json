@@ -1,0 +1,13 @@
+{
+  "name": "promptgpt",
+  "displayName": "PromptGPT",
+  "description": "Prompt Engineering Studio.",
+  "homepage": "https://promptgpt.io",
+  "docs": "https://promptgpt.io",
+  "auth": "none",
+  "mcpServers": {
+    "promptgpt": {
+      "url": "https://promptgpt.io/mcp"
+    }
+  }
+}

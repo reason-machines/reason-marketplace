@@ -1,0 +1,13 @@
+{
+  "name": "visor",
+  "displayName": "Visor",
+  "description": "Search U.S. car inventory.",
+  "homepage": "https://visor.vin",
+  "docs": "https://visor.vin",
+  "auth": "oauth",
+  "mcpServers": {
+    "visor": {
+      "url": "https://mcp.visor.vin/mcp"
+    }
+  }
+}

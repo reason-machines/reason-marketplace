@@ -1,0 +1,13 @@
+{
+  "name": "adinand-apps",
+  "displayName": "Adinand Apps",
+  "description": "Gmail, PDF, YouTube, file help.",
+  "homepage": "https://adinand.com",
+  "docs": "https://adinand.com/connector",
+  "auth": "none",
+  "mcpServers": {
+    "adinand-apps": {
+      "url": "https://adinand-mcp.jyotitech2025.workers.dev/mcp"
+    }
+  }
+}

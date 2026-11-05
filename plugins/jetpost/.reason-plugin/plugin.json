@@ -1,0 +1,13 @@
+{
+  "name": "jetpost",
+  "displayName": "Jetpost",
+  "description": "Message your team from Reason.",
+  "homepage": "https://www.jetpost.com/welcome",
+  "docs": "https://www.jetpost.com/welcome",
+  "auth": "oauth",
+  "mcpServers": {
+    "jetpost": {
+      "url": "https://jetpost.com/mcp"
+    }
+  }
+}

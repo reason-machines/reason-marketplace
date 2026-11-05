@@ -1,0 +1,13 @@
+{
+  "name": "mopingo",
+  "displayName": "Mopingo",
+  "description": "Plan your trips with Mopingo.",
+  "homepage": "https://mopingo.com",
+  "docs": "https://mopingo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mopingo": {
+      "url": "https://mopingo.com/mcp"
+    }
+  }
+}

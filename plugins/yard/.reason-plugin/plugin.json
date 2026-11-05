@@ -1,0 +1,13 @@
+{
+  "name": "yard",
+  "displayName": "Yard",
+  "description": "Manage software on Yard.",
+  "homepage": "https://yard.sh/",
+  "docs": "https://yard.sh/",
+  "auth": "oauth",
+  "mcpServers": {
+    "yard": {
+      "url": "https://mcp.yard.sh/"
+    }
+  }
+}

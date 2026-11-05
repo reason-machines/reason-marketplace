@@ -1,0 +1,13 @@
+{
+  "name": "kinetune",
+  "displayName": "Kinetune",
+  "description": "Lyric videos & Spotify Canvas.",
+  "homepage": "https://kinetune.com",
+  "docs": "https://kinetune.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "kinetune": {
+      "url": "https://kinetune.com/mcp"
+    }
+  }
+}

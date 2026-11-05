@@ -1,0 +1,13 @@
+{
+  "name": "saltybytes",
+  "displayName": "SaltyBytes",
+  "description": "Find and save real recipes.",
+  "homepage": "https://saltybytes.ai",
+  "docs": "https://saltybytes.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "saltybytes": {
+      "url": "https://saltybytes.ai/mcp"
+    }
+  }
+}

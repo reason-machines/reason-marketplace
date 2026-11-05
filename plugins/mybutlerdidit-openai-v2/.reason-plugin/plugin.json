@@ -1,0 +1,13 @@
+{
+  "name": "mybutlerdidit-openai-v2",
+  "displayName": "Butler by MyButlerDid.it",
+  "description": "Household memory & follow-up.",
+  "homepage": "https://mybutlerdid.it",
+  "docs": "https://mybutlerdid.it",
+  "auth": "oauth",
+  "mcpServers": {
+    "mybutlerdidit-openai-v2": {
+      "url": "https://mybutlerdid.it/mcp"
+    }
+  }
+}

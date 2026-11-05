@@ -1,0 +1,13 @@
+{
+  "name": "orendro",
+  "displayName": "Orendro",
+  "description": "Food, fitness and daily plans.",
+  "homepage": "https://orendro.com",
+  "docs": "https://api.orendro.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "orendro": {
+      "url": "https://api.orendro.com/mcp"
+    }
+  }
+}

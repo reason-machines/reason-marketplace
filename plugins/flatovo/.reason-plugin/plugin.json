@@ -1,0 +1,13 @@
+{
+  "name": "flatovo",
+  "displayName": "Flatovo",
+  "description": "Find Belgrade rentals.",
+  "homepage": "https://flatovo.rodn.dev",
+  "docs": "https://flatovo.rodn.dev",
+  "auth": "none",
+  "mcpServers": {
+    "flatovo": {
+      "url": "https://flatovo.rodn.dev/api/mcp"
+    }
+  }
+}

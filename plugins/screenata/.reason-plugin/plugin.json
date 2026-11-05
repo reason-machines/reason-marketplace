@@ -1,0 +1,13 @@
+{
+  "name": "screenata",
+  "displayName": "Screenata",
+  "description": "SOC 2, HIPAA & ISO readiness.",
+  "homepage": "https://screenata.com",
+  "docs": "https://screenata.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "screenata": {
+      "url": "https://api.screenata.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "purplebee",
+  "displayName": "PurpleBee",
+  "description": "Who brings what, who owes what.",
+  "homepage": "https://purplebee.app",
+  "docs": "https://purplebee.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "purplebee": {
+      "url": "https://purplebee.app/mcp"
+    }
+  }
+}

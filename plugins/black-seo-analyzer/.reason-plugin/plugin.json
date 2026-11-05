@@ -1,0 +1,13 @@
+{
+  "name": "black-seo-analyzer",
+  "displayName": "Black SEO Analyzer",
+  "description": "Technical SEO audits.",
+  "homepage": "https://www.blackseoanalyzer.com/",
+  "docs": "https://www.blackseoanalyzer.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "black-seo-analyzer": {
+      "url": "https://mcp.blackseoanalyzer.com/mcp"
+    }
+  }
+}

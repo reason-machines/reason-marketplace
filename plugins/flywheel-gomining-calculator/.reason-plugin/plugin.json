@@ -1,0 +1,13 @@
+{
+  "name": "flywheel-gomining-calculator",
+  "displayName": "FlywheelDayOne - GoMining Calc",
+  "description": "GoMining costs and scenarios.",
+  "homepage": "https://flywheeldayone.com/ai-calculator/",
+  "docs": "https://flywheeldayone.com/ai-calculator/",
+  "auth": "none",
+  "mcpServers": {
+    "flywheel-gomining-calculator": {
+      "url": "https://flywheeldayone.com/mcp/calculator/"
+    }
+  }
+}

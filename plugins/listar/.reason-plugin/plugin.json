@@ -1,0 +1,13 @@
+{
+  "name": "listar",
+  "displayName": "Listar",
+  "description": "B2B contacts for prospecting.",
+  "homepage": "https://listar.fr/en",
+  "docs": "https://listar.fr/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "listar": {
+      "url": "https://api.listar.fr/mcp"
+    }
+  }
+}

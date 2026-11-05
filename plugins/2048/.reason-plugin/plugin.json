@@ -1,0 +1,13 @@
+{
+  "name": "2048",
+  "displayName": "2048",
+  "description": "Merge Tiles. Reach 2048.",
+  "homepage": "https://2048.ainativekit.com",
+  "docs": "https://2048.ainativekit.com",
+  "auth": "none",
+  "mcpServers": {
+    "2048": {
+      "url": "https://2048.ainativekit.com/mcp"
+    }
+  }
+}

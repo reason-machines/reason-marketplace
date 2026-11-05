@@ -1,0 +1,13 @@
+{
+  "name": "datalegion",
+  "displayName": "Data Legion",
+  "description": "B2B people and company data.",
+  "homepage": "https://www.datalegion.ai",
+  "docs": "https://www.datalegion.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "datalegion": {
+      "url": "https://api.datalegion.ai/mcp"
+    }
+  }
+}

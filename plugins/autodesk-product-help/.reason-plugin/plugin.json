@@ -1,0 +1,13 @@
+{
+  "name": "autodesk-product-help",
+  "displayName": "Autodesk Product Help",
+  "description": "Connect Autodesk product docs.",
+  "homepage": "https://www.autodesk.com/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.autodesk.aps.api/product-help-mcp",
+  "auth": "none",
+  "mcpServers": {
+    "autodesk-product-help": {
+      "url": "https://api.aps.autodesk.com/knowledge/public/v1/mcp"
+    }
+  }
+}

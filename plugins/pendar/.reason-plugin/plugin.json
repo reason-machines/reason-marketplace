@@ -1,0 +1,13 @@
+{
+  "name": "pendar",
+  "displayName": "Pendar",
+  "description": "Map & measure research fields.",
+  "homepage": "https://pendar.ai",
+  "docs": "https://pendar.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "pendar": {
+      "url": "https://pendar.ai/mcp"
+    }
+  }
+}

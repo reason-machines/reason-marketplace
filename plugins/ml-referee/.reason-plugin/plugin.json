@@ -1,0 +1,13 @@
+{
+  "name": "ml-referee",
+  "displayName": "ML Referee",
+  "description": "Evaluate candidate features.",
+  "homepage": "https://mlreferee.com",
+  "docs": "https://mlreferee.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "ml-referee": {
+      "url": "https://api.mlreferee.com/mcp"
+    }
+  }
+}

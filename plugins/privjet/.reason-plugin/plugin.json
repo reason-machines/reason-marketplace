@@ -1,0 +1,13 @@
+{
+  "name": "privjet",
+  "displayName": "PrivJet",
+  "description": "Find empty leg flights.",
+  "homepage": "https://www.privjet.net",
+  "docs": "https://www.privjet.net",
+  "auth": "none",
+  "mcpServers": {
+    "privjet": {
+      "url": "https://mcp.privjet.net/mcp"
+    }
+  }
+}

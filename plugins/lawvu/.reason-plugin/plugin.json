@@ -1,0 +1,13 @@
+{
+  "name": "lawvu",
+  "displayName": "LawVu",
+  "description": "OS for in-house legal teams.",
+  "homepage": "https://lawvu.com",
+  "docs": "https://lawvu.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lawvu": {
+      "url": "https://mcp.lawvu.com/mcp"
+    }
+  }
+}

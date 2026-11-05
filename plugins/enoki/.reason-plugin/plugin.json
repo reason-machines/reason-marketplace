@@ -1,0 +1,13 @@
+{
+  "name": "enoki",
+  "displayName": "Enoki",
+  "description": "Security testing for AI agents.",
+  "homepage": "https://enokilabs.ai",
+  "docs": "https://enokilabs.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "enoki": {
+      "url": "https://mcp.enokilabs.ai/mcp"
+    }
+  }
+}

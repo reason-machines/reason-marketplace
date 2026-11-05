@@ -1,0 +1,13 @@
+{
+  "name": "storied-ai",
+  "displayName": "Storied AI",
+  "description": "High-stakes narrative drafts.",
+  "homepage": "https://www.storiedinc.com/storied-ai",
+  "docs": "https://www.storiedinc.com/storied-ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "storied-ai": {
+      "url": "https://mcp.storiedinc.com/mcp"
+    }
+  }
+}

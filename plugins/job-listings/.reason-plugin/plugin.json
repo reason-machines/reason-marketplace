@@ -1,0 +1,13 @@
+{
+  "name": "job-listings",
+  "displayName": "Job Listings",
+  "description": "Find jobs by role and location.",
+  "homepage": "https://www.applygateway.com",
+  "docs": "https://www.applygateway.com",
+  "auth": "none",
+  "mcpServers": {
+    "job-listings": {
+      "url": "https://mcp.applygateway.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "statz-football",
+  "displayName": "Statz Football",
+  "description": "Football stats & projections.",
+  "homepage": "https://statz.ai/about",
+  "docs": "https://statz.ai/about",
+  "auth": "none",
+  "mcpServers": {
+    "statz-football": {
+      "url": "https://statz.ai/mcp"
+    }
+  }
+}

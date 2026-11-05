@@ -1,0 +1,13 @@
+{
+  "name": "redmo",
+  "displayName": "RedMo",
+  "description": "Live quizzes for any room.",
+  "homepage": "https://redmo.xyz",
+  "docs": "https://redmo.xyz",
+  "auth": "oauth",
+  "mcpServers": {
+    "redmo": {
+      "url": "https://redmo.xyz/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dns-checker",
+  "displayName": "Zovo DNS Checker",
+  "description": "Live DNS & email auth checks.",
+  "homepage": "https://dns-checker.zovo.one",
+  "docs": "https://dns-checker.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "dns-checker": {
+      "url": "https://dns-checker.zovo.one/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "altodocs",
+  "displayName": "AltoDocs",
+  "description": "Create engineering documents.",
+  "homepage": "https://altodocs.io",
+  "docs": "https://app.altodocs.io/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "altodocs": {
+      "url": "https://app.altodocs.io/mcp"
+    }
+  }
+}

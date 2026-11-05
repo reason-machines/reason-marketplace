@@ -1,0 +1,13 @@
+{
+  "name": "peristyle-grocery-cart",
+  "displayName": "Peristyle Grocery Cart",
+  "description": "Recipes into a grocery cart.",
+  "homepage": "https://peristyle.io",
+  "docs": "https://peristyle.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "peristyle-grocery-cart": {
+      "url": "https://mcp.peristyle.io/mcp"
+    }
+  }
+}

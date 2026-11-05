@@ -1,0 +1,13 @@
+{
+  "name": "fixragent",
+  "displayName": "fixRAgent",
+  "description": "Maintenance photo triage.",
+  "homepage": "https://fixragent.com",
+  "docs": "https://fixragent.com",
+  "auth": "none",
+  "mcpServers": {
+    "fixragent": {
+      "url": "https://fixragent.com/mcp"
+    }
+  }
+}

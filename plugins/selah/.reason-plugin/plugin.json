@@ -1,0 +1,13 @@
+{
+  "name": "selah",
+  "displayName": "Selah",
+  "description": "Your Bible reading progress.",
+  "homepage": "https://selah.to/?utm_source=chatgpt",
+  "docs": "https://api.selah.to/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "selah": {
+      "url": "https://api.selah.to/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "netnest-sec-fundamentals",
+  "displayName": "NetNest SEC Fundamentals",
+  "description": "Company data from SEC filings.",
+  "homepage": "https://api.netnestdesign.com/docs",
+  "docs": "https://api.netnestdesign.com/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "netnest-sec-fundamentals": {
+      "url": "https://api.netnestdesign.com/mcp"
+    }
+  }
+}

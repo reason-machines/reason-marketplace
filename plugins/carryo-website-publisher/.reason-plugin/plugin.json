@@ -1,0 +1,13 @@
+{
+  "name": "carryo-website-publisher",
+  "displayName": "Carryo website publisher",
+  "description": "Publish a website.",
+  "homepage": "https://carryo.io",
+  "docs": "https://carryo.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "carryo-website-publisher": {
+      "url": "https://mcp.carryo.io/mcp"
+    }
+  }
+}

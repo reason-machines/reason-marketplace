@@ -1,0 +1,13 @@
+{
+  "name": "bota",
+  "displayName": "Bota",
+  "description": "Ask about your conversations.",
+  "homepage": "https://getbota.com",
+  "docs": "https://getbota.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "bota": {
+      "url": "https://mcp.getbota.com/mcp"
+    }
+  }
+}

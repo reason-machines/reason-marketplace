@@ -1,0 +1,13 @@
+{
+  "name": "perigee-fishing",
+  "displayName": "Perigee Fishing",
+  "description": "Plan better fishing sessions.",
+  "homepage": "https://perigeetides.com/chatgpt/coastal-planner",
+  "docs": "https://perigeetides.com/chatgpt/coastal-planner",
+  "auth": "none",
+  "mcpServers": {
+    "perigee-fishing": {
+      "url": "https://perigeetides.com/mcp"
+    }
+  }
+}

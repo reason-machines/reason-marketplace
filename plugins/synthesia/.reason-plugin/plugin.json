@@ -1,0 +1,13 @@
+{
+  "name": "synthesia",
+  "displayName": "Synthesia",
+  "description": "Make AI videos in the chat.",
+  "homepage": "https://www.synthesia.io",
+  "docs": "https://www.synthesia.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "synthesia": {
+      "url": "https://mcp.synthesia.io/mcp"
+    }
+  }
+}

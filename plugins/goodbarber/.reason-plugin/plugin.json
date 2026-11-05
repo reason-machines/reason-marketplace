@@ -1,0 +1,13 @@
+{
+  "name": "goodbarber",
+  "displayName": "GoodBarber",
+  "description": "Manage your GoodBarber app.",
+  "homepage": "https://www.goodbarber.com/",
+  "docs": "https://www.goodbarber.com/developers",
+  "auth": "oauth",
+  "mcpServers": {
+    "goodbarber": {
+      "url": "https://mcp.goodbarber.dev/mcp/sse"
+    }
+  }
+}

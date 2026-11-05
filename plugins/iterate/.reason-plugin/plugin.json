@@ -1,0 +1,13 @@
+{
+  "name": "iterate",
+  "displayName": "Iterate",
+  "description": "Explore customer feedback.",
+  "homepage": "https://iteratehq.com",
+  "docs": "https://iteratehq.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "iterate": {
+      "url": "https://iteratehq.com/mcp"
+    }
+  }
+}

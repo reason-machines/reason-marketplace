@@ -1,0 +1,13 @@
+{
+  "name": "personyze",
+  "displayName": "Personyze",
+  "description": "Manage web personalization.",
+  "homepage": "https://www.personyze.com/",
+  "docs": "https://www.personyze.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "personyze": {
+      "url": "https://personyze.com/mcp"
+    }
+  }
+}

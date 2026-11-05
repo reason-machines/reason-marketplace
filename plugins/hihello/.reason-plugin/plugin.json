@@ -1,0 +1,13 @@
+{
+  "name": "hihello",
+  "displayName": "HiHello",
+  "description": "Business cards and insights.",
+  "homepage": "https://docs.hihello.com/mcp/chatgpt",
+  "docs": "https://docs.hihello.com/mcp/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "hihello": {
+      "url": "https://mcp.hihello.com/mcp"
+    }
+  }
+}

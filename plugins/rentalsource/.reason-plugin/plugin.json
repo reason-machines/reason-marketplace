@@ -1,0 +1,13 @@
+{
+  "name": "rentalsource",
+  "displayName": "RentalSource",
+  "description": "Find home & apartment rentals.",
+  "homepage": "https://www.rentalsource.com/",
+  "docs": "https://rentalsource.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "rentalsource": {
+      "url": "https://www.rentalsource.com/mcp"
+    }
+  }
+}

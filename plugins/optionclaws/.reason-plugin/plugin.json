@@ -1,0 +1,13 @@
+{
+  "name": "optionclaws",
+  "displayName": "OptionClaws",
+  "description": "Scan for options trades.",
+  "homepage": "https://www.optionclaws.com",
+  "docs": "https://www.optionclaws.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "optionclaws": {
+      "url": "https://api.optionclaws.com/optionclaws/mcp"
+    }
+  }
+}

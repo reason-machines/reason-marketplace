@@ -1,0 +1,13 @@
+{
+  "name": "howdy-apartments",
+  "displayName": "Howdy Apartments",
+  "description": "Apartment guidance for Aggies.",
+  "homepage": "https://howdyapartments.com",
+  "docs": "https://howdyapartments.com",
+  "auth": "none",
+  "mcpServers": {
+    "howdy-apartments": {
+      "url": "https://howdyapartments.com/mcp"
+    }
+  }
+}

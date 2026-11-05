@@ -1,0 +1,13 @@
+{
+  "name": "saypage",
+  "displayName": "Saypage",
+  "description": "Web pages and Instagram tools.",
+  "homepage": "https://saypage.ai",
+  "docs": "https://saypage.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "saypage": {
+      "url": "https://api.saypage.ai/mcp"
+    }
+  }
+}

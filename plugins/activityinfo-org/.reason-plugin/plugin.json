@@ -1,0 +1,13 @@
+{
+  "name": "activityinfo-org",
+  "displayName": "ActivityInfo.org",
+  "description": "Connect to your databases.",
+  "homepage": "https://www.activityinfo.org",
+  "docs": "https://www.activityinfo.org",
+  "auth": "oauth",
+  "mcpServers": {
+    "activityinfo-org": {
+      "url": "https://activityinfo.org/mcp"
+    }
+  }
+}

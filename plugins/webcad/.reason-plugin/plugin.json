@@ -1,0 +1,13 @@
+{
+  "name": "webcad",
+  "displayName": "WebCAD",
+  "description": "Design parts, get STEP files.",
+  "homepage": "https://app.webcad.ca",
+  "docs": "https://app.webcad.ca",
+  "auth": "oauth",
+  "mcpServers": {
+    "webcad": {
+      "url": "https://mcp.webcad.ca/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "flow-state",
+  "displayName": "Flow State",
+  "description": "Plan endurance training.",
+  "homepage": "https://www.reachflowstate.ai",
+  "docs": "https://www.reachflowstate.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "flow-state": {
+      "url": "https://reachflowstate.ai/mcp"
+    }
+  }
+}

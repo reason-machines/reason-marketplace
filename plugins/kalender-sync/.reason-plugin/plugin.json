@@ -1,0 +1,13 @@
+{
+  "name": "kalender-sync",
+  "displayName": "Kalender Sync",
+  "description": "Check and book your calendars.",
+  "homepage": "https://kalender-sync.de/en/?ref=chatgpt_directory",
+  "docs": "https://kalender-sync.de/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "kalender-sync": {
+      "url": "https://app.kalender-sync.de/mcp"
+    }
+  }
+}

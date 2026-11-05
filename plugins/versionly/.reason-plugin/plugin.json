@@ -1,0 +1,13 @@
+{
+  "name": "versionly",
+  "displayName": "Versionly",
+  "description": "Self-maintaining APIs.",
+  "homepage": "https://versionly.dev",
+  "docs": "https://versionly.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "versionly": {
+      "url": "https://mcp.versionly.dev/mcp"
+    }
+  }
+}

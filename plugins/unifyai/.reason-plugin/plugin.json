@@ -1,0 +1,13 @@
+{
+  "name": "unifyai",
+  "displayName": "UnifyAI",
+  "description": "Create Videos and Images.",
+  "homepage": "https://unifycore.ai/",
+  "docs": "https://unifycore.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "unifyai": {
+      "url": "https://unifycore.ai/api/mcp"
+    }
+  }
+}

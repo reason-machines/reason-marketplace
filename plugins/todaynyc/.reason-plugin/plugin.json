@@ -1,0 +1,13 @@
+{
+  "name": "todaynyc",
+  "displayName": "TodayNYC",
+  "description": "NYC 3-hour plans & weekends.",
+  "homepage": "https://todaynyc.app/",
+  "docs": "https://todaynyc.app/",
+  "auth": "none",
+  "mcpServers": {
+    "todaynyc": {
+      "url": "https://todaynyc.app/mcp"
+    }
+  }
+}

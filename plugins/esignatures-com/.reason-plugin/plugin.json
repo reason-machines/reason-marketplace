@@ -1,0 +1,13 @@
+{
+  "name": "esignatures-com",
+  "displayName": "eSignatures.com",
+  "description": "Draft, send & manage contracts.",
+  "homepage": "https://esignatures.com",
+  "docs": "https://esignatures.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "esignatures-com": {
+      "url": "https://esignatures.com/mcp"
+    }
+  }
+}

@@ -10,5 +10,77 @@
     "spacefast": {
       "url": "https://mcp.spacefast.com"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "apply-design-system",
+      "description": "Apply a Spacefast team's saved design system to a new build or an explicitly requested source edit. Use its standards and brand assets in the real project, then verify the result.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "apply-design-system",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/apply-design-system"
+    },
+    {
+      "name": "build-website",
+      "description": "Create and publish a new Spacefast website from a brief, such as a landing page, portfolio, report, or dashboard. Use when the user wants a new site. For an existing Space, use edit-space.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "build-website",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/build-website"
+    },
+    {
+      "name": "custom-domain",
+      "description": "Find, check, and register domains through Spacefast forms. Connect a domain the user owns to a Space, check DNS and HTTPS, or move its website to Spacefast. Preserve the existing site until the new destination works.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "custom-domain",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/custom-domain"
+    },
+    {
+      "name": "edit-space",
+      "description": "Change the content, design, or source files of an existing Spacefast Space and apply visual review notes. Use for page text, styles, layout, or file edits. Do not use for unrelated local editing.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "edit-space",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/edit-space"
+    },
+    {
+      "name": "fix-deployment",
+      "description": "Diagnose a failed Spacefast build, publish, or live page. Apply a fix supported by logs, or restore a known-good version when requested. Use when a deployment fails, stalls, or breaks existing behavior.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "fix-deployment",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/fix-deployment"
+    },
+    {
+      "name": "import-design-system",
+      "description": "Save branding, design tokens, component standards, writing guidelines, and asset references from user-provided material into a Spacefast team's design system.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "import-design-system",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/import-design-system"
+    },
+    {
+      "name": "share-space",
+      "description": "Change who can access a Spacefast Space or path. Use to make it public, keep it private, invite specific people, or create or revoke a share link. Publishing content is a separate task.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "share-space",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/share-space"
+    },
+    {
+      "name": "spacefast",
+      "description": "Publish an existing website, app, report, or other artifact to Spacefast and verify its live link. Also use to read or manage team Memories and inspect team Skills. For changes to an existing Space's content or design, use edit-space.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "spacefast",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/spacefast"
+    },
+    {
+      "name": "update-design",
+      "description": "Bring a named existing Spacefast Space or linked project into alignment with the team's current saved design system. Update affected source and assets, verify the result, and follow the request's deployment intent.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "update-design",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/update-design"
+    },
+    {
+      "name": "verify-design-system",
+      "description": "Check a Spacefast source build or preview against its saved team design system, including visual and editorial results. Report deviations and fix them when the task includes corrections.",
+      "source": "spacefast/plugins#1293f51a33b0225e03ba457d1ecca1edd63d2dbe",
+      "skill": "verify-design-system",
+      "url": "https://github.com/spacefast/plugins/tree/1293f51a33b0225e03ba457d1ecca1edd63d2dbe/claude-code/skills/verify-design-system"
+    }
+  ]
 }

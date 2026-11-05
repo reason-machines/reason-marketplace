@@ -1,0 +1,13 @@
+{
+  "name": "neural-analog",
+  "displayName": "Neural Analog",
+  "description": "Restore, split and edit audio.",
+  "homepage": "https://neuralanalog.com",
+  "docs": "https://neuralanalog.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "neural-analog": {
+      "url": "https://api.neuralanalog.com/mcp"
+    }
+  }
+}

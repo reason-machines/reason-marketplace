@@ -1,0 +1,13 @@
+{
+  "name": "flypost",
+  "displayName": "Flypost",
+  "description": "Your LinkedIn content studio.",
+  "homepage": "https://www.flypost.io",
+  "docs": "https://www.flypost.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "flypost": {
+      "url": "https://mcp.flypost.io/mcp"
+    }
+  }
+}

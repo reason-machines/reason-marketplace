@@ -1,0 +1,13 @@
+{
+  "name": "gigapixel-ai",
+  "displayName": "Gigapixel AI",
+  "description": "Upscale photos and images.",
+  "homepage": "https://gigapixelai.com",
+  "docs": "https://gigapixelai.com",
+  "auth": "none",
+  "mcpServers": {
+    "gigapixel-ai": {
+      "url": "https://gigapixelai.com/mcp"
+    }
+  }
+}

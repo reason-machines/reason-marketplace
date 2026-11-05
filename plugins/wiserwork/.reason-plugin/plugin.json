@@ -1,0 +1,13 @@
+{
+  "name": "wiserwork",
+  "displayName": "wiserwork",
+  "description": "Meetings into finished work.",
+  "homepage": "https://wiserwork.ai",
+  "docs": "https://wiserwork.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "wiserwork": {
+      "url": "https://mcp.wiserwork.ai/mcp"
+    }
+  }
+}

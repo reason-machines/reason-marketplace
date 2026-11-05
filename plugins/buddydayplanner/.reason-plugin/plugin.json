@@ -1,0 +1,13 @@
+{
+  "name": "buddydayplanner",
+  "displayName": "buddydayplanner",
+  "description": "Send tasks to Buddy's Drafts.",
+  "homepage": "https://buddydayplanner.com",
+  "docs": "https://buddydayplanner.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "buddydayplanner": {
+      "url": "https://buddydayplanner.com/mcp"
+    }
+  }
+}

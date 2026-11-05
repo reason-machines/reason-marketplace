@@ -1,0 +1,13 @@
+{
+  "name": "expat-savings-rates",
+  "displayName": "Expat Savings Rates",
+  "description": "Offshore savings rates.",
+  "homepage": "https://bratucapital.com",
+  "docs": "https://tedix.dev/apps/expat-savings-rates/",
+  "auth": "none",
+  "mcpServers": {
+    "expat-savings-rates": {
+      "url": "https://plugins.bratucapital.com/savings/mcp"
+    }
+  }
+}

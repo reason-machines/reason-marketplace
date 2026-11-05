@@ -1,0 +1,13 @@
+{
+  "name": "aso-best",
+  "displayName": "aso.best",
+  "description": "App Store keyword research.",
+  "homepage": "https://aso.best",
+  "docs": "https://aso.best",
+  "auth": "oauth",
+  "mcpServers": {
+    "aso-best": {
+      "url": "https://aso.best/mcp"
+    }
+  }
+}

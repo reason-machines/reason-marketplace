@@ -1,0 +1,13 @@
+{
+  "name": "00widget",
+  "displayName": "00Widget",
+  "description": "Track work on iPhone widgets.",
+  "homepage": "https://00widget.com/",
+  "docs": "https://00widget.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "00widget": {
+      "url": "https://api.00widget.com/mcp"
+    }
+  }
+}

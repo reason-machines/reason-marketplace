@@ -1,0 +1,13 @@
+{
+  "name": "stockly",
+  "displayName": "Stockly by Analytos Labs",
+  "description": "AI inventory control tower.",
+  "homepage": "https://stockly.analytos.ai",
+  "docs": "https://stockly.analytos.ai/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "stockly": {
+      "url": "https://stockly.analytos.ai/mcp"
+    }
+  }
+}

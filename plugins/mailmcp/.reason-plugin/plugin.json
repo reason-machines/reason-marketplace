@@ -1,0 +1,13 @@
+{
+  "name": "mailmcp",
+  "displayName": "mailmcp",
+  "description": "Your mailboxes in Reason.",
+  "homepage": "https://mailmcp.ai",
+  "docs": "https://mailmcp.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "mailmcp": {
+      "url": "https://mailmcp.ai/mcp"
+    }
+  }
+}

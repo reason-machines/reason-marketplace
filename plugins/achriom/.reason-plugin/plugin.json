@@ -1,0 +1,13 @@
+{
+  "name": "achriom",
+  "displayName": "Achriom",
+  "description": "Track books, movies, and shows.",
+  "homepage": "https://www.achriom.com",
+  "docs": "https://www.achriom.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "achriom": {
+      "url": "https://mcp.achriom.com/mcp"
+    }
+  }
+}

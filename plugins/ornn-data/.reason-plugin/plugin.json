@@ -1,0 +1,13 @@
+{
+  "name": "ornn-data",
+  "displayName": "Ornn Data",
+  "description": "AI compute market data.",
+  "homepage": "https://data.ornn.com",
+  "docs": "https://data.ornn.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "ornn-data": {
+      "url": "https://mcp.ornn.com/mcp"
+    }
+  }
+}

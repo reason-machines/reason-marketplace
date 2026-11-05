@@ -1,0 +1,13 @@
+{
+  "name": "akta-pro",
+  "displayName": "akta.pro",
+  "description": "Private company data & signals.",
+  "homepage": "https://akta.pro",
+  "docs": "https://akta.pro",
+  "auth": "oauth",
+  "mcpServers": {
+    "akta-pro": {
+      "url": "https://mcp.akta.pro/mcp"
+    }
+  }
+}

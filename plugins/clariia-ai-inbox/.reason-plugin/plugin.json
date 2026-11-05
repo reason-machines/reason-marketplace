@@ -1,0 +1,13 @@
+{
+  "name": "clariia-ai-inbox",
+  "displayName": "Clariia AI Inbox",
+  "description": "Review AI-created work.",
+  "homepage": "https://clariia.com",
+  "docs": "https://clariia.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "clariia-ai-inbox": {
+      "url": "https://clariia.com/mcp"
+    }
+  }
+}

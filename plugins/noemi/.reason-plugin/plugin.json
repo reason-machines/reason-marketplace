@@ -1,0 +1,13 @@
+{
+  "name": "noemi",
+  "displayName": "Noemi",
+  "description": "Your professional page.",
+  "homepage": "https://noemi.cards",
+  "docs": "https://noemi.cards/",
+  "auth": "oauth",
+  "mcpServers": {
+    "noemi": {
+      "url": "https://www.noemi.cards/api/mcp"
+    }
+  }
+}

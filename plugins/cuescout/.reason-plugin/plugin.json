@@ -1,0 +1,13 @@
+{
+  "name": "cuescout",
+  "displayName": "CueScout",
+  "description": "Check if AI answers name you.",
+  "homepage": "https://cuescout.com/mcp",
+  "docs": "https://cuescout.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "cuescout": {
+      "url": "https://mcp.cuescout.com/mcp"
+    }
+  }
+}

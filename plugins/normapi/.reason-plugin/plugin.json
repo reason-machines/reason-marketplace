@@ -1,0 +1,13 @@
+{
+  "name": "normapi",
+  "displayName": "NormAPI – XRechnung & ZUGFeRD",
+  "description": "Check and create e-invoices.",
+  "homepage": "https://normapi.com/en/docs/mcp",
+  "docs": "https://normapi.com/en/docs/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "normapi": {
+      "url": "https://normapi.com/mcp"
+    }
+  }
+}

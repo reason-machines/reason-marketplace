@@ -1,0 +1,13 @@
+{
+  "name": "esim-finder",
+  "displayName": "eSIM Finder",
+  "description": "Find and compare travel eSIMs.",
+  "homepage": "https://esimfinder.io",
+  "docs": "https://esimfinder.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "esim-finder": {
+      "url": "https://mcp.esimfinder.io/api/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "eksis",
+  "displayName": "eksis",
+  "description": "Schedule social media posts.",
+  "homepage": "https://eksis.io",
+  "docs": "https://eksis.io/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "eksis": {
+      "url": "https://api.eksis.io/mcp"
+    }
+  }
+}

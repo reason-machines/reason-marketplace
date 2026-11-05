@@ -1,0 +1,13 @@
+{
+  "name": "cleve",
+  "displayName": "Cleve",
+  "description": "Search and edit Cleve notes.",
+  "homepage": "https://cleve.ai",
+  "docs": "https://cleve.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "cleve": {
+      "url": "https://app.cleve.ai/mcp"
+    }
+  }
+}

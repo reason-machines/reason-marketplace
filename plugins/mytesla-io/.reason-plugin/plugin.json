@@ -1,0 +1,13 @@
+{
+  "name": "mytesla-io",
+  "displayName": "mytesla.io",
+  "description": "Control your Tesla with AI.",
+  "homepage": "https://mytesla.io",
+  "docs": "https://mytesla.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "mytesla-io": {
+      "url": "https://mcp.mytesla.io/mcp"
+    }
+  }
+}

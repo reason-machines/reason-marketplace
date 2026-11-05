@@ -1,0 +1,13 @@
+{
+  "name": "outreserve",
+  "displayName": "OutReserve",
+  "description": "Find Campgrounds & RV Parks.",
+  "homepage": "https://outreserve.com",
+  "docs": "https://outreserve.com",
+  "auth": "none",
+  "mcpServers": {
+    "outreserve": {
+      "url": "https://outreserve.com/mcp"
+    }
+  }
+}

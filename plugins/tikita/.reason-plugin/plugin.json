@@ -1,0 +1,13 @@
+{
+  "name": "tikita",
+  "displayName": "Tikita",
+  "description": "Create Tikita story drafts.",
+  "homepage": "https://tikita.ai",
+  "docs": "https://tikita.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "tikita": {
+      "url": "https://mcp.tikita.ai/mcp"
+    }
+  }
+}

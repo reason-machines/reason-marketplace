@@ -1,0 +1,13 @@
+{
+  "name": "lightsplit",
+  "displayName": "Lightsplit",
+  "description": "Split group expenses in chat.",
+  "homepage": "https://lightsplit.com",
+  "docs": "https://lightsplit.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "lightsplit": {
+      "url": "https://api.lightsplit.com/mcp"
+    }
+  }
+}

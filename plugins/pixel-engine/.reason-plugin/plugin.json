@@ -1,0 +1,13 @@
+{
+  "name": "pixel-engine",
+  "displayName": "Pixel Engine",
+  "description": "Pixel art sprites & animations.",
+  "homepage": "https://pixelengine.ai",
+  "docs": "https://pixelengine.ai/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "pixel-engine": {
+      "url": "https://api.pixelengine.ai/functions/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "abmeter",
+  "displayName": "ABMeter",
+  "description": "A/B tests from your assistant.",
+  "homepage": "https://abmeter.ai",
+  "docs": "https://abmeter.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "abmeter": {
+      "url": "https://mcp.abmeter.ai/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dubai-table",
+  "displayName": "Dubai Table",
+  "description": "Request tables at Dubai venues.",
+  "homepage": "https://dubaitable.com/agents/",
+  "docs": "https://dubaitable.com/agents/",
+  "auth": "none",
+  "mcpServers": {
+    "dubai-table": {
+      "url": "https://dubaitable.com/mcp"
+    }
+  }
+}

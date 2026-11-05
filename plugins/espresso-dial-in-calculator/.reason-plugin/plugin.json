@@ -1,0 +1,13 @@
+{
+  "name": "espresso-dial-in-calculator",
+  "displayName": "Espresso Dial-In Calculator",
+  "description": "Fix your espresso shot.",
+  "homepage": "https://puckbean.com/",
+  "docs": "https://puckbean.com/",
+  "auth": "none",
+  "mcpServers": {
+    "espresso-dial-in-calculator": {
+      "url": "https://mcp.puckbean.com/mcp"
+    }
+  }
+}

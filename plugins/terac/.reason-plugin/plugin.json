@@ -1,0 +1,13 @@
+{
+  "name": "terac",
+  "displayName": "Terac",
+  "description": "Vetted human experts on demand.",
+  "homepage": "https://terac.com",
+  "docs": "https://terac.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "terac": {
+      "url": "https://terac.com/api/mcp"
+    }
+  }
+}

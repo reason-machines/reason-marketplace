@@ -1,0 +1,13 @@
+{
+  "name": "talon-knowledge",
+  "displayName": "TALON Knowledge",
+  "description": "Search TALON manuals, Q&A.",
+  "homepage": "https://talon.jp",
+  "docs": "https://talon.jp",
+  "auth": "oauth",
+  "mcpServers": {
+    "talon-knowledge": {
+      "url": "https://mcp.talon.jp/mcp"
+    }
+  }
+}

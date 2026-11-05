@@ -1,0 +1,13 @@
+{
+  "name": "adsagent",
+  "displayName": "AdsAgent",
+  "description": "Manage Meta ads safely.",
+  "homepage": "https://adsagent.md/",
+  "docs": "https://adsagent.md/",
+  "auth": "oauth",
+  "mcpServers": {
+    "adsagent": {
+      "url": "https://adsagent.md/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lucide-finance",
+  "displayName": "Lucide Finance",
+  "description": "Stock scores & your portfolio.",
+  "homepage": "https://lucide.finance",
+  "docs": "https://lucide.finance",
+  "auth": "oauth",
+  "mcpServers": {
+    "lucide-finance": {
+      "url": "https://lucide.finance/mcp"
+    }
+  }
+}

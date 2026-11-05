@@ -1,0 +1,13 @@
+{
+  "name": "sendpaper",
+  "displayName": "Sendpaper",
+  "description": "Mail real postcards & letters.",
+  "homepage": "https://sendmypaper.com",
+  "docs": "https://sendmypaper.com",
+  "auth": "none",
+  "mcpServers": {
+    "sendpaper": {
+      "url": "https://sendmypaper.com/mcp"
+    }
+  }
+}

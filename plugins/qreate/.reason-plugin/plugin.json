@@ -1,0 +1,13 @@
+{
+  "name": "qreate",
+  "displayName": "Qreate",
+  "description": "Discord that keeps working.",
+  "homepage": "https://qreate.gg/discord-mcp",
+  "docs": "https://qreate.gg/discord-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "qreate": {
+      "url": "https://mcp.qreate.gg/mcp"
+    }
+  }
+}

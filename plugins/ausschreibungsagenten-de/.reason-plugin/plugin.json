@@ -1,0 +1,13 @@
+{
+  "name": "ausschreibungsagenten-de",
+  "displayName": "Ausschreibungsagenten.de",
+  "description": "German & EU public tenders.",
+  "homepage": "https://www.ausschreibungsagenten.de/",
+  "docs": "https://www.ausschreibungsagenten.de/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "ausschreibungsagenten-de": {
+      "url": "https://api.ausschreibungsagenten.de/mcp"
+    }
+  }
+}

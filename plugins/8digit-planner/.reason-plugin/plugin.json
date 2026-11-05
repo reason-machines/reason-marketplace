@@ -1,0 +1,13 @@
+{
+  "name": "8digit-planner",
+  "displayName": "8digit Planner",
+  "description": "Plan, approve, publish posts.",
+  "homepage": "https://planner.8digitcreative.com",
+  "docs": "https://planner.8digitcreative.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "8digit-planner": {
+      "url": "https://planner.8digitcreative.com/mcp"
+    }
+  }
+}

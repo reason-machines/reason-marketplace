@@ -1,0 +1,13 @@
+{
+  "name": "running-workout",
+  "displayName": "Running Workout",
+  "description": "Coach and schedule workouts.",
+  "homepage": "https://www.runningworkout.fr/?lang=en",
+  "docs": "https://runningworkout.fr/",
+  "auth": "oauth",
+  "mcpServers": {
+    "running-workout": {
+      "url": "https://www.runningworkout.fr/mcp"
+    }
+  }
+}

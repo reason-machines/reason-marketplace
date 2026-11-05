@@ -1,0 +1,13 @@
+{
+  "name": "cairo-medicines",
+  "displayName": "CAIRO Medicines",
+  "description": "Explore official drug labels.",
+  "homepage": "https://medicines.cairoplatform.com/",
+  "docs": "https://medicines.cairoplatform.com/",
+  "auth": "none",
+  "mcpServers": {
+    "cairo-medicines": {
+      "url": "https://medicines.cairoplatform.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "spacecloud-global",
+  "displayName": "SpaceCloud Global",
+  "description": "International rental spaces.",
+  "homepage": "https://www.spacecloud.city",
+  "docs": "https://www.spacecloud.city",
+  "auth": "none",
+  "mcpServers": {
+    "spacecloud-global": {
+      "url": "https://mcp.spacecloud.city/mcp"
+    }
+  }
+}

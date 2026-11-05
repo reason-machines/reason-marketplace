@@ -1,0 +1,13 @@
+{
+  "name": "songstats",
+  "displayName": "Songstats",
+  "description": "Music performance analytics.",
+  "homepage": "https://songstats.com",
+  "docs": "https://developers.stats.company/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "songstats": {
+      "url": "https://api.songstats.com/mcp"
+    }
+  }
+}

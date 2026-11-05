@@ -1,0 +1,13 @@
+{
+  "name": "urlgenius",
+  "displayName": "URLgenius",
+  "description": "Create and manage links.",
+  "homepage": "https://app.urlgeni.us",
+  "docs": "https://app.urlgeni.us",
+  "auth": "oauth",
+  "mcpServers": {
+    "urlgenius": {
+      "url": "https://mcp.urlgeni.us/mcp"
+    }
+  }
+}

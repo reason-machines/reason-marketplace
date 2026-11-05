@@ -1,0 +1,13 @@
+{
+  "name": "spekboom",
+  "displayName": "Spekboom",
+  "description": "Stays that fund conservation.",
+  "homepage": "https://www.spekboom.org",
+  "docs": "https://www.spekboom.org",
+  "auth": "none",
+  "mcpServers": {
+    "spekboom": {
+      "url": "https://mcp.spekboom.org/mcp"
+    }
+  }
+}

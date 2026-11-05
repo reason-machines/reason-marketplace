@@ -1,0 +1,13 @@
+{
+  "name": "moonpay",
+  "displayName": "MoonPay",
+  "description": "Buy crypto with a credit card.",
+  "homepage": "https://www.moonpay.com/",
+  "docs": "https://tedix.dev/apps/moonpay/",
+  "auth": "none",
+  "mcpServers": {
+    "moonpay": {
+      "url": "https://agents.moonpay.com/mcp"
+    }
+  }
+}

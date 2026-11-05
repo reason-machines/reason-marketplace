@@ -10,5 +10,378 @@
     "picsart": {
       "url": "https://mcp.picsart.io/v1"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "ai-presenter",
+      "description": "Put a generated presenter on screen and keep them honest - lip-sync (the face on screen says the audio that plays), one take on the whole step narration, the head bubble and the head-and-screen split, the inputs for the avatar take (the voice is the voice-over-generation skill's), and the presenter'",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "ai-presenter",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/ai-presenter"
+    },
+    {
+      "name": "animate-design",
+      "description": "Turn static material into a real motion-designed video — a Figma design's LAYERS, or the user's own uploaded assets (photos, logos, screenshots, clips), become a composed, animated ad/reel where elements slide, scroll, type on, parallax, and smart-animate, tuned by eye, then rendered — or add design",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "animate-design",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/animate-design"
+    },
+    {
+      "name": "app-ui-animation",
+      "description": "Build a phone or web UI in a scene with scrolling, carousels, button feedback, cursor paths and clicks, context menus, drag-and-drop, synchronized controls, bottom sheets and frosted-glass panels. Use when animating an app mockup, UI walkthrough, slider or onboarding flow, frosted glass or glassmorp",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "app-ui-animation",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/app-ui-animation"
+    },
+    {
+      "name": "background-music",
+      "description": "Draft, generate and lay an instrumental music bed under a finished video's speech - a five-slot brief read off the video, one generation on a music model from the catalog, and the bed mixed with scripts/music_bed.py so it dips under every spoken line and returns between them, with how to move its le",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "background-music",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/background-music"
+    },
+    {
+      "name": "caption-decorations",
+      "description": "Author and validate scene caption decorations, choosing between measured procedural decoration presets and arbitrary scene artwork. Use when adding caption highlights, boxes, stickers, animated artwork, custom decoration assets, or debugging why a caption decorator is missing or timed incorrectly.",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "caption-decorations",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/caption-decorations"
+    },
+    {
+      "name": "custom-transitions",
+      "description": "How to write a new scene transition as an inline JSON definition — the slot contract, the token vocabulary a definition may read, the four mechanisms a transition can be built from, and the frictions that make a plausible-looking definition render wrong. Every rule here was rendered, and the numbers",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "custom-transitions",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/custom-transitions"
+    },
+    {
+      "name": "cut-footage-into-reel",
+      "description": "Cut the user's own footage - a long video, several clips, photos - into a vertical short for TikTok, Reels or Shorts - the best moments in order, nobody clipped mid-sentence, the speaker in frame, with highlight lines and music if wanted. Use when the user has a talk, interview, podcast, vlog, webin",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "cut-footage-into-reel",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/cut-footage-into-reel"
+    },
+    {
+      "name": "design-layer-import",
+      "description": "Bring a design or static assets into a scene as LAYERS, not flat frames, whenever they are going to move — Figma frames for an ad or reel, or a Figma design, logo, UI screen or screenshot that animates inside a tutorial, promo or explainer — each layer in its native format (live text, vector or rast",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "design-layer-import",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/design-layer-import"
+    },
+    {
+      "name": "drama-series-writing",
+      "description": "Write a drama series' bible, season arc and episode cliffhangers, from templates or the user's idea.",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "drama-series-writing",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/drama-series-writing"
+    },
+    {
+      "name": "figma-storyboard-animation",
+      "description": "Turn a Figma storyboard of static frames into an animated scene — read the frame tree, recover the motion the designer already encoded, then build scene by scene, agreeing each transition before moving on; or build a single frame as a still scene. Use when converting a Figma design or storyboard int",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "figma-storyboard-animation",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/figma-storyboard-animation"
+    },
+    {
+      "name": "film-cast-design",
+      "description": "Make a film's people, props and places consistent on pictures - line-keyed descriptors, one sheet per person and one plate per prop compiled by the server, reading an asset review, cutting each panel into its own view, locking the approved asset, and the user's own photos kept as they came. Use when",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "film-cast-design",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/film-cast-design"
+    },
+    {
+      "name": "film-cutting",
+      "description": "Cut a film's accepted takes into one scene - every generation one clip as generated, never split or trimmed, the montage bootstrap with hard cuts, separate dialogue and ambience, cleanup of named glitches, and diagnosing a bad join before choosing the smallest repair. Use when a film's takes are ass",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "film-cutting",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/film-cutting"
+    },
+    {
+      "name": "film-finishing",
+      "description": "Finish a film after picture lock - the draft takes finished to full quality, colour matched and graded from the scene tools' looks, the soundtrack (the takes' own voices, an ambience or music bed), QC, masters, the archive and the AI disclosure. Use when a film's cut is final and it needs finishing,",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "film-finishing",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/film-finishing"
+    },
+    {
+      "name": "film-shot-generation",
+      "description": "Shoot a film's shots as runs - narrowing the video models a film can use, packing shot cards into multi-shot generations, drafting key frames before footage is bought, compiling and verifying every prompt on the server, following the jobs, and routing notes to an edit, an extend or a re-roll. Use wh",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "film-shot-generation",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/film-shot-generation"
+    },
+    {
+      "name": "film-story-writing",
+      "description": "Write a short film's story and break it down - pre-setting the look from the idea, the ten-line story and every scene as what the viewer sees and hears, dialogue that performs action, one light per scene with its dark side and a colour kept back, and the shot cards and asset tags that come out of it",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "film-story-writing",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/film-story-writing"
+    },
+    {
+      "name": "footage-analysis",
+      "description": "Watch the user's own talking footage and turn it into facts you can build on - its moments worth keeping, who is on screen, and a transcript whose sentences set every cut - read every source at once and follow the job receipts. Use when a use case needs to know what happens in an interview, podcast,",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "footage-analysis",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/footage-analysis"
+    },
+    {
+      "name": "footage-reframing",
+      "description": "Put the user's own footage in a frame of another shape - landscape to a vertical reel, say - with the camera following the person, measured once per source, and cut it into a reel of clips back to back with scripts/reel_cut.py, so any re-cut is free. Covers which clips follow the subject and which s",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "footage-reframing",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/footage-reframing"
+    },
+    {
+      "name": "generate-media",
+      "description": "Make an image, a video, a voice line, a sound or a song from a prompt, or edit a picture - remove or replace its background, enhance or upscale it, or turn it into a vector - with a model that fits, its settings checked and its price quoted before anything is charged. Also answers questions about mo",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "generate-media",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/generate-media"
+    },
+    {
+      "name": "large-scene-assembly",
+      "description": "Build large editable scenes by decomposing a timeline into bounded scenes and reusable components, defining timing and asset contracts, then assembling and safely consolidating them. Use when authoring long videos, many scenes or layers, scene-by-scene designs, oversized JSON, fragile whole-document",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "large-scene-assembly",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/large-scene-assembly"
+    },
+    {
+      "name": "linked-element-motion",
+      "description": "Keep related scene elements aligned and moving together, including container resizing, shared fades, content reveals and sibling reflow. Use when labels detach, companions fade separately, panels fail to grow, content overflows, or an outside object must join a template at a particular time and rema",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "linked-element-motion",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/linked-element-motion"
+    },
+    {
+      "name": "make-screen-videos",
+      "description": "Turn a screen recording of an app or website into finished videos - several standalone how-to shorts for Reels, TikTok or Shorts that each teach one easy thing, a feature explainer, a promo with each request typed over its result, a timelapse of a long session, or a step-by-step 16:9 tutorial with c",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "make-screen-videos",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/make-screen-videos"
+    },
+    {
+      "name": "make-short-drama",
+      "description": "Make a vertical drama series, pilot or episode with a recurring cast. Use for a short drama, a story reel, microdrama, web series or its next episode. Not for a one-off film (movie-producer).",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "make-short-drama",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/make-short-drama"
+    },
+    {
+      "name": "motion-design-craft",
+      "description": "The craft of adding motion to any scene, whatever the video — an ad or reel, a promo, a tutorial or walkthrough, an explainer, an intro, outro or title card, or one beat inside a longer edit — motion chosen per element by its role, smart-animate and morphs between frames, transitions, strokes and ma",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "motion-design-craft",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/motion-design-craft"
+    },
+    {
+      "name": "motion-intent",
+      "description": "Choose and diagnose scene motion from communication intent before selecting presets or keyframes. Use when a user says “make this motion feel…”, asks to choreograph a scene, choose timing/easing/stagger, establish motion hierarchy, or explain why an animation feels flat, noisy, robotic, sluggish, or",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "motion-intent",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/motion-intent"
+    },
+    {
+      "name": "motion-pattern-library",
+      "description": "Worked scene motion patterns for entrances, exits, stagger, directional nudges, emphasis, ambient life, springs, arcs, layered beats, parenting, parallax, focus, wipes, and drawn strokes. Use when the motion intent is known and you need supported scene properties and keyframe structures to adapt; va",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "motion-pattern-library",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/motion-pattern-library"
+    },
+    {
+      "name": "motion-scene-continuity",
+      "description": "Plan and diagnose continuity across scene beats and scene boundaries—semantic handoffs, dominant direction, shared visual carriers, causal action/reaction, intentional resets, and seam verification. Use when consecutive scenes feel like separate slides, a transition breaks momentum, a shared element",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "motion-scene-continuity",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/motion-scene-continuity"
+    },
+    {
+      "name": "motion-tracking-from-video",
+      "description": "Measure what objects visibly do in a video - where each one moves, turns and grows, frame by frame - with picsart_media_track_motion, and turn the measurement into scene keyframes; then measure your own render the same way and compare the two with picsart_media_track_motion_diff. Covers choosing tar",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "motion-tracking-from-video",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/motion-tracking-from-video"
+    },
+    {
+      "name": "movie-producer",
+      "description": "Make a short narrative film from a story - several scenes, recurring characters, one locked look - staged and approved step by step. Use when the user wants a short film, a movie or a multi-scene story (\"I have a script\"), or carries on a film already under way here (its shot list, a change to one s",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "movie-producer",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/movie-producer"
+    },
+    {
+      "name": "open-picsart-app",
+      "description": "Open Picsart beside the conversation - the user's recent files, their Picsart Drive, the AI tools, and where to start a film or a motion design video - on a yes to one closed question. Use when a use case offers to open Picsart, such as during setup.",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "open-picsart-app",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/open-picsart-app"
+    },
+    {
+      "name": "photo-slideshow",
+      "description": "Build a photo promo or slideshow in a scene — probe the photos, sequence them as a track of clips with transitions, fill off-aspect photos with a blurred copy, add an animated title that stays readable over any photo, choose a font, and verify with a sweep of full-resolution frames. Use when asked f",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "photo-slideshow",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/photo-slideshow"
+    },
+    {
+      "name": "picsart-video-rules",
+      "description": "The rules every Picsart Video use case follows - how to talk to the user and ask, the five interactions (ASK, REVIEW, SHOW, SPEND, DELIVER), credit consent, asset URLs, when to preview and when to export, and the evaluation budget. Read it first, before any step of a use case.",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "picsart-video-rules",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/picsart-video-rules"
+    },
+    {
+      "name": "quality-review",
+      "description": "Check work before the user sees it - a scene validated, linted and looked at in contact-sheet frames, then fixed and checked again; a short's script, hook and draft reviewed by a simulated viewer panel and critics; the brief graded; an export checked against its scene. Use after a script is written ",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "quality-review",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/quality-review"
+    },
+    {
+      "name": "quick-merge-and-export",
+      "description": "The shortest path from media URLs to a rendered file - merge or concatenate several videos into one with the montage template, sample frames from a scene into a contact sheet, and export any valid scene to a file. Use when asked to merge, join or concatenate clips, to preview a scene as frames, or t",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "quick-merge-and-export",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/quick-merge-and-export"
+    },
+    {
+      "name": "realistic-color-grade",
+      "description": "Make a video's colours look more realistic and natural with the ai_realism look — take the over-processed, plastic, AI-generated look off footage with a gentle grade, a shine correction on skin and light colour grain, and choose its values per video. Use when asked to make video colors more realisti",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "realistic-color-grade",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/realistic-color-grade"
+    },
+    {
+      "name": "recreate-video",
+      "description": "Rebuild a reference video as an editable animated scene that moves and looks like it - the same layout, the same timing, the same motion - measured from the video rather than eyeballed, with the user's own photos and text in place of the original's. Use when the user brings a video and wants one lik",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "recreate-video",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/recreate-video"
+    },
+    {
+      "name": "reel-structure",
+      "description": "Copy a reference reel's structure, never its content - read its beats, shots, caption pattern, pace and sound bed into a structure sheet (or parse a written beat-by-beat breakdown for free), fit the user's own script to those beats, and report each beat as matched, changed, dropped or added, with th",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "reel-structure",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/reel-structure"
+    },
+    {
+      "name": "reference-fragment-matching",
+      "description": "Rebuild a reference video as a scene one fragment at a time - split the reference into spans where one arrangement holds, take a census of each, measure every beat, build it, then check it against the reference on motion and on appearance until it matches - and join the fragments without tearing the",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "reference-fragment-matching",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/reference-fragment-matching"
+    },
+    {
+      "name": "remix-reel-structure",
+      "description": "Remix a reference reel, a talking head or a skit included - copy the reel's structure (beats and timing, shots, caption pattern, pace, sound bed) onto the user's own script or topic, never its words, faces, frames, audio or music; build it as slides, voice and video, and report what matched and what",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "remix-reel-structure",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/remix-reel-structure"
+    },
+    {
+      "name": "resting-frame-rules",
+      "description": "Keep every element whole or gone whenever motion stops - when an animation finishes, when an element appears without moving, and on the last frame, each photo, card or title sits fully inside its frame or fully outside it, never cut by the edge. How to build entrances, exits, scrolls and zooms so th",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "resting-frame-rules",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/resting-frame-rules"
+    },
+    {
+      "name": "retention-hooks",
+      "description": "Keep a short video watched to the end with open loops - a hook that opens a question in the first seconds, an intensifier, a rehook at the middle and a payoff that closes them, whether the lines come from the user's footage or are written for a voice or the screen. Use when ordering the moments of a",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "retention-hooks",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/retention-hooks"
+    },
+    {
+      "name": "scene-animation-reference",
+      "description": "How a scene expresses motion — preset catalogs, layer animations and transform stacks, easing and spatial tangents, Lua expressions, shared path phase, text on a curved or closed path, depth and the composition camera, motion blur, and transition firing. Use when motion needs authoring or validation",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "scene-animation-reference",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/scene-animation-reference"
+    },
+    {
+      "name": "scene-building-basics",
+      "description": "Build and edit a scene with the scene tools - declaring media, audio and fonts as assets, layer trims, audio layers and transitions, reading the schema once before patching. Use whenever a use case composes or changes a scene document.",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "scene-building-basics",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/scene-building-basics"
+    },
+    {
+      "name": "scene-template-remix",
+      "description": "Select, reuse and customize scene catalog items. Use when remixing scene templates, looks, motion presets, text animations, transitions, effects or caption decorations, replacing placeholder content with media, or joining an outside object to a template.",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "scene-template-remix",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/scene-template-remix"
+    },
+    {
+      "name": "screen-recording-analysis",
+      "description": "Read a screen recording from its pixels - its shape, cuts and sound, when and where the screen changes, how long the waits are, the steps with their results, every action of a click-through with scripts/actions.py, the stages of a long working session, the shots of an already edited video - then loo",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "screen-recording-analysis",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/screen-recording-analysis"
+    },
+    {
+      "name": "screen-recording-layouts",
+      "description": "Lay a screen recording out in a 1080x1920 vertical frame or a 1920x1080 landscape one - the layout catalog (full frame, prompt over result, head and screen, screen with head bubble, results grid), recording panels, whether a moment's UI will read in its panel, and each destination's safe zone. Use w",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "screen-recording-layouts",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/screen-recording-layouts"
+    },
+    {
+      "name": "screen-recording-zoom",
+      "description": "The house zoom for screen footage in a panel - its scale, ramp and timing as scene keyframes, focus clamping, the readability rule, and a planner that decides which clicks of a long recording get a push. Use when timing and keyframing zooms on a screen recording shown in a panel.",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "screen-recording-zoom",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/screen-recording-zoom"
+    },
+    {
+      "name": "screen-ui-redesign",
+      "description": "Recreate the screens of a recording as designed motion UI - the app's own screens, layout, colours and words, redrawn larger and cleaner for 9:16 and built only from what the recording shows. Use when screen footage will not read at the destination, or when the UI is only the means and a designed ve",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "screen-ui-redesign",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/screen-ui-redesign"
+    },
+    {
+      "name": "sd2-pe",
+      "description": "Use only for a Seedance 2.0 model (model ids seedance-2.0*): optimizes user prompts for Seedance 2.0 multi-modal video generation. Not for any other video model, such as Kling, Veo, Wan or Seedance 2.5.",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "sd2-pe",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/sd2-pe"
+    },
+    {
+      "name": "sd25-pe",
+      "description": "Use only for a Seedance 2.5 model (model ids seedance-2.5*): optimizes text, stories, or optional multimodal references for Seedance 2.5 text-to-video, multi-reference generation, keyframes, storyboards, blockouts, video editing, audio editing, or extension. Not for any other video model, such as Kl",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "sd25-pe",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/sd25-pe"
+    },
+    {
+      "name": "speech-aware-cutting",
+      "description": "Choose the moments of talking footage worth keeping and cut them so no one is clipped mid-sentence - the transcript sets every in and out, the watch picks what is worth it - then read the cut as the viewer will hear it with scripts/review_cuts.py, which flags chopped words, filler and seams that ope",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "speech-aware-cutting",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/speech-aware-cutting"
+    },
+    {
+      "name": "spoken-captions",
+      "description": "Put spoken words on screen from the transcript - word-timed captions on a generated voice-over or on the user's own talking footage, and on a cut reel, captions per clip and a few highlight phrases timed to the words they call out, placed with scripts/reel_text.py. Use when a video is watched muted ",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "spoken-captions",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/spoken-captions"
+    },
+    {
+      "name": "visual-style",
+      "description": "A video's style, chosen by eye and kept - eight named styles as colour roles and text entrances, a brand's colours mapped onto one, the defaults that make a video look machine-made, and a check that a built scene keeps to its style. Use when choosing or applying the look of a built video (screen vid",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "visual-style",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/visual-style"
+    },
+    {
+      "name": "voice-over-generation",
+      "description": "Generate a voice-over from written lines - one voice line per script line in one voice, as one batch, the words alone with pace and energy in the model's own fields, names spelled as they sound, and every line's real length probed before anything is timed to it. Use when a video needs a generated vo",
+      "source": "picsart/gen-ai-skills#8a8dc6b0228c5772d03430e331a39c55f442ea01",
+      "skill": "voice-over-generation",
+      "url": "https://github.com/picsart/gen-ai-skills/tree/8a8dc6b0228c5772d03430e331a39c55f442ea01/skills/voice-over-generation"
+    }
+  ]
 }

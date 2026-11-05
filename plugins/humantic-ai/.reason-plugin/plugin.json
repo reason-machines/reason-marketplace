@@ -1,0 +1,13 @@
+{
+  "name": "humantic-ai",
+  "displayName": "Humantic AI",
+  "description": "Profile buyers and accounts.",
+  "homepage": "https://humantic.ai",
+  "docs": "https://humantic.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "humantic-ai": {
+      "url": "https://mcp.humantic.ai/mcp"
+    }
+  }
+}

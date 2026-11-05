@@ -1,0 +1,13 @@
+{
+  "name": "ppcmax",
+  "displayName": "PPCMax",
+  "description": "Manage Google Ads.",
+  "homepage": "https://ppcmax.pro",
+  "docs": "https://ppcmax.pro",
+  "auth": "oauth",
+  "mcpServers": {
+    "ppcmax": {
+      "url": "https://mcp.ppcmax.pro/mcp"
+    }
+  }
+}

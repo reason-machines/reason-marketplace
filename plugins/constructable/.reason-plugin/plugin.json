@@ -1,0 +1,13 @@
+{
+  "name": "constructable",
+  "displayName": "Constructable",
+  "description": "Manage construction projects.",
+  "homepage": "https://constructable.ai",
+  "docs": "https://constructable.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "constructable": {
+      "url": "https://api.constructable.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bestprop-ai",
+  "displayName": "BestProp.ai",
+  "description": "Published property research.",
+  "homepage": "https://www.bestprop.ai",
+  "docs": "https://www.bestprop.ai/connectors",
+  "auth": "none",
+  "mcpServers": {
+    "bestprop-ai": {
+      "url": "https://api.bestprop.ai/mcp"
+    }
+  }
+}

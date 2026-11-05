@@ -1,0 +1,13 @@
+{
+  "name": "audd-music-recognition",
+  "displayName": "AudD Music Recognition",
+  "description": "Identify songs in audio.",
+  "homepage": "https://audd.io",
+  "docs": "https://audd.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "audd-music-recognition": {
+      "url": "https://mcp.audd.io/mcp"
+    }
+  }
+}

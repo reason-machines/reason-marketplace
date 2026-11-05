@@ -1,0 +1,13 @@
+{
+  "name": "kinetik",
+  "displayName": "Kinetik",
+  "description": "Your social media on autopilot.",
+  "homepage": "https://kineto.app/",
+  "docs": "https://docs.kineto.app/kinetik-connector",
+  "auth": "oauth",
+  "mcpServers": {
+    "kinetik": {
+      "url": "https://kineto.app/api/agents/mcp"
+    }
+  }
+}

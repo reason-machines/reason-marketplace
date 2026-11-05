@@ -1,0 +1,13 @@
+{
+  "name": "alt",
+  "displayName": "Alt",
+  "description": "Read and summarize your notes.",
+  "homepage": "https://altalt.io/en",
+  "docs": "https://altalt.io/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "alt": {
+      "url": "https://mcp.altalt.io/mcp"
+    }
+  }
+}

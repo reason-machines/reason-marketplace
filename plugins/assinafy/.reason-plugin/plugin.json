@@ -1,0 +1,13 @@
+{
+  "name": "assinafy",
+  "displayName": "Assinafy",
+  "description": "AI-powered e-signatures.",
+  "homepage": "https://www.assinafy.com.br",
+  "docs": "https://www.assinafy.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "assinafy": {
+      "url": "https://mcp.assinafy.com.br/mcp"
+    }
+  }
+}

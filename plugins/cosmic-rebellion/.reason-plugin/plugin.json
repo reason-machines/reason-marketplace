@@ -1,0 +1,13 @@
+{
+  "name": "cosmic-rebellion",
+  "displayName": "Cosmic Rebellion",
+  "description": "Play a trading card game.",
+  "homepage": "https://cosmicrebellion.games",
+  "docs": "https://cosmicrebellion.games",
+  "auth": "none",
+  "mcpServers": {
+    "cosmic-rebellion": {
+      "url": "https://cosmicrebellion.games/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "flat",
+  "displayName": "Flat",
+  "description": "Create and read sheet music.",
+  "homepage": "https://flat.io",
+  "docs": "https://flat.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "flat": {
+      "url": "https://mcp.flat.io/mcp"
+    }
+  }
+}

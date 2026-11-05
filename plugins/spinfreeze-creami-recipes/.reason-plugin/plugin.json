@@ -1,0 +1,13 @@
+{
+  "name": "spinfreeze-creami-recipes",
+  "displayName": "SpinFreeze Recipes for CREAMi",
+  "description": "Recipes for CREAMi, macros.",
+  "homepage": "https://spinfreeze.com",
+  "docs": "https://spinfreeze.com",
+  "auth": "none",
+  "mcpServers": {
+    "spinfreeze-creami-recipes": {
+      "url": "https://spinfreeze.com/mcp"
+    }
+  }
+}

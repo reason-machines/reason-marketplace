@@ -1,0 +1,13 @@
+{
+  "name": "youart",
+  "displayName": "YouArt",
+  "description": "Create AI media workflows.",
+  "homepage": "https://youart.ai",
+  "docs": "https://youart.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "youart": {
+      "url": "https://mcp.youart.ai/mcp"
+    }
+  }
+}

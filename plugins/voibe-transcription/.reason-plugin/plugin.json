@@ -1,0 +1,13 @@
+{
+  "name": "voibe-transcription",
+  "displayName": "Voibe Transcription",
+  "description": "Transcripts, speakers, summary.",
+  "homepage": "https://www.getvoibe.com",
+  "docs": "https://getvoibe.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "voibe-transcription": {
+      "url": "https://api.getvoibe.com/mcp"
+    }
+  }
+}

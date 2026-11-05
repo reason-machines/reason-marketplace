@@ -1,0 +1,13 @@
+{
+  "name": "digital-jobs-search",
+  "displayName": "Digital Jobs",
+  "description": "Find and compare digital jobs.",
+  "homepage": "https://www.digitaljobs.com/chatgpt-app/",
+  "docs": "https://www.digitaljobs.com/chatgpt-app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "digital-jobs-search": {
+      "url": "https://digitaljobs.com/mcp"
+    }
+  }
+}

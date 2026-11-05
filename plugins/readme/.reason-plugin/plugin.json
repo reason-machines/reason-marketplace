@@ -10,5 +10,49 @@
     "readme": {
       "url": "https://docs.readme.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "edit-page-content",
+      "description": "Create or edit documentation pages in ReadMe, including guides, API reference prose, changelogs, discussions, recipes, and custom pages.",
+      "source": "readmeio/agent-plugins#7cdd229845311dc89608db29db31ea11c1986309",
+      "skill": "edit-page-content",
+      "url": "https://github.com/readmeio/agent-plugins/tree/7cdd229845311dc89608db29db31ea11c1986309/claude/skills/edit-page-content"
+    },
+    {
+      "name": "manage-navigation",
+      "description": "Organize docs side navigation in ReadMe including category management, page management, changing page titles and urls and more.",
+      "source": "readmeio/agent-plugins#7cdd229845311dc89608db29db31ea11c1986309",
+      "skill": "manage-navigation",
+      "url": "https://github.com/readmeio/agent-plugins/tree/7cdd229845311dc89608db29db31ea11c1986309/claude/skills/manage-navigation"
+    },
+    {
+      "name": "managing-readme-docs",
+      "description": "Shared reference for working on a ReadMe project, covering MCP routing, project sections, Git-backed docs (BiDi Sync), and confirming the active project and branch. Use before reading or changing documentation hosted on ReadMe.",
+      "source": "readmeio/agent-plugins#7cdd229845311dc89608db29db31ea11c1986309",
+      "skill": "managing-readme-docs",
+      "url": "https://github.com/readmeio/agent-plugins/tree/7cdd229845311dc89608db29db31ea11c1986309/claude/skills/managing-readme-docs"
+    },
+    {
+      "name": "mcp-auth",
+      "description": "Configure authentication with ReadMe to manage documentation hosted on ReadMe. Use during first time setup, or when a project operation is rejected for missing, invalid, expired, or unresolved authentication.",
+      "source": "readmeio/agent-plugins#7cdd229845311dc89608db29db31ea11c1986309",
+      "skill": "mcp-auth",
+      "url": "https://github.com/readmeio/agent-plugins/tree/7cdd229845311dc89608db29db31ea11c1986309/claude/skills/mcp-auth"
+    },
+    {
+      "name": "setup-project",
+      "description": "Create a new ReadMe Docs project, including new account creation for those without an existing account.",
+      "source": "readmeio/agent-plugins#7cdd229845311dc89608db29db31ea11c1986309",
+      "skill": "setup-project",
+      "url": "https://github.com/readmeio/agent-plugins/tree/7cdd229845311dc89608db29db31ea11c1986309/claude/skills/setup-project"
+    },
+    {
+      "name": "update-project-settings",
+      "description": "View and update ReadMe project settings, including appearance, branding, AI features, MCP server settings, agent discovery, llms.txt, SEO, access and domains, API reference, localization, and integrations. Use when a user wants to configure any settings on their ReadMe docs site.",
+      "source": "readmeio/agent-plugins#7cdd229845311dc89608db29db31ea11c1986309",
+      "skill": "update-project-settings",
+      "url": "https://github.com/readmeio/agent-plugins/tree/7cdd229845311dc89608db29db31ea11c1986309/claude/skills/update-project-settings"
+    }
+  ]
 }

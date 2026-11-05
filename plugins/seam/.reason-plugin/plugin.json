@@ -1,0 +1,13 @@
+{
+  "name": "seam",
+  "displayName": "Seam",
+  "description": "Automate Smart Devices.",
+  "homepage": "https://www.seam.co/",
+  "docs": "https://www.seam.co/",
+  "auth": "none",
+  "mcpServers": {
+    "seam": {
+      "url": "https://mcp.seam.co/mcp"
+    }
+  }
+}

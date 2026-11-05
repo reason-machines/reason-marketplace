@@ -1,0 +1,13 @@
+{
+  "name": "edgio-signals",
+  "displayName": "Edgio Signals",
+  "description": "Aktien & Sektoren einordnen.",
+  "homepage": "https://edgio.at",
+  "docs": "https://tedix.dev/apps/edgio-signals/",
+  "auth": "none",
+  "mcpServers": {
+    "edgio-signals": {
+      "url": "https://plugin.edgio.at/mcp/chatgpt"
+    }
+  }
+}

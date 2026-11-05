@@ -1,0 +1,13 @@
+{
+  "name": "credcore-tusk-liquid",
+  "displayName": "CredCore - Tusk Liquid",
+  "description": "Query public credit agreements.",
+  "homepage": "https://credcore.com",
+  "docs": "https://tedix.dev/apps/credcore-tusk-liquid/",
+  "auth": "oauth",
+  "mcpServers": {
+    "credcore-tusk-liquid": {
+      "url": "https://api.credcore.com/liquid-mcp/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "us-internet-serviceability",
+  "displayName": "US Internet Serviceability",
+  "description": "Check internet availability.",
+  "homepage": "https://getconnectedfast.com/",
+  "docs": "https://getconnectedfast.com/",
+  "auth": "none",
+  "mcpServers": {
+    "us-internet-serviceability": {
+      "url": "https://mcp.getconnectedfast.com/mcp"
+    }
+  }
+}

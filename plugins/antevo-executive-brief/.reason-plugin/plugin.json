@@ -1,0 +1,13 @@
+{
+  "name": "antevo-executive-brief",
+  "displayName": "Antevo Executive Brief",
+  "description": "Markets and world risk, daily.",
+  "homepage": "https://antevo.ch/mcp",
+  "docs": "https://antevo.ch/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "antevo-executive-brief": {
+      "url": "https://api.antevo.ch/mcp/executive/mcp"
+    }
+  }
+}

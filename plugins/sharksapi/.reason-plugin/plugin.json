@@ -1,0 +1,13 @@
+{
+  "name": "sharksapi",
+  "displayName": "SharksAPI.AI",
+  "description": "Marketing data and actions.",
+  "homepage": "https://sharksapi.ai",
+  "docs": "https://sharksapi.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "sharksapi": {
+      "url": "https://sharksapi.ai/mcp"
+    }
+  }
+}

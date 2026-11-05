@@ -1,0 +1,13 @@
+{
+  "name": "roomlab",
+  "displayName": "RoomLab.app",
+  "description": "Stage rooms and edit photos.",
+  "homepage": "https://roomlab.app/en",
+  "docs": "https://roomlab.app/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "roomlab": {
+      "url": "https://mcp.roomlab.app/mcp"
+    }
+  }
+}

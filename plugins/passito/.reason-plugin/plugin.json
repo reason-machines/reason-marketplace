@@ -1,0 +1,13 @@
+{
+  "name": "passito",
+  "displayName": "Passito",
+  "description": "Loyalty cards for businesses.",
+  "homepage": "https://passito.app",
+  "docs": "https://passito.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "passito": {
+      "url": "https://passito.app/mcp"
+    }
+  }
+}

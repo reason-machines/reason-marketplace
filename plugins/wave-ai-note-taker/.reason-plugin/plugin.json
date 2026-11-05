@@ -1,0 +1,13 @@
+{
+  "name": "wave-ai-note-taker",
+  "displayName": "Wave AI Note Taker",
+  "description": "Search and synthesize meetings.",
+  "homepage": "https://wave.co",
+  "docs": "https://wave.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "wave-ai-note-taker": {
+      "url": "https://mcp.wave.co/"
+    }
+  }
+}

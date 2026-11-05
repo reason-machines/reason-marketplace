@@ -1,0 +1,13 @@
+{
+  "name": "time-card",
+  "displayName": "ShiftSum Time Card",
+  "description": "Hours worked, breaks, overtime.",
+  "homepage": "https://time-card.zovo.one",
+  "docs": "https://time-card.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "time-card": {
+      "url": "https://time-card.zovo.one/mcp"
+    }
+  }
+}

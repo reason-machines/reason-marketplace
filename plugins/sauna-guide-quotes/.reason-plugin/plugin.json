@@ -1,0 +1,13 @@
+{
+  "name": "sauna-guide-quotes",
+  "displayName": "Sauna Guide Quotes",
+  "description": "Compare saunas and real costs.",
+  "homepage": "https://sauna.guide",
+  "docs": "https://sauna.guide",
+  "auth": "none",
+  "mcpServers": {
+    "sauna-guide-quotes": {
+      "url": "https://sauna.guide/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "champfy",
+  "displayName": "Champfy",
+  "description": "Find tennis/pickleball partner.",
+  "homepage": "https://www.champfy.com",
+  "docs": "https://champfy.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "champfy": {
+      "url": "https://champfy.com/api/mcp"
+    }
+  }
+}

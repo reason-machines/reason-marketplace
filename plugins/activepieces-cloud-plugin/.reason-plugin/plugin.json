@@ -1,0 +1,13 @@
+{
+  "name": "activepieces-cloud-plugin",
+  "displayName": "Activepieces",
+  "description": "AI workflow automation.",
+  "homepage": "https://www.activepieces.com",
+  "docs": "https://www.activepieces.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "activepieces-cloud-plugin": {
+      "url": "https://mcp.activepieces.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "liu-cards",
+  "displayName": "Liu Cards",
+  "description": "Flashcards & spaced repetition.",
+  "homepage": "https://liucards.app",
+  "docs": "https://liucards.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "liu-cards": {
+      "url": "https://liucards.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hill-monitor",
+  "displayName": "Hill Monitor",
+  "description": "Search Parliament and alerts.",
+  "homepage": "https://www.hillmonitor.ca",
+  "docs": "https://www.hillmonitor.ca",
+  "auth": "oauth",
+  "mcpServers": {
+    "hill-monitor": {
+      "url": "https://mcp.hillmonitor.ca/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tpc-benchmarks",
+  "displayName": "TPC Benchmarks",
+  "description": "Can an agent use this product?",
+  "homepage": "https://promptingcompany.com/benchmarks",
+  "docs": "https://docs.promptingcompany.com/mcp/benchmarks",
+  "auth": "none",
+  "mcpServers": {
+    "tpc-benchmarks": {
+      "url": "https://benchmarks.promptingcompany.com/mcp"
+    }
+  }
+}

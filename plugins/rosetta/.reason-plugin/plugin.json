@@ -1,0 +1,13 @@
+{
+  "name": "rosetta",
+  "displayName": "Rosetta",
+  "description": "Save notes, reminders, links.",
+  "homepage": "https://getrosetta.app",
+  "docs": "https://getrosetta.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "rosetta": {
+      "url": "https://mcp.getrosetta.app/mcp"
+    }
+  }
+}

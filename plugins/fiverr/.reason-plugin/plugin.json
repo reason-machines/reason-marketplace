@@ -1,0 +1,13 @@
+{
+  "name": "fiverr",
+  "displayName": "Fiverr",
+  "description": "Find and hire freelancers.",
+  "homepage": "https://www.fiverr.com/",
+  "docs": "https://www.fiverr.com/",
+  "auth": "none",
+  "mcpServers": {
+    "fiverr": {
+      "url": "https://mcp.fiverr.com/mcp"
+    }
+  }
+}

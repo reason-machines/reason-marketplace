@@ -1,0 +1,13 @@
+{
+  "name": "stele",
+  "displayName": "Stele",
+  "description": "Share memory across AI agents.",
+  "homepage": "https://stele-ai.dev",
+  "docs": "https://stele-ai.dev/docs/setup-mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "stele": {
+      "url": "https://app.stele-ai.dev/api/mcp"
+    }
+  }
+}

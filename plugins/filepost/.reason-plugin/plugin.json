@@ -1,0 +1,13 @@
+{
+  "name": "filepost",
+  "displayName": "FilePost",
+  "description": "Upload files to public links.",
+  "homepage": "https://filepost.dev",
+  "docs": "https://filepost.dev",
+  "auth": "oauth",
+  "mcpServers": {
+    "filepost": {
+      "url": "https://filepost.dev/mcp"
+    }
+  }
+}

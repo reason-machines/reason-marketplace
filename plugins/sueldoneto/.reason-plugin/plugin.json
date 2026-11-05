@@ -1,0 +1,13 @@
+{
+  "name": "sueldoneto",
+  "displayName": "SueldoNeto",
+  "description": "Calcula tu salario neto España.",
+  "homepage": "https://tusalario.app/",
+  "docs": "https://tusalario.app/",
+  "auth": "none",
+  "mcpServers": {
+    "sueldoneto": {
+      "url": "https://tusalario.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "relay",
+  "displayName": "Relay",
+  "description": "Plan and manage training.",
+  "homepage": "https://www.relayathletic.com/",
+  "docs": "https://relayathletic.com/blog/relay-mcp-setup",
+  "auth": "oauth",
+  "mcpServers": {
+    "relay": {
+      "url": "https://www.relayathletic.com/api/mcp"
+    }
+  }
+}

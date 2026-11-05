@@ -1,0 +1,13 @@
+{
+  "name": "reassurez-moi",
+  "displayName": "Réassurez-Moi",
+  "description": "Loan & travel insurance quotes.",
+  "homepage": "https://reassurez-moi.fr",
+  "docs": "https://reassurez-moi.fr",
+  "auth": "none",
+  "mcpServers": {
+    "reassurez-moi": {
+      "url": "https://mcp.reassurez-moi.fr/mcp"
+    }
+  }
+}

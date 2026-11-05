@@ -1,0 +1,13 @@
+{
+  "name": "adagnt",
+  "displayName": "AdAgnt",
+  "description": "Run ads in plain English.",
+  "homepage": "https://adagnt.com",
+  "docs": "https://adagnt.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "adagnt": {
+      "url": "https://mcp.adagnt.com/mcp"
+    }
+  }
+}

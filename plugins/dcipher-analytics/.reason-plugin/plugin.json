@@ -1,0 +1,13 @@
+{
+  "name": "dcipher-analytics",
+  "displayName": "Dcipher Analytics",
+  "description": "Generate business insights.",
+  "homepage": "https://www.dcipheranalytics.com",
+  "docs": "https://www.dcipheranalytics.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "dcipher-analytics": {
+      "url": "https://mcp.dcipheranalytics.com/mcp"
+    }
+  }
+}

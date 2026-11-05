@@ -1,0 +1,13 @@
+{
+  "name": "instant-fix-and-flip-term-sheet",
+  "displayName": "Fix & Flip Term Sheet",
+  "description": "Fix-and-flip loan term sheets.",
+  "homepage": "https://dominickprevete.com/fix-and-flip-loans",
+  "docs": "https://dominickprevete.com/fix-and-flip-loans",
+  "auth": "none",
+  "mcpServers": {
+    "instant-fix-and-flip-term-sheet": {
+      "url": "https://dominickprevete.com/api/mcp/fix-and-flip"
+    }
+  }
+}

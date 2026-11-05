@@ -1,0 +1,13 @@
+{
+  "name": "singstat",
+  "displayName": "SingStat",
+  "description": "Explore Singapore statistics.",
+  "homepage": "https://www.singstat.gov.sg/data-tools-services/singstat-mcp",
+  "docs": "https://www.singstat.gov.sg/data-tools-services/singstat-mcp",
+  "auth": "none",
+  "mcpServers": {
+    "singstat": {
+      "url": "https://chatwithsandra.singstat.gov.sg/mcp"
+    }
+  }
+}

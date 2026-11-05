@@ -1,0 +1,13 @@
+{
+  "name": "homesage-ai",
+  "displayName": "Homesage.ai",
+  "description": "Find and analyze US properties.",
+  "homepage": "https://homesage.ai",
+  "docs": "https://homesage.ai/.well-known/mcp/server-card.json",
+  "auth": "oauth",
+  "mcpServers": {
+    "homesage-ai": {
+      "url": "https://api.homesage.ai/mcp"
+    }
+  }
+}

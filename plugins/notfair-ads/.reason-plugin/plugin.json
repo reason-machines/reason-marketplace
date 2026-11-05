@@ -1,0 +1,13 @@
+{
+  "name": "notfair-ads",
+  "displayName": "NotFair Ads",
+  "description": "Audit and improve ads.",
+  "homepage": "https://notfair.co",
+  "docs": "https://notfair.co/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "notfair-ads": {
+      "url": "https://notfair.co/api/mcp"
+    }
+  }
+}

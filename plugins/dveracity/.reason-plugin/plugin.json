@@ -1,0 +1,13 @@
+{
+  "name": "dveracity",
+  "displayName": "dVeracity",
+  "description": "Verify data against standards.",
+  "homepage": "https://dveracity.com",
+  "docs": "https://dveracity.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "dveracity": {
+      "url": "https://api.dveracity.com/mcp"
+    }
+  }
+}

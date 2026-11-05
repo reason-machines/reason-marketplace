@@ -1,0 +1,13 @@
+{
+  "name": "voyscout-com",
+  "displayName": "Voyscout.com",
+  "description": "Flight & package prices.",
+  "homepage": "https://voyscout.com",
+  "docs": "https://voyscout.com",
+  "auth": "none",
+  "mcpServers": {
+    "voyscout-com": {
+      "url": "https://voyscout.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stack",
+  "displayName": "STACK",
+  "description": "Work with your STACK projects.",
+  "homepage": "https://www.stackct.com/",
+  "docs": "https://www.stackct.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "stack": {
+      "url": "https://mcp.stackct.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "humanstoknow",
+  "displayName": "HUMANStoknow",
+  "description": "Give your AI agents a playbook.",
+  "homepage": "https://www.humanstoknow.com",
+  "docs": "https://humanstoknow.com/.well-known/oauth-protected-resource/api/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "humanstoknow": {
+      "url": "https://humanstoknow.com/api/mcp"
+    }
+  }
+}

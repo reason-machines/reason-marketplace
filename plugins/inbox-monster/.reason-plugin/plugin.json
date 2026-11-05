@@ -1,0 +1,13 @@
+{
+  "name": "inbox-monster",
+  "displayName": "Inbox Monster",
+  "description": "Monitor email deliverability.",
+  "homepage": "https://inboxmonster.com",
+  "docs": "https://inboxmonster.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "inbox-monster": {
+      "url": "https://mcp.inboxmonster.com/mcp"
+    }
+  }
+}

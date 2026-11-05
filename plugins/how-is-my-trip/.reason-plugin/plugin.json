@@ -1,0 +1,13 @@
+{
+  "name": "how-is-my-trip",
+  "displayName": "How is my trip?",
+  "description": "Live travel disruption radar.",
+  "homepage": "https://travel-trends.mmatinca.eu",
+  "docs": "https://travel-trends.mmatinca.eu",
+  "auth": "none",
+  "mcpServers": {
+    "how-is-my-trip": {
+      "url": "https://mmatinca.eu/mcp"
+    }
+  }
+}

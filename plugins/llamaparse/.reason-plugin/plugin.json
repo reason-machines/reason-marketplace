@@ -1,0 +1,13 @@
+{
+  "name": "llamaparse",
+  "displayName": "LlamaParse",
+  "description": "Document processing for agents.",
+  "homepage": "https://llamaindex.ai",
+  "docs": "https://llamaindex.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "llamaparse": {
+      "url": "https://mcp.llamaindex.ai/mcp"
+    }
+  }
+}

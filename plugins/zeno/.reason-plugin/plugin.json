@@ -1,0 +1,13 @@
+{
+  "name": "zeno",
+  "displayName": "Zeno Bookkeeper",
+  "description": "For QuickBooks Online.",
+  "homepage": "https://zenofirm.com/",
+  "docs": "https://zenofirm.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "zeno": {
+      "url": "https://api.zenofirm.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kitcut",
+  "displayName": "KitCut",
+  "description": "Animated films from an idea.",
+  "homepage": "https://kitcut.ai",
+  "docs": "https://kitcut.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "kitcut": {
+      "url": "https://kitcut.ai/mcp"
+    }
+  }
+}

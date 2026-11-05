@@ -1,0 +1,13 @@
+{
+  "name": "social-post-previewer",
+  "displayName": "Social Post Previewer",
+  "description": "Preview social posts.",
+  "homepage": "https://smepost.io/",
+  "docs": "https://smepost.io/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "social-post-previewer": {
+      "url": "https://smepost.io/api/mcp"
+    }
+  }
+}

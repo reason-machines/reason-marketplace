@@ -1,0 +1,13 @@
+{
+  "name": "partner-io",
+  "displayName": "Partner.io",
+  "description": "Run your partner program.",
+  "homepage": "https://partner.io",
+  "docs": "https://partner.io/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "partner-io": {
+      "url": "https://api.partner.io/mcp/partner"
+    }
+  }
+}

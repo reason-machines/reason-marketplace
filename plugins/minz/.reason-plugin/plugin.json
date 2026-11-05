@@ -1,0 +1,13 @@
+{
+  "name": "minz",
+  "displayName": "Minz",
+  "description": "Look up CRM, work and expenses.",
+  "homepage": "https://minz.ai",
+  "docs": "https://minz.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "minz": {
+      "url": "https://mcp.minz.ai/mcp"
+    }
+  }
+}

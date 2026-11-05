@@ -1,0 +1,13 @@
+{
+  "name": "outside-agent",
+  "displayName": "Outside Agent",
+  "description": "Build & publish AI agents.",
+  "homepage": "https://outsideagent.ai",
+  "docs": "https://outsideagent.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "outside-agent": {
+      "url": "https://mcp.outsideagent.ai/mcp"
+    }
+  }
+}

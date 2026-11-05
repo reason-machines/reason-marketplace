@@ -1,0 +1,13 @@
+{
+  "name": "ansvar-gateway",
+  "displayName": "Ansvar Gateway",
+  "description": "Laws, Security and Compliance.",
+  "homepage": "https://ansvar.eu",
+  "docs": "https://ansvar.eu",
+  "auth": "oauth",
+  "mcpServers": {
+    "ansvar-gateway": {
+      "url": "https://gateway.ansvar.eu/mcp"
+    }
+  }
+}

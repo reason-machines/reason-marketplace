@@ -1,0 +1,13 @@
+{
+  "name": "gymlog",
+  "displayName": "GymLog",
+  "description": "Health & Fitness.",
+  "homepage": "https://gymlog.dmdrll.com/",
+  "docs": "https://gymlog.dmdrll.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "gymlog": {
+      "url": "https://gymlog.dmdrll.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hoppa",
+  "displayName": "hoppa",
+  "description": "Book airport transfers & taxis.",
+  "homepage": "https://www.hoppa.com",
+  "docs": "https://www.hoppa.com",
+  "auth": "none",
+  "mcpServers": {
+    "hoppa": {
+      "url": "https://mcp.hoppa.com/mcp"
+    }
+  }
+}

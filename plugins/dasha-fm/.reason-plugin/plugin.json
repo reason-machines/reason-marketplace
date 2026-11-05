@@ -1,0 +1,13 @@
+{
+  "name": "dasha-fm",
+  "displayName": "Dasha.fm",
+  "description": "Your Vedic chart in your AI.",
+  "homepage": "https://dasha.fm/",
+  "docs": "https://dasha.fm/",
+  "auth": "none",
+  "mcpServers": {
+    "dasha-fm": {
+      "url": "https://dasha.fm/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hugeicons",
+  "displayName": "Hugeicons",
+  "description": "Beautiful icons for your UI.",
+  "homepage": "https://hugeicons.com",
+  "docs": "https://hugeicons.com",
+  "auth": "none",
+  "mcpServers": {
+    "hugeicons": {
+      "url": "https://mcp.hugeicons.com/mcp"
+    }
+  }
+}

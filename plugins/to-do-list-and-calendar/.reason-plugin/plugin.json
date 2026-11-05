@@ -1,0 +1,13 @@
+{
+  "name": "to-do-list-and-calendar",
+  "displayName": "滴答清单: To-Do List & Calendar",
+  "description": "Reminder, Planner, Countdown.",
+  "homepage": "https://dida365.com",
+  "docs": "https://dida365.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "to-do-list-and-calendar": {
+      "url": "https://mcp.dida365.com/"
+    }
+  }
+}

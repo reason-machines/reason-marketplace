@@ -1,0 +1,13 @@
+{
+  "name": "word-counter",
+  "displayName": "Zovo Word Counter",
+  "description": "Exact word & character counts.",
+  "homepage": "https://word-counter.zovo.one",
+  "docs": "https://word-counter.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "word-counter": {
+      "url": "https://word-counter.zovo.one/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "better-design",
+  "displayName": "Better Design",
+  "description": "A design harness for Reason.",
+  "homepage": "https://better-design.com",
+  "docs": "https://better-design.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "better-design": {
+      "url": "https://better-design.com/api/mcp"
+    }
+  }
+}

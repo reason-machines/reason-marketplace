@@ -1,0 +1,13 @@
+{
+  "name": "tyra",
+  "displayName": "Tyra",
+  "description": "Discover events in NYC.",
+  "homepage": "https://usetyra.com",
+  "docs": "https://usetyra.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "tyra": {
+      "url": "https://mcp.usetyra.com/mcp"
+    }
+  }
+}

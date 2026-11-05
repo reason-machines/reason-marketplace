@@ -1,0 +1,13 @@
+{
+  "name": "sememe",
+  "displayName": "Sememe by bld.ai",
+  "description": "Hire a vetted dev to finish.",
+  "homepage": "https://mcp.sememe.ai/docs",
+  "docs": "https://mcp.sememe.ai/docs",
+  "auth": "oauth",
+  "mcpServers": {
+    "sememe": {
+      "url": "https://mcp.sememe.ai/mcp"
+    }
+  }
+}

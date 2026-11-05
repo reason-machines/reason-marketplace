@@ -1,0 +1,13 @@
+{
+  "name": "gumroad",
+  "displayName": "Gumroad",
+  "description": "Manage your Gumroad store.",
+  "homepage": "https://gumroad.com",
+  "docs": "https://gumroad.com/.well-known/mcp.json",
+  "auth": "oauth",
+  "mcpServers": {
+    "gumroad": {
+      "url": "https://gumroad.com/muse/v1/mcp"
+    }
+  }
+}

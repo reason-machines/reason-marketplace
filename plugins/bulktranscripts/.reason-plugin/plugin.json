@@ -1,0 +1,13 @@
+{
+  "name": "bulktranscripts",
+  "displayName": "BulkTranscripts",
+  "description": "YouTube video transcripts.",
+  "homepage": "https://bulktranscripts.co",
+  "docs": "https://bulktranscripts.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "bulktranscripts": {
+      "url": "https://bulktranscripts.co/mcp"
+    }
+  }
+}

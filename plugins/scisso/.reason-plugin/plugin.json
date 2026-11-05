@@ -1,0 +1,13 @@
+{
+  "name": "scisso",
+  "displayName": "Scisso",
+  "description": "Know your shop with Scisso.",
+  "homepage": "https://scisso.app/en",
+  "docs": "https://scisso.app/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "scisso": {
+      "url": "https://scisso.app/mcp"
+    }
+  }
+}

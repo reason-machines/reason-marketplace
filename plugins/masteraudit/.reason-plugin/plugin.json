@@ -1,0 +1,13 @@
+{
+  "name": "masteraudit",
+  "displayName": "MasterAudit",
+  "description": "Evidence-review guidance.",
+  "homepage": "https://api.qreality.eu/evo_demo",
+  "docs": "https://qreality.eu/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "masteraudit": {
+      "url": "https://api.qreality.eu/mcp/chatgpt"
+    }
+  }
+}

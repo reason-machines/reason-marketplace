@@ -1,0 +1,13 @@
+{
+  "name": "cloz-jobs",
+  "displayName": "Cloz",
+  "description": "Jobs across Uzbekistan.",
+  "homepage": "https://cloz.uz",
+  "docs": "https://cloz.uz",
+  "auth": "none",
+  "mcpServers": {
+    "cloz-jobs": {
+      "url": "https://cloz.uz/mcp"
+    }
+  }
+}

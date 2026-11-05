@@ -1,0 +1,13 @@
+{
+  "name": "empirical-memory",
+  "displayName": "Empirical Memory",
+  "description": "Memory across your AI tools.",
+  "homepage": "https://empirical.gauzza.com",
+  "docs": "https://empirical.gauzza.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "empirical-memory": {
+      "url": "https://empirical.gauzza.com/mcp"
+    }
+  }
+}

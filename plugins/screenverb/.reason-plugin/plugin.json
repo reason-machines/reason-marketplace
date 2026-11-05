@@ -1,0 +1,13 @@
+{
+  "name": "screenverb",
+  "displayName": "ScreenVerb",
+  "description": "Search your screenshot library.",
+  "homepage": "https://screenverb.com",
+  "docs": "https://screenverb.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "screenverb": {
+      "url": "https://mcp.screenverb.com/mcp"
+    }
+  }
+}

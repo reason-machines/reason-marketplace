@@ -1,0 +1,13 @@
+{
+  "name": "biletimial",
+  "displayName": "Uçak Bileti - BiletimiAl",
+  "description": "Search flights, book easily.",
+  "homepage": "https://biletimial.com",
+  "docs": "https://biletimial.com",
+  "auth": "none",
+  "mcpServers": {
+    "biletimial": {
+      "url": "https://biletimial.com/mcp"
+    }
+  }
+}

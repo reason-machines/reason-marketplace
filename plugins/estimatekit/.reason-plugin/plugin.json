@@ -1,0 +1,13 @@
+{
+  "name": "estimatekit",
+  "displayName": "EstimateKit",
+  "description": "Quotes, jobs and invoices.",
+  "homepage": "https://estimatekit.com",
+  "docs": "https://estimatekit.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "estimatekit": {
+      "url": "https://mcp.estimatekit.com/mcp"
+    }
+  }
+}

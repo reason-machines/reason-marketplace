@@ -1,0 +1,13 @@
+{
+  "name": "saasflow",
+  "displayName": "SaaSFlow",
+  "description": "The all-in-one finance cockpit.",
+  "homepage": "https://saasflow.com",
+  "docs": "https://saasflow.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "saasflow": {
+      "url": "https://mcp.saasflow.com/mcp"
+    }
+  }
+}

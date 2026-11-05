@@ -1,0 +1,13 @@
+{
+  "name": "dotcv",
+  "displayName": "dotcv",
+  "description": "Read and edit your CV.",
+  "homepage": "https://dotcv.gr",
+  "docs": "https://dotcv.gr",
+  "auth": "oauth",
+  "mcpServers": {
+    "dotcv": {
+      "url": "https://mcp.dotcv.gr/mcp"
+    }
+  }
+}

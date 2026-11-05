@@ -1,0 +1,13 @@
+{
+  "name": "newsify",
+  "displayName": "Newsify",
+  "description": "Trending news, any country.",
+  "homepage": "https://newsify.today",
+  "docs": "https://newsify.today",
+  "auth": "none",
+  "mcpServers": {
+    "newsify": {
+      "url": "https://mcp.newsify.today/mcp"
+    }
+  }
+}

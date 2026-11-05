@@ -1,0 +1,13 @@
+{
+  "name": "tamloot",
+  "displayName": "Tamloot",
+  "description": "Search your sessions and notes.",
+  "homepage": "https://tamloot.cc",
+  "docs": "https://tamloot.cc",
+  "auth": "oauth",
+  "mcpServers": {
+    "tamloot": {
+      "url": "https://mcp.tamloot.cc/mcp"
+    }
+  }
+}

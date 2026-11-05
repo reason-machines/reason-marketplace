@@ -1,0 +1,13 @@
+{
+  "name": "gilmos",
+  "displayName": "gilmOS",
+  "description": "Screenplays, images & videos.",
+  "homepage": "https://app.gilm.ai",
+  "docs": "https://app.gilm.ai/help",
+  "auth": "oauth",
+  "mcpServers": {
+    "gilmos": {
+      "url": "https://app.gilm.ai/mcp"
+    }
+  }
+}

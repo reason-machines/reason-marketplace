@@ -1,0 +1,13 @@
+{
+  "name": "storydoc",
+  "displayName": "Storydoc",
+  "description": "Build and track presentations.",
+  "homepage": "https://www.storydoc.com",
+  "docs": "https://www.storydoc.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "storydoc": {
+      "url": "https://mcp.storydoc.com/mcp"
+    }
+  }
+}

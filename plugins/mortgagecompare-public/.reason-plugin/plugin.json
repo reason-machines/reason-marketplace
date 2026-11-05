@@ -1,0 +1,13 @@
+{
+  "name": "mortgagecompare-public",
+  "displayName": "MortgageCompare",
+  "description": "Compare Loan Estimates.",
+  "homepage": "https://mortgage-compare.rykorg.chatgpt.site/",
+  "docs": "https://tedix.dev/apps/mortgagecompare/",
+  "auth": "none",
+  "mcpServers": {
+    "mortgagecompare-public": {
+      "url": "https://mortgage-compare.rykorg.chatgpt.site/api/mcp"
+    }
+  }
+}

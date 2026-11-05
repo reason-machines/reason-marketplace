@@ -1,0 +1,13 @@
+{
+  "name": "nonica",
+  "displayName": "Nonica",
+  "description": "Install NonicaTab Revit MCP.",
+  "homepage": "https://nonica.io",
+  "docs": "https://nonica.io",
+  "auth": "none",
+  "mcpServers": {
+    "nonica": {
+      "url": "https://mcp.nonica.io/mcp"
+    }
+  }
+}

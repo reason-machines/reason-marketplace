@@ -1,0 +1,13 @@
+{
+  "name": "easy-trades",
+  "displayName": "Easy Trades",
+  "description": "Find local trades and jobs.",
+  "homepage": "https://easytrades.co.uk",
+  "docs": "https://easytrades.co.uk",
+  "auth": "none",
+  "mcpServers": {
+    "easy-trades": {
+      "url": "https://easytrades.co.uk/mcp"
+    }
+  }
+}

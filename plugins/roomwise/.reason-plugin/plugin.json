@@ -1,0 +1,13 @@
+{
+  "name": "roomwise",
+  "displayName": "Roomwise",
+  "description": "Home redesign room planner.",
+  "homepage": "https://roomwise.funkylogic.workers.dev",
+  "docs": "https://roomwise.funkylogic.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "roomwise": {
+      "url": "https://roomwise.funkylogic.workers.dev/mcp"
+    }
+  }
+}

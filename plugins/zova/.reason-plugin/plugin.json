@@ -1,0 +1,13 @@
+{
+  "name": "zova",
+  "displayName": "ZOVA",
+  "description": "Property data for brokers.",
+  "homepage": "https://zovastudio.com",
+  "docs": "https://zovastudio.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "zova": {
+      "url": "https://api.zovastudio.com/mcp"
+    }
+  }
+}

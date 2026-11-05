@@ -1,0 +1,13 @@
+{
+  "name": "carhauler247-car-shipping-quotes",
+  "displayName": "CarHauler247 - Car Shipping",
+  "description": "Car shipping & auto transport.",
+  "homepage": "https://carhauler247.com/ai-assistant",
+  "docs": "https://carhauler247.com/ai-assistant",
+  "auth": "none",
+  "mcpServers": {
+    "carhauler247-car-shipping-quotes": {
+      "url": "https://carhauler247.com/mcp"
+    }
+  }
+}

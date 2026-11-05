@@ -1,0 +1,13 @@
+{
+  "name": "leo-prospect-intelligence",
+  "displayName": "LeO — Prospect Intelligence",
+  "description": "Prospect search & enrichment.",
+  "homepage": "https://meetleo.com/",
+  "docs": "https://meetleo.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "leo-prospect-intelligence": {
+      "url": "https://mcp.meetleo.com/mcp"
+    }
+  }
+}

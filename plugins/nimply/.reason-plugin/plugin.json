@@ -1,0 +1,13 @@
+{
+  "name": "nimply",
+  "displayName": "Nimply",
+  "description": "Plan and publish social posts.",
+  "homepage": "https://nimply.io",
+  "docs": "https://nimply.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "nimply": {
+      "url": "https://mcp.nimply.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fitralo",
+  "displayName": "Fitralo",
+  "description": "Find European road carriers.",
+  "homepage": "https://fitralo.com",
+  "docs": "https://fitralo.com",
+  "auth": "none",
+  "mcpServers": {
+    "fitralo": {
+      "url": "https://fitralo.com/mcp"
+    }
+  }
+}

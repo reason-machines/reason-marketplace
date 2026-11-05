@@ -1,0 +1,13 @@
+{
+  "name": "armature",
+  "displayName": "Armature",
+  "description": "Inspect MCP agent activity.",
+  "homepage": "https://armature.tech/",
+  "docs": "https://armature.tech/",
+  "auth": "oauth",
+  "mcpServers": {
+    "armature": {
+      "url": "https://mcp.armature.tech/mcp"
+    }
+  }
+}

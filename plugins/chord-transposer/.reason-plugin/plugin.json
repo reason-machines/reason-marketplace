@@ -1,0 +1,13 @@
+{
+  "name": "chord-transposer",
+  "displayName": "Keyshift Chord Transposer",
+  "description": "Change keys and capo shapes.",
+  "homepage": "https://chord-transposer.zovo.one",
+  "docs": "https://mcp.zovo.one/mcp/connect",
+  "auth": "oauth",
+  "mcpServers": {
+    "chord-transposer": {
+      "url": "https://mcp.zovo.one/mcp/per-diem"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "authority-astrology",
+  "displayName": "Authority Astrology",
+  "description": "Birth chart calculator.",
+  "homepage": "https://authorityastrology.com/developers",
+  "docs": "https://authorityastrology.com/developers",
+  "auth": "none",
+  "mcpServers": {
+    "authority-astrology": {
+      "url": "https://authorityastrology.com/mcp"
+    }
+  }
+}

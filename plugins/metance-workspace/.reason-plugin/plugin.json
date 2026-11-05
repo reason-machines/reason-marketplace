@@ -1,0 +1,13 @@
+{
+  "name": "metance-workspace",
+  "displayName": "Metance",
+  "description": "Use your org’s knowledge.",
+  "homepage": "https://metance.com",
+  "docs": "https://api.metance.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "metance-workspace": {
+      "url": "https://api.metance.com/mcp/content-buckets"
+    }
+  }
+}

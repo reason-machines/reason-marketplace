@@ -1,0 +1,13 @@
+{
+  "name": "oka-anywhere",
+  "displayName": "OKA Anywhere",
+  "description": "Cited answers from procedures.",
+  "homepage": "https://forgeagentsio.com/oka.html",
+  "docs": "https://forgeagentsio.com/oka.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "oka-anywhere": {
+      "url": "https://console.forgeagentsai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "misarmail",
+  "displayName": "MisarMail",
+  "description": "Email campaigns and contacts.",
+  "homepage": "https://www.misarmail.com",
+  "docs": "https://www.misarmail.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "misarmail": {
+      "url": "https://misarmail.com/mcp"
+    }
+  }
+}

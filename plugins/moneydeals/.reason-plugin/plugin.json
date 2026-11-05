@@ -1,0 +1,13 @@
+{
+  "name": "moneydeals",
+  "displayName": "MoneyDeals – US Tech Deals",
+  "description": "US tech deals & price history.",
+  "homepage": "https://www.moneydeals.com",
+  "docs": "https://www.moneydeals.com/developers/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "moneydeals": {
+      "url": "https://go.moneydeals.com/mcp"
+    }
+  }
+}

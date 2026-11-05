@@ -1,0 +1,13 @@
+{
+  "name": "tribujus",
+  "displayName": "TribuJus",
+  "description": "Verifiable Brazilian case law.",
+  "homepage": "https://www.tribujus.com.br",
+  "docs": "https://tribujus.com.br/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "tribujus": {
+      "url": "https://www.tribujus.com.br/api/mcp"
+    }
+  }
+}

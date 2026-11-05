@@ -1,0 +1,13 @@
+{
+  "name": "ship",
+  "displayName": "SHIP",
+  "description": "Agentic coding for your SDLC.",
+  "homepage": "https://letsship.ai",
+  "docs": "https://letsship.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "ship": {
+      "url": "https://mcp.letsship.ai/mcp"
+    }
+  }
+}

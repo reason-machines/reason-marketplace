@@ -1,0 +1,13 @@
+{
+  "name": "listadum",
+  "displayName": "Listadum",
+  "description": "Manage your Etsy stores.",
+  "homepage": "https://www.listadum.com",
+  "docs": "https://www.listadum.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "listadum": {
+      "url": "https://mcp.listadum.com/mcp"
+    }
+  }
+}

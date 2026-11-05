@@ -1,0 +1,13 @@
+{
+  "name": "usaspending-by-1102tools",
+  "displayName": "USAspending by 1102tools",
+  "description": "Explore federal spending.",
+  "homepage": "https://1102tools.com",
+  "docs": "https://1102tools.com/mcp/usaspending",
+  "auth": "none",
+  "mcpServers": {
+    "usaspending-by-1102tools": {
+      "url": "https://usaspending.1102tools.com/mcp"
+    }
+  }
+}

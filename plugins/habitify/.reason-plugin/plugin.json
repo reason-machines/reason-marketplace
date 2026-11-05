@@ -1,0 +1,13 @@
+{
+  "name": "habitify",
+  "displayName": "Habitify",
+  "description": "Build new habits & routines.",
+  "homepage": "https://habitify.me",
+  "docs": "https://habitify.me",
+  "auth": "oauth",
+  "mcpServers": {
+    "habitify": {
+      "url": "https://mcp.habitify.me/mcp"
+    }
+  }
+}

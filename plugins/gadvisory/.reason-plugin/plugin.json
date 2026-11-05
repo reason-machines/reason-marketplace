@@ -1,0 +1,13 @@
+{
+  "name": "gadvisory",
+  "displayName": "GAdvisory",
+  "description": "Manage security advisories.",
+  "homepage": "https://gadvisory.org",
+  "docs": "https://gadvisory.org",
+  "auth": "oauth",
+  "mcpServers": {
+    "gadvisory": {
+      "url": "https://mcp.gadvisory.org/mcp"
+    }
+  }
+}

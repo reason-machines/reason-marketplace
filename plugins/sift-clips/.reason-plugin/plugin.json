@@ -1,0 +1,13 @@
+{
+  "name": "sift-clips",
+  "displayName": "Sift Clips",
+  "description": "Search footage shared with you.",
+  "homepage": "https://siftclips.com/agents/",
+  "docs": "https://siftclips.com/agents/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sift-clips": {
+      "url": "https://share-api.siftclips.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "midpage",
+  "displayName": "Midpage Legal Research: US Law",
+  "description": "Case law, statutes, regulation.",
+  "homepage": "https://www.midpage.ai",
+  "docs": "https://docs.midpage.ai/documentation/integration/mcp-tools",
+  "auth": "oauth",
+  "mcpServers": {
+    "midpage": {
+      "url": "https://app.midpage.ai/mcp"
+    }
+  }
+}

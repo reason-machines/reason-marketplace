@@ -1,0 +1,13 @@
+{
+  "name": "fydioo",
+  "displayName": "Fydioo",
+  "description": "Schedule social media posts.",
+  "homepage": "https://fydioo.com/en",
+  "docs": "https://fydioo.com/en",
+  "auth": "oauth",
+  "mcpServers": {
+    "fydioo": {
+      "url": "https://fydioo.com/mcp"
+    }
+  }
+}

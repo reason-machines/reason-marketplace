@@ -1,0 +1,13 @@
+{
+  "name": "telltell",
+  "displayName": "TellTell",
+  "description": "Manage team email lists.",
+  "homepage": "https://telltell.co",
+  "docs": "https://telltell.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "telltell": {
+      "url": "https://mcp.telltell.co/mcp"
+    }
+  }
+}

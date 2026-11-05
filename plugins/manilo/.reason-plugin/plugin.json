@@ -1,0 +1,13 @@
+{
+  "name": "manilo",
+  "displayName": "Manilo",
+  "description": "Track expenses, plan budgets.",
+  "homepage": "https://manilo.app",
+  "docs": "https://manilo.app/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "manilo": {
+      "url": "https://api.manilo.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "finseo",
+  "displayName": "Finseo",
+  "description": "Track AI Visibility, AEO & GEO.",
+  "homepage": "https://www.finseo.ai",
+  "docs": "https://www.finseo.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "finseo": {
+      "url": "https://api.finseo.ai/v1/mcp"
+    }
+  }
+}

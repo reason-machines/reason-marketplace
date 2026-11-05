@@ -1,0 +1,16 @@
+{
+  "name": "linkedin-career-intelligence",
+  "displayName": "LinkedIn Career Intelligence",
+  "description": "Your career move, accelerated.",
+  "homepage": "https://rankedin.app",
+  "docs": "https://rankedin.app/docs",
+  "auth": "api_key",
+  "mcpServers": {
+    "linkedin-career-intelligence": {
+      "url": "https://rankedin.app/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "my-reading-pace",
+  "displayName": "My Reading Pace",
+  "description": "Reading speed & comprehension.",
+  "homepage": "https://myreadingpace.com/chatgpt/",
+  "docs": "https://myreadingpace.com/chatgpt/",
+  "auth": "none",
+  "mcpServers": {
+    "my-reading-pace": {
+      "url": "https://mcp.myreadingpace.com/mcp"
+    }
+  }
+}

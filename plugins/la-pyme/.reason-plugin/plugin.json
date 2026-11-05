@@ -1,0 +1,13 @@
+{
+  "name": "la-pyme",
+  "displayName": "La Pyme",
+  "description": "Manage your business.",
+  "homepage": "https://www.lapyme.com.ar",
+  "docs": "https://lapyme.com.ar/integraciones/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "la-pyme": {
+      "url": "https://mcp.lapyme.com.ar/mcp"
+    }
+  }
+}

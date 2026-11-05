@@ -1,0 +1,13 @@
+{
+  "name": "kastra",
+  "displayName": "Kastra",
+  "description": "Inspect AI governance.",
+  "homepage": "https://kastra.ai",
+  "docs": "https://kastra.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "kastra": {
+      "url": "https://api.kastra.ai/mcp/account"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "no-bike-no-life",
+  "displayName": "No Bike No Life",
+  "description": "Motorräder, Routen, Wetter.",
+  "homepage": "https://www.nbnl.de/",
+  "docs": "https://www.nbnl.de/",
+  "auth": "none",
+  "mcpServers": {
+    "no-bike-no-life": {
+      "url": "https://mcp.nbnl.de/mcp"
+    }
+  }
+}

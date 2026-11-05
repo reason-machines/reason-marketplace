@@ -1,0 +1,13 @@
+{
+  "name": "peornot",
+  "displayName": "PE or Not?",
+  "description": "Who owns your dentist or vet.",
+  "homepage": "https://peornot.org",
+  "docs": "https://peornot.org",
+  "auth": "none",
+  "mcpServers": {
+    "peornot": {
+      "url": "https://peornot.org/mcp"
+    }
+  }
+}

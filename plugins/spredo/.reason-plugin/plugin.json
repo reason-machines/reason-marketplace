@@ -1,0 +1,13 @@
+{
+  "name": "spredo",
+  "displayName": "Spredo",
+  "description": "Telegram B2B sales & leads.",
+  "homepage": "https://www.spredo.io",
+  "docs": "https://www.spredo.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "spredo": {
+      "url": "https://mcp.spredo.io/mcp"
+    }
+  }
+}

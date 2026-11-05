@@ -1,0 +1,13 @@
+{
+  "name": "jade-email",
+  "displayName": "Jade Email",
+  "description": "Read, organize, and send mail.",
+  "homepage": "https://jade.email",
+  "docs": "https://jade.email",
+  "auth": "oauth",
+  "mcpServers": {
+    "jade-email": {
+      "url": "https://jade.email/mcp"
+    }
+  }
+}

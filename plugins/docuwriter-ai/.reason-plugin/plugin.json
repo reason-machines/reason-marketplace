@@ -1,0 +1,13 @@
+{
+  "name": "docuwriter-ai",
+  "displayName": "DocuWriter.ai",
+  "description": "Generate and maintain docs.",
+  "homepage": "https://www.docuwriter.ai/",
+  "docs": "https://docs.docuwriter.ai/docuwriterai-platform-docs/integrations-and-ai-assistants/mcp-assistants/connect-an-ai-assistant-to-docuwriter",
+  "auth": "oauth",
+  "mcpServers": {
+    "docuwriter-ai": {
+      "url": "https://app.docuwriter.ai/mcp"
+    }
+  }
+}

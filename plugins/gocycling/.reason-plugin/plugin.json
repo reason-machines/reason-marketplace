@@ -1,0 +1,13 @@
+{
+  "name": "gocycling",
+  "displayName": "GoCycling AI",
+  "description": "AI cycling route planner.",
+  "homepage": "https://gocycling.ai",
+  "docs": "https://gocycling.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "gocycling": {
+      "url": "https://mcp.gocycling.ai/mcp"
+    }
+  }
+}

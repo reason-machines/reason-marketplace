@@ -1,0 +1,13 @@
+{
+  "name": "poste",
+  "displayName": "poste — Slovenian post offices",
+  "description": "Post office hours (unofficial).",
+  "homepage": "https://poste.cc",
+  "docs": "https://poste.cc",
+  "auth": "none",
+  "mcpServers": {
+    "poste": {
+      "url": "https://poste.cc/mcp"
+    }
+  }
+}

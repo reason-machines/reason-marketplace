@@ -1,0 +1,13 @@
+{
+  "name": "inistate",
+  "displayName": "Inistate",
+  "description": "Make & run business workflows.",
+  "homepage": "https://inistate.com",
+  "docs": "https://inistate.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "inistate": {
+      "url": "https://mcp.inistate.com/mcp"
+    }
+  }
+}

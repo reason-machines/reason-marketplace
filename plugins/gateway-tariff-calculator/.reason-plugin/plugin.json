@@ -1,0 +1,13 @@
+{
+  "name": "gateway-tariff-calculator",
+  "displayName": "Gateway Tariff Calculator",
+  "description": "US import duty and HTS codes.",
+  "homepage": "https://gatewaylines.com",
+  "docs": "https://gatewaylines.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "gateway-tariff-calculator": {
+      "url": "https://mcp.gatewaylines.com/mcp"
+    }
+  }
+}

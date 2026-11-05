@@ -1,0 +1,13 @@
+{
+  "name": "hadaly",
+  "displayName": "Hadaly",
+  "description": "Business Valuation Calculator.",
+  "homepage": "https://hadaly.ai/",
+  "docs": "https://hadaly.ai/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "hadaly": {
+      "url": "https://hadaly.ai/api/mcp"
+    }
+  }
+}

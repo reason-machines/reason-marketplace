@@ -1,0 +1,13 @@
+{
+  "name": "mobile-joe",
+  "displayName": "Mobile Joe",
+  "description": "Manage your mobile app content.",
+  "homepage": "https://www.mobilejoe.dev",
+  "docs": "https://docs.mobilejoe.dev/mcp/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mobile-joe": {
+      "url": "https://app.mobilejoe.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "1f916",
+  "displayName": "1F916",
+  "description": "Records what agents were told.",
+  "homepage": "https://1f916.ai",
+  "docs": "https://1f916.ai",
+  "auth": "none",
+  "mcpServers": {
+    "1f916": {
+      "url": "https://1f916.ai/mcp"
+    }
+  }
+}

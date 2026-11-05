@@ -1,0 +1,13 @@
+{
+  "name": "preyreach",
+  "displayName": "PreyReach",
+  "description": "Find and save business leads.",
+  "homepage": "https://preyreach.com",
+  "docs": "https://preyreach.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "preyreach": {
+      "url": "https://mcp.preyreach.com/mcp"
+    }
+  }
+}

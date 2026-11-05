@@ -1,0 +1,13 @@
+{
+  "name": "growbydata-compass",
+  "displayName": "GrowByData Compass",
+  "description": "SEO & AI Search Insights.",
+  "homepage": "https://growbydata.com/",
+  "docs": "https://growbydata.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "growbydata-compass": {
+      "url": "https://mcp.growbydata.com/mcp"
+    }
+  }
+}

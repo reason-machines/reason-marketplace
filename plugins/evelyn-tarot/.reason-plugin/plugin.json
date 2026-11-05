@@ -1,0 +1,13 @@
+{
+  "name": "evelyn-tarot",
+  "displayName": "Evelyn Tarot",
+  "description": "Tarot you draw yourself.",
+  "homepage": "https://tarott.ai",
+  "docs": "https://tarott.ai",
+  "auth": "none",
+  "mcpServers": {
+    "evelyn-tarot": {
+      "url": "https://tarott.ai/mcp"
+    }
+  }
+}

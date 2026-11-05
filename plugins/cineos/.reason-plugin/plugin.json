@@ -1,0 +1,13 @@
+{
+  "name": "cineos",
+  "displayName": "CineOS",
+  "description": "Find what's on at UK cinemas.",
+  "homepage": "https://app.cineos.co/",
+  "docs": "https://app.cineos.co/",
+  "auth": "none",
+  "mcpServers": {
+    "cineos": {
+      "url": "https://app.cineos.co/api/mcp"
+    }
+  }
+}

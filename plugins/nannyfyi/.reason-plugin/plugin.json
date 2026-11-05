@@ -1,0 +1,13 @@
+{
+  "name": "nannyfyi",
+  "displayName": "NannyFYI",
+  "description": "Find and vet caregivers.",
+  "homepage": "https://nanny.fyi",
+  "docs": "https://nanny.fyi/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "nannyfyi": {
+      "url": "https://nanny.fyi/api/mcp"
+    }
+  }
+}

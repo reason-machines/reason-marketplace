@@ -1,0 +1,13 @@
+{
+  "name": "lufthaven-diagnostic",
+  "displayName": "Lufthaven",
+  "description": "Your flights, live.",
+  "homepage": "https://lufthaven.app",
+  "docs": "https://lufthaven.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "lufthaven-diagnostic": {
+      "url": "https://lufthaven.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "build-and-backtest-a-prediction-market-bot",
+  "displayName": "TurbineFi Prediction Bot Maker",
+  "description": "powered by TurbineFi.",
+  "homepage": "https://www.turbinefi.com/docs/mcp",
+  "docs": "https://www.turbinefi.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "build-and-backtest-a-prediction-market-bot": {
+      "url": "https://api.turbinefi.com/api/v1/mcp"
+    }
+  }
+}

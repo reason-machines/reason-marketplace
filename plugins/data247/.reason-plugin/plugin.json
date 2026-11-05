@@ -1,0 +1,13 @@
+{
+  "name": "data247",
+  "displayName": "Data247",
+  "description": "Data append and validation.",
+  "homepage": "https://www.data247.com",
+  "docs": "https://www.data247.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "data247": {
+      "url": "https://mcp.data247.com/mcp"
+    }
+  }
+}

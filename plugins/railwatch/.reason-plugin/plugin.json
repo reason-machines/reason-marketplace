@@ -1,0 +1,13 @@
+{
+  "name": "railwatch",
+  "displayName": "Railwatch",
+  "description": "Check Amtrak trains.",
+  "homepage": "https://railwatch.app",
+  "docs": "https://railwatch.app/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "railwatch": {
+      "url": "https://railwatch.app/api/mcp"
+    }
+  }
+}

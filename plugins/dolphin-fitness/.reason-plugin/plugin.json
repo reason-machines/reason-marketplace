@@ -1,0 +1,13 @@
+{
+  "name": "dolphin-fitness",
+  "displayName": "Dolphin Fitness",
+  "description": "Shop fitness & wellbeing.",
+  "homepage": "https://www.dolphinfitness.co.uk",
+  "docs": "https://www.dolphinfitness.co.uk",
+  "auth": "none",
+  "mcpServers": {
+    "dolphin-fitness": {
+      "url": "https://mcp.dolphinfitness.co.uk/mcp"
+    }
+  }
+}

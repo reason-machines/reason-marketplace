@@ -1,0 +1,13 @@
+{
+  "name": "appradio-pro",
+  "displayName": "APPRADIO.PRO",
+  "description": "Catálogo, rádios e suporte.",
+  "homepage": "https://appradio.pro/docs/mcp",
+  "docs": "https://appradio.pro/docs/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "appradio-pro": {
+      "url": "https://appradio.pro/api/v1/mcp.php"
+    }
+  }
+}

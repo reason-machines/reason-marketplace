@@ -1,0 +1,13 @@
+{
+  "name": "aqteron",
+  "displayName": "Aqteron",
+  "description": "Create and publish apps.",
+  "homepage": "https://aqteron.com",
+  "docs": "https://aqteron.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "aqteron": {
+      "url": "https://aqteron.com/mcp"
+    }
+  }
+}

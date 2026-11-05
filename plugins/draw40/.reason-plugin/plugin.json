@@ -1,0 +1,13 @@
+{
+  "name": "draw40",
+  "displayName": "Draw40",
+  "description": "Draw and edit saved diagrams.",
+  "homepage": "https://draw.404040.net/",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.Si40Code/super-excalidraw",
+  "auth": "oauth",
+  "mcpServers": {
+    "draw40": {
+      "url": "https://draw.404040.net/mcp"
+    }
+  }
+}

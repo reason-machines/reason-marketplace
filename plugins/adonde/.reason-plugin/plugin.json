@@ -1,0 +1,13 @@
+{
+  "name": "adonde",
+  "displayName": "Adónde",
+  "description": "Plan and book real trips.",
+  "homepage": "https://getadonde.com",
+  "docs": "https://getadonde.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "adonde": {
+      "url": "https://getadonde.com/mcp"
+    }
+  }
+}

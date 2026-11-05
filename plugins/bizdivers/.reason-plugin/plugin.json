@@ -1,0 +1,13 @@
+{
+  "name": "bizdivers",
+  "displayName": "Bizdivers",
+  "description": "Books, bills, bank and close.",
+  "homepage": "https://www.bizdivers.com",
+  "docs": "https://tedix.dev/apps/bizdivers/",
+  "auth": "oauth",
+  "mcpServers": {
+    "bizdivers": {
+      "url": "https://api.bizdivers.com/api/v1/mcp"
+    }
+  }
+}

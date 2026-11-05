@@ -1,0 +1,13 @@
+{
+  "name": "givon",
+  "displayName": "Givon AI",
+  "description": "Images, video, music & voice.",
+  "homepage": "https://givon.ai",
+  "docs": "https://givon.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "givon": {
+      "url": "https://api.givon.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "recrutei",
+  "displayName": "Recrutei",
+  "description": "Your ATS jobs and candidates.",
+  "homepage": "https://recrutei.com.br",
+  "docs": "https://recrutei.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "recrutei": {
+      "url": "https://mcp.recrutei.com.br/mcp"
+    }
+  }
+}

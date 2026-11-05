@@ -1,0 +1,13 @@
+{
+  "name": "glinded-for-birthday-videos",
+  "displayName": "Glinded for Birthday Videos",
+  "description": "Anniversary & family slideshow.",
+  "homepage": "https://www.glinded.com",
+  "docs": "https://www.glinded.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "glinded-for-birthday-videos": {
+      "url": "https://mcp.glinded.com/"
+    }
+  }
+}

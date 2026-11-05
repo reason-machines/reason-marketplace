@@ -1,0 +1,13 @@
+{
+  "name": "lifelinks",
+  "displayName": "LifeLinks",
+  "description": "Your everyday context.",
+  "homepage": "https://lifelinks.vmosaic.com/",
+  "docs": "https://lifelinks.vmosaic.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "lifelinks": {
+      "url": "https://lifelinks.vmosaic.com/mcp"
+    }
+  }
+}

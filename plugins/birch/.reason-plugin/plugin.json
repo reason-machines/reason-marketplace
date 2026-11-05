@@ -1,0 +1,13 @@
+{
+  "name": "birch",
+  "displayName": "Birch",
+  "description": "Research baby & kids products.",
+  "homepage": "https://www.birchstore.com",
+  "docs": "https://www.birchstore.com",
+  "auth": "none",
+  "mcpServers": {
+    "birch": {
+      "url": "https://mcp.birchstore.com/mcp"
+    }
+  }
+}

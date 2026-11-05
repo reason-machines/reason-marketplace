@@ -1,0 +1,13 @@
+{
+  "name": "flippo-ai",
+  "displayName": "Flippo AI",
+  "description": "Track resale stock and profit.",
+  "homepage": "https://flippoai.com",
+  "docs": "https://flippoai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "flippo-ai": {
+      "url": "https://flippoai.com/mcp"
+    }
+  }
+}

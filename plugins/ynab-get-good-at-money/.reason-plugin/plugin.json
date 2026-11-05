@@ -1,0 +1,13 @@
+{
+  "name": "ynab-get-good-at-money",
+  "displayName": "YNAB: Get Good At Money",
+  "description": "Get answers to money questions.",
+  "homepage": "https://tedix.dev/apps/ynab-get-good-at-money/",
+  "docs": "https://tedix.dev/apps/ynab-get-good-at-money/",
+  "auth": "none",
+  "mcpServers": {
+    "ynab-get-good-at-money": {
+      "url": "https://chatgpt-app.ynab.com/mcp"
+    }
+  }
+}

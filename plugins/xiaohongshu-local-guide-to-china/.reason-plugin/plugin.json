@@ -1,0 +1,13 @@
+{
+  "name": "xiaohongshu-local-guide-to-china",
+  "displayName": "XiaoHongShu RedNote China",
+  "description": "Discover China like a local.",
+  "homepage": "https://chinalikealocal.com/local-guide",
+  "docs": "https://chinalikealocal.com/local-guide",
+  "auth": "none",
+  "mcpServers": {
+    "xiaohongshu-local-guide-to-china": {
+      "url": "https://chinalikealocal.com/mcp"
+    }
+  }
+}

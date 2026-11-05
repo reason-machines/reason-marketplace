@@ -1,0 +1,13 @@
+{
+  "name": "ai-engine-for-wordpress",
+  "displayName": "AI Engine for WordPress",
+  "description": "Build and edit your WordPress.",
+  "homepage": "https://meowapps.com/ai-engine/",
+  "docs": "https://meowapps.com/ai-engine/chatgpt-claude/",
+  "auth": "oauth",
+  "mcpServers": {
+    "ai-engine-for-wordpress": {
+      "url": "https://connect.meowapps.com/mcp"
+    }
+  }
+}

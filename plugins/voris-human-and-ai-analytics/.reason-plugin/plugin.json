@@ -1,0 +1,13 @@
+{
+  "name": "voris-human-and-ai-analytics",
+  "displayName": "Voris - Human & AI Analytics",
+  "description": "Full Insights Your Dashboards.",
+  "homepage": "https://voris.ai",
+  "docs": "https://voris.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "voris-human-and-ai-analytics": {
+      "url": "https://mcp.voris.ai/mcp"
+    }
+  }
+}

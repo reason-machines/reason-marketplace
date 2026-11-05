@@ -1,0 +1,13 @@
+{
+  "name": "userback",
+  "displayName": "Userback",
+  "description": "Act on customer feedback.",
+  "homepage": "https://userback.io",
+  "docs": "https://userback.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "userback": {
+      "url": "https://mcp.userback.io/mcp"
+    }
+  }
+}

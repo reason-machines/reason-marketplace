@@ -1,0 +1,13 @@
+{
+  "name": "sesam",
+  "displayName": "SESAM",
+  "description": "Simulate and analyze traffic.",
+  "homepage": "https://sesam.co4e.com/",
+  "docs": "https://sesam.co4e.com/docs/mcp/setup/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sesam": {
+      "url": "https://sesam.co4e.com/mcp"
+    }
+  }
+}

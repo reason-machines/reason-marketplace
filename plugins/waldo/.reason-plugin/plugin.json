@@ -1,0 +1,57 @@
+{
+  "name": "waldo",
+  "displayName": "Waldo",
+  "description": "Your brand intelligence engine.",
+  "homepage": "https://www.waldo.fyi",
+  "docs": "https://www.waldo.fyi",
+  "auth": "oauth",
+  "mcpServers": {
+    "waldo": {
+      "url": "https://mcp.waldo.fyi/mcp"
+    }
+  },
+  "skills": [
+    {
+      "name": "ad-intelligence",
+      "description": "Trigger when the user says \"what ads is [brand] running\", \"show me [competitor] creatives\", \"how is [brand] advertising\", \"what's [brand] saying in ads\", \"compare ad strategies\", \"ad library\", \"find ads for [keyword]\", or asks about competitor ads, paid media presence, ad creative, ad messaging, hoo",
+      "source": "waldo-fyi/waldo-claude-plugin#ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724",
+      "skill": "ad-intelligence",
+      "url": "https://github.com/waldo-fyi/waldo-claude-plugin/tree/ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724/skills/ad-intelligence"
+    },
+    {
+      "name": "archival-knowledge",
+      "description": "Trigger when the user says \"what insights do we have on [brand]\", \"show me brand mentions\", \"pull up our [feed type]\", \"any signals about [topic]\", \"what did we capture about [event]\", \"what feeds do we have\", or references a brand space. Searches Waldo workspace signals (brand mentions, owned media",
+      "source": "waldo-fyi/waldo-claude-plugin#ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724",
+      "skill": "archival-knowledge",
+      "url": "https://github.com/waldo-fyi/waldo-claude-plugin/tree/ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724/skills/archival-knowledge"
+    },
+    {
+      "name": "data-analysis",
+      "description": "Trigger when the user says \"crunch the numbers\", \"compare Q3 vs Q4\", \"what does this data show\", \"break down these numbers\", \"analyze this CSV\", \"build a pivot\", \"calculate growth rate\", \"find outliers\", provides a data file, references workspace spreadsheets/reports, or pastes a table. Performs cal",
+      "source": "waldo-fyi/waldo-claude-plugin#ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724",
+      "skill": "data-analysis",
+      "url": "https://github.com/waldo-fyi/waldo-claude-plugin/tree/ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724/skills/data-analysis"
+    },
+    {
+      "name": "social-intelligence",
+      "description": "Trigger when the user says \"what are people saying about [brand]\", \"how is [brand] perceived\", \"sentiment on [X]\", \"what's the buzz around [X]\", \"how are people reacting to [X]\", \"show me TikToks of [product]\", \"is [brand] going viral\", or asks about social sentiment, audience perception, audience o",
+      "source": "waldo-fyi/waldo-claude-plugin#ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724",
+      "skill": "social-intelligence",
+      "url": "https://github.com/waldo-fyi/waldo-claude-plugin/tree/ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724/skills/social-intelligence"
+    },
+    {
+      "name": "trends-research",
+      "description": "Research what's trending — cultural shifts, emerging signals, viral hashtags, forward-looking patterns — by running social trending tools, the Waldo Trends database, and web search in parallel, then synthesizing by trend rather than by source. Trigger on velocity-shaped prompts: \"what's trending\", \"",
+      "source": "waldo-fyi/waldo-claude-plugin#ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724",
+      "skill": "trends-research",
+      "url": "https://github.com/waldo-fyi/waldo-claude-plugin/tree/ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724/skills/trends-research"
+    },
+    {
+      "name": "web-research",
+      "description": "Trigger when the user says \"research [topic]\", \"deep dive on [X]\", \"compare [A] vs [B]\", \"audit [website]\", \"what does [brand] do\", \"draft a POV on [topic]\", \"summarize this PDF\", \"how does [competitor] position\", or asks any open-ended brand/category/competitor question, persona simulation, or demo",
+      "source": "waldo-fyi/waldo-claude-plugin#ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724",
+      "skill": "web-research",
+      "url": "https://github.com/waldo-fyi/waldo-claude-plugin/tree/ef0e7fb170ef4ad57cfc52b1c1774a279a3e0724/skills/web-research"
+    }
+  ]
+}

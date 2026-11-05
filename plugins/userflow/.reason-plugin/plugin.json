@@ -1,0 +1,13 @@
+{
+  "name": "userflow",
+  "displayName": "Userflow",
+  "description": "Ask about product adoption.",
+  "homepage": "https://www.userflow.com/",
+  "docs": "https://api.userflow.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "userflow": {
+      "url": "https://api.userflow.com/mcp"
+    }
+  }
+}

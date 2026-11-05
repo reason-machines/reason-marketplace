@@ -1,0 +1,13 @@
+{
+  "name": "lexfi",
+  "displayName": "Lexfi",
+  "description": "Financial data for AI.",
+  "homepage": "https://use.lexfi.ai",
+  "docs": "https://use.lexfi.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "lexfi": {
+      "url": "https://api.lexfi.ai/mcp"
+    }
+  }
+}

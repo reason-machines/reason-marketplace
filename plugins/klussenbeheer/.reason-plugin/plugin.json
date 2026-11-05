@@ -1,0 +1,13 @@
+{
+  "name": "klussenbeheer",
+  "displayName": "Klussenbeheer",
+  "description": "Manage jobs and schedules.",
+  "homepage": "https://samdesk.nl/plugin/",
+  "docs": "https://samdesk.nl/plugin/",
+  "auth": "oauth",
+  "mcpServers": {
+    "klussenbeheer": {
+      "url": "https://samdesk.nl/mcp"
+    }
+  }
+}

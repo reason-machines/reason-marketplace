@@ -1,0 +1,13 @@
+{
+  "name": "nuelink",
+  "displayName": "Nuelink",
+  "description": "Plan and schedule social posts.",
+  "homepage": "https://nuelink.com",
+  "docs": "https://nuelink.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "nuelink": {
+      "url": "https://mcp.nuelink.com/mcp"
+    }
+  }
+}

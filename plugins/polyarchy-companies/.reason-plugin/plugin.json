@@ -1,0 +1,13 @@
+{
+  "name": "polyarchy-companies",
+  "displayName": "Polyarchy Company Filings",
+  "description": "Japanese company filings data.",
+  "homepage": "https://docs.polyarchy.net/companies",
+  "docs": "https://docs.polyarchy.net/companies",
+  "auth": "oauth",
+  "mcpServers": {
+    "polyarchy-companies": {
+      "url": "https://companies.polyarchy.net/mcp"
+    }
+  }
+}

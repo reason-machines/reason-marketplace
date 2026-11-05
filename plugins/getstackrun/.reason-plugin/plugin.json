@@ -1,0 +1,13 @@
+{
+  "name": "getstackrun",
+  "displayName": "getstackrun",
+  "description": "Oversee and revoke AI agents.",
+  "homepage": "https://getstack.run",
+  "docs": "https://getstack.run",
+  "auth": "oauth",
+  "mcpServers": {
+    "getstackrun": {
+      "url": "https://mcp.getstack.run/mcp"
+    }
+  }
+}

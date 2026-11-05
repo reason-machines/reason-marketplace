@@ -1,0 +1,13 @@
+{
+  "name": "ktix",
+  "displayName": "ktix",
+  "description": "Say an idea, get a plan back.",
+  "homepage": "https://ktix.app",
+  "docs": "https://ktix.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "ktix": {
+      "url": "https://mcp.ktix.app/mcp"
+    }
+  }
+}

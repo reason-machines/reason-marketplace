@@ -1,0 +1,13 @@
+{
+  "name": "arne-kellmann",
+  "displayName": "Arne Kellmann",
+  "description": "Consulting service reference.",
+  "homepage": "https://arnekellmann.de/",
+  "docs": "https://arnekellmann.de/",
+  "auth": "oauth",
+  "mcpServers": {
+    "arne-kellmann": {
+      "url": "https://mcp.arnekellmann.de/mcp"
+    }
+  }
+}

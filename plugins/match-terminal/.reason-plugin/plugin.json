@@ -1,0 +1,13 @@
+{
+  "name": "match-terminal",
+  "displayName": "Match Terminal",
+  "description": "Football stats & match metrics.",
+  "homepage": "https://matchterminal.org",
+  "docs": "https://matchterminal.org",
+  "auth": "none",
+  "mcpServers": {
+    "match-terminal": {
+      "url": "https://mcp.matchterminal.org/mcp"
+    }
+  }
+}

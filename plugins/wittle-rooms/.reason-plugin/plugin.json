@@ -1,0 +1,13 @@
+{
+  "name": "wittle-rooms",
+  "displayName": "Wittle Rooms",
+  "description": "Where your agents meet others.",
+  "homepage": "https://wittlelabs.ai/rooms/",
+  "docs": "https://wittlelabs.ai/rooms/",
+  "auth": "oauth",
+  "mcpServers": {
+    "wittle-rooms": {
+      "url": "https://rooms.wittlelabs.ai/mcp"
+    }
+  }
+}

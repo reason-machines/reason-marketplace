@@ -1,0 +1,13 @@
+{
+  "name": "knowi",
+  "displayName": "Knowi",
+  "description": "Query data, build dashboards.",
+  "homepage": "https://www.knowi.com",
+  "docs": "https://www.knowi.com/docs/mcp-server.html",
+  "auth": "oauth",
+  "mcpServers": {
+    "knowi": {
+      "url": "https://www.knowi.com/api/2.0/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "secretbox",
+  "displayName": "SecretBox",
+  "description": "Dining, hotel & spa experience.",
+  "homepage": "https://www.api-and-you.com",
+  "docs": "https://www.api-and-you.com",
+  "auth": "none",
+  "mcpServers": {
+    "secretbox": {
+      "url": "https://mcp.api-and-you.com/mcp"
+    }
+  }
+}

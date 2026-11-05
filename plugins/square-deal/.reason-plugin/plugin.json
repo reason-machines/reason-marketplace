@@ -1,0 +1,13 @@
+{
+  "name": "square-deal",
+  "displayName": "Square Deal",
+  "description": "Check property overassessment.",
+  "homepage": "https://squaredeal.tax/",
+  "docs": "https://tedix.dev/apps/square-deal/",
+  "auth": "none",
+  "mcpServers": {
+    "square-deal": {
+      "url": "https://mcp.squaredeal.tax/chatgpt"
+    }
+  }
+}

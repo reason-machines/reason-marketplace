@@ -1,0 +1,13 @@
+{
+  "name": "trvlrr",
+  "displayName": "Trvlrr",
+  "description": "Every trip, past and planned.",
+  "homepage": "https://trvlrr.app",
+  "docs": "https://trvlrr.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "trvlrr": {
+      "url": "https://trvlrr.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "doubles-mixer",
+  "displayName": "Pairloop Doubles Mixer",
+  "description": "Rotate partners, print & score.",
+  "homepage": "https://doubles-mixer.zovo.one",
+  "docs": "https://doubles-mixer.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "doubles-mixer": {
+      "url": "https://doubles-mixer.zovo.one/mcp"
+    }
+  }
+}

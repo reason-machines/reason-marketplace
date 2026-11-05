@@ -1,0 +1,13 @@
+{
+  "name": "korrhaus-custom-grip-socks",
+  "displayName": "KORRHAUS Custom Grip Socks",
+  "description": "Design studio grip socks.",
+  "homepage": "https://agents.korrhaus.nl/docs",
+  "docs": "https://agents.korrhaus.nl/docs",
+  "auth": "none",
+  "mcpServers": {
+    "korrhaus-custom-grip-socks": {
+      "url": "https://agents.korrhaus.nl/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "descry",
+  "displayName": "Descry",
+  "description": "Organize creative projects.",
+  "homepage": "https://descry.studio/",
+  "docs": "https://descry.studio/",
+  "auth": "oauth",
+  "mcpServers": {
+    "descry": {
+      "url": "https://descry.studio/mcp"
+    }
+  }
+}

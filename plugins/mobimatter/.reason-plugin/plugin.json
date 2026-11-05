@@ -1,0 +1,13 @@
+{
+  "name": "mobimatter",
+  "displayName": "MobiMatter",
+  "description": "Travel eSIMs. Check usage.",
+  "homepage": "https://mobimatter.com/chatgpt",
+  "docs": "https://mobimatter.com/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "mobimatter": {
+      "url": "https://mobimatter.com/mcp"
+    }
+  }
+}

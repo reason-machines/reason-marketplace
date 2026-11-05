@@ -1,0 +1,13 @@
+{
+  "name": "storieta",
+  "displayName": "Storieta",
+  "description": "Read the classics in pictures.",
+  "homepage": "https://storieta.com",
+  "docs": "https://storieta.com",
+  "auth": "none",
+  "mcpServers": {
+    "storieta": {
+      "url": "https://storieta.com/mcp"
+    }
+  }
+}

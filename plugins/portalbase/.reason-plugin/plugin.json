@@ -1,0 +1,13 @@
+{
+  "name": "portalbase",
+  "displayName": "PortalBase",
+  "description": "Your team's work and records.",
+  "homepage": "https://portalbaseai.com",
+  "docs": "https://portalbaseai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "portalbase": {
+      "url": "https://portalbaseai.com/mcp"
+    }
+  }
+}

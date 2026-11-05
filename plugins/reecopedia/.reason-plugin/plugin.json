@@ -1,0 +1,13 @@
+{
+  "name": "reecopedia",
+  "displayName": "Reecopedia",
+  "description": "Cited EU textile law search.",
+  "homepage": "https://ia.reeco.eco/reecopedia",
+  "docs": "https://ia.reeco.eco/reecopedia",
+  "auth": "none",
+  "mcpServers": {
+    "reecopedia": {
+      "url": "https://reeco.eco/mcp"
+    }
+  }
+}

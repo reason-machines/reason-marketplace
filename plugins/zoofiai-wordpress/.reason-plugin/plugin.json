@@ -1,0 +1,13 @@
+{
+  "name": "zoofiai-wordpress",
+  "displayName": "ZoofiAI",
+  "description": "Manage WordPress with AI.",
+  "homepage": "https://app.zoofiai.com",
+  "docs": "https://app.zoofiai.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "zoofiai-wordpress": {
+      "url": "https://mcp.zoofiai.com/mcp"
+    }
+  }
+}

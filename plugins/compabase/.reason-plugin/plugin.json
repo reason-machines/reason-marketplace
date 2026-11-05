@@ -1,0 +1,13 @@
+{
+  "name": "compabase",
+  "displayName": "Compabase",
+  "description": "Polish company data and KYB.",
+  "homepage": "https://compabase.com",
+  "docs": "https://compabase.com",
+  "auth": "none",
+  "mcpServers": {
+    "compabase": {
+      "url": "https://compabase.com/mcp"
+    }
+  }
+}

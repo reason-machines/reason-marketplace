@@ -1,0 +1,13 @@
+{
+  "name": "sheet-music-analysis",
+  "displayName": "Sheet Music Analysis",
+  "description": "Harmony analysis on the score.",
+  "homepage": "https://sheetmusicanalysis.com",
+  "docs": "https://sheetmusicanalysis.com",
+  "auth": "none",
+  "mcpServers": {
+    "sheet-music-analysis": {
+      "url": "https://mcp.sheetmusicanalysis.com/mcp"
+    }
+  }
+}

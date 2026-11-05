@@ -1,0 +1,13 @@
+{
+  "name": "coachpilot",
+  "displayName": "CoachPilot",
+  "description": "Seus alunos e treinos no chat.",
+  "homepage": "https://coachpilot.com.br",
+  "docs": "https://coachpilot.com.br",
+  "auth": "oauth",
+  "mcpServers": {
+    "coachpilot": {
+      "url": "https://mcp.coachpilot.com.br/mcp"
+    }
+  }
+}

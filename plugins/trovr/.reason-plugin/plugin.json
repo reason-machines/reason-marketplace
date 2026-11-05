@@ -1,0 +1,13 @@
+{
+  "name": "trovr",
+  "displayName": "Trovr",
+  "description": "NYC shows with music previews.",
+  "homepage": "https://trovr.ai",
+  "docs": "https://trovr.ai",
+  "auth": "none",
+  "mcpServers": {
+    "trovr": {
+      "url": "https://trovr.ai/mcp"
+    }
+  }
+}

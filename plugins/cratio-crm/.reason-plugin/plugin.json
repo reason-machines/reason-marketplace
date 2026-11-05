@@ -1,0 +1,13 @@
+{
+  "name": "cratio-crm",
+  "displayName": "Cratio CRM",
+  "description": "Leads, calls & reports in CRM.",
+  "homepage": "https://cratio.com",
+  "docs": "https://cratio.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cratio-crm": {
+      "url": "https://mcp.cratio.com/mcp"
+    }
+  }
+}

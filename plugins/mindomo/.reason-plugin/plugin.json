@@ -1,0 +1,13 @@
+{
+  "name": "mindomo",
+  "displayName": "Mindomo",
+  "description": "Create mind maps.",
+  "homepage": "https://www.mindomo.com",
+  "docs": "https://www.mindomo.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "mindomo": {
+      "url": "https://mcp.mindomo.com/mcp"
+    }
+  }
+}

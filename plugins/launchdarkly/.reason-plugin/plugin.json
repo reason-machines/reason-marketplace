@@ -10,5 +10,266 @@
     "launchdarkly": {
       "url": "https://mcp.launchdarkly.com/mcp/launchdarkly"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "agent-graphs",
+      "description": "Create and manage agent graphs — directed graphs of configs connected by edges with handoff logic. Use when building multi-agent workflows where configs route to each other.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "agent-graphs",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/agent-graphs"
+    },
+    {
+      "name": "alert-investigation",
+      "description": "Investigates a triggered observability alert and returns a structured diagnosis with likely cause, scope, and next steps.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "alert-investigation",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/observability/alert-investigation"
+    },
+    {
+      "name": "apply",
+      "description": "Apply LaunchDarkly SDK onboarding: install dependency (or dual-SDK pair), configure env and secrets with consent, add init at entrypoint(s), verify compile. Nested under sdk-install; next is run.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "apply",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/onboarding/sdk-install/apply"
+    },
+    {
+      "name": "built-in-metrics",
+      "description": "Instrument an existing codebase with LaunchDarkly config tracking. Walks the four-tier ladder (managed runner → provider package → custom extractor + trackMetricsOf → raw manual) and picks the lowest-ceremony option that still captures duration, tokens, and success/error.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "built-in-metrics",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/built-in-metrics"
+    },
+    {
+      "name": "configs-create",
+      "description": "Create and configure configs in LaunchDarkly. Helps you choose between agent vs completion mode, create the config, add variations with models and prompts, and verify the setup.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "configs-create",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/configs-create"
+    },
+    {
+      "name": "configs-targeting",
+      "description": "Configure config targeting rules to control which variations serve to different users. Enable percentage rollouts, attribute-based rules, segment targeting, and guarded rollouts.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "configs-targeting",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/configs-targeting"
+    },
+    {
+      "name": "configs-update",
+      "description": "Update, archive, and delete LaunchDarkly configs and their variations. Use when you need to modify config properties, change model parameters, update instructions or messages, archive unused configs, or permanently remove them.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "configs-update",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/configs-update"
+    },
+    {
+      "name": "configs-variations",
+      "description": "Experiment with configs by creating and managing variations. Helps you test different models, prompts, and parameters to find what works best through systematic experimentation.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "configs-variations",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/configs-variations"
+    },
+    {
+      "name": "create-fix-pr",
+      "description": "Investigates a root cause and files a minimal fix PR for a reported bug or observability finding.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "create-fix-pr",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/observability/create-fix-pr"
+    },
+    {
+      "name": "create-graph",
+      "description": "Creates observability dashboards and graphs from logs, traces, errors, sessions, metrics, and events data by previewing charts inline and saving them to a dashboard.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "create-graph",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/observability/create-graph"
+    },
+    {
+      "name": "custom-metrics",
+      "description": "Create, track, retrieve, update, and delete custom business metrics for configs. Covers full lifecycle: define metric kinds via API, emit events via SDK, and query results.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "custom-metrics",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/custom-metrics"
+    },
+    {
+      "name": "detect",
+      "description": "Detect repository stack for LaunchDarkly SDK onboarding: languages, frameworks, package managers, monorepo targets, entrypoints, existing LD usage. Nested under sdk-install; next is plan.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "detect",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/onboarding/sdk-install/detect"
+    },
+    {
+      "name": "flag-and-release-change",
+      "description": "Drive a pull request's change end to end: decide it's flag-worthy, create the guarding flag, wire the new code path behind it on the PR branch, and record an automated release so the change ships safely when the PR merges. A portable orchestrator that composes should-flag-change, launchdarkly-flag-c",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "flag-and-release-change",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/flag-and-release-change"
+    },
+    {
+      "name": "flag-release",
+      "description": "Record an automated rollout for an existing LaunchDarkly flag that guards a pull request's change, so the change releases safely when the PR merges. Honors a stated release intent (release now / hold / notBefore / segment / prerequisite) and defers per-environment to the project's release policies. ",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "flag-release",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/flag-release"
+    },
+    {
+      "name": "investigate",
+      "description": "Analyzes observability data — logs, traces, errors, sessions, and metrics — to find root cause and actionable evidence. Use when the user reports a bug, an unexpected behavior, or asks about patterns across application data.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "investigate",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/observability/investigate"
+    },
+    {
+      "name": "launchdarkly-experiment-setup",
+      "description": "Set up and run experiments in LaunchDarkly. Create experiments with metrics, treatments, and flag config, start iterations to collect data, swap design between iterations, and stop with a winner.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-experiment-setup",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/experiments/launchdarkly-experiment-setup"
+    },
+    {
+      "name": "launchdarkly-flag-cleanup",
+      "description": "Safely remove a feature flag from code while preserving production behavior. Use when the user wants to remove a flag from code, delete flag references, or create a PR that hardcodes the winning variation after a rollout is complete.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-flag-cleanup",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/launchdarkly-flag-cleanup"
+    },
+    {
+      "name": "launchdarkly-flag-command",
+      "description": "Resolve `/flag` style requests into the right LaunchDarkly flag lookup flow. Use when the user types `/flag`, asks to quickly find a flag by name/key, wants a direct flag detail summary, or needs fast disambiguation between similar flags.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-flag-command",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/launchdarkly-flag-command"
+    },
+    {
+      "name": "launchdarkly-flag-create",
+      "description": "Create and configure LaunchDarkly feature flags in a way that fits the existing codebase. Use when the user wants to create a new flag, wrap code in a flag, add a feature toggle, or set up an experiment. Guides exploration of existing patterns before creating.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-flag-create",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/launchdarkly-flag-create"
+    },
+    {
+      "name": "launchdarkly-flag-discovery",
+      "description": "Audit your LaunchDarkly feature flags to understand the landscape, find stale or launched flags, and assess removal readiness. Use when the user asks about flag debt, stale flags, cleanup candidates, flag health, or wants to understand their flag inventory.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-flag-discovery",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/launchdarkly-flag-discovery"
+    },
+    {
+      "name": "launchdarkly-flag-drift",
+      "description": "Detect and reconcile drift between a feature flag's in-code SDK fallback default and its LaunchDarkly default rule (fallthrough). Use when a flag's default rule changed, when the user asks to detect flag drift, check whether a hardcoded default still matches LaunchDarkly, sync an in-code default, or",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-flag-drift",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/launchdarkly-flag-drift"
+    },
+    {
+      "name": "launchdarkly-flag-qualitative-feedback-setup",
+      "description": "Integrate LaunchDarkly qualitative user feedback into a JavaScript/TypeScript codebase. Guides framework and design system detection, builds the sendFeedback utility and feedback widget matching existing project patterns. Use when the user wants to add a Give Feedback widget, collect user sentiment ",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-flag-qualitative-feedback-setup",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/launchdarkly-flag-qualitative-feedback-setup"
+    },
+    {
+      "name": "launchdarkly-flag-targeting",
+      "description": "Control LaunchDarkly feature flag targeting including toggling flags on/off, percentage rollouts, targeting rules, individual targets, and copying flag configurations between environments. Use when the user wants to change who sees a flag, roll out to a percentage, add targeting rules, or promote co",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-flag-targeting",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/launchdarkly-flag-targeting"
+    },
+    {
+      "name": "launchdarkly-guarded-rollout",
+      "description": "Configure guarded rollouts with progressive traffic increases, metric monitoring, and automatic rollback. Use when releasing features gradually with safety thresholds.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-guarded-rollout",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/launchdarkly-guarded-rollout"
+    },
+    {
+      "name": "launchdarkly-metric-choose",
+      "description": "Choose the right metrics for a LaunchDarkly experiment, guarded rollout, or release policy. Use when the user wants to know which metrics to use, which is the primary metric for an experiment, what guardrails to add, or which events to monitor in a rollout. Surfaces what will auto-attach from existi",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-metric-choose",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/metrics/launchdarkly-metric-choose"
+    },
+    {
+      "name": "launchdarkly-metric-create",
+      "description": "Create a LaunchDarkly metric that measures what matters for an experiment or rollout. Use when the user wants to create a metric, track an event, measure page views, button clicks, conversion, latency, error rate, or any custom numeric or binary outcome. Instruments the event first when needed (incl",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-metric-create",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/metrics/launchdarkly-metric-create"
+    },
+    {
+      "name": "launchdarkly-metric-instrument",
+      "description": "Instrument a LaunchDarkly metric event in a codebase by adding a track() call. Use when the user wants to wire up an event, instrument an action for a metric, add tracking to a feature, or confirm that an event is flowing to LaunchDarkly.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "launchdarkly-metric-instrument",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/metrics/launchdarkly-metric-instrument"
+    },
+    {
+      "name": "mcp-configure",
+      "description": "Configure the LaunchDarkly hosted MCP server during onboarding. Use when the parent LaunchDarkly onboarding skill reaches Step 4 (MCP). Supports Cursor, Claude Code, Windsurf, GitHub Copilot, and other MCP-compatible agents. OAuth authentication; no API keys for the hosted server.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "mcp-configure",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/onboarding/mcp-configure"
+    },
+    {
+      "name": "migrate",
+      "description": "Migrate an application with hardcoded LLM prompts to a full LaunchDarkly AgentControl implementation in five stages: audit the code, wrap the call, move the tools, add tracking, attach evaluators. Use when the user wants to externalize model/prompt configuration, move from direct provider calls (Ope",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "migrate",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/migrate"
+    },
+    {
+      "name": "onboarding",
+      "description": "Onboard a project to LaunchDarkly: kickoff roadmap, resumable log, explore repo, MCP, companion flag skills, nested SDK install (detect/plan/apply), first flag. Use when adding LaunchDarkly, setting up or integrating feature flags in a project, SDK integration, or 'onboard me'.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "onboarding",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/onboarding"
+    },
+    {
+      "name": "online-evals",
+      "description": "Attach judges to config variations for automatic LLM-as-a-judge evaluation. Create custom judges, configure sampling rates, and monitor quality scores.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "online-evals",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/online-evals"
+    },
+    {
+      "name": "plan",
+      "description": "Generate a minimal LaunchDarkly SDK integration plan from detected stack: choose SDK type(s), dual-SDK server+client when required, files to change, env conventions. Nested under sdk-install; follows detect, precedes apply.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "plan",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/onboarding/sdk-install/plan"
+    },
+    {
+      "name": "projects",
+      "description": "Guide for setting up LaunchDarkly projects in your codebase. Helps you assess your stack, choose the right approach, and integrate project management that makes sense for your architecture.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "projects",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/projects"
+    },
+    {
+      "name": "sdk-install",
+      "description": "Install and initialize the correct LaunchDarkly SDK during onboarding by running nested skills in order: detect, plan, apply. Parent onboarding Step 6 is first flag.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "sdk-install",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/onboarding/sdk-install"
+    },
+    {
+      "name": "should-flag-change",
+      "description": "Decide whether a given code change should be placed behind a LaunchDarkly feature flag. Use when a developer asks whether a change should be behind a flag, when reviewing a diff or pull request, or when running in CI on a PR. Reads the diff and surrounding code, then emits a structured advisory reco",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "should-flag-change",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/feature-flags/should-flag-change"
+    },
+    {
+      "name": "snippets",
+      "description": "Create and manage prompt snippets — reusable text blocks referenced inside config variation prompts. Keeps common instructions, personas, and guardrails consistent across multiple configs.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "snippets",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/snippets"
+    },
+    {
+      "name": "tools",
+      "description": "Give your agents capabilities through tools (function calling). Helps you identify what your agent needs to do, create tool definitions, and attach them to config variations.",
+      "source": "launchdarkly/ai-tooling#b583340d6ea1d3be1daa666c4272e6cc817e5812",
+      "skill": "tools",
+      "url": "https://github.com/launchdarkly/ai-tooling/tree/b583340d6ea1d3be1daa666c4272e6cc817e5812/skills/agentcontrol/tools"
+    }
+  ]
 }

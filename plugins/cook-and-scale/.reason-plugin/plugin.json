@@ -1,0 +1,13 @@
+{
+  "name": "cook-and-scale",
+  "displayName": "Cook and Scale",
+  "description": "Your recipes, saved and shared.",
+  "homepage": "https://cookandscale.com",
+  "docs": "https://cookandscale.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cook-and-scale": {
+      "url": "https://cookandscale.com/mcp"
+    }
+  }
+}

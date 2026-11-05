@@ -1,0 +1,13 @@
+{
+  "name": "knotr",
+  "displayName": "Knotr",
+  "description": "Profile, skills, and notes.",
+  "homepage": "https://knotr.ai",
+  "docs": "https://knotr.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "knotr": {
+      "url": "https://knotr.ai/mcp/v1"
+    }
+  }
+}

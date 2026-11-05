@@ -1,0 +1,13 @@
+{
+  "name": "pandadoc",
+  "displayName": "PandaDoc",
+  "description": "Send documents for signature.",
+  "homepage": "https://www.pandadoc.com/",
+  "docs": "https://mcp.pandadoc.com/.well-known/oauth-protected-resource/v1/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "pandadoc": {
+      "url": "https://mcp.pandadoc.com/v1/mcp"
+    }
+  }
+}

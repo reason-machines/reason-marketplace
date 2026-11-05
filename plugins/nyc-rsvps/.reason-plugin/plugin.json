@@ -1,0 +1,13 @@
+{
+  "name": "nyc-rsvps",
+  "displayName": "NYC RSVPs",
+  "description": "When NYC tables open.",
+  "homepage": "https://www.nycrsvps.com",
+  "docs": "https://www.nycrsvps.com/chatgpt-claude-app",
+  "auth": "none",
+  "mcpServers": {
+    "nyc-rsvps": {
+      "url": "https://nyc-rsvps-mcp-app-v2-8003af7e.alpic.live/mcp"
+    }
+  }
+}

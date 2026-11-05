@@ -1,0 +1,13 @@
+{
+  "name": "book-direct",
+  "displayName": "Book Direct",
+  "description": "No commission deals for hotels.",
+  "homepage": "https://app.book-direct.co/",
+  "docs": "https://app.book-direct.co/",
+  "auth": "none",
+  "mcpServers": {
+    "book-direct": {
+      "url": "https://app.book-direct.co/mcp"
+    }
+  }
+}

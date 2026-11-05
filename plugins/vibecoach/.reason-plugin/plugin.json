@@ -1,0 +1,13 @@
+{
+  "name": "vibecoach",
+  "displayName": "vibeCoach",
+  "description": "Practice talking out loud.",
+  "homepage": "https://tryvibecoach.com",
+  "docs": "https://tryvibecoach.com",
+  "auth": "none",
+  "mcpServers": {
+    "vibecoach": {
+      "url": "https://tryvibecoach.com/mcp"
+    }
+  }
+}

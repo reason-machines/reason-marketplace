@@ -1,0 +1,13 @@
+{
+  "name": "propfacil",
+  "displayName": "PropFácil",
+  "description": "Explora y contacta inmuebles.",
+  "homepage": "https://www.propfacil.com",
+  "docs": "https://propfacil.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "propfacil": {
+      "url": "https://propfacil.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "giving-compass",
+  "displayName": "Giving Compass",
+  "description": "Research U.S. nonprofits.",
+  "homepage": "https://givingcompass.org/mcp-setup",
+  "docs": "https://givingcompass.org/mcp-setup",
+  "auth": "oauth",
+  "mcpServers": {
+    "giving-compass": {
+      "url": "https://mcp.givingcompass.org/mcp"
+    }
+  }
+}

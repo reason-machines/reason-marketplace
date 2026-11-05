@@ -1,0 +1,13 @@
+{
+  "name": "wp-agent",
+  "displayName": "WP Agent",
+  "description": "Blog & run WordPress with AI.",
+  "homepage": "https://www.getwpagent.com",
+  "docs": "https://www.getwpagent.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "wp-agent": {
+      "url": "https://mcp.getwpagent.com/mcp"
+    }
+  }
+}

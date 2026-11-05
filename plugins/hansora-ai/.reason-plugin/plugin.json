@@ -1,0 +1,13 @@
+{
+  "name": "hansora-ai",
+  "displayName": "Hansora AI",
+  "description": "Generate images, video & audio.",
+  "homepage": "https://hansora.co",
+  "docs": "https://hansora.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "hansora-ai": {
+      "url": "https://hansora.co/mcp"
+    }
+  }
+}

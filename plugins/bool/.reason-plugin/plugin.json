@@ -1,0 +1,13 @@
+{
+  "name": "bool",
+  "displayName": "Bool",
+  "description": "Make your own apps and tools.",
+  "homepage": "https://bool.com",
+  "docs": "https://bool.com/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "bool": {
+      "url": "https://bool.com/api/mcp"
+    }
+  }
+}

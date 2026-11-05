@@ -1,0 +1,13 @@
+{
+  "name": "crbonfree",
+  "displayName": "Crbonfree",
+  "description": "Estimate and offset CO2.",
+  "homepage": "https://www.crbonfree.com/",
+  "docs": "https://crbonfree.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "crbonfree": {
+      "url": "https://api.crbonfree.com/mcp"
+    }
+  }
+}

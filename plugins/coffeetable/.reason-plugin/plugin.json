@@ -1,0 +1,13 @@
+{
+  "name": "coffeetable",
+  "displayName": "Coffeetable",
+  "description": "Find your next book.",
+  "homepage": "https://coffeetable.kushalsm.com",
+  "docs": "https://coffeetable.kushalsm.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "coffeetable": {
+      "url": "https://coffeetable.kushalsm.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "izifete",
+  "displayName": "Izifete",
+  "description": "Find event vendors nearby.",
+  "homepage": "https://izifete.fr",
+  "docs": "https://izifete.fr/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "izifete": {
+      "url": "https://izifete.fr/mcp/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bubble",
+  "displayName": "Bubble",
+  "description": "Build and edit Bubble apps.",
+  "homepage": "https://bubble.io",
+  "docs": "https://bubble.io",
+  "auth": "oauth",
+  "mcpServers": {
+    "bubble": {
+      "url": "https://mcp.bubble.io/mcp"
+    }
+  }
+}

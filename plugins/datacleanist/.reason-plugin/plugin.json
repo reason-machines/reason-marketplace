@@ -1,0 +1,13 @@
+{
+  "name": "datacleanist",
+  "displayName": "DataCleanist",
+  "description": "EDA reports for your datasets.",
+  "homepage": "https://www.datacleanist.com",
+  "docs": "https://www.datacleanist.com",
+  "auth": "none",
+  "mcpServers": {
+    "datacleanist": {
+      "url": "https://api.datacleanist.com/mcp"
+    }
+  }
+}

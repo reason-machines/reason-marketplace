@@ -1,0 +1,13 @@
+{
+  "name": "hologrow",
+  "displayName": "Hologrow",
+  "description": "Analyze your e-commerce data.",
+  "homepage": "https://hologrow.ai/",
+  "docs": "https://hologrow.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hologrow": {
+      "url": "https://mcp.hologrow.ai/mcp"
+    }
+  }
+}

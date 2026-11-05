@@ -1,0 +1,13 @@
+{
+  "name": "chiho-ai",
+  "displayName": "Chiho AI",
+  "description": "Unofficial Telegram CRM.",
+  "homepage": "https://www.chiho.ai",
+  "docs": "https://www.chiho.ai/blog/telegram-for-ai-agents",
+  "auth": "oauth",
+  "mcpServers": {
+    "chiho-ai": {
+      "url": "https://api.chiho.ai/mcp"
+    }
+  }
+}

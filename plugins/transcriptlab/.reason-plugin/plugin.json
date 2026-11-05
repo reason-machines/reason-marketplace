@@ -1,0 +1,13 @@
+{
+  "name": "transcriptlab",
+  "displayName": "TranscriptLab",
+  "description": "YouTube + audio transcripts.",
+  "homepage": "https://transcriptlab.dev",
+  "docs": "https://transcriptlab.dev/docs/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "transcriptlab": {
+      "url": "https://api.transcriptlab.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nobrainrot",
+  "displayName": "Nobrainrot",
+  "description": "Check your brain rot level.",
+  "homepage": "https://nobrainrot.com",
+  "docs": "https://nobrainrot.com",
+  "auth": "none",
+  "mcpServers": {
+    "nobrainrot": {
+      "url": "https://mcp.nobrainrot.com/mcp"
+    }
+  }
+}

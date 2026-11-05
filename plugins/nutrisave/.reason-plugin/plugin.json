@@ -1,0 +1,13 @@
+{
+  "name": "nutrisave",
+  "displayName": "NutriSave",
+  "description": "Piani alimentari e ricette.",
+  "homepage": "https://nutri-save.vercel.app",
+  "docs": "https://nutri-save.vercel.app",
+  "auth": "none",
+  "mcpServers": {
+    "nutrisave": {
+      "url": "https://nutri-save.vercel.app/mcp"
+    }
+  }
+}

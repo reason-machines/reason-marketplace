@@ -1,0 +1,13 @@
+{
+  "name": "thailand-dive-map",
+  "displayName": "Thailand Dive Map",
+  "description": "Thai dive shops & liveaboards.",
+  "homepage": "https://thailanddivemap.com/about/plugin",
+  "docs": "https://thailanddivemap.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "thailand-dive-map": {
+      "url": "https://api.thailanddivemap.com/mcp"
+    }
+  }
+}

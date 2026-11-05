@@ -1,0 +1,13 @@
+{
+  "name": "local-commander",
+  "displayName": "Local Commander",
+  "description": "Work on your Windows computer.",
+  "homepage": "https://localcmd.app/",
+  "docs": "https://localcmd.app/",
+  "auth": "oauth",
+  "mcpServers": {
+    "local-commander": {
+      "url": "https://localcmd.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mercury-jets",
+  "displayName": "Mercury Jets",
+  "description": "Find private jet charter quote.",
+  "homepage": "https://www.mercuryjets.com/",
+  "docs": "https://www.mercuryjets.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "mercury-jets": {
+      "url": "https://mcp.mercuryjets.com/mcp"
+    }
+  }
+}

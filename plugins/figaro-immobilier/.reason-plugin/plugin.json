@@ -1,0 +1,13 @@
+{
+  "name": "figaro-immobilier",
+  "displayName": "Figaro Immobilier",
+  "description": "Find the ideal property.",
+  "homepage": "https://immobilier.lefigaro.fr/",
+  "docs": "https://immobilier.lefigaro.fr/",
+  "auth": "none",
+  "mcpServers": {
+    "figaro-immobilier": {
+      "url": "https://immobilier.lefigaro.fr/mcp"
+    }
+  }
+}

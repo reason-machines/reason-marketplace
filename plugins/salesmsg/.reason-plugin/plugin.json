@@ -1,0 +1,13 @@
+{
+  "name": "salesmsg",
+  "displayName": "Salesmsg",
+  "description": "Business texting in Reason.",
+  "homepage": "https://www.salesmessage.com/",
+  "docs": "https://www.salesmessage.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "salesmsg": {
+      "url": "https://mcp.salesmessage.com/"
+    }
+  }
+}

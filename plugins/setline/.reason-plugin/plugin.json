@@ -1,0 +1,13 @@
+{
+  "name": "setline",
+  "displayName": "Setline",
+  "description": "Find festival lineups.",
+  "homepage": "https://setlineapp.com",
+  "docs": "https://setlineapp.com",
+  "auth": "none",
+  "mcpServers": {
+    "setline": {
+      "url": "https://setlineapp.com/mcp"
+    }
+  }
+}

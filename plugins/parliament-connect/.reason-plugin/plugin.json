@@ -1,0 +1,13 @@
+{
+  "name": "parliament-connect",
+  "displayName": "Parliament Connect",
+  "description": "Search UK Parliament clips.",
+  "homepage": "https://parliamentconnect.com",
+  "docs": "https://parliamentconnect.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "parliament-connect": {
+      "url": "https://parliamentconnect.com/api/mcp"
+    }
+  }
+}

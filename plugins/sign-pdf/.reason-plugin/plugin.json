@@ -1,0 +1,13 @@
+{
+  "name": "sign-pdf",
+  "displayName": "Sign PDF",
+  "description": "Get documents signed.",
+  "homepage": "https://www.portant.co/agents/",
+  "docs": "https://www.portant.co/agents/",
+  "auth": "oauth",
+  "mcpServers": {
+    "sign-pdf": {
+      "url": "https://mcp.portant.co/mcp"
+    }
+  }
+}

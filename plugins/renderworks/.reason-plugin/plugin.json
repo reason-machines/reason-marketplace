@@ -1,0 +1,13 @@
+{
+  "name": "renderworks",
+  "displayName": "Render (renderworks.jp)",
+  "description": "Projects, schedules and tasks.",
+  "homepage": "https://www.renderworks.jp",
+  "docs": "https://www.renderworks.jp",
+  "auth": "oauth",
+  "mcpServers": {
+    "renderworks": {
+      "url": "https://renderworks.jp/mcp"
+    }
+  }
+}

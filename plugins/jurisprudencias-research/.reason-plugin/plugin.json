@@ -1,0 +1,13 @@
+{
+  "name": "jurisprudencias-research",
+  "displayName": "Jurisprudências.ai",
+  "description": "Brazilian case law research.",
+  "homepage": "https://jurisprudencias.ai",
+  "docs": "https://jurisprudencias.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "jurisprudencias-research": {
+      "url": "https://jurisprudencias.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "due-brand-deal-commercials",
+  "displayName": "DUE Brand Deal Commercials",
+  "description": "Check brand deal terms.",
+  "homepage": "https://brieftopaid.app/tools/brand-deal-checker",
+  "docs": "https://brieftopaid.app/tools/brand-deal-checker",
+  "auth": "oauth",
+  "mcpServers": {
+    "due-brand-deal-commercials": {
+      "url": "https://brieftopaid.app/mcp"
+    }
+  }
+}

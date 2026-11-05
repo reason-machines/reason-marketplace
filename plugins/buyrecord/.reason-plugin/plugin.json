@@ -1,0 +1,13 @@
+{
+  "name": "buyrecord",
+  "displayName": "BuyRecord",
+  "description": "Return facts before you buy.",
+  "homepage": "https://buyrecord.app",
+  "docs": "https://buyrecord.app/",
+  "auth": "none",
+  "mcpServers": {
+    "buyrecord": {
+      "url": "https://api.buyrecord.app/mcp"
+    }
+  }
+}

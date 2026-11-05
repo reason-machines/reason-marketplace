@@ -1,0 +1,13 @@
+{
+  "name": "cancel-my-sub",
+  "displayName": "Cancel My Sub",
+  "description": "Cancel subscriptions.",
+  "homepage": "https://cancelmysub.pages.dev",
+  "docs": "https://cancelmysub.pages.dev/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "cancel-my-sub": {
+      "url": "https://goodturn-mcp.pages.dev/cancelmysub/mcp"
+    }
+  }
+}

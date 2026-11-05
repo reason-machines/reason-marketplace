@@ -1,0 +1,13 @@
+{
+  "name": "direkto-app",
+  "displayName": "Direkto",
+  "description": "Find suppliers and get prices.",
+  "homepage": "https://direkto.org",
+  "docs": "https://direkto.org",
+  "auth": "none",
+  "mcpServers": {
+    "direkto-app": {
+      "url": "https://mcp.direkto.org/mcp"
+    }
+  }
+}

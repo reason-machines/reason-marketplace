@@ -1,0 +1,13 @@
+{
+  "name": "ai-app-readiness-checker",
+  "displayName": "AI App Readiness Checker",
+  "description": "Check AI App readiness.",
+  "homepage": "https://ai-app-readiness-checker.sidcraigau.workers.dev",
+  "docs": "https://ai-app-readiness-checker.sidcraigau.workers.dev",
+  "auth": "none",
+  "mcpServers": {
+    "ai-app-readiness-checker": {
+      "url": "https://ai-app-readiness-checker.sidcraigau.workers.dev/mcp"
+    }
+  }
+}

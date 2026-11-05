@@ -1,0 +1,13 @@
+{
+  "name": "website-auditor",
+  "displayName": "Website Auditor",
+  "description": "Audit sites and AI visibility.",
+  "homepage": "https://website-auditor.io",
+  "docs": "https://website-auditor.io",
+  "auth": "none",
+  "mcpServers": {
+    "website-auditor": {
+      "url": "https://mcp.website-auditor.io/mcp"
+    }
+  }
+}

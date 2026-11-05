@@ -1,0 +1,13 @@
+{
+  "name": "playout-video",
+  "displayName": "playout.video",
+  "description": "Run 24/7 live streams.",
+  "homepage": "https://playout.video",
+  "docs": "https://playout.video/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "playout-video": {
+      "url": "https://playout.video/api/mcp"
+    }
+  }
+}

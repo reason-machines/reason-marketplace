@@ -1,0 +1,13 @@
+{
+  "name": "esigna",
+  "displayName": "esigna",
+  "description": "Design your email signature.",
+  "homepage": "https://esigna.app",
+  "docs": "https://esigna.app",
+  "auth": "none",
+  "mcpServers": {
+    "esigna": {
+      "url": "https://esigna.app/mcp"
+    }
+  }
+}

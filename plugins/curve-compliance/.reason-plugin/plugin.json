@@ -1,0 +1,13 @@
+{
+  "name": "curve-compliance",
+  "displayName": "Curve Ad Tracking Check",
+  "description": "HIPAA-safe ad tracking checks.",
+  "homepage": "https://www.curvecompliance.com/chatgpt",
+  "docs": "https://www.curvecompliance.com/chatgpt",
+  "auth": "oauth",
+  "mcpServers": {
+    "curve-compliance": {
+      "url": "https://mcp.curvecompliance.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sofiastage-events",
+  "displayName": "SofiaStage Events",
+  "description": "Find Bulgarian cultural events.",
+  "homepage": "https://sofiastage.com/",
+  "docs": "https://sofiastage.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "sofiastage-events": {
+      "url": "https://api.sofiastage.com/mcp"
+    }
+  }
+}

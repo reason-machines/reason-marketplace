@@ -1,0 +1,13 @@
+{
+  "name": "remitly",
+  "displayName": "Remitly",
+  "description": "Plan and track transfers.",
+  "homepage": "https://www.remitly.com/",
+  "docs": "https://tedix.dev/apps/remitly/",
+  "auth": "none",
+  "mcpServers": {
+    "remitly": {
+      "url": "https://api.sierra.chat/chat/fiKQF58BmL5HCdwBmn5G6nFeM9kSoKWMZNLoDRD1b8Q/mcp/GPT-7-0-0"
+    }
+  }
+}

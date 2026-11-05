@@ -1,0 +1,13 @@
+{
+  "name": "forms-app-form-builder",
+  "displayName": "forms.app: Form Builder",
+  "description": "Create forms & analyze answers.",
+  "homepage": "https://forms.app",
+  "docs": "https://developers.forms.app/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "forms-app-form-builder": {
+      "url": "https://api.forms.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "towing-capacity-calculator",
+  "displayName": "Towing Capacity Calculator",
+  "description": "Check tow and payload limits.",
+  "homepage": "https://camptow.com/",
+  "docs": "https://camptow.com/",
+  "auth": "none",
+  "mcpServers": {
+    "towing-capacity-calculator": {
+      "url": "https://mcp.camptow.com/mcp"
+    }
+  }
+}

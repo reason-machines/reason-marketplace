@@ -1,0 +1,13 @@
+{
+  "name": "daily-leveling",
+  "displayName": "Daily Leveling",
+  "description": "Turn tasks into quests and XP.",
+  "homepage": "https://www.dailyleveling.app",
+  "docs": "https://www.dailyleveling.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "daily-leveling": {
+      "url": "https://dailyleveling.app/mcp"
+    }
+  }
+}

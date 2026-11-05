@@ -1,0 +1,13 @@
+{
+  "name": "outstand",
+  "displayName": "Outstand",
+  "description": "Manage your social media.",
+  "homepage": "https://www.outstand.so",
+  "docs": "https://www.outstand.so",
+  "auth": "oauth",
+  "mcpServers": {
+    "outstand": {
+      "url": "https://mcp.outstand.so/mcp"
+    }
+  }
+}

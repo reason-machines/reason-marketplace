@@ -1,0 +1,13 @@
+{
+  "name": "adoor",
+  "displayName": "ADoor",
+  "description": "Shared tables for your apps.",
+  "homepage": "https://adoor.halmoslabs.com",
+  "docs": "https://adoor.halmoslabs.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "adoor": {
+      "url": "https://app.adoor.run/mcp"
+    }
+  }
+}

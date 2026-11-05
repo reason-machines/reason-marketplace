@@ -1,0 +1,13 @@
+{
+  "name": "record-meeting",
+  "displayName": "Record Meeting AI Notetaker",
+  "description": "Meeting notes & transcripts.",
+  "homepage": "https://recordmeeting.com",
+  "docs": "https://api.recordmeeting.com/.well-known/oauth-protected-resource/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "record-meeting": {
+      "url": "https://api.recordmeeting.com/mcp"
+    }
+  }
+}

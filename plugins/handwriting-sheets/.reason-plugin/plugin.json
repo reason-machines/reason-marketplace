@@ -1,0 +1,13 @@
+{
+  "name": "handwriting-sheets",
+  "displayName": "Penline Handwriting Sheets",
+  "description": "Tracing sheets & lined paper.",
+  "homepage": "https://handwriting-sheets.zovo.one",
+  "docs": "https://handwriting-sheets.zovo.one/",
+  "auth": "none",
+  "mcpServers": {
+    "handwriting-sheets": {
+      "url": "https://handwriting-sheets.zovo.one/mcp"
+    }
+  }
+}

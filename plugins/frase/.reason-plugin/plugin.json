@@ -1,0 +1,13 @@
+{
+  "name": "frase",
+  "displayName": "Frase",
+  "description": "Research, write, optimize.",
+  "homepage": "https://www.frase.io/",
+  "docs": "https://frase.io/features/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "frase": {
+      "url": "https://next.frase.io/api/mcp"
+    }
+  }
+}

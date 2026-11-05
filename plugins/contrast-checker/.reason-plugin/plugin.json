@@ -1,0 +1,13 @@
+{
+  "name": "contrast-checker",
+  "displayName": "Zovo Palette Lab",
+  "description": "WCAG contrast & palettes.",
+  "homepage": "https://contrast-checker.zovo.one",
+  "docs": "https://contrast-checker.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "contrast-checker": {
+      "url": "https://contrast-checker.zovo.one/mcp"
+    }
+  }
+}

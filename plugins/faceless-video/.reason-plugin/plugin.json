@@ -1,0 +1,13 @@
+{
+  "name": "faceless-video",
+  "displayName": "Faceless.video",
+  "description": "Create a Faceless Channel.",
+  "homepage": "https://faceless.video",
+  "docs": "https://faceless.video/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "faceless-video": {
+      "url": "https://mcp.faceless.video/api/mcp"
+    }
+  }
+}

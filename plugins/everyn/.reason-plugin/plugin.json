@@ -1,0 +1,13 @@
+{
+  "name": "everyn",
+  "displayName": "Everyn",
+  "description": "Enrich datasets.",
+  "homepage": "https://www.everyn.ai/",
+  "docs": "https://www.everyn.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "everyn": {
+      "url": "https://mcp.everyn.ai/mcp"
+    }
+  }
+}

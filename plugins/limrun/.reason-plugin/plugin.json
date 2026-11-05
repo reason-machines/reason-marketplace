@@ -1,0 +1,13 @@
+{
+  "name": "limrun",
+  "displayName": "Limrun",
+  "description": "Test apps on cloud simulators.",
+  "homepage": "https://limrun.com",
+  "docs": "https://limrun.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "limrun": {
+      "url": "https://mcp.limrun.com/mcp"
+    }
+  }
+}

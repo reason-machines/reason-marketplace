@@ -1,0 +1,13 @@
+{
+  "name": "veradial",
+  "displayName": "VeraDial",
+  "description": "AI receptionist & voicemail.",
+  "homepage": "https://veradial.com",
+  "docs": "https://veradial.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "veradial": {
+      "url": "https://api.veradial.com/mcp"
+    }
+  }
+}

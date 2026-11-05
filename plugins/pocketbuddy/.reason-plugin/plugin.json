@@ -1,0 +1,13 @@
+{
+  "name": "pocketbuddy",
+  "displayName": "PocketBuddy",
+  "description": "Spending, budgets & net worth.",
+  "homepage": "https://pocketbuddy.org/chatgpt",
+  "docs": "https://pocketbuddy.org/chatgpt",
+  "auth": "none",
+  "mcpServers": {
+    "pocketbuddy": {
+      "url": "https://pocketbuddy.org/mcp"
+    }
+  }
+}

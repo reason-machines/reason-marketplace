@@ -1,0 +1,13 @@
+{
+  "name": "renoise",
+  "displayName": "Renoise",
+  "description": "Make AI videos and images.",
+  "homepage": "https://renoise.ai",
+  "docs": "https://renoise.ai/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "renoise": {
+      "url": "https://renoise.ai/api/public/mcp"
+    }
+  }
+}

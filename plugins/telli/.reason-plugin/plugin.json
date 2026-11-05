@@ -1,0 +1,13 @@
+{
+  "name": "telli",
+  "displayName": "telli",
+  "description": "Use telli through Charlie.",
+  "homepage": "https://www.telli.com",
+  "docs": "https://www.telli.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "telli": {
+      "url": "https://mcp.telli.com/mcp"
+    }
+  }
+}

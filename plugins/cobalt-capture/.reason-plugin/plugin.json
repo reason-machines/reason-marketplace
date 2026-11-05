@@ -1,0 +1,13 @@
+{
+  "name": "cobalt-capture",
+  "displayName": "Cobalt Capture",
+  "description": "Screenshot reviews to share.",
+  "homepage": "https://cobaltcapture.com",
+  "docs": "https://cobaltcapture.com",
+  "auth": "none",
+  "mcpServers": {
+    "cobalt-capture": {
+      "url": "https://cobaltcapture.com/mcp"
+    }
+  }
+}

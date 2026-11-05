@@ -1,0 +1,13 @@
+{
+  "name": "fablyn",
+  "displayName": "Fablyn",
+  "description": "Create videos and slides.",
+  "homepage": "https://fablyn.app",
+  "docs": "https://fablyn.app",
+  "auth": "oauth",
+  "mcpServers": {
+    "fablyn": {
+      "url": "https://fablyn.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fibery",
+  "displayName": "Fibery",
+  "description": "Build your modular workspace.",
+  "homepage": "https://fibery.com",
+  "docs": "https://fibery.com/features/mcp-server",
+  "auth": "oauth",
+  "mcpServers": {
+    "fibery": {
+      "url": "https://mcp.fibery.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "quote-before-pay",
+  "displayName": "Quote Before Pay",
+  "description": "Inspect the quote first.",
+  "homepage": "https://scriptmasterlabs.com",
+  "docs": "https://scriptmasterlabs.com",
+  "auth": "none",
+  "mcpServers": {
+    "quote-before-pay": {
+      "url": "https://scriptmasterlabs.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "seistream-blockchain-data",
+  "displayName": "Seistream Blockchain Data",
+  "description": "Explore Sei EVM & Cosmos data.",
+  "homepage": "https://seistream.app/",
+  "docs": "https://seistream.app/mcp",
+  "auth": "none",
+  "mcpServers": {
+    "seistream-blockchain-data": {
+      "url": "https://api.seistream.app/mcp"
+    }
+  }
+}

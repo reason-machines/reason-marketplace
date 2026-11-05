@@ -1,0 +1,13 @@
+{
+  "name": "jupiter-invoice",
+  "displayName": "Jupiter Invoice",
+  "description": "Create and send invoices.",
+  "homepage": "https://jupiterinvoice.com",
+  "docs": "https://jupiterinvoice.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "jupiter-invoice": {
+      "url": "https://jupiterinvoice.com/mcp"
+    }
+  }
+}

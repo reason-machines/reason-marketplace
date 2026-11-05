@@ -10,5 +10,42 @@
     "atlassian": {
       "url": "https://mcp.atlassian.com/v2/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "capture-tasks-from-meeting-notes",
+      "description": "Analyze meeting notes to find action items and create Jira tasks for assigned work. When an agent needs to: (1) Create Jira tasks or tickets from meeting notes, (2) Extract or find action items from notes or Confluence pages, (3) Parse meeting notes for assigned tasks, or (4) Analyze notes and gener",
+      "source": "atlassian/atlassian-mcp-server#37e57a78b1938a099d1dcffdfc5a61154068c15e",
+      "skill": "capture-tasks-from-meeting-notes",
+      "url": "https://github.com/atlassian/atlassian-mcp-server/tree/37e57a78b1938a099d1dcffdfc5a61154068c15e/skills/capture-tasks-from-meeting-notes"
+    },
+    {
+      "name": "generate-status-report",
+      "description": "Generate project status reports from Jira issues and publish to Confluence. When an agent needs to: (1) Create a status report for a project, (2) Summarize project progress or updates, (3) Generate weekly/daily reports from Jira, (4) Publish status summaries to Confluence, or (5) Analyze project blo",
+      "source": "atlassian/atlassian-mcp-server#37e57a78b1938a099d1dcffdfc5a61154068c15e",
+      "skill": "generate-status-report",
+      "url": "https://github.com/atlassian/atlassian-mcp-server/tree/37e57a78b1938a099d1dcffdfc5a61154068c15e/skills/generate-status-report"
+    },
+    {
+      "name": "jira-sprint-dashboard",
+      "description": "Create a visual Jira sprint dashboard from Jira project, space, sprint, board, filter, JQL, work item keys, or Jira URL data. Use when the user asks for a Jira sprint dashboard, standup dashboard, sprint review, delivery review, engineering manager dashboard, WIP review, planning view, closeout view",
+      "source": "atlassian/atlassian-mcp-server#37e57a78b1938a099d1dcffdfc5a61154068c15e",
+      "skill": "jira-sprint-dashboard",
+      "url": "https://github.com/atlassian/atlassian-mcp-server/tree/37e57a78b1938a099d1dcffdfc5a61154068c15e/skills/jira-sprint-dashboard"
+    },
+    {
+      "name": "search-company-knowledge",
+      "description": "Search across company knowledge bases (Confluence, Jira, internal docs) to find and explain internal concepts, processes, and technical details. When an agent needs to: (1) Find or search for information about systems, terminology, processes, deployment, authentication, infrastructure, architecture,",
+      "source": "atlassian/atlassian-mcp-server#37e57a78b1938a099d1dcffdfc5a61154068c15e",
+      "skill": "search-company-knowledge",
+      "url": "https://github.com/atlassian/atlassian-mcp-server/tree/37e57a78b1938a099d1dcffdfc5a61154068c15e/skills/search-company-knowledge"
+    },
+    {
+      "name": "spec-to-backlog",
+      "description": "Automatically convert Confluence specification documents into structured Jira backlogs with Epics and implementation tickets. When an agent needs to: (1) Create Jira tickets from a Confluence page, (2) Generate a backlog from a specification, (3) Break down a spec into implementation tasks, or (4) C",
+      "source": "atlassian/atlassian-mcp-server#37e57a78b1938a099d1dcffdfc5a61154068c15e",
+      "skill": "spec-to-backlog",
+      "url": "https://github.com/atlassian/atlassian-mcp-server/tree/37e57a78b1938a099d1dcffdfc5a61154068c15e/skills/spec-to-backlog"
+    }
+  ]
 }

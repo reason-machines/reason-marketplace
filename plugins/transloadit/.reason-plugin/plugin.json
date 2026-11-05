@@ -1,0 +1,13 @@
+{
+  "name": "transloadit",
+  "displayName": "Transloadit",
+  "description": "Encode, resize and transcribe.",
+  "homepage": "https://transloadit.com",
+  "docs": "https://transloadit.com/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "transloadit": {
+      "url": "https://api2.transloadit.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "toflow-ai",
+  "displayName": "toflow.ai",
+  "description": "Prospect, enrich, and outreach.",
+  "homepage": "https://toflow.ai/",
+  "docs": "https://toflow.ai/",
+  "auth": "oauth",
+  "mcpServers": {
+    "toflow-ai": {
+      "url": "https://mcp.toflow.ai/mcp"
+    }
+  }
+}

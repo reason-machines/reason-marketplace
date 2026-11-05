@@ -1,0 +1,13 @@
+{
+  "name": "ekklo",
+  "displayName": "Ekklo",
+  "description": "Coach workspace actions.",
+  "homepage": "https://www.ekklo.com/fr/mcp",
+  "docs": "https://www.ekklo.com/fr/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "ekklo": {
+      "url": "https://api.prod.ekklo.com/api/v1/mcp"
+    }
+  }
+}

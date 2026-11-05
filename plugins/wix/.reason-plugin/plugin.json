@@ -10,5 +10,56 @@
     "wix": {
       "url": "https://mcp.wix.com/mcp"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "wix-app",
+      "description": "Build and review Wix CLI app extensions — dashboard pages, modals, plugins, menu plugins, custom element widgets, Editor React components, site plugins, embedded scripts, backend APIs, backend events, service plugins, data collections, and App Market readiness. Use when building ANY feature or exten",
+      "source": "wix/skills#4aca3249a3c1a53190c3224ccf5c043cf4e1d590",
+      "skill": "wix-app",
+      "url": "https://github.com/wix/skills/tree/4aca3249a3c1a53190c3224ccf5c043cf4e1d590/skills/wix-app"
+    },
+    {
+      "name": "wix-design-system",
+      "description": "Wix Design System component reference. Use when building UI with @wix/design-system, choosing components, checking props and examples, or writing tests with component testkits. Triggers on \"what component\", \"how do I make\", \"WDS\", \"show me props\", \"testkit\", \"driver\", or component names like Button,",
+      "source": "wix/skills#4aca3249a3c1a53190c3224ccf5c043cf4e1d590",
+      "skill": "wix-design-system",
+      "url": "https://github.com/wix/skills/tree/4aca3249a3c1a53190c3224ccf5c043cf4e1d590/skills/wix-design-system"
+    },
+    {
+      "name": "wix-docs",
+      "description": "Look up the Wix API/SDK documentation to confirm an exact endpoint, HTTP method, request/response shape, field, enum, or error before writing Wix code — never guess a Wix API from memory. A lookup is a short flow: find the right page, then read it. Two ways: (1) plain `curl` (zero dependencies) — fi",
+      "source": "wix/skills#4aca3249a3c1a53190c3224ccf5c043cf4e1d590",
+      "skill": "wix-docs",
+      "url": "https://github.com/wix/skills/tree/4aca3249a3c1a53190c3224ccf5c043cf4e1d590/skills/wix-docs"
+    },
+    {
+      "name": "wix-headless-kit",
+      "description": "Build a Wix Headless site fast by wiring SHIPPED, verified @wix/sdk code instead of authoring the integration from recipes. Each Wix business vertical ships a typed, framework-agnostic React core (data layer returning plain DTOs, hooks, headless components) plus an Astro overlay (SSR pages with owne",
+      "source": "wix/skills#4aca3249a3c1a53190c3224ccf5c043cf4e1d590",
+      "skill": "wix-headless-kit",
+      "url": "https://github.com/wix/skills/tree/4aca3249a3c1a53190c3224ccf5c043cf4e1d590/skills/wix-headless-kit"
+    },
+    {
+      "name": "wix-headless-templates",
+      "description": "The shipped, verified code behind Wix Headless sites, one folder per Wix Business Solution: an online store, bookings, rentals, a blog, CMS collections, forms, members, events, restaurants, donations, pricing plans, a portfolio, an FAQ. Each ships a typed framework-agnostic data layer and stores ove",
+      "source": "wix/skills#4aca3249a3c1a53190c3224ccf5c043cf4e1d590",
+      "skill": "wix-headless-templates",
+      "url": "https://github.com/wix/skills/tree/4aca3249a3c1a53190c3224ccf5c043cf4e1d590/skills/wix-headless-templates"
+    },
+    {
+      "name": "wix-manage",
+      "description": "REST recipes to configure and manage a Wix site's business solutions — stores, bookings, donations, payments, CMS, and more. Open the matching recipe for the exact endpoint, method, and payload before calling — never guess a Wix API, never write Wix dashboard URL from memory. Routes to: automations,",
+      "source": "wix/skills#4aca3249a3c1a53190c3224ccf5c043cf4e1d590",
+      "skill": "wix-manage",
+      "url": "https://github.com/wix/skills/tree/4aca3249a3c1a53190c3224ccf5c043cf4e1d590/skills/wix-manage"
+    },
+    {
+      "name": "wix-readme",
+      "description": "What the Wix plugin holds and how to work with Wix through it: the flow the Wix MCP README returns, an index of the plugin's skills with what each does, and the Wix MCP tools with what each does. Use when the plugin was just installed or when the user asks what the Wix plugin can do or which skill o",
+      "source": "wix/skills#4aca3249a3c1a53190c3224ccf5c043cf4e1d590",
+      "skill": "wix-readme",
+      "url": "https://github.com/wix/skills/tree/4aca3249a3c1a53190c3224ccf5c043cf4e1d590/skills/wix-readme"
+    }
+  ]
 }

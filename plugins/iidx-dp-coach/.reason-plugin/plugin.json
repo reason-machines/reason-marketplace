@@ -1,0 +1,13 @@
+{
+  "name": "iidx-dp-coach",
+  "displayName": "IIDX DP Coach",
+  "description": "IIDX DP 실력 분석·연습곡 추천.",
+  "homepage": "https://iidx.in/",
+  "docs": "https://iidx.in/",
+  "auth": "none",
+  "mcpServers": {
+    "iidx-dp-coach": {
+      "url": "https://iidx.in/mcp"
+    }
+  }
+}

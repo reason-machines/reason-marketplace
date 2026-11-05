@@ -1,0 +1,13 @@
+{
+  "name": "sleek",
+  "displayName": "Sleek",
+  "description": "Generate mobile app designs.",
+  "homepage": "https://sleek.design",
+  "docs": "https://sleek.design/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "sleek": {
+      "url": "https://sleek.design/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "getitdone",
+  "displayName": "GetItDone",
+  "description": "Manage tasks and workspaces.",
+  "homepage": "https://nowgetitdone.com/",
+  "docs": "https://nowgetitdone.com/agent-setup/claude-code",
+  "auth": "oauth",
+  "mcpServers": {
+    "getitdone": {
+      "url": "https://app.nowgetitdone.com/api/mcp"
+    }
+  }
+}

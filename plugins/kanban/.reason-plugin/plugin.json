@@ -1,0 +1,13 @@
+{
+  "name": "kanban",
+  "displayName": "Kanban Board",
+  "description": "Visual task workflow board.",
+  "homepage": "https://safrow.com/mcp/kanban",
+  "docs": "https://safrow.com/mcp/kanban",
+  "auth": "none",
+  "mcpServers": {
+    "kanban": {
+      "url": "https://kanban.host.safrow.com/mcp"
+    }
+  }
+}

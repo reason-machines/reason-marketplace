@@ -1,0 +1,13 @@
+{
+  "name": "dinzo",
+  "displayName": "Dinzo",
+  "description": "Personal finance for Brazil.",
+  "homepage": "https://dinzo.com.br",
+  "docs": "https://dinzo.com.br/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "dinzo": {
+      "url": "https://api.dinzo.com.br/mcp"
+    }
+  }
+}

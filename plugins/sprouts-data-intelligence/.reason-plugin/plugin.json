@@ -1,0 +1,13 @@
+{
+  "name": "sprouts-data-intelligence",
+  "displayName": "Sprouts Data Intelligence",
+  "description": "Find. Enrich. Campaign.",
+  "homepage": "https://sprouts.ai/",
+  "docs": "https://sprouts.ai/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "sprouts-data-intelligence": {
+      "url": "https://claude.mcpsprouts.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cor",
+  "displayName": "COR",
+  "description": "Manage COR work.",
+  "homepage": "https://projectcor.com",
+  "docs": "https://projectcor.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "cor": {
+      "url": "https://mcp.projectcor.com/mcp"
+    }
+  }
+}

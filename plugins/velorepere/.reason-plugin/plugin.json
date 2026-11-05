@@ -1,0 +1,13 @@
+{
+  "name": "velorepere",
+  "displayName": "VéloRepère",
+  "description": "Find and compare bikes.",
+  "homepage": "https://velorepere.fr",
+  "docs": "https://velorepere.fr",
+  "auth": "none",
+  "mcpServers": {
+    "velorepere": {
+      "url": "https://mcp.velorepere.fr/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hogmatix",
+  "displayName": "Hogmatix",
+  "description": "Social media scheduling.",
+  "homepage": "https://hogmatix.com",
+  "docs": "https://hogmatix.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "hogmatix": {
+      "url": "https://hogmatix.com/mcp"
+    }
+  }
+}

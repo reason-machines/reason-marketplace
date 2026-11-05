@@ -1,0 +1,13 @@
+{
+  "name": "treehorn",
+  "displayName": "Treehorn",
+  "description": "Daily audio: news & learning.",
+  "homepage": "https://treehorn.app",
+  "docs": "https://treehorn.app",
+  "auth": "none",
+  "mcpServers": {
+    "treehorn": {
+      "url": "https://mcp.treehorn.app/mcp"
+    }
+  }
+}

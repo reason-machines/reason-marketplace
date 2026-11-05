@@ -1,0 +1,13 @@
+{
+  "name": "makeform",
+  "displayName": "Makeform",
+  "description": "Create and manage forms.",
+  "homepage": "https://www.makeform.ai",
+  "docs": "https://www.makeform.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "makeform": {
+      "url": "https://mcp.makeform.ai/mcp"
+    }
+  }
+}

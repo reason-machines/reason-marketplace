@@ -1,0 +1,13 @@
+{
+  "name": "hubpost",
+  "displayName": "HubPost",
+  "description": "Manage social media posts.",
+  "homepage": "https://hubpost.co/",
+  "docs": "https://hubpost.co/",
+  "auth": "oauth",
+  "mcpServers": {
+    "hubpost": {
+      "url": "https://mcp.hubpost.co/mcp"
+    }
+  }
+}

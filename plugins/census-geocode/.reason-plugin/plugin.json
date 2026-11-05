@@ -1,0 +1,13 @@
+{
+  "name": "census-geocode",
+  "displayName": "Zovo Address Geocoder",
+  "description": "US address lists to geography.",
+  "homepage": "https://census-geocode.zovo.one",
+  "docs": "https://census-geocode.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "census-geocode": {
+      "url": "https://census-geocode.zovo.one/mcp"
+    }
+  }
+}

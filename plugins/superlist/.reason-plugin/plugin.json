@@ -1,0 +1,13 @@
+{
+  "name": "superlist",
+  "displayName": "Superlist",
+  "description": "Manage tasks and lists.",
+  "homepage": "https://www.superlist.com",
+  "docs": "https://app.superlist.com/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "superlist": {
+      "url": "https://app.superlist.com/mcp"
+    }
+  }
+}

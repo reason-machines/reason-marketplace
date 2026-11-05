@@ -1,0 +1,13 @@
+{
+  "name": "marginedge",
+  "displayName": "MarginEdge",
+  "description": "Restaurant costs, sales & P&L.",
+  "homepage": "https://www.marginedge.com",
+  "docs": "https://www.marginedge.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "marginedge": {
+      "url": "https://mcp.marginedge.com/mcp"
+    }
+  }
+}

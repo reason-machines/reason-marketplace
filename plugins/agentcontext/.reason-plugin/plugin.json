@@ -1,0 +1,13 @@
+{
+  "name": "agentcontext",
+  "displayName": "AgentContext",
+  "description": "Business context for AI agents.",
+  "homepage": "https://www.fivetran.ai",
+  "docs": "https://api.fivetran.ai/.well-known/oauth-protected-resource",
+  "auth": "oauth",
+  "mcpServers": {
+    "agentcontext": {
+      "url": "https://api.fivetran.ai/mcp"
+    }
+  }
+}

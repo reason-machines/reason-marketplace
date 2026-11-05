@@ -1,0 +1,13 @@
+{
+  "name": "wonderworks",
+  "displayName": "WonderWorks",
+  "description": "Generate AI Videos & Media.",
+  "homepage": "https://wonderworksai.com/",
+  "docs": "https://wonderworksai.com/",
+  "auth": "oauth",
+  "mcpServers": {
+    "wonderworks": {
+      "url": "https://mcp.wonderworksai.com/"
+    }
+  }
+}

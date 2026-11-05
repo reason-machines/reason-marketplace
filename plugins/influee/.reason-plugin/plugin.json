@@ -1,0 +1,13 @@
+{
+  "name": "influee",
+  "displayName": "Influee",
+  "description": "Manage UGC creator campaigns.",
+  "homepage": "https://influee.co",
+  "docs": "https://influee.co",
+  "auth": "oauth",
+  "mcpServers": {
+    "influee": {
+      "url": "https://mcp.influee.co/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "the-ad-machine",
+  "displayName": "The Ad Machine",
+  "description": "Answer questions. Get an ad.",
+  "homepage": "https://ads.mikeauton.com/simple",
+  "docs": "https://ads.mikeauton.com/simple",
+  "auth": "none",
+  "mcpServers": {
+    "the-ad-machine": {
+      "url": "https://mcp.mikeauton.com/mcp"
+    }
+  }
+}

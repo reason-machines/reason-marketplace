@@ -1,0 +1,13 @@
+{
+  "name": "stocklens",
+  "displayName": "StockLens",
+  "description": "Stock picking intelligence.",
+  "homepage": "https://stocklens.com",
+  "docs": "https://stocklens.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "stocklens": {
+      "url": "https://mcp.stocklens.com/mcp"
+    }
+  }
+}

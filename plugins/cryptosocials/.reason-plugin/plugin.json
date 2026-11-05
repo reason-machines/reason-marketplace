@@ -1,0 +1,13 @@
+{
+  "name": "cryptosocials",
+  "displayName": "CryptoSocials",
+  "description": "Crypto X research for agents.",
+  "homepage": "https://cryptosocials.net",
+  "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=net.cryptosocials",
+  "auth": "oauth",
+  "mcpServers": {
+    "cryptosocials": {
+      "url": "https://api.cryptosocials.net/mcp"
+    }
+  }
+}

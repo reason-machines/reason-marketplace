@@ -1,0 +1,13 @@
+{
+  "name": "kickhollow",
+  "displayName": "Kickhollow Football",
+  "description": "High school football dynasty.",
+  "homepage": "https://kickhollow.ambientapp.ai",
+  "docs": "https://passlane.ambientapp.ai/docs",
+  "auth": "none",
+  "mcpServers": {
+    "kickhollow": {
+      "url": "https://passlane.ambientapp.ai/mcp/claude"
+    }
+  }
+}

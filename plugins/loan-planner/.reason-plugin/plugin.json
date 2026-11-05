@@ -1,0 +1,13 @@
+{
+  "name": "loan-planner",
+  "displayName": "Amortiza Loan Planner",
+  "description": "Mortgage & loan schedules.",
+  "homepage": "https://loan-planner.zovo.one",
+  "docs": "https://loan-planner.zovo.one",
+  "auth": "none",
+  "mcpServers": {
+    "loan-planner": {
+      "url": "https://loan-planner.zovo.one/mcp"
+    }
+  }
+}

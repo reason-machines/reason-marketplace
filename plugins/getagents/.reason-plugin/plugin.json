@@ -1,0 +1,13 @@
+{
+  "name": "getagents",
+  "displayName": "GetAgents",
+  "description": "AI marketing & sales agents.",
+  "homepage": "https://getagents.io/en/",
+  "docs": "https://getagents.io/en/",
+  "auth": "none",
+  "mcpServers": {
+    "getagents": {
+      "url": "https://getagents.io/mcp"
+    }
+  }
+}

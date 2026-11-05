@@ -1,0 +1,13 @@
+{
+  "name": "special-education-law",
+  "displayName": "Special Education Law",
+  "description": "Search special ed case law.",
+  "homepage": "https://specialedlaw.com",
+  "docs": "https://specialedlaw.com/llms.txt",
+  "auth": "oauth",
+  "mcpServers": {
+    "special-education-law": {
+      "url": "https://specialedlaw.com/api/mcp"
+    }
+  }
+}

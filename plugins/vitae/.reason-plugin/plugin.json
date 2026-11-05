@@ -1,0 +1,13 @@
+{
+  "name": "vitae",
+  "displayName": "Vitae",
+  "description": "Recruit with Vitae.",
+  "homepage": "https://vitae.ai",
+  "docs": "https://vitae.ai",
+  "auth": "oauth",
+  "mcpServers": {
+    "vitae": {
+      "url": "https://mcp.vitae.ai/mcp"
+    }
+  }
+}

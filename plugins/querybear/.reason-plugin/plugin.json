@@ -1,0 +1,13 @@
+{
+  "name": "querybear",
+  "displayName": "QueryBear",
+  "description": "Query Postgres, MySQL & SQLite.",
+  "homepage": "https://querybear.com",
+  "docs": "https://querybear.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "querybear": {
+      "url": "https://mcp.querybear.com/mcp"
+    }
+  }
+}

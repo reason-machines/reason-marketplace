@@ -1,0 +1,13 @@
+{
+  "name": "zollo",
+  "displayName": "ZOLLO",
+  "description": "Email campaigns and contacts.",
+  "homepage": "https://zollo.run/integrations/mcp",
+  "docs": "https://zollo.run/integrations/mcp",
+  "auth": "oauth",
+  "mcpServers": {
+    "zollo": {
+      "url": "https://mcp.zollo.run/mcp"
+    }
+  }
+}

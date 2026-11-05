@@ -1,0 +1,13 @@
+{
+  "name": "postsyncer",
+  "displayName": "PostSyncer",
+  "description": "Schedule social media posts.",
+  "homepage": "https://postsyncer.com",
+  "docs": "https://postsyncer.com",
+  "auth": "oauth",
+  "mcpServers": {
+    "postsyncer": {
+      "url": "https://postsyncer.com/mcp"
+    }
+  }
+}

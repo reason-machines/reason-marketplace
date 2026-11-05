@@ -1,0 +1,13 @@
+{
+  "name": "clipify",
+  "displayName": "Clipify",
+  "description": "Keep your stream alive.",
+  "homepage": "https://clipify.us",
+  "docs": "https://clipify.us",
+  "auth": "oauth",
+  "mcpServers": {
+    "clipify": {
+      "url": "https://clipify.us/mcp"
+    }
+  }
+}

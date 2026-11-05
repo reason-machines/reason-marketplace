@@ -1,0 +1,13 @@
+{
+  "name": "greenlit-books",
+  "displayName": "Is This AI Agent Safe?",
+  "description": "Safety verdicts on AI agents.",
+  "homepage": "https://greenlitbooks.com",
+  "docs": "https://greenlitbooks.com/llms.txt",
+  "auth": "none",
+  "mcpServers": {
+    "greenlit-books": {
+      "url": "https://greenlitbooks.com/api/mcp"
+    }
+  }
+}
