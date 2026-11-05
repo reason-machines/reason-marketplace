@@ -81,13 +81,6 @@
       "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
       "skill": "test-agent",
       "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/plugins/thunderphone-directory/skills/test-agent"
-    },
-    {
-      "name": "troubleshoot",
-      "description": "Find out why something in ThunderPhone is not working, from evidence: a number that does not ring through, a campaign that does not call, a webhook that does not arrive, or an agent that behaves wrongly. Use when someone reports a problem or asks for a person.",
-      "source": "thunderphone/skills#5fafdd0b06a06af5219929ab71e5b89b856ba007",
-      "skill": "troubleshoot",
-      "url": "https://github.com/thunderphone/skills/tree/5fafdd0b06a06af5219929ab71e5b89b856ba007/plugins/thunderphone-directory/skills/troubleshoot"
     }
   ]
 }
