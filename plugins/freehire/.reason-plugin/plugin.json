@@ -5,7 +5,7 @@
   "homepage": "https://freehire.me",
   "docs": "https://freehire.me/mcp",
   "logo": "logo.webp",
-  "auth": "none",
+  "auth": "oauth",
   "mcpServers": {
     "freehire": {
       "url": "https://freehire.me/api/v1/mcp"

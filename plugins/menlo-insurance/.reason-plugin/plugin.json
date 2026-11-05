@@ -5,7 +5,7 @@
   "homepage": "https://www.menloinsurance.com",
   "docs": "https://www.menloinsurance.com",
   "logo": "logo.webp",
-  "auth": "none",
+  "auth": "oauth",
   "mcpServers": {
     "menlo-insurance": {
       "url": "https://menloinsurance.com/mcp"

@@ -5,7 +5,7 @@
   "homepage": "https://floot.com",
   "docs": "https://github.com/floothq/mcp/tree/4152a20c3d9e1825f65ed34fa637574a12af5c71",
   "logo": "logo.png",
-  "auth": "none",
+  "auth": "oauth",
   "mcpServers": {
     "floot": {
       "url": "https://mcp.floot.com/mcp"
