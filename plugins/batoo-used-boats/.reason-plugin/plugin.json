@@ -4,6 +4,7 @@
   "description": "Find and compare used boats.",
   "homepage": "https://batoo.it",
   "docs": "https://batoo.it",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "batoo-used-boats": {

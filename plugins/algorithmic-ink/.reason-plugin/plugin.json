@@ -4,6 +4,7 @@
   "description": "Turn photos into vector art.",
   "homepage": "https://algorithmicink.ca",
   "docs": "https://algorithmicink.ca",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "algorithmic-ink": {

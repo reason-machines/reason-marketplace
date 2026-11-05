@@ -4,6 +4,7 @@
   "description": "Systemize your daily life.",
   "homepage": "https://axis.marcustut.me",
   "docs": "https://axis.marcustut.me/api/auth/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "axis": {

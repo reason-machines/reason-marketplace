@@ -4,6 +4,7 @@
   "description": "Documents from briefs and data.",
   "homepage": "https://autype.com/en",
   "docs": "https://autype.com/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "autype": {

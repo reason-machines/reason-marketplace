@@ -4,6 +4,7 @@
   "description": "Create classroom activities.",
   "homepage": "https://www.briskteaching.com",
   "docs": "https://www.briskteaching.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "brisk-teaching": {

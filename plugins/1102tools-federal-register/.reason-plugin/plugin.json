@@ -4,6 +4,7 @@
   "description": "Explore federal rulemaking.",
   "homepage": "https://1102tools.com",
   "docs": "https://1102tools.com/mcp/federal-register",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "1102tools-federal-register": {

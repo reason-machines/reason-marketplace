@@ -4,6 +4,7 @@
   "description": "Track spending and savings.",
   "homepage": "https://tedix.dev/apps/capycash/",
   "docs": "https://tedix.dev/apps/capycash/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "capycash": {

@@ -4,6 +4,7 @@
   "description": "Merge Tiles. Reach 2048.",
   "homepage": "https://2048.ainativekit.com",
   "docs": "https://2048.ainativekit.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "2048": {

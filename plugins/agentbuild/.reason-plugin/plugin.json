@@ -4,6 +4,7 @@
   "description": "Build and run your website.",
   "homepage": "https://agentbuild.it",
   "docs": "https://agentbuild.it/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentbuild": {

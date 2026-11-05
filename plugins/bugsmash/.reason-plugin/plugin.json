@@ -4,6 +4,7 @@
   "description": "Instant Feedback & Collab.",
   "homepage": "https://bugsmash.io/",
   "docs": "https://bugsmash.io/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bugsmash": {

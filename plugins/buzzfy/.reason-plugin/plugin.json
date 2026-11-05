@@ -4,6 +4,7 @@
   "description": "Manage your Instagram in chat.",
   "homepage": "https://buzzfy.co/llms.txt",
   "docs": "https://buzzfy.co/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buzzfy": {

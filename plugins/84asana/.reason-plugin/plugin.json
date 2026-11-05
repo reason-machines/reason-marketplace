@@ -4,6 +4,7 @@
   "description": "Classical yoga for beginners.",
   "homepage": "https://84asana.com",
   "docs": "https://84asana.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "84asana": {

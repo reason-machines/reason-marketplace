@@ -4,6 +4,7 @@
   "description": "Rentas en Puerto Vallarta.",
   "homepage": "https://ancuria.mx",
   "docs": "https://ancuria.mx",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ancuria-rentas-vallarta": {

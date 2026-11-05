@@ -4,6 +4,7 @@
   "description": "AI video, image & audio.",
   "homepage": "https://www.aicut.pro",
   "docs": "https://www.aicut.pro",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aicut": {

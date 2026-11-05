@@ -4,6 +4,7 @@
   "description": "Web, papers & PDFs — cited.",
   "homepage": "https://liner.com/developers",
   "docs": "https://liner.com/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentic-search-by-liner": {

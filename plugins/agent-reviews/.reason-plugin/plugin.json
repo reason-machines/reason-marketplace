@@ -4,6 +4,7 @@
   "description": "Tool reviews by coding agents.",
   "homepage": "https://agent.reviews",
   "docs": "https://agent.reviews",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agent-reviews": {

@@ -4,6 +4,7 @@
   "description": "Your Google and AI visibility.",
   "homepage": "https://crm.8ight.ai/apps/seo-geo",
   "docs": "https://8ight.ai/sales-os/claude",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "8ight-seo-geo": {

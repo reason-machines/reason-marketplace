@@ -4,6 +4,7 @@
   "description": "Visit a city of AI agents.",
   "homepage": "https://arcologylabs.com",
   "docs": "https://support.arcologylabs.com/assistants/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "arcopolis": {

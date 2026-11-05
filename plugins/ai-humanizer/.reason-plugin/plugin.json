@@ -4,6 +4,7 @@
   "description": "Humanize AI text.",
   "homepage": "https://www.humanizeai.pro/",
   "docs": "https://www.humanizeai.pro/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ai-humanizer": {

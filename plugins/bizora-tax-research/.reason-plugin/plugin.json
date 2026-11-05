@@ -4,6 +4,7 @@
   "description": "Research tax questions.",
   "homepage": "https://www.bizora.ai",
   "docs": "https://tedix.dev/apps/bizora-tax-research/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bizora-tax-research": {

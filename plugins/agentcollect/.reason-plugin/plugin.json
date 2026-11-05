@@ -4,6 +4,7 @@
   "description": "Ask your AR portfolio anything.",
   "homepage": "https://agentcollect.com",
   "docs": "https://agentcollect.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentcollect": {

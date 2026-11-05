@@ -4,6 +4,7 @@
   "description": "Radio jingles, just by asking.",
   "homepage": "https://www.aijinglemaker.com",
   "docs": "https://www.aijinglemaker.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ai-jingle-maker": {

@@ -4,6 +4,7 @@
   "description": "Tap your network in Reason.",
   "homepage": "https://www.4degrees.ai",
   "docs": "https://www.4degrees.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "4degrees": {

@@ -4,6 +4,7 @@
   "description": "Plan trips together.",
   "homepage": "https://awayfolk.app",
   "docs": "https://awayfolk.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "awayfolk": {

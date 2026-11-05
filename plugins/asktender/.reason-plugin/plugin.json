@@ -4,6 +4,7 @@
   "description": "Government tenders worldwide.",
   "homepage": "https://asktender.org/connector",
   "docs": "https://asktender.org/connector",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "asktender": {

@@ -4,6 +4,7 @@
   "description": "Explore jazz and music solos.",
   "homepage": "https://www.allsolos.com/",
   "docs": "https://www.allsolos.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "allsolos": {

@@ -4,6 +4,7 @@
   "description": "Gmail, PDF, YouTube, file help.",
   "homepage": "https://adinand.com",
   "docs": "https://adinand.com/connector",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "adinand-apps": {

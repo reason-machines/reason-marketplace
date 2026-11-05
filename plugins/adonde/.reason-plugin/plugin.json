@@ -4,6 +4,7 @@
   "description": "Plan and book real trips.",
   "homepage": "https://getadonde.com",
   "docs": "https://getadonde.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adonde": {

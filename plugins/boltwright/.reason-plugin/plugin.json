@@ -4,6 +4,7 @@
   "description": "Your commercial HVAC shop.",
   "homepage": "https://boltwright.com/mcp",
   "docs": "https://boltwright.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "boltwright": {

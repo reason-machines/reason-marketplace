@@ -4,6 +4,7 @@
   "description": "Shopify & WooCommerce checks.",
   "homepage": "https://aisalesassurance.com",
   "docs": "https://aisalesassurance.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ai-sales-assurance": {

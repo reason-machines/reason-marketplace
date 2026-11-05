@@ -4,6 +4,7 @@
   "description": "Manage your VTC fleet.",
   "homepage": "https://chauffeur-base.com",
   "docs": "https://chauffeur-base.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chauffeur-base": {

@@ -4,6 +4,7 @@
   "description": "Search, update, and prep deals.",
   "homepage": "https://affinity.co",
   "docs": "https://affinity.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "affinity": {

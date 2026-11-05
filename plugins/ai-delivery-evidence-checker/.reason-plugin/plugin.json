@@ -4,6 +4,7 @@
   "description": "Verify AI delivery evidence.",
   "homepage": "https://ai-delivery-evidence-checker.sidcraigau.workers.dev",
   "docs": "https://ai-delivery-evidence-checker.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ai-delivery-evidence-checker": {

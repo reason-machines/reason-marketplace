@@ -4,6 +4,7 @@
   "description": "How much will you have?",
   "homepage": "https://integrations.sh/olutely.com/amazingpensions-mcp/",
   "docs": "https://integrations.sh/olutely.com/amazingpensions-mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "amazingpensions": {

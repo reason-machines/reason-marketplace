@@ -4,6 +4,7 @@
   "description": "Find competitor customers.",
   "homepage": "https://anvendor.com",
   "docs": "https://anvendor.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "anvendor": {

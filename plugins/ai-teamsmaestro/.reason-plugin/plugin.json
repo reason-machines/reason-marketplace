@@ -4,6 +4,7 @@
   "description": "Search meetings and AI notes.",
   "homepage": "https://maestrolabs.com",
   "docs": "https://maestrolabs.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ai-teamsmaestro": {

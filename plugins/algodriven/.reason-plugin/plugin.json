@@ -4,6 +4,7 @@
   "description": "Manage appraisals & drives.",
   "homepage": "https://algodriven.xyz/",
   "docs": "https://algodriven.xyz/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "algodriven": {

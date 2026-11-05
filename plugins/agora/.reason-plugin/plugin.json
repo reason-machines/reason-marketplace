@@ -4,6 +4,7 @@
   "description": "Manage Agora agents and skills.",
   "homepage": "https://agoraintel.com",
   "docs": "https://agoraintel.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agora": {

@@ -4,6 +4,7 @@
   "description": "Find art with natural language.",
   "homepage": "https://artue.io",
   "docs": "https://artue.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "artue": {

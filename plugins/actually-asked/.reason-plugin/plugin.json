@@ -4,6 +4,7 @@
   "description": "Manage your website's FAQ.",
   "homepage": "https://actuallyasked.com",
   "docs": "https://actuallyasked.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "actually-asked": {

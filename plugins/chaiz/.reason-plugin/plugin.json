@@ -4,6 +4,7 @@
   "description": "Compare car warranty quotes.",
   "homepage": "https://www.chaiz.com",
   "docs": "https://www.chaiz.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chaiz": {

@@ -4,6 +4,7 @@
   "description": "Send & sign contracts in chat.",
   "homepage": "https://atlaswork.ai",
   "docs": "https://atlaswork.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atlas": {

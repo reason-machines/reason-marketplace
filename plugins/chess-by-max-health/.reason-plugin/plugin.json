@@ -4,6 +4,7 @@
   "description": "Play and analyze chess games.",
   "homepage": "https://chess.maxhealth.tech",
   "docs": "https://chess.maxhealth.tech",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chess-by-max-health": {

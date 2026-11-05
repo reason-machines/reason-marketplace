@@ -4,6 +4,7 @@
   "description": "Manage Jira and Confluence.",
   "homepage": "https://www.atlassian.com",
   "docs": "https://www.atlassian.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atlassian-rovo": {

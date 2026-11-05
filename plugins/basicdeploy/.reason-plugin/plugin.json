@@ -4,6 +4,7 @@
   "description": "Deploy apps from the chat.",
   "homepage": "https://basicdeploy.com",
   "docs": "https://basicdeploy.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "basicdeploy": {

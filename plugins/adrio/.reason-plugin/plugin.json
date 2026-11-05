@@ -4,6 +4,7 @@
   "description": "AI media buyer for Meta ads.",
   "homepage": "https://adrio.ai",
   "docs": "https://adrio.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adrio": {

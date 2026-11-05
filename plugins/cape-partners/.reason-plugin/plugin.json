@@ -4,6 +4,7 @@
   "description": "Find M&A targets and buyers.",
   "homepage": "https://www.capepartners.fr/",
   "docs": "https://www.capepartners.fr/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cape-partners": {

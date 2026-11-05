@@ -4,6 +4,7 @@
   "description": "Ads manager for Meta & Google.",
   "homepage": "https://adkit.so",
   "docs": "https://adkit.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ads-by-adkit-meta-and-google": {

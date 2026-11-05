@@ -4,6 +4,7 @@
   "description": "Send tasks to Buddy's Drafts.",
   "homepage": "https://buddydayplanner.com",
   "docs": "https://buddydayplanner.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buddydayplanner": {

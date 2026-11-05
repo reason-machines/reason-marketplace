@@ -4,6 +4,7 @@
   "description": "Share the check.",
   "homepage": "https://www.widget.olutely.com",
   "docs": "https://tedix.dev/apps/bill-splitter/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bill-splitter": {

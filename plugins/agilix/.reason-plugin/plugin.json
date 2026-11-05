@@ -4,6 +4,7 @@
   "description": "Dog-sport club classes.",
   "homepage": "https://agilix.dog/ai-assistants",
   "docs": "https://api.agilix.dog/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agilix": {

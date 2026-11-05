@@ -4,6 +4,7 @@
   "description": "Plan basketball practices.",
   "homepage": "https://www.basketball-assistant.com",
   "docs": "https://www.basketball-assistant.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "basketball-assistant": {

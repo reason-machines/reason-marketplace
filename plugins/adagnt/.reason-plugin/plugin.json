@@ -4,6 +4,7 @@
   "description": "Run ads in plain English.",
   "homepage": "https://adagnt.com",
   "docs": "https://adagnt.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adagnt": {

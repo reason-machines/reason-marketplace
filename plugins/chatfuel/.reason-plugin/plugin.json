@@ -4,6 +4,7 @@
   "description": "AI agents for customer chats.",
   "homepage": "https://chatfuel.com/llms.txt",
   "docs": "https://chatfuel.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chatfuel": {

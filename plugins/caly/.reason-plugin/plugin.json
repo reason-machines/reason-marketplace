@@ -4,6 +4,7 @@
   "description": "Book and manage meetings.",
   "homepage": "https://trycaly.com",
   "docs": "https://trycaly.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "caly": {

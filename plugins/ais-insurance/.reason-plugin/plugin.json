@@ -4,6 +4,7 @@
   "description": "Compare auto insurance quotes.",
   "homepage": "https://www.aisinsurance.com/",
   "docs": "https://tedix.dev/apps/ais-insurance/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ais-insurance": {

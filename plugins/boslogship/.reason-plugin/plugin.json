@@ -4,6 +4,7 @@
   "description": "Compare US parcel rates.",
   "homepage": "https://boslogship.com",
   "docs": "https://boslogship.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "boslogship": {

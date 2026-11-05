@@ -4,6 +4,7 @@
   "description": "Build a website chatbot.",
   "homepage": "https://www.chatbotgen.com",
   "docs": "https://chatbotgen.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chatbotgen": {

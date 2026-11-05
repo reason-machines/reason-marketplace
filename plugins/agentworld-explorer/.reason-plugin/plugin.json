@@ -4,6 +4,7 @@
   "description": "Live AI agent economy data.",
   "homepage": "https://agentworld.me",
   "docs": "https://agentworld.me",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agentworld-explorer": {

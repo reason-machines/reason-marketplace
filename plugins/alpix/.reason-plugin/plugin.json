@@ -4,6 +4,7 @@
   "description": "Draw pixel art on a shared can.",
   "homepage": "https://alpic.ai/",
   "docs": "https://alpic.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alpix": {

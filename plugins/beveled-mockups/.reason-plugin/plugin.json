@@ -4,6 +4,7 @@
   "description": "Screenshots to mockups.",
   "homepage": "https://beveled.app",
   "docs": "https://beveled.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "beveled-mockups": {

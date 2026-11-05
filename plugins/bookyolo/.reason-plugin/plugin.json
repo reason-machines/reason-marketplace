@@ -4,6 +4,7 @@
   "description": "Sanity Check Your Next Stay.",
   "homepage": "https://bookyolo.com/",
   "docs": "https://bookyolo.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bookyolo": {

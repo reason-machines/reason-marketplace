@@ -4,6 +4,7 @@
   "description": "Find Korean businesses.",
   "homepage": "https://boim.io/",
   "docs": "https://boim.io/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "boim-korea-businesses": {

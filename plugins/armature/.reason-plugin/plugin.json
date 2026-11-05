@@ -4,6 +4,7 @@
   "description": "Inspect MCP agent activity.",
   "homepage": "https://armature.tech/",
   "docs": "https://armature.tech/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "armature": {

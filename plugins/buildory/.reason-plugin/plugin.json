@@ -4,6 +4,7 @@
   "description": "Manage your maker projects.",
   "homepage": "https://buildory.app/",
   "docs": "https://buildory.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buildory": {

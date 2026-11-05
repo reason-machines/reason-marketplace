@@ -4,6 +4,7 @@
   "description": "Search and book whole trips.",
   "homepage": "https://www.autonomad.ai",
   "docs": "https://www.autonomad.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "autonomad": {

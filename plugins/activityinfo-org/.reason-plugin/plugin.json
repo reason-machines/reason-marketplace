@@ -4,6 +4,7 @@
   "description": "Connect to your databases.",
   "homepage": "https://www.activityinfo.org",
   "docs": "https://www.activityinfo.org",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "activityinfo-org": {

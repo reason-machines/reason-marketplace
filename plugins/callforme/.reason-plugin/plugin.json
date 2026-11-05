@@ -4,6 +4,7 @@
   "description": "Your agent calls businesses.",
   "homepage": "https://callforme.tel",
   "docs": "https://callforme.tel",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "callforme": {

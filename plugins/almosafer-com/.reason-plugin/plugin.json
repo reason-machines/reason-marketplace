@@ -4,6 +4,7 @@
   "description": "Find flights, hotels and more.",
   "homepage": "https://www.almosafer.com/en",
   "docs": "https://www.almosafer.com/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "almosafer-com": {

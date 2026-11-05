@@ -4,6 +4,7 @@
   "description": "Belgian Annual Accounts.",
   "homepage": "https://nbb-mcp.be",
   "docs": "https://nbb-mcp.be",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "belgian-annual-accounts": {

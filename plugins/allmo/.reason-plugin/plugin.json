@@ -4,6 +4,7 @@
   "description": "Analyze AI search visibility.",
   "homepage": "https://allmo.ai/",
   "docs": "https://allmo.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "allmo": {

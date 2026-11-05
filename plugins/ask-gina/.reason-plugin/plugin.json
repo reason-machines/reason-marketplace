@@ -4,6 +4,7 @@
   "description": "Monitor crypto & predictions.",
   "homepage": "https://askgina.ai",
   "docs": "https://askgina.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ask-gina": {

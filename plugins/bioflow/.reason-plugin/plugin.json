@@ -4,6 +4,7 @@
   "description": "Manage your link-in-bio page.",
   "homepage": "https://getbioflow.com",
   "docs": "https://getbioflow.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bioflow": {

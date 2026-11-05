@@ -4,6 +4,7 @@
   "description": "Ask your database questions.",
   "homepage": "https://www.aifordatabase.com",
   "docs": "https://www.aifordatabase.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ai-for-database": {

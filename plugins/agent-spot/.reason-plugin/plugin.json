@@ -4,6 +4,7 @@
   "description": "Find and compare AI tools.",
   "homepage": "https://search.agent.spot",
   "docs": "https://search.agent.spot",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agent-spot": {

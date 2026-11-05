@@ -4,6 +4,7 @@
   "description": "Trade, PPI & company data.",
   "homepage": "https://badonion.co.kr",
   "docs": "https://badonion.co.kr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "badonion-data": {

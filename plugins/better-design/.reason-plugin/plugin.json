@@ -4,6 +4,7 @@
   "description": "A design harness for Reason.",
   "homepage": "https://better-design.com",
   "docs": "https://better-design.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "better-design": {

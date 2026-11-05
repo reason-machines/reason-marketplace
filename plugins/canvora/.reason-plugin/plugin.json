@@ -4,6 +4,7 @@
   "description": "Create on-brand visuals.",
   "homepage": "https://canvora.ai",
   "docs": "https://canvora.ai/integrations",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "canvora": {

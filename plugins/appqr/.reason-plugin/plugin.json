@@ -4,6 +4,7 @@
   "description": "Create app download links.",
   "homepage": "https://www.appqr.io",
   "docs": "https://appqr.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "appqr": {

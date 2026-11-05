@@ -4,6 +4,7 @@
   "description": "Book salons, spas and barbers.",
   "homepage": "https://bizblock.io/connect",
   "docs": "https://bizblock.io/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bizblock": {

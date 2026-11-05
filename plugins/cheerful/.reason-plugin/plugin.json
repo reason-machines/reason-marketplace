@@ -4,6 +4,7 @@
   "description": "Find creators, send outreach.",
   "homepage": "https://www.cheerful.ai",
   "docs": "https://www.cheerful.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cheerful": {

@@ -4,6 +4,7 @@
   "description": "Your tasks, notes and goals.",
   "homepage": "https://align.bnashsandbox.com",
   "docs": "https://align.bnashsandbox.com/.well-known/oauth-protected-resource/api/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "align-by-bnashsandbox": {

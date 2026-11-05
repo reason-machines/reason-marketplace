@@ -4,6 +4,7 @@
   "description": "Share files, apps, websites.",
   "homepage": "https://agentgrid.io/",
   "docs": "https://agentgrid.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentgrid-io-shared-drive": {

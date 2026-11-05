@@ -4,6 +4,7 @@
   "description": "Email, calendar, and to-dos.",
   "homepage": "https://get-alfred.ai",
   "docs": "https://get-alfred.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alfred": {

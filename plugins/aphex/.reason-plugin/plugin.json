@@ -4,6 +4,7 @@
   "description": "Talk to your construction data.",
   "homepage": "https://www.aphex.co/",
   "docs": "https://app.aphex.co/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aphex": {

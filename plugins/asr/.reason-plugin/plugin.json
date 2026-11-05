@@ -4,6 +4,7 @@
   "description": "Shared memory for AI tools.",
   "homepage": "https://asrmemory.com",
   "docs": "https://asrmemory.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "asr": {

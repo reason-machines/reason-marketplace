@@ -4,6 +4,7 @@
   "description": "Manage websites and bookings.",
   "homepage": "https://bunnyown.com",
   "docs": "https://bunnyown.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bunnyown": {

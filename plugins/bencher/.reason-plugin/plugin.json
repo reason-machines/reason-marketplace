@@ -4,6 +4,7 @@
   "description": "Continuous Benchmarking.",
   "homepage": "https://bencher.dev",
   "docs": "https://bencher.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bencher": {

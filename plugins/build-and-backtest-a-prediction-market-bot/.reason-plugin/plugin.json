@@ -4,6 +4,7 @@
   "description": "powered by TurbineFi.",
   "homepage": "https://www.turbinefi.com/docs/mcp",
   "docs": "https://www.turbinefi.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "build-and-backtest-a-prediction-market-bot": {

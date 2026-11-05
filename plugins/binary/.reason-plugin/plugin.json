@@ -4,6 +4,7 @@
   "description": "Manage hiring workflows.",
   "homepage": "https://binary.so",
   "docs": "https://binary.so/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "binary": {

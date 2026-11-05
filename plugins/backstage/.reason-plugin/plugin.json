@@ -4,6 +4,7 @@
   "description": "Find casting calls and jobs.",
   "homepage": "https://backstage.com",
   "docs": "https://backstage.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "backstage": {

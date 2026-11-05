@@ -4,6 +4,7 @@
   "description": "Email and AI discovery check.",
   "homepage": "https://astraverify.com",
   "docs": "https://astraverify.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "astraverify-domain-trust-check": {

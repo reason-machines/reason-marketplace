@@ -4,6 +4,7 @@
   "description": "Your money, and what's coming.",
   "homepage": "https://castworth.com",
   "docs": "https://castworth.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "castworth": {

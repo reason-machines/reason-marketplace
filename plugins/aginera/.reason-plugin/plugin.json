@@ -4,6 +4,7 @@
   "description": "Takeoffs from drawing sets.",
   "homepage": "https://aginera.ai/agents",
   "docs": "https://aginera.ai/agents",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aginera": {

@@ -4,6 +4,7 @@
   "description": "Plan northern lights viewing.",
   "homepage": "https://aurorareach.com/",
   "docs": "https://aurorareach.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aurorareach": {

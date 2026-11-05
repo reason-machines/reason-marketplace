@@ -4,6 +4,7 @@
   "description": "Run your flower shop's orders.",
   "homepage": "https://www.bouquetos.com",
   "docs": "https://www.bouquetos.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bouquetos": {

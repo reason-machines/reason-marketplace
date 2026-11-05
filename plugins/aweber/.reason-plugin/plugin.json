@@ -4,6 +4,7 @@
   "description": "Email marketing assistant.",
   "homepage": "https://aweber.com",
   "docs": "https://aweber.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aweber": {

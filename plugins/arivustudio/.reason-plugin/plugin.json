@@ -4,6 +4,7 @@
   "description": "Create video, music and voice.",
   "homepage": "https://arivulabs.ai",
   "docs": "https://docs.arivulabs.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "arivustudio": {

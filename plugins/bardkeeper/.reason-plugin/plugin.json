@@ -4,6 +4,7 @@
   "description": "Your campaign's memory.",
   "homepage": "https://bardkeeper.com",
   "docs": "https://bardkeeper.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bardkeeper": {

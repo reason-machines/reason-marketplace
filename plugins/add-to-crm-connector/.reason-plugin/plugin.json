@@ -4,6 +4,7 @@
   "description": "Find contacts, add to your CRM.",
   "homepage": "https://addtocrm.com",
   "docs": "https://addtocrm.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "add-to-crm-connector": {

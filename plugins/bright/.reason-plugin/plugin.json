@@ -4,6 +4,7 @@
   "description": "Evidence for AI progress.",
   "homepage": "https://brightaifuture.com",
   "docs": "https://brightaifuture.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bright": {

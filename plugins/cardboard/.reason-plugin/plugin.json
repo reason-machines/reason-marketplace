@@ -4,6 +4,7 @@
   "description": "Edit videos right in Reason.",
   "homepage": "https://www.cardboard.ai",
   "docs": "https://www.cardboard.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cardboard": {

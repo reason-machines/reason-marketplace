@@ -4,6 +4,7 @@
   "description": "A todo list AI can finish.",
   "homepage": "https://cherrynotes.app",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=app.cherrynotes",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cherry-notes": {

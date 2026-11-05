@@ -4,6 +4,7 @@
   "description": "Find baby names by letter.",
   "homepage": "https://boyorgirlnames.com",
   "docs": "https://boyorgirlnames.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "boy-or-girl-names": {

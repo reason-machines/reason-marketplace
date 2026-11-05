@@ -4,6 +4,7 @@
   "description": "Schedule and manage meetings.",
   "homepage": "https://cal.com",
   "docs": "https://cal.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cal-com": {

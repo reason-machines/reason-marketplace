@@ -4,6 +4,7 @@
   "description": "Build and manage websites.",
   "homepage": "https://onbrightsite.com",
   "docs": "https://onbrightsite.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "brightsite": {

@@ -4,6 +4,7 @@
   "description": "Analyze your marketing data.",
   "homepage": "https://catchr.io",
   "docs": "https://catchr.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "catchr": {

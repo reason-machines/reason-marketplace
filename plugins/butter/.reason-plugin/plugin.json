@@ -4,6 +4,7 @@
   "description": "Make editable videos.",
   "homepage": "https://www.butter.video",
   "docs": "https://butter.video/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "butter": {

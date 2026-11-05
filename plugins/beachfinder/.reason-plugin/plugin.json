@@ -4,6 +4,7 @@
   "description": "184,900 swim spots worldwide.",
   "homepage": "https://getbeachfinder.com",
   "docs": "https://getbeachfinder.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "beachfinder": {

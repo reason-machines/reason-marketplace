@@ -4,6 +4,7 @@
   "description": "Find the right credit card.",
   "homepage": "https://trycardwell.com",
   "docs": "https://tedix.dev/apps/cardwell-credit-card-picker/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cardwell-credit-card-picker": {

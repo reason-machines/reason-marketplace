@@ -4,6 +4,7 @@
   "description": "Plan your destination wedding.",
   "homepage": "https://aisle.wedding/",
   "docs": "https://aisle.wedding/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aisle": {

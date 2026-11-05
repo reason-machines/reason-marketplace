@@ -4,6 +4,7 @@
   "description": "The agent-native workspace.",
   "homepage": "https://caipi.ai",
   "docs": "https://caipi.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "caipi": {

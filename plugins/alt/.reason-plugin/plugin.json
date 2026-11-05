@@ -4,6 +4,7 @@
   "description": "Read and summarize your notes.",
   "homepage": "https://altalt.io/en",
   "docs": "https://altalt.io/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alt": {

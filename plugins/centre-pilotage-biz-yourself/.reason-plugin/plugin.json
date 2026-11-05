@@ -4,6 +4,7 @@
   "description": "Tes Coachs IA Biz Yourself.",
   "homepage": "https://biz-yourself-zone-genie.round-base-41e7.workers.dev/",
   "docs": "https://biz-yourself-zone-genie.round-base-41e7.workers.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "centre-pilotage-biz-yourself": {

@@ -4,6 +4,7 @@
   "description": "Check haircare ingredients.",
   "homepage": "https://app.hairqare.co/scanner",
   "docs": "https://app.hairqare.co/scanner",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "baely-hair-ingredient-checker": {

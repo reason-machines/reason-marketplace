@@ -4,6 +4,7 @@
   "description": "Search 3GPP specs and TDocs.",
   "homepage": "https://3gppscout.com/",
   "docs": "https://3gppscout.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "3gpp-scout": {

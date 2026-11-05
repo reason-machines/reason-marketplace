@@ -4,6 +4,7 @@
   "description": "Real-time crypto market data.",
   "homepage": "https://www.bybit.com/",
   "docs": "https://tedix.dev/apps/bybit/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bybit": {

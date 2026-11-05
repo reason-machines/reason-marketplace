@@ -4,6 +4,7 @@
   "description": "Create carousels for ACE.",
   "homepage": "https://quokka.software/",
   "docs": "https://quokka.software/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "carousel-creator": {

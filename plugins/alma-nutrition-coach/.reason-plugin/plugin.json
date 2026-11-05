@@ -4,6 +4,7 @@
   "description": "Find what your diet misses.",
   "homepage": "https://alma.food",
   "docs": "https://alma.food",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alma-nutrition-coach": {

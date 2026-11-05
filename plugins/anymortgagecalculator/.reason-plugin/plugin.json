@@ -4,6 +4,7 @@
   "description": "Helping you decide.",
   "homepage": "https://www.widget.olutely.com",
   "docs": "https://tedix.dev/apps/anymortgagecalculator/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "anymortgagecalculator": {

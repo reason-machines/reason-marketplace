@@ -4,6 +4,7 @@
   "description": "Domain research and history.",
   "homepage": "https://aiyucha.com/en",
   "docs": "https://aiyucha.com/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aiyucha-domain-intelligence": {

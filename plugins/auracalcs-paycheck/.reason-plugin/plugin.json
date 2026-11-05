@@ -4,6 +4,7 @@
   "description": "2026 paycheck and 1099 taxes.",
   "homepage": "https://auracalcs.com/",
   "docs": "https://auracalcs.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "auracalcs-paycheck": {

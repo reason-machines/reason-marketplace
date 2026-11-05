@@ -4,6 +4,7 @@
   "description": "Food tracking like Notes.",
   "homepage": "https://www.amyfoodjournal.com",
   "docs": "https://amyfoodjournal.com/connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "amy-food-journal": {

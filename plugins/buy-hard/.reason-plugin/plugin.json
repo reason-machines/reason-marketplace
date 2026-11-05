@@ -4,6 +4,7 @@
   "description": "Your business buying desk.",
   "homepage": "https://reliable-albatross-463.convex.site/",
   "docs": "https://reliable-albatross-463.convex.site/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buy-hard": {

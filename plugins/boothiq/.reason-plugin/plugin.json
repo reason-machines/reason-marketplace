@@ -4,6 +4,7 @@
   "description": "Ask about your event leads.",
   "homepage": "https://getboothiq.com",
   "docs": "https://getboothiq.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "boothiq": {

@@ -4,6 +4,7 @@
   "description": "Official rates for currencies.",
   "homepage": "https://allratestoday.com/mcp/",
   "docs": "https://allratestoday.com/mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "allratestoday": {

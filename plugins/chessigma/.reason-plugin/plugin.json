@@ -4,6 +4,7 @@
   "description": "Openings, puzzles, game facts.",
   "homepage": "https://www.chessigma.com",
   "docs": "https://chessigma.com/llms-full.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chessigma": {

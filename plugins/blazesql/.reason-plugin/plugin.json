@@ -4,6 +4,7 @@
   "description": "Query your SQL Database.",
   "homepage": "https://blazesql.com",
   "docs": "https://blazesql.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "blazesql": {

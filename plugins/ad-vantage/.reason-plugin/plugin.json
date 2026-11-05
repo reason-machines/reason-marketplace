@@ -4,6 +4,7 @@
   "description": "Research college athletics.",
   "homepage": "https://www.athleticdirectorvantage.com",
   "docs": "https://www.athleticdirectorvantage.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ad-vantage": {

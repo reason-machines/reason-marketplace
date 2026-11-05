@@ -4,6 +4,7 @@
   "description": "Classes, notes and due dates.",
   "homepage": "https://app.campus-os.net",
   "docs": "https://app.campus-os.net/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "campus-os": {

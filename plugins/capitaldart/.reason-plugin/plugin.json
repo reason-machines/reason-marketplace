@@ -4,6 +4,7 @@
   "description": "Find investors for your raise.",
   "homepage": "https://capitaldart.com",
   "docs": "https://capitaldart.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "capitaldart": {

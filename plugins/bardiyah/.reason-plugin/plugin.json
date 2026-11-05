@@ -4,6 +4,7 @@
   "description": "Manage ideas and video scripts.",
   "homepage": "https://bardiyah.com",
   "docs": "https://bardiyah.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bardiyah": {

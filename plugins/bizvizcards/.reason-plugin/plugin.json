@@ -4,6 +4,7 @@
   "description": "Manage business leads.",
   "homepage": "https://bizvizcards.com/",
   "docs": "https://bizvizcards.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bizvizcards": {

@@ -4,6 +4,7 @@
   "description": "Sales call scores and coaching.",
   "homepage": "https://adaptclose.com",
   "docs": "https://adaptclose.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adaptclose": {

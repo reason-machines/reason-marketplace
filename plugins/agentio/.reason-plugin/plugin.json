@@ -4,6 +4,7 @@
   "description": "Your Creator advertising data.",
   "homepage": "https://www.agentio.com/",
   "docs": "https://www.agentio.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentio": {

@@ -4,6 +4,7 @@
   "description": "Find life insurance options.",
   "homepage": "https://accuquote.com",
   "docs": "https://tedix.dev/apps/accuquote-life-insurance/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "accuquote-life-insurance": {

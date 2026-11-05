@@ -4,6 +4,7 @@
   "description": "AI-native bookkeeping & ledger.",
   "homepage": "https://briefcase.so",
   "docs": "https://briefcase.so/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "briefcase": {

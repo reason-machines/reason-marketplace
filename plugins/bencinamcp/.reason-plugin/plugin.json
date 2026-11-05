@@ -4,6 +4,7 @@
   "description": "Chile fuel monitor.",
   "homepage": "https://bencinachilemcp.kemenylabs.com/",
   "docs": "https://bencinachilemcp.kemenylabs.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bencinamcp": {

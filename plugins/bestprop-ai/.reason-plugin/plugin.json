@@ -4,6 +4,7 @@
   "description": "Published property research.",
   "homepage": "https://www.bestprop.ai",
   "docs": "https://www.bestprop.ai/connectors",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bestprop-ai": {

@@ -4,6 +4,7 @@
   "description": "A daily question in links.",
   "homepage": "https://breakroom.si",
   "docs": "https://breakroom.si",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "break-room": {

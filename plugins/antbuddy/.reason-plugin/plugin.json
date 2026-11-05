@@ -4,6 +4,7 @@
   "description": "Customer chats in one inbox.",
   "homepage": "https://www.antbuddy.com",
   "docs": "https://www.antbuddy.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "antbuddy": {

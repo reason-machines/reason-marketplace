@@ -4,6 +4,7 @@
   "description": "Abmahnung prüfen lassen.",
   "homepage": "https://abmahnexperte.de",
   "docs": "https://abmahnexperte.de/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "abmahnexperte": {

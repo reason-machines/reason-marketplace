@@ -4,6 +4,7 @@
   "description": "Write, fix and run SQL.",
   "homepage": "https://ai2sql.io",
   "docs": "https://ai2sql.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ai2sql-sql": {

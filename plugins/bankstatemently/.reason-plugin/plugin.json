@@ -4,6 +4,7 @@
   "description": "Convert bank statements.",
   "homepage": "https://bankstatemently.com/",
   "docs": "https://bankstatemently.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bankstatemently": {

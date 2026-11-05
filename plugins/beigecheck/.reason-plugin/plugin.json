@@ -4,6 +4,7 @@
   "description": "Your company's facts and voice.",
   "homepage": "https://www.beigecheck.com",
   "docs": "https://www.beigecheck.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beigecheck": {

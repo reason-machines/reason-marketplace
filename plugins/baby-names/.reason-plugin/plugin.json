@@ -4,6 +4,7 @@
   "description": "US baby name trends & finder.",
   "homepage": "https://baby-names.zovo.one",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.theluckystrike/baby-names",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "baby-names": {

@@ -4,6 +4,7 @@
   "description": "Save, find and plan with Albo.",
   "homepage": "https://albo.inc",
   "docs": "https://albo.inc",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "albo": {

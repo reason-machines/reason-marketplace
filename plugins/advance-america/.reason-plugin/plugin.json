@@ -4,6 +4,7 @@
   "description": "Find locations and services.",
   "homepage": "https://tedix.dev/apps/advance-america/",
   "docs": "https://tedix.dev/apps/advance-america/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "advance-america": {

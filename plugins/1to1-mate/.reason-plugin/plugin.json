@@ -4,6 +4,7 @@
   "description": "AI context for every 1:1.",
   "homepage": "https://1to1mate.com",
   "docs": "https://1to1mate.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "1to1-mate": {

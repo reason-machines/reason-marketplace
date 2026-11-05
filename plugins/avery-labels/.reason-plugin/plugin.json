@@ -4,6 +4,7 @@
   "description": "Address labels from any list.",
   "homepage": "https://avery-labels.zovo.one",
   "docs": "https://avery-labels.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "avery-labels": {

@@ -4,6 +4,7 @@
   "description": "Find live UK & CA deals.",
   "homepage": "https://buysignal.deals",
   "docs": "https://buysignal.deals",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "buysignal": {

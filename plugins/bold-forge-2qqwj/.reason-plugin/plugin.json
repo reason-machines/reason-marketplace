@@ -4,6 +4,7 @@
   "description": "Map markets and reach founders.",
   "homepage": "https://raylu.ai/",
   "docs": "https://raylu.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bold-forge-2qqwj": {

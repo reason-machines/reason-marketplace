@@ -4,6 +4,7 @@
   "description": "Pet photo to fun video clip.",
   "homepage": "https://boopreel.ambientapp.ai",
   "docs": "https://routeframe.ambientapp.ai/docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "boopreel": {

@@ -4,6 +4,7 @@
   "description": "Find in-stock items nearby.",
   "homepage": "https://aislesinventory.com",
   "docs": "https://aislesinventory.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aisles": {

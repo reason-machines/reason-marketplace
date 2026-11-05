@@ -4,6 +4,7 @@
   "description": "Search and read FPF Library.",
   "homepage": "https://aisystant.com/connect",
   "docs": "https://aisystant.com/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aisystant-open": {

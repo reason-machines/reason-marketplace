@@ -4,6 +4,7 @@
   "description": "A/B tests from your assistant.",
   "homepage": "https://abmeter.ai",
   "docs": "https://abmeter.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "abmeter": {

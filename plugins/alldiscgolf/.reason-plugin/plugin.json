@@ -4,6 +4,7 @@
   "description": "Compare disc golf prices.",
   "homepage": "https://alldiscgolf.com",
   "docs": "https://alldiscgolf.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "alldiscgolf": {

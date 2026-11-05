@@ -4,6 +4,7 @@
   "description": "Calls businesses for you.",
   "homepage": "https://call4.me",
   "docs": "https://call4.me",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "call4me": {

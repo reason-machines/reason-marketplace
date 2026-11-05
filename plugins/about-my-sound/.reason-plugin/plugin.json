@@ -4,6 +4,7 @@
   "description": "Music websites for artists.",
   "homepage": "https://aboutmysound.com",
   "docs": "https://aboutmysound.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "about-my-sound": {

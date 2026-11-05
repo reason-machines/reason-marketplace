@@ -4,6 +4,7 @@
   "description": "AI website builder & workspace.",
   "homepage": "https://apiway.ai",
   "docs": "https://apiway.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "apiway": {

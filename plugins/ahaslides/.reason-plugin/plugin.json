@@ -4,6 +4,7 @@
   "description": "Interactive slides & polls.",
   "homepage": "https://ahaslides.com",
   "docs": "https://ahaslides.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ahaslides": {

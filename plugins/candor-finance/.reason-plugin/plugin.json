@@ -4,6 +4,7 @@
   "description": "Your budget and money goals.",
   "homepage": "https://candor.money",
   "docs": "https://candor.money/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "candor-finance": {

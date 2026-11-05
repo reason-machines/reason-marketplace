@@ -4,6 +4,7 @@
   "description": "Find flights, hotels & tours.",
   "homepage": "https://breckenwander.com",
   "docs": "https://breckenwander.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "breckenwander-travel": {

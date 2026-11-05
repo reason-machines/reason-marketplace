@@ -4,6 +4,7 @@
   "description": "Buy gifts with a spending cap.",
   "homepage": "https://gifts.agnic.ai",
   "docs": "https://agnic.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agnic-gifts": {

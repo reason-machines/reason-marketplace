@@ -4,6 +4,7 @@
   "description": "Congress, Insiders & Whales.",
   "homepage": "https://alphayou.net/chatgpt",
   "docs": "https://alphayou.net/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "alphayou": {

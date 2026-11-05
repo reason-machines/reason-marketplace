@@ -4,6 +4,7 @@
   "description": "Manage leads and outreach.",
   "homepage": "https://www.automatedclientacquisition.com/mcp",
   "docs": "https://www.automatedclientacquisition.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aca": {

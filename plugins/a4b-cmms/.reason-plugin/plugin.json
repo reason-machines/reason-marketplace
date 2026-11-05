@@ -4,6 +4,7 @@
   "description": "Track assets and maintenance.",
   "homepage": "https://a4b.ai",
   "docs": "https://a4b.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "a4b-cmms": {

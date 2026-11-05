@@ -4,6 +4,7 @@
   "description": "AI Bookkeeping for Startups.",
   "homepage": "https://accountable.im",
   "docs": "https://accountable.im",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "accountable": {

@@ -4,6 +4,7 @@
   "description": "Create with Ava Studio.",
   "homepage": "https://avastudio.com",
   "docs": "https://avastudio.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "avastudio": {

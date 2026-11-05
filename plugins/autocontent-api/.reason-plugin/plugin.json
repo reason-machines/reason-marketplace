@@ -4,6 +4,7 @@
   "description": "Create and preview media.",
   "homepage": "https://autocontentapi.com",
   "docs": "https://autocontentapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "autocontent-api": {

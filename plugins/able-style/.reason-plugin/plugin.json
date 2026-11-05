@@ -4,6 +4,7 @@
   "description": "Fashion ideas for any weather.",
   "homepage": "https://able.style",
   "docs": "https://able.style",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "able-style": {

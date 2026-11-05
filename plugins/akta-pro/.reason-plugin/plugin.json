@@ -4,6 +4,7 @@
   "description": "Private company data & signals.",
   "homepage": "https://akta.pro",
   "docs": "https://akta.pro",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "akta-pro": {

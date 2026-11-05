@@ -4,6 +4,7 @@
   "description": "Video ads for your products.",
   "homepage": "https://www.adstar.ai",
   "docs": "https://www.adstar.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adstar": {

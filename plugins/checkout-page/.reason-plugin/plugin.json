@@ -4,6 +4,7 @@
   "description": "Tickets, memberships & forms.",
   "homepage": "https://checkoutpage.com",
   "docs": "https://checkoutpage.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "checkout-page": {

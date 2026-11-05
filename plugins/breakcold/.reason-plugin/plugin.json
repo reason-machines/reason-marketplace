@@ -4,6 +4,7 @@
   "description": "Manage your Breakcold CRM.",
   "homepage": "https://us.breakcold.com",
   "docs": "https://breakcold.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "breakcold": {

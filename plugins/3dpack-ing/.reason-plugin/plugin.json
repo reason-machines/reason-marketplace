@@ -4,6 +4,7 @@
   "description": "3D container & truck loading.",
   "homepage": "https://3dpack.ing",
   "docs": "https://3dpack.ing",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "3dpack-ing": {

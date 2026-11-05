@@ -4,6 +4,7 @@
   "description": "Cheaper flights and hotels.",
   "homepage": "https://helloaxel.com",
   "docs": "https://helloaxel.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "axel": {

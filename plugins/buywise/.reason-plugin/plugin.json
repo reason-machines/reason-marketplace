@@ -4,6 +4,7 @@
   "description": "Find best prices, real reviews.",
   "homepage": "https://deeplumen.shop",
   "docs": "https://deeplumen.shop",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "buywise": {

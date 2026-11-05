@@ -4,6 +4,7 @@
   "description": "Check your existing backlinks.",
   "homepage": "https://backlinksbeheer.nl/plugin/",
   "docs": "https://backlinksbeheer.nl/plugin/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "backlinksbeheer": {

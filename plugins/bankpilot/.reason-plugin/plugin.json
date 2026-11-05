@@ -4,6 +4,7 @@
   "description": "Recurring payment monitoring.",
   "homepage": "https://bankpilot.eu",
   "docs": "https://bankpilot.eu",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bankpilot": {

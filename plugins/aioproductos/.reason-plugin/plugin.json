@@ -4,6 +4,7 @@
   "description": "Product work on one record.",
   "homepage": "https://www.aioproductos.com/",
   "docs": "https://aioproductos.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aioproductos": {

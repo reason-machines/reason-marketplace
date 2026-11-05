@@ -4,6 +4,7 @@
   "description": "Shared tables for your apps.",
   "homepage": "https://adoor.halmoslabs.com",
   "docs": "https://adoor.halmoslabs.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adoor": {

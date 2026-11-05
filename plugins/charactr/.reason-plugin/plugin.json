@@ -4,6 +4,7 @@
   "description": "Create characters and stories.",
   "homepage": "https://www.character.app/",
   "docs": "https://www.character.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "charactr": {

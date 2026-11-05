@@ -4,6 +4,7 @@
   "description": "Finance answers, where you are.",
   "homepage": "https://developer.bill.com",
   "docs": "https://tedix.dev/apps/bill/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bill": {

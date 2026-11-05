@@ -4,6 +4,7 @@
   "description": "Read and update ledger books.",
   "homepage": "https://beanhub.io",
   "docs": "https://tedix.dev/apps/beanhub/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beanhub": {

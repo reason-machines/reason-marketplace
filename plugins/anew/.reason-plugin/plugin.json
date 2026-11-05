@@ -4,6 +4,7 @@
   "description": "free webpages.",
   "homepage": "https://anew.page",
   "docs": "https://anew.page",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "anew": {

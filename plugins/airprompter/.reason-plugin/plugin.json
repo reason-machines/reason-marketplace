@@ -4,6 +4,7 @@
   "description": "Use prompts and workflows.",
   "homepage": "https://airprompter.com",
   "docs": "https://airprompter.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "airprompter": {

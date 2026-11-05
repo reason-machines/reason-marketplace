@@ -4,6 +4,7 @@
   "description": "Find Mass times and churches.",
   "homepage": "https://catholicindex.org",
   "docs": "https://catholicindex.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "catholic-index": {

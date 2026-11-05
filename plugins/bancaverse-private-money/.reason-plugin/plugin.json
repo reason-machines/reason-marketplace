@@ -4,6 +4,7 @@
   "description": "Private money deal analyzer.",
   "homepage": "https://bancaverse.com",
   "docs": "https://bancaverse.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bancaverse-private-money": {

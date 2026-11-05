@@ -4,6 +4,7 @@
   "description": "Crypto trade-call analysis.",
   "homepage": "https://algovault.com",
   "docs": "https://algovault.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "algovault": {

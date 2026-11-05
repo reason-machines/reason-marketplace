@@ -4,6 +4,7 @@
   "description": "Create anime, manga & comics.",
   "homepage": "https://anifusion.ai/developers/api/",
   "docs": "https://anifusion.ai/developers/api/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "anifusion": {

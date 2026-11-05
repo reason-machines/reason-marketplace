@@ -4,6 +4,7 @@
   "description": "Print your art.",
   "homepage": "https://autoprintstudio.com/",
   "docs": "https://autoprintstudio.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "autoprint": {

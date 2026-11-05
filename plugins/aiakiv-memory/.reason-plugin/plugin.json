@@ -4,6 +4,7 @@
   "description": "Shared memory for AI agents.",
   "homepage": "https://www.aiakiv.com",
   "docs": "https://www.aiakiv.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aiakiv-memory": {

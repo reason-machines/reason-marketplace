@@ -4,6 +4,7 @@
   "description": "Your team’s Collaborative OS.",
   "homepage": "https://www.agentcron.ai",
   "docs": "https://api.agentcron.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentcron": {

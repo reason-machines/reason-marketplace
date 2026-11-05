@@ -4,6 +4,7 @@
   "description": "Cancel subscriptions.",
   "homepage": "https://cancelmysub.pages.dev",
   "docs": "https://cancelmysub.pages.dev/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cancel-my-sub": {

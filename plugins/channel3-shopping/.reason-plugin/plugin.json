@@ -4,6 +4,7 @@
   "description": "Shop products across the web.",
   "homepage": "https://trychannel3.com",
   "docs": "https://trychannel3.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "channel3-shopping": {

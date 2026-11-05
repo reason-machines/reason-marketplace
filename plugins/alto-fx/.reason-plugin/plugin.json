@@ -4,6 +4,7 @@
   "description": "FX rates and analysis.",
   "homepage": "https://altomarkets.co.uk/alto-ai/",
   "docs": "https://tedix.dev/apps/alto-fx/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alto-fx": {

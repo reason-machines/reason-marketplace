@@ -4,6 +4,7 @@
   "description": "Manage sales workflows.",
   "homepage": "https://chasync.com",
   "docs": "https://chasync.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chasync": {

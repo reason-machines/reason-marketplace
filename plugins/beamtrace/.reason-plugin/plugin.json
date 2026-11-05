@@ -4,6 +4,7 @@
   "description": "See how AI ranks your business.",
   "homepage": "https://beamtrace.com",
   "docs": "https://beamtrace.com/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beamtrace": {

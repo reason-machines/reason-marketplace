@@ -4,6 +4,7 @@
   "description": "Discover and order food.",
   "homepage": "https://withbites.com",
   "docs": "https://withbites.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bites": {

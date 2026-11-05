@@ -4,6 +4,7 @@
   "description": "Search and draft invoices.",
   "homepage": "https://www.asesorfacturas.es",
   "docs": "https://www.asesorfacturas.es",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "asesorfacturas": {

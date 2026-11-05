@@ -4,6 +4,7 @@
   "description": "Compare moto gear landed costs.",
   "homepage": "https://allr.io",
   "docs": "https://allr.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "allr": {

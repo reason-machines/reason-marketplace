@@ -4,6 +4,7 @@
   "description": "Car shipping & auto transport.",
   "homepage": "https://carhauler247.com/ai-assistant",
   "docs": "https://carhauler247.com/ai-assistant",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "carhauler247-car-shipping-quotes": {

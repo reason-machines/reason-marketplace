@@ -4,6 +4,7 @@
   "description": "Brackets, round robins, Swiss.",
   "homepage": "https://bracket-maker.zovo.one",
   "docs": "https://bracket-maker.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bracket-maker": {

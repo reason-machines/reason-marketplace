@@ -4,6 +4,7 @@
   "description": "Convert link/doc to video.",
   "homepage": "https://blog2video.app",
   "docs": "https://blog2video.app/blogs/blog2video-mcp-server-n8n",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "blog2video": {

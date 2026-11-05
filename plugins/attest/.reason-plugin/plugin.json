@@ -4,6 +4,7 @@
   "description": "E-signatures you can verify.",
   "homepage": "https://attest.datahubz.com",
   "docs": "https://attest.datahubz.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "attest": {

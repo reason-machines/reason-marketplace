@@ -4,6 +4,7 @@
   "description": "Instagram & LinkedIn carousels.",
   "homepage": "https://aige.ws/mcp",
   "docs": "https://aige.ws/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aige-carousel-studio": {

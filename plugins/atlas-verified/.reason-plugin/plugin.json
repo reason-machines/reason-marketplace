@@ -4,6 +4,7 @@
   "description": "Trade intelligence and ops.",
   "homepage": "https://atlasverified.ai",
   "docs": "https://api.atlasverified.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atlas-verified": {

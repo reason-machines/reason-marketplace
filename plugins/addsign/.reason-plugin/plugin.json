@@ -4,6 +4,7 @@
   "description": "Send documents for e-signature.",
   "homepage": "https://addsign.io",
   "docs": "https://addsign.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "addsign": {

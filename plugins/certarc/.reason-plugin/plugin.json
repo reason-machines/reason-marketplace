@@ -4,6 +4,7 @@
   "description": "CISSP, CISM, CISA, AAISM, AAIA.",
   "homepage": "https://certarc.com/integrations",
   "docs": "https://certarc.com/integrations",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "certarc": {

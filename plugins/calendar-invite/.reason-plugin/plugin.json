@@ -4,6 +4,7 @@
   "description": ".ics files & calendar links.",
   "homepage": "https://calendar-invite.zovo.one",
   "docs": "https://calendar-invite.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "calendar-invite": {

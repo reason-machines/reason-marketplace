@@ -4,6 +4,7 @@
   "description": "Stage rooms and render designs.",
   "homepage": "https://archome.ai",
   "docs": "https://archome.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "archome-ai": {

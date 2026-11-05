@@ -4,6 +4,7 @@
   "description": "Find your dream car in Autovit.",
   "homepage": "https://www.autovit.ro/",
   "docs": "https://www.autovit.ro/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "autovit-ro": {

@@ -4,6 +4,7 @@
   "description": "Manage Cflow workflows.",
   "homepage": "https://www.cflowapps.com",
   "docs": "https://www.cflowapps.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cflow": {

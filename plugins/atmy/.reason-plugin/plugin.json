@@ -4,6 +4,7 @@
   "description": "Air quality and weather.",
   "homepage": "https://atmy.ai/",
   "docs": "https://atmy.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "atmy": {

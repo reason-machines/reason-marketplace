@@ -4,6 +4,7 @@
   "description": "Renovation info and prices.",
   "homepage": "https://oleba.pl/",
   "docs": "https://oleba.pl/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "abc-remonty-oleba": {

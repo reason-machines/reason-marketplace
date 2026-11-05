@@ -4,6 +4,7 @@
   "description": "Schedule social posts & DMs.",
   "homepage": "https://www.blotato.com",
   "docs": "https://www.blotato.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "blotato": {

@@ -4,6 +4,7 @@
   "description": "Save and share your drops.",
   "homepage": "https://cherry-drop.io",
   "docs": "https://cherry-drop.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cherrydrop": {

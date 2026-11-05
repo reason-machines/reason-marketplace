@@ -4,6 +4,7 @@
   "description": "Life & Final Expense Insurance.",
   "homepage": "https://choicemutual.com/",
   "docs": "https://tedix.dev/apps/choice-mutual/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "choice-mutual": {

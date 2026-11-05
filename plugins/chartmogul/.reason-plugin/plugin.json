@@ -4,6 +4,7 @@
   "description": "Revenue and growth insights.",
   "homepage": "https://chartmogul.com/",
   "docs": "https://chartmogul.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chartmogul": {

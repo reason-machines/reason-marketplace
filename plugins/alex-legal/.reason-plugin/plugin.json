@@ -4,6 +4,7 @@
   "description": "Company records and documents.",
   "homepage": "https://alexlegal.fr",
   "docs": "https://alexlegal.fr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alex-legal": {

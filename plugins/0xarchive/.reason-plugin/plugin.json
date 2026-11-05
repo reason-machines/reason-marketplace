@@ -4,6 +4,7 @@
   "description": "Market data and webhooks.",
   "homepage": "https://0xarchive.io",
   "docs": "https://0xarchive.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "0xarchive": {

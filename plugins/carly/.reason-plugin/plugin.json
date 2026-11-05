@@ -4,6 +4,7 @@
   "description": "Email, CRM, and workflows.",
   "homepage": "https://www.usecarly.com",
   "docs": "https://usecarly.com/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "carly": {

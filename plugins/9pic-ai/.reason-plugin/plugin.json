@@ -4,6 +4,7 @@
   "description": "Event photo workflows in chat.",
   "homepage": "https://9pic.ai",
   "docs": "https://9pic.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "9pic-ai": {

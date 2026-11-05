@@ -4,6 +4,7 @@
   "description": "Track the rising sign now.",
   "homepage": "https://ascendrising.com/",
   "docs": "https://ascendrising.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ascend": {

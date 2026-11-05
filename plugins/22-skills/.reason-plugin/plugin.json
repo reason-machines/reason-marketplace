@@ -4,6 +4,7 @@
   "description": "Score resume against a job.",
   "homepage": "https://www.22skills.com",
   "docs": "https://www.22skills.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "22-skills": {

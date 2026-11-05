@@ -4,6 +4,7 @@
   "description": "Ask about your store data.",
   "homepage": "https://www.aitrillion.com",
   "docs": "https://www.aitrillion.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aitrillion": {

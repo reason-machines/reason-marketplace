@@ -4,6 +4,7 @@
   "description": "Track and control AI spend.",
   "homepage": "https://atlasburn.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.atlasburn",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atlasburn": {

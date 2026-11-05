@@ -4,6 +4,7 @@
   "description": "Build evidence-based briefs.",
   "homepage": "https://ai-task-brief-builder.sidcraigau.workers.dev",
   "docs": "https://ai-task-brief-builder.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ai-task-brief-builder": {

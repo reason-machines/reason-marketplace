@@ -4,6 +4,7 @@
   "description": "Generate ad creatives.",
   "homepage": "https://www.arcads.ai",
   "docs": "https://www.arcads.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "arcads": {

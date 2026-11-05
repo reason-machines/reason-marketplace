@@ -4,6 +4,7 @@
   "description": "Find renovation materials.",
   "homepage": "https://www.adrihosan.com/",
   "docs": "https://www.adrihosan.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "adrihosan": {

@@ -4,6 +4,7 @@
   "description": "iOS market research & ASO.",
   "homepage": "https://apptail.io",
   "docs": "https://apptail.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "apptail": {

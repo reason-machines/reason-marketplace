@@ -4,6 +4,7 @@
   "description": "Find crypto & blockchain data.",
   "homepage": "https://blockworks.com",
   "docs": "https://blockworks.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "blockworks": {

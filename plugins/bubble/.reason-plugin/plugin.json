@@ -4,6 +4,7 @@
   "description": "Build and edit Bubble apps.",
   "homepage": "https://bubble.io",
   "docs": "https://bubble.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bubble": {

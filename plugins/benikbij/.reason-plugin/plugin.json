@@ -4,6 +4,7 @@
   "description": "Manage your volleyball team.",
   "homepage": "https://benikbij.vercel.app/",
   "docs": "https://benikbij.vercel.app/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "benikbij": {

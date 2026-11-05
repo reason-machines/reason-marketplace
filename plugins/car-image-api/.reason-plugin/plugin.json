@@ -4,6 +4,7 @@
   "description": "Vehicle images in your chat.",
   "homepage": "https://carimage.dev",
   "docs": "https://carimage.dev/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "car-image-api": {

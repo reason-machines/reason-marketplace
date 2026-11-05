@@ -4,6 +4,7 @@
   "description": "Save on every purchase.",
   "homepage": "https://cashbackhive.com/",
   "docs": "https://cashbackhive.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cashback-hive-deals-and-coupons": {

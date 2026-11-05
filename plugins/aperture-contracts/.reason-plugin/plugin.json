@@ -4,6 +4,7 @@
   "description": "Federal contract intelligence.",
   "homepage": "https://engentfy.com",
   "docs": "https://engentfy.com/plugins/aperture",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aperture-contracts": {

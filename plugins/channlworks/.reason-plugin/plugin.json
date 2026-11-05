@@ -4,6 +4,7 @@
   "description": "Alliance Intelligence Platform.",
   "homepage": "https://channlworks.ai/",
   "docs": "https://channlworks.ai/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "channlworks": {

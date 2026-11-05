@@ -4,6 +4,7 @@
   "description": "Find stays across Greece.",
   "homepage": "https://aegeanbot.com",
   "docs": "https://aegeanbot.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aegeanbot-direct-stays": {

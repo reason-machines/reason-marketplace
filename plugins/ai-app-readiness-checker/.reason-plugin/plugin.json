@@ -4,6 +4,7 @@
   "description": "Check AI App readiness.",
   "homepage": "https://ai-app-readiness-checker.sidcraigau.workers.dev",
   "docs": "https://ai-app-readiness-checker.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ai-app-readiness-checker": {

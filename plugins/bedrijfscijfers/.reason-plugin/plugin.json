@@ -4,6 +4,7 @@
   "description": "Belgian company financials.",
   "homepage": "https://www.bedrijfscijfers.be/ai-chatbot-mcp",
   "docs": "https://www.bedrijfscijfers.be/ai-chatbot-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bedrijfscijfers": {

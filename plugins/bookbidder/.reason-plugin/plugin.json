@@ -4,6 +4,7 @@
   "description": "Amazon Ads and book profits.",
   "homepage": "https://bookbidder.ai",
   "docs": "https://bookbidder.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bookbidder": {

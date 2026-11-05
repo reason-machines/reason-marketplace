@@ -4,6 +4,7 @@
   "description": "Ask about your conversations.",
   "homepage": "https://getbota.com",
   "docs": "https://getbota.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bota": {

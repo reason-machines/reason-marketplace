@@ -4,6 +4,7 @@
   "description": "Browse saved photoshoots.",
   "homepage": "https://charmshots.com",
   "docs": "https://charmshots.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "charmshots": {

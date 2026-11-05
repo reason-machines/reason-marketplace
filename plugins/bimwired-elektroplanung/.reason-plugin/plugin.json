@@ -4,6 +4,7 @@
   "description": "Stromkreise, VDE, DIN 18015.",
   "homepage": "https://bimwired.com/landing/",
   "docs": "https://bimwired.com/landing/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bimwired-elektroplanung": {

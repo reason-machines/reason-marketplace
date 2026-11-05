@@ -4,6 +4,7 @@
   "description": "Texas electricity, real prices.",
   "homepage": "https://asktexasenergy.com",
   "docs": "https://tedix.dev/apps/asktexasenergy/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "asktexasenergy": {

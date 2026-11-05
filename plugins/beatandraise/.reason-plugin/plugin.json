@@ -4,6 +4,7 @@
   "description": "Search SEC filings.",
   "homepage": "https://beatandraise.com",
   "docs": "https://beatandraise.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "beatandraise": {

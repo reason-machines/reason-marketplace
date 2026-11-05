@@ -4,6 +4,7 @@
   "description": "Build anime song playlists.",
   "homepage": "https://anisongs.jp/",
   "docs": "https://anisongs.jp/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "anisongs": {

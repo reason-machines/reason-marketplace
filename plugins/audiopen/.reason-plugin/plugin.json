@@ -4,6 +4,7 @@
   "description": "Search and read your notes.",
   "homepage": "https://audiopen.ai",
   "docs": "https://audiopen.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "audiopen": {

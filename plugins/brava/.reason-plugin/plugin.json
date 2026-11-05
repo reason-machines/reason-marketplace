@@ -4,6 +4,7 @@
   "description": "CRM, Analytics & Marketing.",
   "homepage": "https://mcp.brava.cards/mcp",
   "docs": "https://mcp.brava.cards/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "brava": {

@@ -4,6 +4,7 @@
   "description": "Astrology, Numerology & BaZi.",
   "homepage": "https://birthprint.ai",
   "docs": "https://birthprint.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "birthprint": {

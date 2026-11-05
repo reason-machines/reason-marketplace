@@ -4,6 +4,7 @@
   "description": "Chess lessons from your games.",
   "homepage": "https://trychessgoat.com",
   "docs": "https://trychessgoat.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chess-goat": {

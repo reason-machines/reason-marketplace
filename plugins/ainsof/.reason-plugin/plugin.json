@@ -4,6 +4,7 @@
   "description": "Soundtrack your vision.",
   "homepage": "https://ainsof.io",
   "docs": "https://ainsof.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ainsof": {

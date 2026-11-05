@@ -4,6 +4,7 @@
   "description": "Connect to Atlabs Ai.",
   "homepage": "https://www.atlabs.ai/",
   "docs": "https://www.atlabs.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atlabs-ai": {

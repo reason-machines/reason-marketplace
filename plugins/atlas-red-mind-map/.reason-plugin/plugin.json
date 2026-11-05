@@ -4,6 +4,7 @@
   "description": "Brainstorm and outline ideas.",
   "homepage": "https://atlas-red.com",
   "docs": "https://atlas-red.com/mind-map-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atlas-red-mind-map": {

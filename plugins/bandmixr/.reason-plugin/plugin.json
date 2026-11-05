@@ -4,6 +4,7 @@
   "description": "Mix stems and master songs.",
   "homepage": "https://bandmixr.com",
   "docs": "https://bandmixr.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bandmixr": {

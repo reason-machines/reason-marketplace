@@ -4,6 +4,7 @@
   "description": "Brazilian REIT research.",
   "homepage": "https://analisedefiis.com.br",
   "docs": "https://analisedefiis.com.br",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "analise-de-fiis": {

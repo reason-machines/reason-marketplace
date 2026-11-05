@@ -4,6 +4,7 @@
   "description": "Manage events and send email.",
   "homepage": "https://adgevents.com",
   "docs": "https://adgevents.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adg-events": {

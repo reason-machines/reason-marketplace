@@ -4,6 +4,7 @@
   "description": "Spatial Intelligence for LLMs.",
   "homepage": "https://biggeo.com",
   "docs": "https://biggeo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "biggeo-ai": {

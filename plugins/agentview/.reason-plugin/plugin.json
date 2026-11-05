@@ -4,6 +4,7 @@
   "description": "Send content to any screen.",
   "homepage": "https://agentView.de",
   "docs": "https://agentView.de",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentview": {

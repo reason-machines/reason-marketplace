@@ -4,6 +4,7 @@
   "description": "Compare home loan offers.",
   "homepage": "https://ambak.com",
   "docs": "https://ambak.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ambak-loan-offers": {

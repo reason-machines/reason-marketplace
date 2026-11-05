@@ -4,6 +4,7 @@
   "description": "Analyze online discussions.",
   "homepage": "https://brand24.com",
   "docs": "https://help.brand24.com/en/articles/13011375-brand24-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "brand24": {

@@ -4,6 +4,7 @@
   "description": "Manage agent context.",
   "homepage": "https://alignbase.com/",
   "docs": "https://app.alignbase.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alignbase-com": {

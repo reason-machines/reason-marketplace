@@ -4,6 +4,7 @@
   "description": "AI social media manager.",
   "homepage": "https://beevi.ai",
   "docs": "https://beevi.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beevi": {

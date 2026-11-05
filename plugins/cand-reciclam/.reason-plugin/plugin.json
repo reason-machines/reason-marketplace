@@ -4,6 +4,7 @@
   "description": "Bucharest recycling schedules.",
   "homepage": "https://cand-reciclam.madeinro.eu",
   "docs": "https://cand-reciclam.madeinro.eu",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cand-reciclam": {

@@ -4,6 +4,7 @@
   "description": "Plan practices and postgames.",
   "homepage": "https://www.getbenchcoach.com/",
   "docs": "https://www.getbenchcoach.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bench-coach": {

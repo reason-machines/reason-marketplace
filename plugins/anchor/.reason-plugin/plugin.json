@@ -4,6 +4,7 @@
   "description": "Shared drive: HTML, MD & more.",
   "homepage": "https://anchor.cc",
   "docs": "https://anchor.cc",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "anchor": {

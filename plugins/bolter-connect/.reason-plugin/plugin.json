@@ -4,6 +4,7 @@
   "description": "Chat with people and agents.",
   "homepage": "https://bolter.chat/",
   "docs": "https://bolter.chat/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bolter-connect": {

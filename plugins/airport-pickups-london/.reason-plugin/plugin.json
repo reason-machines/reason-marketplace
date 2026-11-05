@@ -4,6 +4,7 @@
   "description": "Book London airport transfers.",
   "homepage": "https://www.airport-pickups-london.com",
   "docs": "https://www.airport-pickups-london.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "airport-pickups-london": {

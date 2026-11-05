@@ -4,6 +4,7 @@
   "description": "Manage TTRPG campaign lore.",
   "homepage": "https://www.myarchivist.ai",
   "docs": "https://www.myarchivist.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "archivist-ai": {

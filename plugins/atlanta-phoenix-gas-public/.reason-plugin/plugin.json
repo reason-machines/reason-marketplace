@@ -4,6 +4,7 @@
   "description": "Compare Atlanta gas plans.",
   "homepage": "https://atlantaphoenixgas.com",
   "docs": "https://atlantaphoenixgas.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "atlanta-phoenix-gas-public": {

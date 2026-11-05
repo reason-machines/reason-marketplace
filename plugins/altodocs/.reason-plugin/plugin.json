@@ -4,6 +4,7 @@
   "description": "Create engineering documents.",
   "homepage": "https://altodocs.io",
   "docs": "https://app.altodocs.io/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "altodocs": {

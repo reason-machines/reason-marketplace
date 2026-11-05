@@ -4,6 +4,7 @@
   "description": "Research papers and grants.",
   "homepage": "https://chatacademia.com",
   "docs": "https://chatacademia.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chatacademia-research": {

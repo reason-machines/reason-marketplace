@@ -4,6 +4,7 @@
   "description": "Member lookup and DMV tools.",
   "homepage": "https://agentcommunity.org",
   "docs": "https://agentcommunity.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agent-community": {

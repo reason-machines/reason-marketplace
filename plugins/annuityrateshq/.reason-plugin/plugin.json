@@ -4,6 +4,7 @@
   "description": "Research annuity options.",
   "homepage": "https://annuityrateshq.com",
   "docs": "https://annuityrateshq.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "annuityrateshq": {

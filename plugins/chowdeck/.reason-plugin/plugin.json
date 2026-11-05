@@ -4,6 +4,7 @@
   "description": "Order food and track delivery.",
   "homepage": "https://chowdeck.com",
   "docs": "https://chowdeck.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chowdeck": {

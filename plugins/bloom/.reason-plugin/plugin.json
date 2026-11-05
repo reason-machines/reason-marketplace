@@ -4,6 +4,7 @@
   "description": "Design in Bloom.",
   "homepage": "https://docs.bloom.diy/connect-bloom-mcp",
   "docs": "https://docs.bloom.diy/connect-bloom-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bloom": {

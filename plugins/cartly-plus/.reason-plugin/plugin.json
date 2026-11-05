@@ -4,6 +4,7 @@
   "description": "Manage shared shopping lists.",
   "homepage": "https://cartly.plus",
   "docs": "https://cartly.plus",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cartly-plus": {

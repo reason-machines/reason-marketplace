@@ -4,6 +4,7 @@
   "description": "Track your brand in AI search.",
   "homepage": "https://ayzeo.com/",
   "docs": "https://ayzeo.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ayzeo": {

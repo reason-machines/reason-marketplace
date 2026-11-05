@@ -4,6 +4,7 @@
   "description": "GDPR, cookies & trackers.",
   "homepage": "https://certscore.ai",
   "docs": "https://certscore.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "certscore-ai-privacy-scanner": {

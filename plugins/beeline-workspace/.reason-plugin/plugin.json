@@ -4,6 +4,7 @@
   "description": "Connect Reason to Beeline.",
   "homepage": "https://www.beeline.life",
   "docs": "https://www.beeline.life",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beeline-workspace": {

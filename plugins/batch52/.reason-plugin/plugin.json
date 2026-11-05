@@ -4,6 +4,7 @@
   "description": "Pre-orders for bakers & makers.",
   "homepage": "https://batch52.com",
   "docs": "https://batch52.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "batch52": {

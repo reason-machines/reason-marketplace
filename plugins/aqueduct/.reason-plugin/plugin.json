@@ -4,6 +4,7 @@
   "description": "Create procedural materials.",
   "homepage": "https://aqueduct.sh",
   "docs": "https://aqueduct.sh",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aqueduct": {

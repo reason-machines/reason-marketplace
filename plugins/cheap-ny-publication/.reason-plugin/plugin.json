@@ -4,6 +4,7 @@
   "description": "NY LLC deadlines and prices.",
   "homepage": "https://cheapnypublication.com/ai",
   "docs": "https://cheapnypublication.com/ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cheap-ny-publication": {

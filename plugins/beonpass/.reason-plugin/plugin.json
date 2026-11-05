@@ -4,6 +4,7 @@
   "description": "Access wallet for AI tools.",
   "homepage": "https://beonpass.com",
   "docs": "https://beonpass.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beonpass": {

@@ -4,6 +4,7 @@
   "description": "Charts, future & compatibility.",
   "homepage": "https://12andus.com",
   "docs": "https://12andus.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "12andus-astrology": {

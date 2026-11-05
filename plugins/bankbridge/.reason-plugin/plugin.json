@@ -4,6 +4,7 @@
   "description": "Read-only bank data.",
   "homepage": "https://bankbridge.money",
   "docs": "https://bankbridge.money",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bankbridge": {

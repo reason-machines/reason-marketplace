@@ -4,6 +4,7 @@
   "description": "Find places worth going to.",
   "homepage": "https://www.atly.com/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.atly/places",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "atly": {

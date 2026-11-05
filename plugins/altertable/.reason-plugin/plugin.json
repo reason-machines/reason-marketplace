@@ -4,6 +4,7 @@
   "description": "Governed data and analytics.",
   "homepage": "https://altertable.ai",
   "docs": "https://altertable.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "altertable": {

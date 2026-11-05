@@ -4,6 +4,7 @@
   "description": "Cars & rentals in Montenegro.",
   "homepage": "https://automania.me/en",
   "docs": "https://automania.me/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "automania": {

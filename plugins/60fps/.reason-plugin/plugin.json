@@ -4,6 +4,7 @@
   "description": "Search real iOS interactions.",
   "homepage": "https://60fps.design/llms.txt",
   "docs": "https://60fps.design/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "60fps": {

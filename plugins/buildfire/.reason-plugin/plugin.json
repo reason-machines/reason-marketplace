@@ -4,6 +4,7 @@
   "description": "Manage app operations.",
   "homepage": "https://buildfire.com",
   "docs": "https://buildfire.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buildfire": {

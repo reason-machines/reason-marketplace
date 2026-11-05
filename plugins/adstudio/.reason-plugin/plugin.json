@@ -4,6 +4,7 @@
   "description": "Ask your ad accounts anything.",
   "homepage": "https://useadstudio.com",
   "docs": "https://useadstudio.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adstudio": {

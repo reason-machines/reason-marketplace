@@ -4,6 +4,7 @@
   "description": "Analyze event performance.",
   "homepage": "https://www.checkinevent.com/",
   "docs": "https://www.checkinevent.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "checkin": {

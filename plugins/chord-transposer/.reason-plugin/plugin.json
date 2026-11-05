@@ -4,6 +4,7 @@
   "description": "Change keys and capo shapes.",
   "homepage": "https://chord-transposer.zovo.one",
   "docs": "https://mcp.zovo.one/mcp/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chord-transposer": {

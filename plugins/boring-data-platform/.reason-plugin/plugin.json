@@ -4,6 +4,7 @@
   "description": "Federal procurement research.",
   "homepage": "https://www.boringdataplatform.com/developers",
   "docs": "https://www.boringdataplatform.com/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "boring-data-platform": {

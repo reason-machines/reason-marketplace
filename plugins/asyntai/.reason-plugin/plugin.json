@@ -4,6 +4,7 @@
   "description": "AI support agent for websites.",
   "homepage": "https://asyntai.com",
   "docs": "https://asyntai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "asyntai": {

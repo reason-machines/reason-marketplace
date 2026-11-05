@@ -4,6 +4,7 @@
   "description": "Manage assets, work and trips.",
   "homepage": "https://www.centerpanel.com",
   "docs": "https://www.centerpanel.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "centerpanel": {

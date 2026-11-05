@@ -4,6 +4,7 @@
   "description": "Create and manage surveys.",
   "homepage": "https://blocksurvey.io/",
   "docs": "https://blocksurvey.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "blocksurvey": {

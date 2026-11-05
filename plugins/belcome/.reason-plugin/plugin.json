@@ -4,6 +4,7 @@
   "description": "Book salons, spas and med spas.",
   "homepage": "https://www.belcome.app/",
   "docs": "https://www.belcome.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "belcome": {

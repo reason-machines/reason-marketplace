@@ -4,6 +4,7 @@
   "description": "Integration with base.com.",
   "homepage": "https://base.com",
   "docs": "https://base.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "base-com": {

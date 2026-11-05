@@ -4,6 +4,7 @@
   "description": "Unlock your sales calls.",
   "homepage": "https://caretta.so",
   "docs": "https://caretta.so/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "caretta": {

@@ -4,6 +4,7 @@
   "description": "Birth charts & transits.",
   "homepage": "https://astralread.com/en",
   "docs": "https://astralread.com/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "astralread": {

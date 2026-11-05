@@ -4,6 +4,7 @@
   "description": "Run and bid in club auctions.",
   "homepage": "https://auction.fish",
   "docs": "https://auction.fish",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "auction-fish": {

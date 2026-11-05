@@ -4,6 +4,7 @@
   "description": "Ask about your training log.",
   "homepage": "https://actafitapp.com",
   "docs": "https://actafitapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "acta-fit": {

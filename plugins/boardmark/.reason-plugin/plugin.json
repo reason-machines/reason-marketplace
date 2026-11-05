@@ -4,6 +4,7 @@
   "description": "Issues, sprints and team docs.",
   "homepage": "https://www.boardmark.ai",
   "docs": "https://www.boardmark.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "boardmark": {

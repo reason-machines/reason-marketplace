@@ -4,6 +4,7 @@
   "description": "Make AI ad videos and images.",
   "homepage": "https://adsturbo.ai",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.AdsTurbo/adsturbo",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adsturbo": {

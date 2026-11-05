@@ -4,6 +4,7 @@
   "description": "AI-native cap table platform.",
   "homepage": "https://capable.so",
   "docs": "https://capable.so/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "capable-cap-table": {

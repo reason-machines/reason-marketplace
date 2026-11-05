@@ -4,6 +4,7 @@
   "description": "Best ski rental on earth.",
   "homepage": "https://alpy.com",
   "docs": "https://alpy.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "alpy-com": {

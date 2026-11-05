@@ -4,6 +4,7 @@
   "description": "Tu asesor de autos.",
   "homepage": "https://teamcarlosrodriguez.com",
   "docs": "https://teamcarlosrodriguez.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "carlos-rodriguez": {

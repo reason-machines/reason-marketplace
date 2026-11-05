@@ -4,6 +4,7 @@
   "description": "Golf data and stats.",
   "homepage": "https://birdieapi.com",
   "docs": "https://birdieapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "birdieapi": {

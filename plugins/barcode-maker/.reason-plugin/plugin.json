@@ -4,6 +4,7 @@
   "description": "EAN, UPC & Code 128 barcodes.",
   "homepage": "https://barcode-maker.zovo.one",
   "docs": "https://barcode-maker.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "barcode-maker": {

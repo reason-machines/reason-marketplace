@@ -4,6 +4,7 @@
   "description": "Custom Apparel & Merch Tool.",
   "homepage": "https://www.bonfire.com/",
   "docs": "https://www.bonfire.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bonfire": {

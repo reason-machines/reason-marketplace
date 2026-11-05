@@ -4,6 +4,7 @@
   "description": "Track books, movies, and shows.",
   "homepage": "https://www.achriom.com",
   "docs": "https://www.achriom.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "achriom": {

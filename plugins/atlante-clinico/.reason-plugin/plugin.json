@@ -4,6 +4,7 @@
   "description": "Find psychotherapy techniques.",
   "homepage": "https://atlanteclinico.it",
   "docs": "https://atlanteclinico.it/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atlante-clinico": {

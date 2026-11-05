@@ -4,6 +4,7 @@
   "description": "Compare public document edits.",
   "homepage": "https://bidpatch-mcp.sunrysetech.com/",
   "docs": "https://bidpatch-mcp.sunrysetech.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bidpatch": {

@@ -4,6 +4,7 @@
   "description": "Create images and videos.",
   "homepage": "https://bildy.ai",
   "docs": "https://bildy.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bildy-media": {

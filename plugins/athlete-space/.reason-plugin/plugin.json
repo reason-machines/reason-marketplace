@@ -4,6 +4,7 @@
   "description": "Training plans for any sport.",
   "homepage": "https://athletespace.ai/chatgpt",
   "docs": "https://athletespace.ai/claude",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "athlete-space": {

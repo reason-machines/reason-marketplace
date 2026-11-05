@@ -4,6 +4,7 @@
   "description": "Laws, Security and Compliance.",
   "homepage": "https://ansvar.eu",
   "docs": "https://ansvar.eu",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ansvar-gateway": {

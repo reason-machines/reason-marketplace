@@ -4,6 +4,7 @@
   "description": "Local outings across France.",
   "homepage": "https://agendaducoin.fr",
   "docs": "https://agendaducoin.fr",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agenda-du-coin": {

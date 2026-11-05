@@ -4,6 +4,7 @@
   "description": "Transactional email API.",
   "homepage": "https://agentisend.com",
   "docs": "https://agentisend.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentisend": {

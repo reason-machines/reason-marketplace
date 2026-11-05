@@ -4,6 +4,7 @@
   "description": "Your jeans size at any brand.",
   "homepage": "https://getajusted.com",
   "docs": "https://getajusted.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ajusted-for-jeans": {

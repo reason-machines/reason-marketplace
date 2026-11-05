@@ -4,6 +4,7 @@
   "description": "Screen and verify applicants.",
   "homepage": "https://oncarousel.com",
   "docs": "https://oncarousel.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "carousel": {

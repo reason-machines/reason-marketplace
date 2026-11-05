@@ -4,6 +4,7 @@
   "description": "Analyze and refine your brand.",
   "homepage": "https://meet-brandi.com/",
   "docs": "https://meet-brandi.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "brandi-ai": {

@@ -4,6 +4,7 @@
   "description": "Can AI see your site?",
   "homepage": "https://agentgrade.app",
   "docs": "https://agentgrade.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agentgrade": {

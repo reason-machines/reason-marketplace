@@ -4,6 +4,7 @@
   "description": "Your spending and net worth.",
   "homepage": "https://bilanceapp.com",
   "docs": "https://bilanceapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bilance": {

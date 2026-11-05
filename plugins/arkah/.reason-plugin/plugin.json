@@ -4,6 +4,7 @@
   "description": "Turn chats into visual boards.",
   "homepage": "https://arkah.io",
   "docs": "https://arkah.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "arkah": {

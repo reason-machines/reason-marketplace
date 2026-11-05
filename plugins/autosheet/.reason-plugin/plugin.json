@@ -4,6 +4,7 @@
   "description": "Agent for Google Sheets work.",
   "homepage": "https://autosheet.com",
   "docs": "https://autosheet.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "autosheet": {

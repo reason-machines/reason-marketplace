@@ -4,6 +4,7 @@
   "description": "Create a website in seconds.",
   "homepage": "https://www.b12.io",
   "docs": "https://www.b12.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "b12-website-generator": {

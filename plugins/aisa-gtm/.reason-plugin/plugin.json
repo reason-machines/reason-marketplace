@@ -4,6 +4,7 @@
   "description": "Research markets and prospects.",
   "homepage": "https://aisa.one/",
   "docs": "https://aisa.one/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aisa-gtm": {

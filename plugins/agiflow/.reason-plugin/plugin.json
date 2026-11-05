@@ -4,6 +4,7 @@
   "description": "Create tasks, track progress.",
   "homepage": "https://agiflow.io",
   "docs": "https://agiflow.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agiflow": {

@@ -4,6 +4,7 @@
   "description": "Check text and review sources.",
   "homepage": "https://aiseo.ai/",
   "docs": "https://aiseo.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aiseo-plagiarism-checker": {

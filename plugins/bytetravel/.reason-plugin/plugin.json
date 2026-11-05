@@ -4,6 +4,7 @@
   "description": "Insurance, eSIM, Visas & VIP.",
   "homepage": "https://www.bytetravel.com/",
   "docs": "https://www.bytetravel.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bytetravel": {

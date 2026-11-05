@@ -4,6 +4,7 @@
   "description": "Turn ideas into diagrams.",
   "homepage": "https://aiflowchart.io",
   "docs": "https://aiflowchart.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aiflowchart": {

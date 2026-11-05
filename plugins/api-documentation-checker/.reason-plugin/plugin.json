@@ -4,6 +4,7 @@
   "description": "Check API documentation.",
   "homepage": "https://api-documentation-checker.sidcraigau.workers.dev",
   "docs": "https://api-documentation-checker.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "api-documentation-checker": {

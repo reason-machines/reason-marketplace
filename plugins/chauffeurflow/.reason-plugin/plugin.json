@@ -4,6 +4,7 @@
   "description": "Find private chauffeurs.",
   "homepage": "https://chauffeurflow.com/ai",
   "docs": "https://chauffeurflow.com/ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chauffeurflow": {

@@ -4,6 +4,7 @@
   "description": "AI image and video generation.",
   "homepage": "https://batchbanana.com",
   "docs": "https://batchbanana.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "batch-banana": {

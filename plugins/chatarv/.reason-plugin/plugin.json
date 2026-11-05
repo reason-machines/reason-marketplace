@@ -4,6 +4,7 @@
   "description": "Real estate comps and ARV.",
   "homepage": "https://www.chatarv.ai",
   "docs": "https://www.chatarv.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chatarv": {

@@ -4,6 +4,7 @@
   "description": "Manage CVs and discover jobs.",
   "homepage": "https://www.aptora.io",
   "docs": "https://www.aptora.io/de/docs/mcp-guide/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aptora": {

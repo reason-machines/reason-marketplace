@@ -4,6 +4,7 @@
   "description": "Options flow and market data.",
   "homepage": "https://www.bullflow.io",
   "docs": "https://tedix.dev/apps/bullflow/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bullflow": {

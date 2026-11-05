@@ -4,6 +4,7 @@
   "description": "Compare LEGO shopping offers.",
   "homepage": "https://brickfact.com",
   "docs": "https://brickfact.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "brickfact": {

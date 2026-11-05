@@ -4,6 +4,7 @@
   "description": "Scenes, monologues & routines.",
   "homepage": "https://sayblablabla.com",
   "docs": "https://sayblablabla.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "blablabla": {

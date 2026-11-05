@@ -4,6 +4,7 @@
   "description": "Research, launch & manage ads.",
   "homepage": "https://adwhispr.com/",
   "docs": "https://adwhispr.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adwhispr-ads": {

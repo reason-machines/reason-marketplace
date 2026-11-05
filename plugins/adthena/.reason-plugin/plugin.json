@@ -4,6 +4,7 @@
   "description": "Search & AI Intelligence.",
   "homepage": "https://www.adthena.com",
   "docs": "https://www.adthena.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adthena": {

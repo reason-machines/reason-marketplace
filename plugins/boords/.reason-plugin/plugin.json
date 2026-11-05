@@ -4,6 +4,7 @@
   "description": "Script and storyboard videos.",
   "homepage": "https://boords.com",
   "docs": "https://boords.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "boords": {

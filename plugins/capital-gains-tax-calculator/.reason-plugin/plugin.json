@@ -4,6 +4,7 @@
   "description": "Rates, rules and the tax owed.",
   "homepage": "https://capitalgainstax.net",
   "docs": "https://capitalgainstax.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "capital-gains-tax-calculator": {

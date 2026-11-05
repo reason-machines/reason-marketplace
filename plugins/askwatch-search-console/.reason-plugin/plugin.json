@@ -4,6 +4,7 @@
   "description": "Ask your Search Console data.",
   "homepage": "https://askwatch.ai/free-tools/google-search-console-mcp",
   "docs": "https://askwatch.ai/free-tools/google-search-console-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "askwatch-search-console": {

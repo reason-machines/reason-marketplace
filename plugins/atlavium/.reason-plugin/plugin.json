@@ -4,6 +4,7 @@
   "description": "Worldbuilding & campaign lore.",
   "homepage": "https://atlavium.com/",
   "docs": "https://atlavium.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atlavium": {

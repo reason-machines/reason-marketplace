@@ -4,6 +4,7 @@
   "description": "Access Auntbird.",
   "homepage": "https://auntbird.com/",
   "docs": "https://auntbird.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "auntbird-practice-management": {

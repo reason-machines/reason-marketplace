@@ -4,6 +4,7 @@
   "description": "Life sciences intelligence.",
   "homepage": "https://amass.tech",
   "docs": "https://amass.tech",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "amass": {

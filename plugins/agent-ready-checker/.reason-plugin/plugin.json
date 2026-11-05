@@ -4,6 +4,7 @@
   "description": "Check if AI can find your site.",
   "homepage": "https://agentready.ferasallaou.com",
   "docs": "https://agentready.ferasallaou.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agent-ready-checker": {

@@ -4,6 +4,7 @@
   "description": "Marine fuel marketplace.",
   "homepage": "https://bulugo.com",
   "docs": "https://bulugo.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bulugo": {

@@ -4,6 +4,7 @@
   "description": "Manage client work.",
   "homepage": "https://assembly.com",
   "docs": "https://assembly.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "assembly": {

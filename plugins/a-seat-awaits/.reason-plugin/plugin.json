@@ -4,6 +4,7 @@
   "description": "Plan event seating.",
   "homepage": "https://aseatawaits.com",
   "docs": "https://aseatawaits.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "a-seat-awaits": {

@@ -4,6 +4,7 @@
   "description": "Check vehicle tax, MOT & more.",
   "homepage": "https://cartaxcheck.co.uk/",
   "docs": "https://cartaxcheck.co.uk/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cartaxcheck": {

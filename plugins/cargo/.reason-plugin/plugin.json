@@ -4,6 +4,7 @@
   "description": "Your GTM in Reason.",
   "homepage": "https://getcargo.ai",
   "docs": "https://getcargo.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cargo": {

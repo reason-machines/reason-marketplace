@@ -4,6 +4,7 @@
   "description": "See human anatomy in 3D.",
   "homepage": "https://anatomy.autark.sh",
   "docs": "https://anatomy.autark.sh",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "anatomy": {

@@ -4,6 +4,7 @@
   "description": "Make images and videos.",
   "homepage": "https://astorie.ai",
   "docs": "https://astorie.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "astorie": {

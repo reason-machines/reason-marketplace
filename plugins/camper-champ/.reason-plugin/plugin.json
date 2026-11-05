@@ -4,6 +4,7 @@
   "description": "Compare campervan hire.",
   "homepage": "https://camperchamp.com",
   "docs": "https://camperchamp.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "camper-champ": {

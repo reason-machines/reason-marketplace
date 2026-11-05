@@ -4,6 +4,7 @@
   "description": "Books, bills, bank and close.",
   "homepage": "https://www.bizdivers.com",
   "docs": "https://tedix.dev/apps/bizdivers/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bizdivers": {

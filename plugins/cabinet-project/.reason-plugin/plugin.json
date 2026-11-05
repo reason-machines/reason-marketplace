@@ -4,6 +4,7 @@
   "description": "Quotes, jobs, cabinet prices.",
   "homepage": "https://cabinetproject.app/",
   "docs": "https://cabinetproject.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cabinet-project": {

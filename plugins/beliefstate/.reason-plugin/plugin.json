@@ -4,6 +4,7 @@
   "description": "Find and compare stock ideas.",
   "homepage": "https://beliefstate.ai",
   "docs": "https://beliefstate.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beliefstate": {

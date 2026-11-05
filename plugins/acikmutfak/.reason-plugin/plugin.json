@@ -4,6 +4,7 @@
   "description": "Discover, save, share recipes.",
   "homepage": "https://acikmutfak.vercel.app",
   "docs": "https://acikmutfak.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "acikmutfak": {

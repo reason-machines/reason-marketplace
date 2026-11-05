@@ -4,6 +4,7 @@
   "description": "Compare buying vs renting home.",
   "homepage": "https://buy-or-rent.net",
   "docs": "https://tedix.dev/apps/buy-or-rent-simulator/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "buy-or-rent-simulator": {

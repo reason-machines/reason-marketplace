@@ -4,6 +4,7 @@
   "description": "Your home inventory, by chat.",
   "homepage": "https://boxitem.app",
   "docs": "https://boxitem.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "boxitem": {

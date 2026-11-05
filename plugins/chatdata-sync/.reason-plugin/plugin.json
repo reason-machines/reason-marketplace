@@ -4,6 +4,7 @@
   "description": "Your records, across AI.",
   "homepage": "https://chatdatasync.com",
   "docs": "https://chatdatasync.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chatdata-sync": {

@@ -4,6 +4,7 @@
   "description": "Get answers on every deal.",
   "homepage": "https://www.backstory.ai",
   "docs": "https://www.backstory.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "backstory": {

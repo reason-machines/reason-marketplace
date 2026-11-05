@@ -4,6 +4,7 @@
   "description": "Apple App Store research.",
   "homepage": "https://www.asoskill.com",
   "docs": "https://www.asoskill.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aso-skill": {

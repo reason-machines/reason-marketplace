@@ -4,6 +4,7 @@
   "description": "Explore specialty beverages.",
   "homepage": "https://beyond.wine",
   "docs": "https://beyond.wine",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "beyond-wine": {

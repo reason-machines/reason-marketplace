@@ -4,6 +4,7 @@
   "description": "Put your app online.",
   "homepage": "https://ample.computer",
   "docs": "https://api.ample.computer/mcp/setup",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ample": {

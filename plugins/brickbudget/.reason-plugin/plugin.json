@@ -4,6 +4,7 @@
   "description": "Explore LEGO® sets and prices.",
   "homepage": "https://www.brickbudget.com",
   "docs": "https://brickbudget.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "brickbudget": {

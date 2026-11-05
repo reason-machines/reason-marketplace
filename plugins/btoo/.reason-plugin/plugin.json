@@ -4,6 +4,7 @@
   "description": "Manage business ops.",
   "homepage": "https://btoo.in",
   "docs": "https://btoo.in",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "btoo": {

@@ -4,6 +4,7 @@
   "description": "Build and host AI agents.",
   "homepage": "https://camelai.com/run",
   "docs": "https://camelai.com/run/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "camelrun": {

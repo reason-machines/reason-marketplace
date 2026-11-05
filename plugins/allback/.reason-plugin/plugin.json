@@ -4,6 +4,7 @@
   "description": "Forms with automatic reminders.",
   "homepage": "https://www.allback.ai",
   "docs": "https://www.allback.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "allback": {

@@ -4,6 +4,7 @@
   "description": "Temporary car insurance 1-90d.",
   "homepage": "https://www.tempo-assurance.com",
   "docs": "https://tedix.dev/apps/assurance-temporaire/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "assurance-temporaire": {

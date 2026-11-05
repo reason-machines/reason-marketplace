@@ -4,6 +4,7 @@
   "description": "Research ads and brands.",
   "homepage": "https://tryatria.com",
   "docs": "https://tryatria.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atria": {

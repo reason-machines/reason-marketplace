@@ -4,6 +4,7 @@
   "description": "Ask about your money.",
   "homepage": "https://borderlessbudget.com",
   "docs": "https://tedix.dev/apps/borderless-budget/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "borderless-budget": {

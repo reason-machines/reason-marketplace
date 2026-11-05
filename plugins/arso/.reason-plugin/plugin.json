@@ -4,6 +4,7 @@
   "description": "Slovenian weather (unofficial).",
   "homepage": "https://arso.lol",
   "docs": "https://arso.lol",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "arso": {

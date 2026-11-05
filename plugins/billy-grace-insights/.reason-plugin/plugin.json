@@ -4,6 +4,7 @@
   "description": "Query your marketing data.",
   "homepage": "https://billygrace.com",
   "docs": "https://billygrace.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "billy-grace-insights": {

@@ -4,6 +4,7 @@
   "description": "Search peer-recognized lawyers.",
   "homepage": "https://www.bestlawyers.com",
   "docs": "https://www.bestlawyers.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "best-lawyers": {

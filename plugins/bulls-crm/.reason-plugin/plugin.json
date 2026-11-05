@@ -4,6 +4,7 @@
   "description": "Your phone prospecting CRM.",
   "homepage": "https://bullaria.com/crm-connecteur-ia-claude-chatgpt",
   "docs": "https://bullaria.com/crm-connecteur-ia-claude-chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bulls-crm": {

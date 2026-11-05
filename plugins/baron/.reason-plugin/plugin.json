@@ -4,6 +4,7 @@
   "description": "Start a business with AI.",
   "homepage": "https://trybaron.ai/directory",
   "docs": "https://trybaron.ai/connectors",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "baron": {

@@ -4,6 +4,7 @@
   "description": "Auto, home & business quotes.",
   "homepage": "https://www.asshield.com",
   "docs": "https://www.asshield.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "asshield-insurance": {

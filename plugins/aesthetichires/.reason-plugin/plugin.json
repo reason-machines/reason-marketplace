@@ -4,6 +4,7 @@
   "description": "Med spa and aesthetics jobs.",
   "homepage": "https://www.aesthetichires.com/",
   "docs": "https://www.aesthetichires.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aesthetichires": {

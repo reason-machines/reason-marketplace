@@ -4,6 +4,7 @@
   "description": "Plan and track shared work.",
   "homepage": "https://atollhq.com",
   "docs": "https://atollhq.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atoll": {

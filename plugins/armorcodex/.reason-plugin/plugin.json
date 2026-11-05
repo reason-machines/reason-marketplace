@@ -4,6 +4,7 @@
   "description": "Read and update AI policies.",
   "homepage": "https://armoriq.ai",
   "docs": "https://armoriq.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "armorcodex": {

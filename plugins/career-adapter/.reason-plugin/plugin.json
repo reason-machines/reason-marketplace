@@ -4,6 +4,7 @@
   "description": "Tailor your resume to any job.",
   "homepage": "https://www.careeradapter.ai/",
   "docs": "https://www.careeradapter.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "career-adapter": {

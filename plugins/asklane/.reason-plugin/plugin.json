@@ -4,6 +4,7 @@
   "description": "Send a vendor your inquiry.",
   "homepage": "https://www.asklane.io",
   "docs": "https://www.asklane.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "asklane": {

@@ -4,6 +4,7 @@
   "description": "Look up Japanese car history.",
   "homepage": "https://car-gene.com/llms.txt",
   "docs": "https://car-gene.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cargene": {

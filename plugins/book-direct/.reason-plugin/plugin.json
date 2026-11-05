@@ -4,6 +4,7 @@
   "description": "No commission deals for hotels.",
   "homepage": "https://app.book-direct.co/",
   "docs": "https://app.book-direct.co/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "book-direct": {

@@ -4,6 +4,7 @@
   "description": "Manage Google Ads and Meta Ads.",
   "homepage": "https://adplane.ai",
   "docs": "https://adplane.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adplane": {

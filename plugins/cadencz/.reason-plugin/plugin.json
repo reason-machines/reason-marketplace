@@ -4,6 +4,7 @@
   "description": "Plan and schedule social posts.",
   "homepage": "https://cadencz.com",
   "docs": "https://cadencz.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cadencz": {

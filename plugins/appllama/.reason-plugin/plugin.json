@@ -4,6 +4,7 @@
   "description": "Study screens of top iOS apps.",
   "homepage": "https://appllama.io",
   "docs": "https://appllama.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "appllama": {

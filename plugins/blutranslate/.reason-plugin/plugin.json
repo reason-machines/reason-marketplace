@@ -4,6 +4,7 @@
   "description": "Translate PDFs and documents.",
   "homepage": "https://www.bluente.com/",
   "docs": "https://www.bluente.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "blutranslate": {

@@ -4,6 +4,7 @@
   "description": "Insider and Congress trades.",
   "homepage": "https://aeondata.io",
   "docs": "https://aeondata.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aeondata": {

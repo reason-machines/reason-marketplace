@@ -4,6 +4,7 @@
   "description": "Manage building access.",
   "homepage": "https://www.buzzerapi.com/mcp.html",
   "docs": "https://www.buzzerapi.com/mcp.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buzzerapi": {

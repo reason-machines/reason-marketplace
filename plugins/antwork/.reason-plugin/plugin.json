@@ -4,6 +4,7 @@
   "description": "Schedule and publish posts.",
   "homepage": "https://antwork.io",
   "docs": "https://antwork.io/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "antwork": {

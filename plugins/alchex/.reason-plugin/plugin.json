@@ -4,6 +4,7 @@
   "description": "Compliance management software.",
   "homepage": "https://alchex.com",
   "docs": "https://alchex.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alchex": {

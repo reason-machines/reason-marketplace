@@ -4,6 +4,7 @@
   "description": "Rehearse with your own slides.",
   "homepage": "https://aitho.app",
   "docs": "https://aitho.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aitho": {

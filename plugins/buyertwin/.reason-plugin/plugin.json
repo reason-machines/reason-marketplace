@@ -4,6 +4,7 @@
   "description": "Buyer intelligence for GTM.",
   "homepage": "https://buyertwin.com/",
   "docs": "https://buyertwin.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buyertwin": {

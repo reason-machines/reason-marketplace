@@ -4,6 +4,7 @@
   "description": "Find and fix WCAG failures.",
   "homepage": "https://a11yrepair.com",
   "docs": "https://a11yrepair.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "accessibility-repair": {

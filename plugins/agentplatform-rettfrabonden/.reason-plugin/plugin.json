@@ -4,6 +4,7 @@
   "description": "Find Norwegian farm food.",
   "homepage": "https://rettfrabonden.com",
   "docs": "https://rettfrabonden.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agentplatform-rettfrabonden": {

@@ -4,6 +4,7 @@
   "description": "Local car rental offers.",
   "homepage": "https://autalo.com",
   "docs": "https://autalo.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "autalo-car-rental": {

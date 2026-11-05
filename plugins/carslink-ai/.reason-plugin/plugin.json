@@ -4,6 +4,7 @@
   "description": "Search UK cars, vans & bikes.",
   "homepage": "https://carslink.ai",
   "docs": "https://carslink.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "carslink-ai": {

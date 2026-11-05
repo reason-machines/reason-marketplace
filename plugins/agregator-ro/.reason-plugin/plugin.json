@@ -4,6 +4,7 @@
   "description": "Romanian news and bank rates.",
   "homepage": "https://agregator.ro",
   "docs": "https://agregator.ro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agregator-ro": {

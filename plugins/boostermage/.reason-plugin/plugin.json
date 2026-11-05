@@ -4,6 +4,7 @@
   "description": "Compare UK MTG prices.",
   "homepage": "https://boostermage.com",
   "docs": "https://boostermage.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "boostermage": {

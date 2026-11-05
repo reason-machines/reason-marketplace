@@ -4,6 +4,7 @@
   "description": "Consulting service reference.",
   "homepage": "https://arnekellmann.de/",
   "docs": "https://arnekellmann.de/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "arne-kellmann": {

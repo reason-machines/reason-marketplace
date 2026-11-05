@@ -4,6 +4,7 @@
   "description": "Search and quote transcripts.",
   "homepage": "https://analyticshour.io",
   "docs": "https://analyticshour.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "analytics-power-hour-librarian": {

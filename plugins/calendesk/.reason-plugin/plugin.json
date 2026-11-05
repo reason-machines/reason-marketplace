@@ -4,6 +4,7 @@
   "description": "Your scheduling assistant.",
   "homepage": "https://calendesk.com/",
   "docs": "https://calendesk.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "calendesk": {

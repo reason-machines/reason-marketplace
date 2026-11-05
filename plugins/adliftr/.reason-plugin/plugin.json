@@ -4,6 +4,7 @@
   "description": "Meta, TikTok, Google, Snapchat.",
   "homepage": "https://adliftr.com",
   "docs": "https://adliftr.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adliftr": {

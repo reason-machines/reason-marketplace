@@ -4,6 +4,7 @@
   "description": "Floor plans as checked code.",
   "homepage": "https://archlang.uk",
   "docs": "https://archlang.uk",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "archlang": {

@@ -4,6 +4,7 @@
   "description": "Invoke Bitmovin with API tools.",
   "homepage": "https://bitmovin.com/",
   "docs": "https://bitmovin.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bitmovin": {

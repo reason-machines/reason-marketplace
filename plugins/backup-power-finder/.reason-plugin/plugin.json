@@ -4,6 +4,7 @@
   "description": "Find backup power by fit.",
   "homepage": "https://backup-power-finder.pages.dev",
   "docs": "https://backup-power-finder.pages.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "backup-power-finder": {

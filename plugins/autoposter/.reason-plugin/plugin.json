@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://autoposter.ai",
   "docs": "https://autoposter.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "autoposter": {

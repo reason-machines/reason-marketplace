@@ -4,6 +4,7 @@
   "description": "Review contracts & documents.",
   "homepage": "https://audittrove.com",
   "docs": "https://audittrove.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "audittrove": {

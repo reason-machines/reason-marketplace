@@ -4,6 +4,7 @@
   "description": "Workspace for Humans + AI.",
   "homepage": "https://ambiguous.ai",
   "docs": "https://ambiguous.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ambiguous-workspace": {

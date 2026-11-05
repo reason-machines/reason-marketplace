@@ -4,6 +4,7 @@
   "description": "Developer evidence and badges.",
   "homepage": "https://chapa.thecreativetoken.com",
   "docs": "https://chapa.thecreativetoken.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chapa": {

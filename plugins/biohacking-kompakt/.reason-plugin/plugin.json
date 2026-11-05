@@ -4,6 +4,7 @@
   "description": "Studienlage zu Supplements.",
   "homepage": "https://biohackingkompakt.de",
   "docs": "https://biohackingkompakt.de",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "biohacking-kompakt": {

@@ -4,6 +4,7 @@
   "description": "YouTube video transcripts.",
   "homepage": "https://bulktranscripts.co",
   "docs": "https://bulktranscripts.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bulktranscripts": {

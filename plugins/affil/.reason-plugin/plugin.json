@@ -4,6 +4,7 @@
   "description": "Review affiliate content.",
   "homepage": "https://www.affil.ai",
   "docs": "https://www.affil.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "affil": {

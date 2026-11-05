@@ -4,6 +4,7 @@
   "description": "Markets and world risk, daily.",
   "homepage": "https://antevo.ch/mcp",
   "docs": "https://antevo.ch/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "antevo-executive-brief": {

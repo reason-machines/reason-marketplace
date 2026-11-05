@@ -4,6 +4,7 @@
   "description": "Inspect and test front desks.",
   "homepage": "https://amfionhq.com",
   "docs": "https://amfionhq.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "amfion-front-desk": {

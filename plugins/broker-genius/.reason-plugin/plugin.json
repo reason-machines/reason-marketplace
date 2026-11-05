@@ -4,6 +4,7 @@
   "description": "Find HS codes for products.",
   "homepage": "https://brokergenius.ai/",
   "docs": "https://brokergenius.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "broker-genius": {

@@ -4,6 +4,7 @@
   "description": "Public pages to datasets.",
   "homepage": "https://extract.yourfriendaya.com",
   "docs": "https://extract.yourfriendaya.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aya-web-extract": {

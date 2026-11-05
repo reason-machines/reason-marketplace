@@ -4,6 +4,7 @@
   "description": "US address lists to geography.",
   "homepage": "https://census-geocode.zovo.one",
   "docs": "https://census-geocode.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "census-geocode": {

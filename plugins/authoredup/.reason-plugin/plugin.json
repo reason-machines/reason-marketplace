@@ -4,6 +4,7 @@
   "description": "LinkedIn content workspace.",
   "homepage": "https://authoredup.com",
   "docs": "https://api.authoredup.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "authoredup": {

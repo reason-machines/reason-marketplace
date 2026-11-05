@@ -4,6 +4,7 @@
   "description": "Site analytics, links, SEO/AEO.",
   "homepage": "https://attri.io",
   "docs": "https://attri.io/docs/api/assistants/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "attri": {

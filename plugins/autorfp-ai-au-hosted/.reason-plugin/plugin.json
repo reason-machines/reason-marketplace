@@ -4,6 +4,7 @@
   "description": "Quality responses that win.",
   "homepage": "https://autorfp.ai",
   "docs": "https://autorfp.ai/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "autorfp-ai-au-hosted": {

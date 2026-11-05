@@ -4,6 +4,7 @@
   "description": "Projects, papers and grants.",
   "homepage": "https://www.acatrove.com",
   "docs": "https://acatrove.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "acatrove": {

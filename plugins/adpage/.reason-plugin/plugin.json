@@ -4,6 +4,7 @@
   "description": "Marketing & Tracking Analytics.",
   "homepage": "https://www.adpage.io",
   "docs": "https://www.adpage.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adpage": {

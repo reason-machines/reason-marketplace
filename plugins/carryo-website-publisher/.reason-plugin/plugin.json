@@ -4,6 +4,7 @@
   "description": "Publish a website.",
   "homepage": "https://carryo.io",
   "docs": "https://carryo.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "carryo-website-publisher": {

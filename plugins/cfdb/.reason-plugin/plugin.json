@@ -4,6 +4,7 @@
   "description": "Consulta el fútbol chileno.",
   "homepage": "https://www.cfdb.cl",
   "docs": "https://www.cfdb.cl",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cfdb": {

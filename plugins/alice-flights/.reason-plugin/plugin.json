@@ -4,6 +4,7 @@
   "description": "Israel-based flight search.",
   "homepage": "https://alice.co.il",
   "docs": "https://alice.co.il",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alice-flights": {

@@ -4,6 +4,7 @@
   "description": "Sales productivity for deals.",
   "homepage": "https://www.aircover.ai/developers",
   "docs": "https://www.aircover.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aircover": {

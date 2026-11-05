@@ -4,6 +4,7 @@
   "description": "Decline & dispute answers.",
   "homepage": "https://beastinsights.com",
   "docs": "https://beastinsights.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beast-insights": {

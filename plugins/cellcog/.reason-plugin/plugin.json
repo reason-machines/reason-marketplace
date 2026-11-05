@@ -4,6 +4,7 @@
   "description": "Briefs in, finished work out.",
   "homepage": "https://cellcog.ai",
   "docs": "https://cellcog.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cellcog": {

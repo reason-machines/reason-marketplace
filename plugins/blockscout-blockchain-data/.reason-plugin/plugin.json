@@ -4,6 +4,7 @@
   "description": "Find & analyze blockchain data.",
   "homepage": "https://www.blockscout.com/",
   "docs": "https://www.blockscout.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "blockscout-blockchain-data": {

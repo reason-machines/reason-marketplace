@@ -4,6 +4,7 @@
   "description": "Plan, approve, publish posts.",
   "homepage": "https://planner.8digitcreative.com",
   "docs": "https://planner.8digitcreative.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "8digit-planner": {

@@ -4,6 +4,7 @@
   "description": "Find short dramas to watch.",
   "homepage": "https://binge.tube",
   "docs": "https://binge.tube",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bingetube": {

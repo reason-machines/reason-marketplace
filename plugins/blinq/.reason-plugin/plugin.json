@@ -4,6 +4,7 @@
   "description": "Find contacts and search notes.",
   "homepage": "https://blinq.me/",
   "docs": "https://blinq.me/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "blinq": {

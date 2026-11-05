@@ -4,6 +4,7 @@
   "description": "Open Crew Hub in Reason.",
   "homepage": "https://arrayco-crew-hub-plugin.arrayco.chatgpt.site",
   "docs": "https://arrayco-crew-hub-plugin.arrayco.chatgpt.site",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "arrayco-crew-hub": {

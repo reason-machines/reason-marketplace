@@ -4,6 +4,7 @@
   "description": "B2B sales signals & intent.",
   "homepage": "https://www.autobound.ai",
   "docs": "https://www.autobound.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "autobound": {

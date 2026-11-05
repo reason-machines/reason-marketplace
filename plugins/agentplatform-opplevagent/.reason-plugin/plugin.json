@@ -4,6 +4,7 @@
   "description": "Find Norwegian experiences.",
   "homepage": "https://opplevagent.no",
   "docs": "https://opplevagent.no",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agentplatform-opplevagent": {

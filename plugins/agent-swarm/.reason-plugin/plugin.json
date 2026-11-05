@@ -4,6 +4,7 @@
   "description": "Run your self-hosted swarm.",
   "homepage": "https://agent-swarm.dev",
   "docs": "https://agent-swarm.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agent-swarm": {

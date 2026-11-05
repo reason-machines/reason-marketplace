@@ -4,6 +4,7 @@
   "description": "Airbnb market data & estimates.",
   "homepage": "https://www.getchalet.com",
   "docs": "https://www.getchalet.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chalet": {

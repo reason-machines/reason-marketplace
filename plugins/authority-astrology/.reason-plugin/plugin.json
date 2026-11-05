@@ -4,6 +4,7 @@
   "description": "Birth chart calculator.",
   "homepage": "https://authorityastrology.com/developers",
   "docs": "https://authorityastrology.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "authority-astrology": {

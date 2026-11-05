@@ -4,6 +4,7 @@
   "description": "Lab consumables in stock.",
   "homepage": "https://arcticsci.com/ai",
   "docs": "https://arcticsci.com/ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "arctic-white": {

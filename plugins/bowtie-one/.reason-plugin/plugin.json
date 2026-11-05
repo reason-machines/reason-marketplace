@@ -4,6 +4,7 @@
   "description": "Build and review bowtie risks.",
   "homepage": "https://www.bowtie.one",
   "docs": "https://bowtie.one/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bowtie-one": {

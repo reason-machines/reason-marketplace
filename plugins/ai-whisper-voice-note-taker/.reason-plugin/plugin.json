@@ -4,6 +4,7 @@
   "description": "Chat with your voice memos.",
   "homepage": "https://whisprnotes.app",
   "docs": "https://api.whisprnotes.app/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ai-whisper-voice-note-taker": {

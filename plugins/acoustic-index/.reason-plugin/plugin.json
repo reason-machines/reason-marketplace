@@ -4,6 +4,7 @@
   "description": "Room acoustics and absorbers.",
   "homepage": "https://acousticindex.com",
   "docs": "https://acousticindex.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "acoustic-index": {

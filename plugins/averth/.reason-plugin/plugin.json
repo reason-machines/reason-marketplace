@@ -4,6 +4,7 @@
   "description": "True cost of every agent run.",
   "homepage": "https://getaverth.com",
   "docs": "https://getaverth.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "averth": {

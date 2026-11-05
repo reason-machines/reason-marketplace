@@ -4,6 +4,7 @@
   "description": "Transcribe & search audio.",
   "homepage": "https://www.audioscrape.com",
   "docs": "https://www.audioscrape.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "audioscrape": {

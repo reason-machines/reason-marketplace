@@ -4,6 +4,7 @@
   "description": "Boxing schedules and records.",
   "homepage": "https://boxerbook.com",
   "docs": "https://boxerbook.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "boxerbook": {

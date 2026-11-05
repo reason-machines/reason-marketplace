@@ -4,6 +4,7 @@
   "description": "Bolt pattern and wheel fitment.",
   "homepage": "https://checkfitment.com",
   "docs": "https://checkfitment.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "checkfitment": {

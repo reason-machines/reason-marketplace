@@ -4,6 +4,7 @@
   "description": "Printable bingo cards & caller.",
   "homepage": "https://bingo-cards.zovo.one",
   "docs": "https://bingo-cards.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bingo-cards": {

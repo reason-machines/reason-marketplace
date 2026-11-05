@@ -4,6 +4,7 @@
   "description": "Manage records and workflows.",
   "homepage": "https://www.anydb.com",
   "docs": "https://www.anydb.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "anydb": {

@@ -4,6 +4,7 @@
   "description": "Compare Auto Insurance Rates.",
   "homepage": "https://www.amaxinsurance.com/",
   "docs": "https://tedix.dev/apps/a-max-auto-insurance/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "a-max-auto-insurance": {

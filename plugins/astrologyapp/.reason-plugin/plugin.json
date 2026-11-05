@@ -4,6 +4,7 @@
   "description": "Your birth chart, in chat.",
   "homepage": "https://www.astrologyapp.net",
   "docs": "https://www.astrologyapp.net/mapa-astral-no-chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "astrologyapp": {

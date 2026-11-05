@@ -4,6 +4,7 @@
   "description": "Predictive intelligence.",
   "homepage": "https://cbinsights.com",
   "docs": "https://cbinsights.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cb-insights": {

@@ -4,6 +4,7 @@
   "description": "Check an AI agent's record.",
   "homepage": "https://craigmbrown.com/blindoracle/",
   "docs": "https://craigmbrown.com/blindoracle/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "blindoracle-agent-trust": {

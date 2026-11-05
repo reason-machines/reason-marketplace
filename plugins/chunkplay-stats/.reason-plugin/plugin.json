@@ -4,6 +4,7 @@
   "description": "NFL stats with sources.",
   "homepage": "https://chunkplaystats.com",
   "docs": "https://chunkplaystats.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chunkplay-stats": {

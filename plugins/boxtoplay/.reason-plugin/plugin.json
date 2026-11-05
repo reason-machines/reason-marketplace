@@ -4,6 +4,7 @@
   "description": "Manage game servers and VPS.",
   "homepage": "https://www.boxtoplay.com/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.boxtoplay",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "boxtoplay": {

@@ -4,6 +4,7 @@
   "description": "Build websites and mobile apps.",
   "homepage": "https://blink.new",
   "docs": "https://blink.new",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "blink": {

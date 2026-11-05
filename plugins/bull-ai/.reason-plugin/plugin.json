@@ -4,6 +4,7 @@
   "description": "Indian stock market documents.",
   "homepage": "https://www.bull-ai.in",
   "docs": "https://www.bull-ai.in",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bull-ai": {

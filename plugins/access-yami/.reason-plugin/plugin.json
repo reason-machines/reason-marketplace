@@ -4,6 +4,7 @@
   "description": "Shop all of Asia's best.",
   "homepage": "https://www.yami.com",
   "docs": "https://www.yami.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "access-yami": {

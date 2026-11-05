@@ -4,6 +4,7 @@
   "description": "Post tasks and hire taskers.",
   "homepage": "https://www.airtasker.com",
   "docs": "https://www.airtasker.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "airtasker": {

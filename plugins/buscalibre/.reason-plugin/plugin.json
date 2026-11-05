@@ -4,6 +4,7 @@
   "description": "Find books with local prices.",
   "homepage": "https://www.buscalibre.com",
   "docs": "https://www.buscalibre.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "buscalibre": {

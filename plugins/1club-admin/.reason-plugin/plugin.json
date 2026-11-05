@@ -4,6 +4,7 @@
   "description": "Run your club from Reason.",
   "homepage": "https://1club.ai",
   "docs": "https://1club.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "1club-admin": {

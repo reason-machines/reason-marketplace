@@ -4,6 +4,7 @@
   "description": "Manufacturing cost insights.",
   "homepage": "https://arcnm.io",
   "docs": "https://arcnm.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "arcnm": {

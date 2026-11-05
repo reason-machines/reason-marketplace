@@ -4,6 +4,7 @@
   "description": "Return facts before you buy.",
   "homepage": "https://buyrecord.app",
   "docs": "https://buyrecord.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "buyrecord": {

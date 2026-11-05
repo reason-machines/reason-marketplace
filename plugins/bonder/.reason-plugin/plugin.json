@@ -4,6 +4,7 @@
   "description": "Plan trips with your group.",
   "homepage": "https://bonder.us",
   "docs": "https://bonder.us",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bonder": {

@@ -4,6 +4,7 @@
   "description": "Insurance in North Cyprus.",
   "homepage": "https://aveoninsurance.com/en",
   "docs": "https://aveoninsurance.com/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aveon-sigorta": {

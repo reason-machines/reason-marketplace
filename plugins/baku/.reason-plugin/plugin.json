@@ -4,6 +4,7 @@
   "description": "Your card credits, managed.",
   "homepage": "https://usebaku.com",
   "docs": "https://usebaku.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "baku": {

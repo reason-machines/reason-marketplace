@@ -4,6 +4,7 @@
   "description": "Save post & email drafts.",
   "homepage": "https://www.chatifyit.com",
   "docs": "https://www.chatifyit.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chatifyit": {

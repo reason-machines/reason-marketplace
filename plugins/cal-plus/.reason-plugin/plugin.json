@@ -4,6 +4,7 @@
   "description": "Personal Nutrition Coach.",
   "homepage": "https://calplus.app/",
   "docs": "https://calplus.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cal-plus": {

@@ -4,6 +4,7 @@
   "description": "Google Ads you approve, undo.",
   "homepage": "https://camberstack.io",
   "docs": "https://camberstack.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "camberstack": {

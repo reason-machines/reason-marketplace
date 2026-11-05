@@ -4,6 +4,7 @@
   "description": "Call through Reason.",
   "homepage": "https://theaiwebcompany.com/",
   "docs": "https://theaiwebcompany.com/mcp-server",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aiweb-call": {

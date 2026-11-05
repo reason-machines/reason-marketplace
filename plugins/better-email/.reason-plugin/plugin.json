@@ -4,6 +4,7 @@
   "description": "Build on-brand email campaigns.",
   "homepage": "https://better.email",
   "docs": "https://better.email",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "better-email": {

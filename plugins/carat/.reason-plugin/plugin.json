@@ -4,6 +4,7 @@
   "description": "Create AI images and videos.",
   "homepage": "https://carat.im",
   "docs": "https://carat.im",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "carat": {

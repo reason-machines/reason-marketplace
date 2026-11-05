@@ -4,6 +4,7 @@
   "description": "AI workflow automation.",
   "homepage": "https://www.activepieces.com",
   "docs": "https://www.activepieces.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "activepieces-cloud-plugin": {

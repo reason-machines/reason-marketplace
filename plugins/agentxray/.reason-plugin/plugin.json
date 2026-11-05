@@ -4,6 +4,7 @@
   "description": "Amazon seller profit and PPC.",
   "homepage": "https://agentxray.ai/connect/chatgpt",
   "docs": "https://agentxray.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentxray": {

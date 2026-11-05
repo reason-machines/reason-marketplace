@@ -4,6 +4,7 @@
   "description": "Order products through Axiom.",
   "homepage": "https://www.useaxiom.ai",
   "docs": "https://www.useaxiom.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "axiom-axiom": {

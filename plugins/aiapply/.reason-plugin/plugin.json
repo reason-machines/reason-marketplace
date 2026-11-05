@@ -4,6 +4,7 @@
   "description": "Find jobs and apply with AI.",
   "homepage": "https://aiapply.co",
   "docs": "https://aiapply.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aiapply": {

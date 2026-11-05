@@ -4,6 +4,7 @@
   "description": "Get Your Visa on Time.",
   "homepage": "https://www.atlys.com/",
   "docs": "https://www.atlys.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "atlys": {

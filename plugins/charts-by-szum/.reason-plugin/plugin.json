@@ -4,6 +4,7 @@
   "description": "Turn data into polished charts.",
   "homepage": "https://szum.io",
   "docs": "https://szum.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "charts-by-szum": {

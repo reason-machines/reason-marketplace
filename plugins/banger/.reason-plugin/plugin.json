@@ -4,6 +4,7 @@
   "description": "Design, send, automate email.",
   "homepage": "https://bangermail.com",
   "docs": "https://bangermail.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "banger": {

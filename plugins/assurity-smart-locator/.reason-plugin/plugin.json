@@ -4,6 +4,7 @@
   "description": "Find a collision repair center.",
   "homepage": "https://collisionrepairlocator.com/connect",
   "docs": "https://collisionrepairlocator.com/connect",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "assurity-smart-locator": {

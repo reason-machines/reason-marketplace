@@ -4,6 +4,7 @@
   "description": "Manage interior design work.",
   "homepage": "https://getatelier.design",
   "docs": "https://getatelier.design/product/ai-connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atelier": {

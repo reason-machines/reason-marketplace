@@ -4,6 +4,7 @@
   "description": "Vad bilen kostar att äga.",
   "homepage": "https://www.bilkopskollen.se/",
   "docs": "https://www.bilkopskollen.se/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bilkopskollen": {

@@ -4,6 +4,7 @@
   "description": "Animated sprites for games.",
   "homepage": "https://www.autosprite.io/chatgpt",
   "docs": "https://autosprite.io/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "autosprite": {

@@ -4,6 +4,7 @@
   "description": "Design better agent systems.",
   "homepage": "https://agentic-atlas.dev/",
   "docs": "https://agentic-atlas.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agentic-atlas": {

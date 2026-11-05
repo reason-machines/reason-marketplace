@@ -4,6 +4,7 @@
   "description": "Finn, your AI accountant.",
   "homepage": "https://accounts-os.com",
   "docs": "https://accounts-os.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "accountsos": {

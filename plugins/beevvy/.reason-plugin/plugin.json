@@ -4,6 +4,7 @@
   "description": "Loyalty, missions and rewards.",
   "homepage": "https://beevvy.com",
   "docs": "https://beevvy.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beevvy": {

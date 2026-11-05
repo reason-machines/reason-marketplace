@@ -4,6 +4,7 @@
   "description": "Create, find and manage work.",
   "homepage": "https://automo.ai",
   "docs": "https://automo.ai/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "automo": {

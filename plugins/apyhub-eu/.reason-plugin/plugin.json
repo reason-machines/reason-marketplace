@@ -4,6 +4,7 @@
   "description": "Discover and run APIs.",
   "homepage": "https://apyhub.com/",
   "docs": "https://apyhub.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "apyhub-eu": {

@@ -4,6 +4,7 @@
   "description": "Find and compare cars for sale.",
   "homepage": "https://carhandshake.com",
   "docs": "https://carhandshake.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "car-handshake": {

@@ -4,6 +4,7 @@
   "description": "Find wellness that fits.",
   "homepage": "https://www.athlo.app/",
   "docs": "https://www.athlo.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "athlo": {

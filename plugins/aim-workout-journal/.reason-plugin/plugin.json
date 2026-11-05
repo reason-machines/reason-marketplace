@@ -4,6 +4,7 @@
   "description": "Log workouts, track progress.",
   "homepage": "https://aim-journal.com/",
   "docs": "https://aim-journal.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aim-workout-journal": {

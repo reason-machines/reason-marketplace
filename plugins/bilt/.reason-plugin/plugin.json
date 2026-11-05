@@ -4,6 +4,7 @@
   "description": "Build mobile apps with AI.",
   "homepage": "https://bilt.me",
   "docs": "https://bilt.me",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bilt": {

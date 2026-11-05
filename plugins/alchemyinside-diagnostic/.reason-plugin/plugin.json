@@ -4,6 +4,7 @@
   "description": "Find your practice's leaks.",
   "homepage": "https://alchemyinside.com/scorecard/",
   "docs": "https://alchemyinside.com/scorecard/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "alchemyinside-diagnostic": {

@@ -4,6 +4,7 @@
   "description": "Access personal knowledge.",
   "homepage": "https://capacities.io",
   "docs": "https://api.capacities.io/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "capacities": {

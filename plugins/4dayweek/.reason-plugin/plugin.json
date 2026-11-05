@@ -4,6 +4,7 @@
   "description": "Find 4-day-week jobs.",
   "homepage": "https://4dayweek.io",
   "docs": "https://4dayweek.io/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "4dayweek": {

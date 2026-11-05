@@ -4,6 +4,7 @@
   "description": "Book and manage meetings.",
   "homepage": "https://www.bookwithschedulo.com/",
   "docs": "https://www.bookwithschedulo.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "book-with-schedulo": {

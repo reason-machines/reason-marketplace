@@ -4,6 +4,7 @@
   "description": "Create media with 400+ models.",
   "homepage": "https://www.atlascloud.ai/",
   "docs": "https://www.atlascloud.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atlas-cloud": {

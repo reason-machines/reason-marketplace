@@ -4,6 +4,7 @@
   "description": "Real people, real verdicts.",
   "homepage": "https://askajury.com",
   "docs": "https://askajury.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ask-a-jury": {

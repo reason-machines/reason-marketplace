@@ -4,6 +4,7 @@
   "description": "Inspect and recheck your pages.",
   "homepage": "https://aivisibilitystudio.com/plugin-support",
   "docs": "https://aivisibilitystudio.com/plugin-support",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ai-visibility-studio": {

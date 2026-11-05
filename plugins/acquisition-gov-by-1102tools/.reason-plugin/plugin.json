@@ -4,6 +4,7 @@
   "description": "Explore FAR Overhaul guidance.",
   "homepage": "https://1102tools.com",
   "docs": "https://1102tools.com/mcp/acquisition-gov",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "acquisition-gov-by-1102tools": {

@@ -4,6 +4,7 @@
   "description": "Keep your AI up to date.",
   "homepage": "https://talarion.com",
   "docs": "https://talarion.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "acumen-by-talarion": {

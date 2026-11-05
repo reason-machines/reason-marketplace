@@ -4,6 +4,7 @@
   "description": "Manage your beehives.",
   "homepage": "https://www.beentry.com",
   "docs": "https://www.beentry.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "beentry": {

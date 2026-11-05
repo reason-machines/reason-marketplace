@@ -4,6 +4,7 @@
   "description": "B2B market-entry research.",
   "homepage": "https://galaxy.apieceofmap.com/connector",
   "docs": "https://galaxy.apieceofmap.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "apim-galaxy": {

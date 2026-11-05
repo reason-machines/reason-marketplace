@@ -4,6 +4,7 @@
   "description": "Historical DCA simulator.",
   "homepage": "https://btcdcaengine.com/mcp-server",
   "docs": "https://btcdcaengine.com/mcp-server",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "btc-dca-engine": {

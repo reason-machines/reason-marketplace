@@ -4,6 +4,7 @@
   "description": "UK import duty and sourcing.",
   "homepage": "https://camchinabridge.co.uk/",
   "docs": "https://camchinabridge.co.uk/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cambridge-china-bridge": {

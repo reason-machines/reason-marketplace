@@ -4,6 +4,7 @@
   "description": "Research baby & kids products.",
   "homepage": "https://www.birchstore.com",
   "docs": "https://www.birchstore.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "birch": {

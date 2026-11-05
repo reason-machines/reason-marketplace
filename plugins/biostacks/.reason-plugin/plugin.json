@@ -4,6 +4,7 @@
   "description": "Supplements review by evidence.",
   "homepage": "https://biostacks.co",
   "docs": "https://biostacks.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "biostacks": {

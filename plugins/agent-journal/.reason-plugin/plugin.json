@@ -4,6 +4,7 @@
   "description": "A journal that grows with you.",
   "homepage": "https://foldedpage.app",
   "docs": "https://foldedpage.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agent-journal": {

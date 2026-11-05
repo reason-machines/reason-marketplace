@@ -4,6 +4,7 @@
   "description": "Find courses and podcasts.",
   "homepage": "https://boluda.com/",
   "docs": "https://boluda.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "boluda": {

@@ -4,6 +4,7 @@
   "description": "App Store keyword research.",
   "homepage": "https://aso.best",
   "docs": "https://aso.best",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aso-best": {

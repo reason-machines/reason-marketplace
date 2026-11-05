@@ -4,6 +4,7 @@
   "description": "Design screens and diagrams.",
   "homepage": "https://www.builderii.com",
   "docs": "https://www.builderii.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "builderii": {

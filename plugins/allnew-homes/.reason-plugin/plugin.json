@@ -4,6 +4,7 @@
   "description": "Find new-construction homes.",
   "homepage": "https://allnew.homes/plugin",
   "docs": "https://allnew.homes/plugin",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "allnew-homes": {

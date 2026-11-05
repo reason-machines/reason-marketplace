@@ -4,6 +4,7 @@
   "description": "Track shows and movies.",
   "homepage": "https://bingers.app",
   "docs": "https://bingers.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bingers": {

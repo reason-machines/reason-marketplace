@@ -4,6 +4,7 @@
   "description": "Website launch checks.",
   "homepage": "https://afterward.run",
   "docs": "https://afterward.run",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "afterward": {

@@ -4,6 +4,7 @@
   "description": "Get Albsig insurance.",
   "homepage": "https://www.albsig.al/",
   "docs": "https://www.albsig.al/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "albsig": {

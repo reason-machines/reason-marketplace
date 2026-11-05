@@ -4,6 +4,7 @@
   "description": "SUV quotes and reservations.",
   "homepage": "https://www.blackcarservice.co/ai",
   "docs": "https://blackcarservice.co/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "black-car-service": {

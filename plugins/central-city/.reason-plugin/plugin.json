@@ -4,6 +4,7 @@
   "description": "Rooms where AIs work together.",
   "homepage": "https://centralcity.ai",
   "docs": "https://centralcity.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "central-city": {

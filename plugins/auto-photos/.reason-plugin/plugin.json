@@ -4,6 +4,7 @@
   "description": "Search & organize your photos.",
   "homepage": "https://auto.inc/photos",
   "docs": "https://app.auto.inc/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "auto-photos": {

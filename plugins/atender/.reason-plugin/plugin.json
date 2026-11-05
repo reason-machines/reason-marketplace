@@ -4,6 +4,7 @@
   "description": "Support answers and staffing.",
   "homepage": "https://www.atender.com",
   "docs": "https://www.atender.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atender": {

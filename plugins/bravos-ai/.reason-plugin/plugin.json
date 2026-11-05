@@ -4,6 +4,7 @@
   "description": "Train and manage your chatbot.",
   "homepage": "https://bravos-ai.com/en",
   "docs": "https://bravos-ai.com/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bravos-ai": {

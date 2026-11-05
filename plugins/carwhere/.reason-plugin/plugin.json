@@ -4,6 +4,7 @@
   "description": "VIN & window sticker lookup.",
   "homepage": "https://www.carwhere.com",
   "docs": "https://carwhere.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "carwhere": {

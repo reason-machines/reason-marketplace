@@ -4,6 +4,7 @@
   "description": "Bookings and business tools.",
   "homepage": "https://booklee.app",
   "docs": "https://booklee.app/plugins/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "booklee": {

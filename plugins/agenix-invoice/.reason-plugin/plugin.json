@@ -4,6 +4,7 @@
   "description": "Chat with AI. Invoice done.",
   "homepage": "https://invoice.agenix.bot/",
   "docs": "https://invoice.agenix.bot/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agenix-invoice": {

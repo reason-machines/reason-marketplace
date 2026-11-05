@@ -4,6 +4,7 @@
   "description": "Close mortgage loans in days.",
   "homepage": "https://addy.com/",
   "docs": "https://tedix.dev/apps/addy-ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "addy-ai": {

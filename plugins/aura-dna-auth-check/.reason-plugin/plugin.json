@@ -4,6 +4,7 @@
   "description": "Color seasons & personal style.",
   "homepage": "https://auradna.app",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.ishtiaqrahman/aura-dna",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aura-dna-auth-check": {

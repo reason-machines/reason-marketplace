@@ -4,6 +4,7 @@
   "description": "Create app launch assets.",
   "homepage": "https://www.applaunchflow.com",
   "docs": "https://www.applaunchflow.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "applaunchflow": {

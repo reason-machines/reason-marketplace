@@ -4,6 +4,7 @@
   "description": "Draft posts, check approvals.",
   "homepage": "https://agentfabrica.com/en",
   "docs": "https://agentfabrica.com/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agentfabrica": {

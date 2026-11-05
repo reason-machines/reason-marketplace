@@ -4,6 +4,7 @@
   "description": "Public records and teardowns.",
   "homepage": "https://brickandmortar.dev/",
   "docs": "https://brickandmortar.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "brick-and-mortar-public-records": {

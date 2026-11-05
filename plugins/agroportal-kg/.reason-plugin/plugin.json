@@ -4,6 +4,7 @@
   "description": "Аграрный маркетплейс.",
   "homepage": "https://agroportal.kg/",
   "docs": "https://agroportal.kg/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agroportal-kg": {

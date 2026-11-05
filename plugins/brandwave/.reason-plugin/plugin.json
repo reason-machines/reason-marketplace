@@ -4,6 +4,7 @@
   "description": "See what your marketing did.",
   "homepage": "https://gobrandwave.com",
   "docs": "https://gobrandwave.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "brandwave": {

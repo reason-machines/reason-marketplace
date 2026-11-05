@@ -4,6 +4,7 @@
   "description": "Create images, videos, and ads.",
   "homepage": "https://www.buzzy.now",
   "docs": "https://www.buzzy.now",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buzzy": {

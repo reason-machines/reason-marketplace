@@ -4,6 +4,7 @@
   "description": "Review calls and transcripts.",
   "homepage": "https://www.call-trace.com",
   "docs": "https://www.call-trace.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "call-trace": {

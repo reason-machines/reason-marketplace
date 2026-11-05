@@ -4,6 +4,7 @@
   "description": "AI text checker with scores.",
   "homepage": "https://aigptzero.com/",
   "docs": "https://aigptzero.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ai-detector-by-ai-gpt-zero": {

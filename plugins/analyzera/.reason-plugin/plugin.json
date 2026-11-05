@@ -4,6 +4,7 @@
   "description": "Build and backtest strategies.",
   "homepage": "https://analyzera.com",
   "docs": "https://analyzera.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "analyzera": {

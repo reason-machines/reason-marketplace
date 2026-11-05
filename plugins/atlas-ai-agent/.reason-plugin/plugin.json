@@ -4,6 +4,7 @@
   "description": "Briefings, leads, post drafts.",
   "homepage": "https://atlas.ayonix.com",
   "docs": "https://atlas.ayonix.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "atlas-ai-agent": {

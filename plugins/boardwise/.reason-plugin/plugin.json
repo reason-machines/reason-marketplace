@@ -4,6 +4,7 @@
   "description": "Help with Board Matters.",
   "homepage": "https://boardwise.online/",
   "docs": "https://boardwise.online/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "boardwise": {

@@ -4,6 +4,7 @@
   "description": "Review dealership records.",
   "homepage": "https://cardealertracker.app",
   "docs": "https://cardealertracker.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "car-dealer-tracker": {

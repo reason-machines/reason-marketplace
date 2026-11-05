@@ -4,6 +4,7 @@
   "description": "Explore official drug labels.",
   "homepage": "https://medicines.cairoplatform.com/",
   "docs": "https://medicines.cairoplatform.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cairo-medicines": {

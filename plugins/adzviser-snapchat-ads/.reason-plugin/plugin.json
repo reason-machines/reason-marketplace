@@ -4,6 +4,7 @@
   "description": "Talk to your Snapchat Ads data.",
   "homepage": "https://adzviser.com",
   "docs": "https://adzviser.com/mcp/snapchat-ads",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adzviser-snapchat-ads": {

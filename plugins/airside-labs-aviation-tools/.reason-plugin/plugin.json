@@ -4,6 +4,7 @@
   "description": "Aviation facts and use cases.",
   "homepage": "https://airsidelabs.com",
   "docs": "https://airsidelabs.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "airside-labs-aviation-tools": {

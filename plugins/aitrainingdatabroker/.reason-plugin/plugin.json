@@ -4,6 +4,7 @@
   "description": "AI training data, answered.",
   "homepage": "https://aitrainingdatabroker.com",
   "docs": "https://aitrainingdatabroker.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aitrainingdatabroker": {

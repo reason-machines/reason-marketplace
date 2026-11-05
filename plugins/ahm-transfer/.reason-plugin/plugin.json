@@ -4,6 +4,7 @@
   "description": "Airport transfers in Alanya.",
   "homepage": "https://ahmtransfer.com/en/",
   "docs": "https://ahmtransfer.com/en/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ahm-transfer": {

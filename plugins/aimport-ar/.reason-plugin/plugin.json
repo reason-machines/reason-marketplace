@@ -4,6 +4,7 @@
   "description": "Argentine import data.",
   "homepage": "https://aimport.ar/importbrain",
   "docs": "https://aimport.ar/importbrain",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aimport-ar": {

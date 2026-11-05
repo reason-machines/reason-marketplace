@@ -4,6 +4,7 @@
   "description": "Track work on iPhone widgets.",
   "homepage": "https://00widget.com/",
   "docs": "https://00widget.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "00widget": {

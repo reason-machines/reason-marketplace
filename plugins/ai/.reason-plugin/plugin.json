@@ -4,6 +4,7 @@
   "description": "台灣房價行情.",
   "homepage": "https://shijia-ai.com",
   "docs": "https://tedix.dev/apps/ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ai": {

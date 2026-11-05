@@ -4,6 +4,7 @@
   "description": "Manage work and team chat.",
   "homepage": "https://www.basicops.com/",
   "docs": "https://www.basicops.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "basicops": {

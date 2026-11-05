@@ -4,6 +4,7 @@
   "description": "Create and publish apps.",
   "homepage": "https://aqteron.com",
   "docs": "https://aqteron.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aqteron": {

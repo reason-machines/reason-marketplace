@@ -4,6 +4,7 @@
   "description": "PDF-Formulare ausfüllen.",
   "homepage": "https://ausfuellpilot.de",
   "docs": "https://ausfuellpilot.de/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ausfuellpilot": {

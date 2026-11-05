@@ -4,6 +4,7 @@
   "description": "Find a personal assistant.",
   "homepage": "https://textwithassistants.com/",
   "docs": "https://textwithassistants.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "auto-message": {

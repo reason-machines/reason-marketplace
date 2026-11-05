@@ -4,6 +4,7 @@
   "description": "Detect Fraud in Images and PDF.",
   "homepage": "https://www.bynn.com",
   "docs": "https://www.bynn.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bynn": {

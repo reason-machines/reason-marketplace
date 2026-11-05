@@ -4,6 +4,7 @@
   "description": "Check what hosts allow agents.",
   "homepage": "https://agenthelpnetwork.com/en/agents",
   "docs": "https://agenthelpnetwork.com/en/agents",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agent-help-network": {

@@ -4,6 +4,7 @@
   "description": "Share pages and documents.",
   "homepage": "https://attachpage.com",
   "docs": "https://attachpage.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "attachpage": {

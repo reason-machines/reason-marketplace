@@ -4,6 +4,7 @@
   "description": "Invoicing & business admin.",
   "homepage": "https://bookipi.com",
   "docs": "https://bookipi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bookipi": {

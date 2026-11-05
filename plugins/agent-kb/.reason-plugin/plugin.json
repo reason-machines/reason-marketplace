@@ -4,6 +4,7 @@
   "description": "整理你的筆記與學習知識.",
   "homepage": "https://agent-kb.cooperation.tw",
   "docs": "https://agent-kb.cooperation.tw/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agent-kb": {

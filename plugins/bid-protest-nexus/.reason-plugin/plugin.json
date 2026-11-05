@@ -4,6 +4,7 @@
   "description": "Search GAO bid protest rulings.",
   "homepage": "https://acqagent.ai",
   "docs": "https://acqagent.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bid-protest-nexus": {

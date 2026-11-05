@@ -4,6 +4,7 @@
   "description": "Plan and manage award entries.",
   "homepage": "https://awardy.ai",
   "docs": "https://awardy.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "awardy": {

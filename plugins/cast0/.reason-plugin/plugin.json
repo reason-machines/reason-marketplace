@@ -4,6 +4,7 @@
   "description": "Turn any text into a podcast.",
   "homepage": "https://cast0.ai/",
   "docs": "https://cast0.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cast0": {

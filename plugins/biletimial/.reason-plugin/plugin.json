@@ -4,6 +4,7 @@
   "description": "Search flights, book easily.",
   "homepage": "https://biletimial.com",
   "docs": "https://biletimial.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "biletimial": {

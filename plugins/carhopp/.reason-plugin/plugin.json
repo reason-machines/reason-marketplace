@@ -4,6 +4,7 @@
   "description": "Compare car rentals worldwide.",
   "homepage": "https://carhopp.bot",
   "docs": "https://carhopp.bot",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "carhopp": {

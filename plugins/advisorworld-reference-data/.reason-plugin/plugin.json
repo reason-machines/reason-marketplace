@@ -4,6 +4,7 @@
   "description": "Compare U.S. tax data.",
   "homepage": "https://advisorworld.com",
   "docs": "https://tedix.dev/apps/advisorworld-reference-data/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "advisorworld-reference-data": {

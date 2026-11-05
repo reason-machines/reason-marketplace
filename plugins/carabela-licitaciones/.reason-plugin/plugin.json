@@ -4,6 +4,7 @@
   "description": "Find open public tenders.",
   "homepage": "https://carabela.ai",
   "docs": "https://carabela.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "carabela-licitaciones": {

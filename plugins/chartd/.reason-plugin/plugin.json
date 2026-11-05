@@ -4,6 +4,7 @@
   "description": "Find local events.",
   "homepage": "https://chartdapp.com",
   "docs": "https://chartdapp.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chartd": {

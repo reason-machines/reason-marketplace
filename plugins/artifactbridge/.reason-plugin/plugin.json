@@ -4,6 +4,7 @@
   "description": "Search docs, propose changes.",
   "homepage": "https://artifactbridge.com",
   "docs": "https://artifactbridge.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "artifactbridge": {

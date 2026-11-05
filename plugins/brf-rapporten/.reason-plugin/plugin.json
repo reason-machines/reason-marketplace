@@ -4,6 +4,7 @@
   "description": "Sök BRF-nyckeltal.",
   "homepage": "https://brfrapporten.se",
   "docs": "https://brfrapporten.se",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "brf-rapporten": {

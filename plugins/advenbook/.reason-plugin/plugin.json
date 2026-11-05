@@ -4,6 +4,7 @@
   "description": "Create printed adventure books.",
   "homepage": "https://www.advenbook.com/en",
   "docs": "https://advenbook.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "advenbook": {

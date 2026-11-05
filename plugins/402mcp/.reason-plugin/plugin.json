@@ -4,6 +4,7 @@
   "description": "Decode HTTP 402 payments.",
   "homepage": "https://402mcp.org",
   "docs": "https://402mcp.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "402mcp": {

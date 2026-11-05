@@ -4,6 +4,7 @@
   "description": "Make films, videos and images.",
   "homepage": "https://www.livinginmovie.com",
   "docs": "https://www.livinginmovie.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cadabra": {

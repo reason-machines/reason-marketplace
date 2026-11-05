@@ -4,6 +4,7 @@
   "description": "Quickly check rates: $€¥.",
   "homepage": "https://www.widget.olutely.com",
   "docs": "https://integrations.sh/olutely.com/any-exchange-rate-mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "any-exchange-rate": {

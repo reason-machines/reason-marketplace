@@ -4,6 +4,7 @@
   "description": "Book local home-service pros.",
   "homepage": "https://booqer.ai",
   "docs": "https://booqer.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "booqer": {

@@ -4,6 +4,7 @@
   "description": "Amtstools-Hilfe.",
   "homepage": "https://amtstools.de/ki",
   "docs": "https://amtstools.de/ki",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "amtstools": {

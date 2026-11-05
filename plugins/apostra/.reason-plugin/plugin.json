@@ -4,6 +4,7 @@
   "description": "Agentic ad distribution.",
   "homepage": "https://apostra.com/",
   "docs": "https://docs.apostra.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "apostra": {

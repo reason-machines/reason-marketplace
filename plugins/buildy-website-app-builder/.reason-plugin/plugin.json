@@ -4,6 +4,7 @@
   "description": "Sites, stores, apps & funnels.",
   "homepage": "https://www.buildy.ai",
   "docs": "https://www.buildy.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buildy-website-app-builder": {

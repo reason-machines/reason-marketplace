@@ -4,6 +4,7 @@
   "description": "Is a service down right now?",
   "homepage": "https://apistatuscheck.com/",
   "docs": "https://apistatuscheck.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "apistatuscheck": {

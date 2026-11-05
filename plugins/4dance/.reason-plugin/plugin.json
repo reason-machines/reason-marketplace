@@ -4,6 +4,7 @@
   "description": "Find your next dance event.",
   "homepage": "https://4dance.app",
   "docs": "https://api.4dance.app/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "4dance": {

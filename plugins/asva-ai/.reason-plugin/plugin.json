@@ -4,6 +4,7 @@
   "description": "See your brand on AI search.",
   "homepage": "https://asvaai.com",
   "docs": "https://asvaai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "asva-ai": {

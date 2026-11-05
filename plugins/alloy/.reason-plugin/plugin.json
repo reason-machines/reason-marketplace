@@ -4,6 +4,7 @@
   "description": "Analyze robot fleet data.",
   "homepage": "https://www.usealloy.ai/",
   "docs": "https://docs.usealloy.ai/docs/mesh-storage/explore/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alloy": {

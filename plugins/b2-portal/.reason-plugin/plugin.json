@@ -4,6 +4,7 @@
   "description": "Turn requests into RFQs.",
   "homepage": "https://b2portal.com",
   "docs": "https://api.b2portal.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "b2-portal": {

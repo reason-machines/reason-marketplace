@@ -4,6 +4,7 @@
   "description": "PR monitoring and analytics.",
   "homepage": "https://aclipp.com",
   "docs": "https://aclipp.com/en/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aclipp": {

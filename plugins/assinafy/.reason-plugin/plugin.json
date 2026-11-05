@@ -4,6 +4,7 @@
   "description": "AI-powered e-signatures.",
   "homepage": "https://www.assinafy.com.br",
   "docs": "https://www.assinafy.com.br",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "assinafy": {

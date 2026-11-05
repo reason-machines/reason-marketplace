@@ -4,6 +4,7 @@
   "description": "Transcribe audio to text.",
   "homepage": "https://accuratescribe.ai",
   "docs": "https://accuratescribe.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "accuratescribe-ai-transcribe": {

@@ -4,6 +4,7 @@
   "description": "Gear setups for any budget.",
   "homepage": "https://blackoutaudio.com",
   "docs": "https://blackoutaudio.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "blackout-audio": {

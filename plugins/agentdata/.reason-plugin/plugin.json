@@ -4,6 +4,7 @@
   "description": "Research companies and people.",
   "homepage": "https://agentdata.run",
   "docs": "https://agentdata.run",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agentdata": {

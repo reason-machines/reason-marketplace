@@ -4,6 +4,7 @@
   "description": "CRM with AI employees.",
   "homepage": "https://www.brosh.io/page/home",
   "docs": "https://www.brosh.io/page/home",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "brosh-crm": {

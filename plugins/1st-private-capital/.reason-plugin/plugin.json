@@ -4,6 +4,7 @@
   "description": "Price hard money & DSCR loans.",
   "homepage": "https://www.1stprivatecapital.com",
   "docs": "https://www.1stprivatecapital.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "1st-private-capital": {

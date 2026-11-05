@@ -4,6 +4,7 @@
   "description": "Brazilian company financials.",
   "homepage": "https://balancos.ai",
   "docs": "https://balancos.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "balancos-ai": {

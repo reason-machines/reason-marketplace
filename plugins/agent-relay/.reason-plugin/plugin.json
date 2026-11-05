@@ -4,6 +4,7 @@
   "description": "Agent sessions and messages.",
   "homepage": "https://agentrelay.com",
   "docs": "https://agentrelay.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "agent-relay": {

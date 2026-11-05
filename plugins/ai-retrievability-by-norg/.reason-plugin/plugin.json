@@ -4,6 +4,7 @@
   "description": "Make your website AI-readable.",
   "homepage": "https://www.norg.ai/",
   "docs": "https://www.norg.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ai-retrievability-by-norg": {

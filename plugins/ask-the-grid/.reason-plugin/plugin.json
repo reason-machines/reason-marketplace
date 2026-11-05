@@ -4,6 +4,7 @@
   "description": "Explore US power markets.",
   "homepage": "https://askthegrid.com",
   "docs": "https://askthegrid.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ask-the-grid": {

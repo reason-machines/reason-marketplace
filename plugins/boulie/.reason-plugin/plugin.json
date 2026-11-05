@@ -4,6 +4,7 @@
   "description": "Plan and review training.",
   "homepage": "https://boulie.ai",
   "docs": "https://boulie.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "boulie": {

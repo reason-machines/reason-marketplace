@@ -4,6 +4,7 @@
   "description": "Find U.S bids and tenders.",
   "homepage": "https://biddingsimple.com/connect",
   "docs": "https://biddingsimple.com/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "biddingsimple": {

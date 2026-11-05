@@ -4,6 +4,7 @@
   "description": "Make video ads from photos.",
   "homepage": "https://adkraft.ai",
   "docs": "https://adkraft.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adkraft": {

@@ -4,6 +4,7 @@
   "description": "Story mapping tool.",
   "homepage": "https://cartographer.studio",
   "docs": "https://cartographer.studio",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cartographer": {

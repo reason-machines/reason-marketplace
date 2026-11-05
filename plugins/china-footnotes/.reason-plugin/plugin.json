@@ -4,6 +4,7 @@
   "description": "China travel facts & tips.",
   "homepage": "https://chinafootnotes.com",
   "docs": "https://chinafootnotes.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "china-footnotes": {

@@ -4,6 +4,7 @@
   "description": "Manage Meta ads safely.",
   "homepage": "https://adsagent.md/",
   "docs": "https://adsagent.md/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adsagent": {

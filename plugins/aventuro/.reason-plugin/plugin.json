@@ -4,6 +4,7 @@
   "description": "Find places worth visiting.",
   "homepage": "https://aventuro.io",
   "docs": "https://aventuro.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aventuro": {

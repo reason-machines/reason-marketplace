@@ -4,6 +4,7 @@
   "description": "Read-only PPC account insights.",
   "homepage": "https://adszy.ai/mcp",
   "docs": "https://adszy.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adszy": {

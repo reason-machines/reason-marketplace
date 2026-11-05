@@ -4,6 +4,7 @@
   "description": "Hotel intelligence and actions.",
   "homepage": "https://www.anny.ai",
   "docs": "https://www.anny.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "anny": {

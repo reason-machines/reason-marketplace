@@ -4,6 +4,7 @@
   "description": "AI calorie counter, food diary.",
   "homepage": "https://burnweek.fit",
   "docs": "https://burnweek.fit",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "burnweek": {

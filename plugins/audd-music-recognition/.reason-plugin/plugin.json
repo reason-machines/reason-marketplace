@@ -4,6 +4,7 @@
   "description": "Identify songs in audio.",
   "homepage": "https://audd.io",
   "docs": "https://audd.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "audd-music-recognition": {

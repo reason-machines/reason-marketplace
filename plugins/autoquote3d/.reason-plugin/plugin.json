@@ -4,6 +4,7 @@
   "description": "Manage 3D print storefronts.",
   "homepage": "https://www.autoquote3d.com/",
   "docs": "https://www.autoquote3d.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "autoquote3d": {

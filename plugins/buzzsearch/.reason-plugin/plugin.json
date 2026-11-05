@@ -4,6 +4,7 @@
   "description": "Search real customer comments.",
   "homepage": "https://buzzsearch.ai/mcp",
   "docs": "https://buzzsearch.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "buzzsearch": {

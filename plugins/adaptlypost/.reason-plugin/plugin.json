@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://adaptlypost.com",
   "docs": "https://adaptlypost.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adaptlypost": {

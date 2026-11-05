@@ -4,6 +4,7 @@
   "description": "Research legal sources.",
   "homepage": "https://anylawyer.com",
   "docs": "https://anylawyer.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "anylawyer": {

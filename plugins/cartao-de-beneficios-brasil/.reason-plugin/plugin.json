@@ -4,6 +4,7 @@
   "description": "Clube de benefícios próprio.",
   "homepage": "https://www.cartaodebeneficios.com.br/",
   "docs": "https://www.cartaodebeneficios.com.br/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cartao-de-beneficios-brasil": {

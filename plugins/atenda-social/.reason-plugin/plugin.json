@@ -4,6 +4,7 @@
   "description": "Instagram posts for your brand.",
   "homepage": "https://atenda.tech/social",
   "docs": "https://atenda.tech/social",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "atenda-social": {

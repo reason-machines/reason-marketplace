@@ -4,6 +4,7 @@
   "description": "Read and change Baserow tables.",
   "homepage": "https://baserow.io",
   "docs": "https://api.baserow.io/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "baserow": {

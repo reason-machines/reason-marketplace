@@ -4,6 +4,7 @@
   "description": "Buy travel eSIMs with crypto.",
   "homepage": "https://agentroam.ai",
   "docs": "https://agentroam.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agentroam": {

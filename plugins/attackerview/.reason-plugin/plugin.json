@@ -4,6 +4,7 @@
   "description": "Website security check.",
   "homepage": "https://attackerview.com/docs/chatgpt",
   "docs": "https://attackerview.com/docs/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "attackerview": {

@@ -4,6 +4,7 @@
   "description": "Find wholesale hotel rates.",
   "homepage": "https://www.brek.com",
   "docs": "https://www.brek.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "brek-hotel-wholesale-booking": {

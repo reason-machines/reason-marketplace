@@ -4,6 +4,7 @@
   "description": "Análise e times do Cartola FC.",
   "homepage": "https://cartomantefc.com.br",
   "docs": "https://cartomantefc.com.br",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cartomante-fc": {

@@ -4,6 +4,7 @@
   "description": "Crypto intel and narratives.",
   "homepage": "https://aixbt.tech",
   "docs": "https://aixbt.tech",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "aixbt": {

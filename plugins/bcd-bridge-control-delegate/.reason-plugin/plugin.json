@@ -4,6 +4,7 @@
   "description": "Control your computer with AI.",
   "homepage": "https://bcd.snack-wrap.com/",
   "docs": "https://bcd.snack-wrap.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bcd-bridge-control-delegate": {

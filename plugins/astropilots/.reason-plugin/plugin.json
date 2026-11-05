@@ -4,6 +4,7 @@
   "description": "Astrology readings & Q&A.",
   "homepage": "https://astropilots.app",
   "docs": "https://astropilots.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "astropilots": {

@@ -4,6 +4,7 @@
   "description": "Run your store from Reason.",
   "homepage": "https://capiagent.com",
   "docs": "https://capiagent.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "capi-agent-for-merchants": {

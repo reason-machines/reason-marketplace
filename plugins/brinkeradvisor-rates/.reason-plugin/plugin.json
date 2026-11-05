@@ -4,6 +4,7 @@
   "description": "Compare current rates.",
   "homepage": "https://rates.brinkeradvisor.com/",
   "docs": "https://rates.brinkeradvisor.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "brinkeradvisor-rates": {

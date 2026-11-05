@@ -4,6 +4,7 @@
   "description": "Manage Slack tasks with AI.",
   "homepage": "https://www.trychaser.com/mcp",
   "docs": "https://www.trychaser.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chaser": {

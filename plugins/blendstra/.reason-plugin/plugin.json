@@ -4,6 +4,7 @@
   "description": "Create and edit 3D in chat.",
   "homepage": "https://blendstra.com",
   "docs": "https://blendstra.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "blendstra": {

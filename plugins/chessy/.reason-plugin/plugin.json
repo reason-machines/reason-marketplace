@@ -4,6 +4,7 @@
   "description": "Play Chess Against Reason.",
   "homepage": "https://chess.altmatter.com/",
   "docs": "https://chess.altmatter.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chessy": {

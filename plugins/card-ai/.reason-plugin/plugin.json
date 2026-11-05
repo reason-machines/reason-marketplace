@@ -4,6 +4,7 @@
   "description": "Create and study flashcards.",
   "homepage": "https://cardai.app",
   "docs": "https://cardai.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "card-ai": {

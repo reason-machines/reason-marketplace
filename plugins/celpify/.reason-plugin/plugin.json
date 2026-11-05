@@ -4,6 +4,7 @@
   "description": "CELPIP practice and scores.",
   "homepage": "https://celpify.com",
   "docs": "https://celpify.com/apps",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "celpify": {

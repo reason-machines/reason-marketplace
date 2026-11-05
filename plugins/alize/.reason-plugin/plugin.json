@@ -4,6 +4,7 @@
   "description": "Research legal data.",
   "homepage": "https://alize.eu",
   "docs": "https://alize.eu/lu/fr/connecteur-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "alize": {

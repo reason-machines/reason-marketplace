@@ -4,6 +4,7 @@
   "description": "Records what agents were told.",
   "homepage": "https://1f916.ai",
   "docs": "https://1f916.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "1f916": {

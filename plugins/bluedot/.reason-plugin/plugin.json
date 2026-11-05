@@ -4,6 +4,7 @@
   "description": "Search and review meetings.",
   "homepage": "https://www.bluedothq.com",
   "docs": "https://app.bluedothq.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "bluedot": {

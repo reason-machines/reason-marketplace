@@ -4,6 +4,7 @@
   "description": "Audit a site's AI visibility.",
   "homepage": "https://aivisibilitycheck.io",
   "docs": "https://aivisibilitycheck.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ai-visibility-check": {

@@ -4,6 +4,7 @@
   "description": "A home for websites and apps.",
   "homepage": "https://apphaven.com",
   "docs": "https://apphaven.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "apphaven": {

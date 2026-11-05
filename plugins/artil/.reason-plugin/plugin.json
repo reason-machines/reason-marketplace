@@ -4,6 +4,7 @@
   "description": "Email, SMS numbers for Reason.",
   "homepage": "https://artil.ai",
   "docs": "https://artil.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "artil": {

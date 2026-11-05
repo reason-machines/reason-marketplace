@@ -4,6 +4,7 @@
   "description": "Understand ideas visually.",
   "homepage": "https://simple-mind-map-mtahreemalam.vercel.app",
   "docs": "https://simple-mind-map-mtahreemalam.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "branchlight": {

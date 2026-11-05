@@ -4,6 +4,7 @@
   "description": "Find your dream car.",
   "homepage": "https://www.cars24.com/",
   "docs": "https://www.cars24.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cars24": {

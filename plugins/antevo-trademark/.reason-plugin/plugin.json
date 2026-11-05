@@ -4,6 +4,7 @@
   "description": "Screen names, read holders.",
   "homepage": "https://antevo.ch/trademark",
   "docs": "https://antevo.ch/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "antevo-trademark": {

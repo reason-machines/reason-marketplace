@@ -4,6 +4,7 @@
   "description": "Understand proteins with ESM.",
   "homepage": "https://biohub.ai/esm/protein",
   "docs": "https://biohub.ai/esm/protein",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "biohub-esm": {

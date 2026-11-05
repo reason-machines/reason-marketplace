@@ -4,6 +4,7 @@
   "description": "Technical SEO audits.",
   "homepage": "https://www.blackseoanalyzer.com/",
   "docs": "https://www.blackseoanalyzer.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "black-seo-analyzer": {

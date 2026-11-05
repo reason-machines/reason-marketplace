@@ -4,6 +4,7 @@
   "description": "Check a website's public setup.",
   "homepage": "https://agentmart.ciphyr.ai/c",
   "docs": "https://agentmart.ciphyr.ai/c",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "agentmart-site-check": {

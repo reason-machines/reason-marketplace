@@ -4,6 +4,7 @@
   "description": "Find AI training jobs with pay.",
   "homepage": "https://aitraining.jobs/apps",
   "docs": "https://aitraining.jobs/apps",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "aitraining-jobs": {

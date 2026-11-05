@@ -4,6 +4,7 @@
   "description": "Train tickets across Asia.",
   "homepage": "https://www.baolau.com",
   "docs": "https://baolau.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "baolau": {

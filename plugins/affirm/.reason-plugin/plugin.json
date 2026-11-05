@@ -4,6 +4,7 @@
   "description": "Flexible payments, big savings.",
   "homepage": "https://www.affirm.com/",
   "docs": "https://tedix.dev/apps/affirm/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "affirm": {

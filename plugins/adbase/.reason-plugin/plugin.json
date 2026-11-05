@@ -4,6 +4,7 @@
   "description": "Track competitor ads & emails.",
   "homepage": "https://getadbase.com",
   "docs": "https://getadbase.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adbase": {

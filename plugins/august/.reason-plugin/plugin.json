@@ -4,6 +4,7 @@
   "description": "Understand your users.",
   "homepage": "https://www.getaugust.ai/",
   "docs": "https://www.getaugust.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "august": {

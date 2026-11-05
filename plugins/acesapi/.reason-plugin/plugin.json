@@ -4,6 +4,7 @@
   "description": "Tennis data and stats.",
   "homepage": "https://acesapi.com",
   "docs": "https://acesapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "acesapi": {

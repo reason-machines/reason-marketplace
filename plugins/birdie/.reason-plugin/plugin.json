@@ -4,6 +4,7 @@
   "description": "Capture customer issue context.",
   "homepage": "https://www.birdie.so",
   "docs": "https://www.birdie.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "birdie": {

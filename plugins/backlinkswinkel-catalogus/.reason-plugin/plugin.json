@@ -4,6 +4,7 @@
   "description": "Vergelijk relevante websites.",
   "homepage": "https://backlinkswinkel.nl/chatgpt/",
   "docs": "https://backlinkswinkel.nl/chatgpt/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "backlinkswinkel-catalogus": {

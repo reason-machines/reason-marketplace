@@ -4,6 +4,7 @@
   "description": "Catálogo, rádios e suporte.",
   "homepage": "https://appradio.pro/docs/mcp",
   "docs": "https://appradio.pro/docs/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "appradio-pro": {

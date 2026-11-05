@@ -4,6 +4,7 @@
   "description": "Hotels, tours and activities.",
   "homepage": "https://bookingwolf.com",
   "docs": "https://bookingwolf.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "booking-wolf": {

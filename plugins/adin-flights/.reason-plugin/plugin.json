@@ -4,6 +4,7 @@
   "description": "find & book flights in chats.",
   "homepage": "https://flights.moodtrip.ai",
   "docs": "https://moodtrip.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "adin-flights": {

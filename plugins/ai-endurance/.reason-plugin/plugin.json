@@ -4,6 +4,7 @@
   "description": "AI Running, Cycling, Triathlon.",
   "homepage": "https://aiendurance.com",
   "docs": "https://aiendurance.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ai-endurance": {

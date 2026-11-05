@@ -4,6 +4,7 @@
   "description": "Plan and write your novel.",
   "homepage": "https://chaptershift.com",
   "docs": "https://chaptershift.com/help/it/connect-an-ai-agent/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chaptershift": {

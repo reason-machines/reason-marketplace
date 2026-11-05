@@ -4,6 +4,7 @@
   "description": "Compare domain renewal prices.",
   "homepage": "https://www.cheapest.domains",
   "docs": "https://www.cheapest.domains",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cheapest-domains": {

@@ -4,6 +4,7 @@
   "description": "Rechtspraak met bronpassages.",
   "homepage": "https://app.ai-rechtshulp.nl/plugin/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.smrht/ai-rechtshulp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ai-rechtshulp": {

@@ -4,6 +4,7 @@
   "description": "Create private email aliases.",
   "homepage": "https://burnermail.io/",
   "docs": "https://burnermail.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "burner-mail": {

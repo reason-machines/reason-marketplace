@@ -4,6 +4,7 @@
   "description": "Your PPC automation co-pilot.",
   "homepage": "https://adalysis.com",
   "docs": "https://adalysis.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adalysis": {

@@ -4,6 +4,7 @@
   "description": "Make phone calls for you.",
   "homepage": "https://www.heycall-e.com/",
   "docs": "https://api.heycall-e.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "call-e": {

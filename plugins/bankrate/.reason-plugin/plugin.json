@@ -4,6 +4,7 @@
   "description": "Browse savings products.",
   "homepage": "https://www.bankrate.com",
   "docs": "https://tedix.dev/apps/bankrate/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bankrate": {

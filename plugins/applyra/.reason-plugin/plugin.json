@@ -4,6 +4,7 @@
   "description": "App Store and Google Play ASO.",
   "homepage": "https://www.applyra.io",
   "docs": "https://www.applyra.io/features/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "applyra": {

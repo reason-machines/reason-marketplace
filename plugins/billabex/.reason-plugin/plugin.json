@@ -4,6 +4,7 @@
   "description": "Automate payment follow-ups.",
   "homepage": "https://www.billabex.com/",
   "docs": "https://tedix.dev/apps/billabex/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "billabex": {

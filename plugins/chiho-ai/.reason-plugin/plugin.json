@@ -4,6 +4,7 @@
   "description": "Unofficial Telegram CRM.",
   "homepage": "https://www.chiho.ai",
   "docs": "https://www.chiho.ai/blog/telegram-for-ai-agents",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "chiho-ai": {

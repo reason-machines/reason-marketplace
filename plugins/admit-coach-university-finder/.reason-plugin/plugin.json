@@ -4,6 +4,7 @@
   "description": "Find U.S. universities.",
   "homepage": "https://admit-coach.com/",
   "docs": "https://admit-coach.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "admit-coach-university-finder": {

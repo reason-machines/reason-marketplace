@@ -4,6 +4,7 @@
   "description": "Build optimized routes.",
   "homepage": "https://www.badgermapping.com",
   "docs": "https://www.badgermapping.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "badger-maps-advanced": {

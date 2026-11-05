@@ -4,6 +4,7 @@
   "description": "Swedish accounting in Reason.",
   "homepage": "https://b2b.nu",
   "docs": "https://b2b.nu",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "b2b-nu": {

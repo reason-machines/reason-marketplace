@@ -4,6 +4,7 @@
   "description": "Search rulemaking dockets.",
   "homepage": "https://1102tools.com",
   "docs": "https://1102tools.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "1102tools-regulations-gov": {

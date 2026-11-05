@@ -4,6 +4,7 @@
   "description": "Agency project management.",
   "homepage": "https://www.awork.com",
   "docs": "https://support.awork.com/en/articles/awork-mcp-server-QMtji6JCnzhp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "awork": {

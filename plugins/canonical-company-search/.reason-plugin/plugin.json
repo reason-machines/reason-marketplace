@@ -4,6 +4,7 @@
   "description": "Find and enrich companies.",
   "homepage": "https://trycanonical.ai",
   "docs": "https://trycanonical.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "canonical-company-search": {

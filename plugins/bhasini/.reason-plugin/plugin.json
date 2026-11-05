@@ -4,6 +4,7 @@
   "description": "Spell words in Indian scripts.",
   "homepage": "https://bhasini.com/mcp/",
   "docs": "https://bhasini.com/mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bhasini": {

@@ -4,6 +4,7 @@
   "description": "Verified retailer price terms.",
   "homepage": "https://registry.bidit.com.au",
   "docs": "https://registry.bidit.com.au/for-assistants",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "bidit-registry": {

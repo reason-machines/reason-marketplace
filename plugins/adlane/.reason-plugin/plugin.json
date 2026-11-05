@@ -4,6 +4,7 @@
   "description": "Review ad campaign performance.",
   "homepage": "https://adlane.app",
   "docs": "https://adlane.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "adlane": {

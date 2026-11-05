@@ -4,6 +4,7 @@
   "description": "Turn PDF tables into Excel.",
   "homepage": "https://betteranalyst.com/pdf-to-excel-ai",
   "docs": "https://betteranalyst.com/pdf-to-excel-ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "better-analyst-pdf-to-excel": {

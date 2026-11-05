@@ -4,6 +4,7 @@
   "description": "Make every rep your best rep.",
   "homepage": "https://auditory.co",
   "docs": "https://api.auditory.co/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "auditory": {
