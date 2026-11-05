@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5306 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5307 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -3883,6 +3883,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Razorpay ACE Marketplace](plugins/razorpay-ace-marketplace) | Shop across Indian D2C brands. | None | `https://merchants.agent.razorpay.com/mcp` |
 | [Razuna](plugins/razuna) | Search and manage DAM assets. | OAuth | `https://mcp.razuna.com/mcp` |
 | [Re Culture™ Public Guidance](plugins/re-culture-public-guidance) | Read Public Guidance. | None | `https://re-culture-public-guidance-mcp.reculture-independent.workers.dev/mcp` |
+| [REA](plugins/rea) | Reverse engineer native binaries, Electron and JavaScript apps, and firmware with 229 stateful MCP tools: open a binary, navigate, decompile. | None | `undefined` |
 | [Reachype](plugins/reachype) | Your marketing workspace. | OAuth | `https://mcp.reachype.com/mcp` |
 | [Read AI](plugins/read-ai) | Connect Reason to Read AI meeting intelligence — list meetings, fetch transcripts and reports, create meeting agents, and share reports via the hosted MCP at api.read.ai. | OAuth | `https://api.read.ai/mcp` |
 | [Read Frog](plugins/read-frog) | Manage notes and flashcards. | OAuth | `https://api.readfrog.app/api/mcp` |
