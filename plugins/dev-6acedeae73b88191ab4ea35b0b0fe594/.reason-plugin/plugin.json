@@ -4,6 +4,7 @@
   "description": "Plan, track, and review time.",
   "homepage": "https://timelens.grow1000x.com",
   "docs": "https://timelens.grow1000x.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dev-6acedeae73b88191ab4ea35b0b0fe594": {

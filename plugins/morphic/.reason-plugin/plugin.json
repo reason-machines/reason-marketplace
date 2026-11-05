@@ -4,6 +4,7 @@
   "description": "Create and edit media.",
   "homepage": "https://morphic.com/",
   "docs": "https://morphic.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "morphic": {

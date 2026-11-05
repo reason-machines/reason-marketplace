@@ -4,6 +4,7 @@
   "description": "YouTube + audio transcripts.",
   "homepage": "https://transcriptlab.dev",
   "docs": "https://transcriptlab.dev/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "transcriptlab": {

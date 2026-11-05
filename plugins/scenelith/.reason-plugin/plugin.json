@@ -4,6 +4,7 @@
   "description": "Create images and videos.",
   "homepage": "https://scenelith.com",
   "docs": "https://scenelith.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scenelith": {

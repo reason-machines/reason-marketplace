@@ -4,6 +4,7 @@
   "description": "Feature requests and reviews.",
   "homepage": "https://www.wishkit.io/?ref=chatgpt-directory",
   "docs": "https://www.wishkit.io/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wishkit": {

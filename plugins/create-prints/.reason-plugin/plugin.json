@@ -4,6 +4,7 @@
   "description": "Turn images into wall prints.",
   "homepage": "https://www.createprints.ai",
   "docs": "https://www.createprints.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "create-prints": {

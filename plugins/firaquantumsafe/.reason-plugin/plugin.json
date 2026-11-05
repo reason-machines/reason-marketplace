@@ -4,6 +4,7 @@
   "description": "Website TLS and PQC checks.",
   "homepage": "https://www.firaquantumsafe.com",
   "docs": "https://www.firaquantumsafe.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "firaquantumsafe": {

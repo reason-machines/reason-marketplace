@@ -4,6 +4,7 @@
   "description": "Find local trades and jobs.",
   "homepage": "https://easytrades.co.uk",
   "docs": "https://easytrades.co.uk",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "easy-trades": {

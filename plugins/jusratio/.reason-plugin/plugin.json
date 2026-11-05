@@ -4,6 +4,7 @@
   "description": "Brazilian legal research.",
   "homepage": "https://jusratio.com.br",
   "docs": "https://jusratio.com.br",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jusratio": {

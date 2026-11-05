@@ -4,6 +4,7 @@
   "description": "Singapore A-Level Guide.",
   "homepage": "https://eclatinstitute.sg",
   "docs": "https://eclatinstitute.sg",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eclat-institute": {

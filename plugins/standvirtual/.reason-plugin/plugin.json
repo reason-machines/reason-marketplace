@@ -4,6 +4,7 @@
   "description": "Your dream car in Standvirtual.",
   "homepage": "https://www.standvirtual.com/",
   "docs": "https://www.standvirtual.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "standvirtual": {

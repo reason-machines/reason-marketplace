@@ -4,6 +4,7 @@
   "description": "Form your US LLC in minutes.",
   "homepage": "https://www.doola.com",
   "docs": "https://www.doola.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "doola": {

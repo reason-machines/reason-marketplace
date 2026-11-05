@@ -4,6 +4,7 @@
   "description": "Trademark search and research.",
   "homepage": "https://gleanmark.com",
   "docs": "https://gleanmark.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gleanmark": {

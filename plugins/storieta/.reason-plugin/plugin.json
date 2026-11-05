@@ -4,6 +4,7 @@
   "description": "Read the classics in pictures.",
   "homepage": "https://storieta.com",
   "docs": "https://storieta.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "storieta": {

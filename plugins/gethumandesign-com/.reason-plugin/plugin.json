@@ -4,6 +4,7 @@
   "description": "Explore your human design.",
   "homepage": "https://www.gethumandesign.com",
   "docs": "https://gethumandesign.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gethumandesign-com": {

@@ -4,6 +4,7 @@
   "description": "Cheap Flight Ticket.",
   "homepage": "https://www.travomint.com/",
   "docs": "https://www.travomint.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "travomint": {

@@ -4,6 +4,7 @@
   "description": "Create videos, images & music.",
   "homepage": "https://widemile.ai/",
   "docs": "https://widemile.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "widemile": {

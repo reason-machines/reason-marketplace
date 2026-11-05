@@ -4,6 +4,7 @@
   "description": "Create flashcard decks.",
   "homepage": "https://getlingvo.com/",
   "docs": "https://getlingvo.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wortschatz": {

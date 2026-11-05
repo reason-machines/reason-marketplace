@@ -4,6 +4,7 @@
   "description": "Manage marketplace operations.",
   "homepage": "https://fluvhub.com",
   "docs": "https://fluvhub.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fluv-hub": {

@@ -4,6 +4,7 @@
   "description": "Flight & package prices.",
   "homepage": "https://voyscout.com",
   "docs": "https://voyscout.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "voyscout-com": {

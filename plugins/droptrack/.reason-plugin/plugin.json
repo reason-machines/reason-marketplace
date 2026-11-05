@@ -4,6 +4,7 @@
   "description": "Analyze and promote music.",
   "homepage": "https://www.droptrack.com/",
   "docs": "https://www.droptrack.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "droptrack": {

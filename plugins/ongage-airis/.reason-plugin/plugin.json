@@ -4,6 +4,7 @@
   "description": "Email analytics and drafts.",
   "homepage": "https://os.ongage.com/",
   "docs": "https://api.ongage.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ongage-airis": {

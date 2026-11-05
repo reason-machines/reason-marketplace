@@ -4,6 +4,7 @@
   "description": "Tea catering and contact.",
   "homepage": "https://resplendenttea.com",
   "docs": "https://resplendenttea.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "resplendent-tea": {

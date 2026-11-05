@@ -4,6 +4,7 @@
   "description": "Query and manage your CRM.",
   "homepage": "https://skode.ai",
   "docs": "https://skode.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "skode-crm": {

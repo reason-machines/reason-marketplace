@@ -4,6 +4,7 @@
   "description": "Upload links that report back.",
   "homepage": "https://file.fast",
   "docs": "https://file.fast",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "filefast": {

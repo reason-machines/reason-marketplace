@@ -4,6 +4,7 @@
   "description": "Verified emails and phones.",
   "homepage": "https://rocketreach.co",
   "docs": "https://rocketreach.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rocketreach": {

@@ -4,6 +4,7 @@
   "description": "Check customer information.",
   "homepage": "https://customer-info-validator.sidcraigau.workers.dev",
   "docs": "https://customer-info-validator.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "customer-info-validator": {

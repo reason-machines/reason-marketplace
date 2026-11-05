@@ -4,6 +4,7 @@
   "description": "Music performance analytics.",
   "homepage": "https://songstats.com",
   "docs": "https://developers.stats.company/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "songstats": {

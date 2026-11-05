@@ -4,6 +4,7 @@
   "description": "Tax Appointments & Estimates.",
   "homepage": "https://www.hrblock.com/",
   "docs": "https://tedix.dev/apps/hr-block/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "h-and-r-block": {

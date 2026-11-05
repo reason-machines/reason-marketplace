@@ -4,6 +4,7 @@
   "description": "Explore biopharma intelligence.",
   "homepage": "https://www.convoke.bio/",
   "docs": "https://www.convoke.bio/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "convoke": {

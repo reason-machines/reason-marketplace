@@ -4,6 +4,7 @@
   "description": "Optimize resume, cover letter.",
   "homepage": "https://mvp.mom",
   "docs": "https://mvp.mom",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "resumeboost": {

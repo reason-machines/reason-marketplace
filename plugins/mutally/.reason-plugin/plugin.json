@@ -4,6 +4,7 @@
   "description": "Mutual debt book.",
   "homepage": "https://mutally.rsteam.uz",
   "docs": "https://mutally.rsteam.uz/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mutally": {

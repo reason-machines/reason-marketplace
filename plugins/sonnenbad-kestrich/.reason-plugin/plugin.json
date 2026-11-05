@@ -4,6 +4,7 @@
   "description": "Öffnungszeiten und Badinfos.",
   "homepage": "https://sonnenbad-kestrich.de/",
   "docs": "https://sonnenbad-kestrich.de/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sonnenbad-kestrich": {

@@ -4,6 +4,7 @@
   "description": "Look up people and companies.",
   "homepage": "https://reversecontact.com",
   "docs": "https://reversecontact.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reverse-contact": {

@@ -4,6 +4,7 @@
   "description": "Create and edit presentations.",
   "homepage": "https://slidely.ai/",
   "docs": "https://slidely.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "slidely": {

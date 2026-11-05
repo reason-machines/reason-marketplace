@@ -4,6 +4,7 @@
   "description": "Track jobs and growth.",
   "homepage": "https://www.gighq.ai",
   "docs": "https://www.gighq.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gighq-ai": {

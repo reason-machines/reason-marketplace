@@ -4,6 +4,7 @@
   "description": "AI voice generator from text.",
   "homepage": "https://ttsstudio.ai",
   "docs": "https://ttsstudio.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tts-studio-ai-text-to-speech": {

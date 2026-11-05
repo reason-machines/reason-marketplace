@@ -4,6 +4,7 @@
   "description": "Transcripts, speakers, summary.",
   "homepage": "https://www.getvoibe.com",
   "docs": "https://getvoibe.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voibe-transcription": {

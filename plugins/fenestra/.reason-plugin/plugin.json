@@ -4,6 +4,7 @@
   "description": "AI renders for architects.",
   "homepage": "https://www.fenestra.app",
   "docs": "https://www.fenestra.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fenestra": {

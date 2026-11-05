@@ -4,6 +4,7 @@
   "description": "Projects and AI work history.",
   "homepage": "https://vibecodingcontrol.com",
   "docs": "https://vibecodingcontrol.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vcc-remote": {

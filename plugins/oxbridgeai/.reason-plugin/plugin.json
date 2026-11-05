@@ -4,6 +4,7 @@
   "description": "TMUA and ESAT practice.",
   "homepage": "https://oxbridgeaitutor.com",
   "docs": "https://oxbridgeaitutor.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "oxbridgeai": {

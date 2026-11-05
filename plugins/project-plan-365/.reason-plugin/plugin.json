@@ -4,6 +4,7 @@
   "description": "Manage Microsoft Project MPP.",
   "homepage": "https://www.projectplan365.com/",
   "docs": "https://www.projectplan365.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "project-plan-365": {

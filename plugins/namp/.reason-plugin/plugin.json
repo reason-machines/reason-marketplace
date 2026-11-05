@@ -4,6 +4,7 @@
   "description": "Manage project data.",
   "homepage": "https://namp.me",
   "docs": "https://namp.me",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "namp": {

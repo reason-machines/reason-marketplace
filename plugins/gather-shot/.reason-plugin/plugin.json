@@ -4,6 +4,7 @@
   "description": "Manage event photo sharing.",
   "homepage": "https://gathershot.com",
   "docs": "https://gathershot.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gather-shot": {

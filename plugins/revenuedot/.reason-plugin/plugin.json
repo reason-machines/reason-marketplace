@@ -4,6 +4,7 @@
   "description": "Run mobile app subscriptions.",
   "homepage": "https://revenuedot.app",
   "docs": "https://revenuedot.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "revenuedot": {

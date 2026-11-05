@@ -4,6 +4,7 @@
   "description": "Talk to your handwritten notes.",
   "homepage": "https://nuwapen.com/",
   "docs": "https://nuwapen.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nuwa": {

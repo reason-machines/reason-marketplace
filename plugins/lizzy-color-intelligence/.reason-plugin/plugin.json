@@ -4,6 +4,7 @@
   "description": "Color trends and forecasts.",
   "homepage": "https://golizzy.com",
   "docs": "https://golizzy.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lizzy-color-intelligence": {

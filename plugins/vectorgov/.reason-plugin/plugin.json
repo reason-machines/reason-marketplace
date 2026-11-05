@@ -4,6 +4,7 @@
   "description": "Consulte licitações.",
   "homepage": "https://vectorgov.io",
   "docs": "https://vectorgov.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vectorgov": {

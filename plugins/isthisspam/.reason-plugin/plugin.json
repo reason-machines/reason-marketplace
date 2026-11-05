@@ -4,6 +4,7 @@
   "description": "Check scam signals.",
   "homepage": "https://isthisspam.org",
   "docs": "https://isthisspam.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "isthisspam": {

@@ -4,6 +4,7 @@
   "description": "Electrical diagrams, checked.",
   "homepage": "https://uniwire.sh",
   "docs": "https://uniwire.sh",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uniwire": {

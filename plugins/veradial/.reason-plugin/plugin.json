@@ -4,6 +4,7 @@
   "description": "AI receptionist & voicemail.",
   "homepage": "https://veradial.com",
   "docs": "https://veradial.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "veradial": {

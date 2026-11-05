@@ -4,6 +4,7 @@
   "description": "Ingredients explained, sourced.",
   "homepage": "https://hellogem.ai/",
   "docs": "https://hellogem.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hellogem": {

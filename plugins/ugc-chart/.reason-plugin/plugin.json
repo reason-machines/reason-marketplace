@@ -4,6 +4,7 @@
   "description": "Find the right Trybe creators.",
   "homepage": "https://ugcchart.com",
   "docs": "https://ugcchart.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ugc-chart": {

@@ -4,6 +4,7 @@
   "description": "Memory you own across AI apps.",
   "homepage": "https://configure.dev",
   "docs": "https://configure.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "configure-memory": {

@@ -4,6 +4,7 @@
   "description": "CRM for real estate agencies.",
   "homepage": "https://www.fondaro.com",
   "docs": "https://api.fondaro.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fondaro": {

@@ -4,6 +4,7 @@
   "description": "Control your smart home.",
   "homepage": "https://onlineswitch.bhartitechnical.com/",
   "docs": "https://onlineswitch.bhartitechnical.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "switchnest": {

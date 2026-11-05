@@ -4,6 +4,7 @@
   "description": "Build and manage websites.",
   "homepage": "https://www.pixelesq.com/",
   "docs": "https://www.pixelesq.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pixelesq": {

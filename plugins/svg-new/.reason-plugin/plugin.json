@@ -4,6 +4,7 @@
   "description": "Convert images to SVG.",
   "homepage": "https://svg.new/ai",
   "docs": "https://svg.new/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "svg-new": {

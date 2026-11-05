@@ -4,6 +4,7 @@
   "description": "Compare federal labor rates.",
   "homepage": "https://1102tools.com",
   "docs": "https://1102tools.com/mcp/gsa-calc",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gsa-calc-plus-by-1102tools": {

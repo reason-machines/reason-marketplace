@@ -4,6 +4,7 @@
   "description": "Find your event photos/videos.",
   "homepage": "https://picsel.app",
   "docs": "https://picsel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "picsel": {

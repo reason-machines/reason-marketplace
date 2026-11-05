@@ -4,6 +4,7 @@
   "description": "AI answering & outbound calls.",
   "homepage": "https://www.patchmcp.com",
   "docs": "https://www.patchmcp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "patch": {

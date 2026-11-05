@@ -4,6 +4,7 @@
   "description": "Trade Argentine investments.",
   "homepage": "https://www.invertironline.com/",
   "docs": "https://www.invertironline.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iol-invertironline": {

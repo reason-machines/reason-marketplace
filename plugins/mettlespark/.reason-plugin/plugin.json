@@ -4,6 +4,7 @@
   "description": "Tech job ads and skills.",
   "homepage": "https://mettlespark.com",
   "docs": "https://mettlespark.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mettlespark": {

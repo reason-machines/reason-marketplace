@@ -4,6 +4,7 @@
   "description": "Manage your support tickets.",
   "homepage": "https://unthread.io/",
   "docs": "https://docs.unthread.io/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unthread": {

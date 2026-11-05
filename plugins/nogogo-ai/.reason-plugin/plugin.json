@@ -4,6 +4,7 @@
   "description": "Reliability.",
   "homepage": "https://nogogo.fr",
   "docs": "https://nogogo.fr/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nogogo-ai": {

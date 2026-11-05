@@ -4,6 +4,7 @@
   "description": "Send letters, postcards, cards.",
   "homepage": "https://pieterpost.com/en/",
   "docs": "https://pieterpost.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pieterpost": {

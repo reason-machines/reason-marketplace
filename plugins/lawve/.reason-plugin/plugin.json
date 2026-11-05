@@ -4,6 +4,7 @@
   "description": "Discover legal agent skills.",
   "homepage": "https://lawve.ai",
   "docs": "https://lawve.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lawve": {

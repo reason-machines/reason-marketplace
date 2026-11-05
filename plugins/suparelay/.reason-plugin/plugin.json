@@ -4,6 +4,7 @@
   "description": "International calls from chat.",
   "homepage": "https://suparelay.app/ai/apps",
   "docs": "https://suparelay.app/ai/apps",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "suparelay": {

@@ -4,6 +4,7 @@
   "description": "Kalendarz koncertów w Polsce.",
   "homepage": "https://kiedykoncert.pl/",
   "docs": "https://kiedykoncert.pl/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kiedykoncert": {

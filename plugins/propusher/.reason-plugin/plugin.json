@@ -4,6 +4,7 @@
   "description": "Workout and program builder.",
   "homepage": "https://propusher.com/",
   "docs": "https://propusher.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "propusher": {

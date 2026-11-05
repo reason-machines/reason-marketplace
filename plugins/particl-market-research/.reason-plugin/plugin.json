@@ -4,6 +4,7 @@
   "description": "Ecommerce market intelligence.",
   "homepage": "https://www.particl.com",
   "docs": "https://www.particl.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "particl-market-research": {

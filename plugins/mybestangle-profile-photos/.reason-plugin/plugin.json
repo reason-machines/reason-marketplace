@@ -4,6 +4,7 @@
   "description": "Natural AI photos from selfies.",
   "homepage": "https://www.mybestangle.com",
   "docs": "https://www.mybestangle.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mybestangle-profile-photos": {

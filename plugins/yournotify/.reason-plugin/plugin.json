@@ -4,6 +4,7 @@
   "description": "Manage campaigns and contacts.",
   "homepage": "https://yournotify.com",
   "docs": "https://yournotify.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yournotify": {

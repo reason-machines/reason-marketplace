@@ -4,6 +4,7 @@
   "description": "Make video, images and sound.",
   "homepage": "https://pika.art",
   "docs": "https://pika.art",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pika": {

@@ -4,6 +4,7 @@
   "description": "B2B company and contact data.",
   "homepage": "https://datalayer.sh",
   "docs": "https://datalayer.sh/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "datalayer": {

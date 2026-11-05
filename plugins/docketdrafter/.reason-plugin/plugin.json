@@ -4,6 +4,7 @@
   "description": "Draft and format legal docs.",
   "homepage": "https://docketdrafter.com",
   "docs": "https://api.docketdrafter.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docketdrafter": {

@@ -4,6 +4,7 @@
   "description": "Draft startup legal documents.",
   "homepage": "https://clauseai.exe.xyz",
   "docs": "https://clauseai.exe.xyz",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clauseai": {

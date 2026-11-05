@@ -4,6 +4,7 @@
   "description": "Manage website feedback.",
   "homepage": "https://www.simplecommenter.com",
   "docs": "https://www.simplecommenter.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simple-commenter": {

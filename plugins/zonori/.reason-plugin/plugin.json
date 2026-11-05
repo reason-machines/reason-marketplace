@@ -4,6 +4,7 @@
   "description": "What's on in your city.",
   "homepage": "https://zonori.app/developers",
   "docs": "https://zonori.app/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "zonori": {

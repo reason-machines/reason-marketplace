@@ -4,6 +4,7 @@
   "description": "Takeoffs from drawings.",
   "homepage": "https://runleva.com/chatgpt/",
   "docs": "https://app.runleva.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leva": {

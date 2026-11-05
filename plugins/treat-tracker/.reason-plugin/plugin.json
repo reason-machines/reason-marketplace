@@ -4,6 +4,7 @@
   "description": "Find trick-or-treat houses.",
   "homepage": "https://treattracker.org",
   "docs": "https://treattracker.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "treat-tracker": {

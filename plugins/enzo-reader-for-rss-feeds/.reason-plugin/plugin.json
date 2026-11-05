@@ -4,6 +4,7 @@
   "description": "Read your feeds and news.",
   "homepage": "https://chatgpt.enzoreader.com",
   "docs": "https://chatgpt.enzoreader.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "enzo-reader-for-rss-feeds": {

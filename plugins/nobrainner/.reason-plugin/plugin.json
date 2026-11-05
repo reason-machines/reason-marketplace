@@ -4,6 +4,7 @@
   "description": "Smarter Flashcards.",
   "homepage": "https://nobrainner.xyz/",
   "docs": "https://nobrainner.xyz/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nobrainner": {

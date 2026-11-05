@@ -4,6 +4,7 @@
   "description": "Bible & Strong's Scripture MCP.",
   "homepage": "https://www.linkedword.com",
   "docs": "https://www.linkedword.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "linked-word": {

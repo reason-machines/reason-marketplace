@@ -4,6 +4,7 @@
   "description": "Find and book chauffeur rides.",
   "homepage": "https://www.localrydes.com/",
   "docs": "https://www.localrydes.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mcp-server-localrydes": {

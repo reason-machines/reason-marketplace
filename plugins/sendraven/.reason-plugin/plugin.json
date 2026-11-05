@@ -4,6 +4,7 @@
   "description": "Send and answer email.",
   "homepage": "https://sendraven.ai",
   "docs": "https://sendraven.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sendraven": {

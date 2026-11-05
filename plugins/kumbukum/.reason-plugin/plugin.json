@@ -4,6 +4,7 @@
   "description": "Shared AI memory.",
   "homepage": "https://kumbukum.com",
   "docs": "https://kumbukum.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kumbukum": {

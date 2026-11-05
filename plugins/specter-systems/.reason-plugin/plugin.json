@@ -4,6 +4,7 @@
   "description": "CRM, tasks & workflows.",
   "homepage": "https://spectersystems.io",
   "docs": "https://spectersystems.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "specter-systems": {

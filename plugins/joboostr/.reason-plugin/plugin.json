@@ -4,6 +4,7 @@
   "description": "Find jobs with Joboostr.",
   "homepage": "https://www.joboostr.com/en/jobs",
   "docs": "https://www.joboostr.com/en/jobs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "joboostr": {

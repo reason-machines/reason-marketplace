@@ -4,6 +4,7 @@
   "description": "From idea to ranking article.",
   "homepage": "https://contentpulse.io",
   "docs": "https://contentpulse.io/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "contentpulse": {

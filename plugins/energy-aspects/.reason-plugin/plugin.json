@@ -4,6 +4,7 @@
   "description": "Commodities insights.",
   "homepage": "https://www.energyaspects.com/",
   "docs": "https://www.energyaspects.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "energy-aspects": {

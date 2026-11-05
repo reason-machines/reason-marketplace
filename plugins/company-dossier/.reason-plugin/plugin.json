@@ -4,6 +4,7 @@
   "description": "Sourced company dossiers.",
   "homepage": "https://companydossier.lol/",
   "docs": "https://companydossier.lol/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "company-dossier": {

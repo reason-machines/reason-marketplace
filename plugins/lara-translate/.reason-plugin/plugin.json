@@ -4,6 +4,7 @@
   "description": "Professional AI Translation.",
   "homepage": "https://laratranslate.com",
   "docs": "https://laratranslate.com/mcp-server-translation",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lara-translate": {

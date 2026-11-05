@@ -4,6 +4,7 @@
   "description": "Build Leadpages landing pages.",
   "homepage": "https://leadpages.com",
   "docs": "https://leadpages.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leadpages": {

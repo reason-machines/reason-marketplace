@@ -4,6 +4,7 @@
   "description": "Plan and manage trips.",
   "homepage": "https://zuzli.app",
   "docs": "https://zuzli.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zuzli": {

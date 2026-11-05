@@ -4,6 +4,7 @@
   "description": "Turn images into stickers.",
   "homepage": "https://www.bottleyourbrand.com/",
   "docs": "https://www.bottleyourbrand.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "print-shop-by-byb": {

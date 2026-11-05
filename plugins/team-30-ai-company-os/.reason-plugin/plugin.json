@@ -4,6 +4,7 @@
   "description": "Plan work with 31 AI roles.",
   "homepage": "https://team30-ai-company-os.fly.dev/",
   "docs": "https://team30-ai-company-os.fly.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "team-30-ai-company-os": {

@@ -4,6 +4,7 @@
   "description": "Create giveaways & contests.",
   "homepage": "https://revup.com",
   "docs": "https://revup.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "revup": {

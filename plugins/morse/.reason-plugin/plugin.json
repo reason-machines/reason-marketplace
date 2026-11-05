@@ -4,6 +4,7 @@
   "description": "Find your meeting records.",
   "homepage": "https://onmorse.com",
   "docs": "https://tedix.dev/apps/morse/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "morse": {

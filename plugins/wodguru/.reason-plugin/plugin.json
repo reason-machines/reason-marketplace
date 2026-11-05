@@ -4,6 +4,7 @@
   "description": "Your gym's data in Reason.",
   "homepage": "https://wod.guru",
   "docs": "https://wod.guru",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wodguru": {

@@ -4,6 +4,7 @@
   "description": "Your teleprompter scripts.",
   "homepage": "https://getcutkit.com",
   "docs": "https://getcutkit.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cutkit-teleprompter": {

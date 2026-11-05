@@ -4,6 +4,7 @@
   "description": "Manage short-term rentals.",
   "homepage": "https://hospitable.com",
   "docs": "https://hospitable.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hospitable": {

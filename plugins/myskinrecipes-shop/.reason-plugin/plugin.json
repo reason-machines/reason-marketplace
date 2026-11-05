@@ -4,6 +4,7 @@
   "description": "Ingredients and cart help.",
   "homepage": "https://www.myskinrecipes.com",
   "docs": "https://www.myskinrecipes.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "myskinrecipes-shop": {

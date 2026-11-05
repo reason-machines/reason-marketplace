@@ -4,6 +4,7 @@
   "description": "Ask about your own net worth.",
   "homepage": "https://getvalyou.co/welcome",
   "docs": "https://getvalyou.co/welcome",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "valyou": {

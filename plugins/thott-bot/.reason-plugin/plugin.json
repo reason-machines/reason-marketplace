@@ -4,6 +4,7 @@
   "description": "Reason knows WoW Forever.",
   "homepage": "https://thott.bot",
   "docs": "https://thott.bot",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "thott-bot": {

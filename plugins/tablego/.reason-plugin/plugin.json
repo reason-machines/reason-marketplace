@@ -4,6 +4,7 @@
   "description": "Find a table at TableGo venues.",
   "homepage": "https://tablego.uk",
   "docs": "https://tablego.uk",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tablego": {

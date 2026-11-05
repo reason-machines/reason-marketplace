@@ -4,6 +4,7 @@
   "description": "CRE deals, NOI and rent rolls.",
   "homepage": "https://www.dealwiseai.com",
   "docs": "https://tedix.dev/apps/dealwise-ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dealwise-ai": {

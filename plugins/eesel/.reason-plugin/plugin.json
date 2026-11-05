@@ -4,6 +4,7 @@
   "description": "Customer support AI teammate.",
   "homepage": "https://www.eesel.ai",
   "docs": "https://www.eesel.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eesel": {

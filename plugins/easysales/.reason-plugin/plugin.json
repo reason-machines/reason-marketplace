@@ -4,6 +4,7 @@
   "description": "CRM and sales management.",
   "homepage": "https://easysales.work",
   "docs": "https://app.easysales.work/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "easysales": {

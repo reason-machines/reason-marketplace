@@ -4,6 +4,7 @@
   "description": "Build apps with EzzyBills APIs.",
   "homepage": "https://www.ezzybills.com/",
   "docs": "https://www.ezzybills.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ezzybills": {

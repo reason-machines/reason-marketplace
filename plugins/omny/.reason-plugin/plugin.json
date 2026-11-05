@@ -4,6 +4,7 @@
   "description": "Trouve ton bien immobilier.",
   "homepage": "https://omny.fr",
   "docs": "https://omny.fr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "omny": {

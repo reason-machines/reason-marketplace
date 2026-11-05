@@ -4,6 +4,7 @@
   "description": "Nurse pay and take-home math.",
   "homepage": "https://nursejemma.com",
   "docs": "https://tedix.dev/apps/jemma/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jemma": {

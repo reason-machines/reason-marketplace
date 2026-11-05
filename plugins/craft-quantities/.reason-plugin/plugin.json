@@ -4,6 +4,7 @@
   "description": "Construction quantities, cited.",
   "homepage": "https://craftquantities.com",
   "docs": "https://craftquantities.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "craft-quantities": {

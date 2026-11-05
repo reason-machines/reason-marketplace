@@ -4,6 +4,7 @@
   "description": "Find and compare travel eSIMs.",
   "homepage": "https://esimfinder.io",
   "docs": "https://esimfinder.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "esim-finder": {

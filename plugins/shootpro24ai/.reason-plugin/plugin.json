@@ -4,6 +4,7 @@
   "description": "Photo & video post-production.",
   "homepage": "https://www.shootpro24ai.com",
   "docs": "https://www.shootpro24ai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "shootpro24ai": {

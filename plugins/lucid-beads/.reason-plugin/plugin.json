@@ -4,6 +4,7 @@
   "description": "Create your dream bracelet.",
   "homepage": "https://www.lucidbeads.com",
   "docs": "https://www.lucidbeads.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lucid-beads": {

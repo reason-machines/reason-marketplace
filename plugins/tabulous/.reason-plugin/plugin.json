@@ -4,6 +4,7 @@
   "description": "Manage scientific lab data.",
   "homepage": "https://tabulous.ai",
   "docs": "https://tabulous.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tabulous": {

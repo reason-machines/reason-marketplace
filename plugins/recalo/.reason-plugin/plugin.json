@@ -4,6 +4,7 @@
   "description": "Save anything, access it here.",
   "homepage": "https://recaloapp.com",
   "docs": "https://recaloapp.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "recalo": {

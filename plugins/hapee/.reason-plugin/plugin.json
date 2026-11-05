@@ -4,6 +4,7 @@
   "description": "Manage your CRM and marketing.",
   "homepage": "https://hapee.ai",
   "docs": "https://hapee.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hapee": {

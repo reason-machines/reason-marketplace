@@ -4,6 +4,7 @@
   "description": "Thirteen daily puzzles.",
   "homepage": "https://coronet.one/connect/",
   "docs": "https://coronet.one/connect/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "coronet-arcade": {

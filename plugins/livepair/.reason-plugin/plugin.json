@@ -4,6 +4,7 @@
   "description": "AI image & video prompts.",
   "homepage": "https://livepairai.com",
   "docs": "https://livepairai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "livepair": {

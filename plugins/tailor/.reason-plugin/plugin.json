@@ -4,6 +4,7 @@
   "description": "Ask the Tailor Platform docs.",
   "homepage": "https://www.tailor.tech",
   "docs": "https://www.tailor.tech",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tailor": {

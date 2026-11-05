@@ -4,6 +4,7 @@
   "description": "Italy home & inheritance tax.",
   "homepage": "https://www.notaiochianese.it/en/calculators-for-ai-assistants/",
   "docs": "https://www.notaiochianese.it/en/calculators-for-ai-assistants/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "notaio-chianese-calcoli": {

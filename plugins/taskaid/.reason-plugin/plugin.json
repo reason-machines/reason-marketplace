@@ -4,6 +4,7 @@
   "description": "Tasks for you and your agents.",
   "homepage": "https://taskaid.ai",
   "docs": "https://taskaid.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "taskaid": {

@@ -4,6 +4,7 @@
   "description": "Australian courses & migration.",
   "homepage": "https://www.oneuedu.com",
   "docs": "https://www.oneuedu.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "one-u-education": {

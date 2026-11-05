@@ -4,6 +4,7 @@
   "description": "Travel Safety, Alerts & Tips.",
   "homepage": "https://www.traveladvisory.io",
   "docs": "https://www.traveladvisory.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "travel-advisory": {

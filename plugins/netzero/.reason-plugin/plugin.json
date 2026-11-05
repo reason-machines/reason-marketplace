@@ -4,6 +4,7 @@
   "description": "Home energy management.",
   "homepage": "https://docs.netzero.energy/docs/integrations/AIAssistants",
   "docs": "https://docs.netzero.energy/docs/integrations/AIAssistants",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "netzero": {

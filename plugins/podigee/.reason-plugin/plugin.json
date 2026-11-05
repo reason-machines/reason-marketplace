@@ -4,6 +4,7 @@
   "description": "Manage your podcasts.",
   "homepage": "https://www.podigee.com/",
   "docs": "https://www.podigee.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "podigee": {

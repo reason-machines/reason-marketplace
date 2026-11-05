@@ -4,6 +4,7 @@
   "description": "Spending, budgets & net worth.",
   "homepage": "https://pocketbuddy.org/chatgpt",
   "docs": "https://pocketbuddy.org/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pocketbuddy": {

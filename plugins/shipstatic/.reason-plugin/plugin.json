@@ -4,6 +4,7 @@
   "description": "Deploy static sites instantly.",
   "homepage": "https://shipstatic.com",
   "docs": "https://shipstatic.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shipstatic": {

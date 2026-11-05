@@ -4,6 +4,7 @@
   "description": "Your Selltro store, in chat.",
   "homepage": "https://selltro.com",
   "docs": "https://selltro.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "selltro": {

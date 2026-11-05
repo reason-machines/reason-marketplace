@@ -4,6 +4,7 @@
   "description": "Find talent and manage hiring.",
   "homepage": "https://www.getclera.com/",
   "docs": "https://www.getclera.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clera": {

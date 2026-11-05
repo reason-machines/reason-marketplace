@@ -4,6 +4,7 @@
   "description": "Explore products and designs.",
   "homepage": "https://www.sketchmonkey.design",
   "docs": "https://www.sketchmonkey.design",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sketchmonkey-design": {

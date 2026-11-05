@@ -4,6 +4,7 @@
   "description": "Create videos and posts.",
   "homepage": "https://sync-socials.com",
   "docs": "https://sync-socials.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sync-socials": {

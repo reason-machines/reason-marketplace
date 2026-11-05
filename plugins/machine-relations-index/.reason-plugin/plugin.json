@@ -4,6 +4,7 @@
   "description": "Plan your next authority move.",
   "homepage": "https://machinerelations.ai/skill",
   "docs": "https://machinerelations.ai/skill",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "machine-relations-index": {

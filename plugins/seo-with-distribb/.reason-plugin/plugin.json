@@ -4,6 +4,7 @@
   "description": "SEO articles & backlinks.",
   "homepage": "https://distribb.io",
   "docs": "https://distribb.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seo-with-distribb": {

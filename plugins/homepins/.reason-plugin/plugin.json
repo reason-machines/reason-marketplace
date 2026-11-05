@@ -4,6 +4,7 @@
   "description": "Search Bangalore apartments.",
   "homepage": "https://www.homepins.in",
   "docs": "https://homepins.in/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "homepins": {

@@ -4,6 +4,7 @@
   "description": "AI-ready workforce insights.",
   "homepage": "https://hubstaff.com/",
   "docs": "https://hubstaff.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hubstaff": {

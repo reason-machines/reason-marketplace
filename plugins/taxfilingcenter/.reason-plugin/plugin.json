@@ -4,6 +4,7 @@
   "description": "Business tax deadlines & rates.",
   "homepage": "https://taxfilingcenter.com",
   "docs": "https://taxfilingcenter.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "taxfilingcenter": {

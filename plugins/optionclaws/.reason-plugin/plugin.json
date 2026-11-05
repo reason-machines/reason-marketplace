@@ -4,6 +4,7 @@
   "description": "Scan for options trades.",
   "homepage": "https://www.optionclaws.com",
   "docs": "https://www.optionclaws.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "optionclaws": {

@@ -4,6 +4,7 @@
   "description": "Find real UGC creators (DACH).",
   "homepage": "https://ugc-vz.de/",
   "docs": "https://ugc-vz.de/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ugc-vz": {

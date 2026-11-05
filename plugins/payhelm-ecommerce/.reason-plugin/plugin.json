@@ -4,6 +4,7 @@
   "description": "Ecommerce data and actions.",
   "homepage": "https://payhelm.com",
   "docs": "https://payhelm.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "payhelm-ecommerce": {

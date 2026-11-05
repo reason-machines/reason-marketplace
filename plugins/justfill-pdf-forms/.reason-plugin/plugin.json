@@ -4,6 +4,7 @@
   "description": "Fill existing PDF forms.",
   "homepage": "https://justfill.app/mcp",
   "docs": "https://justfill.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "justfill-pdf-forms": {

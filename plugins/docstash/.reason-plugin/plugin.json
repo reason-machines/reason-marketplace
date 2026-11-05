@@ -4,6 +4,7 @@
   "description": "Home for what your AI makes.",
   "homepage": "https://docstash.ai",
   "docs": "https://docstash.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docstash": {

@@ -4,6 +4,7 @@
   "description": "Control your ILEVIA smart home.",
   "homepage": "https://www.ilevia.com",
   "docs": "https://www.ilevia.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ilevia": {

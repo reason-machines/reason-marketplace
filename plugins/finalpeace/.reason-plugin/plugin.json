@@ -4,6 +4,7 @@
   "description": "Will rules and loss checklist.",
   "homepage": "https://finalpeace.co",
   "docs": "https://finalpeace.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "finalpeace": {

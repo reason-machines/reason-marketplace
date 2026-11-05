@@ -4,6 +4,7 @@
   "description": "Access you user test data.",
   "homepage": "https://www.userbrain.com/",
   "docs": "https://www.userbrain.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "userbrain": {

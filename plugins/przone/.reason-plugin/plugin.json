@@ -4,6 +4,7 @@
   "description": "Your training data in chat.",
   "homepage": "https://przone.app/mcp",
   "docs": "https://przone.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "przone": {

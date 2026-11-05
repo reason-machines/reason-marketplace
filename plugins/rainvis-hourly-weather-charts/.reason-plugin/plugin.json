@@ -4,6 +4,7 @@
   "description": "How much will it rain and when.",
   "homepage": "https://rainvis.com",
   "docs": "https://rainvis.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rainvis-hourly-weather-charts": {

@@ -4,6 +4,7 @@
   "description": "Create and manage short links.",
   "homepage": "https://tap26.com",
   "docs": "https://tap26.com/mcp-ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tap26": {

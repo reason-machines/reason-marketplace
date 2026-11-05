@@ -4,6 +4,7 @@
   "description": "Interactive tools by quran.com.",
   "homepage": "https://quran.ai",
   "docs": "https://quran.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "quran-ai": {

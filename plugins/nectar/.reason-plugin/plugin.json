@@ -4,6 +4,7 @@
   "description": "Your social operating system.",
   "homepage": "https://www.nectarsocial.com/",
   "docs": "https://www.nectarsocial.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nectar": {

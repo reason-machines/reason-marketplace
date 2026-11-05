@@ -4,6 +4,7 @@
   "description": "Read your Puthouse account.",
   "homepage": "https://puthouse.com",
   "docs": "https://puthouse.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "puthouse": {

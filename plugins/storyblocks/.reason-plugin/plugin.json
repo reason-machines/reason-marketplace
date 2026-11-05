@@ -4,6 +4,7 @@
   "description": "Discover stock media.",
   "homepage": "https://www.storyblocks.com",
   "docs": "https://www.storyblocks.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "storyblocks": {

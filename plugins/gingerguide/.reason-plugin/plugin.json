@@ -4,6 +4,7 @@
   "description": "Plan European city walks.",
   "homepage": "https://gingerguide.app/",
   "docs": "https://gingerguide.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gingerguide": {

@@ -4,6 +4,7 @@
   "description": "Extract contract information.",
   "homepage": "https://contract-information-extractor.sidcraigau.workers.dev",
   "docs": "https://contract-information-extractor.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "contract-information-extractor": {

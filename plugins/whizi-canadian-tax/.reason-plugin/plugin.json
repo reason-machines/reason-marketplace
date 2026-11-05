@@ -4,6 +4,7 @@
   "description": "CRA figures and deadlines.",
   "homepage": "https://whizi.io/tax/",
   "docs": "https://whizi.io/tax/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "whizi-canadian-tax": {

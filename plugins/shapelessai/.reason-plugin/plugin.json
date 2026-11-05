@@ -4,6 +4,7 @@
   "description": "Post to LinkedIn, X and more.",
   "homepage": "https://shapelessai.com",
   "docs": "https://shapelessai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shapelessai": {

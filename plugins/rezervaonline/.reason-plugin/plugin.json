@@ -4,6 +4,7 @@
   "description": "Rezervă cazare în România.",
   "homepage": "https://rezervaonline.ro",
   "docs": "https://rezervaonline.ro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rezervaonline": {

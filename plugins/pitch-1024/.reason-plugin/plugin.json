@@ -4,6 +4,7 @@
   "description": "Reference pitches, real voices.",
   "homepage": "https://pitch1024.com",
   "docs": "https://pitch1024.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pitch-1024": {

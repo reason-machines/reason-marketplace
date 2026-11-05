@@ -4,6 +4,7 @@
   "description": "Pregnancy-safe skincare.",
   "homepage": "https://verimom.com",
   "docs": "https://verimom.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "verimom": {

@@ -4,6 +4,7 @@
   "description": "Estate planning, explained.",
   "homepage": "https://joindandelion.com",
   "docs": "https://joindandelion.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dandelion-estate-planning": {

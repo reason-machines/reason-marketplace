@@ -4,6 +4,7 @@
   "description": "Public comps, M&A and VC data.",
   "homepage": "https://multiples.vc",
   "docs": "https://multiples.vc/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "multiples-vc": {

@@ -4,6 +4,7 @@
   "description": "Track resale stock and profit.",
   "homepage": "https://flippoai.com",
   "docs": "https://flippoai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flippo-ai": {

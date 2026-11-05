@@ -4,6 +4,7 @@
   "description": "Manage queues. Retry jobs.",
   "homepage": "https://durabull.io",
   "docs": "https://durabull.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "durabull": {

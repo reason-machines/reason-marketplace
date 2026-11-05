@@ -4,6 +4,7 @@
   "description": "B2B leads and company research.",
   "homepage": "https://www.leadbase.io",
   "docs": "https://www.leadbase.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leadbase-research": {

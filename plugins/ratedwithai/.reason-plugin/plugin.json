@@ -4,6 +4,7 @@
   "description": "Check websites for WCAG issues.",
   "homepage": "https://ratedwithai.com/",
   "docs": "https://ratedwithai.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ratedwithai": {

@@ -4,6 +4,7 @@
   "description": "Review your Studio research.",
   "homepage": "https://dredgeoriongateway.com",
   "docs": "https://dredgeoriongateway.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dredge-studio": {

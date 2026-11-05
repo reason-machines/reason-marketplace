@@ -4,6 +4,7 @@
   "description": "Find German company data.",
   "homepage": "https://openregister.de",
   "docs": "https://openregister.de",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openregister": {

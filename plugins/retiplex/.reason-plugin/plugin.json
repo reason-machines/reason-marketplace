@@ -4,6 +4,7 @@
   "description": "Create AI video ads.",
   "homepage": "https://app.retiplex.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.retiplex/retiplex",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "retiplex": {

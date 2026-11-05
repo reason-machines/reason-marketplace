@@ -4,6 +4,7 @@
   "description": "Publish to all your socials.",
   "homepage": "https://kreatoai.com",
   "docs": "https://kreatoai.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kreatoai": {

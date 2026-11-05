@@ -4,6 +4,7 @@
   "description": "Profile buyers and accounts.",
   "homepage": "https://humantic.ai",
   "docs": "https://humantic.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "humantic-ai": {

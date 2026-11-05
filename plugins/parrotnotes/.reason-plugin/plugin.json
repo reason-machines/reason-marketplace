@@ -4,6 +4,7 @@
   "description": "Act on in-person notes.",
   "homepage": "https://parrotnotes.app/",
   "docs": "https://parrotnotes.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "parrotnotes": {

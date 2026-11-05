@@ -4,6 +4,7 @@
   "description": "Ask about your vehicle fleet.",
   "homepage": "https://mextic.app/",
   "docs": "https://mextic.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mextic-iot": {

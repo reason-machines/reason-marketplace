@@ -4,6 +4,7 @@
   "description": "Build structured web datasets.",
   "homepage": "https://www.riveterhq.com/",
   "docs": "https://www.riveterhq.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "riveter": {

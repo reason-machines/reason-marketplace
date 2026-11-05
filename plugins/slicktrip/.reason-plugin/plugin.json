@@ -4,6 +4,7 @@
   "description": "Track flight and hotel prices.",
   "homepage": "https://slicktrip.com",
   "docs": "https://slicktrip.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "slicktrip": {

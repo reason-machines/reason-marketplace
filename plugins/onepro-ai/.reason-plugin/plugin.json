@@ -4,6 +4,7 @@
   "description": "Análise de investimentos.",
   "homepage": "https://etf1.com.br/",
   "docs": "https://etf1.com.br/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "onepro-ai": {

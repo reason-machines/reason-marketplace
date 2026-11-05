@@ -4,6 +4,7 @@
   "description": "Find Shopify store data.",
   "homepage": "https://storeinspect.com",
   "docs": "https://storeinspect.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "storeinspect": {

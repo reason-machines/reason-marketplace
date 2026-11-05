@@ -4,6 +4,7 @@
   "description": "AI workout planning & tracking.",
   "homepage": "https://joti.kompetic.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.kompetic/joti",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "joti": {

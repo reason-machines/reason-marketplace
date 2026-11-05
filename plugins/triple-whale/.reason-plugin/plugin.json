@@ -4,6 +4,7 @@
   "description": "Analyze e-commerce data.",
   "homepage": "https://www.triplewhale.com/",
   "docs": "https://www.triplewhale.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "triple-whale": {

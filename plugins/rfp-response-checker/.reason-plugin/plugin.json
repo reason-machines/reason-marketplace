@@ -4,6 +4,7 @@
   "description": "Check RFP response coverage.",
   "homepage": "https://rfp-response-checker.sidcraigau.workers.dev",
   "docs": "https://rfp-response-checker.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rfp-response-checker": {

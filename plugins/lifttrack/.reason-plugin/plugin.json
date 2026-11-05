@@ -4,6 +4,7 @@
   "description": "Weightlifting For Garmin.",
   "homepage": "https://lifttrackapp.com",
   "docs": "https://lifttrackapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lifttrack": {

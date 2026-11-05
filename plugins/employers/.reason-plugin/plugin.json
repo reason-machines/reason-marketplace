@@ -4,6 +4,7 @@
   "description": "Get a workers' comp quote.",
   "homepage": "https://www.employers.com",
   "docs": "https://tedix.dev/apps/employers/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "employers": {

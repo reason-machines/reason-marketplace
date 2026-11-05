@@ -4,6 +4,7 @@
   "description": "Anywhere: send gifts & flowers.",
   "homepage": "https://giftroam.com",
   "docs": "https://giftroam.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "giftroam-ai": {

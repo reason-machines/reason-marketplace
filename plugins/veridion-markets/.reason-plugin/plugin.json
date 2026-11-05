@@ -4,6 +4,7 @@
   "description": "Government trade disclosures.",
   "homepage": "https://www.veridionmarkets.com",
   "docs": "https://www.veridionmarkets.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "veridion-markets": {

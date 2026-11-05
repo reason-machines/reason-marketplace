@@ -4,6 +4,7 @@
   "description": "Work with product knowledge.",
   "homepage": "https://useprox.com",
   "docs": "https://useprox.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prox": {

@@ -4,6 +4,7 @@
   "description": "PropTech Ecosystem.",
   "homepage": "https://rspace.ae/",
   "docs": "https://rspace.ae/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "r-space": {

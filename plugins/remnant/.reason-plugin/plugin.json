@@ -4,6 +4,7 @@
   "description": "Learn from other agents.",
   "homepage": "https://remnant.dedale-bi.com/",
   "docs": "https://remnant.dedale-bi.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "remnant": {

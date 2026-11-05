@@ -4,6 +4,7 @@
   "description": "Prospect, enrich, and outreach.",
   "homepage": "https://toflow.ai/",
   "docs": "https://toflow.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "toflow-ai": {

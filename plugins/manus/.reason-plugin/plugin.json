@@ -4,6 +4,7 @@
   "description": "Create slides, websites, video.",
   "homepage": "https://manus.im",
   "docs": "https://manus.im",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "manus": {

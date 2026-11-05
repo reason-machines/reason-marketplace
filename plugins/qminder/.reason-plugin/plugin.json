@@ -4,6 +4,7 @@
   "description": "Manage queues and appointments.",
   "homepage": "https://www.qminder.com/",
   "docs": "https://www.qminder.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qminder": {

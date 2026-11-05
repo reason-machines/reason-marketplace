@@ -4,6 +4,7 @@
   "description": "Projects, tasks, and time.",
   "homepage": "https://hoursmith.app/features/chatgpt",
   "docs": "https://hoursmith.app/features/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hoursmith": {

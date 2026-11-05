@@ -4,6 +4,7 @@
   "description": "Quote jobsite services.",
   "homepage": "https://detritus.us",
   "docs": "https://detritus.us",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "detritus-rentals-get-a-quote": {

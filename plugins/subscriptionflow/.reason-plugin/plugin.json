@@ -4,6 +4,7 @@
   "description": "Manage Subscriptions With AI.",
   "homepage": "https://www.subscriptionflow.com/",
   "docs": "https://www.subscriptionflow.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "subscriptionflow": {

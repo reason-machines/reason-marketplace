@@ -4,6 +4,7 @@
   "description": "Your Bible reading progress.",
   "homepage": "https://selah.to/?utm_source=chatgpt",
   "docs": "https://api.selah.to/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "selah": {

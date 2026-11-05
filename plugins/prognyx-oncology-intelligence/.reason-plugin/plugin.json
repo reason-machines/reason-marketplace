@@ -4,6 +4,7 @@
   "description": "Compare oncology trials.",
   "homepage": "https://prognyx.com/mcp",
   "docs": "https://prognyx.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "prognyx-oncology-intelligence": {

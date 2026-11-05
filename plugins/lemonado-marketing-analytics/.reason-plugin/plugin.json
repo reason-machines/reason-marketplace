@@ -4,6 +4,7 @@
   "description": "Google, Meta & LinkedIn Ads.",
   "homepage": "https://lemonado.io",
   "docs": "https://lemonado.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lemonado-marketing-analytics": {

@@ -4,6 +4,7 @@
   "description": "Find used cranes for sale.",
   "homepage": "https://gstcranes.com/",
   "docs": "https://gstcranes.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gst-cranes-used-crane-search": {

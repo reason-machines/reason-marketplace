@@ -4,6 +4,7 @@
   "description": "Chat bots for your business.",
   "homepage": "https://meerlume.com/llms.txt",
   "docs": "https://meerlume.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meerlume": {

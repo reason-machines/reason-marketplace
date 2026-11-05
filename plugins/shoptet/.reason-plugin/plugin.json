@@ -4,6 +4,7 @@
   "description": "Manage your Shoptet eshop.",
   "homepage": "https://mcp.shoptet.com/mcp",
   "docs": "https://mcp.shoptet.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shoptet": {

@@ -4,6 +4,7 @@
   "description": "Trending news, any country.",
   "homepage": "https://newsify.today",
   "docs": "https://newsify.today",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "newsify": {

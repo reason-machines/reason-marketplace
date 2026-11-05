@@ -4,6 +4,7 @@
   "description": "Search research papers.",
   "homepage": "https://www.redpine.ai",
   "docs": "https://docs.redpine.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "redpine": {

@@ -4,6 +4,7 @@
   "description": "Compare global money transfers.",
   "homepage": "https://www.monito.com",
   "docs": "https://tedix.dev/apps/monito/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "monito": {

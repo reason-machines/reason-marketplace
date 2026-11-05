@@ -4,6 +4,7 @@
   "description": "Build interactive video forms.",
   "homepage": "https://clipform.io",
   "docs": "https://clipform.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clipform": {

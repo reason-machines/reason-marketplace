@@ -4,6 +4,7 @@
   "description": "Compare JSON paths and types.",
   "homepage": "https://json-diff.zovo.one",
   "docs": "https://json-diff.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "json-diff": {

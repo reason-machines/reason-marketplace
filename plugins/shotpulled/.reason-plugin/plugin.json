@@ -4,6 +4,7 @@
   "description": "Track and dial in espresso.",
   "homepage": "https://shotpulled.com",
   "docs": "https://shotpulled.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shotpulled": {

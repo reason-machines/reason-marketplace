@@ -4,6 +4,7 @@
   "description": "Foil spot wind & conditions.",
   "homepage": "https://thefoilbuddy.com",
   "docs": "https://thefoilbuddy.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "thefoilbuddy": {

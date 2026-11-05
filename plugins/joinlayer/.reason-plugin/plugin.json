@@ -4,6 +4,7 @@
   "description": "Build and run data pipelines.",
   "homepage": "https://joinlayer.app",
   "docs": "https://joinlayer.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "joinlayer": {

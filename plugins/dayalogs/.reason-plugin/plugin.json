@@ -4,6 +4,7 @@
   "description": "AI survey fieldwork control.",
   "homepage": "https://www.dayalogs.com",
   "docs": "https://www.dayalogs.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dayalogs": {

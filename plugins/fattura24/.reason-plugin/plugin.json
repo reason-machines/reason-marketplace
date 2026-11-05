@@ -4,6 +4,7 @@
   "description": "Accedi ai dati di Fattura24.",
   "homepage": "https://www.fattura24.com",
   "docs": "https://fattura24.com/mcp/configurazione/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fattura24": {

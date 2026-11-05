@@ -4,6 +4,7 @@
   "description": "Validate your SaaS idea.",
   "homepage": "https://previbe.io",
   "docs": "https://previbe.io/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "previbe": {

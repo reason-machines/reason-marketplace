@@ -4,6 +4,7 @@
   "description": "Convert and process files.",
   "homepage": "https://cloudconvert.com",
   "docs": "https://cloudconvert.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cloudconvert": {

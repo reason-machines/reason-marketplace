@@ -4,6 +4,7 @@
   "description": "AI infra directory and prices.",
   "homepage": "https://infrabase.ai",
   "docs": "https://infrabase.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "infrabase": {

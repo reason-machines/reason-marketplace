@@ -4,6 +4,7 @@
   "description": "Typical US procedure prices.",
   "homepage": "https://www.costkits.com",
   "docs": "https://www.costkits.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "costkits-procedure-costs": {

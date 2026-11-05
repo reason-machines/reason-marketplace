@@ -4,6 +4,7 @@
   "description": "Search calls, deals, customers.",
   "homepage": "https://jiminny.com",
   "docs": "https://jiminny.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jiminny": {

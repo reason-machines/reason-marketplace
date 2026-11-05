@@ -4,6 +4,7 @@
   "description": "Browse 5,400+ gift card brands.",
   "homepage": "https://www.gifq.com",
   "docs": "https://www.gifq.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gifq-catalog": {

@@ -4,6 +4,7 @@
   "description": "Work that outlives the chat.",
   "homepage": "https://www.leo.co.ke/agents",
   "docs": "https://www.leo.co.ke/agents",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leo": {

@@ -4,6 +4,7 @@
   "description": "Create Unbounce Landing Pages.",
   "homepage": "https://unbounce.com",
   "docs": "https://unbounce.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unbounce-classic-builder": {

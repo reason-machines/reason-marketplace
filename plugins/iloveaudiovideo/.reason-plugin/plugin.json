@@ -4,6 +4,7 @@
   "description": "Transcribe on your own device.",
   "homepage": "https://iloveaudiovideo.com/",
   "docs": "https://iloveaudiovideo.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "iloveaudiovideo": {

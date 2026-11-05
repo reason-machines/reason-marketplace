@@ -4,6 +4,7 @@
   "description": "Design. Schedule. Publish.",
   "homepage": "https://postnitro.ai",
   "docs": "https://postnitro.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postnitro": {

@@ -4,6 +4,7 @@
   "description": "Find Tokyo childcare.",
   "homepage": "https://gakudosagashi.jp/about",
   "docs": "https://gakudosagashi.jp/about",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gakudo-sagashi": {

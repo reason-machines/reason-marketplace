@@ -4,6 +4,7 @@
   "description": "Tarot you draw yourself.",
   "homepage": "https://tarott.ai",
   "docs": "https://tarott.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "evelyn-tarot": {

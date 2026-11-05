@@ -4,6 +4,7 @@
   "description": "Compare travel eSIM plans.",
   "homepage": "https://esimradar.com",
   "docs": "https://esimradar.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "esimradar": {

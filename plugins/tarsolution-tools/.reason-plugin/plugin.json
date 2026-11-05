@@ -4,6 +4,7 @@
   "description": "Format and inspect data.",
   "homepage": "https://tools.tarsolution.com/",
   "docs": "https://tools.tarsolution.com/mcp-gateway",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tarsolution-tools": {

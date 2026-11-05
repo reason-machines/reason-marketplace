@@ -4,6 +4,7 @@
   "description": "Share AI docs, get comments.",
   "homepage": "https://markloop.io",
   "docs": "https://markloop.io/blog/claude-artifact-comments/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "markloop": {

@@ -4,6 +4,7 @@
   "description": "view your work reports.",
   "homepage": "https://itcons.app",
   "docs": "https://itcons.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "itcons-app-work-reports": {

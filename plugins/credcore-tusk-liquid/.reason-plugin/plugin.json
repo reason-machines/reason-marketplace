@@ -4,6 +4,7 @@
   "description": "Query public credit agreements.",
   "homepage": "https://credcore.com",
   "docs": "https://tedix.dev/apps/credcore-tusk-liquid/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "credcore-tusk-liquid": {

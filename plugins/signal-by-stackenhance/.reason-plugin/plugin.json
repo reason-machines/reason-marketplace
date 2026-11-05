@@ -4,6 +4,7 @@
   "description": "What brands email, and when.",
   "homepage": "https://stackenhance.com/signal",
   "docs": "https://stackenhance.com/signal",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "signal-by-stackenhance": {

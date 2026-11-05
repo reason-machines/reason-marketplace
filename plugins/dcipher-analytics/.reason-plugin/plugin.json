@@ -4,6 +4,7 @@
   "description": "Generate business insights.",
   "homepage": "https://www.dcipheranalytics.com",
   "docs": "https://www.dcipheranalytics.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dcipher-analytics": {

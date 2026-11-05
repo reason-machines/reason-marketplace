@@ -4,6 +4,7 @@
   "description": "Create Reels and carousels.",
   "homepage": "https://www.engagemediasuite.com",
   "docs": "https://www.engagemediasuite.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "engage-media-suite": {

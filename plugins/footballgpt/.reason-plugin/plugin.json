@@ -4,6 +4,7 @@
   "description": "Plan better football sessions.",
   "homepage": "https://footballgpt.co",
   "docs": "https://footballgpt.co/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "footballgpt": {

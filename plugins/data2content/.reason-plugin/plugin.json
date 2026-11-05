@@ -4,6 +4,7 @@
   "description": "Plan content and scripts.",
   "homepage": "https://data2content.ai",
   "docs": "https://data2content.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "data2content": {

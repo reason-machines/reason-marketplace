@@ -4,6 +4,7 @@
   "description": "Search and manage notebooks.",
   "homepage": "https://wott.ai",
   "docs": "https://wott.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wott": {

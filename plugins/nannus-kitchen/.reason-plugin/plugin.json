@@ -4,6 +4,7 @@
   "description": "Order homestyle Indian meals.",
   "homepage": "https://nannuskitchen.com",
   "docs": "https://nannuskitchen.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nannus-kitchen": {

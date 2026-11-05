@@ -4,6 +4,7 @@
   "description": "Podcast & company intelligence.",
   "homepage": "https://particle.pro",
   "docs": "https://particle.pro",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "particle-pro-submission": {

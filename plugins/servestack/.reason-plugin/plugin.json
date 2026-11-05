@@ -4,6 +4,7 @@
   "description": "Tools for restaurant owners.",
   "homepage": "https://servestack.ai",
   "docs": "https://servestack.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "servestack": {

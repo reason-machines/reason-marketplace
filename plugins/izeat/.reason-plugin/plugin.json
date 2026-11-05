@@ -4,6 +4,7 @@
   "description": "Calorie tracker you talk to.",
   "homepage": "https://izeat.app",
   "docs": "https://izeat.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "izeat": {

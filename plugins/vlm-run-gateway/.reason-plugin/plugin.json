@@ -4,6 +4,7 @@
   "description": "Visual AI for your files.",
   "homepage": "https://vlm.run",
   "docs": "https://vlm.run",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vlm-run-gateway": {

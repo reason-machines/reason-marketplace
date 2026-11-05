@@ -4,6 +4,7 @@
   "description": "Registra y consulta finanzas.",
   "homepage": "https://tedix.dev/apps/superbrain-finanzas/",
   "docs": "https://tedix.dev/apps/superbrain-finanzas/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superbrain-finanzas": {

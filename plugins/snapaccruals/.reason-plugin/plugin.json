@@ -4,6 +4,7 @@
   "description": "Bonus accruals from Excel.",
   "homepage": "https://snapaccruals.com/",
   "docs": "https://tedix.dev/apps/snapaccruals/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "snapaccruals": {

@@ -4,6 +4,7 @@
   "description": "Research hub for entrepreneurs.",
   "homepage": "https://hustlerslibrary.com",
   "docs": "https://hustlerslibrary.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hl-business-advisor": {

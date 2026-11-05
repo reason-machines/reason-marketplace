@@ -4,6 +4,7 @@
   "description": "Info droit du logement — QC.",
   "homepage": "https://connecteur-logement-qc.vercel.app",
   "docs": "https://connecteur-logement-qc.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "droit-du-logement-quebec": {

@@ -4,6 +4,7 @@
   "description": "Format Lifeinvader ads.",
   "homepage": "https://li.mailme.cfd/",
   "docs": "https://li.mailme.cfd/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lifeinvader-ads-editor": {

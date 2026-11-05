@@ -4,6 +4,7 @@
   "description": "Analyse and optimise your ads.",
   "homepage": "https://opteo.com/docs/en/articles/15564041-opteo-mcp",
   "docs": "https://opteo.com/docs/en/articles/15564041-opteo-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "opteo": {

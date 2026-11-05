@@ -4,6 +4,7 @@
   "description": "Cited answers from your files.",
   "homepage": "https://www.mempipe.ai",
   "docs": "https://mempipe.ai/help/agents/connect-claude/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mempipe": {

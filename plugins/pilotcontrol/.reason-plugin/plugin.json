@@ -4,6 +4,7 @@
   "description": "Manage social media in Reason.",
   "homepage": "https://app.pilot0.app/mcp",
   "docs": "https://app.pilot0.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pilotcontrol": {

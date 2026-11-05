@@ -4,6 +4,7 @@
   "description": "Find and apply to mentors.",
   "homepage": "https://mentorcruise.com",
   "docs": "https://mentorcruise.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mentorcruise": {

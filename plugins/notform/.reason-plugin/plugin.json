@@ -4,6 +4,7 @@
   "description": "AI interviews, structured data.",
   "homepage": "https://notform.co",
   "docs": "https://notform.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notform": {

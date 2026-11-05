@@ -4,6 +4,7 @@
   "description": "Automate Smart Devices.",
   "homepage": "https://www.seam.co/",
   "docs": "https://www.seam.co/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "seam": {

@@ -4,6 +4,7 @@
   "description": "Draw and edit saved diagrams.",
   "homepage": "https://draw.404040.net/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.Si40Code/super-excalidraw",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "draw40": {

@@ -4,6 +4,7 @@
   "description": "Planner, calendar & notes.",
   "homepage": "https://ggomggomhan.com",
   "docs": "https://ggomggomhan.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ggomggomhan": {

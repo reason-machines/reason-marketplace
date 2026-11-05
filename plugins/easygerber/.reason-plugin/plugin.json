@@ -4,6 +4,7 @@
   "description": "AI PCB design and layout.",
   "homepage": "https://easygerber.com/agents",
   "docs": "https://easygerber.com/agents",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "easygerber": {

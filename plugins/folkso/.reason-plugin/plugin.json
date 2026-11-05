@@ -4,6 +4,7 @@
   "description": "Find people for your task.",
   "homepage": "https://folkso.app",
   "docs": "https://folkso.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "folkso": {

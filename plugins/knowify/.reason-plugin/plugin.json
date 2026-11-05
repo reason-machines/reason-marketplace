@@ -4,6 +4,7 @@
   "description": "Explore project data.",
   "homepage": "https://knowify.com",
   "docs": "https://developer.knowify.com/docs/guide/mcp-overview.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "knowify": {

@@ -4,6 +4,7 @@
   "description": "Start and run a photobooth.",
   "homepage": "https://dreamboothstudio.com",
   "docs": "https://dreamboothstudio.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dreambooth-studio": {

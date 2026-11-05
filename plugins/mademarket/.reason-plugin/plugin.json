@@ -4,6 +4,7 @@
   "description": "Search pipeline and deals.",
   "homepage": "https://www.mademarket.com",
   "docs": "https://mademarket.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mademarket": {

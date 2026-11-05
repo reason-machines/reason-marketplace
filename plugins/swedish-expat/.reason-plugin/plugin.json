@@ -4,6 +4,7 @@
   "description": "Swedish relocation guides.",
   "homepage": "https://swedish-expats.com/",
   "docs": "https://swedish-expats.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "swedish-expat": {

@@ -4,6 +4,7 @@
   "description": "Book US nail salon visits.",
   "homepage": "https://lacquer.beauty",
   "docs": "https://lacquer.beauty",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lacquer": {

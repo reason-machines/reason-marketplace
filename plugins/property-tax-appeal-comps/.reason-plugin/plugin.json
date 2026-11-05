@@ -4,6 +4,7 @@
   "description": "Find appeal comps in minutes.",
   "homepage": "https://taxcomps.eralpbayraktar.com/",
   "docs": "https://taxcomps.eralpbayraktar.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "property-tax-appeal-comps": {

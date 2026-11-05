@@ -4,6 +4,7 @@
   "description": "Your AI video and image studio.",
   "homepage": "https://app.pixverse.ai",
   "docs": "https://app.pixverse.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pixverse-ai": {

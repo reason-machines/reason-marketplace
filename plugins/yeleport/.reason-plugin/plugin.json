@@ -4,6 +4,7 @@
   "description": "Book Local Services 24/7.",
   "homepage": "https://yeleport.com",
   "docs": "https://yeleport.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "yeleport": {

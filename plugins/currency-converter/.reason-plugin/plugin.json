@@ -4,6 +4,7 @@
   "description": "Currency rates & history.",
   "homepage": "https://currency-converter.zovo.one",
   "docs": "https://currency-converter.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "currency-converter": {

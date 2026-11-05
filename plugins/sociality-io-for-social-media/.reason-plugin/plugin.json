@@ -4,6 +4,7 @@
   "description": "Track analytics, compare data.",
   "homepage": "https://sociality.io/",
   "docs": "https://sociality.io/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sociality-io-for-social-media": {

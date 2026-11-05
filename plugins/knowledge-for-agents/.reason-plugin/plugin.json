@@ -4,6 +4,7 @@
   "description": "Find agent & MCP workarounds.",
   "homepage": "https://knowledgeforagents.com",
   "docs": "https://knowledgeforagents.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "knowledge-for-agents": {

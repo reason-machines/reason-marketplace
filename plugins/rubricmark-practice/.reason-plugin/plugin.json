@@ -4,6 +4,7 @@
   "description": "Practice, schools, scores.",
   "homepage": "https://rubricmark.com",
   "docs": "https://rubricmark.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rubricmark-practice": {

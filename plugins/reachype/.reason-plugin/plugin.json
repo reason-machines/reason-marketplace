@@ -4,6 +4,7 @@
   "description": "Your marketing workspace.",
   "homepage": "https://reachype.com/",
   "docs": "https://reachype.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reachype": {

@@ -4,6 +4,7 @@
   "description": "Read and search your RSS feeds.",
   "homepage": "https://newsmind.app",
   "docs": "https://newsmind.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "newsmind-rss-for-your-ai": {

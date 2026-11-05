@@ -4,6 +4,7 @@
   "description": "Find stays & live direct rates.",
   "homepage": "https://returnos.my4u.travel/",
   "docs": "https://returnos.my4u.travel/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "returnos-hospitality-commerce": {

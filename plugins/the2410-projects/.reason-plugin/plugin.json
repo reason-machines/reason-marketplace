@@ -4,6 +4,7 @@
   "description": "Plan custom software projects.",
   "homepage": "https://projects.the2410.com/",
   "docs": "https://projects.the2410.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the2410-projects": {

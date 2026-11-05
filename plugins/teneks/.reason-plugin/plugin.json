@@ -4,6 +4,7 @@
   "description": "Ask about calls and meetings.",
   "homepage": "https://www.teneks.ai",
   "docs": "https://api.teneks.ai/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "teneks": {

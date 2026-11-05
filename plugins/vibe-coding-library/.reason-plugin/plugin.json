@@ -4,6 +4,7 @@
   "description": "Coding workflows on demand.",
   "homepage": "https://arty-kk.github.io/vibe-coding",
   "docs": "https://arty-kk.github.io/vibe-coding",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vibe-coding-library": {

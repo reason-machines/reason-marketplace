@@ -4,6 +4,7 @@
   "description": "Amazon seller analytics.",
   "homepage": "https://sotrics.com",
   "docs": "https://app.sotrics.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sotrics": {

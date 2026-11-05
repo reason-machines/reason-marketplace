@@ -4,6 +4,7 @@
   "description": "Organize your travel plans.",
   "homepage": "https://tineo.ai",
   "docs": "https://tineo.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tineo": {

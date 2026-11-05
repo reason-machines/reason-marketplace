@@ -4,6 +4,7 @@
   "description": "Supervised dental cleanings.",
   "homepage": "https://clinmatch.io",
   "docs": "https://www.clinmatch.io/privacy",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clinmatch": {

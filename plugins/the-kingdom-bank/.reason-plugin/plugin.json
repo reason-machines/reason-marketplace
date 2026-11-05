@@ -4,6 +4,7 @@
   "description": "Manage your invoices.",
   "homepage": "https://www.thekingdombank.com/",
   "docs": "https://www.thekingdombank.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the-kingdom-bank": {

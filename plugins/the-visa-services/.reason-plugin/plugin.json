@@ -4,6 +4,7 @@
   "description": "Visa answers and applications.",
   "homepage": "https://www.thevisa.com",
   "docs": "https://www.thevisa.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the-visa-services": {

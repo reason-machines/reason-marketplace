@@ -4,6 +4,7 @@
   "description": "Generate creative workflows.",
   "homepage": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.flora/flora",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.flora/flora",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flora": {

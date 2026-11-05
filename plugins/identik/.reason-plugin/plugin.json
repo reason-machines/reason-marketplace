@@ -4,6 +4,7 @@
   "description": "Documents and signatures.",
   "homepage": "https://connect.identik.me",
   "docs": "https://identik.me/",
+  "logo": "logo.webp",
   "auth": "api_key",
   "mcpServers": {
     "identik": {

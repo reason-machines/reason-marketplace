@@ -4,6 +4,7 @@
   "description": "Find local service businesses.",
   "homepage": "https://tillgraph.com",
   "docs": "https://tillgraph.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tillgraph": {

@@ -4,6 +4,7 @@
   "description": "Build and debug Gondwana games.",
   "homepage": "https://github.com/Isthimius/Gondwana",
   "docs": "https://github.com/Isthimius/Gondwana/wiki/Gondwana-MCP-Service-%E2%80%94-Setup,-Deployment,-and-Maintenance-Guide",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gondwana": {

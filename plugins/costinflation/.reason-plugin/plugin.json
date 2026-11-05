@@ -4,6 +4,7 @@
   "description": "Explore and compare prices.",
   "homepage": "https://costinflation.com",
   "docs": "https://costinflation.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "costinflation": {

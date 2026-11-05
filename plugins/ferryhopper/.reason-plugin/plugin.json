@@ -4,6 +4,7 @@
   "description": "Search and compare ferries.",
   "homepage": "https://www.ferryhopper.com",
   "docs": "https://www.ferryhopper.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ferryhopper": {

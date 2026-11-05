@@ -4,6 +4,7 @@
   "description": "Get a second opinion.",
   "homepage": "https://qureview.ai",
   "docs": "https://qureview.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qu-review": {

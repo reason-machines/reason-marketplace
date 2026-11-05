@@ -4,6 +4,7 @@
   "description": "Planifier vos itinéraires.",
   "homepage": "https://planner.lebonroadtrip.fr/",
   "docs": "https://planner.lebonroadtrip.fr/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "le-bon-road-trip-planner": {

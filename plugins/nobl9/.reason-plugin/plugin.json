@@ -4,6 +4,7 @@
   "description": "Service reliability, in chat.",
   "homepage": "https://www.nobl9.com",
   "docs": "https://docs.nobl9.com/tools-and-utilities/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nobl9": {

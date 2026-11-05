@@ -4,6 +4,7 @@
   "description": "Compare health plan costs.",
   "homepage": "https://plugins.tobie.team/benefits-compare",
   "docs": "https://plugins.tobie.team/benefits-compare",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tobie-benefits-compare": {

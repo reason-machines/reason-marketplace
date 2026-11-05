@@ -4,6 +4,7 @@
   "description": "Find anything you saved.",
   "homepage": "https://saveditapp.com",
   "docs": "https://saveditapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "savedit": {

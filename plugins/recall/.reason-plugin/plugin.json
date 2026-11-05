@@ -4,6 +4,7 @@
   "description": "Create flashcards.",
   "homepage": "https://recall.cards/",
   "docs": "https://recall.cards/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "recall": {

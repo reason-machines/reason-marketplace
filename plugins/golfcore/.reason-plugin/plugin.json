@@ -4,6 +4,7 @@
   "description": "Your on-course golf assistant.",
   "homepage": "https://www.golfcore.org/developers/",
   "docs": "https://www.golfcore.org/developers/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "golfcore": {

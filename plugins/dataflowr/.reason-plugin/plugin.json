@@ -4,6 +4,7 @@
   "description": "Exact Online for Reason.",
   "homepage": "https://dataflowr.nl/en",
   "docs": "https://app.dataflowr.nl/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dataflowr": {

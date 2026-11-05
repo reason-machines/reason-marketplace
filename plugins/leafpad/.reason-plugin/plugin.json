@@ -4,6 +4,7 @@
   "description": "Review pages losing traffic.",
   "homepage": "https://leafpad.io",
   "docs": "https://leafpad.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leafpad": {

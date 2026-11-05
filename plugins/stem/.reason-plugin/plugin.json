@@ -4,6 +4,7 @@
   "description": "Connect your AIs to one brain.",
   "homepage": "https://awase.dev",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=dev.awase/stem",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stem": {

@@ -4,6 +4,7 @@
   "description": "Search missing and found pets.",
   "homepage": "https://fooundit.com",
   "docs": "https://fooundit.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fooundit-lost-and-found": {

@@ -4,6 +4,7 @@
   "description": "Create images and videos.",
   "homepage": "https://www.media.io/ai/home",
   "docs": "https://www.media.io/ai/home",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wondershare-media-io": {

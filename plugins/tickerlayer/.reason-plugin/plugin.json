@@ -4,6 +4,7 @@
   "description": "Stocks, forex & crypto data.",
   "homepage": "https://tickerlayer.com",
   "docs": "https://tickerlayer.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tickerlayer": {

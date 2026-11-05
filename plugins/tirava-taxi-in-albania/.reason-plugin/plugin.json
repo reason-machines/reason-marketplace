@@ -4,6 +4,7 @@
   "description": "Pre-book a taxi in Reason.",
   "homepage": "https://tirava.app",
   "docs": "https://tirava.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tirava-taxi-in-albania": {

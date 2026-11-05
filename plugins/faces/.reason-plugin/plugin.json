@@ -4,6 +4,7 @@
   "description": "Build slide decks.",
   "homepage": "https://faces.app",
   "docs": "https://faces.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "faces": {

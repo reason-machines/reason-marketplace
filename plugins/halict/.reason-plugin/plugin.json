@@ -4,6 +4,7 @@
   "description": "Create forms, reply to answers.",
   "homepage": "https://halict.com",
   "docs": "https://halict.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "halict": {

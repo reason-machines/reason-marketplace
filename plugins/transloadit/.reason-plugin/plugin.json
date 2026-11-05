@@ -4,6 +4,7 @@
   "description": "Encode, resize and transcribe.",
   "homepage": "https://transloadit.com",
   "docs": "https://transloadit.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "transloadit": {

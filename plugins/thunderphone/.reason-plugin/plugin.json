@@ -4,6 +4,7 @@
   "description": "Build and run AI phone agents.",
   "homepage": "https://thunderphone.com",
   "docs": "https://thunderphone.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "thunderphone": {

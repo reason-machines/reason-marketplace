@@ -4,6 +4,7 @@
   "description": "Telegram B2B sales & leads.",
   "homepage": "https://www.spredo.io",
   "docs": "https://www.spredo.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spredo": {

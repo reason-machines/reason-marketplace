@@ -4,6 +4,7 @@
   "description": "Restore, split and edit audio.",
   "homepage": "https://neuralanalog.com",
   "docs": "https://neuralanalog.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "neural-analog": {

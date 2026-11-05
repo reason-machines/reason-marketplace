@@ -4,6 +4,7 @@
   "description": "Create and analyze surveys.",
   "homepage": "https://www.empirio.ai",
   "docs": "https://empirio.ai/learn/survey-with-chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "empirio-ai": {

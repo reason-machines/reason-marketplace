@@ -4,6 +4,7 @@
   "description": "Signed facts about real places.",
   "homepage": "https://emem.dev",
   "docs": "https://emem.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "emem": {

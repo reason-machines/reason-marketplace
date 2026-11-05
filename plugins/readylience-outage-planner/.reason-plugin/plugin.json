@@ -4,6 +4,7 @@
   "description": "Plan water and battery needs.",
   "homepage": "https://mcp.readylience.com",
   "docs": "https://mcp.readylience.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "readylience-outage-planner": {

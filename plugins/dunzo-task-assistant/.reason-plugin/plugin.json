@@ -4,6 +4,7 @@
   "description": "Capture and manage tasks.",
   "homepage": "https://itsdunzo.com",
   "docs": "https://itsdunzo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dunzo-task-assistant": {

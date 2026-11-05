@@ -4,6 +4,7 @@
   "description": "Årshjul med dina aktiviteter.",
   "homepage": "https://www.yearo.se/",
   "docs": "https://www.yearo.se/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yearo-arshjul": {

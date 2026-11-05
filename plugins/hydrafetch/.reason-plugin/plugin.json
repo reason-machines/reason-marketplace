@@ -4,6 +4,7 @@
   "description": "Read the live web as markdown.",
   "homepage": "https://hydrafetch.com",
   "docs": "https://hydrafetch.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hydrafetch": {

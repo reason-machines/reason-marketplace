@@ -4,6 +4,7 @@
   "description": "Smooth PDFs. Ask for change.",
   "homepage": "https://smooth-pdf-reader.smooth-pdf-reader-cloudflare.workers.dev",
   "docs": "https://smooth-pdf-reader.smooth-pdf-reader-cloudflare.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "smooth-pdf-reader": {

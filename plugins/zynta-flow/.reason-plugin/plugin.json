@@ -4,6 +4,7 @@
   "description": "Create social media carousels.",
   "homepage": "https://www.zyntaflow.com",
   "docs": "https://www.zyntaflow.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zynta-flow": {

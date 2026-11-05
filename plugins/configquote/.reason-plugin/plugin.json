@@ -4,6 +4,7 @@
   "description": "Create and send sales quotes.",
   "homepage": "https://configquote.com",
   "docs": "https://configquote.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "configquote": {

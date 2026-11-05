@@ -4,6 +4,7 @@
   "description": "The headless DMS for Reason.",
   "homepage": "https://paperoffice.ai",
   "docs": "https://paperoffice.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "paperoffice-ai": {

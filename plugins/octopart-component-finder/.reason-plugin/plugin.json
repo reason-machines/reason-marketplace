@@ -4,6 +4,7 @@
   "description": "Find parts and prices.",
   "homepage": "https://nbse-octopart.com",
   "docs": "https://nbse-octopart.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "octopart-component-finder": {

@@ -4,6 +4,7 @@
   "description": "Brand visibility in AI answers.",
   "homepage": "https://www.get3rd.com",
   "docs": "https://docs.get3rd.com/mcp/claude",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "third-law-3rd": {

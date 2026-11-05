@@ -4,6 +4,7 @@
   "description": "Search and manage DAM assets.",
   "homepage": "https://razuna.com",
   "docs": "https://razuna.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "razuna": {

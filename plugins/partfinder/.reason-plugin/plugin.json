@@ -4,6 +4,7 @@
   "description": "Industrial parts intelligence.",
   "homepage": "https://partfinder.dev",
   "docs": "https://partfinder.dev/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "partfinder": {

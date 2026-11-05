@@ -4,6 +4,7 @@
   "description": "1099 tax + quarterly payments.",
   "homepage": "https://self-employment-tax.zovo.one",
   "docs": "https://self-employment-tax.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "self-employment-tax": {

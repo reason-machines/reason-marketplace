@@ -4,6 +4,7 @@
   "description": "Search meeting transcripts.",
   "homepage": "https://meetgeek.ai/",
   "docs": "https://meetgeek.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meetgeek": {

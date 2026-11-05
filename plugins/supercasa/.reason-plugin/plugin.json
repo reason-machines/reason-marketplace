@@ -4,6 +4,7 @@
   "description": "Find your new home in Portugal.",
   "homepage": "https://supercasa.pt",
   "docs": "https://supercasa.pt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "supercasa": {

@@ -4,6 +4,7 @@
   "description": "Review and export documents.",
   "homepage": "https://draftmend.com/",
   "docs": "https://draftmend.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "draftmend": {

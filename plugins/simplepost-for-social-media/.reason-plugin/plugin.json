@@ -4,6 +4,7 @@
   "description": "Schedule & publish your posts.",
   "homepage": "https://simplepost.social",
   "docs": "https://simplepost.social/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simplepost-for-social-media": {

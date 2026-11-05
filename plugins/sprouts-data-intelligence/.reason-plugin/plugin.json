@@ -4,6 +4,7 @@
   "description": "Find. Enrich. Campaign.",
   "homepage": "https://sprouts.ai/",
   "docs": "https://sprouts.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sprouts-data-intelligence": {

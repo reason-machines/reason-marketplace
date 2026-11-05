@@ -4,6 +4,7 @@
   "description": "Developer & AI trends.",
   "homepage": "https://www.plushcap.com",
   "docs": "https://www.plushcap.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "plushcap": {

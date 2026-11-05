@@ -4,6 +4,7 @@
   "description": "Vietnam finance data.",
   "homepage": "https://finlens.vn/",
   "docs": "https://finlens.vn/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "finlens": {

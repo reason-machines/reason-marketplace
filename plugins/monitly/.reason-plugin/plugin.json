@@ -4,6 +4,7 @@
   "description": "Global official statistics.",
   "homepage": "https://monit.ly",
   "docs": "https://monit.ly/mcp-docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "monitly": {

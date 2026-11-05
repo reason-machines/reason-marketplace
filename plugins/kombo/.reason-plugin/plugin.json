@@ -4,6 +4,7 @@
   "description": "Compare train, bus & flights.",
   "homepage": "https://kombo.co",
   "docs": "https://kombo.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kombo": {

@@ -4,6 +4,7 @@
   "description": "Discover Specialized Bikes.",
   "homepage": "https://specialized.com",
   "docs": "https://specialized.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "specialized-bicycle-components": {

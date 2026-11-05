@@ -4,6 +4,7 @@
   "description": "Create workshop agendas.",
   "homepage": "https://sessionrun.com",
   "docs": "https://sessionrun.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sessionrun": {

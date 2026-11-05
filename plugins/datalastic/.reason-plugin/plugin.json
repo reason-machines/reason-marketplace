@@ -4,6 +4,7 @@
   "description": "Maritime Data.",
   "homepage": "https://datalastic.com/",
   "docs": "https://datalastic.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "datalastic": {

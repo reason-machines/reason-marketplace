@@ -4,6 +4,7 @@
   "description": "Compara catálogo de seguros.",
   "homepage": "https://buenaia.ai",
   "docs": "https://buenaia.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "comparador-de-seguros-buenaia": {

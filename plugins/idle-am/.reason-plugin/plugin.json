@@ -4,6 +4,7 @@
   "description": "Play your idle MMO character.",
   "homepage": "https://idle.am",
   "docs": "https://idle.am/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "idle-am": {

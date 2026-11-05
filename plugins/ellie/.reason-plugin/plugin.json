@@ -4,6 +4,7 @@
   "description": "Plan and manage your tasks.",
   "homepage": "https://www.ellieplanner.com",
   "docs": "https://www.ellieplanner.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ellie": {

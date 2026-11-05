@@ -4,6 +4,7 @@
   "description": "Queue follow-up texts.",
   "homepage": "https://taverity.com",
   "docs": "https://taverity.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "taverity": {

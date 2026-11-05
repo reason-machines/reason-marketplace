@@ -4,6 +4,7 @@
   "description": "Run GPU jobs under a spend cap.",
   "homepage": "https://symbioza.dev",
   "docs": "https://symbioza.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "symbioza": {

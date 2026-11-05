@@ -4,6 +4,7 @@
   "description": "Every trip, past and planned.",
   "homepage": "https://trvlrr.app",
   "docs": "https://trvlrr.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trvlrr": {

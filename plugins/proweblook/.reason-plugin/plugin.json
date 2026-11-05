@@ -4,6 +4,7 @@
   "description": "Verify lists and research.",
   "homepage": "https://proweblook.com/",
   "docs": "https://proweblook.com/",
+  "logo": "logo.webp",
   "auth": "api_key",
   "mcpServers": {
     "proweblook": {

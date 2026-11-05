@@ -4,6 +4,7 @@
   "description": "Find laws and cases worldwide.",
   "homepage": "https://legaldatahunter.com",
   "docs": "https://legaldatahunter.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "legal-data-hunter": {

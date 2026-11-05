@@ -4,6 +4,7 @@
   "description": "Build football tactics.",
   "homepage": "https://squads.xxox-xxox-xxox.jp/",
   "docs": "https://squads.xxox-xxox-xxox.jp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "squads": {

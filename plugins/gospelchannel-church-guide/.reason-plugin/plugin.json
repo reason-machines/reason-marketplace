@@ -4,6 +4,7 @@
   "description": "Find churches near you.",
   "homepage": "https://gospelchannel.com",
   "docs": "https://gospelchannel.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gospelchannel-church-guide": {

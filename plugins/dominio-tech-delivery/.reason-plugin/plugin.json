@@ -4,6 +4,7 @@
   "description": "Build food orders.",
   "homepage": "https://dominio.tech",
   "docs": "https://dominio.tech",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dominio-tech-delivery": {

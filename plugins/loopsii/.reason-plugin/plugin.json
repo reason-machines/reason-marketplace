@@ -4,6 +4,7 @@
   "description": "Projects, tasks, time & notes.",
   "homepage": "https://loopsii.com",
   "docs": "https://api.loopsii.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "loopsii": {

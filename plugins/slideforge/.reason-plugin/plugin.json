@@ -4,6 +4,7 @@
   "description": "Create editable PowerPoint.",
   "homepage": "https://slideforge.dev",
   "docs": "https://api.slideforge.dev/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "slideforge": {

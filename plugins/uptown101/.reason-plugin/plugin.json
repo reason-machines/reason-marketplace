@@ -4,6 +4,7 @@
   "description": "Texas apartments & guides.",
   "homepage": "https://uptown101.com",
   "docs": "https://uptown101.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uptown101": {

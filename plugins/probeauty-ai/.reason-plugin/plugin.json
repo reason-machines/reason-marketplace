@@ -4,6 +4,7 @@
   "description": "Your salon's front desk.",
   "homepage": "https://www.probeauty.ai",
   "docs": "https://probeauty.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "probeauty-ai": {

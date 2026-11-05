@@ -4,6 +4,7 @@
   "description": "Structured learning in Chat.",
   "homepage": "https://www.endlessu.ai",
   "docs": "https://www.endlessu.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "endless-u": {

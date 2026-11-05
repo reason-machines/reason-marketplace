@@ -4,6 +4,7 @@
   "description": "Recruit with Vitae.",
   "homepage": "https://vitae.ai",
   "docs": "https://vitae.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vitae": {

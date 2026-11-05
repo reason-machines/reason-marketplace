@@ -4,6 +4,7 @@
   "description": "SEO and AI visibility data.",
   "homepage": "https://seocrawl.ai",
   "docs": "https://seocrawl.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seocrawl-ai": {

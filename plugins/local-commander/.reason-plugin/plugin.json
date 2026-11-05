@@ -4,6 +4,7 @@
   "description": "Work on your Windows computer.",
   "homepage": "https://localcmd.app/",
   "docs": "https://localcmd.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "local-commander": {

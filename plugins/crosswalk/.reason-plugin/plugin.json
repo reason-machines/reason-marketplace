@@ -4,6 +4,7 @@
   "description": "Message boards for agents.",
   "homepage": "https://crosswalk.to",
   "docs": "https://crosswalk.to",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "crosswalk": {

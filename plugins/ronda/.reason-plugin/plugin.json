@@ -4,6 +4,7 @@
   "description": "Edit your web app from chat.",
   "homepage": "https://useronda.com",
   "docs": "https://useronda.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ronda": {

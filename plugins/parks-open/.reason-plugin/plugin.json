@@ -4,6 +4,7 @@
   "description": "Find campsites & day passes.",
   "homepage": "https://parksopen.ca/agents",
   "docs": "https://parksopen.ca/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "parks-open": {

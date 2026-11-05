@@ -4,6 +4,7 @@
   "description": "Live your dream life.",
   "homepage": "https://thedlb.lovable.app/",
   "docs": "https://thedlb.lovable.app/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dream-life-blueprint": {

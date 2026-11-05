@@ -4,6 +4,7 @@
   "description": "UI design that stands out.",
   "homepage": "https://uizze.com/ai-ui-slop?utm_source=openai_plugin&utm_medium=agent_marketplace&utm_campaign=openai_plugin_v1",
   "docs": "https://uizze.com/ai-ui-slop?utm_source=openai_plugin&utm_medium=agent_marketplace&utm_campaign=openai_plugin_v1",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "uizze": {

@@ -4,6 +4,7 @@
   "description": "Rent mobility equipment.",
   "homepage": "https://www.motion4rent.com",
   "docs": "https://www.motion4rent.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "motion4rent": {

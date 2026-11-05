@@ -4,6 +4,7 @@
   "description": "Global market intelligence.",
   "homepage": "https://morningconsult.com/",
   "docs": "https://morningconsult.com/articles/how-the-morning-consult-ai-connector-mcp-works",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "morning-consult": {

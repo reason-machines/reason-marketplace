@@ -4,6 +4,7 @@
   "description": "Quantum computing workspace.",
   "homepage": "https://qbraid.com",
   "docs": "https://qbraid.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qbraid": {

@@ -4,6 +4,7 @@
   "description": "Write your next reply.",
   "homepage": "https://smoothspeak.ai/",
   "docs": "https://smoothspeak.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smoothspeak-replies": {

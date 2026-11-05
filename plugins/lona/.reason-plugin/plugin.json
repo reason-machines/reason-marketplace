@@ -4,6 +4,7 @@
   "description": "Backtest trading strategies.",
   "homepage": "https://www.lona.agency?utm_source=chatgpt&utm_medium=ai_plugin&utm_campaign=lona-gpt",
   "docs": "https://www.lona.agency?utm_source=chatgpt&utm_medium=ai_plugin&utm_campaign=lona-gpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lona": {

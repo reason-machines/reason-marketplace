@@ -4,6 +4,7 @@
   "description": "Run your tour from chat.",
   "homepage": "https://daysync.com",
   "docs": "https://daysync.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "daysync": {

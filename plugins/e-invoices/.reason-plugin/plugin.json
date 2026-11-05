@@ -4,6 +4,7 @@
   "description": "Understand Italian e-invoices.",
   "homepage": "https://e-invoices.it/en/",
   "docs": "https://e-invoices.it/en/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "e-invoices": {

@@ -4,6 +4,7 @@
   "description": "Cited Supreme Court judgments.",
   "homepage": "https://www.pledr.in",
   "docs": "https://www.pledr.in",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pledr-legal": {

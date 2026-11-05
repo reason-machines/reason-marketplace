@@ -4,6 +4,7 @@
   "description": "GitHub Actions runner insights.",
   "homepage": "https://runzumi.com",
   "docs": "https://runzumi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "runzumi-openai": {

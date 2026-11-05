@@ -4,6 +4,7 @@
   "description": "Check if email addresses exist.",
   "homepage": "https://inboxtrue.com",
   "docs": "https://inboxtrue.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "inboxtrue": {

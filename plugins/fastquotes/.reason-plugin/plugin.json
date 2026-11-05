@@ -4,6 +4,7 @@
   "description": "Get freight shipping quotes.",
   "homepage": "https://www.fastquotes.io",
   "docs": "https://www.fastquotes.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fastquotes": {

@@ -4,6 +4,7 @@
   "description": "Find festival lineups.",
   "homepage": "https://setlineapp.com",
   "docs": "https://setlineapp.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "setline": {

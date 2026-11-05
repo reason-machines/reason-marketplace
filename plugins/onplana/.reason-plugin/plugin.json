@@ -4,6 +4,7 @@
   "description": "Plan projects and track work.",
   "homepage": "https://onplana.com/mcp",
   "docs": "https://onplana.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "onplana": {

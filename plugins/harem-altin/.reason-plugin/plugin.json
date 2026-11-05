@@ -4,6 +4,7 @@
   "description": "Altın fiyatı ve çevirici.",
   "homepage": "https://www.haremaltin.com",
   "docs": "https://www.haremaltin.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "harem-altin": {

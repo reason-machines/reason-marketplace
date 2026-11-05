@@ -4,6 +4,7 @@
   "description": "Bol-marktdata in je AI.",
   "homepage": "https://egantic.ai",
   "docs": "https://egantic.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "egantic": {

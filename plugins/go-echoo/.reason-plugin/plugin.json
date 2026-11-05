@@ -4,6 +4,7 @@
   "description": "Your Super Memory notes.",
   "homepage": "https://goechoo.com",
   "docs": "https://goechoo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "go-echoo": {

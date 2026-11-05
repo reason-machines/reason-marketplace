@@ -4,6 +4,7 @@
   "description": "Track your hiring pipeline.",
   "homepage": "https://umamy.io",
   "docs": "https://umamy.io/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "umamy": {

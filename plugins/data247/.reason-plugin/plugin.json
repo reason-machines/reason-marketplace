@@ -4,6 +4,7 @@
   "description": "Data append and validation.",
   "homepage": "https://www.data247.com",
   "docs": "https://www.data247.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "data247": {

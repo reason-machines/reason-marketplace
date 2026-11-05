@@ -4,6 +4,7 @@
   "description": "Analyze Danish companies.",
   "homepage": "https://datapublica.dk/",
   "docs": "https://datapublica.dk/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "datapublica": {

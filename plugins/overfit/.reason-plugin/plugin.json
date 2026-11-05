@@ -4,6 +4,7 @@
   "description": "Ausschreibungen & Firmendaten.",
   "homepage": "https://www.overfit.de/agenten",
   "docs": "https://www.overfit.de/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "overfit": {

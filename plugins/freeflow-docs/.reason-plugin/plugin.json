@@ -4,6 +4,7 @@
   "description": "Office files, edited by chat.",
   "homepage": "https://docs.freeflow.im",
   "docs": "https://app.freeflow.im/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "freeflow-docs": {

@@ -4,6 +4,7 @@
   "description": "News and social research.",
   "homepage": "https://perigon.io/docs/api/mcp",
   "docs": "https://perigon.io/docs/api/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "perigon": {

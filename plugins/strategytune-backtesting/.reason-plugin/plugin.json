@@ -4,6 +4,7 @@
   "description": "Research and backtest ideas.",
   "homepage": "https://strategytune.com",
   "docs": "https://strategytune.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "strategytune-backtesting": {

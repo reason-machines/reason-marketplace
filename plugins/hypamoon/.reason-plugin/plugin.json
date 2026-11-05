@@ -4,6 +4,7 @@
   "description": "Your app, live and connected.",
   "homepage": "https://hypamoon.com",
   "docs": "https://hypamoon.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hypamoon": {

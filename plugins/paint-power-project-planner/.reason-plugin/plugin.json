@@ -4,6 +4,7 @@
   "description": "Plan painting & remodeling.",
   "homepage": "https://paintpower.net/",
   "docs": "https://paintpower.net/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "paint-power-project-planner": {

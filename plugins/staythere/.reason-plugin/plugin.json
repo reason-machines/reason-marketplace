@@ -4,6 +4,7 @@
   "description": "Find direct vacation stays.",
   "homepage": "https://staythere.ai",
   "docs": "https://staythere.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "staythere": {

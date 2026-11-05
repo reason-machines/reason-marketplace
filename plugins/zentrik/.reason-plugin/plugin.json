@@ -4,6 +4,7 @@
   "description": "Evidence for product decisions.",
   "homepage": "https://zentrik.ai/features/chatgpt-integration",
   "docs": "https://zentrik.ai/features/chatgpt-integration",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zentrik": {

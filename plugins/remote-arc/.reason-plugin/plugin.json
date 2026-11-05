@@ -4,6 +4,7 @@
   "description": "Access your computer remotely.",
   "homepage": "https://remotearc.app",
   "docs": "https://remotearc.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "remote-arc": {

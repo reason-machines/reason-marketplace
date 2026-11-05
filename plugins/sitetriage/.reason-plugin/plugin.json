@@ -4,6 +4,7 @@
   "description": "Find out why a site is broken.",
   "homepage": "https://ai.seyithanalkan.com/sitetriage",
   "docs": "https://ai.seyithanalkan.com/sitetriage",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sitetriage": {

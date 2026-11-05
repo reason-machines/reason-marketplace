@@ -4,6 +4,7 @@
   "description": "Track Eurostar fares & dates.",
   "homepage": "https://www.trainpricetracker.com/",
   "docs": "https://www.trainpricetracker.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "train-price-tracker": {

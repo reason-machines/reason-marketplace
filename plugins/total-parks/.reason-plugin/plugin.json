@@ -4,6 +4,7 @@
   "description": "Find & book Holiday Parks.",
   "homepage": "https://totalparks.com.au/",
   "docs": "https://totalparks.com.au/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "total-parks": {

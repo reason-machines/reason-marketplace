@@ -4,6 +4,7 @@
   "description": "Humanizes AI writing.",
   "homepage": "https://www.reversegpt.ai",
   "docs": "https://reversegpt.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reversegpt": {

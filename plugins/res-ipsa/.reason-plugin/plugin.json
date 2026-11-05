@@ -4,6 +4,7 @@
   "description": "Research New Zealand law.",
   "homepage": "https://app.resipsa.ai/",
   "docs": "https://app.resipsa.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "res-ipsa": {

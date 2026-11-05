@@ -4,6 +4,7 @@
   "description": "Create and edit video ads.",
   "homepage": "https://creatify.ai",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.creatify/ad-agent",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "creatify-ad-agent": {

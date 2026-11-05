@@ -4,6 +4,7 @@
   "description": "Chat with your work apps.",
   "homepage": "https://mygentic.io",
   "docs": "https://mygentic.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mygentic": {

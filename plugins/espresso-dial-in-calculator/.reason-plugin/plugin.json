@@ -4,6 +4,7 @@
   "description": "Fix your espresso shot.",
   "homepage": "https://puckbean.com/",
   "docs": "https://puckbean.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "espresso-dial-in-calculator": {

@@ -4,6 +4,7 @@
   "description": "Hire a vetted dev to finish.",
   "homepage": "https://mcp.sememe.ai/docs",
   "docs": "https://mcp.sememe.ai/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sememe": {

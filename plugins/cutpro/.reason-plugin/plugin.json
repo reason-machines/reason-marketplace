@@ -4,6 +4,7 @@
   "description": "AI videos, clips, music & more.",
   "homepage": "https://cut.pro",
   "docs": "https://cut.pro",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cutpro": {

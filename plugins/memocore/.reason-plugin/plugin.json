@@ -4,6 +4,7 @@
   "description": "Persistent shared AI memory.",
   "homepage": "https://memocore.ai",
   "docs": "https://memocore.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "memocore": {

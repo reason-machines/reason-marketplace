@@ -4,6 +4,7 @@
   "description": "Plan smarter trips with AI.",
   "homepage": "https://yoteiko.com",
   "docs": "https://yoteiko.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yoteiko": {

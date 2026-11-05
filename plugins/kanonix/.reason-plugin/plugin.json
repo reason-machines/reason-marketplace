@@ -4,6 +4,7 @@
   "description": "Algerian law, sourced.",
   "homepage": "https://kanonix.app",
   "docs": "https://kanonix.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kanonix": {

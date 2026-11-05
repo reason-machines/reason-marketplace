@@ -4,6 +4,7 @@
   "description": "Build your modular workspace.",
   "homepage": "https://fibery.com",
   "docs": "https://fibery.com/features/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fibery": {

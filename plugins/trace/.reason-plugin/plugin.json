@@ -4,6 +4,7 @@
   "description": "AI native technographics.",
   "homepage": "https://tracedata.ai/",
   "docs": "https://tracedata.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trace": {

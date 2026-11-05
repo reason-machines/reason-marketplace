@@ -4,6 +4,7 @@
   "description": "Lyric videos & Spotify Canvas.",
   "homepage": "https://kinetune.com",
   "docs": "https://kinetune.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kinetune": {

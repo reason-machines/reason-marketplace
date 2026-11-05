@@ -4,6 +4,7 @@
   "description": "Read your AI search visibility.",
   "homepage": "https://www.mencionai.com/en",
   "docs": "https://www.mencionai.com/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mencionai": {

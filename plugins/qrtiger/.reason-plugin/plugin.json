@@ -4,6 +4,7 @@
   "description": "Create and manage QR codes.",
   "homepage": "https://www.qrcode-tiger.com",
   "docs": "https://qrcode-tiger.com/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qrtiger": {

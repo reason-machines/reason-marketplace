@@ -4,6 +4,7 @@
   "description": "Aviation parts & RFQs.",
   "homepage": "https://partsperk.com",
   "docs": "https://partsperk.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "partsperk": {

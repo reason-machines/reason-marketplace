@@ -4,6 +4,7 @@
   "description": "Loan & travel insurance quotes.",
   "homepage": "https://reassurez-moi.fr",
   "docs": "https://reassurez-moi.fr",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "reassurez-moi": {

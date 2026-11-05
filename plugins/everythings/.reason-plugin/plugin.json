@@ -4,6 +4,7 @@
   "description": "Review what your agents write.",
   "homepage": "https://www.everythings.app",
   "docs": "https://everythings.app/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "everythings": {

@@ -4,6 +4,7 @@
   "description": "Build, test and share games.",
   "homepage": "https://www.playdrop.ai/docs/connectors",
   "docs": "https://www.playdrop.ai/docs/connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "playdrop": {

@@ -4,6 +4,7 @@
   "description": "Property owners & foreclosures.",
   "homepage": "https://hercules.properties",
   "docs": "https://hercules.properties",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hercules-real-estate": {

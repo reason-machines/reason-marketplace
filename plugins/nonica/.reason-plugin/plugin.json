@@ -4,6 +4,7 @@
   "description": "Install NonicaTab Revit MCP.",
   "homepage": "https://nonica.io",
   "docs": "https://nonica.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nonica": {

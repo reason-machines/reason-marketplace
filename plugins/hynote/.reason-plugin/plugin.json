@@ -4,6 +4,7 @@
   "description": "Search, read, and create notes.",
   "homepage": "https://hynote.ai",
   "docs": "https://hynote.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hynote": {

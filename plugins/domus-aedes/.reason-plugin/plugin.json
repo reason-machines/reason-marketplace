@@ -4,6 +4,7 @@
   "description": "Homes in Spain and Morocco.",
   "homepage": "https://domusaedes.com",
   "docs": "https://ai.domusaedes.com/docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "domus-aedes": {

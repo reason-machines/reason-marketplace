@@ -4,6 +4,7 @@
   "description": "Research drafts with citations.",
   "homepage": "https://www.thesisai.io",
   "docs": "https://www.thesisai.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "thesisai": {

@@ -4,6 +4,7 @@
   "description": "Football match probabilities.",
   "homepage": "https://docteurbet.fr/en/methodologie",
   "docs": "https://docteurbet.fr/en/methodologie",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "docteur-bet": {

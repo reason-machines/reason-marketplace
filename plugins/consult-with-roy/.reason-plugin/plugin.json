@@ -4,6 +4,7 @@
   "description": "Talk to Roy's Concierge Agent.",
   "homepage": "https://www.consult-with-roy.com",
   "docs": "https://www.consult-with-roy.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "consult-with-roy": {

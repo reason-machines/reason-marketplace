@@ -4,6 +4,7 @@
   "description": "Your team's product context.",
   "homepage": "https://revelica.com",
   "docs": "https://revelica.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "revelica": {

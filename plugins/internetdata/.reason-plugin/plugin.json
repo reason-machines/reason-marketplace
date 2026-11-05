@@ -4,6 +4,7 @@
   "description": "IP and ASN databases.",
   "homepage": "https://internetdata.io",
   "docs": "https://internetdata.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "internetdata": {

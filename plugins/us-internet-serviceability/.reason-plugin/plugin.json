@@ -4,6 +4,7 @@
   "description": "Check internet availability.",
   "homepage": "https://getconnectedfast.com/",
   "docs": "https://getconnectedfast.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "us-internet-serviceability": {

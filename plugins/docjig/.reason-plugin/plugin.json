@@ -4,6 +4,7 @@
   "description": "AI template prep and signing.",
   "homepage": "https://docjig.com/",
   "docs": "https://docjig.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docjig": {

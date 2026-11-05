@@ -4,6 +4,7 @@
   "description": "Search Softhills SDK docs.",
   "homepage": "https://ai.softhills.net",
   "docs": "https://ai.softhills.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "softhills": {

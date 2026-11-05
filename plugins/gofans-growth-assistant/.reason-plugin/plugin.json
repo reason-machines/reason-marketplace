@@ -4,6 +4,7 @@
   "description": "Earn and sell online on GoFans.",
   "homepage": "https://www.gofans.in/",
   "docs": "https://tedix.dev/apps/gofans-growth-assistant/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gofans-growth-assistant": {

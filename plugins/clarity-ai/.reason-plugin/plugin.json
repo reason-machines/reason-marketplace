@@ -4,6 +4,7 @@
   "description": "Extra-financial risk analysis.",
   "homepage": "https://tedix.dev/apps/clarity-ai/",
   "docs": "https://tedix.dev/apps/clarity-ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clarity-ai": {

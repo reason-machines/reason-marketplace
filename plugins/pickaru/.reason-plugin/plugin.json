@@ -4,6 +4,7 @@
   "description": "Swipe together, pick tonight.",
   "homepage": "https://pickaru.com",
   "docs": "https://pickaru.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pickaru": {

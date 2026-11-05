@@ -4,6 +4,7 @@
   "description": "Analyze rental deals.",
   "homepage": "https://deal-analyzer-mcp-production.up.railway.app",
   "docs": "https://tedix.dev/apps/deal-analyzer-mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "deal-analyzer": {

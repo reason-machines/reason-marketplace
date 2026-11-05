@@ -4,6 +4,7 @@
   "description": "Antibody leads and patent data.",
   "homepage": "https://converge-bio.com",
   "docs": "https://converge-bio.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "converge-bio": {

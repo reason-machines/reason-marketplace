@@ -4,6 +4,7 @@
   "description": "Decode VINs & understand specs.",
   "homepage": "https://free-vin-lookup.com/",
   "docs": "https://free-vin-lookup.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vin-lookup": {

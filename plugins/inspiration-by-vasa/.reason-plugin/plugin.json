@@ -4,6 +4,7 @@
   "description": "Find design inspiration.",
   "homepage": "https://inspiration.vasa.works",
   "docs": "https://inspiration.vasa.works",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "inspiration-by-vasa": {

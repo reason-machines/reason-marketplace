@@ -4,6 +4,7 @@
   "description": "Packaging price benchmarks.",
   "homepage": "https://opnplatform.com/llms.txt",
   "docs": "https://opnplatform.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "packindex": {

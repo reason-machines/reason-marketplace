@@ -4,6 +4,7 @@
   "description": "Free keyword research.",
   "homepage": "https://keywordtool.io/mcp/guest",
   "docs": "https://keywordtool.io/mcp/guest",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "keyword-tool-free-seo-ideas": {

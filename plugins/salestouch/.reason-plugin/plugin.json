@@ -4,6 +4,7 @@
   "description": "LinkedIn Outreach for agents.",
   "homepage": "https://www.salestouch.io",
   "docs": "https://salestouch.io/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "salestouch": {

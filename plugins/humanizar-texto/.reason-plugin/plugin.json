@@ -4,6 +4,7 @@
   "description": "Polish Brazilian Portuguese.",
   "homepage": "https://www.humanizartexto.com.br",
   "docs": "https://www.humanizartexto.com.br",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "humanizar-texto": {

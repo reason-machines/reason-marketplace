@@ -4,6 +4,7 @@
   "description": "Smart Links & Vector QR.",
   "homepage": "https://www.lnkk.it/",
   "docs": "https://lnkk.it/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lnkk-links": {

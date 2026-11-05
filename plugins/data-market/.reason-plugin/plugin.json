@@ -4,6 +4,7 @@
   "description": "Consulte preços no varejo.",
   "homepage": "https://datamarket.cnovatech.com.br",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=br.com.cnovatech",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "data-market": {

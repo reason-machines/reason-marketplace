@@ -4,6 +4,7 @@
   "description": "Live script reader and timer.",
   "homepage": "https://teleprompter.zovo.one",
   "docs": "https://teleprompter.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "teleprompter": {

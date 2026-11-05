@@ -4,6 +4,7 @@
   "description": "Run your radio stations.",
   "homepage": "https://tunio.ai",
   "docs": "https://tunio.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tunio": {

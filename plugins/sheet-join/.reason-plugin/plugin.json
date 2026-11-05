@@ -4,6 +4,7 @@
   "description": "Merge sheets on messy IDs.",
   "homepage": "https://sheet-join.zovo.one",
   "docs": "https://sheet-join.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sheet-join": {

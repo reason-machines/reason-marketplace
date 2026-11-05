@@ -4,6 +4,7 @@
   "description": "Jobs in der Schweiz finden.",
   "homepage": "https://www.funkyjobs.ch/mcp-connector",
   "docs": "https://www.funkyjobs.ch/mcp-connector",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "funkyjobs": {

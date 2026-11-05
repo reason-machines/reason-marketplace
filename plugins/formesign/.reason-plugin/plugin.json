@@ -4,6 +4,7 @@
   "description": "Create forms with eSignature.",
   "homepage": "https://formesign.com",
   "docs": "https://formesign.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "formesign": {

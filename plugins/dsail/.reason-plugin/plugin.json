@@ -4,6 +4,7 @@
   "description": "Check facts against your rules.",
   "homepage": "https://docs.agents.jaxon.ai",
   "docs": "https://docs.agents.jaxon.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dsail": {

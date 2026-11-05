@@ -4,6 +4,7 @@
   "description": "Marketing mix modeling & ROI.",
   "homepage": "https://mmmlabs.ai",
   "docs": "https://mmmlabs.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mmm-labs": {

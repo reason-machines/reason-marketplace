@@ -4,6 +4,7 @@
   "description": "Find tutors for 1000+ subjects.",
   "homepage": "https://www.urbanpro.com",
   "docs": "https://www.urbanpro.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "urbanpro-tutor-finder": {

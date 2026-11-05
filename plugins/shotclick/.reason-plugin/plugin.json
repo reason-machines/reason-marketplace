@@ -4,6 +4,7 @@
   "description": "Write and edit screenplays.",
   "homepage": "https://shotclick.ai",
   "docs": "https://shotclick.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shotclick": {

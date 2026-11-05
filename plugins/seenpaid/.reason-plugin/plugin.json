@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://seenpaid.com",
   "docs": "https://seenpaid.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seenpaid": {

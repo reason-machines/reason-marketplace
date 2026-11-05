@@ -4,6 +4,7 @@
   "description": "Publish web content to a URL.",
   "homepage": "https://hoaster.app/",
   "docs": "https://hoaster.app/api/auth/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hoaster": {

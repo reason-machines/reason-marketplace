@@ -4,6 +4,7 @@
   "description": "Design UI prototypes.",
   "homepage": "https://designobo.com",
   "docs": "https://designobo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "designobo": {

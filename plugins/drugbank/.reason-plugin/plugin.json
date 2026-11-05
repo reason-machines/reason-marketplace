@@ -4,6 +4,7 @@
   "description": "Analyze drug intelligence.",
   "homepage": "https://go.drugbank.com",
   "docs": "https://go.drugbank.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "drugbank": {

@@ -4,6 +4,7 @@
   "description": "Error tracking and analytics.",
   "homepage": "https://vinktar.com",
   "docs": "https://vinktar.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vinktar": {

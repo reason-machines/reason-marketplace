@@ -4,6 +4,7 @@
   "description": "Analyze qualitative research.",
   "homepage": "https://www.superqda.com",
   "docs": "https://www.superqda.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superqda": {

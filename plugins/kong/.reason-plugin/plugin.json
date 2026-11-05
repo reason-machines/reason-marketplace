@@ -4,6 +4,7 @@
   "description": "Turn conversations into action.",
   "homepage": "https://www.saleskong.com/",
   "docs": "https://www.saleskong.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kong": {

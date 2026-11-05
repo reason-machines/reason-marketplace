@@ -4,6 +4,7 @@
   "description": "Road trips, visas & fuel.",
   "homepage": "https://openvan.camp/en/assistant",
   "docs": "https://openvan.camp/en/assistant",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "openvan-camp-travel": {

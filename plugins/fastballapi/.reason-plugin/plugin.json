@@ -4,6 +4,7 @@
   "description": "MLB baseball data and stats.",
   "homepage": "https://fastballapi.com",
   "docs": "https://fastballapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fastballapi": {

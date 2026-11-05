@@ -4,6 +4,7 @@
   "description": "Backtest trading strategies.",
   "homepage": "https://volrix.ai",
   "docs": "https://volrix.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "volrix": {

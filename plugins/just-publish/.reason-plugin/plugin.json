@@ -4,6 +4,7 @@
   "description": "Publish websites to a live URL.",
   "homepage": "https://justpublish.ai",
   "docs": "https://justpublish.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "just-publish": {

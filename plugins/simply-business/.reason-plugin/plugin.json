@@ -4,6 +4,7 @@
   "description": "Find small business insurance.",
   "homepage": "https://www.simplybusiness.co.uk/",
   "docs": "https://tedix.dev/apps/simply-business/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "simply-business": {

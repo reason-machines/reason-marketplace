@@ -4,6 +4,7 @@
   "description": "Create and edit visual designs.",
   "homepage": "https://starrykit.com",
   "docs": "https://starrykit.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "starrykit": {

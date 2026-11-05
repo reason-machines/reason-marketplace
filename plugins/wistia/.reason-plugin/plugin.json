@@ -4,6 +4,7 @@
   "description": "Manage your Wistia content.",
   "homepage": "https://wistia.com",
   "docs": "https://wistia.com/product/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wistia": {

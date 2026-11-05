@@ -4,6 +4,7 @@
   "description": "Merchant & customer analytics.",
   "homepage": "https://www.iceflower.ai/",
   "docs": "https://www.iceflower.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iceflower": {

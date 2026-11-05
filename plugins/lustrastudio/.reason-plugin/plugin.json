@@ -4,6 +4,7 @@
   "description": "AI images for jewelry.",
   "homepage": "https://lustrastudio.co",
   "docs": "https://lustrastudio.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lustrastudio": {

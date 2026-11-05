@@ -4,6 +4,7 @@
   "description": "by OneMoreDoor Capital.",
   "homepage": "https://onemoredoor.com",
   "docs": "https://tedix.dev/apps/dscr-loan-calculator/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dscr-loan-calculator": {

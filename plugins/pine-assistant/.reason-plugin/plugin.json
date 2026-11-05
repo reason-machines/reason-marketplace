@@ -4,6 +4,7 @@
   "description": "Delegate real-world tasks.",
   "homepage": "https://pine.im",
   "docs": "https://pine.im",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pine-assistant": {

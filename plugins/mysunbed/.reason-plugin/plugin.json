@@ -4,6 +4,7 @@
   "description": "Book your beach club.",
   "homepage": "https://mysunbed.com/en/ai/",
   "docs": "https://mysunbed.com/en/ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mysunbed": {

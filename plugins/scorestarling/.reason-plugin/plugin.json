@@ -4,6 +4,7 @@
   "description": "Convert music across formats.",
   "homepage": "https://scorestarling.com",
   "docs": "https://scorestarling.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scorestarling": {

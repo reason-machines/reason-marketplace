@@ -4,6 +4,7 @@
   "description": "Search and read NC statutes.",
   "homepage": "https://ncstatutes.com",
   "docs": "https://ncstatutes.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ncstatutes": {

@@ -4,6 +4,7 @@
   "description": "Plan trips and estimate costs.",
   "homepage": "https://onesteptravel.app",
   "docs": "https://onesteptravel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "one-step-travel": {

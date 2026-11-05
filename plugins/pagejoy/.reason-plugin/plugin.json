@@ -4,6 +4,7 @@
   "description": "Edit PDFs, invoices and photos.",
   "homepage": "https://pagejoy.app",
   "docs": "https://pagejoy.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pagejoy": {

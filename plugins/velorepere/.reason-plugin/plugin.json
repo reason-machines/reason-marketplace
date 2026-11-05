@@ -4,6 +4,7 @@
   "description": "Find and compare bikes.",
   "homepage": "https://velorepere.fr",
   "docs": "https://velorepere.fr",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "velorepere": {

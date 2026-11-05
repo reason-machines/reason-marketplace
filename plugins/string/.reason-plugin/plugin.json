@@ -4,6 +4,7 @@
   "description": "LLM-ready web data for agents.",
   "homepage": "https://usestring.ai",
   "docs": "https://usestring.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "string": {

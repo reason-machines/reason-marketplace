@@ -4,6 +4,7 @@
   "description": "Your company brain.",
   "homepage": "https://gurusup.com/brain/mcp",
   "docs": "https://gurusup.com/brain/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gurusup-brain": {

@@ -4,6 +4,7 @@
   "description": "Operate your paired computers.",
   "homepage": "https://remcp.site",
   "docs": "https://remcp.site",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "remcp": {

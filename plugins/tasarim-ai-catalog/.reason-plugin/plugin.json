@@ -4,6 +4,7 @@
   "description": "Find and compare AI tools.",
   "homepage": "https://tasarim.ai",
   "docs": "https://tasarim.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tasarim-ai-catalog": {

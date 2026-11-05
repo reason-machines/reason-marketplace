@@ -4,6 +4,7 @@
   "description": "AI models + app hosting.",
   "homepage": "https://roar-ai.com/mcp",
   "docs": "https://roar-ai.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "roar-ai": {

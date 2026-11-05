@@ -4,6 +4,7 @@
   "description": "Rideshare Tax Deduction.",
   "homepage": "https://TaxMadeEazy.com",
   "docs": "https://TaxMadeEazy.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "taxmadeeazy-rideshare-ded": {

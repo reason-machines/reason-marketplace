@@ -4,6 +4,7 @@
   "description": "School & district insights.",
   "homepage": "https://class-wise.com",
   "docs": "https://class-wise.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "classwise-school-and-district": {

@@ -4,6 +4,7 @@
   "description": "Domain search and name ideas.",
   "homepage": "https://instant.ai",
   "docs": "https://instant.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "instant": {

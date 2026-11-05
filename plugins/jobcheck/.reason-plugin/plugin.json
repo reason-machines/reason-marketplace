@@ -4,6 +4,7 @@
   "description": "Compare job status snapshots.",
   "homepage": "https://jobcheck-mcp.sunrysetech.com/",
   "docs": "https://jobcheck-mcp.sunrysetech.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jobcheck": {

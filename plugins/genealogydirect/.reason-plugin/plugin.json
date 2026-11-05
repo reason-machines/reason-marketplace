@@ -4,6 +4,7 @@
   "description": "Get or offer genealogy help.",
   "homepage": "https://www.genealogydirect.net",
   "docs": "https://www.genealogydirect.net",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "genealogydirect": {

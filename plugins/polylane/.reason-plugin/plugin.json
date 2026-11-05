@@ -4,6 +4,7 @@
   "description": "Investigate production issues.",
   "homepage": "https://polylane.com",
   "docs": "https://polylane.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "polylane": {

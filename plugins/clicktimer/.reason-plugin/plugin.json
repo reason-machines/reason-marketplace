@@ -4,6 +4,7 @@
   "description": "Email countdown timers.",
   "homepage": "https://www.clicktimer.co",
   "docs": "https://www.clicktimer.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clicktimer": {

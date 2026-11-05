@@ -4,6 +4,7 @@
   "description": "Find content that's working.",
   "homepage": "https://eden.so",
   "docs": "https://eden.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "eden": {

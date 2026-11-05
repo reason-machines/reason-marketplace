@@ -4,6 +4,7 @@
   "description": "Family document vault.",
   "homepage": "https://fileit.com",
   "docs": "https://fileit.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fileit": {

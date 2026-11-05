@@ -4,6 +4,7 @@
   "description": "Book K-Beauty in Korea.",
   "homepage": "https://timeplex.ai",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.timeplex/booking",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "k-beauty-spa-and-hair-booking": {

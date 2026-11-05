@@ -4,6 +4,7 @@
   "description": "Find and create tasks.",
   "homepage": "https://runrun.it",
   "docs": "https://runrun.it",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "runrun-it": {

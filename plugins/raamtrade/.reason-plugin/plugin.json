@@ -4,6 +4,7 @@
   "description": "Invent And Optimize Strategies.",
   "homepage": "https://raamtrade.com",
   "docs": "https://raamtrade.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "raamtrade": {

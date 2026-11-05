@@ -4,6 +4,7 @@
   "description": "Manage schemas and APIs.",
   "homepage": "https://mcpbackend.com",
   "docs": "https://mcpbackend.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mcpbackend": {

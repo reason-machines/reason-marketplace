@@ -4,6 +4,7 @@
   "description": "Cinematic AI video, from chat.",
   "homepage": "https://www.fxi.studio/?utm_source=chatgpt-app&utm_medium=referral&utm_campaign=app-directory",
   "docs": "https://www.fxi.studio/?utm_source=chatgpt-app&utm_medium=referral&utm_campaign=app-directory",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fxi-studio": {

@@ -4,6 +4,7 @@
   "description": "Radio, podcasts & audiobooks.",
   "homepage": "https://spinnradio.com",
   "docs": "https://spinnradio.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spinn-radio": {

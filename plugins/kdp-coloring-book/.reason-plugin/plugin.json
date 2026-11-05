@@ -4,6 +4,7 @@
   "description": "Create coloring book interiors.",
   "homepage": "https://kdpcoloringbook.com/en",
   "docs": "https://kdpcoloringbook.com/en/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kdp-coloring-book": {

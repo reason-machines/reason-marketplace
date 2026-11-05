@@ -4,6 +4,7 @@
   "description": "Keep investments on strategy.",
   "homepage": "https://kovatools.com",
   "docs": "https://kovatools.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kova": {

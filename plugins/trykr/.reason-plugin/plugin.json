@@ -4,6 +4,7 @@
   "description": "Print your designs in Denmark.",
   "homepage": "https://trykr.dk/tryk-fra-chatgpt",
   "docs": "https://trykr.dk/tryk-fra-chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trykr": {

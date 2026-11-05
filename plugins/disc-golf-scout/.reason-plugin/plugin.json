@@ -4,6 +4,7 @@
   "description": "Disc values, stock and drops.",
   "homepage": "https://www.discgolfscout.com/ai-assistants",
   "docs": "https://www.discgolfscout.com/ai-assistants",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "disc-golf-scout": {

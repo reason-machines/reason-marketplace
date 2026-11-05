@@ -4,6 +4,7 @@
   "description": "Team wiki with semantic search.",
   "homepage": "https://telawiki.com",
   "docs": "https://telawiki.com/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tela": {

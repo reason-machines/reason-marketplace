@@ -4,6 +4,7 @@
   "description": "Plan China tours with WeTrip.",
   "homepage": "https://www.wetrip.global",
   "docs": "https://www.wetrip.global",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wetrip": {

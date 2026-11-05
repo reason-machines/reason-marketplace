@@ -4,6 +4,7 @@
   "description": "Trademark conflict search.",
   "homepage": "https://www.digip.com",
   "docs": "https://www.digip.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "digip": {

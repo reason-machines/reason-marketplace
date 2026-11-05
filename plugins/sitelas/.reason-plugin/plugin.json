@@ -4,6 +4,7 @@
   "description": "Build and manage your websites.",
   "homepage": "https://sitelas.com",
   "docs": "https://sitelas.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sitelas": {

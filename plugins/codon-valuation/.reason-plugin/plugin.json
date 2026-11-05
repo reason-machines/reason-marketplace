@@ -4,6 +4,7 @@
   "description": "409A and EMI value estimates.",
   "homepage": "https://www.codonvaluation.com",
   "docs": "https://www.codonvaluation.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "codon-valuation": {

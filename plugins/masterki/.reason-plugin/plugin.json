@@ -4,6 +4,7 @@
   "description": "Make Anki flashcards.",
   "homepage": "https://masterki.org",
   "docs": "https://masterki.org",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "masterki": {

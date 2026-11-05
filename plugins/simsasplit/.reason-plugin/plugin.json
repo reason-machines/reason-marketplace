@@ -4,6 +4,7 @@
   "description": "Split group expenses.",
   "homepage": "https://simsasplit.simsala.dev/",
   "docs": "https://tedix.dev/apps/simsasplit/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simsasplit": {

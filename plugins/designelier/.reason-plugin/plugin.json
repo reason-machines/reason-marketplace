@@ -4,6 +4,7 @@
   "description": "Generate icons & illustrations.",
   "homepage": "https://app.designelier.com/plugin",
   "docs": "https://app.designelier.com/plugin",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "designelier": {

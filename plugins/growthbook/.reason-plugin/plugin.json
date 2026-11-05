@@ -4,6 +4,7 @@
   "description": "Feature flags and A/B testing.",
   "homepage": "https://www.growthbook.io",
   "docs": "https://www.growthbook.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "growthbook": {

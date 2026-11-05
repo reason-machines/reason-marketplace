@@ -4,6 +4,7 @@
   "description": "Card perks, credits and points.",
   "homepage": "https://getcreddy.com",
   "docs": "https://getcreddy.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "creddy": {

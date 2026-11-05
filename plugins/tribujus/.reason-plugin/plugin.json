@@ -4,6 +4,7 @@
   "description": "Verifiable Brazilian case law.",
   "homepage": "https://www.tribujus.com.br",
   "docs": "https://tribujus.com.br/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tribujus": {

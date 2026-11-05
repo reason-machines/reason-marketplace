@@ -4,6 +4,7 @@
   "description": "Dining, hotel & spa experience.",
   "homepage": "https://www.api-and-you.com",
   "docs": "https://www.api-and-you.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "secretbox": {

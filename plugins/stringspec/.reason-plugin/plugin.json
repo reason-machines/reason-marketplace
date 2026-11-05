@@ -4,6 +4,7 @@
   "description": "Lab-measured tennis strings.",
   "homepage": "https://stringspec.com",
   "docs": "https://stringspec.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stringspec": {

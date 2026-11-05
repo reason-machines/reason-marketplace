@@ -4,6 +4,7 @@
   "description": "Your SEO Data in Reason.",
   "homepage": "https://signalsumo.com",
   "docs": "https://signalsumo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "signalsumo": {

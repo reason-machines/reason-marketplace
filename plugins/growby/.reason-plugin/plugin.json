@@ -4,6 +4,7 @@
   "description": "Pregnancy & baby guides.",
   "homepage": "https://growby.app",
   "docs": "https://growby.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "growby": {

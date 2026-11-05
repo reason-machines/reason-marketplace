@@ -4,6 +4,7 @@
   "description": "Email campaigns and contacts.",
   "homepage": "https://zollo.run/integrations/mcp",
   "docs": "https://zollo.run/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zollo": {

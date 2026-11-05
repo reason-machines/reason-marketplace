@@ -4,6 +4,7 @@
   "description": "Compare prices before you buy.",
   "homepage": "https://wem3.ai/",
   "docs": "https://wem3.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wem-price-compare": {

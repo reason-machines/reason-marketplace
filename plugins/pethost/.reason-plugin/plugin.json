@@ -4,6 +4,7 @@
   "description": "Deploy and host your projects.",
   "homepage": "https://pethost.dev",
   "docs": "https://pethost.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pethost": {

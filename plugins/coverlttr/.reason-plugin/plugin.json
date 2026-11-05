@@ -4,6 +4,7 @@
   "description": "Write tailored cover letters.",
   "homepage": "https://www.coverlttr.com/",
   "docs": "https://www.coverlttr.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coverlttr": {

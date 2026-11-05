@@ -4,6 +4,7 @@
   "description": "Your leads, in Reason.",
   "homepage": "https://trulata.com/product/api",
   "docs": "https://trulata.com/product/api",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trulata": {

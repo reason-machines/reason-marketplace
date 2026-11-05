@@ -4,6 +4,7 @@
   "description": "Your social media calendar.",
   "homepage": "https://coschedule.com",
   "docs": "https://coschedule.com/support/integrations/ai-chat-apps/connect-chatgpt-to-coschedule",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coschedule": {

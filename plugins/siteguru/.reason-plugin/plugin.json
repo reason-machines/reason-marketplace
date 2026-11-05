@@ -4,6 +4,7 @@
   "description": "Improve your site's SEO.",
   "homepage": "https://www.siteguru.co",
   "docs": "https://www.siteguru.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "siteguru": {

@@ -4,6 +4,7 @@
   "description": "Turn media into AI prompts.",
   "homepage": "https://viralrecreate.com",
   "docs": "https://viralrecreate.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "viral-recreate-ai": {

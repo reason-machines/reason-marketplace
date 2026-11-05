@@ -4,6 +4,7 @@
   "description": "Digital Marketing Intelligence.",
   "homepage": "https://www.jepto.com",
   "docs": "https://www.jepto.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jepto": {

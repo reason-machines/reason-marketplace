@@ -4,6 +4,7 @@
   "description": "Analyze your meals and diet.",
   "homepage": "https://dietmate.app",
   "docs": "https://dietmate.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "diet-mate-nutritional-memory": {

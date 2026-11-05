@@ -4,6 +4,7 @@
   "description": "Business cards and insights.",
   "homepage": "https://docs.hihello.com/mcp/chatgpt",
   "docs": "https://docs.hihello.com/mcp/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hihello": {

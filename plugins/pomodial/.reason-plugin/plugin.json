@@ -4,6 +4,7 @@
   "description": "Focus timer with saved history.",
   "homepage": "https://www.pomodial.com",
   "docs": "https://www.pomodial.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pomodial": {

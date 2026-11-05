@@ -4,6 +4,7 @@
   "description": "Ad and store performance.",
   "homepage": "https://meerkads.com",
   "docs": "https://meerkads.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meerkads": {

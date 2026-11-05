@@ -4,6 +4,7 @@
   "description": "Find protein structures.",
   "homepage": "https://protplex.com",
   "docs": "https://protplex.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "protplex": {

@@ -4,6 +4,7 @@
   "description": "Every match, not the top 10.",
   "homepage": "https://lochless.io",
   "docs": "https://lochless.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lochless": {

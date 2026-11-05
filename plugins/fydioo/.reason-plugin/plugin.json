@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://fydioo.com/en",
   "docs": "https://fydioo.com/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fydioo": {

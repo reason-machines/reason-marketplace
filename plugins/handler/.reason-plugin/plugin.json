@@ -4,6 +4,7 @@
   "description": "TikTok winners for your app.",
   "homepage": "https://gethandler.ai/mcp",
   "docs": "https://gethandler.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "handler": {

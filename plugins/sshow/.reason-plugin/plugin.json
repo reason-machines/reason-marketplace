@@ -4,6 +4,7 @@
   "description": "Design and animate slides.",
   "homepage": "https://s.show",
   "docs": "https://s.show",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sshow": {

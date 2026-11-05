@@ -4,6 +4,7 @@
   "description": "Project context for agents.",
   "homepage": "https://www.giljo.ai",
   "docs": "https://www.giljo.ai/documentation/hq/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "giljo-hq": {

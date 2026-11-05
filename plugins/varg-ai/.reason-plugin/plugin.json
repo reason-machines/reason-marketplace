@@ -4,6 +4,7 @@
   "description": "AI ads, image, video & music.",
   "homepage": "https://varg.ai",
   "docs": "https://varg.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "varg-ai": {

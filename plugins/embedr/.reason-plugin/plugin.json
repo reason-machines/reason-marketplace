@@ -4,6 +4,7 @@
   "description": "Design circuits and PCBs.",
   "homepage": "https://www.embedr.app",
   "docs": "https://www.embedr.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "embedr": {

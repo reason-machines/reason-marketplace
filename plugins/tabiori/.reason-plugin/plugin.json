@@ -4,6 +4,7 @@
   "description": "Create travel plans.",
   "homepage": "https://tabiori.com/",
   "docs": "https://tabiori.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tabiori": {

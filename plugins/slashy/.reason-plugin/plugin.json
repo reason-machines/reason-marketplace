@@ -4,6 +4,7 @@
   "description": "Manage email and calendar.",
   "homepage": "https://www.slashy.com",
   "docs": "https://help.slashy.com/features/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "slashy": {

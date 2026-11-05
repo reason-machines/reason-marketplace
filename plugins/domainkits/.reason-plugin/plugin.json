@@ -4,6 +4,7 @@
   "description": "Newly registered domain search.",
   "homepage": "https://domainkits.com",
   "docs": "https://github.com/ABTdomain/domainkits-mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "domainkits": {

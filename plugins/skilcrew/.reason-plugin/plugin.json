@@ -4,6 +4,7 @@
   "description": "Jobs & services marketplace.",
   "homepage": "https://welcome.skilcrew.com",
   "docs": "https://welcome.skilcrew.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "skilcrew": {

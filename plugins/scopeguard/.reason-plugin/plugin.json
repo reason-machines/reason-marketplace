@@ -4,6 +4,7 @@
   "description": "Check agreed scope and costs.",
   "homepage": "https://scopeguard-mcp.sunrysetech.com/",
   "docs": "https://scopeguard-mcp.sunrysetech.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scopeguard": {

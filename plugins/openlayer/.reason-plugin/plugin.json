@@ -4,6 +4,7 @@
   "description": "Monitor and govern AI.",
   "homepage": "https://openlayer.com",
   "docs": "https://openlayer.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openlayer": {

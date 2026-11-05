@@ -4,6 +4,7 @@
   "description": "Lesso lessons & Talk rooms.",
   "homepage": "https://www.lesso.me",
   "docs": "https://www.lesso.me",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lesso": {

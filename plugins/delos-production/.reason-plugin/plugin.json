@@ -4,6 +4,7 @@
   "description": "Explore and submit enquiries.",
   "homepage": "https://www.delos.international/",
   "docs": "https://tedix.dev/apps/delos/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "delos-production": {

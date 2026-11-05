@@ -4,6 +4,7 @@
   "description": "Consultá tu sistema de gestión.",
   "homepage": "https://tusistema.ai",
   "docs": "https://tusistema.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tusistema": {

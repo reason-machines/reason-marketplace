@@ -4,6 +4,7 @@
   "description": "Gerencie sua imobiliária.",
   "homepage": "https://veloimob.com.br",
   "docs": "https://veloimob.com.br",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "veloimob-crm": {

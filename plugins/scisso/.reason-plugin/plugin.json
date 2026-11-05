@@ -4,6 +4,7 @@
   "description": "Know your shop with Scisso.",
   "homepage": "https://scisso.app/en",
   "docs": "https://scisso.app/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scisso": {

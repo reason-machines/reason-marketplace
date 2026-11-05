@@ -4,6 +4,7 @@
   "description": "Thai dive shops & liveaboards.",
   "homepage": "https://thailanddivemap.com/about/plugin",
   "docs": "https://thailanddivemap.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "thailand-dive-map": {

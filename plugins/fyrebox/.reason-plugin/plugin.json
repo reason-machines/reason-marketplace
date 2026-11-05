@@ -4,6 +4,7 @@
   "description": "Create quizzes from chat.",
   "homepage": "https://www.fyrebox.com/",
   "docs": "https://www.fyrebox.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fyrebox": {

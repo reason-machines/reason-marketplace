@@ -4,6 +4,7 @@
   "description": "Extract form fields.",
   "homepage": "https://task-app-hub-form-processing.sidcraigau.workers.dev/form-field-extractor",
   "docs": "https://task-app-hub-form-processing.sidcraigau.workers.dev/form-field-extractor",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "form-field-extractor": {

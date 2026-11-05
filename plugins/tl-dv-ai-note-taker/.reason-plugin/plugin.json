@@ -4,6 +4,7 @@
   "description": "Fetch your meeting transcripts.",
   "homepage": "https://tldv.io",
   "docs": "https://tldv.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tl-dv-ai-note-taker": {

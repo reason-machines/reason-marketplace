@@ -4,6 +4,7 @@
   "description": "Campaigns, contacts, reports.",
   "homepage": "https://hamla.io",
   "docs": "https://hamla.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hamla": {

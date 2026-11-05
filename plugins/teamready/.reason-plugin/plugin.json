@@ -4,6 +4,7 @@
   "description": "Youth sports game scheduling.",
   "homepage": "https://teamready-chatgpt-app.vercel.app/plugin",
   "docs": "https://teamready-chatgpt-app.vercel.app/plugin",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "teamready": {

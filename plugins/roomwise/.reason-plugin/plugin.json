@@ -4,6 +4,7 @@
   "description": "Home redesign room planner.",
   "homepage": "https://roomwise.funkylogic.workers.dev",
   "docs": "https://roomwise.funkylogic.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "roomwise": {

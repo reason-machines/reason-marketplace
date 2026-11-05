@@ -4,6 +4,7 @@
   "description": "Hazard Lookup & Risk Analysis.",
   "homepage": "https://risk.zipquote.ai",
   "docs": "https://risk.zipquote.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "property-hazard": {

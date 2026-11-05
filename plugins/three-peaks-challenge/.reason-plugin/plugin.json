@@ -4,6 +4,7 @@
   "description": "Event dates and booking help.",
   "homepage": "https://www.threepeakschallenge.uk/agentic-commerce",
   "docs": "https://www.threepeakschallenge.uk/agentic-commerce",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "three-peaks-challenge": {

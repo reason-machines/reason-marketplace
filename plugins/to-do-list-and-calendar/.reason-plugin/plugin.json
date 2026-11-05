@@ -4,6 +4,7 @@
   "description": "Reminder, Planner, Countdown.",
   "homepage": "https://dida365.com",
   "docs": "https://dida365.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "to-do-list-and-calendar": {

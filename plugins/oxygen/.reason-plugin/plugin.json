@@ -4,6 +4,7 @@
   "description": "Research and manage B2B leads.",
   "homepage": "https://oxygen-agent.com",
   "docs": "https://oxygen-agent.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "oxygen": {

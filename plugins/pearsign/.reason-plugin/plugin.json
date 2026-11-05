@@ -4,6 +4,7 @@
   "description": "Sign PDFs and get signatures.",
   "homepage": "https://pearsign.com",
   "docs": "https://pearsign.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pearsign": {

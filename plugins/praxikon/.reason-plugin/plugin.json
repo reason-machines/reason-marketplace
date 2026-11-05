@@ -4,6 +4,7 @@
   "description": "EU AI Act and GDPR checks.",
   "homepage": "https://www.praxikon.com/en/ai-assistant",
   "docs": "https://www.praxikon.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "praxikon": {

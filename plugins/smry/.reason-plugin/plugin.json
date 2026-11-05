@@ -4,6 +4,7 @@
   "description": "Read articles from any link.",
   "homepage": "https://smry.ai",
   "docs": "https://smry.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smry": {

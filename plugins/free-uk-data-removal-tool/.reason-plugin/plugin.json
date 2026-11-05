@@ -4,6 +4,7 @@
   "description": "Get off UK data broker lists.",
   "homepage": "https://freeukdataremovaltool.co.uk",
   "docs": "https://freeukdataremovaltool.co.uk",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "free-uk-data-removal-tool": {

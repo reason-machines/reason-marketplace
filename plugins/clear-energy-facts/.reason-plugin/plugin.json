@@ -4,6 +4,7 @@
   "description": "Compare electricity rates.",
   "homepage": "https://clearenergyfacts.com/en",
   "docs": "https://clearenergyfacts.com/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clear-energy-facts": {

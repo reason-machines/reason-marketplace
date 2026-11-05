@@ -4,6 +4,7 @@
   "description": "SEC filings knowledge graph.",
   "homepage": "https://robosystems.ai",
   "docs": "https://robosystems.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "robosystems": {

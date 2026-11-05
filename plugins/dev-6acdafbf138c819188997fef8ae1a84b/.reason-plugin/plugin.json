@@ -4,6 +4,7 @@
   "description": "더블유쇼핑 상품 검색 및 맞춤 추천.",
   "homepage": "https://www.w-shopping.co.kr/",
   "docs": "https://www.w-shopping.co.kr/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dev-6acdafbf138c819188997fef8ae1a84b": {

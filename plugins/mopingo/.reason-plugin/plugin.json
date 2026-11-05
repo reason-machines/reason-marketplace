@@ -4,6 +4,7 @@
   "description": "Plan your trips with Mopingo.",
   "homepage": "https://mopingo.com",
   "docs": "https://mopingo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mopingo": {

@@ -4,6 +4,7 @@
   "description": "Score video ads by link.",
   "homepage": "https://quelta.ai",
   "docs": "https://quelta.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quelta": {

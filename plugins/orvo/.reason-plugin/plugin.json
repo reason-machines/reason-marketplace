@@ -4,6 +4,7 @@
   "description": "Your relationships, connected.",
   "homepage": "https://www.getorvo.com/ai-assistants",
   "docs": "https://www.getorvo.com/ai-assistants",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orvo": {

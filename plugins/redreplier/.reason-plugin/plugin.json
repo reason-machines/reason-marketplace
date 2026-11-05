@@ -4,6 +4,7 @@
   "description": "Monitor your brand mentions.",
   "homepage": "https://redreplier.com",
   "docs": "https://redreplier.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "redreplier": {

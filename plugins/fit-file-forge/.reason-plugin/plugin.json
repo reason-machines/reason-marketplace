@@ -4,6 +4,7 @@
   "description": "Your training, analyzed.",
   "homepage": "https://www.fitfileforge.com/ai",
   "docs": "https://www.fitfileforge.com/ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fit-file-forge": {

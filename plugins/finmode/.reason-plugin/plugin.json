@@ -4,6 +4,7 @@
   "description": "Stock & ETF research.",
   "homepage": "https://finmode.app/",
   "docs": "https://finmode.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "finmode": {

@@ -4,6 +4,7 @@
   "description": "SEC filings and financials.",
   "homepage": "https://www.stockportfolio.pro/",
   "docs": "https://www.stockportfolio.pro/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stockportfolio-pro": {

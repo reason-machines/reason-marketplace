@@ -4,6 +4,7 @@
   "description": "Cars, transfers and eSIM.",
   "homepage": "https://goarac.com",
   "docs": "https://goarac.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "goarac-travel": {

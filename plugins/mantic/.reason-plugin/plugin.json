@@ -4,6 +4,7 @@
   "description": "Explore and request forecasts.",
   "homepage": "https://app.mantic.com/",
   "docs": "https://api.mantic.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mantic": {

@@ -4,6 +4,7 @@
   "description": "Discover creators and works.",
   "homepage": "https://publica.now",
   "docs": "https://publica.now",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "publica-now": {

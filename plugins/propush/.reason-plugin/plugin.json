@@ -4,6 +4,7 @@
   "description": "Manage Propush monetization.",
   "homepage": "https://propush.me/",
   "docs": "https://propush.me/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "propush": {

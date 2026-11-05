@@ -4,6 +4,7 @@
   "description": "Visual task workflow board.",
   "homepage": "https://safrow.com/mcp/kanban",
   "docs": "https://safrow.com/mcp/kanban",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kanban": {

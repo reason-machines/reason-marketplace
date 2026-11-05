@@ -4,6 +4,7 @@
   "description": "Currency and readiness plans.",
   "homepage": "https://payfresco.com/",
   "docs": "https://tedix.dev/apps/payfresco-payment-planner/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "payfresco-payment-planner": {

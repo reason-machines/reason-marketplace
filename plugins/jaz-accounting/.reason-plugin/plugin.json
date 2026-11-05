@@ -4,6 +4,7 @@
   "description": "Fastest ledger for agents.",
   "homepage": "https://www.jaz.ai/",
   "docs": "https://www.jaz.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jaz-accounting": {

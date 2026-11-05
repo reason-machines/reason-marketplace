@@ -4,6 +4,7 @@
   "description": "Optimize website experiments.",
   "homepage": "https://pagent.ai",
   "docs": "https://pagent.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pagent": {

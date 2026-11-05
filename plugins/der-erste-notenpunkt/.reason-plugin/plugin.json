@@ -4,6 +4,7 @@
   "description": "Math coach for Bavaria 2027.",
   "homepage": "https://der-erste-notenpunkt.de",
   "docs": "https://der-erste-notenpunkt.de",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "der-erste-notenpunkt": {

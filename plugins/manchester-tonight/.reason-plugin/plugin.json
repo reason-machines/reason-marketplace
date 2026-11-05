@@ -4,6 +4,7 @@
   "description": "What's on in Manchester.",
   "homepage": "https://manchestertonight.co.uk",
   "docs": "https://manchestertonight.co.uk",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "manchester-tonight": {

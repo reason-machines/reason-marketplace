@@ -4,6 +4,7 @@
   "description": "Search your Notit study notes.",
   "homepage": "https://notit.ai",
   "docs": "https://notit.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notit": {

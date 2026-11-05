@@ -4,6 +4,7 @@
   "description": "AI editing for listing photos.",
   "homepage": "https://imagen-ai.com/real-estate/",
   "docs": "https://api-docs.imagen-ai.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "imagen-for-real-estate": {

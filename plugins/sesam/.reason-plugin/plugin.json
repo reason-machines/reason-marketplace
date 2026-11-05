@@ -4,6 +4,7 @@
   "description": "Simulate and analyze traffic.",
   "homepage": "https://sesam.co4e.com/",
   "docs": "https://sesam.co4e.com/docs/mcp/setup/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sesam": {

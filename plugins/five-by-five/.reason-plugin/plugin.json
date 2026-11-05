@@ -4,6 +4,7 @@
   "description": "Log and review your workouts.",
   "homepage": "https://5x5.erikedin.com/plugin.html",
   "docs": "https://5x5.erikedin.com/plugin.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "five-by-five": {

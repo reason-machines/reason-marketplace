@@ -4,6 +4,7 @@
   "description": "B2B sales outreach.",
   "homepage": "https://supersend.io",
   "docs": "https://supersend.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "supersend": {

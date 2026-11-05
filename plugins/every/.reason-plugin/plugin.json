@@ -4,6 +4,7 @@
   "description": "Invoice, track deals, get paid.",
   "homepage": "https://every.ai",
   "docs": "https://every.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "every": {

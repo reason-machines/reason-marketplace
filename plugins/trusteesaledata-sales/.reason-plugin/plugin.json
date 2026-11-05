@@ -4,6 +4,7 @@
   "description": "Search US trustee sales.",
   "homepage": "https://www.trusteesaledata.com",
   "docs": "https://trusteesaledata.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trusteesaledata-sales": {

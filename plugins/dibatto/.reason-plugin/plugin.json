@@ -4,6 +4,7 @@
   "description": "Prepare your next episode.",
   "homepage": "https://dibatto.com",
   "docs": "https://dibatto.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dibatto": {

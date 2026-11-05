@@ -4,6 +4,7 @@
   "description": "Create short-form videos.",
   "homepage": "https://www.revid.ai",
   "docs": "https://revid.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "revid": {

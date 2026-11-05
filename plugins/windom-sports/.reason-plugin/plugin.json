@@ -4,6 +4,7 @@
   "description": "Your fantasy leagues, by chat.",
   "homepage": "https://windomsports.com",
   "docs": "https://windomsports.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "windom-sports": {

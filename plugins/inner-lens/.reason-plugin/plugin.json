@@ -4,6 +4,7 @@
   "description": "Bazi, Ziwei & Liuyao readings.",
   "homepage": "https://inner.lens.io.vn/en/",
   "docs": "https://inner.lens.io.vn/en/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "inner-lens": {

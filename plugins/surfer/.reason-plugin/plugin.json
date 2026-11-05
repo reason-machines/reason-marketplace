@@ -4,6 +4,7 @@
   "description": "AI visibility and content.",
   "homepage": "https://surferseo.com",
   "docs": "https://surferseo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "surfer": {

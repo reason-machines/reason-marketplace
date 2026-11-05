@@ -4,6 +4,7 @@
   "description": "Supply chain vendor selection.",
   "homepage": "https://preshiftiq.com",
   "docs": "https://preshiftiq.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "preshiftiq": {

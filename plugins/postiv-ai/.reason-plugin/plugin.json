@@ -4,6 +4,7 @@
   "description": "Create & manage social content.",
   "homepage": "https://postiv.ai",
   "docs": "https://postiv.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postiv-ai": {

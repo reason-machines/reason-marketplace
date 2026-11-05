@@ -4,6 +4,7 @@
   "description": "Bookkeeping your AI can run.",
   "homepage": "https://trysolarium.com",
   "docs": "https://trysolarium.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "solarium": {

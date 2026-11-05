@@ -4,6 +4,7 @@
   "description": "Organize your finances.",
   "homepage": "https://www.clofin.com.br",
   "docs": "https://tedix.dev/apps/clofin/",
+  "logo": "logo.webp",
   "auth": "api_key",
   "mcpServers": {
     "clofin": {

@@ -4,6 +4,7 @@
   "description": "Find businesses to buy.",
   "homepage": "https://www.venturu.com",
   "docs": "https://www.venturu.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "venturu": {

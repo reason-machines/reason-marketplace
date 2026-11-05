@@ -4,6 +4,7 @@
   "description": "Find Montréal collection days.",
   "homepage": "https://collectemtl.ca",
   "docs": "https://collectemtl.ca/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "collecte-mtl": {

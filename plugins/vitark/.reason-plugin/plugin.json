@@ -4,6 +4,7 @@
   "description": "Search Indian law with sources.",
   "homepage": "https://vitark.ai",
   "docs": "https://vitark.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vitark": {

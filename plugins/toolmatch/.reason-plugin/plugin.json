@@ -4,6 +4,7 @@
   "description": "Find Reason apps.",
   "homepage": "https://plugin.chat-prompt.com",
   "docs": "https://plugin.chat-prompt.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "toolmatch": {

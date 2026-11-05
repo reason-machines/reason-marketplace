@@ -4,6 +4,7 @@
   "description": "Discover music by sound.",
   "homepage": "https://musicatlas.ai",
   "docs": "https://musicatlas.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "musicatlas": {

@@ -4,6 +4,7 @@
   "description": "DNS checks & DMARC monitoring.",
   "homepage": "https://dnsdoctor.dev",
   "docs": "https://dnsdoctor.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dns-doctor-dns-and-dmarc-tools": {

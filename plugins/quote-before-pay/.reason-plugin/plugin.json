@@ -4,6 +4,7 @@
   "description": "Inspect the quote first.",
   "homepage": "https://scriptmasterlabs.com",
   "docs": "https://scriptmasterlabs.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "quote-before-pay": {

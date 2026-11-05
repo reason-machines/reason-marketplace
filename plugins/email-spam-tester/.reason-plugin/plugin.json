@@ -4,6 +4,7 @@
   "description": "Check email before you send.",
   "homepage": "https://email-spam-tester.com",
   "docs": "https://email-spam-tester.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "email-spam-tester": {

@@ -4,6 +4,7 @@
   "description": "Manage all your social content.",
   "homepage": "https://planable.io",
   "docs": "https://planable.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "planable": {

@@ -4,6 +4,7 @@
   "description": "Cloud cost intelligence.",
   "homepage": "https://www.mavvrik.ai",
   "docs": "https://www.mavvrik.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mavvrik": {

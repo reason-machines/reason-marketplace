@@ -4,6 +4,7 @@
   "description": "Your notes, in conversation.",
   "homepage": "https://wander.md",
   "docs": "https://wander.md",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wander": {

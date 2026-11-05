@@ -4,6 +4,7 @@
   "description": "Steps to Calories.",
   "homepage": "https://zelta.in",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=in.zelta/steps-calories",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "zelta-steps-calories": {

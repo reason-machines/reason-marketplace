@@ -4,6 +4,7 @@
   "description": "Launch and analyze UX research.",
   "homepage": "https://www.playbookux.com",
   "docs": "https://www.playbookux.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "playbookux": {

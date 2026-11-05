@@ -4,6 +4,7 @@
   "description": "Credit card rewards & points.",
   "homepage": "https://pointbagel.com",
   "docs": "https://pointbagel.com/ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pointbagel": {

@@ -4,6 +4,7 @@
   "description": "Consulta y pide domicilios.",
   "homepage": "https://poskia.com",
   "docs": "https://poskia.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "poskia": {

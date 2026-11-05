@@ -4,6 +4,7 @@
   "description": "Improve AI discovery.",
   "homepage": "https://mentioned-on.com",
   "docs": "https://mentioned-on.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mentionedon": {

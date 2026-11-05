@@ -4,6 +4,7 @@
   "description": "AI interior & exterior design.",
   "homepage": "https://luw.ai",
   "docs": "https://luw.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "luw-ai": {

@@ -4,6 +4,7 @@
   "description": "Ask about your studio's data.",
   "homepage": "https://ferb.co",
   "docs": "https://ferb.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ferb": {

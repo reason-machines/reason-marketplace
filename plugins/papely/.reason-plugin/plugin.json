@@ -4,6 +4,7 @@
   "description": "Generate PDFs from templates.",
   "homepage": "https://papely.app",
   "docs": "https://api.papely.app/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "papely": {

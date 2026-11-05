@@ -4,6 +4,7 @@
   "description": "Evaluate Buy for STR Viability.",
   "homepage": "https://keybid.eu",
   "docs": "https://keybid.eu",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "keybid-puls": {

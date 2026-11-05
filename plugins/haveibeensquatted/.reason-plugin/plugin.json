@@ -4,6 +4,7 @@
   "description": "Catch attacker infrastructure.",
   "homepage": "https://haveibeensquatted.com",
   "docs": "https://haveibeensquatted.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "haveibeensquatted": {

@@ -4,6 +4,7 @@
   "description": "Preview social posts.",
   "homepage": "https://smepost.io/",
   "docs": "https://smepost.io/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "social-post-previewer": {

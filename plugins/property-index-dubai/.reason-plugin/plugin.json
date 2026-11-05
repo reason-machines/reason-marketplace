@@ -4,6 +4,7 @@
   "description": "Dubai Real Estate Data.",
   "homepage": "https://www.propertyindex.ae",
   "docs": "https://www.propertyindex.ae/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "property-index-dubai": {

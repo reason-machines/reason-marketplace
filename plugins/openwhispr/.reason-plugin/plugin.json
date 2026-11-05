@@ -4,6 +4,7 @@
   "description": "Notes, meetings and dictation.",
   "homepage": "https://docs.openwhispr.com/help/ai-tools/connect-ai-tools",
   "docs": "https://docs.openwhispr.com/help/ai-tools/connect-ai-tools",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openwhispr": {

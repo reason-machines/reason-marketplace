@@ -4,6 +4,7 @@
   "description": "AI video create & edit.",
   "homepage": "https://layz.ai",
   "docs": "https://layz.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "layz": {

@@ -4,6 +4,7 @@
   "description": "Find apartments in Israel.",
   "homepage": "https://dorit.bot",
   "docs": "https://dorit.bot",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dorit": {

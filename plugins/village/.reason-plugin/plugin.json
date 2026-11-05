@@ -4,6 +4,7 @@
   "description": "Relationship intelligence.",
   "homepage": "https://village.ai/",
   "docs": "https://village.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "village": {

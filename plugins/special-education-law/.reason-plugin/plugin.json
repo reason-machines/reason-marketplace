@@ -4,6 +4,7 @@
   "description": "Search special ed case law.",
   "homepage": "https://specialedlaw.com",
   "docs": "https://specialedlaw.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "special-education-law": {

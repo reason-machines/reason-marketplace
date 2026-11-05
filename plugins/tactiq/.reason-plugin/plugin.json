@@ -4,6 +4,7 @@
   "description": "Find answers in your meetings.",
   "homepage": "https://tactiq.io",
   "docs": "https://tactiq.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tactiq": {

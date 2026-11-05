@@ -4,6 +4,7 @@
   "description": "Find your next party.",
   "homepage": "https://partynado.com/en-CH/chatgpt",
   "docs": "https://partynado.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "partynado": {

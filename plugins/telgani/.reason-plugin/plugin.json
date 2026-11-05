@@ -4,6 +4,7 @@
   "description": "Rent a Car.",
   "homepage": "https://www.telgani.com/en",
   "docs": "https://www.telgani.com/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "telgani": {

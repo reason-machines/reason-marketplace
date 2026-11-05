@@ -4,6 +4,7 @@
   "description": "Create images, video and audio.",
   "homepage": "https://www.pixara.ai",
   "docs": "https://www.pixara.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pixara": {

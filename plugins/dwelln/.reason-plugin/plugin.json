@@ -4,6 +4,7 @@
   "description": "Keep up with your home.",
   "homepage": "https://dwelln.app",
   "docs": "https://dwelln.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dwelln": {

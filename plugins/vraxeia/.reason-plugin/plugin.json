@@ -4,6 +4,7 @@
   "description": "Greek rental compliance.",
   "homepage": "https://www.vraxeia.gr/en",
   "docs": "https://www.vraxeia.gr/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vraxeia": {

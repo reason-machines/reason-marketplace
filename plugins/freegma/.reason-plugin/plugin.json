@@ -4,6 +4,7 @@
   "description": "Design screens from your chat.",
   "homepage": "https://freegma.app",
   "docs": "https://freegma.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "freegma": {

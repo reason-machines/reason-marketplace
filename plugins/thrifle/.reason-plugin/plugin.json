@@ -4,6 +4,7 @@
   "description": "Return policies, deals, prices.",
   "homepage": "https://thrifle.com/mcp",
   "docs": "https://thrifle.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "thrifle": {

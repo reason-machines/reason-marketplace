@@ -4,6 +4,7 @@
   "description": "Create images, video and audio.",
   "homepage": "https://getimg.ai/mcp",
   "docs": "https://getimg.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getimg": {

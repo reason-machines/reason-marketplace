@@ -4,6 +4,7 @@
   "description": "Freight rates & market data.",
   "homepage": "https://freightfa.com/ai",
   "docs": "https://freightfa.com/ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "freightfa": {

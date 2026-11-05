@@ -4,6 +4,7 @@
   "description": "Manage property photo shoots.",
   "homepage": "https://hig.media",
   "docs": "https://hig.media/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hig-media-bookings": {

@@ -4,6 +4,7 @@
   "description": "HVAC & field operations.",
   "homepage": "https://jobstackcrm.com",
   "docs": "https://jobstackcrm.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jobstack": {

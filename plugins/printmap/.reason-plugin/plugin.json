@@ -4,6 +4,7 @@
   "description": "Map posters of any place.",
   "homepage": "https://printm.app",
   "docs": "https://printm.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "printmap": {

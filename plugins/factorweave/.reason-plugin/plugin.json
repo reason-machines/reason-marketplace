@@ -4,6 +4,7 @@
   "description": "Quant-factor data for tickers.",
   "homepage": "https://factorweave.com",
   "docs": "https://factorweave.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "factorweave": {

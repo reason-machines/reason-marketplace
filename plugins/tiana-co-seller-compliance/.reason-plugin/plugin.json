@@ -4,6 +4,7 @@
   "description": "Free checks for US sellers.",
   "homepage": "https://www.tiana-co.com/for-ai",
   "docs": "https://www.tiana-co.com/for-ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tiana-co-seller-compliance": {

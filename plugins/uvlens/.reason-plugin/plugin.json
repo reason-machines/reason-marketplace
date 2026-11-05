@@ -4,6 +4,7 @@
   "description": "UV forecasts and burn times.",
   "homepage": "https://uvlens.com",
   "docs": "https://uvlens.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uvlens": {

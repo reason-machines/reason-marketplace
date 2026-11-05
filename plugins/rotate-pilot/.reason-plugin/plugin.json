@@ -4,6 +4,7 @@
   "description": "FAA drone & pilot test prep.",
   "homepage": "https://rotatepilot.com",
   "docs": "https://rotatepilot.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rotate-pilot": {

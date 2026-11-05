@@ -4,6 +4,7 @@
   "description": "Formulas, SQL & statement Beta.",
   "homepage": "https://www.formulagenius.co",
   "docs": "https://www.formulagenius.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "formula-genius": {

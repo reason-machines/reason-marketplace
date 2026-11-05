@@ -4,6 +4,7 @@
   "description": "Yurt dışı eSIM paket bul.",
   "homepage": "https://esim.tc",
   "docs": "https://esim.tc",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "esimtc": {

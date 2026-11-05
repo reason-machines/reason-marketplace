@@ -4,6 +4,7 @@
   "description": "Capture tasks and notes.",
   "homepage": "https://recordo.app",
   "docs": "https://recordo.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "recordo": {

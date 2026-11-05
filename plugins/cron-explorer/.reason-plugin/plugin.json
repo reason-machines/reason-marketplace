@@ -4,6 +4,7 @@
   "description": "Cron runs across timezones.",
   "homepage": "https://cron-explorer.zovo.one",
   "docs": "https://cron-explorer.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cron-explorer": {

@@ -4,6 +4,7 @@
   "description": "Your job matches and outreach.",
   "homepage": "https://www.jobfinder-ai.com",
   "docs": "https://www.jobfinder-ai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jobfinder": {

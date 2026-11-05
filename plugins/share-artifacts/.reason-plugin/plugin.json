@@ -4,6 +4,7 @@
   "description": "Publish reports and slides.",
   "homepage": "https://shareartifacts.dev",
   "docs": "https://shareartifacts.dev/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "share-artifacts": {

@@ -4,6 +4,7 @@
   "description": "Blog & run WordPress with AI.",
   "homepage": "https://www.getwpagent.com",
   "docs": "https://www.getwpagent.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wp-agent": {

@@ -4,6 +4,7 @@
   "description": "Ask your company data.",
   "homepage": "https://contextflo.com",
   "docs": "https://contextflo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "contextflo": {

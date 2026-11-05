@@ -4,6 +4,7 @@
   "description": "Manage web and social content.",
   "homepage": "https://garchi.co.uk",
   "docs": "https://garchi.co.uk",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "garchi-cms": {

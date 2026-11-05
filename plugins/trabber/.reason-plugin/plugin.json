@@ -4,6 +4,7 @@
   "description": "Find flights, hotels and cars.",
   "homepage": "https://www.trabber.com",
   "docs": "https://www.trabber.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trabber": {

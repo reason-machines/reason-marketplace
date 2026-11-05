@@ -4,6 +4,7 @@
   "description": "Identity alerts and audit logs.",
   "homepage": "https://passkeybridge.io",
   "docs": "https://passkeybridge.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "passkeybridge": {

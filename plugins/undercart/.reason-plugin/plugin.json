@@ -4,6 +4,7 @@
   "description": "Shopify store intelligence.",
   "homepage": "https://undercart.co",
   "docs": "https://undercart.co/shopify-mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "undercart": {

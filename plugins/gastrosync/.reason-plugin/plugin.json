@@ -4,6 +4,7 @@
   "description": "Manage your events.",
   "homepage": "https://gastrosync.com/",
   "docs": "https://gastrosync.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gastrosync": {

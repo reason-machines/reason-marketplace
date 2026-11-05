@@ -4,6 +4,7 @@
   "description": "Your 3D creation engine.",
   "homepage": "https://thrixel.com",
   "docs": "https://thrixel.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "thrixel": {

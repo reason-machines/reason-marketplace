@@ -4,6 +4,7 @@
   "description": "Track AI Visibility, AEO & GEO.",
   "homepage": "https://www.finseo.ai",
   "docs": "https://www.finseo.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "finseo": {

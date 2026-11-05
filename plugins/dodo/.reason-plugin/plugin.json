@@ -4,6 +4,7 @@
   "description": "Todos that keep a record.",
   "homepage": "https://dodo.day/",
   "docs": "https://dodo.day/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dodo": {

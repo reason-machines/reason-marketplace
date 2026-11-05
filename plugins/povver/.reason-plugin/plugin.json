@@ -4,6 +4,7 @@
   "description": "Strength training with AI.",
   "homepage": "https://povver.ai",
   "docs": "https://povver.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "povver": {

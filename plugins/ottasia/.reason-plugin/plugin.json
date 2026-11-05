@@ -4,6 +4,7 @@
   "description": "Find where to stream.",
   "homepage": "https://ottasia.com",
   "docs": "https://ottasia.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ottasia": {

@@ -4,6 +4,7 @@
   "description": "Social media on autopilot.",
   "homepage": "https://smartypant.xyz",
   "docs": "https://smartypant.xyz",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smartypant-social-autopilot": {

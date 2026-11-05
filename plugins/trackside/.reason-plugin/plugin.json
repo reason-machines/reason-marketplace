@@ -4,6 +4,7 @@
   "description": "Analyze track sessions.",
   "homepage": "https://www.californiamotorsports.co/trackside",
   "docs": "https://californiamotorsports.co/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trackside": {

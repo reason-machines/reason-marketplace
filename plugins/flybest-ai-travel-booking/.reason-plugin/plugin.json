@@ -4,6 +4,7 @@
   "description": "Search and book hotels.",
   "homepage": "https://flybest.org",
   "docs": "https://flybest.org/ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flybest-ai-travel-booking": {

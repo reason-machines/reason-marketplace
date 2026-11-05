@@ -4,6 +4,7 @@
   "description": "EDA reports for your datasets.",
   "homepage": "https://www.datacleanist.com",
   "docs": "https://www.datacleanist.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "datacleanist": {

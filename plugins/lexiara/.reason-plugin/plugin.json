@@ -4,6 +4,7 @@
   "description": "Research cited legislation.",
   "homepage": "https://lexiara.org",
   "docs": "https://lexiara.org",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lexiara": {

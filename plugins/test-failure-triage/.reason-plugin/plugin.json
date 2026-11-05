@@ -4,6 +4,7 @@
   "description": "Triage test failures.",
   "homepage": "https://test-failure-triage.sidcraigau.workers.dev",
   "docs": "https://test-failure-triage.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "test-failure-triage": {

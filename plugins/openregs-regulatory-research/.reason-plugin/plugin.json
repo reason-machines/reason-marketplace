@@ -4,6 +4,7 @@
   "description": "Up-to-date laws, not the web.",
   "homepage": "https://openlaws.us",
   "docs": "https://openlaws.us",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openregs-regulatory-research": {

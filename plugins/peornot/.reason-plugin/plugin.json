@@ -4,6 +4,7 @@
   "description": "Who owns your dentist or vet.",
   "homepage": "https://peornot.org",
   "docs": "https://peornot.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "peornot": {

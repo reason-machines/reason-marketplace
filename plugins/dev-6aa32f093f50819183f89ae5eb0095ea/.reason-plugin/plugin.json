@@ -4,6 +4,7 @@
   "description": "Preview, quote and 3D print.",
   "homepage": "https://www.hardwareapi.dev",
   "docs": "https://www.hardwareapi.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dev-6aa32f093f50819183f89ae5eb0095ea": {

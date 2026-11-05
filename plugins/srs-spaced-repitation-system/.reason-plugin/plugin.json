@@ -4,6 +4,7 @@
   "description": "Learn • Review • Master.",
   "homepage": "https://srs.viewlyt.com",
   "docs": "https://srs.viewlyt.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "srs-spaced-repitation-system": {

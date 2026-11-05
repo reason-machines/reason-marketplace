@@ -4,6 +4,7 @@
   "description": "Appointments and workspaces.",
   "homepage": "https://www.schemon.com",
   "docs": "https://api.schemon.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "schemon": {

@@ -4,6 +4,7 @@
   "description": "Access Vocci AI Ring.",
   "homepage": "https://vocci.ai",
   "docs": "https://vocci.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vocci": {

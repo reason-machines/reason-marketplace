@@ -4,6 +4,7 @@
   "description": "Scores, stats, and standings.",
   "homepage": "https://www.statshawk.ai",
   "docs": "https://www.statshawk.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "statshawk": {

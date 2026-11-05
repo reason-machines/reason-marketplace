@@ -4,6 +4,7 @@
   "description": "Manage UGC creator campaigns.",
   "homepage": "https://influee.co",
   "docs": "https://influee.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "influee": {

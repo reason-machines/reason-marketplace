@@ -4,6 +4,7 @@
   "description": "Auto insurance rate.",
   "homepage": "https://www.freeway.com/",
   "docs": "https://tedix.dev/apps/freeway-insurance/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "freeway-insurance": {

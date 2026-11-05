@@ -4,6 +4,7 @@
   "description": "WCAG contrast & palettes.",
   "homepage": "https://contrast-checker.zovo.one",
   "docs": "https://contrast-checker.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "contrast-checker": {

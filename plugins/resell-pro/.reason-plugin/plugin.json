@@ -4,6 +4,7 @@
   "description": "Explore Vinted market data.",
   "homepage": "https://resellpro.com",
   "docs": "https://resellpro.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "resell-pro": {

@@ -4,6 +4,7 @@
   "description": "Job notes to Jobber quotes.",
   "homepage": "https://fielddraftapp.com",
   "docs": "https://fielddraftapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fielddraft": {

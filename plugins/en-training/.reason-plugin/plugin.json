@@ -4,6 +4,7 @@
   "description": "Practise English grammar.",
   "homepage": "https://en.ruslan.pro/",
   "docs": "https://en.ruslan.pro/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "en-training": {

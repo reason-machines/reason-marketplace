@@ -4,6 +4,7 @@
   "description": "Marcas e o que falta em casa.",
   "homepage": "https://mcp-despensa-hub.onrender.com",
   "docs": "https://mcp-despensa-hub.onrender.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dispensa-lista-de-compras": {

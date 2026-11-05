@@ -4,6 +4,7 @@
   "description": "Keep interests, places & plans.",
   "homepage": "https://www.discriminantly.com",
   "docs": "https://www.discriminantly.com/ai/claude",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "discriminantly": {

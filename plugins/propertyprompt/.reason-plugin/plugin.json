@@ -4,6 +4,7 @@
   "description": "Floor plans to furnished 3D.",
   "homepage": "https://propertyprom.pt",
   "docs": "https://propertyprom.pt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "propertyprompt": {

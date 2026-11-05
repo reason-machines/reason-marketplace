@@ -4,6 +4,7 @@
   "description": "Track client AI citations.",
   "homepage": "https://www.goupword.com",
   "docs": "https://www.goupword.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "upword": {

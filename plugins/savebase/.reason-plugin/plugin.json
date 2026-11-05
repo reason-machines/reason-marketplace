@@ -4,6 +4,7 @@
   "description": "Search your saved content.",
   "homepage": "https://savebase.space/",
   "docs": "https://savebase.space/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "savebase": {

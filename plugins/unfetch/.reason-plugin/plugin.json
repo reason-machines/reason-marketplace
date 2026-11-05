@@ -4,6 +4,7 @@
   "description": "PPC & Marketing Reporting.",
   "homepage": "https://unfetch.com",
   "docs": "https://unfetch.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unfetch": {

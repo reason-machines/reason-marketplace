@@ -4,6 +4,7 @@
   "description": "Wallet for your agent.",
   "homepage": "https://paysponge.com",
   "docs": "https://tedix.dev/apps/sponge/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sponge": {

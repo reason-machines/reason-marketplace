@@ -4,6 +4,7 @@
   "description": "Validate & score startup ideas.",
   "homepage": "https://preuve.ai",
   "docs": "https://preuve.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "preuve-ai-startup-validation": {

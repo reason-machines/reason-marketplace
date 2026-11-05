@@ -4,6 +4,7 @@
   "description": "Muhurat.",
   "homepage": "https://naksha.social",
   "docs": "https://naksha.social",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "naksha-muhurat": {

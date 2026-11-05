@@ -4,6 +4,7 @@
   "description": "Try clothes on your own photo.",
   "homepage": "https://firemoon.studio/outfit-preview",
   "docs": "https://firemoon.studio/outfit-preview",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "outfit-preview": {

@@ -4,6 +4,7 @@
   "description": "Tattoo prices, artists, guides.",
   "homepage": "https://tattooswizard.com/",
   "docs": "https://tattooswizard.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tattoos-wizard": {

@@ -4,6 +4,7 @@
   "description": "Legal documents in Word & PDF.",
   "homepage": "https://www.versionstory.com",
   "docs": "https://versionstory.com/product/claude",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "version-story-redline-compare": {

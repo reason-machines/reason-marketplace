@@ -4,6 +4,7 @@
   "description": "Manage your store locator.",
   "homepage": "https://locator.handledlocal.com",
   "docs": "https://locator.handledlocal.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "handled-locator": {

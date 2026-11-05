@@ -4,6 +4,7 @@
   "description": "Company filings & financials.",
   "homepage": "https://financialfilings.com/",
   "docs": "https://financialfilings.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "financialfilings": {

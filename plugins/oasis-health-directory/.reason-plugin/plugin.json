@@ -4,6 +4,7 @@
   "description": "Packaged food health scores.",
   "homepage": "https://www.oasishealth.app",
   "docs": "https://www.oasishealth.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "oasis-health-directory": {

@@ -4,6 +4,7 @@
   "description": "Bioinformatics tools pipelines.",
   "homepage": "https://smarts.bio",
   "docs": "https://smarts.bio",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smarts-bio-ai-for-biology": {

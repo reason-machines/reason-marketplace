@@ -4,6 +4,7 @@
   "description": "Review mail, fax and cards.",
   "homepage": "https://postedly.com",
   "docs": "https://postedly.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postedly-correspondence": {

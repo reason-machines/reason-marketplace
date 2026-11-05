@@ -4,6 +4,7 @@
   "description": "Interview customers at scale.",
   "homepage": "https://listenlabs.com/",
   "docs": "https://listenlabs.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "listen-labs-listen-labs": {

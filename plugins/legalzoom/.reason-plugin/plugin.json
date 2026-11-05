@@ -4,6 +4,7 @@
   "description": "Get legal info for business.",
   "homepage": "https://www.legalzoom.com",
   "docs": "https://www.legalzoom.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "legalzoom": {

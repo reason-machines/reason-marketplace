@@ -4,6 +4,7 @@
   "description": "Turn scripts into voiceovers.",
   "homepage": "https://www.lazybird.app",
   "docs": "https://www.lazybird.app/chatgpt-claude-connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lazybird": {

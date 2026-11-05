@@ -4,6 +4,7 @@
   "description": "B2B contact coverage checker.",
   "homepage": "https://free100leads.com",
   "docs": "https://free100leads.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "free100leads": {

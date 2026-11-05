@@ -4,6 +4,7 @@
   "description": "Compare job offers & benefits.",
   "homepage": "https://plugins.tobie.team/total-rewards",
   "docs": "https://plugins.tobie.team/total-rewards",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tobie-total-rewards": {

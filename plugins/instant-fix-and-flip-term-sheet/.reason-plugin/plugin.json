@@ -4,6 +4,7 @@
   "description": "Fix-and-flip loan term sheets.",
   "homepage": "https://dominickprevete.com/fix-and-flip-loans",
   "docs": "https://dominickprevete.com/fix-and-flip-loans",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "instant-fix-and-flip-term-sheet": {

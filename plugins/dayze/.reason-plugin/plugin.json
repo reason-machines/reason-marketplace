@@ -4,6 +4,7 @@
   "description": "Give AI your life context.",
   "homepage": "https://dayze.com",
   "docs": "https://dayze.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dayze": {

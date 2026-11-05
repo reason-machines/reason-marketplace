@@ -4,6 +4,7 @@
   "description": "Save and refine travel plans.",
   "homepage": "https://verne.me",
   "docs": "https://verne.me/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "verne": {

@@ -4,6 +4,7 @@
   "description": "Données officielles France.",
   "homepage": "https://nyambot.ai",
   "docs": "https://nyambot.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nyambot": {

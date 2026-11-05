@@ -4,6 +4,7 @@
   "description": "Tours and self-guided trips.",
   "homepage": "https://koalastrip.com",
   "docs": "https://koalastrip.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "koalastrip-excursions-and-trips": {

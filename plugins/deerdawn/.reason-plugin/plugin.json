@@ -4,6 +4,7 @@
   "description": "AI project session memory.",
   "homepage": "https://deerdawn.com",
   "docs": "https://deerdawn.com/docs/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "deerdawn": {

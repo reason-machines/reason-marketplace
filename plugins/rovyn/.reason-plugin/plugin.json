@@ -4,6 +4,7 @@
   "description": "Podcasts assistant curates.",
   "homepage": "https://rovyn.app",
   "docs": "https://rovyn.app/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rovyn": {

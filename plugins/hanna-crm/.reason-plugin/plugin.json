@@ -4,6 +4,7 @@
   "description": "Manage CRM records.",
   "homepage": "https://hannacrm.lt/en/",
   "docs": "https://support.hannacrm.eu/article/2500-mcp-connection-and-access-management",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hanna-crm": {

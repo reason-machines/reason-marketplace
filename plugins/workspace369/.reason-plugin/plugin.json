@@ -4,6 +4,7 @@
   "description": "Manage clients, jobs, invoices.",
   "homepage": "https://workspace369.com",
   "docs": "https://workspace369.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "workspace369": {

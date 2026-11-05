@@ -4,6 +4,7 @@
   "description": "Find attractions in Romania.",
   "homepage": "https://vacantaromania.ro",
   "docs": "https://vacantaromania.ro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vacanta-romania": {

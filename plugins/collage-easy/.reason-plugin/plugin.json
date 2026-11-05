@@ -4,6 +4,7 @@
   "description": "Create photo collages.",
   "homepage": "https://collageeasy.app/chatgpt/",
   "docs": "https://collageeasy.app/chatgpt/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "collage-easy": {

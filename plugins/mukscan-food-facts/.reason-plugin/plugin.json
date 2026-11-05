@@ -4,6 +4,7 @@
   "description": "Korean packaged food nutrition.",
   "homepage": "https://mukscan.com",
   "docs": "https://mukscan.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mukscan-food-facts": {

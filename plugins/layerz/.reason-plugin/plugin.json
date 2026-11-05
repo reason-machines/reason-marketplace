@@ -4,6 +4,7 @@
   "description": "Financial models that persist.",
   "homepage": "https://layerz.cc",
   "docs": "https://layerz.cc",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "layerz": {

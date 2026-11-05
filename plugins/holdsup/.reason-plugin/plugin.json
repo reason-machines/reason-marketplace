@@ -4,6 +4,7 @@
   "description": "Podcast claims vs the research.",
   "homepage": "https://holdsup.app",
   "docs": "https://holdsup.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "holdsup": {

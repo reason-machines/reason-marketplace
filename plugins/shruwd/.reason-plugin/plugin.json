@@ -4,6 +4,7 @@
   "description": "Track your brand in AI search.",
   "homepage": "https://shruwd.io/",
   "docs": "https://shruwd.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shruwd": {

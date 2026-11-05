@@ -4,6 +4,7 @@
   "description": "Find travel eSIM data plans.",
   "homepage": "https://simplysim.co.uk",
   "docs": "https://simplysim.co.uk",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "simplysim-esim-finder": {

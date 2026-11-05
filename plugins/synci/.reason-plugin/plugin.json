@@ -4,6 +4,7 @@
   "description": "Ask about your banking data.",
   "homepage": "https://synci.io",
   "docs": "https://synci.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "synci": {

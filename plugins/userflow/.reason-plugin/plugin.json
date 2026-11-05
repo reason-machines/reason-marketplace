@@ -4,6 +4,7 @@
   "description": "Ask about product adoption.",
   "homepage": "https://www.userflow.com/",
   "docs": "https://api.userflow.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "userflow": {

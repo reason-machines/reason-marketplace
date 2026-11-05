@@ -4,6 +4,7 @@
   "description": "Your lecture knowledge vault.",
   "homepage": "https://www.inflearn.com",
   "docs": "https://www.inflearn.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "inflearn": {

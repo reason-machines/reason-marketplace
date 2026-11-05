@@ -4,6 +4,7 @@
   "description": "Live crypto prices on Paribu.",
   "homepage": "https://www.paribu.com",
   "docs": "https://tedix.dev/apps/paribu/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "paribu": {

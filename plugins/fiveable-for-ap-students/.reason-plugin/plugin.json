@@ -4,6 +4,7 @@
   "description": "Study for every AP class.",
   "homepage": "https://fiveable.me/llms.txt",
   "docs": "https://fiveable.me/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fiveable-for-ap-students": {

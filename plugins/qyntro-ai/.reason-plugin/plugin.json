@@ -4,6 +4,7 @@
   "description": "Create images, video and music.",
   "homepage": "https://qyntroai.com",
   "docs": "https://qyntroai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qyntro-ai": {

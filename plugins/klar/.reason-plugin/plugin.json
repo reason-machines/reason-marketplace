@@ -4,6 +4,7 @@
   "description": "Ecommerce profit and ad data.",
   "homepage": "https://www.getklar.com",
   "docs": "https://www.getklar.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "klar": {

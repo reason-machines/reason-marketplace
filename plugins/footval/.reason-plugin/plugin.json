@@ -4,6 +4,7 @@
   "description": "Predictions, values & scores.",
   "homepage": "https://footval.com/llms.txt",
   "docs": "https://footval.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "footval": {

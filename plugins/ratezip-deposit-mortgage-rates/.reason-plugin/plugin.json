@@ -4,6 +4,7 @@
   "description": "Current US APYs & loan rates.",
   "homepage": "https://www.ratezip.com/",
   "docs": "https://www.ratezip.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ratezip-deposit-mortgage-rates": {

@@ -4,6 +4,7 @@
   "description": "Get instant financial details.",
   "homepage": "https://tedix.dev/apps/financial-summarizer-pro/",
   "docs": "https://tedix.dev/apps/financial-summarizer-pro/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "financial-summarizer-pro": {

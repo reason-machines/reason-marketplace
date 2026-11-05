@@ -4,6 +4,7 @@
   "description": "Manage your short term rental.",
   "homepage": "https://www.nowistay.com/",
   "docs": "https://www.nowistay.com/de/dynamische-preise-chatgpt-claude-ki-preisaudit",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nowistay": {

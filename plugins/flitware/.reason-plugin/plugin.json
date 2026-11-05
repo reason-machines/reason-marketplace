@@ -4,6 +4,7 @@
   "description": "Fleet, transport & maintenance.",
   "homepage": "https://flitware.com?review-kyarSZhd5YEgujz8L24yv",
   "docs": "https://api.flitware.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flitware": {

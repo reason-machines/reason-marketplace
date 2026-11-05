@@ -4,6 +4,7 @@
   "description": "Make forms, pipe answers back.",
   "homepage": "https://superforms.co",
   "docs": "https://superforms.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superforms": {

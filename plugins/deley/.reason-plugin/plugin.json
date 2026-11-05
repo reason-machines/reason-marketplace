@@ -4,6 +4,7 @@
   "description": "Leyes y juicios de Ecuador.",
   "homepage": "https://deley.io",
   "docs": "https://deley.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "deley": {

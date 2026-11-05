@@ -4,6 +4,7 @@
   "description": "Manage servers through SSH.",
   "homepage": "https://trygateway.sh",
   "docs": "https://trygateway.sh",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gateway-ssh": {

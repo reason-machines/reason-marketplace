@@ -4,6 +4,7 @@
   "description": "Model retirement scenarios.",
   "homepage": "https://www.savvly.com",
   "docs": "https://www.savvly.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "savvly": {

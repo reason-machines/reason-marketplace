@@ -4,6 +4,7 @@
   "description": "Log homeschool hours by chat.",
   "homepage": "https://homeschoolfox.com",
   "docs": "https://homeschoolfox.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "homeschool-fox": {

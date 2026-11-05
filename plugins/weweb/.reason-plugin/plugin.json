@@ -4,6 +4,7 @@
   "description": "Build full-stack apps & sites.",
   "homepage": "https://docs.weweb.io/weweb-mcp/chatgpt-plugin.html",
   "docs": "https://docs.weweb.io/weweb-mcp/intro-to-weweb-mcp.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "weweb": {

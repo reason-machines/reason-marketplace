@@ -4,6 +4,7 @@
   "description": "Program și recenzii de teatru.",
   "homepage": "https://stagereview.ro",
   "docs": "https://stagereview.ro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stagereview": {

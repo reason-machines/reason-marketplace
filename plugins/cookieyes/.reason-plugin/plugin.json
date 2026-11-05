@@ -4,6 +4,7 @@
   "description": "Web privacy & cookie consent.",
   "homepage": "https://www.cookieyes.com/",
   "docs": "https://www.cookieyes.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cookieyes": {

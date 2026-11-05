@@ -4,6 +4,7 @@
   "description": "Upload and send files.",
   "homepage": "https://firestorage.ai/",
   "docs": "https://firestorage.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "firestorage-ai": {

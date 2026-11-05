@@ -4,6 +4,7 @@
   "description": "Analyze US stocks and ETFs.",
   "homepage": "https://marketcrew.ai",
   "docs": "https://marketcrew.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "marketcrew": {

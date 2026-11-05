@@ -4,6 +4,7 @@
   "description": "AI marketing campaign studio.",
   "homepage": "https://vybeos.co",
   "docs": "https://vybeos.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vybeos": {

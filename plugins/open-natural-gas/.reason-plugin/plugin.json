@@ -4,6 +4,7 @@
   "description": "Compare Georgia gas costs.",
   "homepage": "https://opennaturalgas.org/",
   "docs": "https://opennaturalgas.org/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "open-natural-gas": {

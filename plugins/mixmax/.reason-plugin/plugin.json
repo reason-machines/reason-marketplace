@@ -4,6 +4,7 @@
   "description": "Sales engagement platform.",
   "homepage": "https://www.mixmax.com",
   "docs": "https://www.mixmax.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mixmax": {

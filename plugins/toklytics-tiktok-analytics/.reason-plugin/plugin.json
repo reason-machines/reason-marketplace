@@ -4,6 +4,7 @@
   "description": "Live TikTok analytics.",
   "homepage": "https://toklytics.app",
   "docs": "https://toklytics.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "toklytics-tiktok-analytics": {

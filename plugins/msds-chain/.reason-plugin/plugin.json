@@ -4,6 +4,7 @@
   "description": "Chemical safety for lab work.",
   "homepage": "https://msdschain.lagentbot.com",
   "docs": "https://msdschain.lagentbot.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "msds-chain": {

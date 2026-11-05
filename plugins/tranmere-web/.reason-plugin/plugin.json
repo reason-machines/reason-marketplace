@@ -4,6 +4,7 @@
   "description": "Explore Rovers history.",
   "homepage": "https://www.tranmere-web.com",
   "docs": "https://www.tranmere-web.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tranmere-web": {

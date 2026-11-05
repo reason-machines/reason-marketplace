@@ -4,6 +4,7 @@
   "description": "Live web access for AI agents.",
   "homepage": "https://s1.dev",
   "docs": "https://s1.dev/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "search1api": {

@@ -4,6 +4,7 @@
   "description": "Property ops & accounting.",
   "homepage": "https://proprietio.com",
   "docs": "https://proprietio.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "proprietio": {

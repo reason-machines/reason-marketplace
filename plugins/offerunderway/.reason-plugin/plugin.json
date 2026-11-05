@@ -4,6 +4,7 @@
   "description": "Manage your job search.",
   "homepage": "https://offerunderway.com/integrations/ai",
   "docs": "https://api.offerunderway.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "offerunderway": {

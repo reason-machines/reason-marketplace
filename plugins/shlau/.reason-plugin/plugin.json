@@ -4,6 +4,7 @@
   "description": "Work with your Shlau data.",
   "homepage": "https://shlau.com",
   "docs": "https://shlau.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shlau": {

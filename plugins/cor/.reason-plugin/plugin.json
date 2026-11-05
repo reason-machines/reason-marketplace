@@ -4,6 +4,7 @@
   "description": "Manage COR work.",
   "homepage": "https://projectcor.com",
   "docs": "https://projectcor.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cor": {

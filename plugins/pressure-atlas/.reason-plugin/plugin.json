@@ -4,6 +4,7 @@
   "description": "Macro pressure context for AI.",
   "homepage": "https://pressureatlas.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.pressureatlas",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pressure-atlas": {

@@ -4,6 +4,7 @@
   "description": "Connect your brand insights.",
   "homepage": "https://www.dashsocial.com/",
   "docs": "https://www.dashsocial.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dash-social": {

@@ -4,6 +4,7 @@
   "description": "Find Salesforce partners.",
   "homepage": "https://crm.consulting",
   "docs": "https://crm.consulting/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "crm-consulting": {

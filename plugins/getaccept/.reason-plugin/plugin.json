@@ -4,6 +4,7 @@
   "description": "Manage deals and meetings.",
   "homepage": "https://www.getaccept.com",
   "docs": "https://www.getaccept.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getaccept": {

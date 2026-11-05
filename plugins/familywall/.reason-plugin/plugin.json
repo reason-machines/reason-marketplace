@@ -4,6 +4,7 @@
   "description": "Family life, made simple.",
   "homepage": "https://www.familywall.com/",
   "docs": "https://www.familywall.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "familywall": {

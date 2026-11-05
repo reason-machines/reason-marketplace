@@ -4,6 +4,7 @@
   "description": "Manage notes and flashcards.",
   "homepage": "https://www.readfrog.app",
   "docs": "https://readfrog.app/llms-full.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "read-frog": {

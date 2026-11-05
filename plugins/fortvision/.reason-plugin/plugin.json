@@ -4,6 +4,7 @@
   "description": "Manage campaigns and leads.",
   "homepage": "https://fortvision.com",
   "docs": "https://app.fortvision.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fortvision": {

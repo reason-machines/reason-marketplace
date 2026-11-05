@@ -4,6 +4,7 @@
   "description": "Check Voidpay MCP requirements.",
   "homepage": "https://atlas-mcp.voidly.ai/connector/voidpay/docs/",
   "docs": "https://atlas-mcp.voidly.ai/connector/voidpay/docs/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "voidpay-connector-compatibility": {

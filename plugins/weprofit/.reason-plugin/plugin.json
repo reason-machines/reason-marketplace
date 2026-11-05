@@ -4,6 +4,7 @@
   "description": "Store profit and ad analytics.",
   "homepage": "https://www.weprofit.com",
   "docs": "https://www.weprofit.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "weprofit": {

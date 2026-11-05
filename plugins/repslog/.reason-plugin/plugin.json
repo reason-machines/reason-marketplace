@@ -4,6 +4,7 @@
   "description": "Log real estate work hours.",
   "homepage": "https://www.reps-log.com",
   "docs": "https://www.reps-log.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "repslog": {

@@ -4,6 +4,7 @@
   "description": "Shop local and independent.",
   "homepage": "https://shopteg.com",
   "docs": "https://shopteg.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "shoptegrity": {

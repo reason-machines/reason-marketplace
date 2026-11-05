@@ -4,6 +4,7 @@
   "description": "AI real estate deal analyzer.",
   "homepage": "https://reizer.io",
   "docs": "https://reizer.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "reizer": {

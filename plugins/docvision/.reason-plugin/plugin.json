@@ -4,6 +4,7 @@
   "description": "Read, compare & audit PDFs.",
   "homepage": "https://connecteur-docvision.vercel.app",
   "docs": "https://connecteur-docvision.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "docvision": {

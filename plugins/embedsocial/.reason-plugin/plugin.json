@@ -4,6 +4,7 @@
   "description": "Your UGC and widget analytics.",
   "homepage": "https://embedsocial.com/docs/api-access/chatgpt-mcp-connector/",
   "docs": "https://embedsocial.com/docs/api-access/chatgpt-mcp-connector/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "embedsocial": {

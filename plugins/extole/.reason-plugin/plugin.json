@@ -4,6 +4,7 @@
   "description": "Extole program insights.",
   "homepage": "https://www.extole.com",
   "docs": "https://www.extole.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "extole": {

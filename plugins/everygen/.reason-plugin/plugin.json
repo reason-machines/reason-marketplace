@@ -4,6 +4,7 @@
   "description": "Create videos with AI.",
   "homepage": "https://everygen.ai/",
   "docs": "https://everygen.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "everygen": {

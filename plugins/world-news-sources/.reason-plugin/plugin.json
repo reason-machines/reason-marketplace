@@ -4,6 +4,7 @@
   "description": "Find RSS feeds and sitemaps.",
   "homepage": "https://news.bymyleslee.com",
   "docs": "https://news.bymyleslee.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "world-news-sources": {

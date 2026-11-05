@@ -4,6 +4,7 @@
   "description": "Find villas and farmstays.",
   "homepage": "https://book.hostizzy.com/",
   "docs": "https://book.hostizzy.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hostizzy-villas-and-farmstays": {

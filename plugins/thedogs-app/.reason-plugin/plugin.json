@@ -4,6 +4,7 @@
   "description": "Dog breed fit & real vet costs.",
   "homepage": "https://thedogs.app",
   "docs": "https://thedogs.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "thedogs-app": {

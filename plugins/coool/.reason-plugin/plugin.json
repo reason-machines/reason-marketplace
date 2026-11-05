@@ -4,6 +4,7 @@
   "description": "Real-Time Public Transport.",
   "homepage": "https://www.getcoool.app",
   "docs": "https://www.getcoool.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "coool": {

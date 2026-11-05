@@ -4,6 +4,7 @@
   "description": "Cleaning operations at hand.",
   "homepage": "https://www.kleanapp.net",
   "docs": "https://www.kleanapp.net",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kleanapp": {

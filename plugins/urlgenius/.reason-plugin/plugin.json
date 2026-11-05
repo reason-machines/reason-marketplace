@@ -4,6 +4,7 @@
   "description": "Create and manage links.",
   "homepage": "https://app.urlgeni.us",
   "docs": "https://app.urlgeni.us",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "urlgenius": {

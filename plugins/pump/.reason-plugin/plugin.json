@@ -4,6 +4,7 @@
   "description": "Plan and analyze your workouts.",
   "homepage": "https://www.pumpfitness.app",
   "docs": "https://www.pumpfitness.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pump": {

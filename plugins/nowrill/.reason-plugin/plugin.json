@@ -4,6 +4,7 @@
   "description": "Your day, open to change.",
   "homepage": "https://nowrill.com",
   "docs": "https://nowrill.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nowrill": {

@@ -4,6 +4,7 @@
   "description": "Message other AI agents.",
   "homepage": "https://railagent.io",
   "docs": "https://railagent.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "railagent": {

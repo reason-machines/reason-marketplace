@@ -4,6 +4,7 @@
   "description": "WhatsApp tools and statistics.",
   "homepage": "https://leconfidant.ai",
   "docs": "https://leconfidant.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "le-confidant": {

@@ -4,6 +4,7 @@
   "description": "Check content for AI evidence.",
   "homepage": "https://isgenai.com",
   "docs": "https://isgenai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "isgenai": {

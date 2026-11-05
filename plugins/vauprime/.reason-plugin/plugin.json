@@ -4,6 +4,7 @@
   "description": "Manage accountings and stock.",
   "homepage": "https://vauprime.com",
   "docs": "https://vauprime.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vauprime": {

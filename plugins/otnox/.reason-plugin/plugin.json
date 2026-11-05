@@ -4,6 +4,7 @@
   "description": "Search public tenders.",
   "homepage": "https://otnox.com",
   "docs": "https://otnox.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "otnox": {

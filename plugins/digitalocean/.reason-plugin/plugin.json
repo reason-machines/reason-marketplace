@@ -4,6 +4,7 @@
   "description": "Provision a DigitalOcean VM.",
   "homepage": "https://www.digitalocean.com/",
   "docs": "https://www.digitalocean.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "digitalocean": {

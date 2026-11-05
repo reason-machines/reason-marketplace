@@ -4,6 +4,7 @@
   "description": "Seguros de vida y salud.",
   "homepage": "https://www.puntoseguro.com/",
   "docs": "https://www.puntoseguro.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "puntoseguro": {

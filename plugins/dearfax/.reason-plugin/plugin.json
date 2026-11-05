@@ -4,6 +4,7 @@
   "description": "Fax tools for your assistant.",
   "homepage": "https://dearfax.com/llms.txt",
   "docs": "https://dearfax.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dearfax": {

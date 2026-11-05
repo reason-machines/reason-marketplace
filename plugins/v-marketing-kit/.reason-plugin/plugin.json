@@ -4,6 +4,7 @@
   "description": "Your ad and app metrics.",
   "homepage": "https://marketing-kit.app",
   "docs": "https://marketing-kit.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "v-marketing-kit": {

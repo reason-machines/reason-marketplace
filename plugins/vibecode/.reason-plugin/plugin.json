@@ -4,6 +4,7 @@
   "description": "App builder for iPhone and web.",
   "homepage": "https://www.vibecodeapp.com",
   "docs": "https://www.vibecodeapp.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vibecode": {

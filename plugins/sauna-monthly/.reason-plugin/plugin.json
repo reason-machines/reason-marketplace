@@ -4,6 +4,7 @@
   "description": "Sauna reviews and calculators.",
   "homepage": "https://saunamonthly.com/",
   "docs": "https://saunamonthly.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sauna-monthly": {

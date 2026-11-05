@@ -4,6 +4,7 @@
   "description": "Investigate support activity and manage Zendesk work.",
   "homepage": "https://www.zendesk.com/",
   "docs": "https://www.zendesk.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zendesk": {

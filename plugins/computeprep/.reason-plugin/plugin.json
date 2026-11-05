@@ -4,6 +4,7 @@
   "description": "Verified bank quant, one daily.",
   "homepage": "https://computeprep.com",
   "docs": "https://computeprep.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "computeprep": {

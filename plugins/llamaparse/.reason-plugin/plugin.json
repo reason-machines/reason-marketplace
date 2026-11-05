@@ -4,6 +4,7 @@
   "description": "Document processing for agents.",
   "homepage": "https://llamaindex.ai",
   "docs": "https://llamaindex.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "llamaparse": {

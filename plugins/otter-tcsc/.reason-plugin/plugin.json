@@ -4,6 +4,7 @@
   "description": "Run and analyze A/B tests.",
   "homepage": "https://www.otterab.com",
   "docs": "https://www.otterab.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "otter-tcsc": {

@@ -4,6 +4,7 @@
   "description": "Peptide reviews & prices.",
   "homepage": "https://peptidecritic.com",
   "docs": "https://peptidecritic.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "peptide-critic": {

@@ -4,6 +4,7 @@
   "description": "Track spending and budgets.",
   "homepage": "https://kiltermoney.com",
   "docs": "https://kiltermoney.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kilter-money": {

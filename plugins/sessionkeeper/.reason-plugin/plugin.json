@@ -4,6 +4,7 @@
   "description": "Explore your D&D campaigns.",
   "homepage": "https://www.sessionkeeper.ai/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.sessionkeeper/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sessionkeeper": {

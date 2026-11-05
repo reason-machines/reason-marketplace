@@ -4,6 +4,7 @@
   "description": "Airport waits and delays.",
   "homepage": "https://flightqueue.com",
   "docs": "https://flightqueue.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flight-queue": {

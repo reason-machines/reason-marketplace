@@ -4,6 +4,7 @@
   "description": "Find MCP servers and skills.",
   "homepage": "https://mcprush.com",
   "docs": "https://mcprush.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mcprush": {

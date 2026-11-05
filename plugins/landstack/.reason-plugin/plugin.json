@@ -4,6 +4,7 @@
   "description": "Search detailed planning data.",
   "homepage": "https://www.landstack.co.uk",
   "docs": "https://www.landstack.co.uk",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "landstack": {

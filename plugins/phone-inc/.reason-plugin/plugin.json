@@ -4,6 +4,7 @@
   "description": "Your business calls in Reason.",
   "homepage": "https://docs.phone.inc/mcp",
   "docs": "https://docs.phone.inc/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "phone-inc": {

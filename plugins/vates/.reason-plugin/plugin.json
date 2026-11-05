@@ -4,6 +4,7 @@
   "description": "Ask your knowledge base.",
   "homepage": "https://vates.standout.jp/",
   "docs": "https://vates.standout.jp/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vates": {

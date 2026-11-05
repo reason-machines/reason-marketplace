@@ -4,6 +4,7 @@
   "description": "Save, find and plan recipes.",
   "homepage": "https://www.citronapp.co",
   "docs": "https://www.citronapp.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "citron": {

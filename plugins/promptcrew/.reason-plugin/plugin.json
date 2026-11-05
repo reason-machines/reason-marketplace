@@ -4,6 +4,7 @@
   "description": "Reuse team AI workflows.",
   "homepage": "https://promptcrew.io/",
   "docs": "https://promptcrew.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "promptcrew": {

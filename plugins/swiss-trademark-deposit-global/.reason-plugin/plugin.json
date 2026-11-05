@@ -4,6 +4,7 @@
   "description": "Prepare Swiss trademark work.",
   "homepage": "https://trademarks.ogram.swiss/",
   "docs": "https://trademarks.ogram.swiss/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "swiss-trademark-deposit-global": {

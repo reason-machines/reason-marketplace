@@ -4,6 +4,7 @@
   "description": "Private self-care workspace.",
   "homepage": "https://dreamhall.app/",
   "docs": "https://dreamhall.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dreamhall": {

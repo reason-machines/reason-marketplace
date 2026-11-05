@@ -4,6 +4,7 @@
   "description": "Manage your DAM assets.",
   "homepage": "https://ci-hub.com",
   "docs": "https://ci-hub.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ci-hub": {

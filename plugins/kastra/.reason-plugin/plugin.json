@@ -4,6 +4,7 @@
   "description": "Inspect AI governance.",
   "homepage": "https://kastra.ai",
   "docs": "https://kastra.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kastra": {

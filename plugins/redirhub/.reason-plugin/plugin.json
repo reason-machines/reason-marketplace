@@ -4,6 +4,7 @@
   "description": "Domain redirects & short links.",
   "homepage": "https://www.redirhub.com",
   "docs": "https://www.redirhub.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "redirhub": {

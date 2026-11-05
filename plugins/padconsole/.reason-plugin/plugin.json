@@ -4,6 +4,7 @@
   "description": "Game night ideas for groups.",
   "homepage": "https://padconsole.com/",
   "docs": "https://padconsole.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "padconsole": {

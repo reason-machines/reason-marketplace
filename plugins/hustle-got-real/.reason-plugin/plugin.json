@@ -4,6 +4,7 @@
   "description": "Run your dropshipping store.",
   "homepage": "https://hustlegotreal.com",
   "docs": "https://hustlegotreal.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hustle-got-real": {

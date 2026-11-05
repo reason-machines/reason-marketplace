@@ -4,6 +4,7 @@
   "description": "Plan your church ministries.",
   "homepage": "https://churchplan.hapibit.com/mcp",
   "docs": "https://churchplan.hapibit.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hapibit-church-planner": {

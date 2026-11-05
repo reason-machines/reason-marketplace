@@ -4,6 +4,7 @@
   "description": "Costs & newspapers by county.",
   "homepage": "https://www.llcpublishers.com/",
   "docs": "https://www.llcpublishers.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "new-york-llc-publication": {

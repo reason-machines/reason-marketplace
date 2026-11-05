@@ -4,6 +4,7 @@
   "description": "Explore live blockchain data.",
   "homepage": "https://etherscan.io",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.etherscan",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "etherscan": {

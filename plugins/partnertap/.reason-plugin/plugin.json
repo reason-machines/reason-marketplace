@@ -4,6 +4,7 @@
   "description": "Unlock agentic co-selling.",
   "homepage": "https://partnertap.com",
   "docs": "https://partnertap.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "partnertap": {

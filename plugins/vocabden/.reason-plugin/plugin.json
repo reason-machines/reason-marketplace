@@ -4,6 +4,7 @@
   "description": "Remembers what you're learning.",
   "homepage": "https://vocabden.com/",
   "docs": "https://vocabden.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vocabden": {

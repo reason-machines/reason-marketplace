@@ -4,6 +4,7 @@
   "description": "Plan and publish social posts.",
   "homepage": "https://dopost.co",
   "docs": "https://dopost.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dopost-chatgpt-marketplace": {

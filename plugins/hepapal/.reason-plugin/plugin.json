@@ -4,6 +4,7 @@
   "description": "Track drinking gently.",
   "homepage": "https://www.hepapal.net/",
   "docs": "https://www.hepapal.net/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hepapal": {

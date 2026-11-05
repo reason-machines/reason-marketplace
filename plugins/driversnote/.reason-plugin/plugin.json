@@ -4,6 +4,7 @@
   "description": "Manage mileage and reports.",
   "homepage": "https://www.driversnote.com/",
   "docs": "https://www.driversnote.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "driversnote": {

@@ -4,6 +4,7 @@
   "description": "Write and plan your music.",
   "homepage": "https://musicbookpro.com",
   "docs": "https://musicbookpro.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "musicbook-pro": {

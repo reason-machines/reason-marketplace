@@ -4,6 +4,7 @@
   "description": "Search & book tee times.",
   "homepage": "https://www.teemeup.ai/",
   "docs": "https://www.teemeup.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "teemeup": {

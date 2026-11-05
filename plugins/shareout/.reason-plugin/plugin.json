@@ -4,6 +4,7 @@
   "description": "Share what your agent makes.",
   "homepage": "https://shareout.io",
   "docs": "https://shareout.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shareout": {

@@ -4,6 +4,7 @@
   "description": "Continue your past AI chats.",
   "homepage": "https://continuevault.com",
   "docs": "https://continuevault.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "continuevault": {

@@ -4,6 +4,7 @@
   "description": "WhatsApp & Instagram AI agent.",
   "homepage": "https://www.ciarem.ai/",
   "docs": "https://help.ciarem.ai/integrations/ai-assistants",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ciarem": {

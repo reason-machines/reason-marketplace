@@ -4,6 +4,7 @@
   "description": "Pesca no Brasil: locais, marés.",
   "homepage": "https://www.iscabox.com",
   "docs": "https://iscabox.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "iscabox": {

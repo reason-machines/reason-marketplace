@@ -4,6 +4,7 @@
   "description": "Discover manga on emaqi.",
   "homepage": "https://emaqi.com",
   "docs": "https://emaqi.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "emaqi": {

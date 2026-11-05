@@ -4,6 +4,7 @@
   "description": "Find Bulgarian cultural events.",
   "homepage": "https://sofiastage.com/",
   "docs": "https://sofiastage.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sofiastage-events": {

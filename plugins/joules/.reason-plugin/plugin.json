@@ -4,6 +4,7 @@
   "description": "Level up your AI cycling coach.",
   "homepage": "https://joules.cc",
   "docs": "https://joules.cc",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "joules": {

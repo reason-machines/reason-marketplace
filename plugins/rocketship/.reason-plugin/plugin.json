@@ -4,6 +4,7 @@
   "description": "Find buyers, get customers.",
   "homepage": "https://deployrocketship.com",
   "docs": "https://deployrocketship.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rocketship": {

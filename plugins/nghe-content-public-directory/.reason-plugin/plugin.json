@@ -4,6 +4,7 @@
   "description": "Kiến thức viết content viral.",
   "homepage": "https://khotrithuc.vn",
   "docs": "https://khotrithuc.vn",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nghe-content-public-directory": {

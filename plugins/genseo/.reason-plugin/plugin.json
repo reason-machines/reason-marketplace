@@ -4,6 +4,7 @@
   "description": "AI visibility, SEO, AEO & GEO.",
   "homepage": "https://www.genseo.co",
   "docs": "https://docs.genseo.co/mcp/overview",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "genseo": {

@@ -4,6 +4,7 @@
   "description": "Stock conversation signals.",
   "homepage": "https://quantral.com/mcp",
   "docs": "https://quantral.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quantral": {

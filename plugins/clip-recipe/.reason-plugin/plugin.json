@@ -4,6 +4,7 @@
   "description": "Recipes from cooking videos.",
   "homepage": "https://www.cliprecipe.com",
   "docs": "https://www.cliprecipe.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clip-recipe": {

@@ -4,6 +4,7 @@
   "description": "Manage jobs and candidates.",
   "homepage": "https://hirevire.com",
   "docs": "https://hirevire.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hirevire": {

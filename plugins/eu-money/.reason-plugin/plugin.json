@@ -4,6 +4,7 @@
   "description": "Find EU funding in Hungary.",
   "homepage": "https://eumoney.hu/",
   "docs": "https://eumoney.hu/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eu-money": {

@@ -4,6 +4,7 @@
   "description": "When NYC tables open.",
   "homepage": "https://www.nycrsvps.com",
   "docs": "https://www.nycrsvps.com/chatgpt-claude-app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nyc-rsvps": {

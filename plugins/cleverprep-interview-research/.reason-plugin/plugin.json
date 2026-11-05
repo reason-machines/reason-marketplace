@@ -4,6 +4,7 @@
   "description": "Company interview research.",
   "homepage": "https://www.cleverprep.com",
   "docs": "https://www.cleverprep.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cleverprep-interview-research": {

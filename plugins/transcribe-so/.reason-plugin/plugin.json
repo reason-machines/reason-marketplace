@@ -4,6 +4,7 @@
   "description": "Who said what, and when.",
   "homepage": "https://transcribe.so",
   "docs": "https://transcribe.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "transcribe-so": {

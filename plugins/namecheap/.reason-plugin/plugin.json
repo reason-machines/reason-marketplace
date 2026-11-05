@@ -4,6 +4,7 @@
   "description": "Search domains & pricing.",
   "homepage": "https://www.namecheap.com",
   "docs": "https://www.namecheap.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "namecheap": {

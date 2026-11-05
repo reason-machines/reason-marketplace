@@ -4,6 +4,7 @@
   "description": "Find English-speaking jobs.",
   "homepage": "https://lolanext.com",
   "docs": "https://lolanext.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lolanext-jobs": {

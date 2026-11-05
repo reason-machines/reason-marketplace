@@ -4,6 +4,7 @@
   "description": "Manage dropshipping ops.",
   "homepage": "https://www.zendrop.com/",
   "docs": "https://support.zendrop.com/en/articles/15349416-connect-zendrop-mcp-to-your-ai-assistant",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zendrop": {

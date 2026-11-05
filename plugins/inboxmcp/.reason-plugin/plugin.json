@@ -4,6 +4,7 @@
   "description": "Your email, your agent.",
   "homepage": "https://inboxmcp.ai",
   "docs": "https://inboxmcp.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "inboxmcp": {

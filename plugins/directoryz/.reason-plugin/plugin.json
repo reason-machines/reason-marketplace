@@ -4,6 +4,7 @@
   "description": "Browse directory listings.",
   "homepage": "https://directoryz.app",
   "docs": "https://directoryz.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "directoryz": {

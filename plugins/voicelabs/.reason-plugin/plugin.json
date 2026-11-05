@@ -4,6 +4,7 @@
   "description": "Text to speech and transcripts.",
   "homepage": "https://voicelabs.now/",
   "docs": "https://voicelabs.now/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voicelabs": {

@@ -4,6 +4,7 @@
   "description": "Your financial plan in chat.",
   "homepage": "https://yieldclarity.com/ai-assistants",
   "docs": "https://tedix.dev/apps/yield-clarity/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yield-clarity": {

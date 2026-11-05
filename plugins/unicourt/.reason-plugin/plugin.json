@@ -4,6 +4,7 @@
   "description": "Search and view court cases.",
   "homepage": "https://unicourt.com/",
   "docs": "https://unicourt.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unicourt": {

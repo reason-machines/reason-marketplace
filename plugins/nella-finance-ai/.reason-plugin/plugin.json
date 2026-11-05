@@ -4,6 +4,7 @@
   "description": "Your finance team in chat.",
   "homepage": "https://nellafinance.com",
   "docs": "https://nellafinance.com/help/claude/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nella-finance-ai": {

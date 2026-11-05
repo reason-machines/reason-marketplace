@@ -4,6 +4,7 @@
   "description": "Daily audio: news & learning.",
   "homepage": "https://treehorn.app",
   "docs": "https://treehorn.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "treehorn": {

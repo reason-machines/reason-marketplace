@@ -4,6 +4,7 @@
   "description": "Team chat, tasks, and files.",
   "homepage": "https://ringcentral.com",
   "docs": "https://mcp.labs.ringcentral.com/docs/servers/ringex-chat/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ringcentral-chat": {

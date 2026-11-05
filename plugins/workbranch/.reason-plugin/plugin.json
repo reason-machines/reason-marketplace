@@ -4,6 +4,7 @@
   "description": "Keep tasks from your chats.",
   "homepage": "https://workbranch.ai",
   "docs": "https://workbranch.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "workbranch": {

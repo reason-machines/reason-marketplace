@@ -4,6 +4,7 @@
   "description": "Practice checks and insights.",
   "homepage": "https://praxisvets.com",
   "docs": "https://praxisvets.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "praxis-veterinary-insights": {

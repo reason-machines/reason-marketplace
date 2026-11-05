@@ -4,6 +4,7 @@
   "description": "Manage your GTD board in chat.",
   "homepage": "https://gtdbrain.com",
   "docs": "https://gtdbrain.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gtd-brain-getting-things-done": {

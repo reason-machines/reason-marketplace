@@ -4,6 +4,7 @@
   "description": "Build and analyze surveys.",
   "homepage": "https://questionstar.com",
   "docs": "https://questionstar.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "questionstar": {

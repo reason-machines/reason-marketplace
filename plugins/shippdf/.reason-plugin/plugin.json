@@ -4,6 +4,7 @@
   "description": "Create templates and PDFs.",
   "homepage": "https://shippdf.com",
   "docs": "https://shippdf.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shippdf": {

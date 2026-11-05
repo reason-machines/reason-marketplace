@@ -4,6 +4,7 @@
   "description": "Source-backed agent prompts.",
   "homepage": "https://promptingcraft.com",
   "docs": "https://promptingcraft.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "promptingcraft": {

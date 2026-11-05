@@ -4,6 +4,7 @@
   "description": "Measured superyacht movement.",
   "homepage": "https://traffik.ai",
   "docs": "https://traffik.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "traffik-yacht-radar": {

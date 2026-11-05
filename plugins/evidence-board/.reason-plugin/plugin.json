@@ -4,6 +4,7 @@
   "description": "Case boards for investigations.",
   "homepage": "https://evidence.mtgtechnical.com",
   "docs": "https://evidence.mtgtechnical.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "evidence-board": {

@@ -4,6 +4,7 @@
   "description": "Equity comp tax planning.",
   "homepage": "https://optionsahoy.com/for-agents",
   "docs": "https://optionsahoy.com/for-agents",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "optionsahoy": {

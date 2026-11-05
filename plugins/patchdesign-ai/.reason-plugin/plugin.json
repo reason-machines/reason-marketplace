@@ -4,6 +4,7 @@
   "description": "Design custom patches.",
   "homepage": "https://patchdesign.ai",
   "docs": "https://patchdesign.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "patchdesign-ai": {

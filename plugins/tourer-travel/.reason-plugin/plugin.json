@@ -4,6 +4,7 @@
   "description": "Private transfers in Turkey.",
   "homepage": "https://tourertravel.com/en/",
   "docs": "https://tourertravel.com/en/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tourer-travel": {

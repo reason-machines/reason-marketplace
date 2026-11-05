@@ -4,6 +4,7 @@
   "description": "Analyze interview data.",
   "homepage": "https://support.metaview.ai/integrations/mcp-integration/mcp-overview",
   "docs": "https://support.metaview.ai/integrations/mcp-integration/mcp-overview",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "metaview": {

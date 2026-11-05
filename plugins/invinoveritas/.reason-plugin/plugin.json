@@ -4,6 +4,7 @@
   "description": "Second opinion before you act.",
   "homepage": "https://api.babyblueviper.com",
   "docs": "https://api.babyblueviper.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "invinoveritas": {

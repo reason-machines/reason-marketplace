@@ -4,6 +4,7 @@
   "description": "Build interactive lead tools.",
   "homepage": "https://www.magnetly.co",
   "docs": "https://www.magnetly.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "magnetly": {

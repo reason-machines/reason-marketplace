@@ -4,6 +4,7 @@
   "description": "Check. Compare. Verify.",
   "homepage": "https://forgeorbital.com",
   "docs": "https://forgeorbital.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "forge-orbital-decision-records": {

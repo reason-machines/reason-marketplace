@@ -4,6 +4,7 @@
   "description": "3D scenes and web design.",
   "homepage": "https://spline.design",
   "docs": "https://spline.design",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spline": {

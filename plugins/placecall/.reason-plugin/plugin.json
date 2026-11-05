@@ -4,6 +4,7 @@
   "description": "Calls US businesses for you.",
   "homepage": "https://voygr.tech/placecall/",
   "docs": "https://voygr.tech/placecall/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "placecall": {

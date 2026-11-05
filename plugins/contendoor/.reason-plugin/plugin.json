@@ -4,6 +4,7 @@
   "description": "Organize your video workspace.",
   "homepage": "https://contendoor.com/",
   "docs": "https://contendoor.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "contendoor": {

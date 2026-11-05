@@ -4,6 +4,7 @@
   "description": "Bookkeeping and reporting.",
   "homepage": "https://www.reinvestwealth.com",
   "docs": "https://tedix.dev/apps/reinvestwealth/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reinvestwealth": {

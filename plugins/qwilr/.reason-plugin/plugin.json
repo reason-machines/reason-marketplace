@@ -4,6 +4,7 @@
   "description": "Create and track proposals.",
   "homepage": "https://qwilr.com",
   "docs": "https://qwilr.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qwilr": {

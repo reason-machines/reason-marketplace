@@ -4,6 +4,7 @@
   "description": "Korea real transaction prices.",
   "homepage": "https://reevl.co.kr",
   "docs": "https://reevl.co.kr/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "reevl": {

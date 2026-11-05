@@ -4,6 +4,7 @@
   "description": "Plan together, no signup.",
   "homepage": "https://lesgooo.fun/",
   "docs": "https://lesgooo.fun/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lesgooo": {

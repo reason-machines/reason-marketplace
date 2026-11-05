@@ -4,6 +4,7 @@
   "description": "Track your household net worth.",
   "homepage": "https://worthbase.app",
   "docs": "https://worthbase.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "worthbase": {

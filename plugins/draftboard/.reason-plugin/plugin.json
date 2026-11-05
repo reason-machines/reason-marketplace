@@ -4,6 +4,7 @@
   "description": "Warm intros from your network.",
   "homepage": "https://www.draftboard.com",
   "docs": "https://www.draftboard.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "draftboard": {

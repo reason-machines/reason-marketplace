@@ -4,6 +4,7 @@
   "description": "Create forms with AI.",
   "homepage": "https://genzform.com",
   "docs": "https://genzform.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "genzform": {

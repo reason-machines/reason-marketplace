@@ -4,6 +4,7 @@
   "description": "Political ideas, sourced.",
   "homepage": "https://praxeum.hu/ai",
   "docs": "https://praxeum.hu/ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "praxeum": {

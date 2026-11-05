@@ -4,6 +4,7 @@
   "description": "Viral app marketing research.",
   "homepage": "https://www.socialgrowthengineers.com",
   "docs": "https://www.socialgrowthengineers.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "social-growth-engineers": {

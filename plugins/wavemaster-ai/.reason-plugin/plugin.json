@@ -4,6 +4,7 @@
   "description": "Previsão de surf com IA.",
   "homepage": "https://www.wavemasterai.com.br",
   "docs": "https://www.wavemasterai.com.br",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wavemaster-ai": {

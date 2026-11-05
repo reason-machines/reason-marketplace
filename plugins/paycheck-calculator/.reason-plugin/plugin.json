@@ -4,6 +4,7 @@
   "description": "2026 paycheck after taxes.",
   "homepage": "https://paycheck-calculator.zovo.one",
   "docs": "https://paycheck-calculator.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "paycheck-calculator": {

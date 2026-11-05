@@ -4,6 +4,7 @@
   "description": "Calculate solo 401k limits.",
   "homepage": "https://bestsolo401k.com",
   "docs": "https://tedix.dev/apps/solo-401k-calculator/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "solo-401k-calculator": {

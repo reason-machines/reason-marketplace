@@ -4,6 +4,7 @@
   "description": "Cost of living for US cities.",
   "homepage": "https://costliving.net/",
   "docs": "https://costliving.net/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "costliving": {

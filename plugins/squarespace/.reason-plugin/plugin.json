@@ -4,6 +4,7 @@
   "description": "Find domains, run your store.",
   "homepage": "https://www.squarespace.com/",
   "docs": "https://developers.squarespace.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "squarespace": {

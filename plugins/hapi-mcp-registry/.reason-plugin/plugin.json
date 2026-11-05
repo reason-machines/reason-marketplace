@@ -4,6 +4,7 @@
   "description": "Find MCP Servers.",
   "homepage": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.com.mcp/registry",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.com.mcp/registry",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hapi-mcp-registry": {

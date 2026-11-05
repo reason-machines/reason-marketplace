@@ -4,6 +4,7 @@
   "description": "Plan creative campaign assets.",
   "homepage": "https://muserig.com/",
   "docs": "https://muserig.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "muserig": {

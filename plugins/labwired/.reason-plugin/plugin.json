@@ -4,6 +4,7 @@
   "description": "Develop and verify hardware.",
   "homepage": "https://labwired.com",
   "docs": "https://labwired.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "labwired": {

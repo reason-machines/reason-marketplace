@@ -4,6 +4,7 @@
   "description": "Next-gen software to run EOS®.",
   "homepage": "https://www.success.co/",
   "docs": "https://www.success.co/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "success-co": {

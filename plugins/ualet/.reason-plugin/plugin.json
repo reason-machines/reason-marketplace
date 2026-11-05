@@ -4,6 +4,7 @@
   "description": "Understand your finances.",
   "homepage": "https://ualet.cl",
   "docs": "https://ualet.cl",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ualet": {

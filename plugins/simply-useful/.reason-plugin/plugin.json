@@ -4,6 +4,7 @@
   "description": "Manage your tasks and your day.",
   "homepage": "https://simply-useful.com/",
   "docs": "https://simply-useful.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simply-useful": {

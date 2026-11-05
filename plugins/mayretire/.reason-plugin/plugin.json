@@ -4,6 +4,7 @@
   "description": "Plan Canadian retirement.",
   "homepage": "https://ai.mayretire.com/",
   "docs": "https://ai.mayretire.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mayretire": {

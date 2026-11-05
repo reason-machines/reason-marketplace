@@ -4,6 +4,7 @@
   "description": "Inspect email domain health.",
   "homepage": "https://healthcheckemail.com",
   "docs": "https://healthcheckemail.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "healthcheckemail": {

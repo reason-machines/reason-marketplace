@@ -4,6 +4,7 @@
   "description": "AI Employer Brand Intelligence.",
   "homepage": "https://www.perceptionx.ai/",
   "docs": "https://www.perceptionx.ai/mcp-help",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "perceptionx": {

@@ -4,6 +4,7 @@
   "description": "Find and save business leads.",
   "homepage": "https://preyreach.com",
   "docs": "https://preyreach.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "preyreach": {

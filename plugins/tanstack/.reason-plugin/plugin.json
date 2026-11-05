@@ -4,6 +4,7 @@
   "description": "Build with the TanStack stack.",
   "homepage": "https://tanstack.com",
   "docs": "https://tanstack.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tanstack": {

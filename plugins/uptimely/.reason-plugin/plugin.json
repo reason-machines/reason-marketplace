@@ -4,6 +4,7 @@
   "description": "Uptime monitors and incidents.",
   "homepage": "https://getuptimely.com/",
   "docs": "https://getuptimely.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "uptimely": {

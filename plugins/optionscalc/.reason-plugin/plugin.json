@@ -4,6 +4,7 @@
   "description": "Construct option strategies.",
   "homepage": "https://optionscalc.app",
   "docs": "https://tedix.dev/apps/optionscalc/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "optionscalc": {

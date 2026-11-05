@@ -4,6 +4,7 @@
   "description": "Investment intelligence.",
   "homepage": "https://cxprowealth.com",
   "docs": "https://tedix.dev/apps/cxprowealth/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cxprowealth": {

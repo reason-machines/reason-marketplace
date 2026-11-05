@@ -4,6 +4,7 @@
   "description": "Get help with travel logistic.",
   "homepage": "https://travelenie.com/",
   "docs": "https://travelenie.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "travelenie": {

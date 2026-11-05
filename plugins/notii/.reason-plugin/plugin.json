@@ -4,6 +4,7 @@
   "description": "Your notes, tasks and calendar.",
   "homepage": "https://www.notii.io",
   "docs": "https://app.notii.io/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notii": {

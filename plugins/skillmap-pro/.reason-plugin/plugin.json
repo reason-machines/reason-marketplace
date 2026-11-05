@@ -4,6 +4,7 @@
   "description": "Servicios y trabajo en Chile.",
   "homepage": "https://skillmap.cl",
   "docs": "https://skillmap.cl",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "skillmap-pro": {

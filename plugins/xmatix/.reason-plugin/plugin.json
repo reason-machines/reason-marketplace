@@ -4,6 +4,7 @@
   "description": "Business data and workflows.",
   "homepage": "https://www.xmatix.com",
   "docs": "https://www.xmatix.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "xmatix": {

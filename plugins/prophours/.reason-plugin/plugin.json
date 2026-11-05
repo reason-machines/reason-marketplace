@@ -4,6 +4,7 @@
   "description": "Track rental work hours.",
   "homepage": "https://prophours.app/",
   "docs": "https://prophours.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prophours": {

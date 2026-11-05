@@ -4,6 +4,7 @@
   "description": "Social Media Analytics.",
   "homepage": "https://minter.io",
   "docs": "https://minter.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "minter-io": {

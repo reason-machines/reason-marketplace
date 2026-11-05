@@ -4,6 +4,7 @@
   "description": "Free b-roll and video overlays.",
   "homepage": "https://supareels.com",
   "docs": "https://supareels.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "supareels": {

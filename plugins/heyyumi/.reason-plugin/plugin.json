@@ -4,6 +4,7 @@
   "description": "Find & book Korean restaurants.",
   "homepage": "https://heyyumi.ai",
   "docs": "https://heyyumi.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "heyyumi": {

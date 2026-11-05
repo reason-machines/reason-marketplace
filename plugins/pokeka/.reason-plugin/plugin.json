@@ -4,6 +4,7 @@
   "description": "Graded Pokemon card prices.",
   "homepage": "https://pokeka.xyz",
   "docs": "https://pokeka.xyz",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pokeka": {

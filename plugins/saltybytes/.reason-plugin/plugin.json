@@ -4,6 +4,7 @@
   "description": "Find and save real recipes.",
   "homepage": "https://saltybytes.ai",
   "docs": "https://saltybytes.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "saltybytes": {

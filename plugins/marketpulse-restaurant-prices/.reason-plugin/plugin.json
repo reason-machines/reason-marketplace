@@ -4,6 +4,7 @@
   "description": "Explore tracked menu prices.",
   "homepage": "https://getmarketpulse.com/integrations/chatgpt",
   "docs": "https://getmarketpulse.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "marketpulse-restaurant-prices": {

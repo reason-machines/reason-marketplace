@@ -4,6 +4,7 @@
   "description": "Check release note coverage.",
   "homepage": "https://release-notes-coverage-checker.sidcraigau.workers.dev",
   "docs": "https://release-notes-coverage-checker.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "release-notes-coverage-checker": {

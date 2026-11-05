@@ -4,6 +4,7 @@
   "description": "SEO data and keyword research.",
   "homepage": "https://serpstat.com",
   "docs": "https://serpstat.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "serpstat": {

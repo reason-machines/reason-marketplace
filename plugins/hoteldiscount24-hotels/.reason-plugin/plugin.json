@@ -4,6 +4,7 @@
   "description": "Hotels by amenity, worldwide.",
   "homepage": "https://www.hoteldiscount24.com/",
   "docs": "https://hoteldiscount24.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hoteldiscount24-hotels": {

@@ -4,6 +4,7 @@
   "description": "Summarize and transcribe media.",
   "homepage": "https://aishorty.com",
   "docs": "https://aishorty.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shorty": {

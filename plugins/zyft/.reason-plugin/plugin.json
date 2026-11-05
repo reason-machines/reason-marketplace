@@ -4,6 +4,7 @@
   "description": "Australian price comparison.",
   "homepage": "https://zyft.com",
   "docs": "https://zyft.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "zyft": {

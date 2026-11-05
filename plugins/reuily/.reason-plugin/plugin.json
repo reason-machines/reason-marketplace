@@ -4,6 +4,7 @@
   "description": "Forms, quizzes & lead capture.",
   "homepage": "https://reuily.com",
   "docs": "https://reuily.com/.well-known/oauth-protected-resource/api/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reuily": {

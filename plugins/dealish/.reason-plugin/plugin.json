@@ -4,6 +4,7 @@
   "description": "Toronto food & drink deals.",
   "homepage": "https://www.dealish.io",
   "docs": "https://www.dealish.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dealish": {

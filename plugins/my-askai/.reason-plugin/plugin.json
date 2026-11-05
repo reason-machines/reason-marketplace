@@ -4,6 +4,7 @@
   "description": "Search My AskAI help.",
   "homepage": "https://myaskai.com",
   "docs": "https://myaskai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "my-askai": {

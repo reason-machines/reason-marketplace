@@ -4,6 +4,7 @@
   "description": "Bids that fit your business.",
   "homepage": "https://findmybids.com",
   "docs": "https://findmybids.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "findmybids": {

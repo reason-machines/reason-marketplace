@@ -4,6 +4,7 @@
   "description": "Create and edit AI videos.",
   "homepage": "https://hypernatural.ai",
   "docs": "https://hypernatural.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hypernatural": {

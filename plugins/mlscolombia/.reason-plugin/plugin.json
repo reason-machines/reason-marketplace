@@ -4,6 +4,7 @@
   "description": "Home value, listings, agencies.",
   "homepage": "https://mlscolombia.co/chatgpt/",
   "docs": "https://mlscolombia.co/chatgpt/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mlscolombia": {

@@ -4,6 +4,7 @@
   "description": "Review SEO and website data.",
   "homepage": "https://liftaven.com",
   "docs": "https://liftaven.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "liftaven": {

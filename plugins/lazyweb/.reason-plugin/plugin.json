@@ -4,6 +4,7 @@
   "description": "Real app screens and A/B tests.",
   "homepage": "https://www.lazyweb.com",
   "docs": "https://www.lazyweb.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lazyweb": {

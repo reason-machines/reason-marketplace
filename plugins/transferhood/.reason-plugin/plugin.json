@@ -4,6 +4,7 @@
   "description": "Private Airport Transfers.",
   "homepage": "https://transferhood.com/",
   "docs": "https://transferhood.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "transferhood": {

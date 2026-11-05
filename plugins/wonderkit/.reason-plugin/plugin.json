@@ -4,6 +4,7 @@
   "description": "Group trip ideas & itineraries.",
   "homepage": "https://wonderkit.app",
   "docs": "https://wonderkit.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wonderkit": {

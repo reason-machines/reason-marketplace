@@ -4,6 +4,7 @@
   "description": "Integration with Quallie.Ai.",
   "homepage": "https://quallie.ai",
   "docs": "https://app.quallie.ai/api/.well-known/oauth-protected-resource/api/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quallie-ai": {

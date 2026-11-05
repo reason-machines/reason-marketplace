@@ -4,6 +4,7 @@
   "description": "AI agents for customer support.",
   "homepage": "https://docsbot.ai",
   "docs": "https://docsbot.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docsbot-administration": {

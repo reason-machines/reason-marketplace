@@ -4,6 +4,7 @@
   "description": "Scuba dive planning tools.",
   "homepage": "https://divekit.app/ai/",
   "docs": "https://divekit.app/ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dive-kit": {

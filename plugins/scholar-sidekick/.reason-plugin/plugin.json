@@ -4,6 +4,7 @@
   "description": "Audit, verify, cite papers.",
   "homepage": "https://scholar-sidekick.com",
   "docs": "https://scholar-sidekick.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scholar-sidekick": {

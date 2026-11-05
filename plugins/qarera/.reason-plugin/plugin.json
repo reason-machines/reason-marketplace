@@ -4,6 +4,7 @@
   "description": "Search jobs & tailor resumes.",
   "homepage": "https://www.qarera.com/",
   "docs": "https://www.qarera.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qarera": {

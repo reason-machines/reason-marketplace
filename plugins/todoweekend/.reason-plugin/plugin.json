@@ -4,6 +4,7 @@
   "description": "Weekend events in nine cities.",
   "homepage": "https://todoweekend.com",
   "docs": "https://todoweekend.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "todoweekend": {

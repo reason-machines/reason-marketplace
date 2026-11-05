@@ -4,6 +4,7 @@
   "description": "Edit your footage by talking.",
   "homepage": "https://www.heyeddie.ai",
   "docs": "https://heyeddie.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "eddie": {

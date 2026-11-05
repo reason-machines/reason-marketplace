@@ -4,6 +4,7 @@
   "description": "Federal grants and deadlines.",
   "homepage": "https://grant-finder.zovo.one",
   "docs": "https://grant-finder.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "grant-finder": {

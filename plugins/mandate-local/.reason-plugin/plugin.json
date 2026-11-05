@@ -4,6 +4,7 @@
   "description": "Portable project plans.",
   "homepage": "https://mandate-public-file-preview.dannygriffin.workers.dev/about",
   "docs": "https://mandate-public-file-preview.dannygriffin.workers.dev/about",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mandate-local": {

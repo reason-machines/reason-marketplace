@@ -4,6 +4,7 @@
   "description": "Websites & KI für Betriebe.",
   "homepage": "https://flowboxx.de/",
   "docs": "https://flowboxx.de/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "flowboxx-agenten-tuer": {

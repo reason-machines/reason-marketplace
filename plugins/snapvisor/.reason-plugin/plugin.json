@@ -4,6 +4,7 @@
   "description": "Review visual regression tests.",
   "homepage": "https://snapvisor.io/",
   "docs": "https://snapvisor.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "snapvisor": {

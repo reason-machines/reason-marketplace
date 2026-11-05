@@ -4,6 +4,7 @@
   "description": "Design parts, get STEP files.",
   "homepage": "https://app.webcad.ca",
   "docs": "https://app.webcad.ca",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "webcad": {

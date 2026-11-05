@@ -4,6 +4,7 @@
   "description": "DJ set tracklists from YouTube.",
   "homepage": "https://whatstheid.com",
   "docs": "https://whatstheid.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "whatstheid": {

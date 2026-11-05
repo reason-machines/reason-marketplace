@@ -4,6 +4,7 @@
   "description": "Website analytics and insights.",
   "homepage": "https://www.lytical.ai",
   "docs": "https://www.lytical.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lytical": {

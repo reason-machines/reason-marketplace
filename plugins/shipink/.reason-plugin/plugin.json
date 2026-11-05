@@ -4,6 +4,7 @@
   "description": "Ship and track your parcels.",
   "homepage": "https://shipink.io",
   "docs": "https://shipink.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shipink": {

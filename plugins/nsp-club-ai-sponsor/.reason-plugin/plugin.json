@@ -4,6 +4,7 @@
   "description": "Practical NSP partner coach.",
   "homepage": "https://ai-sponsor.nspclub.org",
   "docs": "https://ai-sponsor.nspclub.org/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nsp-club-ai-sponsor": {

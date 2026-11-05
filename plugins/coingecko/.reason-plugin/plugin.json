@@ -4,6 +4,7 @@
   "description": "Cryptocurrency prices & charts.",
   "homepage": "https://www.coingecko.com",
   "docs": "https://www.coingecko.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "coingecko": {

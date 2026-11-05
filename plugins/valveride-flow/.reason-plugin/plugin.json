@@ -4,6 +4,7 @@
   "description": "Diesel prices and fuel plans.",
   "homepage": "https://valverideflow.com",
   "docs": "https://valverideflow.com/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "valveride-flow": {

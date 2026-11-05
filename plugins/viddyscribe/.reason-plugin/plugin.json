@@ -4,6 +4,7 @@
   "description": "Audio descriptions for video.",
   "homepage": "https://viddyscribe.com",
   "docs": "https://viddyscribe.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "viddyscribe": {

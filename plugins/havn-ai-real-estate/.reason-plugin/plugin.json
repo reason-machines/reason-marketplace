@@ -4,6 +4,7 @@
   "description": "Top AI Powered Open House CRM.",
   "homepage": "https://havnre.app/",
   "docs": "https://havnre.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "havn-ai-real-estate": {

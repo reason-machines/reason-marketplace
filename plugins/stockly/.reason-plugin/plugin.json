@@ -4,6 +4,7 @@
   "description": "AI inventory control tower.",
   "homepage": "https://stockly.analytos.ai",
   "docs": "https://stockly.analytos.ai/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stockly": {

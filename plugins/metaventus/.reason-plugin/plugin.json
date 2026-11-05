@@ -4,6 +4,7 @@
   "description": "Your CRM and meetings.",
   "homepage": "https://www.metaventus.com",
   "docs": "https://www.metaventus.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "metaventus": {

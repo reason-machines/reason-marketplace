@@ -4,6 +4,7 @@
   "description": "All your trips in one place.",
   "homepage": "https://travcozy.com",
   "docs": "https://travcozy.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "travcozy": {

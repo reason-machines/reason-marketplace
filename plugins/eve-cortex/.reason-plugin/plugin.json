@@ -4,6 +4,7 @@
   "description": "Long-term memory you control.",
   "homepage": "https://evecortex.com",
   "docs": "https://evecortex.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "eve-cortex": {

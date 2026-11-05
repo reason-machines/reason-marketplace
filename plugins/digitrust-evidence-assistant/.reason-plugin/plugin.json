@@ -4,6 +4,7 @@
   "description": "Procurement & vendor evidence.",
   "homepage": "https://www.digitranshq.com/evidence-assistant/",
   "docs": "https://www.digitranshq.com/evidence-assistant/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "digitrust-evidence-assistant": {

@@ -4,6 +4,7 @@
   "description": "Rent rolls, T12s, OMs, loans.",
   "homepage": "https://www.creparser.com",
   "docs": "https://www.creparser.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "creparser-deals": {

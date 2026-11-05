@@ -4,6 +4,7 @@
   "description": "Job search and career drafts.",
   "homepage": "https://neverapply.co",
   "docs": "https://neverapply.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "neverapply": {

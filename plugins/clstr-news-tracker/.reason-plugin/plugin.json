@@ -4,6 +4,7 @@
   "description": "News search and timelines.",
   "homepage": "https://clstr.news/",
   "docs": "https://clstr.news/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clstr-news-tracker": {

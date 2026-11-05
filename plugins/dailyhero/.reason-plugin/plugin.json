@@ -4,6 +4,7 @@
   "description": "Family tasks and rewards.",
   "homepage": "https://dailyhero.ink",
   "docs": "https://dailyhero.ink",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dailyhero": {

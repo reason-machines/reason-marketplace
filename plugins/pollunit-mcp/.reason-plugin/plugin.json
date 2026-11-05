@@ -4,6 +4,7 @@
   "description": "Create polls with AI.",
   "homepage": "https://pollunit.com/en/create-with-ai",
   "docs": "https://pollunit.com/en/create-with-ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pollunit-mcp": {

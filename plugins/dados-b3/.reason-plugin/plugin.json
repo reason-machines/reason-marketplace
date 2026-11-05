@@ -4,6 +4,7 @@
   "description": "Brazilian stock fundamentals.",
   "homepage": "https://dadosb3.com",
   "docs": "https://dadosb3.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dados-b3": {

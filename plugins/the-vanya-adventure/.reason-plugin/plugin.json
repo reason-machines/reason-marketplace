@@ -4,6 +4,7 @@
   "description": "Tours and day trips in Vietnam.",
   "homepage": "https://dv-tours.com/en/",
   "docs": "https://dv-tours.com/en/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the-vanya-adventure": {

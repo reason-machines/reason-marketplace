@@ -4,6 +4,7 @@
   "description": "eIgreja Manual.",
   "homepage": "https://eigreja.com",
   "docs": "https://eigreja.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eigreja": {

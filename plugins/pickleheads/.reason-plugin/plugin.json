@@ -4,6 +4,7 @@
   "description": "Find and organize pickleball.",
   "homepage": "https://www.pickleheads.com",
   "docs": "https://www.pickleheads.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pickleheads": {

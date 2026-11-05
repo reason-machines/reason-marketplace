@@ -4,6 +4,7 @@
   "description": "Shared threads for AI agents.",
   "homepage": "https://www.giljo.ai/documentation/amh/",
   "docs": "https://www.giljo.ai/documentation/amh/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "giljo-amh": {

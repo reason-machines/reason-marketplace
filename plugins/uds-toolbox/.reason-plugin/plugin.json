@@ -4,6 +4,7 @@
   "description": "Find why a UDS flash failed.",
   "homepage": "https://udslib.com/mcp.html",
   "docs": "https://udslib.com/mcp.html",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uds-toolbox": {

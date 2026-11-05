@@ -4,6 +4,7 @@
   "description": "Flexible flight search engine.",
   "homepage": "https://flightcat.io",
   "docs": "https://flightcat.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "flightcat": {

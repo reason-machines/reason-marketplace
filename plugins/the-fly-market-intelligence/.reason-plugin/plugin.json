@@ -4,6 +4,7 @@
   "description": "Market research and news.",
   "homepage": "https://mcp.thefly.com/",
   "docs": "https://mcp.thefly.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "the-fly-market-intelligence": {

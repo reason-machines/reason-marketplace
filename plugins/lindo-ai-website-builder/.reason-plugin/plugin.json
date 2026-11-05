@@ -4,6 +4,7 @@
   "description": "Create and edit websites.",
   "homepage": "https://lindo.ai",
   "docs": "https://lindo.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lindo-ai-website-builder": {

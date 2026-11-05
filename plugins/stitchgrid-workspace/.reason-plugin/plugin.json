@@ -4,6 +4,7 @@
   "description": "Your apparel production office.",
   "homepage": "https://www.stitchgrid.com",
   "docs": "https://stitchgrid.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stitchgrid-workspace": {

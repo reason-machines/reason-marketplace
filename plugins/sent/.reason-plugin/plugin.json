@@ -4,6 +4,7 @@
   "description": "Send SMS, RCS, and WhatsApp.",
   "homepage": "https://www.sent.dm",
   "docs": "https://www.sent.dm",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sent": {

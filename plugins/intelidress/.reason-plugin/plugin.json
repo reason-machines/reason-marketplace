@@ -4,6 +4,7 @@
   "description": "Style outfits from your closet.",
   "homepage": "https://intelidress.app/ai",
   "docs": "https://intelidress.app/ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "intelidress": {

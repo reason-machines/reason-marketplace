@@ -4,6 +4,7 @@
   "description": "Compare and buy ad media.",
   "homepage": "https://tap.co",
   "docs": "https://tap.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tap": {

@@ -4,6 +4,7 @@
   "description": "Transcribe scans and PDFs.",
   "homepage": "https://www.handwritingocr.com/",
   "docs": "https://www.handwritingocr.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "handwriting-ocr": {

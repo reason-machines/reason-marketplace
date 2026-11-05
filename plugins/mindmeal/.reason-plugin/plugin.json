@@ -4,6 +4,7 @@
   "description": "Restaurant menus, dish by dish.",
   "homepage": "https://www.mindmeal.net",
   "docs": "https://www.mindmeal.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mindmeal": {

@@ -4,6 +4,7 @@
   "description": "Client comments on PDF proofs.",
   "homepage": "https://rounds.page/ai",
   "docs": "https://rounds.page/ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rounds": {

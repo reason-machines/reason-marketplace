@@ -4,6 +4,7 @@
   "description": "Find dog-friendly park stays.",
   "homepage": "https://parksnpaws.com",
   "docs": "https://parksnpaws.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "parks-n-paws": {

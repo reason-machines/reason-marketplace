@@ -4,6 +4,7 @@
   "description": "Run your restaurant with Fiest.",
   "homepage": "https://fiest.io",
   "docs": "https://fiest.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fiest": {

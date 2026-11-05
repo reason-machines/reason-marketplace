@@ -4,6 +4,7 @@
   "description": "Private jet charter quote.",
   "homepage": "https://privatejet.com/",
   "docs": "https://privatejet.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "privatejet-com": {

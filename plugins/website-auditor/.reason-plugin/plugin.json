@@ -4,6 +4,7 @@
   "description": "Audit sites and AI visibility.",
   "homepage": "https://website-auditor.io",
   "docs": "https://website-auditor.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "website-auditor": {

@@ -4,6 +4,7 @@
   "description": "Event Management and Analytics.",
   "homepage": "https://www.sairyo.live",
   "docs": "https://www.sairyo.live",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sairyo": {

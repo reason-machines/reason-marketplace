@@ -4,6 +4,7 @@
   "description": "Create and edit videos with AI.",
   "homepage": "https://tella.com",
   "docs": "https://tella.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tella": {

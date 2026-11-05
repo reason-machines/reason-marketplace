@@ -4,6 +4,7 @@
   "description": "Find UAE jobs.",
   "homepage": "https://jobsdxb.com",
   "docs": "https://jobsdxb.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jobsdxb-com": {

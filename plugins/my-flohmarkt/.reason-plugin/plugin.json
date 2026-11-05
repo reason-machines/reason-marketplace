@@ -4,6 +4,7 @@
   "description": "Find flea markets in Germany.",
   "homepage": "https://my-flohmarkt.de/",
   "docs": "https://my-flohmarkt.de/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "my-flohmarkt": {

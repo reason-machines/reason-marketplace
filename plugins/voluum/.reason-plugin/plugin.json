@@ -4,6 +4,7 @@
   "description": "Manage ad tracking.",
   "homepage": "https://voluum.com",
   "docs": "https://voluum.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voluum": {

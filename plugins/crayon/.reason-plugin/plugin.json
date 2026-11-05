@@ -4,6 +4,7 @@
   "description": "Real-time competitive intel.",
   "homepage": "https://crayon.co",
   "docs": "https://crayon.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "crayon": {

@@ -4,6 +4,7 @@
   "description": "SEO, AI citation, CRO, leaks.",
   "homepage": "https://tools.openkrill.app/",
   "docs": "https://tools.openkrill.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "site-check": {

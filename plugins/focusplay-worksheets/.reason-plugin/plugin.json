@@ -4,6 +4,7 @@
   "description": "Printable K–8 activities.",
   "homepage": "https://focusplay.ai/worksheets",
   "docs": "https://focusplay.ai/worksheets",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "focusplay-worksheets": {

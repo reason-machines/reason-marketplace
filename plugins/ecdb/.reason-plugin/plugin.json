@@ -4,6 +4,7 @@
   "description": "Use ECDB in Reason.",
   "homepage": "https://ecdb.com",
   "docs": "https://ecdb.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ecdb": {

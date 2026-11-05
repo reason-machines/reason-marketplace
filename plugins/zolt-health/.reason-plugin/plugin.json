@@ -4,6 +4,7 @@
   "description": "Nutrition and adaptive TDEE.",
   "homepage": "https://www.zolthealth.com",
   "docs": "https://www.zolthealth.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zolt-health": {

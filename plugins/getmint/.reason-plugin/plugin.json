@@ -4,6 +4,7 @@
   "description": "Track your brand in AI answers.",
   "homepage": "https://getmint.ai",
   "docs": "https://getmint.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getmint": {

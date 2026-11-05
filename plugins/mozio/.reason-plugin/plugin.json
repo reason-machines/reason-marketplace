@@ -4,6 +4,7 @@
   "description": "Airport transfers worldwide.",
   "homepage": "https://mozio.com",
   "docs": "https://mozio.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mozio": {

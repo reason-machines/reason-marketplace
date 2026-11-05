@@ -4,6 +4,7 @@
   "description": "Spot risk. Keep members.",
   "homepage": "https://retention.recovr.com/mcp",
   "docs": "https://retention.recovr.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "recovr-retention": {

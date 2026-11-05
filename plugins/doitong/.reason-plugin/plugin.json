@@ -4,6 +4,7 @@
   "description": "Make AI videos and films.",
   "homepage": "https://doitong.com",
   "docs": "https://doitong.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "doitong": {

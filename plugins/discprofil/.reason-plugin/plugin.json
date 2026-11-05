@@ -4,6 +4,7 @@
   "description": "disc kişilik envanteri.",
   "homepage": "https://discprofil.com.tr/",
   "docs": "https://discprofil.com.tr/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "discprofil": {

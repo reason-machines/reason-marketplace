@@ -4,6 +4,7 @@
   "description": "Create and refine AI websites.",
   "homepage": "https://readdy.ai",
   "docs": "https://readdy.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "readdy": {

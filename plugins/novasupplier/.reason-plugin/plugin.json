@@ -4,6 +4,7 @@
   "description": "Portuguese clothing factories.",
   "homepage": "https://www.novasupplier.com/",
   "docs": "https://www.novasupplier.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "novasupplier": {

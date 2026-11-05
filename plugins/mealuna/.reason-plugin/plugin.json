@@ -4,6 +4,7 @@
   "description": "Pantry, lists, meals, recipes.",
   "homepage": "https://mealuna.eu",
   "docs": "https://mealuna.eu",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mealuna": {

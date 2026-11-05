@@ -4,6 +4,7 @@
   "description": "Discover verified startups.",
   "homepage": "https://trustmrr.com",
   "docs": "https://trustmrr.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trustmrr": {

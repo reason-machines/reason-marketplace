@@ -4,6 +4,7 @@
   "description": "Interactive product demos.",
   "homepage": "https://rendemo.com",
   "docs": "https://rendemo.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rendemo": {

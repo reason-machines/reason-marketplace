@@ -4,6 +4,7 @@
   "description": "Social media scheduling.",
   "homepage": "https://hogmatix.com",
   "docs": "https://hogmatix.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hogmatix": {

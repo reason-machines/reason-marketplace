@@ -4,6 +4,7 @@
   "description": "See where every lead came from.",
   "homepage": "https://www.leadrecorder.com/",
   "docs": "https://www.leadrecorder.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lead-recorder": {

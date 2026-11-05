@@ -4,6 +4,7 @@
   "description": "Practice SQL interactively.",
   "homepage": "https://querycraftsql.app/",
   "docs": "https://querycraftsql.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "querycraft-sql-coach": {

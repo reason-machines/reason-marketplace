@@ -4,6 +4,7 @@
   "description": "Give Reason your context.",
   "homepage": "https://www.remly.it",
   "docs": "https://www.remly.it",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "remly": {

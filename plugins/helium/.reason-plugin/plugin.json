@@ -4,6 +4,7 @@
   "description": "Your semester, from syllabi.",
   "homepage": "https://www.heliumedu.com/",
   "docs": "https://www.heliumedu.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "helium": {

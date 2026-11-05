@@ -4,6 +4,7 @@
   "description": "Design app UI, icons, logos.",
   "homepage": "https://svglab.app/mcp-server",
   "docs": "https://svglab.app/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "svglab": {

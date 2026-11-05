@@ -4,6 +4,7 @@
   "description": "Ready-to-use APIs in one place.",
   "homepage": "https://upapi.io/",
   "docs": "https://upapi.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "upapi": {

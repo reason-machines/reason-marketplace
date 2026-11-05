@@ -4,6 +4,7 @@
   "description": "Your saved posts as lists.",
   "homepage": "https://stashme.ru",
   "docs": "https://stashme.ru",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stashme": {

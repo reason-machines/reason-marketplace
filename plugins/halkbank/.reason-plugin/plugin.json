@@ -4,6 +4,7 @@
   "description": "Banking Products and Services.",
   "homepage": "https://www.halkbank.com.tr/",
   "docs": "https://tedix.dev/apps/halkbank/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "halkbank": {

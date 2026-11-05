@@ -4,6 +4,7 @@
   "description": "Search your conversations.",
   "homepage": "https://mori.to/",
   "docs": "https://mori.to/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mori": {

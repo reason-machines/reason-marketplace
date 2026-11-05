@@ -4,6 +4,7 @@
   "description": "Prioritize event prospects.",
   "homepage": "https://eventmatch.ai",
   "docs": "https://eventmatch.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "eventmatch": {

@@ -4,6 +4,7 @@
   "description": "Run Amazon wholesale ops.",
   "homepage": "https://www.sellerassistant.app",
   "docs": "https://www.sellerassistant.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seller-assistant": {

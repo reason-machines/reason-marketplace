@@ -4,6 +4,7 @@
   "description": "Read and analyse company data.",
   "homepage": "https://www.worke.cz",
   "docs": "https://www.worke.cz",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "worke": {

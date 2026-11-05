@@ -4,6 +4,7 @@
   "description": "Find luxury car services.",
   "homepage": "https://limodia.com/",
   "docs": "https://limodia.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "limodia": {

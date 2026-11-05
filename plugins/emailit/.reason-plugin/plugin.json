@@ -4,6 +4,7 @@
   "description": "Send email and run campaigns.",
   "homepage": "https://emailit.com",
   "docs": "https://emailit.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "emailit": {

@@ -4,6 +4,7 @@
   "description": "Run your barn from chat.",
   "homepage": "https://1barn.com",
   "docs": "https://1barn.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "onebarn": {

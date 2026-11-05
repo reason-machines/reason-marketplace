@@ -4,6 +4,7 @@
   "description": "Check brand names and logos.",
   "homepage": "https://trademarkmind.com",
   "docs": "https://trademarkmind.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trademarkmind": {

@@ -4,6 +4,7 @@
   "description": "Warhammer 40K army builder.",
   "homepage": "https://praetorium.gg",
   "docs": "https://praetorium.gg",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "praetorium": {

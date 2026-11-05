@@ -4,6 +4,7 @@
   "description": "Save recipes, plan meals, cook.",
   "homepage": "https://dillr.ai",
   "docs": "https://dillr.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dillr": {

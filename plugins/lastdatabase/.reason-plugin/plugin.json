@@ -4,6 +4,7 @@
   "description": "Find verified B2B contacts.",
   "homepage": "https://lastdatabase.com",
   "docs": "https://lastdatabase.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lastdatabase": {

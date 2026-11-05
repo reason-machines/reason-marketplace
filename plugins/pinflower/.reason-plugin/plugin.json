@@ -4,6 +4,7 @@
   "description": "Flower delivery in Prague.",
   "homepage": "https://pinflower.cz",
   "docs": "https://pinflower.cz/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pinflower": {

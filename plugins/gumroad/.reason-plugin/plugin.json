@@ -4,6 +4,7 @@
   "description": "Manage your Gumroad store.",
   "homepage": "https://gumroad.com",
   "docs": "https://gumroad.com/.well-known/mcp.json",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gumroad": {

@@ -4,6 +4,7 @@
   "description": "Find teaching and school jobs.",
   "homepage": "https://edujobs.org",
   "docs": "https://edujobs.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "edujobs": {

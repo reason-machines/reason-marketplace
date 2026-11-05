@@ -4,6 +4,7 @@
   "description": "Check if a website is up.",
   "homepage": "https://site-status.zovo.one",
   "docs": "https://site-status.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "site-status": {

@@ -4,6 +4,7 @@
   "description": "YouTube outliers & research.",
   "homepage": "https://www.tubegrade.com/",
   "docs": "https://www.tubegrade.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tubegrade": {

@@ -4,6 +4,7 @@
   "description": "Live jobs from verified ATS.",
   "homepage": "https://jobs.guaqai.me",
   "docs": "https://jobs.guaqai.me/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "employed": {

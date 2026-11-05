@@ -4,6 +4,7 @@
   "description": "Find Zumba classes.",
   "homepage": "https://www.zumba.com",
   "docs": "https://www.zumba.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "zumba": {

@@ -4,6 +4,7 @@
   "description": "Track and export expenses.",
   "homepage": "https://expenseagent.reviewbit.app/",
   "docs": "https://expenseagent.reviewbit.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "expense-agent": {

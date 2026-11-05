@@ -4,6 +4,7 @@
   "description": "Your fishing companion.",
   "homepage": "https://www.fishfriender.com",
   "docs": "https://fishfriender.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fishfriender": {

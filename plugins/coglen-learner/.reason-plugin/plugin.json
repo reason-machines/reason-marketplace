@@ -4,6 +4,7 @@
   "description": "Know what to practise next.",
   "homepage": "https://coglen.ai",
   "docs": "https://coglen.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coglen-learner": {

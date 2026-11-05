@@ -4,6 +4,7 @@
   "description": "Your travel assistant.",
   "homepage": "https://fridey-travel.com",
   "docs": "https://fridey-travel.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fridey": {

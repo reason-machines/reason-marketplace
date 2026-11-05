@@ -4,6 +4,7 @@
   "description": "Bankruptcy data & research.",
   "homepage": "https://elevenflo.com",
   "docs": "https://elevenflo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "elevenflo": {

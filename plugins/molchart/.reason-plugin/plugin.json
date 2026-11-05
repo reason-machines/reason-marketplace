@@ -4,6 +4,7 @@
   "description": "Draw molecular structures.",
   "homepage": "https://molchart.com",
   "docs": "https://molchart.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "molchart": {

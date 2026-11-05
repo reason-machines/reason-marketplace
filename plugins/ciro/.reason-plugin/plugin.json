@@ -4,6 +4,7 @@
   "description": "Sell-out and stock analytics.",
   "homepage": "https://heyciro.com",
   "docs": "https://heyciro.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ciro": {

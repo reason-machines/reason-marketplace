@@ -4,6 +4,7 @@
   "description": "Read API integration docs.",
   "homepage": "https://nowyourlink.com/developers",
   "docs": "https://nowyourlink.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nowyourlink-developer-docs": {

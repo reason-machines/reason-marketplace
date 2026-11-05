@@ -4,6 +4,7 @@
   "description": "Personalized PDFs from a sheet.",
   "homepage": "https://mail-merge.zovo.one",
   "docs": "https://mail-merge.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mail-merge": {

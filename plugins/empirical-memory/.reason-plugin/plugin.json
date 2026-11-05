@@ -4,6 +4,7 @@
   "description": "Memory across your AI tools.",
   "homepage": "https://empirical.gauzza.com",
   "docs": "https://empirical.gauzza.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "empirical-memory": {

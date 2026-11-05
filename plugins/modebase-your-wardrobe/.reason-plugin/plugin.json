@@ -4,6 +4,7 @@
   "description": "Outfits from your own clothes.",
   "homepage": "https://www.modebase.co",
   "docs": "https://modebase.co/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "modebase-your-wardrobe": {

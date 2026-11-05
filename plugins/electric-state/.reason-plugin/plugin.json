@@ -4,6 +4,7 @@
   "description": "Festival set times & bookings.",
   "homepage": "https://www.electricstate.app",
   "docs": "https://electricstate.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "electric-state": {

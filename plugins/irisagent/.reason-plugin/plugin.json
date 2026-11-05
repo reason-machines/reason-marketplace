@@ -4,6 +4,7 @@
   "description": "Ask about your support data.",
   "homepage": "https://irisagent.com",
   "docs": "https://irisagent.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "irisagent": {

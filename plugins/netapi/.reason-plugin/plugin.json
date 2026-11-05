@@ -4,6 +4,7 @@
   "description": "Registered domain lists.",
   "homepage": "https://netapi.com/",
   "docs": "https://netapi.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "netapi": {

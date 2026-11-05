@@ -4,6 +4,7 @@
   "description": "Coach workspace actions.",
   "homepage": "https://www.ekklo.com/fr/mcp",
   "docs": "https://www.ekklo.com/fr/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ekklo": {

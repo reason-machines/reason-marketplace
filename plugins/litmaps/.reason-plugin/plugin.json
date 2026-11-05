@@ -4,6 +4,7 @@
   "description": "Find and map research papers.",
   "homepage": "https://www.litmaps.com",
   "docs": "https://www.litmaps.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "litmaps": {

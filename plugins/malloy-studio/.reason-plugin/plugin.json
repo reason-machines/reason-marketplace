@@ -4,6 +4,7 @@
   "description": "Generate motion graphics.",
   "homepage": "https://malloy.sg",
   "docs": "https://www.malloystudio.ai/mcp-installation",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "malloy-studio": {

@@ -4,6 +4,7 @@
   "description": "Manage vacation rentals.",
   "homepage": "https://www.hosthelperai.com",
   "docs": "https://www.hosthelperai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "host-helper": {

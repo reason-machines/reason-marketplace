@@ -4,6 +4,7 @@
   "description": "Flashcards & spaced repetition.",
   "homepage": "https://liucards.app",
   "docs": "https://liucards.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "liu-cards": {

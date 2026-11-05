@@ -4,6 +4,7 @@
   "description": "Research federal contracts.",
   "homepage": "https://govgazette.com",
   "docs": "https://govgazette.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "govgazette": {

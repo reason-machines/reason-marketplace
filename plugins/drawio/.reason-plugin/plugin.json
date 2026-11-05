@@ -4,6 +4,7 @@
   "description": "Create editable diagrams.",
   "homepage": "https://www.drawio.com",
   "docs": "https://www.drawio.com/mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "drawio": {

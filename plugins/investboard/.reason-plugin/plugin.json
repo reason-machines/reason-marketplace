@@ -4,6 +4,7 @@
   "description": "Second brain for investing.",
   "homepage": "https://investboard.com",
   "docs": "https://investboard.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "investboard": {

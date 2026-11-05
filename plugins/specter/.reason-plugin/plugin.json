@@ -4,6 +4,7 @@
   "description": "B2B data for deal sourcing.",
   "homepage": "https://tryspecter.com/",
   "docs": "https://tryspecter.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "specter": {

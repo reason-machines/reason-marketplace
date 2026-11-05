@@ -4,6 +4,7 @@
   "description": "Molecular similarity search.",
   "homepage": "https://deepmedchem.com",
   "docs": "https://deepmedchem.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "deepmedchem": {

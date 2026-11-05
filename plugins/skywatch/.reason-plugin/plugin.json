@@ -4,6 +4,7 @@
   "description": "Search satellite imagery data.",
   "homepage": "https://skywatch.com",
   "docs": "https://skywatch.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "skywatch": {

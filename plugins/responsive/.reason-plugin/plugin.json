@@ -4,6 +4,7 @@
   "description": "Responsive workflows.",
   "homepage": "https://www.responsive.io",
   "docs": "https://developer.responsive.io/docs/responsive-api/6ced7e2abad31-connecting-to-responsive-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "responsive": {

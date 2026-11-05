@@ -4,6 +4,7 @@
   "description": "Send/automate SMS & WhatsApp.",
   "homepage": "https://www.telerivet.com/",
   "docs": "https://telerivet.com/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "telerivet": {

@@ -4,6 +4,7 @@
   "description": "Create images and videos.",
   "homepage": "https://openart.ai/home",
   "docs": "https://openart.ai/home",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openart": {

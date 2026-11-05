@@ -4,6 +4,7 @@
   "description": "A podcast just for you.",
   "homepage": "https://withpotion.io",
   "docs": "https://withpotion.io/start/claude?v=root",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "potion": {

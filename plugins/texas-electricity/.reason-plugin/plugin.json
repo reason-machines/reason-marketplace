@@ -4,6 +4,7 @@
   "description": "Compare plans using real usage.",
   "homepage": "https://meterplan.com",
   "docs": "https://meterplan.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "texas-electricity": {

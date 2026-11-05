@@ -4,6 +4,7 @@
   "description": "Substack, Medium & social.",
   "homepage": "https://www.narrareach.com",
   "docs": "https://www.narrareach.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "narrareach": {

@@ -4,6 +4,7 @@
   "description": "3PL Warehousing Marketplace.",
   "homepage": "https://www.warematch.com/",
   "docs": "https://www.warematch.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "warematch": {

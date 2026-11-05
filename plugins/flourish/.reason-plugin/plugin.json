@@ -4,6 +4,7 @@
   "description": "Create interactive charts.",
   "homepage": "https://flourish.studio/",
   "docs": "https://app.flourish.studio/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flourish": {

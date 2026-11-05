@@ -4,6 +4,7 @@
   "description": "Verify. Visualize. Understand.",
   "homepage": "https://notsoboringnews.com",
   "docs": "https://notsoboringnews.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "not-so-boring-news": {

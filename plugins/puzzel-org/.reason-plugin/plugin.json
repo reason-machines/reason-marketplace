@@ -4,6 +4,7 @@
   "description": "Interactive puzzle maker.",
   "homepage": "https://puzzel.org/en/features/ai-assistant-connector",
   "docs": "https://puzzel.org/en/features/ai-assistant-connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "puzzel-org": {

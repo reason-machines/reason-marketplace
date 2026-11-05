@@ -4,6 +4,7 @@
   "description": "Whisper Transcription.",
   "homepage": "https://whispertranscribe.ai/",
   "docs": "https://whispertranscribe.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whisper-transcribe-ai": {

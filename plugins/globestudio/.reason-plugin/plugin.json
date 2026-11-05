@@ -4,6 +4,7 @@
   "description": "Dotted maps and 3D globes.",
   "homepage": "https://globestudio.app",
   "docs": "https://globestudio.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "globestudio": {

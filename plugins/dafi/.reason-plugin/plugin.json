@@ -4,6 +4,7 @@
   "description": "Study with your DAFi notes.",
   "homepage": "https://dafi-ai.com/en",
   "docs": "https://dafi-ai.com/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dafi": {

@@ -4,6 +4,7 @@
   "description": "Transcribe videos and audio.",
   "homepage": "https://transcriptx.ai/connectors/",
   "docs": "https://transcriptx.ai/connectors/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "transcriptx": {

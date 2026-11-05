@@ -4,6 +4,7 @@
   "description": "Find and manage events.",
   "homepage": "https://luma.com",
   "docs": "https://luma.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "luma": {

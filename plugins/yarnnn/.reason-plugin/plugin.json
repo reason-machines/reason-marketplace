@@ -4,6 +4,7 @@
   "description": "Save, find and share your work.",
   "homepage": "https://www.yarnnn.com",
   "docs": "https://www.yarnnn.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yarnnn": {

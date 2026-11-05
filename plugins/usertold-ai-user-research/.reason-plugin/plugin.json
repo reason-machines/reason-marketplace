@@ -4,6 +4,7 @@
   "description": "User interviews & UX testing.",
   "homepage": "https://usertold.ai",
   "docs": "https://usertold.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "usertold-ai-user-research": {

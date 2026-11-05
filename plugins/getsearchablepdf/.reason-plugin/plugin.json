@@ -4,6 +4,7 @@
   "description": "Make scans searchable with OCR.",
   "homepage": "https://getsearchablepdf.com",
   "docs": "https://getsearchablepdf.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getsearchablepdf": {

@@ -4,6 +4,7 @@
   "description": "Social workspace.",
   "homepage": "https://youanai.com",
   "docs": "https://youanai.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "youanai": {

@@ -4,6 +4,7 @@
   "description": "Track spending and budgets.",
   "homepage": "https://zeniflow.app",
   "docs": "https://zeniflow.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zeniflow": {

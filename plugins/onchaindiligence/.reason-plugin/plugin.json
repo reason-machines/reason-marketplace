@@ -4,6 +4,7 @@
   "description": "Inspect and verify payments.",
   "homepage": "https://onchaindiligence.com",
   "docs": "https://onchaindiligence.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "onchaindiligence": {

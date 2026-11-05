@@ -4,6 +4,7 @@
   "description": "AI financial calculators.",
   "homepage": "https://calculators.mamblellc.com",
   "docs": "https://tedix.dev/apps/mamble-calculators/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mamble-calculators": {

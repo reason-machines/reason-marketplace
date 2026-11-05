@@ -4,6 +4,7 @@
   "description": "AI product videos & photos.",
   "homepage": "https://www.gotolstoy.com",
   "docs": "https://gotolstoy.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tolstoy": {

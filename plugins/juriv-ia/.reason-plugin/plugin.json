@@ -4,6 +4,7 @@
   "description": "Assistant juridique français.",
   "homepage": "https://jurivia.fr",
   "docs": "https://jurivia.fr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "juriv-ia": {

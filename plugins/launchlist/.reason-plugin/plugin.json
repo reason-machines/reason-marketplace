@@ -4,6 +4,7 @@
   "description": "Test an idea with a waitlist.",
   "homepage": "https://getlaunchlist.com",
   "docs": "https://getlaunchlist.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "launchlist": {

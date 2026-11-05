@@ -4,6 +4,7 @@
   "description": "Book clients, get paid.",
   "homepage": "https://www.honeybook.com/",
   "docs": "https://www.honeybook.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "honeybook": {

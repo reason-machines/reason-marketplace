@@ -4,6 +4,7 @@
   "description": "Make audiobooks from text.",
   "homepage": "https://moknah.io",
   "docs": "https://moknah.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "moknah": {

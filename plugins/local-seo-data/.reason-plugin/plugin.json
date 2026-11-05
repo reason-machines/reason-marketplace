@@ -4,6 +4,7 @@
   "description": "Local SEO rankings & reviews.",
   "homepage": "https://localseodata.com",
   "docs": "https://localseodata.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "local-seo-data": {

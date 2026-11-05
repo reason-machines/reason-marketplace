@@ -4,6 +4,7 @@
   "description": "Search recordings and notes.",
   "homepage": "https://notoscribe.com",
   "docs": "https://notoscribe.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notoscribe": {

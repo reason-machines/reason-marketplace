@@ -4,6 +4,7 @@
   "description": "Brazilian case law research.",
   "homepage": "https://jurisprudencias.ai",
   "docs": "https://jurisprudencias.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jurisprudencias-research": {

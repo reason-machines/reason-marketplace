@@ -4,6 +4,7 @@
   "description": "Takeoffs, pricing and bids.",
   "homepage": "https://exayard.com",
   "docs": "https://exayard.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "exayard": {

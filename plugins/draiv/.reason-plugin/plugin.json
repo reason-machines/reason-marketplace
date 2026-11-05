@@ -4,6 +4,7 @@
   "description": "Rent a car in Zurich.",
   "homepage": "https://draiv.ch",
   "docs": "https://draiv.ch",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "draiv": {

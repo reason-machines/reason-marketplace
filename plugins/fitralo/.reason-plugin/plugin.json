@@ -4,6 +4,7 @@
   "description": "Find European road carriers.",
   "homepage": "https://fitralo.com",
   "docs": "https://fitralo.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fitralo": {

@@ -4,6 +4,7 @@
   "description": "Autobuild deterministic agents.",
   "homepage": "https://getsupers.com/",
   "docs": "https://getsupers.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "super": {

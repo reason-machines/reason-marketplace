@@ -4,6 +4,7 @@
   "description": "Walkability scores anywhere.",
   "homepage": "https://howwalkable.com",
   "docs": "https://howwalkable.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "how-walkable": {

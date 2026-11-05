@@ -4,6 +4,7 @@
   "description": "Capture lists, to-dos & notes.",
   "homepage": "https://www.WriteThingsDown.com",
   "docs": "https://www.WriteThingsDown.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "newtwos": {

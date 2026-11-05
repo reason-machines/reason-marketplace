@@ -4,6 +4,7 @@
   "description": "Identify any phone by its IMEI.",
   "homepage": "https://kelpom.fr",
   "docs": "https://kelpom.fr/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "imei-checker-by-kelpom": {

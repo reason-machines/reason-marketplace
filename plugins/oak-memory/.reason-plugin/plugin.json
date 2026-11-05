@@ -4,6 +4,7 @@
   "description": "Private memory for your AI.",
   "homepage": "https://www.openaikits.com",
   "docs": "https://openaikits.com/docs/claude-desktop",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "oak-memory": {

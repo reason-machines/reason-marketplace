@@ -4,6 +4,7 @@
   "description": "Find unclaimed money.",
   "homepage": "https://findmymoney.pages.dev",
   "docs": "https://findmymoney.pages.dev/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "find-my-money": {

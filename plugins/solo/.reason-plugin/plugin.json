@@ -4,6 +4,7 @@
   "description": "A SoloMail address in Reason.",
   "homepage": "https://solomail.io",
   "docs": "https://solomail.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "solo": {

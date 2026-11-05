@@ -4,6 +4,7 @@
   "description": "Find anyone on Telegram.",
   "homepage": "https://www.telegram-finder.io",
   "docs": "https://www.telegram-finder.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tg-finder": {

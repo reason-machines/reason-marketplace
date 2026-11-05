@@ -4,6 +4,7 @@
   "description": "Plan renewal notice dates.",
   "homepage": "https://renewalclock-mcp.sunrysetech.com/",
   "docs": "https://renewalclock-mcp.sunrysetech.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "renewalclock": {

@@ -4,6 +4,7 @@
   "description": "New-hire apartment relocation.",
   "homepage": "https://homebaseservices.com",
   "docs": "https://homebaseservices.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "homebase-services": {

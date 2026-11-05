@@ -4,6 +4,7 @@
   "description": "Find and manage Egnyte files.",
   "homepage": "https://www.egnyte.com",
   "docs": "https://developers.egnyte.com/integration/cfs/api-docs/remote-mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "egnyte": {

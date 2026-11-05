@@ -4,6 +4,7 @@
   "description": "Print-on-demand design help.",
   "homepage": "https://goldie-app-sigma.vercel.app",
   "docs": "https://goldie-app-sigma.vercel.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "goldie": {

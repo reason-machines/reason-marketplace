@@ -4,6 +4,7 @@
   "description": "Act on customer feedback.",
   "homepage": "https://userback.io",
   "docs": "https://userback.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "userback": {

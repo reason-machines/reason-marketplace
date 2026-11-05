@@ -4,6 +4,7 @@
   "description": "Find venues and plan tours.",
   "homepage": "https://tourbuddy.co",
   "docs": "https://tourbuddy.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tour-buddy": {

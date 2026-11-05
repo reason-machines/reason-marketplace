@@ -4,6 +4,7 @@
   "description": "DIY cosmetics & soap supplies.",
   "homepage": "https://www.handymade.store",
   "docs": "https://www.handymade.store",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "handymade": {

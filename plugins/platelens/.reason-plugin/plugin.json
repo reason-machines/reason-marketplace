@@ -4,6 +4,7 @@
   "description": "PlateLens AI calorie insights.",
   "homepage": "https://platelens.app/",
   "docs": "https://platelens.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "platelens": {

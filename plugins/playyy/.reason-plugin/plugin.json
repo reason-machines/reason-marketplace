@@ -4,6 +4,7 @@
   "description": "Designs, slides and websites.",
   "homepage": "https://playyy.ai",
   "docs": "https://playyy.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "playyy": {

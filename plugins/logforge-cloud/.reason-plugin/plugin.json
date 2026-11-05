@@ -4,6 +4,7 @@
   "description": "App logging and debugging.",
   "homepage": "https://www.logforge.dev/",
   "docs": "https://www.logforge.dev/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "logforge-cloud": {

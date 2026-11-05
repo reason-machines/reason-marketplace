@@ -4,6 +4,7 @@
   "description": "Workouts, meals, and progress.",
   "homepage": "https://www.getheliosapp.com/",
   "docs": "https://www.getheliosapp.com/docs/mcp-tools/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "helios": {

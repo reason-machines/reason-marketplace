@@ -4,6 +4,7 @@
   "description": "Screenplays, images & videos.",
   "homepage": "https://app.gilm.ai",
   "docs": "https://app.gilm.ai/help",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gilmos": {

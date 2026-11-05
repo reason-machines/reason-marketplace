@@ -4,6 +4,7 @@
   "description": "Your everyday context.",
   "homepage": "https://lifelinks.vmosaic.com/",
   "docs": "https://lifelinks.vmosaic.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lifelinks": {

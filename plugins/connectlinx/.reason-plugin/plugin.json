@@ -4,6 +4,7 @@
   "description": "Run your real estate business.",
   "homepage": "https://www.connectlinx.com",
   "docs": "https://connectlinx.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "connectlinx": {

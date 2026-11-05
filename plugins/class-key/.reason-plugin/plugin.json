@@ -4,6 +4,7 @@
   "description": "先生のプロンプトを、コードひとつで生徒へ.",
   "homepage": "https://ai-eigo-lab.com/classkey/",
   "docs": "https://ai-eigo-lab.com/classkey/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "class-key": {

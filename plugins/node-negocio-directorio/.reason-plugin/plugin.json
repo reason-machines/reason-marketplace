@@ -4,6 +4,7 @@
   "description": "Inventory, sales and balances.",
   "homepage": "https://www.allinnode.com/conexion",
   "docs": "https://app.allinnode.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "node-negocio-directorio": {

@@ -4,6 +4,7 @@
   "description": "Warehouse, analytics, charts.",
   "homepage": "https://embrasure.ai",
   "docs": "https://embrasure.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "embrasure": {

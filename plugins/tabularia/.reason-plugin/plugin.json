@@ -4,6 +4,7 @@
   "description": "Read and revise your book.",
   "homepage": "https://tabularia.app",
   "docs": "https://tabularia.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tabularia": {

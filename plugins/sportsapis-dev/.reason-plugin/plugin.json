@@ -4,6 +4,7 @@
   "description": "Find sports data & odds APIs.",
   "homepage": "https://sportsapis.dev",
   "docs": "https://sportsapis.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sportsapis-dev": {

@@ -4,6 +4,7 @@
   "description": "Find Airbnbs for sale and more.",
   "homepage": "https://rabbu.com",
   "docs": "https://rabbu.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rabbu": {

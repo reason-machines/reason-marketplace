@@ -4,6 +4,7 @@
   "description": "Private equity data for Poland.",
   "homepage": "https://momentumterminal.pl",
   "docs": "https://momentumterminal.pl/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "momentum": {

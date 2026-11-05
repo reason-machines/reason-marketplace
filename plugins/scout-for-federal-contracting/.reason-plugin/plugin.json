@@ -4,6 +4,7 @@
   "description": "Federal contracting intel.",
   "homepage": "https://primerfp.com",
   "docs": "https://primerfp.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scout-for-federal-contracting": {

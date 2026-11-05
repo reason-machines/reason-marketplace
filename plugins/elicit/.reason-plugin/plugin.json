@@ -4,6 +4,7 @@
   "description": "Search scientific literature.",
   "homepage": "https://elicit.com",
   "docs": "https://docs.elicit.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "elicit": {

@@ -4,6 +4,7 @@
   "description": "Create and edit presentations.",
   "homepage": "https://gpt.space/slides/chatgpt-presentation-maker",
   "docs": "https://gpt.space/slides/chatgpt-presentation-maker",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "slides-ai": {

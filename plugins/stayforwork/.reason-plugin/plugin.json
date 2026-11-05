@@ -4,6 +4,7 @@
   "description": "Extended stays for work travel.",
   "homepage": "https://www.stayforwork.com",
   "docs": "https://www.stayforwork.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stayforwork": {

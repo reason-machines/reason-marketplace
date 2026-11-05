@@ -4,6 +4,7 @@
   "description": "Pull analytics & draft emails.",
   "homepage": "https://useworkshop.com/features/mcp-server/",
   "docs": "https://useworkshop.com/features/mcp-server/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "workshop": {

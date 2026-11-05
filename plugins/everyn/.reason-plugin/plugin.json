@@ -4,6 +4,7 @@
   "description": "Enrich datasets.",
   "homepage": "https://www.everyn.ai/",
   "docs": "https://www.everyn.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "everyn": {

@@ -4,6 +4,7 @@
   "description": "AI that presents your content.",
   "homepage": "https://mylens.ai",
   "docs": "https://mylens.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mylens": {

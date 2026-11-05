@@ -4,6 +4,7 @@
   "description": "Hosted multilingual websites.",
   "homepage": "https://www.croisa.com",
   "docs": "https://www.croisa.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "croisa": {

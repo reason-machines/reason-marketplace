@@ -4,6 +4,7 @@
   "description": "movie watchlists, with friends.",
   "homepage": "https://moviegroupies.app/",
   "docs": "https://moviegroupies.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "moviegroupies": {

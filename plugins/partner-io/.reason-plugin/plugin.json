@@ -4,6 +4,7 @@
   "description": "Run your partner program.",
   "homepage": "https://partner.io",
   "docs": "https://partner.io/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "partner-io": {

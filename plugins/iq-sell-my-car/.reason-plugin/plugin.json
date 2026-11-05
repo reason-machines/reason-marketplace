@@ -4,6 +4,7 @@
   "description": "Value and sell your car.",
   "homepage": "https://iqautodeals.com",
   "docs": "https://iqautodeals.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "iq-sell-my-car": {

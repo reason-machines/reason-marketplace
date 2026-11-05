@@ -4,6 +4,7 @@
   "description": "Run outreach flows and tasks.",
   "homepage": "https://www.firsttouch.com/",
   "docs": "https://www.firsttouch.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "firsttouch": {

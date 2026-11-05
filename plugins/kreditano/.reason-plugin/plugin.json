@@ -4,6 +4,7 @@
   "description": "Romanian loan cost scenarios.",
   "homepage": "https://kreditano.ro",
   "docs": "https://kreditano.ro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kreditano": {

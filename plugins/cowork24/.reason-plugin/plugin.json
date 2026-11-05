@@ -4,6 +4,7 @@
   "description": "Discover and find workspaces.",
   "homepage": "https://cowork24.ch",
   "docs": "https://cowork24.ch",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cowork24": {

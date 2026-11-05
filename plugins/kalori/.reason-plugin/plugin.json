@@ -4,6 +4,7 @@
   "description": "Nutrition for 490+ JP chains.",
   "homepage": "https://kalori.jp",
   "docs": "https://kalori.jp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kalori": {

@@ -4,6 +4,7 @@
   "description": "Read Public Guidance.",
   "homepage": "https://re-culture-public-guidance-mcp.reculture-independent.workers.dev/public-guidance/overview.en.html",
   "docs": "https://re-culture-public-guidance-mcp.reculture-independent.workers.dev/public-guidance/overview.en.html",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "re-culture-public-guidance": {

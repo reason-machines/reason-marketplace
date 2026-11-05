@@ -4,6 +4,7 @@
   "description": "Choose an automation pilot.",
   "homepage": "https://soxoa.com",
   "docs": "https://soxoa.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "soxoa": {

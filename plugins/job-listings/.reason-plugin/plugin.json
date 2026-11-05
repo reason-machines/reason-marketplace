@@ -4,6 +4,7 @@
   "description": "Find jobs by role and location.",
   "homepage": "https://www.applygateway.com",
   "docs": "https://www.applygateway.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "job-listings": {

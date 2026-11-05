@@ -4,6 +4,7 @@
   "description": "Luxury catalog in Reason.",
   "homepage": "https://fr.monnierparis.com/",
   "docs": "https://fr.monnierparis.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "monnier-paris": {

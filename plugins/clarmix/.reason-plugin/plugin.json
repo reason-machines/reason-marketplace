@@ -4,6 +4,7 @@
   "description": "Google Ads & Shopping insights.",
   "homepage": "https://clarmix.com/blog/claude-google-ads-shopping-ai-agent",
   "docs": "https://clarmix.com/blog/claude-google-ads-shopping-ai-agent",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clarmix": {

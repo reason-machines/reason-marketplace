@@ -4,6 +4,7 @@
   "description": "Your day and week in astrology.",
   "homepage": "https://theastrodiary.com",
   "docs": "https://theastrodiary.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the-astro-diary": {

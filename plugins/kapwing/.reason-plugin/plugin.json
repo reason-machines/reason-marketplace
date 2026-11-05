@@ -4,6 +4,7 @@
   "description": "Caption, translate & dub video.",
   "homepage": "https://www.kapwing.com/",
   "docs": "https://www.kapwing.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kapwing": {

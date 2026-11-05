@@ -4,6 +4,7 @@
   "description": "Organize volunteer signups.",
   "homepage": "https://thesignup.app",
   "docs": "https://thesignup.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "thesignup": {

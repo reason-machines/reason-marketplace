@@ -4,6 +4,7 @@
   "description": "Invitations and RSVP tracking.",
   "homepage": "https://www.lemonvite.com",
   "docs": "https://lemonvite.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lemonvite": {

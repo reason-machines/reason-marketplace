@@ -4,6 +4,7 @@
   "description": "510(k), MAUDE and part quotes.",
   "homepage": "https://10xand.com",
   "docs": "https://10xand.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "medtech-by-10xand": {

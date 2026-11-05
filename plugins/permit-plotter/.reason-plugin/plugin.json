@@ -4,6 +4,7 @@
   "description": "East End building permits.",
   "homepage": "https://permitplotter.com",
   "docs": "https://permitplotter.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "permit-plotter": {

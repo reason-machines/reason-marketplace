@@ -4,6 +4,7 @@
   "description": "Track billable time.",
   "homepage": "https://usetimebook.com",
   "docs": "https://usetimebook.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "timebook": {

@@ -4,6 +4,7 @@
   "description": "Find and buy home insurance.",
   "homepage": "https://nsure.com",
   "docs": "https://tedix.dev/apps/nsure-insurance-quotes/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nsure-insurance-quotes": {

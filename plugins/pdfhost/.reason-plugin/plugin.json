@@ -4,6 +4,7 @@
   "description": "Host and analyze PDFs.",
   "homepage": "https://pdfhost.se",
   "docs": "https://pdfhost.se",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pdfhost": {

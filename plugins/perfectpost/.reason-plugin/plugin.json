@@ -4,6 +4,7 @@
   "description": "LinkedIn stats and scheduling.",
   "homepage": "https://perfectpost.social",
   "docs": "https://perfectpost.social",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "perfectpost": {

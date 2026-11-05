@@ -4,6 +4,7 @@
   "description": "Query your device-trust data.",
   "homepage": "https://xfa.tech",
   "docs": "https://xfa.tech",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "xfa": {

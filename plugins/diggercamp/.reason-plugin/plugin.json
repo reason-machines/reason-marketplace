@@ -4,6 +4,7 @@
   "description": "Find similar music tracks.",
   "homepage": "https://diggercamp.com/",
   "docs": "https://diggercamp.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "diggercamp": {

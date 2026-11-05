@@ -4,6 +4,7 @@
   "description": "Plan and publish social posts.",
   "homepage": "https://vibeday.com",
   "docs": "https://vibeday.com/social-media-mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vibeday": {

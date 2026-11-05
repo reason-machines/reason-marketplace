@@ -4,6 +4,7 @@
   "description": "Real-estate dev intelligence.",
   "homepage": "https://iqland.ai",
   "docs": "https://iqland.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iqland": {

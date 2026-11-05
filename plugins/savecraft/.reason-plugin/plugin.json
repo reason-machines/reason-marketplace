@@ -4,6 +4,7 @@
   "description": "Analyze saves and coach builds.",
   "homepage": "https://savecraft.gg",
   "docs": "https://savecraft.gg",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "savecraft": {

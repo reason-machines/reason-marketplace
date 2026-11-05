@@ -4,6 +4,7 @@
   "description": "UK planning permission search.",
   "homepage": "https://plota.co.uk",
   "docs": "https://plota.co.uk/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "plota-planning-applications": {

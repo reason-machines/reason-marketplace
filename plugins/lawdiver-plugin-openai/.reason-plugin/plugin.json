@@ -4,6 +4,7 @@
   "description": "Search and verify U.S.",
   "homepage": "https://lawdiver.com/products/mcp",
   "docs": "https://lawdiver.com/products/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lawdiver-plugin-openai": {

@@ -4,6 +4,7 @@
   "description": "Triage errors in Slack.",
   "homepage": "https://superlog.sh/",
   "docs": "https://docs.superlog.sh/api-reference/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superlog": {

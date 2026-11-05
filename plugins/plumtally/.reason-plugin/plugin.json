@@ -4,6 +4,7 @@
   "description": "Meal-based grocery shopping.",
   "homepage": "https://plumtally.com",
   "docs": "https://plumtally.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "plumtally": {

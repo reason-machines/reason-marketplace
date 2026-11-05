@@ -4,6 +4,7 @@
   "description": "Build agents and automations.",
   "homepage": "https://codewords.ai/",
   "docs": "https://codewords.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "codewords": {

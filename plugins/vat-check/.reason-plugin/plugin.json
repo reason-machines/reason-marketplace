@@ -4,6 +4,7 @@
   "description": "EU VAT checks and dated logs.",
   "homepage": "https://vat-check.zovo.one",
   "docs": "https://vat-check.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vat-check": {

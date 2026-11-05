@@ -4,6 +4,7 @@
   "description": "File governance & audit trails.",
   "homepage": "https://www.rockhopper.co",
   "docs": "https://www.rockhopper.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rockhopper": {

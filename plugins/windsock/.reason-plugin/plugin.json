@@ -4,6 +4,7 @@
   "description": "Value and research aircraft.",
   "homepage": "https://windsock.ai/",
   "docs": "https://windsock.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "windsock": {

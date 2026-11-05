@@ -4,6 +4,7 @@
   "description": "Personal planning & execution.",
   "homepage": "https://herculean.chat",
   "docs": "https://herculean.chat",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "herculean": {

@@ -4,6 +4,7 @@
   "description": "Store and retrieve context.",
   "homepage": "https://opnctx.ai",
   "docs": "https://opnctx.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "open-context": {

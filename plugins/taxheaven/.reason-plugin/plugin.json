@@ -4,6 +4,7 @@
   "description": "Calculate UK tax & check MTD.",
   "homepage": "https://www.taxheaven.app/",
   "docs": "https://tedix.dev/apps/taxheaven/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "taxheaven": {

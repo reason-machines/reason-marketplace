@@ -4,6 +4,7 @@
   "description": "Term sheets for DSCR loans.",
   "homepage": "https://dominickprevete.com/instant-term-sheet",
   "docs": "https://dominickprevete.com/instant-term-sheet",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "instant-dscr-term-sheet": {

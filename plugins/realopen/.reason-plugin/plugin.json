@@ -4,6 +4,7 @@
   "description": "Buy a home with crypto.",
   "homepage": "https://realopen.com",
   "docs": "https://github.com/realopengroup/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "realopen": {

@@ -4,6 +4,7 @@
   "description": "Validate startup ideas.",
   "homepage": "https://ideakiller.app",
   "docs": "https://ideakiller.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ideakiller": {

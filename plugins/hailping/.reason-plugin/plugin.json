@@ -4,6 +4,7 @@
   "description": "Find recent US hail storms.",
   "homepage": "https://hailping.com",
   "docs": "https://hailping.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hailping": {

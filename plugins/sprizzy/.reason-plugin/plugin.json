@@ -4,6 +4,7 @@
   "description": "YouTube video promotion.",
   "homepage": "https://sprizzy.com/",
   "docs": "https://sprizzy.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sprizzy": {

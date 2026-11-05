@@ -4,6 +4,7 @@
   "description": "Know your payments better.",
   "homepage": "https://www.pinelabs.com/",
   "docs": "https://www.pinelabs.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pine-labs-payment-assistant": {

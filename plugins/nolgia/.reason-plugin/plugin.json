@@ -4,6 +4,7 @@
   "description": "Create images, video and audio.",
   "homepage": "https://nolgia.ai",
   "docs": "https://nolgia.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nolgia": {

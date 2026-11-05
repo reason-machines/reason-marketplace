@@ -4,6 +4,7 @@
   "description": "Discover theatre in your city.",
   "homepage": "https://www.todaytix.com",
   "docs": "https://www.todaytix.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "todaytix": {

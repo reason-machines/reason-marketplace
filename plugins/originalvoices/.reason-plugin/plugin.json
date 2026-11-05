@@ -4,6 +4,7 @@
   "description": "Get human insight on any topic.",
   "homepage": "https://originalvoices.ai",
   "docs": "https://originalvoices.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "originalvoices": {

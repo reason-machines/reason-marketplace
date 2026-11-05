@@ -4,6 +4,7 @@
   "description": "Websites for small businesses.",
   "homepage": "https://webzum.com",
   "docs": "https://webzum.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "webzum": {

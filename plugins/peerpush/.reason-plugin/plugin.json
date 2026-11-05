@@ -4,6 +4,7 @@
   "description": "Find & compare software tools.",
   "homepage": "https://peerpush.com",
   "docs": "https://peerpush.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "peerpush": {

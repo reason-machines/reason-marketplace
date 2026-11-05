@@ -4,6 +4,7 @@
   "description": "Run, bike & triathlon coach.",
   "homepage": "https://transition.fun",
   "docs": "https://transition.fun",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "transition-ai-coach": {

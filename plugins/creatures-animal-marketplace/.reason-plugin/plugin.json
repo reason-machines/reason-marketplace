@@ -4,6 +4,7 @@
   "description": "Animals, breeders and services.",
   "homepage": "https://creatures.com",
   "docs": "https://creatures.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "creatures-animal-marketplace": {

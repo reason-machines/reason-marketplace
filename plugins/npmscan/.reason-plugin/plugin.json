@@ -4,6 +4,7 @@
   "description": "npm package & vuln lookups.",
   "homepage": "https://npmscan.com/",
   "docs": "https://npmscan.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "npmscan": {

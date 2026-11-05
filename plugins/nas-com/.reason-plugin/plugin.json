@@ -4,6 +4,7 @@
   "description": "Nas.com builds your storefront.",
   "homepage": "https://nas.com",
   "docs": "https://nas.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nas-com": {

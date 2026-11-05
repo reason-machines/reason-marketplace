@@ -4,6 +4,7 @@
   "description": "Research companies & suppliers.",
   "homepage": "https://www.govintel.ai",
   "docs": "https://www.govintel.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "govintel": {

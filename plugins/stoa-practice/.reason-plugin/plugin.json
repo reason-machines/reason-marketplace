@@ -4,6 +4,7 @@
   "description": "Stoic meditations and lessons.",
   "homepage": "https://stoameditation.com",
   "docs": "https://stoameditation.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stoa-practice": {

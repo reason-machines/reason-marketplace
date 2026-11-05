@@ -4,6 +4,7 @@
   "description": "Find cleared Colorado jobs.",
   "homepage": "https://clearedcolorado.com",
   "docs": "https://clearedcolorado.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cleared-colorado-jobs": {

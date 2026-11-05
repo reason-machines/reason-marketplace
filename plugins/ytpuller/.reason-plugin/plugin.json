@@ -4,6 +4,7 @@
   "description": "Read any public YouTube video.",
   "homepage": "https://ytpuller.com",
   "docs": "https://ytpuller.com/api-docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ytpuller": {

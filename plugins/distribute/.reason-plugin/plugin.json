@@ -4,6 +4,7 @@
   "description": "Sales pages from your calls.",
   "homepage": "https://www.distribute.so",
   "docs": "https://distribute.so/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "distribute": {

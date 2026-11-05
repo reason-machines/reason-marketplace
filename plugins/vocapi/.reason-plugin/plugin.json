@@ -4,6 +4,7 @@
   "description": "Save vocabulary as flashcards.",
   "homepage": "https://www.vocapi.xyz",
   "docs": "https://www.vocapi.xyz",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vocapi": {

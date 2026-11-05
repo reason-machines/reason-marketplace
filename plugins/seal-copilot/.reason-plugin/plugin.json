@@ -4,6 +4,7 @@
   "description": "Analyze your marketing data.",
   "homepage": "https://sealmetrics.com",
   "docs": "https://sealmetrics.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seal-copilot": {

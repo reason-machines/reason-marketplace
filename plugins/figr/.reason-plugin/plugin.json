@@ -4,6 +4,7 @@
   "description": "Design Agent for Product Teams.",
   "homepage": "https://figr.design/",
   "docs": "https://figr.design/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "figr": {

@@ -4,6 +4,7 @@
   "description": "Create polls and find dates.",
   "homepage": "https://letsfind.app",
   "docs": "https://letsfind.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "letsfind": {

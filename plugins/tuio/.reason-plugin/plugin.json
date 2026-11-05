@@ -4,6 +4,7 @@
   "description": "Home insurance quotes.",
   "homepage": "https://tuio.com",
   "docs": "https://tedix.dev/apps/tuio/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tuio": {

@@ -4,6 +4,7 @@
   "description": "Generate AI Videos & Media.",
   "homepage": "https://wonderworksai.com/",
   "docs": "https://wonderworksai.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wonderworks": {

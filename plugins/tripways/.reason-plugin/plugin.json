@@ -4,6 +4,7 @@
   "description": "Tours with live group prices.",
   "homepage": "https://tripways.com",
   "docs": "https://tripways.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tripways": {

@@ -4,6 +4,7 @@
   "description": "Find & book live experiences.",
   "homepage": "https://tickadoo.com",
   "docs": "https://tickadoo.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tickadoo": {

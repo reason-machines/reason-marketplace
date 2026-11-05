@@ -4,6 +4,7 @@
   "description": "Translate text and documents.",
   "homepage": "https://www.deepl.com",
   "docs": "https://mcp.deepl.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "deepl": {

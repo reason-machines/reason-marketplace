@@ -4,6 +4,7 @@
   "description": "One design truth. For all.",
   "homepage": "https://tokenlab.design",
   "docs": "https://tokenlab.design",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tokenlab": {

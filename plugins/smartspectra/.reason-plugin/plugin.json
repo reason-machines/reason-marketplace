@@ -4,6 +4,7 @@
   "description": "Contactless vitals, any camera.",
   "homepage": "https://presagetech.com",
   "docs": "https://presagetech.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smartspectra": {

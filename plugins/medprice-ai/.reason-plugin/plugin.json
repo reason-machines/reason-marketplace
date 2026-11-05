@@ -4,6 +4,7 @@
   "description": "Hospital cost lookup.",
   "homepage": "https://medprice.ai",
   "docs": "https://medprice.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "medprice-ai": {

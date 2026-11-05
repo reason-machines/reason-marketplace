@@ -4,6 +4,7 @@
   "description": "Check food warning coverage.",
   "homepage": "https://www.eatoryeet.app",
   "docs": "https://www.eatoryeet.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eat-or-yeet": {

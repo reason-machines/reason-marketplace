@@ -4,6 +4,7 @@
   "description": "Invoicing and bookkeeping.",
   "homepage": "https://www.invoiso.com",
   "docs": "https://tedix.dev/apps/invoiso/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "invoiso": {

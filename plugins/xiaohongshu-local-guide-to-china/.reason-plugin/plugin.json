@@ -4,6 +4,7 @@
   "description": "Discover China like a local.",
   "homepage": "https://chinalikealocal.com/local-guide",
   "docs": "https://chinalikealocal.com/local-guide",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "xiaohongshu-local-guide-to-china": {

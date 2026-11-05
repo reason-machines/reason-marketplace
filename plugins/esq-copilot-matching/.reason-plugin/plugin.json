@@ -4,6 +4,7 @@
   "description": "Find a licensed lawyer.",
   "homepage": "https://esqcopilot.com",
   "docs": "https://esqcopilot.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "esq-copilot-matching": {

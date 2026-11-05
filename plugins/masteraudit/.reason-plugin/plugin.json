@@ -4,6 +4,7 @@
   "description": "Evidence-review guidance.",
   "homepage": "https://api.qreality.eu/evo_demo",
   "docs": "https://qreality.eu/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "masteraudit": {

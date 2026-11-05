@@ -4,6 +4,7 @@
   "description": "Classical K-12 lesson planning.",
   "homepage": "https://cubbyed.com",
   "docs": "https://cubbyed.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cubbyed-classical-curriculum": {

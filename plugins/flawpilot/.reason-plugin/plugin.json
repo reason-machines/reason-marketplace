@@ -4,6 +4,7 @@
   "description": "Web Security & SEO Scanner.",
   "homepage": "https://flawpilot.com",
   "docs": "https://flawpilot.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flawpilot": {

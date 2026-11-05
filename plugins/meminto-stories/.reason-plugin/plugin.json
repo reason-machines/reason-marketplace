@@ -4,6 +4,7 @@
   "description": "From idea to printed book.",
   "homepage": "https://meminto.com/",
   "docs": "https://helpdesk.meminto.com/en/article/meminto-mcp-and-chatgpt-claude-plugin-1uq9dmc/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meminto-stories": {

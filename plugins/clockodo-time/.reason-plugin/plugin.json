@@ -4,6 +4,7 @@
   "description": "Track time, view project hours.",
   "homepage": "https://www.clockodo.com/",
   "docs": "https://www.clockodo.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clockodo-time": {

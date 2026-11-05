@@ -4,6 +4,7 @@
   "description": "Create AI media.",
   "homepage": "https://kolbo.ai/",
   "docs": "https://kolbo.ai/kolbo-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kolbo-ai": {

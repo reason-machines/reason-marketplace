@@ -4,6 +4,7 @@
   "description": "Organize your job search.",
   "homepage": "https://workinparcel.com/",
   "docs": "https://workinparcel.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "parcel": {

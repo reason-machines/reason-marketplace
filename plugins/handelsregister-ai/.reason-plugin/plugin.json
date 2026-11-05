@@ -4,6 +4,7 @@
   "description": "German company intelligence.",
   "homepage": "https://handelsregister.ai",
   "docs": "https://handelsregister.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "handelsregister-ai": {

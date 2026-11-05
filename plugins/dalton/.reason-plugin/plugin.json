@@ -4,6 +4,7 @@
   "description": "A/B testing for online stores.",
   "homepage": "https://www.getdalton.com",
   "docs": "https://www.getdalton.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dalton": {

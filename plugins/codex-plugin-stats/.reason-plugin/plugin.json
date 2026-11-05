@@ -4,6 +4,7 @@
   "description": "Find plugins. Inspect changes.",
   "homepage": "https://codex-plugin-stats.com",
   "docs": "https://codex-plugin-stats.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "codex-plugin-stats": {

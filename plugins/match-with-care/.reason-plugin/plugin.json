@@ -4,6 +4,7 @@
   "description": "UK elderly care consultant.",
   "homepage": "https://matchwithcare.co.uk",
   "docs": "https://matchwithcare.co.uk",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "match-with-care": {

@@ -4,6 +4,7 @@
   "description": "Electrical design and RFQs.",
   "homepage": "https://voltformer.com",
   "docs": "https://voltformer.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "voltformer": {

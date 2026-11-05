@@ -4,6 +4,7 @@
   "description": "Real estate CRM for agents.",
   "homepage": "https://www.habiata.lu",
   "docs": "https://www.habiata.lu",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "habiata": {

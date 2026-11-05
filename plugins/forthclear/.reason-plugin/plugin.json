@@ -4,6 +4,7 @@
   "description": "Surplus stock and bulk quotes.",
   "homepage": "https://forthclear.io",
   "docs": "https://forthclear.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "forthclear": {

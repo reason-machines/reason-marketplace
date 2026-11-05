@@ -4,6 +4,7 @@
   "description": "Manage tasks and lists.",
   "homepage": "https://www.superlist.com",
   "docs": "https://app.superlist.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superlist": {

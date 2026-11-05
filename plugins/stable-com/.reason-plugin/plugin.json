@@ -4,6 +4,7 @@
   "description": "Swap info and order tracking.",
   "homepage": "https://stable.com/",
   "docs": "https://stable.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stable-com": {

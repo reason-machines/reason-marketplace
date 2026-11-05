@@ -4,6 +4,7 @@
   "description": "Manage and schedule meetings.",
   "homepage": "https://www.leandata.com/",
   "docs": "https://www.leandata.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leandata": {

@@ -4,6 +4,7 @@
   "description": "Ecommerce conversion audits.",
   "homepage": "https://ecomhint.com/docs/mcp",
   "docs": "https://ecomhint.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ecomhint": {

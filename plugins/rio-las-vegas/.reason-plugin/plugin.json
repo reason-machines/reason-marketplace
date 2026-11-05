@@ -4,6 +4,7 @@
   "description": "Rooms and hotel help.",
   "homepage": "https://www.riolasvegas.com",
   "docs": "https://www.riolasvegas.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rio-las-vegas": {

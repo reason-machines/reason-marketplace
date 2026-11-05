@@ -4,6 +4,7 @@
   "description": "Your team's live whiteboard.",
   "homepage": "https://partyfun.space",
   "docs": "https://partyfun.space/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "partyfun": {

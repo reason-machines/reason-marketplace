@@ -4,6 +4,7 @@
   "description": "Research Buddhist texts.",
   "homepage": "https://dhamma.fly.dev/",
   "docs": "https://dhamma.fly.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dhamma-data": {

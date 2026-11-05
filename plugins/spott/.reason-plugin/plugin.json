@@ -4,6 +4,7 @@
   "description": "Run recruiting workflows.",
   "homepage": "https://spott.io",
   "docs": "https://spott.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spott": {

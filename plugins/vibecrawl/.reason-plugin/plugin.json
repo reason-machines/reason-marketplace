@@ -4,6 +4,7 @@
   "description": "Let your vibes decide.",
   "homepage": "https://vibecrawl.app",
   "docs": "https://vibecrawl.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vibecrawl": {

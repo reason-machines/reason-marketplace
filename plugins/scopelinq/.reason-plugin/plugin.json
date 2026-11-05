@@ -4,6 +4,7 @@
   "description": "What did we actually agree to?",
   "homepage": "https://scopelinq.com",
   "docs": "https://scopelinq.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scopelinq": {

@@ -4,6 +4,7 @@
   "description": "Selections for custom homes.",
   "homepage": "https://fixtureandfinish.com/",
   "docs": "https://fixtureandfinish.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fixture-and-finish": {

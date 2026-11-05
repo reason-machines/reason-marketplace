@@ -4,6 +4,7 @@
   "description": "Transcribe audio or video.",
   "homepage": "https://transcript.lol",
   "docs": "https://transcript.lol/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "transcript-lol": {

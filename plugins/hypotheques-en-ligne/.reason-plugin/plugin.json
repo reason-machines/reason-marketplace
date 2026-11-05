@@ -4,6 +4,7 @@
   "description": "French land registry quotes.",
   "homepage": "https://www.hypotheques-en-ligne.fr",
   "docs": "https://hypotheques-en-ligne.fr/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hypotheques-en-ligne": {

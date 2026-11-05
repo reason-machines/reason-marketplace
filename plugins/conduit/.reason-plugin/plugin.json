@@ -4,6 +4,7 @@
   "description": "Read customer operations.",
   "homepage": "https://www.conduit.ai",
   "docs": "https://www.conduit.ai/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "conduit": {

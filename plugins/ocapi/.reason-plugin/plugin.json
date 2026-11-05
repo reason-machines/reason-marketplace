@@ -4,6 +4,7 @@
   "description": "Manage your online store.",
   "homepage": "https://ocapi.shop",
   "docs": "https://ocapi.shop/ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ocapi": {

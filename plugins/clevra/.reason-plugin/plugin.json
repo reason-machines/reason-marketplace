@@ -4,6 +4,7 @@
   "description": "Field service jobs & schedule.",
   "homepage": "https://clevra.ai",
   "docs": "https://clevra.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clevra": {

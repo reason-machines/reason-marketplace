@@ -4,6 +4,7 @@
   "description": "Commercial real estate search.",
   "homepage": "https://spacexploration.com",
   "docs": "https://spacexploration.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spacexploration": {

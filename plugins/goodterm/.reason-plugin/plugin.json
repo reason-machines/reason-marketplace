@@ -4,6 +4,7 @@
   "description": "Your mind, unboxed.",
   "homepage": "https://goodterm.net",
   "docs": "https://goodterm.net",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "goodterm": {

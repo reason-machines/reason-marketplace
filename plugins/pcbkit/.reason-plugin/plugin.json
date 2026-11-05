@@ -4,6 +4,7 @@
   "description": "Design circuit boards.",
   "homepage": "https://pcbkit.io",
   "docs": "https://pcbkit.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pcbkit": {

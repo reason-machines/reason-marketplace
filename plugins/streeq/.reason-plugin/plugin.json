@@ -4,6 +4,7 @@
   "description": "Your fitness record in Reason.",
   "homepage": "https://streeq.app",
   "docs": "https://streeq.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "streeq": {

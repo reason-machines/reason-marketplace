@@ -4,6 +4,7 @@
   "description": "Run your work in one place.",
   "homepage": "https://productive.io/",
   "docs": "https://productive.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "productive": {

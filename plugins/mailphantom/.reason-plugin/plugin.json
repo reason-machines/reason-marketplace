@@ -4,6 +4,7 @@
   "description": "Reusable private email aliases.",
   "homepage": "https://mailphantom.io",
   "docs": "https://mailphantom.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mailphantom": {

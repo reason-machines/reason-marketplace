@@ -4,6 +4,7 @@
   "description": "Search patents and literature.",
   "homepage": "https://www.patlytics.ai",
   "docs": "https://www.patlytics.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "patlytics": {

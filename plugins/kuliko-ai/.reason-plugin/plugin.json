@@ -4,6 +4,7 @@
   "description": "Exam prep from notes and PDFs.",
   "homepage": "https://kuliko.ai/",
   "docs": "https://kuliko.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kuliko-ai": {

@@ -4,6 +4,7 @@
   "description": "Debug apps with Raygun.",
   "homepage": "https://raygun.com/",
   "docs": "https://raygun.com/documentation/product-guides/raygun-mcp-server/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "raygun": {

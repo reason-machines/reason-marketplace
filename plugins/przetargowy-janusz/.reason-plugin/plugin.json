@@ -4,6 +4,7 @@
   "description": "Polish public tenders.",
   "homepage": "https://przetargowyjanusz.pl",
   "docs": "https://przetargowyjanusz.pl",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "przetargowy-janusz": {

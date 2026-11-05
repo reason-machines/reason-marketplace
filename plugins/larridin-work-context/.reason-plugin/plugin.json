@@ -4,6 +4,7 @@
   "description": "Your work, in context.",
   "homepage": "https://larridin.com/work-context/",
   "docs": "https://app.larridin.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "larridin-work-context": {

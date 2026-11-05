@@ -4,6 +4,7 @@
   "description": "Your ideas. Your device.",
   "homepage": "https://lumininnovates.com/",
   "docs": "https://lumininnovates.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "whiteboard": {

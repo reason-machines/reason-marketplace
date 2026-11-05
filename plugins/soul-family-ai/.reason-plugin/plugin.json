@@ -4,6 +4,7 @@
   "description": "Meditations and teachings.",
   "homepage": "https://www.soulfamily.ai/",
   "docs": "https://www.soulfamily.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "soul-family-ai": {

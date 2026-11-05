@@ -4,6 +4,7 @@
   "description": "Primary research for investors.",
   "homepage": "https://inpractise.com/",
   "docs": "https://tedix.dev/apps/in-practise/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "in-practise": {

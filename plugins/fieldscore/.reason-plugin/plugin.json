@@ -4,6 +4,7 @@
   "description": "Spørg til danske marker.",
   "homepage": "https://fieldscore.dk",
   "docs": "https://fieldscore.dk/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fieldscore": {

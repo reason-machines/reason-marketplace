@@ -4,6 +4,7 @@
   "description": "Verified company data.",
   "homepage": "https://isoligne.com/connecteur",
   "docs": "https://isoligne.com/connecteur",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "isoligne": {

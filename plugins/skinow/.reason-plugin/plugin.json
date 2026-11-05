@@ -4,6 +4,7 @@
   "description": "Ski weather and trip planning.",
   "homepage": "https://skinow.co",
   "docs": "https://skinow.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "skinow": {

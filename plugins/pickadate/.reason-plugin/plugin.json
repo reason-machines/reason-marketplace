@@ -4,6 +4,7 @@
   "description": "Find a date with any group.",
   "homepage": "https://pickadate.net/pages/ai-assistants",
   "docs": "https://pickadate.net/pages/ai-assistants",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pickadate": {

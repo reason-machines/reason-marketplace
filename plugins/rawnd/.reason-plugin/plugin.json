@@ -4,6 +4,7 @@
   "description": "Open RAW photos in chat.",
   "homepage": "https://rawnd.app",
   "docs": "https://rawnd.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rawnd": {

@@ -4,6 +4,7 @@
   "description": "Your Vedic chart in your AI.",
   "homepage": "https://dasha.fm/",
   "docs": "https://dasha.fm/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dasha-fm": {

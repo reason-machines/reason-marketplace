@@ -4,6 +4,7 @@
   "description": "Proposals with read receipts.",
   "homepage": "https://www.sharedbrief.com",
   "docs": "https://www.sharedbrief.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sharedbrief": {

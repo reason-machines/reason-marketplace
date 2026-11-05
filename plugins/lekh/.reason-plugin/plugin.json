@@ -4,6 +4,7 @@
   "description": "Draw and edit diagrams.",
   "homepage": "https://lekh.app",
   "docs": "https://api.lekh.app/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lekh": {

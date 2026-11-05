@@ -4,6 +4,7 @@
   "description": "Find and book rental cars.",
   "homepage": "https://www.rentennials.app",
   "docs": "https://www.rentennials.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rentennials": {

@@ -4,6 +4,7 @@
   "description": "Search U.S. car inventory.",
   "homepage": "https://visor.vin",
   "docs": "https://visor.vin",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "visor": {

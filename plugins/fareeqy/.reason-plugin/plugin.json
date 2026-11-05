@@ -4,6 +4,7 @@
   "description": "Manage your team's tasks.",
   "homepage": "https://fareeqy.com",
   "docs": "https://fareeqy.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fareeqy": {

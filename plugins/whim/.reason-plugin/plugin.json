@@ -4,6 +4,7 @@
   "description": "Turn any idea into a song.",
   "homepage": "https://onwhim.app",
   "docs": "https://onwhim.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "whim": {

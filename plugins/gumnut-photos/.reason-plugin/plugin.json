@@ -4,6 +4,7 @@
   "description": "Find and organize photos.",
   "homepage": "https://gumnut.ai",
   "docs": "https://api.gumnut.ai/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gumnut-photos": {

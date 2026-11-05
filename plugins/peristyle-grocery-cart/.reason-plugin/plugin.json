@@ -4,6 +4,7 @@
   "description": "Recipes into a grocery cart.",
   "homepage": "https://peristyle.io",
   "docs": "https://peristyle.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "peristyle-grocery-cart": {

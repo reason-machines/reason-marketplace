@@ -4,6 +4,7 @@
   "description": "Connect data, devices & agents.",
   "homepage": "https://lobu.ai",
   "docs": "https://lobu.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lobu": {

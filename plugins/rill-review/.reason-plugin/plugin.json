@@ -4,6 +4,7 @@
   "description": "Record and review browser runs.",
   "homepage": "https://userill.dev",
   "docs": "https://userill.com/docs/mcp/overview",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rill-review": {

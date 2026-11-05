@@ -4,6 +4,7 @@
   "description": "Past weather & daily logs.",
   "homepage": "https://weather-history.zovo.one",
   "docs": "https://weather-history.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "weather-history": {

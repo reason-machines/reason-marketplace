@@ -4,6 +4,7 @@
   "description": "Manage your product agents.",
   "homepage": "https://docs.hihobbes.com/guides/chatgpt-plugin-support",
   "docs": "https://api.hihobbes.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hobbes": {

@@ -4,6 +4,7 @@
   "description": "Calculate your Mortgage.",
   "homepage": "https://www.drklein.de",
   "docs": "https://tedix.dev/apps/dr-klein/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dr-klein": {

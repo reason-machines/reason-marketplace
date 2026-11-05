@@ -4,6 +4,7 @@
   "description": "Feedback, support & insights.",
   "homepage": "https://userorbit.com/help/en/userorbit-mcp-server",
   "docs": "https://userorbit.com/help/en/userorbit-mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "userorbit": {

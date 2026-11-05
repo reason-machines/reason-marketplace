@@ -4,6 +4,7 @@
   "description": "Industrial & robotics vendors.",
   "homepage": "https://itha.ai",
   "docs": "https://itha.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "itha": {

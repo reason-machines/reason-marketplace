@@ -4,6 +4,7 @@
   "description": "Run multichannel outreach.",
   "homepage": "https://www.lemlist.com/",
   "docs": "https://www.lemlist.com/blog/lemlist-mcp-use-cases",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lemlist": {

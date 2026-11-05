@@ -4,6 +4,7 @@
   "description": "Extract social post fields.",
   "homepage": "https://task-app-hub-content-chain.belong514829670.workers.dev/social-post-metadata-extractor",
   "docs": "https://task-app-hub-content-chain.belong514829670.workers.dev/social-post-metadata-extractor",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "post-metadata-extractor": {

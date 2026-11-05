@@ -4,6 +4,7 @@
   "description": "Analyze and manage Gem data.",
   "homepage": "https://www.gem.com/",
   "docs": "https://www.gem.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gem": {

@@ -4,6 +4,7 @@
   "description": "All-in-One Store Management.",
   "homepage": "https://www.ownerbox.kr/",
   "docs": "https://www.ownerbox.kr/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ownerbox-reservations": {

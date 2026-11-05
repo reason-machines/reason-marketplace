@@ -4,6 +4,7 @@
   "description": "Manage your legal practice.",
   "homepage": "https://lawyer.ib.com.sa",
   "docs": "https://lawyer.ib.com.sa/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ib-law": {

@@ -4,6 +4,7 @@
   "description": "Plan, book, and manage travel.",
   "homepage": "https://www.ottotheagent.com/",
   "docs": "https://www.ottotheagent.com/mcpconnections",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "otto-travel": {

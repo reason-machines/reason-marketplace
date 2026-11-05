@@ -4,6 +4,7 @@
   "description": "Forms and one-page websites.",
   "homepage": "https://formedge.app/",
   "docs": "https://formedge.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "formedge": {

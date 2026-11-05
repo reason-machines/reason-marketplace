@@ -4,6 +4,7 @@
   "description": "Find AI tools for any task.",
   "homepage": "https://theresanaiforthat.com/",
   "docs": "https://theresanaiforthat.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "there-s-an-ai-for-that": {

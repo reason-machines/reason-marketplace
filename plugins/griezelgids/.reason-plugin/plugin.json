@@ -4,6 +4,7 @@
   "description": "Halloween map for NL and BE.",
   "homepage": "https://griezelgids.nl",
   "docs": "https://griezelgids.nl",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "griezelgids": {

@@ -4,6 +4,7 @@
   "description": "Hyperliquid crypto & stocks.",
   "homepage": "https://coinversa.ai",
   "docs": "https://coinversa.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coinversa-pulse": {

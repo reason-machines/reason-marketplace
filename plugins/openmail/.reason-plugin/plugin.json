@@ -4,6 +4,7 @@
   "description": "Email inboxes for AI agents.",
   "homepage": "https://openmail.sh",
   "docs": "https://openmail.sh",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openmail": {

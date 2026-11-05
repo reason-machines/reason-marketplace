@@ -4,6 +4,7 @@
   "description": "Plan and publish social posts.",
   "homepage": "https://www.velocity.li",
   "docs": "https://www.velocity.li",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "velocity": {

@@ -4,6 +4,7 @@
   "description": "UPSC Civil Services Exam prep.",
   "homepage": "https://getlaya.in",
   "docs": "https://getlaya.in",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "laya": {

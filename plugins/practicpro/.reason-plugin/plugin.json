@@ -4,6 +4,7 @@
   "description": "The CRM for service businesses.",
   "homepage": "https://practicpro.com/",
   "docs": "https://practicpro.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "practicpro": {

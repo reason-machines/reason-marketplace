@@ -4,6 +4,7 @@
   "description": "Find award flights.",
   "homepage": "https://flightpoints.com",
   "docs": "https://flightpoints.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "flightpoints": {

@@ -4,6 +4,7 @@
   "description": "Manage your Wayfront workspace.",
   "homepage": "https://wayfront.com",
   "docs": "https://wayfront.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wayfront": {

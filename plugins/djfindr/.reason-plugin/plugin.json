@@ -4,6 +4,7 @@
   "description": "Find and book DJs near you.",
   "homepage": "https://djfindr.com",
   "docs": "https://djfindr.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "djfindr": {

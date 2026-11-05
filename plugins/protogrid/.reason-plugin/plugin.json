@@ -4,6 +4,7 @@
   "description": "MCP server search for agents.",
   "homepage": "https://protogrid.dev",
   "docs": "https://protogrid.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "protogrid": {

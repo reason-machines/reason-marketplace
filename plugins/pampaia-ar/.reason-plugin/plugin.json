@@ -4,6 +4,7 @@
   "description": "Official Argentine farm data.",
   "homepage": "https://pampaia.ar/en/agrobrain",
   "docs": "https://pampaia.ar/en/agrobrain",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pampaia-ar": {

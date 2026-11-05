@@ -4,6 +4,7 @@
   "description": "Your in-house hiring assistant.",
   "homepage": "https://draft.jobs",
   "docs": "https://draft.jobs/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "draft-jobs": {

@@ -4,6 +4,7 @@
   "description": "Travel eSIM, top-up, recharge.",
   "homepage": "https://slashtel.com",
   "docs": "https://slashtel.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "slashtel": {

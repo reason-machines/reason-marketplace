@@ -4,6 +4,7 @@
   "description": "Wedding venues you can stay at.",
   "homepage": "https://www.thewedstay.com",
   "docs": "https://www.thewedstay.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wedstay": {

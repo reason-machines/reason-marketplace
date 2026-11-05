@@ -4,6 +4,7 @@
   "description": "Discover your next hobby.",
   "homepage": "https://frip.co.kr",
   "docs": "https://frip.co.kr",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "frip": {

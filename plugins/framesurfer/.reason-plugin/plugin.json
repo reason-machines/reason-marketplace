@@ -4,6 +4,7 @@
   "description": "Make AI images, clips, music.",
   "homepage": "https://framesurfer.com",
   "docs": "https://framesurfer.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "framesurfer": {

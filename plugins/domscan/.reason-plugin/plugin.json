@@ -4,6 +4,7 @@
   "description": "Domain intelligence.",
   "homepage": "https://domscan.net/mcp-domain-checker",
   "docs": "https://domscan.net/mcp-domain-checker",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "domscan": {

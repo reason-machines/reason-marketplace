@@ -4,6 +4,7 @@
   "description": "Hire remote talent in LATAM.",
   "homepage": "https://hiretalent.lat",
   "docs": "https://hiretalent.lat",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hiretalent-lat": {

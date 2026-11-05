@@ -4,6 +4,7 @@
   "description": "Draft reusable capabilities.",
   "homepage": "https://scaffolde.ai/",
   "docs": "https://scaffolde.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scaffolde-capability-builder": {

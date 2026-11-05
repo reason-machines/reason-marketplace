@@ -4,6 +4,7 @@
   "description": "Finance your home in France.",
   "homepage": "https://pretto.fr",
   "docs": "https://tedix.dev/apps/pretto/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pretto": {

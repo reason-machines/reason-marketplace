@@ -4,6 +4,7 @@
   "description": "Analyze customer AI usage.",
   "homepage": "https://usagetap.com",
   "docs": "https://usagetap.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "usagetap": {

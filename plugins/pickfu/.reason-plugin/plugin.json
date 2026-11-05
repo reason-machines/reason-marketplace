@@ -4,6 +4,7 @@
   "description": "Test ideas with real people.",
   "homepage": "https://www.pickfu.com",
   "docs": "https://www.pickfu.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pickfu": {

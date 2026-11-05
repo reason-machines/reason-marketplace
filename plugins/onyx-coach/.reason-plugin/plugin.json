@@ -4,6 +4,7 @@
   "description": "Coach clients and workouts.",
   "homepage": "https://onyxcoach.com/",
   "docs": "https://onyxcoach.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "onyx-coach": {

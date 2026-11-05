@@ -4,6 +4,7 @@
   "description": "Rights Cleared Content.",
   "homepage": "https://www.simplefeed.com/ai-llms-new/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.simplefeed/mcp-free",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simplefeed-news-free": {

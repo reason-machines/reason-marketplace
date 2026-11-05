@@ -4,6 +4,7 @@
   "description": "Create Videos and Images.",
   "homepage": "https://unifycore.ai/",
   "docs": "https://unifycore.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "unifyai": {

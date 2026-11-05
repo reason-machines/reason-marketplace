@@ -4,6 +4,7 @@
   "description": "Track expenses, plan budgets.",
   "homepage": "https://manilo.app",
   "docs": "https://manilo.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "manilo": {

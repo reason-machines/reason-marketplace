@@ -4,6 +4,7 @@
   "description": "Measure and compare page speed.",
   "homepage": "https://webspeed.pro/",
   "docs": "https://webspeed.pro/en/apps/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "webspeed": {

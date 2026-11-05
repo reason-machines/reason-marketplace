@@ -4,6 +4,7 @@
   "description": "Create videos, images, designs.",
   "homepage": "https://pollo.ai",
   "docs": "https://pollo.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pollo-ai": {

@@ -4,6 +4,7 @@
   "description": "Search patents & trademarks.",
   "homepage": "https://patent.dev",
   "docs": "https://patent.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "patent-connector": {

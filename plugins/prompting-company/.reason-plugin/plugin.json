@@ -4,6 +4,7 @@
   "description": "Brand visibility in AI answers.",
   "homepage": "https://promptingcompany.com/",
   "docs": "https://docs.promptingcompany.com/guides/MCP-Server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prompting-company": {

@@ -4,6 +4,7 @@
   "description": "Find and compare blood tests.",
   "homepage": "https://praetor.health",
   "docs": "https://praetor.health/articles/inside-praetor/using-praetor-in-claude",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "praetor-health": {

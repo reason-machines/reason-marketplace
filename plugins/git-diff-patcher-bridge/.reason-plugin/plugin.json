@@ -4,6 +4,7 @@
   "description": "Review AI code patches safely.",
   "homepage": "https://mcp.methe.tech/llms.txt",
   "docs": "https://mcp.methe.tech/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "git-diff-patcher-bridge": {

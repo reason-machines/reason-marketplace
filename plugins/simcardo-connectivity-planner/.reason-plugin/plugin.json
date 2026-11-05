@@ -4,6 +4,7 @@
   "description": "Plan travel mobile internet.",
   "homepage": "https://simcardo.com",
   "docs": "https://simcardo.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "simcardo-connectivity-planner": {

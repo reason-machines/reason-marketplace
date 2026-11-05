@@ -4,6 +4,7 @@
   "description": "Custom sound notifications.",
   "homepage": "https://www.vybit.net",
   "docs": "https://www.vybit.net",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vybit": {

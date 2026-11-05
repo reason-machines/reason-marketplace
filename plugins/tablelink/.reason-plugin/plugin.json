@@ -4,6 +4,7 @@
   "description": "Book a TableLink restaurant.",
   "homepage": "https://tablelink.app",
   "docs": "https://tablelink.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tablelink": {

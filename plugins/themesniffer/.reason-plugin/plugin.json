@@ -4,6 +4,7 @@
   "description": "WP theme and plugin detector.",
   "homepage": "https://themesniffer.com",
   "docs": "https://themesniffer.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "themesniffer": {

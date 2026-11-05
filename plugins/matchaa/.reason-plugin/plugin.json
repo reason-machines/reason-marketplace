@@ -4,6 +4,7 @@
   "description": "Tailored CVs, finished PDFs.",
   "homepage": "https://matchaa.fr",
   "docs": "https://matchaa.fr",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "matchaa": {

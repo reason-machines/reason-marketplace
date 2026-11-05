@@ -4,6 +4,7 @@
   "description": "Your zodiac sign composition.",
   "homepage": "https://synthesisastrology.com",
   "docs": "https://synthesisastrology.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "synthesis-astrology": {

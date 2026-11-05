@@ -4,6 +4,7 @@
   "description": "Kansas City home photo search.",
   "homepage": "https://houseloop.ai",
   "docs": "https://houseloop.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "houseloop": {

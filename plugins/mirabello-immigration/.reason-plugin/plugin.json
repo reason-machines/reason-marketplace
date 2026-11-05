@@ -4,6 +4,7 @@
   "description": "Citizenship and golden visas.",
   "homepage": "https://www.mirabelloconsultancy.com",
   "docs": "https://www.mirabelloconsultancy.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mirabello-immigration": {

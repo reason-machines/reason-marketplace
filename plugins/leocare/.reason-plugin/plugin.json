@@ -4,6 +4,7 @@
   "description": "Leocare car insurance estimate.",
   "homepage": "https://leocare.eu",
   "docs": "https://tedix.dev/apps/leocare/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "leocare": {

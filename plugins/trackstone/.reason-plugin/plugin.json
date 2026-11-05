@@ -4,6 +4,7 @@
   "description": "Rented homes: price and yield.",
   "homepage": "https://www.trackstone.fr",
   "docs": "https://tedix.dev/apps/trackstone/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trackstone": {

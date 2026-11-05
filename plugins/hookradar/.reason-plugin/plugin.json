@@ -4,6 +4,7 @@
   "description": "Creative intelligence.",
   "homepage": "https://hookradar.net/ai-connectors",
   "docs": "https://hookradar.net/ai-connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hookradar": {

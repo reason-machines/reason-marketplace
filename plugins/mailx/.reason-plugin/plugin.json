@@ -4,6 +4,7 @@
   "description": "Find why your emails hit spam.",
   "homepage": "https://themailx.com",
   "docs": "https://themailx.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mailx": {

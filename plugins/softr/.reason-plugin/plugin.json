@@ -4,6 +4,7 @@
   "description": "Build business apps and tools.",
   "homepage": "https://www.softr.io",
   "docs": "https://www.softr.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "softr": {

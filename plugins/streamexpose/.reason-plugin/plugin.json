@@ -4,6 +4,7 @@
   "description": "Prepare YouTube live radios.",
   "homepage": "https://streamexpose.com",
   "docs": "https://streamexpose.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "streamexpose": {

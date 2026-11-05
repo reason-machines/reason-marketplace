@@ -4,6 +4,7 @@
   "description": "Draft Teleprompter.com scripts.",
   "homepage": "https://teleprompter.com",
   "docs": "https://teleprompter.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "teleprompter-com": {

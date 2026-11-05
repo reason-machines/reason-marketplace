@@ -4,6 +4,7 @@
   "description": "Automate your trade business.",
   "homepage": "https://www.servicem8.com",
   "docs": "https://www.servicem8.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "servicem8": {

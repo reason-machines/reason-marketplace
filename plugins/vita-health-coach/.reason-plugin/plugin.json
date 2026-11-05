@@ -4,6 +4,7 @@
   "description": "Hospital portals and records.",
   "homepage": "https://vitamedas.com/parent-portal",
   "docs": "https://vitamedas.com/parent-portal",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vita-health-coach": {

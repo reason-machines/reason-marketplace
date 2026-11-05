@@ -4,6 +4,7 @@
   "description": "ATS-ready resumes & letters.",
   "homepage": "https://resumondo.com",
   "docs": "https://resumondo.com/integrations/claude-code",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "resumondo": {

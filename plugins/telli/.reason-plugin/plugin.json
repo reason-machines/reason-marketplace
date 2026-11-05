@@ -4,6 +4,7 @@
   "description": "Use telli through Charlie.",
   "homepage": "https://www.telli.com",
   "docs": "https://www.telli.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "telli": {

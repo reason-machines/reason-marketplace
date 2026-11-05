@@ -4,6 +4,7 @@
   "description": "Find recipes. Cook your saves.",
   "homepage": "https://reelsmeals.com/agents/connect",
   "docs": "https://reelsmeals.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "reelsmeals": {

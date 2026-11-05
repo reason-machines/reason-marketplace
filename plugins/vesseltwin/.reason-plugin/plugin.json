@@ -4,6 +4,7 @@
   "description": "Ask about your boat records.",
   "homepage": "https://www.vesseltwin.io/",
   "docs": "https://api.vesseltwin.io/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vesseltwin": {

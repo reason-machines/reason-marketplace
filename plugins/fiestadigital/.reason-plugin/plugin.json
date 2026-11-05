@@ -4,6 +4,7 @@
   "description": "Manage sites and content.",
   "homepage": "https://fiestadigital.es/",
   "docs": "https://fiestadigital.es/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fiestadigital": {

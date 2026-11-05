@@ -4,6 +4,7 @@
   "description": "Plan projects on visual boards.",
   "homepage": "https://storyflow.so",
   "docs": "https://storyflow.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "storyflow": {

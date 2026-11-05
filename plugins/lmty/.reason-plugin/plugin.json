@@ -4,6 +4,7 @@
   "description": "Your competitive market data.",
   "homepage": "https://lmty.com",
   "docs": "https://lmty.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lmty": {

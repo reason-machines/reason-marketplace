@@ -4,6 +4,7 @@
   "description": "Use your VITALS profile.",
   "homepage": "https://www.vitals.me",
   "docs": "https://www.vitals.me",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vitals": {

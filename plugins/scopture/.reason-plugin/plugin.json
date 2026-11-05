@@ -4,6 +4,7 @@
   "description": "Work on engineering projects.",
   "homepage": "https://site.scopture.com/",
   "docs": "https://site.scopture.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scopture": {

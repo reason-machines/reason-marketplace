@@ -4,6 +4,7 @@
   "description": "Search and update your CRM.",
   "homepage": "https://k3x.ai",
   "docs": "https://k3x.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "k3x": {

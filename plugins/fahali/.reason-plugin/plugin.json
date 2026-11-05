@@ -4,6 +4,7 @@
   "description": "Market intel for AI agents.",
   "homepage": "https://app.fahaliai.com",
   "docs": "https://app.fahaliai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fahali": {

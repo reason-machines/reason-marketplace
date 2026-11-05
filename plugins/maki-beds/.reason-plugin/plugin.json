@@ -4,6 +4,7 @@
   "description": "Your property, in chat.",
   "homepage": "https://makibeds.com",
   "docs": "https://makibeds.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "maki-beds": {

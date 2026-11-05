@@ -4,6 +4,7 @@
   "description": "By Tallyfy. Free.",
   "homepage": "https://tallyfy.com/tools/process-documentation-ai/",
   "docs": "https://tallyfy.com/tools/process-documentation-ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "process-documentation-ai": {

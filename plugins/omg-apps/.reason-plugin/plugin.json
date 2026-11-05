@@ -4,6 +4,7 @@
   "description": "Build and share apps by link.",
   "homepage": "https://omg.dev",
   "docs": "https://omg.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "omg-apps": {

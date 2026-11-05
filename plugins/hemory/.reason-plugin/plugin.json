@@ -4,6 +4,7 @@
   "description": "Search your real memory.",
   "homepage": "https://www.hemory.com/",
   "docs": "https://www.hemory.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hemory": {

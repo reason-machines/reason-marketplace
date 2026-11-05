@@ -4,6 +4,7 @@
   "description": "Check launch dates & trust.",
   "homepage": "https://websitelaunches.com/",
   "docs": "https://websitelaunches.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "website-launches": {

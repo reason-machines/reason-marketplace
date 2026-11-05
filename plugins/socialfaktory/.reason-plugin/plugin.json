@@ -4,6 +4,7 @@
   "description": "Make and post social content.",
   "homepage": "https://www.socialfaktory.com",
   "docs": "https://www.socialfaktory.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "socialfaktory": {

@@ -4,6 +4,7 @@
   "description": "Run qualitative research.",
   "homepage": "https://www.userintuition.ai",
   "docs": "https://www.userintuition.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "user-intuition-research": {

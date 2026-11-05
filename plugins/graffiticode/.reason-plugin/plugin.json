@@ -4,6 +4,7 @@
   "description": "Assessments, diagrams and more.",
   "homepage": "https://graffiticode.org",
   "docs": "https://graffiticode.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "graffiticode": {

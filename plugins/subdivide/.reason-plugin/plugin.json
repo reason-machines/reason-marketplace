@@ -4,6 +4,7 @@
   "description": "Metronome and click tracks.",
   "homepage": "https://www.subdivide.app",
   "docs": "https://www.subdivide.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "subdivide": {

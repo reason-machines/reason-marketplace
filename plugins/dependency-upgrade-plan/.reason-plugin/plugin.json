@@ -4,6 +4,7 @@
   "description": "Plan dependency upgrades.",
   "homepage": "https://dependency-upgrade-plan.sidcraigau.workers.dev",
   "docs": "https://dependency-upgrade-plan.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dependency-upgrade-plan": {

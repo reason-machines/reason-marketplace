@@ -4,6 +4,7 @@
   "description": "Run your ad accounts from chat.",
   "homepage": "https://opus-growth.com/",
   "docs": "https://opus-growth.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "opus-growth": {

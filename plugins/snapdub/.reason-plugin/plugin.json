@@ -4,6 +4,7 @@
   "description": "Turn long videos into clips.",
   "homepage": "https://snapdub.ai/mcp-server",
   "docs": "https://snapdub.ai/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "snapdub": {

@@ -4,6 +4,7 @@
   "description": "Finnish calendar data.",
   "homepage": "https://kalenteri.online",
   "docs": "https://api.kalenteri.online/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kalenteri-online": {

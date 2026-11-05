@@ -4,6 +4,7 @@
   "description": "Email, SMS & push for your app.",
   "homepage": "https://www.senderkit.com",
   "docs": "https://www.senderkit.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "senderkit": {

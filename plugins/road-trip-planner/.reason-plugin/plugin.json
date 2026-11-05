@@ -4,6 +4,7 @@
   "description": "Find campground stays.",
   "homepage": "https://parkwith.us/road-trips",
   "docs": "https://parkwith.us/road-trips",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "road-trip-planner": {

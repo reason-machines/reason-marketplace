@@ -4,6 +4,7 @@
   "description": "Accurate prayer times & alerts.",
   "homepage": "https://tareq7.github.io/muslim-prayer-mcp/",
   "docs": "https://tareq7.github.io/muslim-prayer-mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "muslim-prayer-reminder": {

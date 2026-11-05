@@ -4,6 +4,7 @@
   "description": "Dinner parties with strangers.",
   "homepage": "https://www.thedinnertable.club",
   "docs": "https://www.thedinnertable.club",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the-dinner-table-club": {

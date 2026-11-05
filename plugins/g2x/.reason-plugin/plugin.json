@@ -4,6 +4,7 @@
   "description": "GovCon Market Intel for Agents.",
   "homepage": "https://g2x.com",
   "docs": "https://g2x.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "g2x": {

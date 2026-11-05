@@ -4,6 +4,7 @@
   "description": "Audit websites with Layzr.",
   "homepage": "https://www.layzr.ai/",
   "docs": "https://www.layzr.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "layzr": {

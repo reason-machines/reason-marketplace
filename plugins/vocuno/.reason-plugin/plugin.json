@@ -4,6 +4,7 @@
   "description": "Create and edit AI music.",
   "homepage": "https://vocuno.com",
   "docs": "https://vocuno.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vocuno": {

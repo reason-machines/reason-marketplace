@@ -4,6 +4,7 @@
   "description": "Several AIs, one verdict.",
   "homepage": "https://kickaround.app",
   "docs": "https://kickaround.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kickaround": {

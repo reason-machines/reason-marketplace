@@ -4,6 +4,7 @@
   "description": "Research federal records.",
   "homepage": "https://govbot.ai",
   "docs": "https://govbot.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "govbot-organization-records": {

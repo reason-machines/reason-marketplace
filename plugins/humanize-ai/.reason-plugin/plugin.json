@@ -4,6 +4,7 @@
   "description": "Make AI writing sound human.",
   "homepage": "https://humanizeaitext.ai/",
   "docs": "https://humanizeaitext.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "humanize-ai": {

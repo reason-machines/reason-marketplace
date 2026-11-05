@@ -4,6 +4,7 @@
   "description": "You are what you think.",
   "homepage": "https://usecranes.com",
   "docs": "https://usecranes.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cranes": {

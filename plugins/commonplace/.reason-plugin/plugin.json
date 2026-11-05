@@ -4,6 +4,7 @@
   "description": "Large used items, delivered.",
   "homepage": "https://trycommonplace.com",
   "docs": "https://trycommonplace.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "commonplace": {

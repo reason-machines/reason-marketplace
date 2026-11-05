@@ -4,6 +4,7 @@
   "description": "Stop brand impersonation.",
   "homepage": "https://nebty-id.com/en/nebty-mcp/",
   "docs": "https://nebty-id.com/en/nebty-mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nebty": {

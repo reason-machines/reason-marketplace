@@ -4,6 +4,7 @@
   "description": "Manage events and invitations.",
   "homepage": "https://events.com.mt",
   "docs": "https://events.com.mt/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "events-mt-organisers": {

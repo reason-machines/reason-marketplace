@@ -4,6 +4,7 @@
   "description": "Order food from your favorites.",
   "homepage": "https://swiggy.com",
   "docs": "https://swiggy.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "swiggy-food": {

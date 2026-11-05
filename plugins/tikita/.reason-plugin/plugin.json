@@ -4,6 +4,7 @@
   "description": "Create Tikita story drafts.",
   "homepage": "https://tikita.ai",
   "docs": "https://tikita.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tikita": {

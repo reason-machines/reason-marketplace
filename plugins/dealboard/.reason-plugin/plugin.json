@@ -4,6 +4,7 @@
   "description": "Track sales deals.",
   "homepage": "https://getdealboard.com?utm_source=chatgpt_apps&utm_medium=app_directory&utm_campaign=ai_distribution_2026",
   "docs": "https://getdealboard.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dealboard": {

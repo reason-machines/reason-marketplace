@@ -4,6 +4,7 @@
   "description": "Tenant-safe analytics tools.",
   "homepage": "https://querypanel.io",
   "docs": "https://querypanel.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "querypanel": {

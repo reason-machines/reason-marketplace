@@ -4,6 +4,7 @@
   "description": "Automate Projects End-to-End.",
   "homepage": "https://sytex.io",
   "docs": "https://sytex.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sytex": {

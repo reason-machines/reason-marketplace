@@ -4,6 +4,7 @@
   "description": "Quotes, jobs and invoices.",
   "homepage": "https://estimatekit.com",
   "docs": "https://estimatekit.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "estimatekit": {

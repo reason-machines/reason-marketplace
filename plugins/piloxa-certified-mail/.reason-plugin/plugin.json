@@ -4,6 +4,7 @@
   "description": "Send letters by Certified Mail.",
   "homepage": "https://piloxa.com",
   "docs": "https://piloxa.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "piloxa-certified-mail": {

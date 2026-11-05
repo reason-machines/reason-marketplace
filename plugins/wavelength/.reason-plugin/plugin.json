@@ -4,6 +4,7 @@
   "description": "Turn calls into process maps.",
   "homepage": "https://wavelengthflow.com",
   "docs": "https://wavelengthflow.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wavelength": {

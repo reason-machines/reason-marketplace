@@ -4,6 +4,7 @@
   "description": "Invites, polls, RSVPs by text.",
   "homepage": "https://funlet.ai",
   "docs": "https://funlet.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "funlet": {

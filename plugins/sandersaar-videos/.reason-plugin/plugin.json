@@ -4,6 +4,7 @@
   "description": "Search Sander Saar's videos.",
   "homepage": "https://agentcdn.com/creators/sandersaar",
   "docs": "https://agentcdn.com/creators/sandersaar",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sandersaar-videos": {

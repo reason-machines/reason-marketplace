@@ -4,6 +4,7 @@
   "description": "Find the best vinyl pressing.",
   "homepage": "https://woiii.me",
   "docs": "https://woiii.me",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "woiii-me": {

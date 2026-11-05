@@ -4,6 +4,7 @@
   "description": "Quebec college R-score (CRC).",
   "homepage": "https://cote-r.mmcco.co",
   "docs": "https://cote-r.mmcco.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cote-r-crc-quebec": {

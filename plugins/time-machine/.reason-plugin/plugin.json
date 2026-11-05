@@ -4,6 +4,7 @@
   "description": "AI-powered learning platform.",
   "homepage": "https://timeml.ai",
   "docs": "https://timeml.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "time-machine": {

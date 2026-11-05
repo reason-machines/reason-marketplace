@@ -4,6 +4,7 @@
   "description": "Turn your plan into a workout.",
   "homepage": "https://incarna.fit",
   "docs": "https://incarna.fit/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "incarna": {

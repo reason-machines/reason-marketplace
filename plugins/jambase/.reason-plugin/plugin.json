@@ -4,6 +4,7 @@
   "description": "Go See Live Music!",
   "homepage": "https://jambase.com",
   "docs": "https://jambase.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jambase": {

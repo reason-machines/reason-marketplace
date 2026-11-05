@@ -4,6 +4,7 @@
   "description": "Real estate search and CMAs.",
   "homepage": "https://zaminai.com",
   "docs": "https://zaminai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zaminai": {

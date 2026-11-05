@@ -4,6 +4,7 @@
   "description": "Auction search and inventory.",
   "homepage": "https://www.reportaste.it/",
   "docs": "https://www.reportaste.it/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reportaste": {

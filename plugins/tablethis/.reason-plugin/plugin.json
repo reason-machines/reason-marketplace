@@ -4,6 +4,7 @@
   "description": "Shared databases for your AI.",
   "homepage": "https://www.tablethis.ai",
   "docs": "https://www.tablethis.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tablethis": {

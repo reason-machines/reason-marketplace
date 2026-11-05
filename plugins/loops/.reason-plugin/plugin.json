@@ -4,6 +4,7 @@
   "description": "Email marketing for SaaS.",
   "homepage": "https://loops.so",
   "docs": "https://loops.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "loops": {

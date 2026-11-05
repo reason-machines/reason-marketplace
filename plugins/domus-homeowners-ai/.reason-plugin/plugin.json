@@ -4,6 +4,7 @@
   "description": "Track appliances & upkeep.",
   "homepage": "https://getdomus.app",
   "docs": "https://api.getdomus.app/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "domus-homeowners-ai": {

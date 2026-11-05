@@ -4,6 +4,7 @@
   "description": "Flight CO₂ estimates.",
   "homepage": "https://trimcarbon.com/ai",
   "docs": "https://trimcarbon.com/ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trimcarbon": {

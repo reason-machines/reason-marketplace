@@ -4,6 +4,7 @@
   "description": "TeX math in PowerPoint & Word.",
   "homepage": "https://mcp.tex64.com/mathpoint/docs?lang=en",
   "docs": "https://mcp.tex64.com/mathpoint/docs?lang=en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mathpoint": {

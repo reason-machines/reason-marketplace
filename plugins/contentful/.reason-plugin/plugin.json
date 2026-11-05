@@ -4,6 +4,7 @@
   "description": "Manage content and assets.",
   "homepage": "https://contentful.com",
   "docs": "https://contentful.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "contentful": {

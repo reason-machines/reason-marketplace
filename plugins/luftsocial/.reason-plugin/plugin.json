@@ -4,6 +4,7 @@
   "description": "Social media management.",
   "homepage": "https://luftsocial.com",
   "docs": "https://luftsocial.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "luftsocial": {

@@ -4,6 +4,7 @@
   "description": "Build demos from your code.",
   "homepage": "https://demopage.io",
   "docs": "https://demopage.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "demopage": {

@@ -4,6 +4,7 @@
   "description": "Track your Bike's maintenance.",
   "homepage": "https://trailhits.com",
   "docs": "https://trailhits.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trail-hits-bicycle-maintenance": {

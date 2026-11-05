@@ -4,6 +4,7 @@
   "description": "Transcribe and discuss audio.",
   "homepage": "https://spokenly.app/support#chatgpt",
   "docs": "https://spokenly.app/support#chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spokenly-transcription": {

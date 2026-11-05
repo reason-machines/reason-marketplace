@@ -4,6 +4,7 @@
   "description": "The AI Slide Editor.",
   "homepage": "https://askpaul.app",
   "docs": "https://askpaul.app/.well-known/oauth-protected-resource/api/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "paul": {

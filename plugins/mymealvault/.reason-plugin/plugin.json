@@ -4,6 +4,7 @@
   "description": "Plan meals from your vault.",
   "homepage": "https://mymealvault.com",
   "docs": "https://api.mymealvault.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mymealvault": {

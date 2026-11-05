@@ -4,6 +4,7 @@
   "description": "Officiell statistik med källa.",
   "homepage": "https://sancera.ai",
   "docs": "https://sancera.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sancera": {

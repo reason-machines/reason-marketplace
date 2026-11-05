@@ -4,6 +4,7 @@
   "description": "Cyprus case law & legislation.",
   "homepage": "https://menas.ai/en/",
   "docs": "https://menas.ai/en/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "menas-cyprus-law": {

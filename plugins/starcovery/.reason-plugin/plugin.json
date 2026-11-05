@@ -4,6 +4,7 @@
   "description": "Find and hire creators.",
   "homepage": "https://www.starcovery.com",
   "docs": "https://www.starcovery.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "starcovery": {

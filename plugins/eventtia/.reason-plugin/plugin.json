@@ -4,6 +4,7 @@
   "description": "Manage events and attendees.",
   "homepage": "https://www.eventtia.com",
   "docs": "https://www.eventtia.com/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "eventtia": {

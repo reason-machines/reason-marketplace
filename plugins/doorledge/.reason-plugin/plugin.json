@@ -4,6 +4,7 @@
   "description": "Send rental receipts to review.",
   "homepage": "https://www.doorledge.com",
   "docs": "https://doorledge.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "doorledge": {

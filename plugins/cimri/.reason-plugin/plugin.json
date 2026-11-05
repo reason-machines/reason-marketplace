@@ -4,6 +4,7 @@
   "description": "Compare retail prices.",
   "homepage": "https://www.cimri.com",
   "docs": "https://www.cimri.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cimri": {

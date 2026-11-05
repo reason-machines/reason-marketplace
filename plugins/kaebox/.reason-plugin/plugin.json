@@ -4,6 +4,7 @@
   "description": "Compare Live Shipping Rates.",
   "homepage": "https://kaebox.com",
   "docs": "https://kaebox.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kaebox": {

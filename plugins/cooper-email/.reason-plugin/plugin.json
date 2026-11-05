@@ -4,6 +4,7 @@
   "description": "Email inboxes for AI agents.",
   "homepage": "https://cooperemail.com",
   "docs": "https://cooperemail.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cooper-email": {

@@ -4,6 +4,7 @@
   "description": "Indian train & station lookup.",
   "homepage": "https://railjournal.in",
   "docs": "https://railjournal.in",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "railjournal-india": {

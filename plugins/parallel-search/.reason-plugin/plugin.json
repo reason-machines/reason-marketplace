@@ -4,6 +4,7 @@
   "description": "Web search for AI.",
   "homepage": "https://parallel.ai/",
   "docs": "https://parallel.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "parallel-search": {

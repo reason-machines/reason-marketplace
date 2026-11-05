@@ -4,6 +4,7 @@
   "description": "Manage Signitic workspaces.",
   "homepage": "https://developers.signitic.app/reference/mcp-server",
   "docs": "https://developers.signitic.app/reference/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "signitic": {

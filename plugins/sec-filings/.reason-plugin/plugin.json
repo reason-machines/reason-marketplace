@@ -4,6 +4,7 @@
   "description": "SEC filings and financials.",
   "homepage": "https://sec-filings.zovo.one",
   "docs": "https://sec-filings.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sec-filings": {

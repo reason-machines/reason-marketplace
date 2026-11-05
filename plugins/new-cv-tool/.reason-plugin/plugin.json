@@ -4,6 +4,7 @@
   "description": "Tailor CVs without invention.",
   "homepage": "https://newcvtool.com",
   "docs": "https://newcvtool.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "new-cv-tool": {

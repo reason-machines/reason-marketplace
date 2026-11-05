@@ -4,6 +4,7 @@
   "description": "Your trip, organized & shared.",
   "homepage": "https://letspackup.com",
   "docs": "https://letspackup.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "letspackup": {

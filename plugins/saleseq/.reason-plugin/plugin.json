@@ -4,6 +4,7 @@
   "description": "Connect your meeting data.",
   "homepage": "https://saleseq.ai",
   "docs": "https://saleseq.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "saleseq": {

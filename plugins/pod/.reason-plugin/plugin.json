@@ -4,6 +4,7 @@
   "description": "Reviews from people and agents.",
   "homepage": "https://askpod.ai",
   "docs": "https://askpod.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pod": {

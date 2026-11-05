@@ -4,6 +4,7 @@
   "description": "Unlock Metry data in Reason.",
   "homepage": "https://metry.io/",
   "docs": "https://metry.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "metry": {

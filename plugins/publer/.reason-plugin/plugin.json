@@ -4,6 +4,7 @@
   "description": "Schedule & manage social media.",
   "homepage": "https://publer.com",
   "docs": "https://publer.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "publer": {

@@ -4,6 +4,7 @@
   "description": "Search jobs across Canada.",
   "homepage": "https://maplestack.ca",
   "docs": "https://maplestack.ca/assistants",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "maplestack": {

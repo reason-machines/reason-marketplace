@@ -4,6 +4,7 @@
   "description": "Search meetings, notes & tasks.",
   "homepage": "https://voicecap.ai",
   "docs": "https://voicecap.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voicecap": {

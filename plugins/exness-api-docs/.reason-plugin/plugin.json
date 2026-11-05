@@ -4,6 +4,7 @@
   "description": "Exness API documentation.",
   "homepage": "https://www.exness-api.com/",
   "docs": "https://www.exness-api.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "exness-api-docs": {

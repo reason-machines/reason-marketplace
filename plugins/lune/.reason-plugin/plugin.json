@@ -4,6 +4,7 @@
   "description": "Research knowledge and tools.",
   "homepage": "https://luneresearch.com",
   "docs": "https://luneresearch.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lune": {

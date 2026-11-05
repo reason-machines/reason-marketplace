@@ -4,6 +4,7 @@
   "description": "Cocktail Recipe & Mixology App.",
   "homepage": "https://pocketbartender.app",
   "docs": "https://pocketbartender.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pocket-bartender": {

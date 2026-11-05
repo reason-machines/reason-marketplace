@@ -4,6 +4,7 @@
   "description": "Search Albania property.",
   "homepage": "https://v2v.al",
   "docs": "https://v2v.al",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "v2v": {

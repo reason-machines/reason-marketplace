@@ -4,6 +4,7 @@
   "description": "Find childcare facility facts.",
   "homepage": "https://kikaret.ai",
   "docs": "https://kikaret.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kikaret": {

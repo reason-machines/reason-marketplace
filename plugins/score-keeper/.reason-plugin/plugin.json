@@ -4,6 +4,7 @@
   "description": "Scoreboard & game scores.",
   "homepage": "https://score-keeper.zovo.one",
   "docs": "https://score-keeper.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "score-keeper": {

@@ -4,6 +4,7 @@
   "description": "Catalog and feed autopilot.",
   "homepage": "https://dash.optifeed.com/connector",
   "docs": "https://dash.optifeed.com/connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "optifeed": {

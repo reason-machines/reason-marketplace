@@ -4,6 +4,7 @@
   "description": "Search and AI visibility.",
   "homepage": "https://thefindable.co/",
   "docs": "https://thefindable.co/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "findable": {

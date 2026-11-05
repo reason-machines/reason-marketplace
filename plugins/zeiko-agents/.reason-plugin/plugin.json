@@ -4,6 +4,7 @@
   "description": "Create and test support agents.",
   "homepage": "https://zeiko.io",
   "docs": "https://zeiko.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zeiko-agents": {

@@ -4,6 +4,7 @@
   "description": "Retail analytics and actions.",
   "homepage": "https://aitomic.ai",
   "docs": "https://sara.aitomic.ai/mcp-docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sara-by-aitomic": {

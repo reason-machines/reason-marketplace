@@ -4,6 +4,7 @@
   "description": "Host apps and websites.",
   "homepage": "https://hatchable.com",
   "docs": "https://hatchable.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hatchable": {

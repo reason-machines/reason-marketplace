@@ -4,6 +4,7 @@
   "description": "Research yachts for sale.",
   "homepage": "https://www.hmy.com/",
   "docs": "https://www.hmy.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hmy-yachts": {

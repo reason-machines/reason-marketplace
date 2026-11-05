@@ -4,6 +4,7 @@
   "description": "Find Belgrade rentals.",
   "homepage": "https://flatovo.rodn.dev",
   "docs": "https://flatovo.rodn.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "flatovo": {

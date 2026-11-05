@@ -4,6 +4,7 @@
   "description": "Australian government data.",
   "homepage": "https://publicdata.au",
   "docs": "https://publicdata.au",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "publicdata-au": {

@@ -4,6 +4,7 @@
   "description": "AI stock research and screens.",
   "homepage": "https://optionedge.ai",
   "docs": "https://tedix.dev/apps/optionedge-ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "optionedge-ai": {

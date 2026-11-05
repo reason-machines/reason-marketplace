@@ -4,6 +4,7 @@
   "description": "Run Google Ads, Meta + 50 More.",
   "homepage": "https://www.markifact.com/",
   "docs": "https://www.markifact.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "markifact-google-and-meta-ads": {

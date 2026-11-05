@@ -4,6 +4,7 @@
   "description": "LSAT prep inside Reason.",
   "homepage": "https://getjurly.com",
   "docs": "https://getjurly.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dev-6adae5e1f5988191861a8f4b5cb968f3": {

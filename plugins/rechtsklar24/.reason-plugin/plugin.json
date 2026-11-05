@@ -4,6 +4,7 @@
   "description": "Onlineshop-Recht mit Quellen.",
   "homepage": "https://rechtsklar24.de",
   "docs": "https://rechtsklar24.de",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rechtsklar24": {

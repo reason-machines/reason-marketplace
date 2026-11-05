@@ -4,6 +4,7 @@
   "description": "Email signatures for your team.",
   "homepage": "https://signatoro.com",
   "docs": "https://signatoro.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "signatoro": {

@@ -4,6 +4,7 @@
   "description": "Access your Helium 10 data.",
   "homepage": "https://www.helium10.com/",
   "docs": "https://www.helium10.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "helium-10": {

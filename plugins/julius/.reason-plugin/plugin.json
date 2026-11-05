@@ -4,6 +4,7 @@
   "description": "Analyze data and build reports.",
   "homepage": "https://julius.ai",
   "docs": "https://julius.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "julius": {

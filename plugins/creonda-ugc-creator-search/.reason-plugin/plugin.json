@@ -4,6 +4,7 @@
   "description": "Find vetted UGC creators.",
   "homepage": "https://creonda.com",
   "docs": "https://creonda.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "creonda-ugc-creator-search": {

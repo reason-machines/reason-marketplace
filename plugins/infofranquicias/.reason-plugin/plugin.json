@@ -4,6 +4,7 @@
   "description": "Busca franquicias en Reason.",
   "homepage": "https://www.infofranquicias.com/",
   "docs": "https://www.infofranquicias.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "infofranquicias": {

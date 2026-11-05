@@ -4,6 +4,7 @@
   "description": "Free website scans and growth.",
   "homepage": "https://growmywebsite.com/",
   "docs": "https://growmywebsite.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "grow-my-website": {

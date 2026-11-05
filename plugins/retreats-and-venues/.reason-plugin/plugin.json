@@ -4,6 +4,7 @@
   "description": "Find the best venues.",
   "homepage": "https://retreatsandvenues.com/",
   "docs": "https://retreatsandvenues.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "retreats-and-venues": {

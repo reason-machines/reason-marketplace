@@ -4,6 +4,7 @@
   "description": "Trip planner & packing lists.",
   "homepage": "https://heycompi.com",
   "docs": "https://heycompi.com/help/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "compi": {

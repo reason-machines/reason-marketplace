@@ -4,6 +4,7 @@
   "description": "GIS data for any place.",
   "homepage": "https://terra-lab.ai",
   "docs": "https://terra-lab.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "terralab": {

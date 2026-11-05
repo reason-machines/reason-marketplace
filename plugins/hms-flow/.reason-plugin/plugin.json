@@ -4,6 +4,7 @@
   "description": "Hotel management assistant.",
   "homepage": "https://www.hmsflow.com",
   "docs": "https://www.hmsflow.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hms-flow": {

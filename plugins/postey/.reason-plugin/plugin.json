@@ -4,6 +4,7 @@
   "description": "Draft & schedule social posts.",
   "homepage": "https://postey.ai",
   "docs": "https://postey.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postey": {

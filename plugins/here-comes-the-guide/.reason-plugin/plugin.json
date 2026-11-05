@@ -4,6 +4,7 @@
   "description": "Find your dream wedding venue.",
   "homepage": "https://www.herecomestheguide.com",
   "docs": "https://www.herecomestheguide.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "here-comes-the-guide": {

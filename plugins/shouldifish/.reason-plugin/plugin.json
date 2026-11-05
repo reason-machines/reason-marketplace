@@ -4,6 +4,7 @@
   "description": "Tides & fishing times.",
   "homepage": "https://www.shouldifish.app/chatgpt",
   "docs": "https://www.shouldifish.app/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "shouldifish": {

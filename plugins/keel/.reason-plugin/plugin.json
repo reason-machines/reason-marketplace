@@ -4,6 +4,7 @@
   "description": "Hyperliquid strategy builder.",
   "homepage": "https://usekeel.io",
   "docs": "https://usekeel.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "keel": {

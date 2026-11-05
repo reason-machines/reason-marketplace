@@ -4,6 +4,7 @@
   "description": "Check legal citations.",
   "homepage": "https://loupe.legal",
   "docs": "https://loupe.legal",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "loupe-citation-checker": {

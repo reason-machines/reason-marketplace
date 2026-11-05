@@ -4,6 +4,7 @@
   "description": "Shop JAWD jaw trainers.",
   "homepage": "https://jawd.in",
   "docs": "https://jawd.in",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jawd": {

@@ -4,6 +4,7 @@
   "description": "Offshore savings rates.",
   "homepage": "https://bratucapital.com",
   "docs": "https://tedix.dev/apps/expat-savings-rates/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "expat-savings-rates": {

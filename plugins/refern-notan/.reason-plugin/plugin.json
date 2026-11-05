@@ -4,6 +4,7 @@
   "description": "Turn images into notan studies.",
   "homepage": "https://www.refern.app/tools/notan-generator",
   "docs": "https://www.refern.app/tools/notan-generator",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "refern-notan": {

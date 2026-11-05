@@ -4,6 +4,7 @@
   "description": "Find leads & automate outreach.",
   "homepage": "https://seamless.ai",
   "docs": "https://seamless.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seamless": {

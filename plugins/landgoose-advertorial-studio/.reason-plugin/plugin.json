@@ -4,6 +4,7 @@
   "description": "Create advertorial pages.",
   "homepage": "https://landgoose.com/",
   "docs": "https://landgoose.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "landgoose-advertorial-studio": {

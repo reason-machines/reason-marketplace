@@ -4,6 +4,7 @@
   "description": "Your AI trading risk officer.",
   "homepage": "https://tally.markets",
   "docs": "https://tally.markets/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tally-markets": {

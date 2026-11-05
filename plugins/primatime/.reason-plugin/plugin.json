@@ -4,6 +4,7 @@
   "description": "Track time and manage work.",
   "homepage": "https://primatime.com",
   "docs": "https://primatime.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "primatime": {

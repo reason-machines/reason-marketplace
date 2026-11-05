@@ -4,6 +4,7 @@
   "description": "Find industrial suppliers.",
   "homepage": "https://getfactoryfox.com/",
   "docs": "https://getfactoryfox.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "factoryfox": {

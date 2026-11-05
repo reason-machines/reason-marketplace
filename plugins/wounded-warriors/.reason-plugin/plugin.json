@@ -4,6 +4,7 @@
   "description": "Veteran help and giving info.",
   "homepage": "https://warriorsfund.org/",
   "docs": "https://warriorsfund.org/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wounded-warriors": {

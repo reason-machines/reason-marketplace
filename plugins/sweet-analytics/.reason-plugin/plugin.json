@@ -4,6 +4,7 @@
   "description": "Ask your data anything.",
   "homepage": "https://sweetanalytics.com/privacy-policy",
   "docs": "https://sweetanalytics.com/privacy-policy",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sweet-analytics": {

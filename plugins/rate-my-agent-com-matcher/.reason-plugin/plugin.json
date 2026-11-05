@@ -4,6 +4,7 @@
   "description": "Match to the best Realtor.",
   "homepage": "https://www.rate-my-agent.com/",
   "docs": "https://www.rate-my-agent.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rate-my-agent-com-matcher": {

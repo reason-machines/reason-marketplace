@@ -4,6 +4,7 @@
   "description": "Find relevant remote jobs.",
   "homepage": "https://www.curaiz.com/remote-jobs-mcp",
   "docs": "https://www.curaiz.com/remote-jobs-mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "curaiz-remote-jobs": {

@@ -4,6 +4,7 @@
   "description": "Find and read research papers.",
   "homepage": "https://undermind.ai",
   "docs": "https://undermind.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "undermind": {

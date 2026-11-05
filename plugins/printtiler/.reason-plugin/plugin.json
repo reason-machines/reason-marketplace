@@ -4,6 +4,7 @@
   "description": "Create tiled poster layouts.",
   "homepage": "https://printtiler.com",
   "docs": "https://printtiler.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "printtiler": {

@@ -4,6 +4,7 @@
   "description": "Log REPS hours from chat.",
   "homepage": "https://repstime.com",
   "docs": "https://repstime.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reps-time": {

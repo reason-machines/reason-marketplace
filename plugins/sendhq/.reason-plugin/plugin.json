@@ -4,6 +4,7 @@
   "description": "Email API and inbox.",
   "homepage": "https://sendhq.cc",
   "docs": "https://sendhq.cc",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sendhq": {

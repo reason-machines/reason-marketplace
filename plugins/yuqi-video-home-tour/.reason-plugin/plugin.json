@@ -4,6 +4,7 @@
   "description": "Real video tours of CA homes.",
   "homepage": "https://www.yunaione.com",
   "docs": "https://www.yunaione.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "yuqi-video-home-tour": {

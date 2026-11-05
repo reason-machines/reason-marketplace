@@ -4,6 +4,7 @@
   "description": "Track SEO and page changes.",
   "homepage": "https://pagepulse.dev/",
   "docs": "https://pagepulse.dev/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "page-pulse": {

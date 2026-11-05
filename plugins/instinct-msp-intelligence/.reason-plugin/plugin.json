@@ -4,6 +4,7 @@
   "description": "MSP market intelligence.",
   "homepage": "https://mspmcp.com",
   "docs": "https://mspmcp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "instinct-msp-intelligence": {

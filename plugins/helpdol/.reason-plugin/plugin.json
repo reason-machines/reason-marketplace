@@ -4,6 +4,7 @@
   "description": "Track your business finances.",
   "homepage": "https://helpdol.com",
   "docs": "https://helpdol.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "helpdol": {

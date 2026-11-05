@@ -4,6 +4,7 @@
   "description": "Ask AI about your team's work.",
   "homepage": "https://useworktivity.com",
   "docs": "https://useworktivity.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "worktivity": {

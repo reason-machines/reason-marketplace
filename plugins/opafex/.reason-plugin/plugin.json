@@ -4,6 +4,7 @@
   "description": "Where AI fits in your firm.",
   "homepage": "https://opafex.com/assistant-tools",
   "docs": "https://opafex.com/assistant-tools",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "opafex": {

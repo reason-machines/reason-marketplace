@@ -4,6 +4,7 @@
   "description": "Find company data.",
   "homepage": "https://grata.com",
   "docs": "https://grata.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "grata": {

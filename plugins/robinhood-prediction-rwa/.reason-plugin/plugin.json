@@ -4,6 +4,7 @@
   "description": "Tokenized stock reference data.",
   "homepage": "https://scriptmasterlabs.com",
   "docs": "https://scriptmasterlabs.com/.well-known/sml-mcp-inventory.json",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "robinhood-prediction-rwa": {

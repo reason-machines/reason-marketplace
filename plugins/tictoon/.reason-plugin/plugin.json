@@ -4,6 +4,7 @@
   "description": "Create and publish comics.",
   "homepage": "https://tictoon-global.web.app",
   "docs": "https://tictoon-global.web.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tictoon": {

@@ -4,6 +4,7 @@
   "description": "Find your funeral plan.",
   "homepage": "https://www.pazy.es",
   "docs": "https://tedix.dev/apps/pazy/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pazy": {

@@ -4,6 +4,7 @@
   "description": "Your winery data in one place.",
   "homepage": "https://www.newvintage.ai",
   "docs": "https://www.newvintage.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "new-vintage": {

@@ -4,6 +4,7 @@
   "description": "Catches what AI misses.",
   "homepage": "https://pedagrade.com",
   "docs": "https://app.pedagrade.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pedagrade": {

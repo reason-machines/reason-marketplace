@@ -4,6 +4,7 @@
   "description": "Make proposals, portals & more.",
   "homepage": "https://wzrd.to",
   "docs": "https://wzrd.to/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wzrd-rooms": {

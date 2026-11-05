@@ -4,6 +4,7 @@
   "description": "Find Campgrounds & RV Parks.",
   "homepage": "https://outreserve.com",
   "docs": "https://outreserve.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "outreserve": {

@@ -4,6 +4,7 @@
   "description": "Find creators on Linktree.",
   "homepage": "https://linktr.ee",
   "docs": "https://mcp.linktr.ee/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "linktree": {

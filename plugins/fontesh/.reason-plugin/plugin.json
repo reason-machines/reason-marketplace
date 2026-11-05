@@ -4,6 +4,7 @@
   "description": "Identify Persian fonts.",
   "homepage": "https://fontesh.ir/",
   "docs": "https://fontesh.ir/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fontesh": {

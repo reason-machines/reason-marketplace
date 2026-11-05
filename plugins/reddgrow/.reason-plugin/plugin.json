@@ -4,6 +4,7 @@
   "description": "Get found on Reddit and AI.",
   "homepage": "https://reddgrow.ai",
   "docs": "https://reddgrow.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reddgrow": {

@@ -4,6 +4,7 @@
   "description": "Search and organize notes.",
   "homepage": "https://tiro.ooo",
   "docs": "https://tiro.ooo",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tiro": {

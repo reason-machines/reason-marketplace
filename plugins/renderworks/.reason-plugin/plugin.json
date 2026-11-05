@@ -4,6 +4,7 @@
   "description": "Projects, schedules and tasks.",
   "homepage": "https://www.renderworks.jp",
   "docs": "https://www.renderworks.jp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "renderworks": {

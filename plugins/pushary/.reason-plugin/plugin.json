@@ -4,6 +4,7 @@
   "description": "Answer agents from your phone.",
   "homepage": "https://pushary.com",
   "docs": "https://pushary.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pushary": {

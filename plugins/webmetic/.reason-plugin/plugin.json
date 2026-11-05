@@ -4,6 +4,7 @@
   "description": "Identify visiting companies.",
   "homepage": "https://webmetic.de",
   "docs": "https://webmetic.de",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "webmetic": {

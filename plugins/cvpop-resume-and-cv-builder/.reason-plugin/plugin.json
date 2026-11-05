@@ -4,6 +4,7 @@
   "description": "Your next job starts here.",
   "homepage": "https://cvpop.com",
   "docs": "https://cvpop.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cvpop-resume-and-cv-builder": {

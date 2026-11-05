@@ -4,6 +4,7 @@
   "description": "Compare wine prices at stores.",
   "homepage": "https://vinoalert.com/connect/",
   "docs": "https://vinoalert.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vino-alert": {

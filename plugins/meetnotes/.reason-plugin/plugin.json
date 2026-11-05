@@ -4,6 +4,7 @@
   "description": "Minutes from your meetings.",
   "homepage": "https://getmeetnotes.com",
   "docs": "https://getmeetnotes.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meetnotes": {

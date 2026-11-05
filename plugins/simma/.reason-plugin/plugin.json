@@ -4,6 +4,7 @@
   "description": "Triathlon & endurance coaching.",
   "homepage": "https://getsimma.com",
   "docs": "https://getsimma.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simma": {

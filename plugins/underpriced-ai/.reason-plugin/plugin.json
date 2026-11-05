@@ -4,6 +4,7 @@
   "description": "Find what an item resells for.",
   "homepage": "https://underpricedai.com",
   "docs": "https://underpricedai.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "underpriced-ai": {

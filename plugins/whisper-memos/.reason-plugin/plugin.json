@@ -4,6 +4,7 @@
   "description": "Work with your voice memos.",
   "homepage": "https://whispermemos.com",
   "docs": "https://whispermemos.com/kb/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whisper-memos": {

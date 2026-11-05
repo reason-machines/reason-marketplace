@@ -4,6 +4,7 @@
   "description": "Coach and schedule workouts.",
   "homepage": "https://www.runningworkout.fr/?lang=en",
   "docs": "https://runningworkout.fr/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "running-workout": {

@@ -4,6 +4,7 @@
   "description": "Oversize Hauling Guides.",
   "homepage": "https://routeall.app",
   "docs": "https://routeall.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "routeall-knowledge": {

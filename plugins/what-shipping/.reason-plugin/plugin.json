@@ -4,6 +4,7 @@
   "description": "Dropshipping store research.",
   "homepage": "https://www.whatshipping.com",
   "docs": "https://www.whatshipping.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "what-shipping": {

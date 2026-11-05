@@ -4,6 +4,7 @@
   "description": "Quote, book and track parcels.",
   "homepage": "https://rentadriver.ai",
   "docs": "https://rentadriver.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rentadriver": {

@@ -4,6 +4,7 @@
   "description": "Track projects and issues.",
   "homepage": "https://atlier.ai",
   "docs": "https://atlier.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "project-desk": {

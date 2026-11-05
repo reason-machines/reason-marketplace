@@ -4,6 +4,7 @@
   "description": "International rental spaces.",
   "homepage": "https://www.spacecloud.city",
   "docs": "https://www.spacecloud.city",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spacecloud-global": {

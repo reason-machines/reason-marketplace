@@ -4,6 +4,7 @@
   "description": "Track fitness.",
   "homepage": "https://trainerrr.xyz/",
   "docs": "https://trainerrr.xyz/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trainerrr": {

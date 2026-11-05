@@ -4,6 +4,7 @@
   "description": "Plan and manage schoolwork.",
   "homepage": "https://schedly.liamkellum.com/chatgpt",
   "docs": "https://schedly.liamkellum.com/api/mcp/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "schedly": {

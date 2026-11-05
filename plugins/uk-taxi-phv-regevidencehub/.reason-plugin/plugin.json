@@ -4,6 +4,7 @@
   "description": "Taxi/PHV licensing preflight.",
   "homepage": "https://regevidencehub.com/products/taxi.html",
   "docs": "https://regevidencehub.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uk-taxi-phv-regevidencehub": {

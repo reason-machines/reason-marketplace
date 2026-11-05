@@ -4,6 +4,7 @@
   "description": "Find property and owner leads.",
   "homepage": "https://www.dealmachine.com",
   "docs": "https://www.dealmachine.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dealmachine": {

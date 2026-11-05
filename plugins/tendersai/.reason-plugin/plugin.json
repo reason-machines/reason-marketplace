@@ -4,6 +4,7 @@
   "description": "Public tenders and award data.",
   "homepage": "https://tendersai.com",
   "docs": "https://tendersai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tendersai": {

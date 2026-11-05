@@ -4,6 +4,7 @@
   "description": "Build websites, apps and games.",
   "homepage": "https://www.meeem.ai",
   "docs": "https://www.meeem.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meeem": {

@@ -4,6 +4,7 @@
   "description": "Website feedback for agents.",
   "homepage": "https://fydbek.com",
   "docs": "https://fydbek.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fydbek": {

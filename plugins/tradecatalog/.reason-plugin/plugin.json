@@ -4,6 +4,7 @@
   "description": "Supplier catalogues and orders.",
   "homepage": "https://tradecatalog.app",
   "docs": "https://tradecatalog.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tradecatalog": {

@@ -4,6 +4,7 @@
   "description": "US permit and campsite lookup.",
   "homepage": "https://permitsnag.com",
   "docs": "https://permitsnag.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "permitsnag-lookup": {

@@ -4,6 +4,7 @@
   "description": "Rent ledgers and prorated rent.",
   "homepage": "https://rent-ledger.zovo.one",
   "docs": "https://rent-ledger.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rent-ledger": {

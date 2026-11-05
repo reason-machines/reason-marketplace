@@ -4,6 +4,7 @@
   "description": "Honest brand critiques.",
   "homepage": "https://sigilbrandstudio.com/",
   "docs": "https://sigilbrandstudio.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sigil": {

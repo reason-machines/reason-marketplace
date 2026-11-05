@@ -4,6 +4,7 @@
   "description": "Shared memory for agents.",
   "homepage": "https://memco.ai",
   "docs": "https://docs.memco.ai/quickstart/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "memco-shared-memory": {

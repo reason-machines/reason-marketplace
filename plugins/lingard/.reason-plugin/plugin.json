@@ -4,6 +4,7 @@
   "description": "Learn words you care about.",
   "homepage": "https://lingard.app",
   "docs": "https://lingard.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lingard": {

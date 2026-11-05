@@ -4,6 +4,7 @@
   "description": "Search company information.",
   "homepage": "https://salesnow.jp/mcp",
   "docs": "https://salesnow.jp/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "salesnow": {

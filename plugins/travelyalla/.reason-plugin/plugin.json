@@ -4,6 +4,7 @@
   "description": "Find cheap flights & hotels.",
   "homepage": "https://travelyalla.com",
   "docs": "https://travelyalla.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "travelyalla": {

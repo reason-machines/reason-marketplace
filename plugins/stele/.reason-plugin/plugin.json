@@ -4,6 +4,7 @@
   "description": "Share memory across AI agents.",
   "homepage": "https://stele-ai.dev",
   "docs": "https://stele-ai.dev/docs/setup-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stele": {

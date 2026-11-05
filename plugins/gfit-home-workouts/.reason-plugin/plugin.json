@@ -4,6 +4,7 @@
   "description": "Guided home workouts.",
   "homepage": "https://chatgpt.gfit.world",
   "docs": "https://chatgpt.gfit.world",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gfit-home-workouts": {

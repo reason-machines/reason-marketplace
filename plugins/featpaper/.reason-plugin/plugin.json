@@ -4,6 +4,7 @@
   "description": "Make and share documents.",
   "homepage": "https://featpaper.com",
   "docs": "https://featpaper.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "featpaper": {

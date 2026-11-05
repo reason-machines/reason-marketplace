@@ -4,6 +4,7 @@
   "description": "Audit your GA4 conversion rate.",
   "homepage": "https://convradar.com/",
   "docs": "https://convradar.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "convradar-cro-for-ga4": {

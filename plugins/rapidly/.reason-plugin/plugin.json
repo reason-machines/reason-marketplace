@@ -4,6 +4,7 @@
   "description": "Test ideas before building.",
   "homepage": "https://www.rapidly.co/rapidly-mcp",
   "docs": "https://www.rapidly.co/rapidly-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rapidly": {

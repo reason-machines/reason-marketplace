@@ -4,6 +4,7 @@
   "description": "Name screening and reviews.",
   "homepage": "https://scovell.rotundahq.com",
   "docs": "https://scovell.rotundahq.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scovell": {

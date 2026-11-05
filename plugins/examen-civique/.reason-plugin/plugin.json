@@ -4,6 +4,7 @@
   "description": "Practice the French civic exam.",
   "homepage": "https://examen-civique-alice.fr",
   "docs": "https://examen-civique-alice.fr",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "examen-civique": {

@@ -4,6 +4,7 @@
   "description": "Create and edit case studies.",
   "homepage": "https://www.livecase.com",
   "docs": "https://livecase.com/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "livecase": {

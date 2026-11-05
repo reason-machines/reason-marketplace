@@ -4,6 +4,7 @@
   "description": "AI exam preparation coach.",
   "homepage": "https://mockmentor.ai",
   "docs": "https://mockmentor.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mock-mentor": {

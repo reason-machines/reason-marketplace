@@ -4,6 +4,7 @@
   "description": "Create and study flashcards.",
   "homepage": "https://nibomo.com",
   "docs": "https://nibomo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nibomo-flashcards": {

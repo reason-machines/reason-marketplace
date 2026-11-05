@@ -4,6 +4,7 @@
   "description": "Actionable Data for the Music.",
   "homepage": "https://soundcharts.com",
   "docs": "https://soundcharts.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "soundcharts": {

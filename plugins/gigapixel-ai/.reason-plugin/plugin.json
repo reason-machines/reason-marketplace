@@ -4,6 +4,7 @@
   "description": "Upscale photos and images.",
   "homepage": "https://gigapixelai.com",
   "docs": "https://gigapixelai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gigapixel-ai": {

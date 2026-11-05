@@ -4,6 +4,7 @@
   "description": "Twitter accounts in one place.",
   "homepage": "https://extweets.com",
   "docs": "https://extweets.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "extweets": {

@@ -4,6 +4,7 @@
   "description": "Business insights and audits.",
   "homepage": "https://tawteen360.com",
   "docs": "https://tawteen360.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tawteen-360": {

@@ -4,6 +4,7 @@
   "description": "Manage your CRM from Reason.",
   "homepage": "https://www.sunate.app/",
   "docs": "https://sunate.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sunate": {

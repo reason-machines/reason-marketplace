@@ -4,6 +4,7 @@
   "description": "Real Time Financial Data.",
   "homepage": "https://www.forinvest.com",
   "docs": "https://www.forinvest.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "forinvest": {

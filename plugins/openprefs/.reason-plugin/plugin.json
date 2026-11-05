@@ -4,6 +4,7 @@
   "description": "Your preferences in one place.",
   "homepage": "https://openprefs.ai",
   "docs": "https://openprefs.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openprefs": {

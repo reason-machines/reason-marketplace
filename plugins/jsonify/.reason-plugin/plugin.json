@@ -4,6 +4,7 @@
   "description": "Reliable web data, on repeat.",
   "homepage": "https://www.jsonify.com",
   "docs": "https://www.jsonify.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jsonify": {

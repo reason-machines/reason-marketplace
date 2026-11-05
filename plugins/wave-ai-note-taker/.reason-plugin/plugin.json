@@ -4,6 +4,7 @@
   "description": "Search and synthesize meetings.",
   "homepage": "https://wave.co",
   "docs": "https://wave.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wave-ai-note-taker": {

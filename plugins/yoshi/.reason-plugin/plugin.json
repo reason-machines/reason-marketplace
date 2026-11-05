@@ -4,6 +4,7 @@
   "description": "Your finances in Reason.",
   "homepage": "https://yoshi.ai/",
   "docs": "https://tedix.dev/apps/yoshi/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yoshi": {

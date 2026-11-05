@@ -4,6 +4,7 @@
   "description": "Restaurant costs, sales & P&L.",
   "homepage": "https://www.marginedge.com",
   "docs": "https://www.marginedge.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "marginedge": {

@@ -4,6 +4,7 @@
   "description": "Mataró news and events.",
   "homepage": "https://mataro.fm/",
   "docs": "https://mataro.fm/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mataro": {

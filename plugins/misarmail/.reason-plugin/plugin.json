@@ -4,6 +4,7 @@
   "description": "Email campaigns and contacts.",
   "homepage": "https://www.misarmail.com",
   "docs": "https://www.misarmail.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "misarmail": {

@@ -4,6 +4,7 @@
   "description": "AI worksheets for teachers.",
   "homepage": "https://www.quizoffice.com/en/",
   "docs": "https://www.quizoffice.com/en/ai-worksheet/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quizoffice": {

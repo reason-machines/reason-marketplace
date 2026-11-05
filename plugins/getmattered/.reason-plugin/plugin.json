@@ -4,6 +4,7 @@
   "description": "Find jobs and auto-apply.",
   "homepage": "https://getmattered.com",
   "docs": "https://getmattered.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getmattered": {

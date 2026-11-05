@@ -4,6 +4,7 @@
   "description": "Soccer data and stats.",
   "homepage": "https://strikerapi.com",
   "docs": "https://strikerapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "strikerapi": {

@@ -4,6 +4,7 @@
   "description": "Manage contacts and follow-ups.",
   "homepage": "https://getdex.com",
   "docs": "https://getdex.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dex": {

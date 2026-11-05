@@ -4,6 +4,7 @@
   "description": "Read, compare and watch pages.",
   "homepage": "https://puley.com",
   "docs": "https://puley.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "puley": {

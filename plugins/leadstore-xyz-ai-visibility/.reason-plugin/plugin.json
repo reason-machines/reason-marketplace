@@ -4,6 +4,7 @@
   "description": "SEO, AEO, GEO, LLMO and ASO.",
   "homepage": "https://www.leadstore.xyz",
   "docs": "https://www.leadstore.xyz",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leadstore-xyz-ai-visibility": {

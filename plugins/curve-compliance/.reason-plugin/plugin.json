@@ -4,6 +4,7 @@
   "description": "HIPAA-safe ad tracking checks.",
   "homepage": "https://www.curvecompliance.com/chatgpt",
   "docs": "https://www.curvecompliance.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "curve-compliance": {

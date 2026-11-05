@@ -4,6 +4,7 @@
   "description": "Find rentals or list an item.",
   "homepage": "https://life4rent.app",
   "docs": "https://life4rent.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "life4rent": {

@@ -4,6 +4,7 @@
   "description": "Lesson preparation in Estonian.",
   "homepage": "https://tehisarud.ee",
   "docs": "https://tehisarud.ee",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tops": {

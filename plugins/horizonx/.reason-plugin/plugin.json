@@ -4,6 +4,7 @@
   "description": "Animated UI for your code.",
   "homepage": "https://horizonx.so",
   "docs": "https://horizonx.so/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "horizonx": {

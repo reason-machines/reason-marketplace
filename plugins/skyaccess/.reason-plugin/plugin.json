@@ -4,6 +4,7 @@
   "description": "Find private jet empty legs.",
   "homepage": "https://skyaccess.com",
   "docs": "https://skyaccess.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "skyaccess": {

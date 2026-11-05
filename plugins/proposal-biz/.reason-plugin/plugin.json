@@ -4,6 +4,7 @@
   "description": "Create sales documents.",
   "homepage": "https://www.proposal.biz",
   "docs": "https://proposal.biz/features/mcp-server-connect/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "proposal-biz": {

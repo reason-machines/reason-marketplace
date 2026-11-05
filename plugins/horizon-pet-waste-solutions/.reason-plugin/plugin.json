@@ -4,6 +4,7 @@
   "description": "Get a pet waste removal quote.",
   "homepage": "https://www.horizonpetwastesolutions.com",
   "docs": "https://horizonpetwastesolutions.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "horizon-pet-waste-solutions": {

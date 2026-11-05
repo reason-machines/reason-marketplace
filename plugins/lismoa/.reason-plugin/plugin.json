@@ -4,6 +4,7 @@
   "description": "Amazon sales, profit, and ads.",
   "homepage": "https://lismoa.com",
   "docs": "https://lismoa.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lismoa": {

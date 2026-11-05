@@ -4,6 +4,7 @@
   "description": "Track expenses & budgets.",
   "homepage": "https://smart-money.ink/",
   "docs": "https://smart-money.ink/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smart-money-tracker": {

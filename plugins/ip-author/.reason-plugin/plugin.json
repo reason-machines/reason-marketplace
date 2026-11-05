@@ -4,6 +4,7 @@
   "description": "Patent search and analysis.",
   "homepage": "https://ipauthor.com/",
   "docs": "https://ipauthor.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ip-author": {

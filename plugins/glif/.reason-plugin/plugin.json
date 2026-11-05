@@ -4,6 +4,7 @@
   "description": "Create images, video & audio.",
   "homepage": "https://glif.app",
   "docs": "https://glif.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "glif": {

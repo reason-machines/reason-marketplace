@@ -4,6 +4,7 @@
   "description": "Create and edit AI videos.",
   "homepage": "https://sequencer.media",
   "docs": "https://sequencer.media",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sequencer": {

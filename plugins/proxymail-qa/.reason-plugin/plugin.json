@@ -4,6 +4,7 @@
   "description": "Test inboxes for app sign-ups.",
   "homepage": "https://proxymail.qa",
   "docs": "https://proxymail.qa/features/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "proxymail-qa": {

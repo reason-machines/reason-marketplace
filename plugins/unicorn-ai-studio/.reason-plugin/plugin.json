@@ -4,6 +4,7 @@
   "description": "Create narration and podcasts.",
   "homepage": "https://unicornstudio.ca",
   "docs": "https://unicornstudio.ca",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unicorn-ai-studio": {

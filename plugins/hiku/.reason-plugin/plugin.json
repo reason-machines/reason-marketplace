@@ -4,6 +4,7 @@
   "description": "Daily number puzzle.",
   "homepage": "https://hikupuzzle.com/en/",
   "docs": "https://hikupuzzle.com/en/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hiku": {

@@ -4,6 +4,7 @@
   "description": "Find flights & explore fares.",
   "homepage": "https://flaut.travel",
   "docs": "https://flaut.travel",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "flaut-travel": {

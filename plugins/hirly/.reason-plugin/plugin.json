@@ -4,6 +4,7 @@
   "description": "Job matches and applications.",
   "homepage": "https://hirly.me",
   "docs": "https://hirly.me",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hirly": {

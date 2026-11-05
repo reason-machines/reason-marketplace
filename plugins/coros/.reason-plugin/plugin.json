@@ -4,6 +4,7 @@
   "description": "Know your training. Plan ahead.",
   "homepage": "https://coros.com/",
   "docs": "https://coros.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coros": {

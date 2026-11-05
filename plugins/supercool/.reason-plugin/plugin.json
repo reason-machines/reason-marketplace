@@ -4,6 +4,7 @@
   "description": "Videos, sites, decks and more.",
   "homepage": "https://supercool.com",
   "docs": "https://supercool.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "supercool": {

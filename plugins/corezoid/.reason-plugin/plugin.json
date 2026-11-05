@@ -4,6 +4,7 @@
   "description": "Corezoid processes in your IDE.",
   "homepage": "https://corezoid.com",
   "docs": "https://corezoid.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "corezoid": {

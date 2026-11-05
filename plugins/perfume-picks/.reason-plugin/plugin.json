@@ -4,6 +4,7 @@
   "description": "Fragrance dupes and picks.",
   "homepage": "https://perfumepicks.app",
   "docs": "https://perfumepicks.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "perfume-picks": {

@@ -4,6 +4,7 @@
   "description": "Your personal CRM in Reason.",
   "homepage": "https://renou.ai",
   "docs": "https://renou.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "renou": {

@@ -4,6 +4,7 @@
   "description": "Fix code, cloud & AI risks.",
   "homepage": "https://orca.security",
   "docs": "https://orca.security/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orca-security": {

@@ -4,6 +4,7 @@
   "description": "Amazon analytics & ad tools.",
   "homepage": "https://www.tool4seller.com/ai/mcp/",
   "docs": "https://www.tool4seller.com/ai/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tool4seller": {

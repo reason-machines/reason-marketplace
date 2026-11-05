@@ -4,6 +4,7 @@
   "description": "Whois and domain expiry data.",
   "homepage": "https://domain-lookup.zovo.one",
   "docs": "https://domain-lookup.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "domain-lookup": {

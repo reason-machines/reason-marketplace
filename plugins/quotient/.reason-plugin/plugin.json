@@ -4,6 +4,7 @@
   "description": "GTM & marketing automation.",
   "homepage": "https://www.getquotient.ai",
   "docs": "https://www.getquotient.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quotient": {

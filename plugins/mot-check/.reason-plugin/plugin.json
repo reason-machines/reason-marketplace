@@ -4,6 +4,7 @@
   "description": "Check any UK vehicle's MOT.",
   "homepage": "https://motcheck.io",
   "docs": "https://motcheck.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mot-check": {

@@ -4,6 +4,7 @@
   "description": "AI interviews and role-play.",
   "homepage": "https://jobmojito.com",
   "docs": "https://jobmojito.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jobmojito": {

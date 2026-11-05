@@ -4,6 +4,7 @@
   "description": "Oracle prices and transfers.",
   "homepage": "https://squidlor.com",
   "docs": "https://tedix.dev/apps/squidlor/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "squidlor": {

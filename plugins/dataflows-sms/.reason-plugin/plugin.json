@@ -4,6 +4,7 @@
   "description": "SMS, campaigns and scheduling.",
   "homepage": "https://dataflows.com.au",
   "docs": "https://docs.dataflows.com.au/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dataflows-sms": {

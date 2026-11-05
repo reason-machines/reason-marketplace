@@ -4,6 +4,7 @@
   "description": "Live DNS checks, public seats.",
   "homepage": "https://isitdns.net",
   "docs": "https://isitdns.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "isitdns": {

@@ -4,6 +4,7 @@
   "description": "Create your AI video game.",
   "homepage": "https://app.yoroll.ai/",
   "docs": "https://app.yoroll.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yoroll": {

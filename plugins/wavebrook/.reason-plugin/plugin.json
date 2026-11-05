@@ -4,6 +4,7 @@
   "description": "Apps, earnings and payouts.",
   "homepage": "https://wavebrook.com",
   "docs": "https://wavebrook.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wavebrook": {

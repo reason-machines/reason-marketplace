@@ -4,6 +4,7 @@
   "description": "Your notes, your AI’s memory.",
   "homepage": "https://hjarni.com",
   "docs": "https://hjarni.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hjarni-notes-and-memory": {

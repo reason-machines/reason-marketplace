@@ -4,6 +4,7 @@
   "description": "Recipes, plans and groceries.",
   "homepage": "https://www.summitplate.com",
   "docs": "https://summitplate.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "summitplate-cookbook": {

@@ -4,6 +4,7 @@
   "description": "Ask your knowledge base.",
   "homepage": "https://fabric.so",
   "docs": "https://fabric.so/guide/ai-tools/MCP-setup",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fabric": {

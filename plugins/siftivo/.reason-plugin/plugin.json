@@ -4,6 +4,7 @@
   "description": "Book recommendations for you.",
   "homepage": "https://siftivo.com",
   "docs": "https://siftivo.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "siftivo": {

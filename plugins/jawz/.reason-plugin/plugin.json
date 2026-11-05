@@ -4,6 +4,7 @@
   "description": "Read markets, check portfolio.",
   "homepage": "https://jawz.ai",
   "docs": "https://jawz.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jawz": {

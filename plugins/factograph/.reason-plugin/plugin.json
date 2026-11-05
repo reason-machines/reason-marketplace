@@ -4,6 +4,7 @@
   "description": "Approved facts, cited answers.",
   "homepage": "https://www.factograph.app",
   "docs": "https://www.factograph.app/for-ai-agents.html",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "factograph": {

@@ -4,6 +4,7 @@
   "description": "View project analytics.",
   "homepage": "https://visua.link",
   "docs": "https://visua.link",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "visualink": {

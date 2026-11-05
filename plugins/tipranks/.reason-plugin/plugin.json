@@ -4,6 +4,7 @@
   "description": "Analyst-backed stock research.",
   "homepage": "https://github.com/TipRanks/mcp/blob/main/README.md",
   "docs": "https://github.com/TipRanks/mcp/blob/main/README.md",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tipranks": {

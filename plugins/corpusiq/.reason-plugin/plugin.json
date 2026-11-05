@@ -4,6 +4,7 @@
   "description": "All your business data in chat.",
   "homepage": "https://www.corpusiq.io",
   "docs": "https://www.corpusiq.io/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "corpusiq": {

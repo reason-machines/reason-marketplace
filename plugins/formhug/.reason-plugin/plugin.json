@@ -4,6 +4,7 @@
   "description": "Create forms, surveys, quizzes.",
   "homepage": "https://formhug.ai",
   "docs": "https://formhug.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "formhug": {

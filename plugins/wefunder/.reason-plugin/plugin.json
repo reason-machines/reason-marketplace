@@ -4,6 +4,7 @@
   "description": "Investor and startup tools.",
   "homepage": "https://wefunder.com/",
   "docs": "https://tedix.dev/apps/wefunder/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wefunder": {

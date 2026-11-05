@@ -4,6 +4,7 @@
   "description": "Find UK land and planning data.",
   "homepage": "https://searchland.co.uk",
   "docs": "https://searchland.co.uk/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "searchland": {

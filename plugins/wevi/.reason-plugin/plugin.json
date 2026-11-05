@@ -4,6 +4,7 @@
   "description": "Product videos from templates.",
   "homepage": "https://wevi.ai",
   "docs": "https://wevi.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wevi": {

@@ -4,6 +4,7 @@
   "description": "Plan tasks for now.",
   "homepage": "https://yedno.now",
   "docs": "https://yedno.now",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yedno": {

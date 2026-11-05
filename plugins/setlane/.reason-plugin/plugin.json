@@ -4,6 +4,7 @@
   "description": "Track and manage workouts.",
   "homepage": "https://setlane.app",
   "docs": "https://app.setlane.app/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "setlane": {

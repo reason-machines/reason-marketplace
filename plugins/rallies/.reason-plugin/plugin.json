@@ -4,6 +4,7 @@
   "description": "Research stocks, track wealth.",
   "homepage": "https://rallies.ai",
   "docs": "https://rallies.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rallies": {

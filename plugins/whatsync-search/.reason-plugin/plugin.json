@@ -4,6 +4,7 @@
   "description": "Search WhatsApp chats & groups.",
   "homepage": "https://construction.whasupcrm.com/",
   "docs": "https://whasupcrm.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whatsync-search": {

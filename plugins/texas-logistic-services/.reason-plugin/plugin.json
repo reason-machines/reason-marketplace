@@ -4,6 +4,7 @@
   "description": "Plan your logistics needs.",
   "homepage": "https://chatgpt.texaslogisticservices.com/",
   "docs": "https://chatgpt.texaslogisticservices.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "texas-logistic-services": {

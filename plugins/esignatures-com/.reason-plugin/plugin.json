@@ -4,6 +4,7 @@
   "description": "Draft, send & manage contracts.",
   "homepage": "https://esignatures.com",
   "docs": "https://esignatures.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "esignatures-com": {

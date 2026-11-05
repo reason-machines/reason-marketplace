@@ -4,6 +4,7 @@
   "description": "Public TKYB Information.",
   "homepage": "https://kalkinma.com.tr/",
   "docs": "https://kalkinma.com.tr/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kalk-nma-yat-r-m-bankas": {

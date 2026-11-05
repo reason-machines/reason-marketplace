@@ -4,6 +4,7 @@
   "description": "Biological AI models and tools.",
   "homepage": "https://proto.evodesign.org",
   "docs": "https://proto.evodesign.org",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "proto": {

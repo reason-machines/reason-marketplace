@@ -4,6 +4,7 @@
   "description": "Branded PowerPoint decks.",
   "homepage": "https://offgen.ai",
   "docs": "https://offgen.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "offgen": {

@@ -4,6 +4,7 @@
   "description": "Turn images into SVGs.",
   "homepage": "https://vectali.com/agents/",
   "docs": "https://vectali.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vectali": {

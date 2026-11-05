@@ -4,6 +4,7 @@
   "description": "Verified SEC filing data.",
   "homepage": "https://www.distillmarkets.com",
   "docs": "https://www.distillmarkets.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "distill-markets": {

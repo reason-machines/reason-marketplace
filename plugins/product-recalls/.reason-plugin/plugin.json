@@ -4,6 +4,7 @@
   "description": "Inventory recall screening.",
   "homepage": "https://product-recalls.zovo.one",
   "docs": "https://product-recalls.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "product-recalls": {

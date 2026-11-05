@@ -4,6 +4,7 @@
   "description": "Swiss & Austrian company facts.",
   "homepage": "https://firmen.directory/",
   "docs": "https://firmen.directory/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "firmen-directory": {

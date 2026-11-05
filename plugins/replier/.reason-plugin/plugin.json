@@ -4,6 +4,7 @@
   "description": "Automate comments and DMs.",
   "homepage": "https://usereplier.com",
   "docs": "https://usereplier.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "replier": {

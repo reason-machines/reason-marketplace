@@ -4,6 +4,7 @@
   "description": "Turn ideas into finished video.",
   "homepage": "https://frameo.ai",
   "docs": "https://frameo.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "frameo-ai": {

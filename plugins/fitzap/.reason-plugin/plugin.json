@@ -4,6 +4,7 @@
   "description": "Training and nutrition.",
   "homepage": "https://fitzapapps.com/ai-assistants",
   "docs": "https://fitzapapps.com/ai-assistants",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fitzap": {

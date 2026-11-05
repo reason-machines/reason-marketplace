@@ -4,6 +4,7 @@
   "description": "See your plan in Reason.",
   "homepage": "https://www.claritytrack.ai",
   "docs": "https://www.claritytrack.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "claritytrack": {

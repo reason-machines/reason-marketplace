@@ -4,6 +4,7 @@
   "description": "Your streams & earnings.",
   "homepage": "https://moosyc.com",
   "docs": "https://help.moosyc.com/article/use-moosyc-in-claude",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "moosyc": {

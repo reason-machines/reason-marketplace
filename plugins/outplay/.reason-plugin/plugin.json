@@ -4,6 +4,7 @@
   "description": "Run your sales outreach.",
   "homepage": "https://outplay.ai",
   "docs": "https://outplay.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "outplay": {

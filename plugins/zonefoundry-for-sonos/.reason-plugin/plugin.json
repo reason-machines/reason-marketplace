@@ -4,6 +4,7 @@
   "description": "Control your Sonos speakers.",
   "homepage": "https://zonefoundry.dev/guides/ai-agent-control/",
   "docs": "https://zonefoundry.dev/guides/ai-agent-control/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zonefoundry-for-sonos": {

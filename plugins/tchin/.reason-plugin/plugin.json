@@ -4,6 +4,7 @@
   "description": "Mobile Money payments in FCFA.",
   "homepage": "https://tchin.tech",
   "docs": "https://tchin.tech",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tchin": {

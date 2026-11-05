@@ -4,6 +4,7 @@
   "description": "Search your study library.",
   "homepage": "https://unotes.net/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=net.unotes/unotes",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unotes": {

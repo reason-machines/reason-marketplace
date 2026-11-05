@@ -4,6 +4,7 @@
   "description": "Published token assessments.",
   "homepage": "https://sentinel.firepan.com",
   "docs": "https://firepan.com/SKILL.md",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "firepan-sentinel": {

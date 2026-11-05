@@ -4,6 +4,7 @@
   "description": "Plan a move and vet movers.",
   "homepage": "https://haulest.com",
   "docs": "https://haulest.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "haulest": {

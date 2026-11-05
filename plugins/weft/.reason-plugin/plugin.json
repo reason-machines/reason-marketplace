@@ -4,6 +4,7 @@
   "description": "Your AI runs your task board.",
   "homepage": "https://letsweft.com",
   "docs": "https://letsweft.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "weft": {

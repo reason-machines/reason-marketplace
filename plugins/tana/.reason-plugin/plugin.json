@@ -4,6 +4,7 @@
   "description": "Meetings, transcripts, tasks.",
   "homepage": "https://tana.inc",
   "docs": "https://tana.inc/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tana": {

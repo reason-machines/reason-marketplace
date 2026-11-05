@@ -4,6 +4,7 @@
   "description": "Your AI marketing teammate.",
   "homepage": "https://kite.ai",
   "docs": "https://kite.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kite": {

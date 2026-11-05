@@ -4,6 +4,7 @@
   "description": "Map and search mineral claims.",
   "homepage": "https://www.explorationmaps.com",
   "docs": "https://www.explorationmaps.com/mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "explorationmaps": {

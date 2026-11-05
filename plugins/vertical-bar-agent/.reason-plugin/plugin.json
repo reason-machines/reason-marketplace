@@ -4,6 +4,7 @@
   "description": "Analyze NetSuite operations.",
   "homepage": "https://vertical.bar",
   "docs": "https://vertical.bar",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vertical-bar-agent": {

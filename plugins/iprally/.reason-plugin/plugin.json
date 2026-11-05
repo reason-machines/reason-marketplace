@@ -4,6 +4,7 @@
   "description": "Search and analyze patents.",
   "homepage": "https://www.iprally.com",
   "docs": "https://www.iprally.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iprally": {

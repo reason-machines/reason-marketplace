@@ -4,6 +4,7 @@
   "description": "Plan trips on a calendar.",
   "homepage": "https://www.triphelm.com/",
   "docs": "https://www.triphelm.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "triphelm": {

@@ -4,6 +4,7 @@
   "description": "LaTeX and Typst papers to PDF.",
   "homepage": "https://texeno.com",
   "docs": "https://texeno.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "texeno": {

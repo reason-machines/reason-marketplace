@@ -4,6 +4,7 @@
   "description": "Calorie & nutrition tracker.",
   "homepage": "https://kiloj.com",
   "docs": "https://kiloj.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kiloj": {

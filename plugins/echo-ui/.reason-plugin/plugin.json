@@ -4,6 +4,7 @@
   "description": "Tactile components, your style.",
   "homepage": "https://echo-ui.com",
   "docs": "https://echo-ui.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "echo-ui": {

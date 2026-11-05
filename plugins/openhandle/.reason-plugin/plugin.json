@@ -4,6 +4,7 @@
   "description": "Read public social media data.",
   "homepage": "https://openhandle.dev",
   "docs": "https://openhandle.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openhandle": {

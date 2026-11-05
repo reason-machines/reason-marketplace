@@ -4,6 +4,7 @@
   "description": "Save links, build AI memory.",
   "homepage": "https://www.keplerbrowser.com",
   "docs": "https://www.keplerbrowser.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kepler": {

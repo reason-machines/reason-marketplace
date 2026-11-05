@@ -4,6 +4,7 @@
   "description": "Create and edit documents.",
   "homepage": "https://revise.io",
   "docs": "https://revise.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "revise": {

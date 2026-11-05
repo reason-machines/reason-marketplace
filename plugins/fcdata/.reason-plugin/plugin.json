@@ -4,6 +4,7 @@
   "description": "FC cards, prices and upgrades.",
   "homepage": "https://fcdata.io",
   "docs": "https://fcdata.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fcdata": {

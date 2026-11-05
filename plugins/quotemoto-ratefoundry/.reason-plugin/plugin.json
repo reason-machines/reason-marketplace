@@ -4,6 +4,7 @@
   "description": "CA auto estimates & SR-22.",
   "homepage": "https://www.quotemoto.com",
   "docs": "https://www.quotemoto.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "quotemoto-ratefoundry": {

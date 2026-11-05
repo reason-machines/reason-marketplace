@@ -4,6 +4,7 @@
   "description": "Help AI recommend you.",
   "homepage": "https://www.maketrend.ai",
   "docs": "https://www.maketrend.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "maketrend": {

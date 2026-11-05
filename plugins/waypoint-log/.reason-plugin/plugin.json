@@ -4,6 +4,7 @@
   "description": "Ask about your pilot logbook.",
   "homepage": "https://www.waypointlog.com",
   "docs": "https://www.waypointlog.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "waypoint-log": {

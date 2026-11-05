@@ -4,6 +4,7 @@
   "description": "Your meetings, inside Reason.",
   "homepage": "https://easen.ai",
   "docs": "https://easen.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "easen": {

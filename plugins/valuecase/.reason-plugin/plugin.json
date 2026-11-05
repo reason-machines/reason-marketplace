@@ -4,6 +4,7 @@
   "description": "Manage Valuecase spaces.",
   "homepage": "https://valuecase.com",
   "docs": "https://valuecase.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "valuecase": {

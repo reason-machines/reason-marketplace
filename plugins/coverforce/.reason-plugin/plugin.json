@@ -4,6 +4,7 @@
   "description": "Compare insurance quotes.",
   "homepage": "https://www.coverforce.com/",
   "docs": "https://tedix.dev/apps/coverforce/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coverforce": {

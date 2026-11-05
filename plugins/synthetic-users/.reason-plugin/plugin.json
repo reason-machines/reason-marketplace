@@ -4,6 +4,7 @@
   "description": "Research with synthetic users.",
   "homepage": "https://www.syntheticusers.com",
   "docs": "https://www.syntheticusers.com/connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "synthetic-users": {

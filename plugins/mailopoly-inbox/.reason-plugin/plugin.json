@@ -4,6 +4,7 @@
   "description": "Search, send emails & messages.",
   "homepage": "https://www.mailopoly.com",
   "docs": "https://www.mailopoly.com/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mailopoly-inbox": {

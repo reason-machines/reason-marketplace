@@ -4,6 +4,7 @@
   "description": "Search your context engine.",
   "homepage": "https://productnow.ai",
   "docs": "https://github.com/ProductNowAI/productnow-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "productnow": {

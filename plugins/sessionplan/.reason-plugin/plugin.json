@@ -4,6 +4,7 @@
   "description": "Create and revise agendas.",
   "homepage": "https://sessionplan.de/en",
   "docs": "https://sessionplan.de/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sessionplan": {

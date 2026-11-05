@@ -4,6 +4,7 @@
   "description": "Campaign cost calculator.",
   "homepage": "https://profitpilot-dijitalpilot.vercel.app",
   "docs": "https://profitpilot-dijitalpilot.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dijitalpilot-profitpilot": {

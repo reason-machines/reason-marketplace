@@ -4,6 +4,7 @@
   "description": "Presentation ideas & examples.",
   "homepage": "https://www.deck.gallery/",
   "docs": "https://www.deck.gallery/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "deck-gallery": {

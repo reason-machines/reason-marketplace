@@ -4,6 +4,7 @@
   "description": "Estimate and offset CO2.",
   "homepage": "https://www.crbonfree.com/",
   "docs": "https://crbonfree.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "crbonfree": {

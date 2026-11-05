@@ -4,6 +4,7 @@
   "description": "Plan and run your marketing.",
   "homepage": "https://magistermarketing.com",
   "docs": "https://magistermarketing.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "magister-marketing": {

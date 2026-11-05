@@ -4,6 +4,7 @@
   "description": "Generate AI ads and videos.",
   "homepage": "https://www.ezugc.ai",
   "docs": "https://ezugc.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ezugc": {

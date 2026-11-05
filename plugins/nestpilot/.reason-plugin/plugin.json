@@ -4,6 +4,7 @@
   "description": "Retirement decision tools.",
   "homepage": "https://www.nestpilot.org",
   "docs": "https://www.nestpilot.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nestpilot": {

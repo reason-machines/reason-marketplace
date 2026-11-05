@@ -4,6 +4,7 @@
   "description": "Long-term memory for Reason.",
   "homepage": "https://www.cognee.ai",
   "docs": "https://docs.cognee.ai/cognee-mcp/integrations/claude-code",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cognee": {

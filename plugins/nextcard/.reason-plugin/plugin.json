@@ -4,6 +4,7 @@
   "description": "Cards, credits, and rewards.",
   "homepage": "https://www.nextcard.com/mcp",
   "docs": "https://www.nextcard.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nextcard": {

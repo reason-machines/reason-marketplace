@@ -4,6 +4,7 @@
   "description": "AI edits your ads.",
   "homepage": "https://shortyedit.com",
   "docs": "https://shortyedit.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shorty-edit": {

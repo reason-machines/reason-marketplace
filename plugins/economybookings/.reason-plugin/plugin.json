@@ -4,6 +4,7 @@
   "description": "Find and compare rental cars.",
   "homepage": "https://www.economybookings.com",
   "docs": "https://www.economybookings.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "economybookings": {

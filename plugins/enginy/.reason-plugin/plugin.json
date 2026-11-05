@@ -4,6 +4,7 @@
   "description": "Find and reach B2B contacts.",
   "homepage": "https://enginy.ai",
   "docs": "https://help.enginy.ai/en/articles/15885836-getting-started-with-enginy-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "enginy": {

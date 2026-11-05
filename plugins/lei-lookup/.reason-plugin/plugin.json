@@ -4,6 +4,7 @@
   "description": "LEI checks and renewal dates.",
   "homepage": "https://lei-lookup.zovo.one",
   "docs": "https://lei-lookup.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lei-lookup": {

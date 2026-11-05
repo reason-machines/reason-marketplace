@@ -4,6 +4,7 @@
   "description": "Put your AI project online.",
   "homepage": "https://juudd.com",
   "docs": "https://juudd.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "juudd": {

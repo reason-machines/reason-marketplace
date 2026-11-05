@@ -4,6 +4,7 @@
   "description": "Personal movie recommendations.",
   "homepage": "https://moviepick.app/",
   "docs": "https://moviepick.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "movie-pick": {

@@ -4,6 +4,7 @@
   "description": "Check rentals for red flags.",
   "homepage": "https://rentalredflags.com",
   "docs": "https://rentalredflags.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rental-blacklist": {

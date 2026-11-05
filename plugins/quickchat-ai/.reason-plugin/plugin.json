@@ -4,6 +4,7 @@
   "description": "Build and manage AI Agents.",
   "homepage": "https://quickchat.ai",
   "docs": "https://docs.quickchat.ai/manage-with-ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quickchat-ai": {

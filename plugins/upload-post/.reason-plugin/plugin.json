@@ -4,6 +4,7 @@
   "description": "Social media posts scheduler.",
   "homepage": "https://www.upload-post.com/",
   "docs": "https://www.upload-post.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "upload-post": {

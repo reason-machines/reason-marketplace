@@ -4,6 +4,7 @@
   "description": "Identify AI-generated images.",
   "homepage": "https://truthscan.com/",
   "docs": "https://truthscan.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "truthscan": {

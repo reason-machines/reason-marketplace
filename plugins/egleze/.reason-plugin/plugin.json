@@ -4,6 +4,7 @@
   "description": "Search verified podcast news.",
   "homepage": "https://egleze.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.egleze/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "egleze": {

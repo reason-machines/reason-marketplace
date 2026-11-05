@@ -4,6 +4,7 @@
   "description": "Create classroom puzzles.",
   "homepage": "https://puzzlemakerpro.app/use-with-ai",
   "docs": "https://puzzlemakerpro.app/use-with-ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "puzzlemaker-pro": {

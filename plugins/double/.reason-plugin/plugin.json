@@ -4,6 +4,7 @@
   "description": "Automate the month-end close.",
   "homepage": "https://doublehq.com",
   "docs": "https://help.doublehq.com/en/articles/14301574-double-s-mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "double": {

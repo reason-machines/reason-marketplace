@@ -4,6 +4,7 @@
   "description": "Search and book travel.",
   "homepage": "https://www.gondola.ai",
   "docs": "https://www.gondola.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gondola": {

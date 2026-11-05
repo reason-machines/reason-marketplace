@@ -4,6 +4,7 @@
   "description": "Explora y contacta inmuebles.",
   "homepage": "https://www.propfacil.com",
   "docs": "https://propfacil.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "propfacil": {

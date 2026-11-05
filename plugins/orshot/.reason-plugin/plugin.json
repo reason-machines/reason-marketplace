@@ -4,6 +4,7 @@
   "description": "AI Videos & Social Posting.",
   "homepage": "https://orshot.com",
   "docs": "https://orshot.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orshot": {

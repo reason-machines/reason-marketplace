@@ -4,6 +4,7 @@
   "description": "Explore your climbing training.",
   "homepage": "https://docs.sequence-app.com/help/integrations/mcp-connector",
   "docs": "https://docs.sequence-app.com/help/integrations/mcp-connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sequence-training": {

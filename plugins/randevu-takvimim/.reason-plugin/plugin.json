@@ -4,6 +4,7 @@
   "description": "Find & book beauty salons.",
   "homepage": "https://randevutakvimim.com/",
   "docs": "https://randevutakvimim.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "randevu-takvimim": {

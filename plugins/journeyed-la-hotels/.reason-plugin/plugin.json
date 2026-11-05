@@ -4,6 +4,7 @@
   "description": "Sourced LA hotel facts.",
   "homepage": "https://journeyed.org/",
   "docs": "https://journeyed.org/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "journeyed-la-hotels": {

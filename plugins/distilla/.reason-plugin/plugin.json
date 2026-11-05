@@ -4,6 +4,7 @@
   "description": "Financial and equity research.",
   "homepage": "https://agents.distilla.ai",
   "docs": "https://agents.distilla.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "distilla": {

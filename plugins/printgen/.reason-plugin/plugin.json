@@ -4,6 +4,7 @@
   "description": "Create personalized apparel.",
   "homepage": "https://printgen.ai/developers",
   "docs": "https://printgen.ai/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "printgen": {

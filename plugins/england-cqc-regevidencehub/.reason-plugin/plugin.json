@@ -4,6 +4,7 @@
   "description": "CQC compliance workflows.",
   "homepage": "https://cqc.regevidencehub.com/cqc-provider-compliance-navigator",
   "docs": "https://regevidencehub.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "england-cqc-regevidencehub": {

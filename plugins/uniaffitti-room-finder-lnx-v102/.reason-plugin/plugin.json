@@ -4,6 +4,7 @@
   "description": "Find and compare student rooms.",
   "homepage": "https://www.uniaffitti.com/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.uniaffitti.www/room-finder",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uniaffitti-room-finder-lnx-v102": {

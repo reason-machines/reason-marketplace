@@ -4,6 +4,7 @@
   "description": "Viral precedents, sourced.",
   "homepage": "https://howitspread.com",
   "docs": "https://howitspread.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "howitspread": {

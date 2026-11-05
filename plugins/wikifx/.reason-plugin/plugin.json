@@ -4,6 +4,7 @@
   "description": "Check Brokers, View Reviews.",
   "homepage": "https://www.wikifx.com/",
   "docs": "https://tedix.dev/apps/wikifx/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wikifx": {

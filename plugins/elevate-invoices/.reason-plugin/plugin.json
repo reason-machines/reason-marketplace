@@ -4,6 +4,7 @@
   "description": "Create and manage invoices.",
   "homepage": "https://invoice.elevate.ee/",
   "docs": "https://invoice.elevate.ee/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "elevate-invoices": {

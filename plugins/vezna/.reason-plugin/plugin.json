@@ -4,6 +4,7 @@
   "description": "Your company's books, in chat.",
   "homepage": "https://vezna.ai",
   "docs": "https://tedix.dev/apps/vezna/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vezna": {

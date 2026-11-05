@@ -4,6 +4,7 @@
   "description": "Build Relewise integrations.",
   "homepage": "https://docs.relewise.com/docs/developer/",
   "docs": "https://docs.relewise.com/docs/developer/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "relewise-developer": {

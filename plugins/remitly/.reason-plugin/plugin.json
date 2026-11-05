@@ -4,6 +4,7 @@
   "description": "Plan and track transfers.",
   "homepage": "https://www.remitly.com/",
   "docs": "https://tedix.dev/apps/remitly/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "remitly": {

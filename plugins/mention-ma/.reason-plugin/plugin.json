@@ -4,6 +4,7 @@
   "description": "Track brand visibility in AI.",
   "homepage": "https://www.mention.ma/",
   "docs": "https://www.mention.ma/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mention-ma": {

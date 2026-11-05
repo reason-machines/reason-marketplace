@@ -4,6 +4,7 @@
   "description": "New and secondhand prices.",
   "homepage": "https://priceluma.com",
   "docs": "https://priceluma.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "priceluma": {

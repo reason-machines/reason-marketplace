@@ -4,6 +4,7 @@
   "description": "Manage Riido work.",
   "homepage": "https://www.riido.io/",
   "docs": "https://www.riido.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "riido": {

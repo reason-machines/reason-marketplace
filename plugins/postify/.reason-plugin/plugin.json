@@ -4,6 +4,7 @@
   "description": "Draft and schedule posts.",
   "homepage": "https://usepostify.com",
   "docs": "https://usepostify.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postify": {

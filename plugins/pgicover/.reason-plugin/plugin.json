@@ -4,6 +4,7 @@
   "description": "Personal guarantee insurance.",
   "homepage": "https://chatgpt-mcp.pgicover.com/mcp",
   "docs": "https://chatgpt-mcp.pgicover.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pgicover": {

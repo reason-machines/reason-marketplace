@@ -4,6 +4,7 @@
   "description": "CFO peer answers & vendors.",
   "homepage": "https://www.fsuite.co/",
   "docs": "https://tedix.dev/apps/floyd-by-the-f-suite/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "floyd": {

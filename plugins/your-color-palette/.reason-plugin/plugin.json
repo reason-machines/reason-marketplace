@@ -4,6 +4,7 @@
   "description": "Color season from a selfie.",
   "homepage": "https://yourcolorpalette.com/",
   "docs": "https://yourcolorpalette.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "your-color-palette": {

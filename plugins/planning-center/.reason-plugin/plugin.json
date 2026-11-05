@@ -4,6 +4,7 @@
   "description": "Interact with your church data.",
   "homepage": "https://www.planningcenter.com",
   "docs": "https://help.planningcenter.com/en/151880-connect-ai-tools-to-planning-center.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "planning-center": {

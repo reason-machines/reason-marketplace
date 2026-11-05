@@ -4,6 +4,7 @@
   "description": "Find Physical AI jobs.",
   "homepage": "https://www.physicalai.jobs",
   "docs": "https://www.physicalai.jobs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "physical-ai-jobs": {

@@ -4,6 +4,7 @@
   "description": "Build forms, analyze responses.",
   "homepage": "https://formester.com",
   "docs": "https://formester.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "formester": {

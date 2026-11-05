@@ -4,6 +4,7 @@
   "description": "Your music catalog in Reason.",
   "homepage": "https://www.og-records.com/en/integrations/ai-assistants",
   "docs": "https://www.og-records.com/en/integrations/ai-assistants",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ogrecords": {

@@ -4,6 +4,7 @@
   "description": "Create and manage demos.",
   "homepage": "https://supademo.com",
   "docs": "https://supademo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "supademo": {

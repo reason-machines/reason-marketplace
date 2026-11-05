@@ -4,6 +4,7 @@
   "description": "Create WordPress sites with AI.",
   "homepage": "https://uichemy.com/ai-website-creator/",
   "docs": "https://uichemy.com/ai-website-creator/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uichemy-create-website-with-ai": {

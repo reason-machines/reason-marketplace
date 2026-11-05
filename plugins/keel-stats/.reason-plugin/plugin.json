@@ -4,6 +4,7 @@
   "description": "NBA & NFL advanced stats.",
   "homepage": "https://keelstats.com",
   "docs": "https://keelstats.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "keel-stats": {

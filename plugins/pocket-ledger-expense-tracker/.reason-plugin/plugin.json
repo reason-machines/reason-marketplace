@@ -4,6 +4,7 @@
   "description": "Expense & budget tracker chat.",
   "homepage": "https://pocketledger.baronsa.dev",
   "docs": "https://pocketledger.baronsa.dev/docs/oauth",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pocket-ledger-expense-tracker": {

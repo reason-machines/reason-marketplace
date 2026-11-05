@@ -4,6 +4,7 @@
   "description": "Verify emails, reduce bounces.",
   "homepage": "https://www.easyemailverification.com",
   "docs": "https://www.easyemailverification.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "easy-email-verification": {

@@ -4,6 +4,7 @@
   "description": "Which luxury hotel fits you.",
   "homepage": "https://www.luminafrontier.ai/en/hotels/lumina-in-chatgpt-and-claude/",
   "docs": "https://www.luminafrontier.ai/it/hotels/fairmont-le-montreux-palace/funky-claude-s-bar/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lumina": {

@@ -4,6 +4,7 @@
   "description": "Manage social media content.",
   "homepage": "https://maevesocial.com",
   "docs": "https://maevesocial.com/features/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "maeve-social": {

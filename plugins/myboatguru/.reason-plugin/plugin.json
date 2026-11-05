@@ -4,6 +4,7 @@
   "description": "Find the right boat for you.",
   "homepage": "https://myboatguru.com",
   "docs": "https://myboatguru.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "myboatguru": {

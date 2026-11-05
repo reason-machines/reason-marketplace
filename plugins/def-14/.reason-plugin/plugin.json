@@ -4,6 +4,7 @@
   "description": "Shareholder activism data.",
   "homepage": "https://www.def14.co",
   "docs": "https://www.def14.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "def-14": {

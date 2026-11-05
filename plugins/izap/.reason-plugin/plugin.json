@@ -4,6 +4,7 @@
   "description": "Manage your WhatsApp business.",
   "homepage": "https://izap.ai?utm_source=chatgpt",
   "docs": "https://izap.ai?utm_source=chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "izap": {

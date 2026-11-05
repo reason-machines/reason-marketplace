@@ -4,6 +4,7 @@
   "description": "Work with your STACK projects.",
   "homepage": "https://www.stackct.com/",
   "docs": "https://www.stackct.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stack": {

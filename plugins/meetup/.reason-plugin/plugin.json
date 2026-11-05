@@ -4,6 +4,7 @@
   "description": "Find local social events.",
   "homepage": "https://www.meetup.com/",
   "docs": "https://www.meetup.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meetup": {

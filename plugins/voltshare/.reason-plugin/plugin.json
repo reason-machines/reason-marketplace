@@ -4,6 +4,7 @@
   "description": "Find EV chargers near you.",
   "homepage": "https://voltshare.app",
   "docs": "https://voltshare.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "voltshare": {

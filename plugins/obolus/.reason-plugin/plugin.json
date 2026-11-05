@@ -4,6 +4,7 @@
   "description": "Compare global net income.",
   "homepage": "https://www.obolusfinanz.de",
   "docs": "https://www.obolusfinanz.de/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "obolus": {

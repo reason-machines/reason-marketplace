@@ -4,6 +4,7 @@
   "description": "Save and recall memories.",
   "homepage": "https://mem.store",
   "docs": "https://mem.store",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "memstore": {

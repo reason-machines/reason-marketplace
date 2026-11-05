@@ -4,6 +4,7 @@
   "description": "Indian stocks, indices & MFs.",
   "homepage": "https://foliyo.ai",
   "docs": "https://foliyo.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "foliyo-markets": {

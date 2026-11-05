@@ -4,6 +4,7 @@
   "description": "Demodesk sales data in Reason.",
   "homepage": "https://demodesk.com",
   "docs": "https://demodesk.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "demodesk": {

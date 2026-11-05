@@ -4,6 +4,7 @@
   "description": "Translate any video you watch.",
   "homepage": "https://vaivox.com",
   "docs": "https://vaivox.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vaivox": {

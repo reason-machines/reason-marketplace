@@ -4,6 +4,7 @@
   "description": "Create AI voice training.",
   "homepage": "https://replio.eu",
   "docs": "https://replio.eu/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "replio": {

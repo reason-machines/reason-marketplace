@@ -4,6 +4,7 @@
   "description": "Work with Missive messages.",
   "homepage": "https://missiveapp.com",
   "docs": "https://missiveapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "missive": {

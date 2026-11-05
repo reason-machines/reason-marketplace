@@ -4,6 +4,7 @@
   "description": "Check messages for scams.",
   "homepage": "https://scamchecker.nl/",
   "docs": "https://scamchecker.nl/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scamchecker": {

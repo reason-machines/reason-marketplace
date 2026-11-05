@@ -4,6 +4,7 @@
   "description": "Context layer for revenue orgs.",
   "homepage": "https://www.sybill.ai",
   "docs": "https://www.sybill.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sybill": {

@@ -4,6 +4,7 @@
   "description": "Find and compare homilies.",
   "homepage": "https://msza.ai/?lang=en",
   "docs": "https://msza.ai/?lang=en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "msza-ai": {

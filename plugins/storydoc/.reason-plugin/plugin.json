@@ -4,6 +4,7 @@
   "description": "Build and track presentations.",
   "homepage": "https://www.storydoc.com",
   "docs": "https://www.storydoc.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "storydoc": {

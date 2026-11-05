@@ -4,6 +4,7 @@
   "description": "Track anything by telling AI.",
   "homepage": "https://dashly.si",
   "docs": "https://dashly.si",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dashly": {

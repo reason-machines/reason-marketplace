@@ -4,6 +4,7 @@
   "description": "Look up CRM, work and expenses.",
   "homepage": "https://minz.ai",
   "docs": "https://minz.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "minz": {

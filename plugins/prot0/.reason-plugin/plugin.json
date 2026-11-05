@@ -4,6 +4,7 @@
   "description": "Build and manage web apps.",
   "homepage": "https://prot0.com",
   "docs": "https://prot0.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prot0": {

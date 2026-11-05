@@ -4,6 +4,7 @@
   "description": "Find rental cars in Albania.",
   "homepage": "https://cria.al",
   "docs": "https://cria.al",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cria-car-rental": {

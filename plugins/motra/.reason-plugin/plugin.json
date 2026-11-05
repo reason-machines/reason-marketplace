@@ -4,6 +4,7 @@
   "description": "Your personal AI Trainer.",
   "homepage": "https://motra.com",
   "docs": "https://motra.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "motra": {

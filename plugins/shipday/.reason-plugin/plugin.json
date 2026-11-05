@@ -4,6 +4,7 @@
   "description": "Automated Local Delivery.",
   "homepage": "https://www.shipday.com/",
   "docs": "https://www.shipday.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shipday": {

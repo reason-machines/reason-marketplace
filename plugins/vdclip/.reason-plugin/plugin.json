@@ -4,6 +4,7 @@
   "description": "AI clips & video editing.",
   "homepage": "https://vdclip.com",
   "docs": "https://vdclip.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vdclip": {

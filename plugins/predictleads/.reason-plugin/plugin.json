@@ -4,6 +4,7 @@
   "description": "Structured company signals.",
   "homepage": "https://predictleads.com",
   "docs": "https://predictleads.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "predictleads": {

@@ -4,6 +4,7 @@
   "description": "Save and find your recipes.",
   "homepage": "https://recipe-memory.yaffazhang87.workers.dev/",
   "docs": "https://recipe-memory.yaffazhang87.workers.dev/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mums": {

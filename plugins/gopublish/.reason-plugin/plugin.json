@@ -4,6 +4,7 @@
   "description": "Publish content to WordPress.",
   "homepage": "https://gopublish.io",
   "docs": "https://gopublish.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gopublish": {

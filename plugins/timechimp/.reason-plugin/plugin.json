@@ -4,6 +4,7 @@
   "description": "Hours, projects and planning.",
   "homepage": "https://www.timechimp.com",
   "docs": "https://www.timechimp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "timechimp": {

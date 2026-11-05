@@ -4,6 +4,7 @@
   "description": "Create a favicon for any site.",
   "homepage": "https://ciromaciel.click/tools/generate-favicon",
   "docs": "https://ciromaciel.click/tools/generate-favicon",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "favicon-generator": {

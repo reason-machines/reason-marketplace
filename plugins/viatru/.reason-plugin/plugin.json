@@ -4,6 +4,7 @@
   "description": "Find and book local services.",
   "homepage": "https://viatru.ai/assistant/guide?lang=en",
   "docs": "https://viatru.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "viatru": {

@@ -4,6 +4,7 @@
   "description": "Compare Domain Prices.",
   "homepage": "https://www.domainroc.com/domain-advisor",
   "docs": "https://www.domainroc.com/domain-advisor",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "domainroc-domain-advisor": {

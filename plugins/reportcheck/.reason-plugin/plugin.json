@@ -4,6 +4,7 @@
   "description": "Check totals and growth claims.",
   "homepage": "https://reportcheck-mcp.sunrysetech.com/",
   "docs": "https://reportcheck-mcp.sunrysetech.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "reportcheck": {

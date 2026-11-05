@@ -4,6 +4,7 @@
   "description": "US business location lists.",
   "homepage": "https://locationlists.com",
   "docs": "https://locationlists.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "locationlists": {

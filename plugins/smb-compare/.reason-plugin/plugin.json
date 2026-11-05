@@ -4,6 +4,7 @@
   "description": "Price business tools by cost.",
   "homepage": "https://smbcompare.com",
   "docs": "https://smbcompare.com/articles/smb-compare-chatgpt-claude-plugin",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "smb-compare": {

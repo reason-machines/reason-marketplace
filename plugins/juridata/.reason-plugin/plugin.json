@@ -4,6 +4,7 @@
   "description": "Search Moroccan law & rulings.",
   "homepage": "https://juridata.ma",
   "docs": "https://juridata.ma/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "juridata": {

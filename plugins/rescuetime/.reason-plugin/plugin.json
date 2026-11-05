@@ -4,6 +4,7 @@
   "description": "Track time and control focus.",
   "homepage": "https://www.rescuetime.com",
   "docs": "https://www.rescuetime.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rescuetime": {

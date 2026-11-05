@@ -4,6 +4,7 @@
   "description": "Search TALON manuals, Q&A.",
   "homepage": "https://talon.jp",
   "docs": "https://talon.jp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "talon-knowledge": {

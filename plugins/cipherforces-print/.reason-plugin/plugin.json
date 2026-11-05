@@ -4,6 +4,7 @@
   "description": "Instant print prices.",
   "homepage": "https://cipherforces.com/print",
   "docs": "https://cipherforces.com/print",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cipherforces-print": {

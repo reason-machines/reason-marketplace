@@ -4,6 +4,7 @@
   "description": "Recall meetings and actions.",
   "homepage": "https://getloreo.com",
   "docs": "https://getloreo.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "loreo": {

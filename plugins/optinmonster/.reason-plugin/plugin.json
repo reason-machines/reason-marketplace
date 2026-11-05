@@ -4,6 +4,7 @@
   "description": "Popups and lead generation.",
   "homepage": "https://optinmonster.com/",
   "docs": "https://optinmonster.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "optinmonster": {

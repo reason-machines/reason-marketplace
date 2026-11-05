@@ -4,6 +4,7 @@
   "description": "Protein and molecular design.",
   "homepage": "https://www.tamarind.bio/",
   "docs": "https://www.tamarind.bio/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tamarind-bio": {

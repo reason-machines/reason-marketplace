@@ -4,6 +4,7 @@
   "description": "Read and set up web analytics.",
   "homepage": "https://statable.com",
   "docs": "https://statable.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "statable": {

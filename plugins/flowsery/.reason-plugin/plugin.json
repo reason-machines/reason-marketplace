@@ -4,6 +4,7 @@
   "description": "Website traffic and issues.",
   "homepage": "https://flowsery.com",
   "docs": "https://flowsery.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flowsery": {

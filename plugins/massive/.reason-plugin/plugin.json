@@ -4,6 +4,7 @@
   "description": "Real-time stocks data and more.",
   "homepage": "https://massive.com",
   "docs": "https://massive.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "massive": {

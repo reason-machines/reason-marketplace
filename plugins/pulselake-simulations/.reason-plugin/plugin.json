@@ -4,6 +4,7 @@
   "description": "Explore ideas and scenarios.",
   "homepage": "https://pulselake.co",
   "docs": "https://www.pulselake.co/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pulselake-simulations": {

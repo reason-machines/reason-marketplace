@@ -4,6 +4,7 @@
   "description": "Contexto, prioridade e direção.",
   "homepage": "https://datahill.ai",
   "docs": "https://datahill.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "datahill": {

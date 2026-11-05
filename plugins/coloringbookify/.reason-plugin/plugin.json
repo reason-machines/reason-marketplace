@@ -4,6 +4,7 @@
   "description": "Make printable coloring books.",
   "homepage": "https://coloringbookify.com",
   "docs": "https://coloringbookify.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coloringbookify": {

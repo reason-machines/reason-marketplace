@@ -4,6 +4,7 @@
   "description": "Data from primary sources.",
   "homepage": "https://sugra.ai",
   "docs": "https://sugra.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sugra-api": {

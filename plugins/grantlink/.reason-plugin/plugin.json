@@ -4,6 +4,7 @@
   "description": "Grant accounting insights.",
   "homepage": "https://grantlink.app",
   "docs": "https://grantlink.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "grantlink": {

@@ -4,6 +4,7 @@
   "description": "Manage your social media.",
   "homepage": "https://www.outstand.so",
   "docs": "https://www.outstand.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "outstand": {

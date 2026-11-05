@@ -4,6 +4,7 @@
   "description": "Pet-care quotes & invoices.",
   "homepage": "https://houndtrust.com",
   "docs": "https://houndtrust.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "houndtrust": {

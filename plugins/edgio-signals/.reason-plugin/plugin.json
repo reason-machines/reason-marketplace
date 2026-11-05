@@ -4,6 +4,7 @@
   "description": "Aktien & Sektoren einordnen.",
   "homepage": "https://edgio.at",
   "docs": "https://tedix.dev/apps/edgio-signals/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "edgio-signals": {

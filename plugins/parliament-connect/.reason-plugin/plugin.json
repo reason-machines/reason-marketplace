@@ -4,6 +4,7 @@
   "description": "Search UK Parliament clips.",
   "homepage": "https://parliamentconnect.com",
   "docs": "https://parliamentconnect.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "parliament-connect": {

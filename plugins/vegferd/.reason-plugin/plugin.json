@@ -4,6 +4,7 @@
   "description": "Road trip planning for Norway.",
   "homepage": "https://vegferd.no/",
   "docs": "https://vegferd.no/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vegferd": {

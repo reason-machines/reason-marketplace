@@ -4,6 +4,7 @@
   "description": "Football stats & match metrics.",
   "homepage": "https://matchterminal.org",
   "docs": "https://matchterminal.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "match-terminal": {

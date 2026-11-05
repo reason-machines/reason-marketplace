@@ -4,6 +4,7 @@
   "description": "AI search visibility insights.",
   "homepage": "https://www.rankzero.io/",
   "docs": "https://www.rankzero.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rankzero": {

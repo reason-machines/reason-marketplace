@@ -4,6 +4,7 @@
   "description": "Support, feedback, changelog.",
   "homepage": "https://teem.so",
   "docs": "https://teem.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "teem": {

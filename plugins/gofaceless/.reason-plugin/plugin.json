@@ -4,6 +4,7 @@
   "description": "Put yourself in video trends.",
   "homepage": "https://gofaceless.ai",
   "docs": "https://gofaceless.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gofaceless": {

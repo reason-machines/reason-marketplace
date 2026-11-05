@@ -4,6 +4,7 @@
   "description": "Biblical clarity for life.",
   "homepage": "https://biblically-live-now-well.com",
   "docs": "https://biblically-live-now-well.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lnw-biblical-companion": {

@@ -4,6 +4,7 @@
   "description": "Manage transactional email.",
   "homepage": "https://prontuno.com",
   "docs": "https://prontuno.com/docs/integrations/prontuno-mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prontuno": {

@@ -4,6 +4,7 @@
   "description": "AI status, source-separated.",
   "homepage": "https://notjustyou.dev",
   "docs": "https://notjustyou.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "not-just-you": {

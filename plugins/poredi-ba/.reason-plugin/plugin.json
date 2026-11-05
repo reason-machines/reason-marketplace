@@ -4,6 +4,7 @@
   "description": "Uporedi cijene u BiH.",
   "homepage": "https://poredi.ba/",
   "docs": "https://poredi.ba/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "poredi-ba": {

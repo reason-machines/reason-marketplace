@@ -4,6 +4,7 @@
   "description": "Run SQL without leaving chat.",
   "homepage": "https://www.db-fiddle.com",
   "docs": "https://www.db-fiddle.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "db-fiddle": {

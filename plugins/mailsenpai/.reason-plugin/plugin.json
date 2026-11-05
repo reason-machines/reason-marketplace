@@ -4,6 +4,7 @@
   "description": "Manage email marketing.",
   "homepage": "https://www.mailsenpai.com",
   "docs": "https://www.mailsenpai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mailsenpai": {

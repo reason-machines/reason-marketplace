@@ -4,6 +4,7 @@
   "description": "Real-time crypto market data.",
   "homepage": "https://coinmarketcap.com",
   "docs": "https://coinmarketcap.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coinmarketcap": {

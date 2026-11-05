@@ -4,6 +4,7 @@
   "description": "Insurance quotes.",
   "homepage": "https://europeaseguros.es/",
   "docs": "https://tedix.dev/apps/europea-seguros/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "europea-seguros": {

@@ -4,6 +4,7 @@
   "description": "Workout planner & tracker.",
   "homepage": "https://simplemuscle.ai",
   "docs": "https://simplemuscle.ai/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simple-muscle-workout-planner": {

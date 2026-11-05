@@ -4,6 +4,7 @@
   "description": "Tarifas e VT do Brasil.",
   "homepage": "https://otimizapro.com/base-nacional-de-tarifas",
   "docs": "https://otimizapro.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tarifas-vale-transporte-otimiza": {

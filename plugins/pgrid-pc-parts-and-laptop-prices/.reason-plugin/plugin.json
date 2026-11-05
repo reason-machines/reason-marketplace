@@ -4,6 +4,7 @@
   "description": "Laptops, GPUs, CPUs, SSDs, RAM.",
   "homepage": "https://www.pgrid.app",
   "docs": "https://pgrid.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pgrid-pc-parts-and-laptop-prices": {

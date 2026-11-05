@@ -4,6 +4,7 @@
   "description": "Explore your Dukkani store.",
   "homepage": "https://dukani.ai",
   "docs": "https://dukani.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dukkani": {

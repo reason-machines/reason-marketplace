@@ -4,6 +4,7 @@
   "description": "Plan tasks, events, and notes.",
   "homepage": "https://www.pocketinformant.com/",
   "docs": "https://www.pocketinformant.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pocket-informant": {

@@ -4,6 +4,7 @@
   "description": "Compare travel eSIMs.",
   "homepage": "https://www.getmyesim.com/",
   "docs": "https://www.getmyesim.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "get-my-esim": {

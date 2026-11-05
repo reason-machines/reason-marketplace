@@ -4,6 +4,7 @@
   "description": "Cryotos CMMS SAAS application.",
   "homepage": "https://www.cryotos.com/cryotos-ai",
   "docs": "https://www.cryotos.com/cryotos-ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cryotos": {

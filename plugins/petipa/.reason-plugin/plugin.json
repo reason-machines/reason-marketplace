@@ -4,6 +4,7 @@
   "description": "Your plan, one step at a time.",
   "homepage": "https://petipa.app",
   "docs": "https://petipa.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "petipa": {

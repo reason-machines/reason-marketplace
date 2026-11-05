@@ -4,6 +4,7 @@
   "description": "AI playlists, Spotify/Apple.",
   "homepage": "https://playlistable.io",
   "docs": "https://playlistable.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "playlistable": {

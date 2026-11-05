@@ -4,6 +4,7 @@
   "description": "Build and manage AI agents.",
   "homepage": "https://pickaxe.co",
   "docs": "https://pickaxe.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pickaxe": {

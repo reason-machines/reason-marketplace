@@ -4,6 +4,7 @@
   "description": "Access your meeting history.",
   "homepage": "https://www.meetjamie.ai/",
   "docs": "https://www.meetjamie.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jamie": {

@@ -4,6 +4,7 @@
   "description": "Find lawyers & check matters.",
   "homepage": "https://legalscout.net",
   "docs": "https://legalscout.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "legalscout": {

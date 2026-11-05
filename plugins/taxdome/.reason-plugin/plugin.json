@@ -4,6 +4,7 @@
   "description": "Tax firm and client portal.",
   "homepage": "https://taxdome.com",
   "docs": "https://taxdome.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "taxdome": {

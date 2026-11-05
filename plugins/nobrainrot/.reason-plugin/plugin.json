@@ -4,6 +4,7 @@
   "description": "Check your brain rot level.",
   "homepage": "https://nobrainrot.com",
   "docs": "https://nobrainrot.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nobrainrot": {

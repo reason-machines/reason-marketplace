@@ -4,6 +4,7 @@
   "description": "Search companies and contacts.",
   "homepage": "https://www.coldlytics.com",
   "docs": "https://www.coldlytics.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coldlytics": {

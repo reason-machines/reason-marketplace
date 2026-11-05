@@ -4,6 +4,7 @@
   "description": "The latest open-source models.",
   "homepage": "https://withhopper.com",
   "docs": "https://withhopper.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hopper": {

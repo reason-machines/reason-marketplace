@@ -4,6 +4,7 @@
   "description": "Chat with Embat.",
   "homepage": "https://www.embat.io/",
   "docs": "https://tedix.dev/apps/embat/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "embat": {

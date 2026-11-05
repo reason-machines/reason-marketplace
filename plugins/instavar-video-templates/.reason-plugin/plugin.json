@@ -4,6 +4,7 @@
   "description": "For use with Remotion.",
   "homepage": "https://instavar.com/remotion",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.instavar/mcp-server",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "instavar-video-templates": {

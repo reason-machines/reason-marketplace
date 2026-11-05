@@ -4,6 +4,7 @@
   "description": "Pokémon card & sealed prices.",
   "homepage": "https://pokefocus.com",
   "docs": "https://pokefocus.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pokefocus": {

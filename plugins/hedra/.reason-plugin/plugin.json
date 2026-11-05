@@ -4,6 +4,7 @@
   "description": "Create images, video and audio.",
   "homepage": "https://hedra.com/llms.txt",
   "docs": "https://hedra.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hedra": {

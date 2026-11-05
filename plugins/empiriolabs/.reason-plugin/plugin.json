@@ -4,6 +4,7 @@
   "description": "Run 180+ AI models as tools.",
   "homepage": "https://empiriolabs.ai",
   "docs": "https://empiriolabs.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "empiriolabs": {

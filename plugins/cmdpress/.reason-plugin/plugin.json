@@ -4,6 +4,7 @@
   "description": "Manage your WordPress sites.",
   "homepage": "https://cmdpress.com/",
   "docs": "https://app.cmdpress.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cmdpress": {

@@ -4,6 +4,7 @@
   "description": "Answer board-game rules.",
   "homepage": "https://askmagister.com",
   "docs": "https://askmagister.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "magister": {

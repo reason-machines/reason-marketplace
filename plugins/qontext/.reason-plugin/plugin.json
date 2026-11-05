@@ -4,6 +4,7 @@
   "description": "Read & update your context.",
   "homepage": "https://www.qontext.ai",
   "docs": "https://docs.qontext.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qontext": {

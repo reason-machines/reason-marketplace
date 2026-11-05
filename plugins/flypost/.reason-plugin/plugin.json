@@ -4,6 +4,7 @@
   "description": "Your LinkedIn content studio.",
   "homepage": "https://www.flypost.io",
   "docs": "https://www.flypost.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flypost": {

@@ -4,6 +4,7 @@
   "description": "Plan and manage events.",
   "homepage": "https://planned.com",
   "docs": "https://planned.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "planned": {

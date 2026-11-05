@@ -4,6 +4,7 @@
   "description": "Print and save clean web pages.",
   "homepage": "https://www.printfriendly.com",
   "docs": "https://printfriendly.com/help/api-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "printfriendly": {

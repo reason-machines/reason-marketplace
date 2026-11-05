@@ -4,6 +4,7 @@
   "description": "Vetted human experts on demand.",
   "homepage": "https://terac.com",
   "docs": "https://terac.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "terac": {

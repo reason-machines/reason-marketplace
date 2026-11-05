@@ -4,6 +4,7 @@
   "description": "Compare. Choose. Save.",
   "homepage": "https://www.mutuisupermarket.it",
   "docs": "https://www.mutuisupermarket.it",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "comparatore-mutui-italia": {

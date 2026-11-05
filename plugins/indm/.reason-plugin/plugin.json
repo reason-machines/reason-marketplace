@@ -4,6 +4,7 @@
   "description": "Instagram comment-to-DM.",
   "homepage": "https://indm.social",
   "docs": "https://indm.social/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "indm": {

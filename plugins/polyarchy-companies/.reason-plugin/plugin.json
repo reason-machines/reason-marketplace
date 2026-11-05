@@ -4,6 +4,7 @@
   "description": "Japanese company filings data.",
   "homepage": "https://docs.polyarchy.net/companies",
   "docs": "https://docs.polyarchy.net/companies",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "polyarchy-companies": {

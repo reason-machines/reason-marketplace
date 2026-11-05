@@ -4,6 +4,7 @@
   "description": "UK broadband market reference.",
   "homepage": "https://www.point-topic.com/",
   "docs": "https://www.point-topic.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "point-topic": {

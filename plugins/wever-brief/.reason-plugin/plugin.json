@@ -4,6 +4,7 @@
   "description": "Daily briefs for operators.",
   "homepage": "https://weverlabs.com",
   "docs": "https://weverlabs.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wever-brief": {

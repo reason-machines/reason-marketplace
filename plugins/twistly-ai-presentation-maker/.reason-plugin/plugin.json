@@ -4,6 +4,7 @@
   "description": "Create editable slide decks.",
   "homepage": "https://twistly.ai/",
   "docs": "https://twistly.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "twistly-ai-presentation-maker": {

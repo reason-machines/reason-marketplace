@@ -4,6 +4,7 @@
   "description": "Org charts from a team list.",
   "homepage": "https://org-chart.zovo.one",
   "docs": "https://org-chart.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "org-chart": {

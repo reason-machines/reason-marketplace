@@ -4,6 +4,7 @@
   "description": "Gift lists without double-ups.",
   "homepage": "https://www.quokit.com.au",
   "docs": "https://quokit.com.au/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quokit": {

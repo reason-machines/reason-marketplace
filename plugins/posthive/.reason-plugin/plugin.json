@@ -4,6 +4,7 @@
   "description": "Post to multi social platforms.",
   "homepage": "https://posthive.co",
   "docs": "https://posthive.co/llms.txt",
+  "logo": "logo.webp",
   "auth": "api_key",
   "mcpServers": {
     "posthive": {

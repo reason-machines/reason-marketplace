@@ -4,6 +4,7 @@
   "description": "Your perfect trail. Just ask.",
   "homepage": "https://www.wikiloc.com/",
   "docs": "https://www.wikiloc.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wikiloc": {

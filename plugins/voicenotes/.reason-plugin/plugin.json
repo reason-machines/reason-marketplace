@@ -4,6 +4,7 @@
   "description": "Interact with your Voicenotes.",
   "homepage": "https://voicenotes.com/",
   "docs": "https://api.voicenotes.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voicenotes": {

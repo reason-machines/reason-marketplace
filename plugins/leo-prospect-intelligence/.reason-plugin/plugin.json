@@ -4,6 +4,7 @@
   "description": "Prospect search & enrichment.",
   "homepage": "https://meetleo.com/",
   "docs": "https://meetleo.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leo-prospect-intelligence": {

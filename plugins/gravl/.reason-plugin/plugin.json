@@ -4,6 +4,7 @@
   "description": "Log and plan your workouts.",
   "homepage": "https://gravl.ai",
   "docs": "https://gravl.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gravl": {

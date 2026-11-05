@@ -4,6 +4,7 @@
   "description": "Create AI videos and images.",
   "homepage": "https://www.flashloop.ai",
   "docs": "https://www.flashloop.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flashloop": {

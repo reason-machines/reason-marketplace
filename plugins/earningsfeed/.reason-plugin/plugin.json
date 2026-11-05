@@ -4,6 +4,7 @@
   "description": "SEC filings and insider data.",
   "homepage": "https://earningsfeed.com/mcp",
   "docs": "https://earningsfeed.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "earningsfeed": {

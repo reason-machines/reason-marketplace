@@ -4,6 +4,7 @@
   "description": "Clip videos & schedule posts.",
   "homepage": "https://tryunsora.com",
   "docs": "https://tryunsora.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unsora": {

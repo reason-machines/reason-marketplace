@@ -4,6 +4,7 @@
   "description": "Coordinate AI agents.",
   "homepage": "https://totemlayer.com",
   "docs": "https://totemlayer.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "totem": {

@@ -4,6 +4,7 @@
   "description": "Assemble media into an MP4.",
   "homepage": "https://samautomation.work/plugin/",
   "docs": "https://samautomation.work/plugin/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "samautomation-video-render": {

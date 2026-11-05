@@ -4,6 +4,7 @@
   "description": "Extract content brief fields.",
   "homepage": "https://task-app-hub-content-chain.belong514829670.workers.dev/content-brief-extractor",
   "docs": "https://task-app-hub-content-chain.belong514829670.workers.dev/content-brief-extractor",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "content-brief-extractor": {

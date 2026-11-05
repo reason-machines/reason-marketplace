@@ -4,6 +4,7 @@
   "description": "Your brand’s LLM layer.",
   "homepage": "https://henneth.ai",
   "docs": "https://henneth.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "henneth": {

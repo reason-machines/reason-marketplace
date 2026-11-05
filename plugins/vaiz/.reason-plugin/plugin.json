@@ -4,6 +4,7 @@
   "description": "Manage your Vaiz workspace.",
   "homepage": "https://vaiz.com",
   "docs": "https://api.vaiz.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vaiz": {

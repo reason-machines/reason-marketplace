@@ -4,6 +4,7 @@
   "description": "Meetings into finished work.",
   "homepage": "https://wiserwork.ai",
   "docs": "https://wiserwork.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wiserwork": {

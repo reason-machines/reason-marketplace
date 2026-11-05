@@ -4,6 +4,7 @@
   "description": "Your food log, in Reason.",
   "homepage": "https://snaprooster.com",
   "docs": "https://snaprooster.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "snaprooster": {

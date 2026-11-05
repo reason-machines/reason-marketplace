@@ -4,6 +4,7 @@
   "description": "Search and analyze patents.",
   "homepage": "https://www.goveda.com",
   "docs": "https://www.goveda.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "goveda-patent": {

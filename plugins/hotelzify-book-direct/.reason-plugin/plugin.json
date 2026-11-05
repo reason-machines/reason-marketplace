@@ -4,6 +4,7 @@
   "description": "Search hotels & book stays.",
   "homepage": "https://hotelzify.com",
   "docs": "https://hotelzify.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hotelzify-book-direct": {

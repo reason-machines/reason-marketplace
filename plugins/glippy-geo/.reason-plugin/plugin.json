@@ -4,6 +4,7 @@
   "description": "Website AI readiness checker.",
   "homepage": "https://www.glippy.dev/",
   "docs": "https://www.glippy.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "glippy-geo": {

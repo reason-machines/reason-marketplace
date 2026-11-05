@@ -4,6 +4,7 @@
   "description": "Quotes from local agencies.",
   "homepage": "https://www.officehubb.net/docs/ai-access",
   "docs": "https://www.officehubb.net/docs/ai-access",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "officehubb": {

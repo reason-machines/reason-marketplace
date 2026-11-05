@@ -4,6 +4,7 @@
   "description": "Find tattoo supplies.",
   "homepage": "https://tatuat.ro",
   "docs": "https://api.tatuat.ro/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tatuat": {

@@ -4,6 +4,7 @@
   "description": "Game facts and companion apps.",
   "homepage": "https://software-notion.de/mcp",
   "docs": "https://software-notion.de/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "software-notion": {

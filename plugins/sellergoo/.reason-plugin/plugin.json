@@ -4,6 +4,7 @@
   "description": "Profit analytics for sellers.",
   "homepage": "https://sellergoo.com",
   "docs": "https://sellergoo.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sellergoo": {

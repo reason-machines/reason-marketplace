@@ -4,6 +4,7 @@
   "description": "URL Shortener for Marketers.",
   "homepage": "https://linklyhq.com/",
   "docs": "https://linklyhq.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "linkly-url-shortener": {

@@ -4,6 +4,7 @@
   "description": "Account & market data access.",
   "homepage": "https://gemini.com",
   "docs": "https://tedix.dev/apps/gemini-exchange/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gemini-exchange": {

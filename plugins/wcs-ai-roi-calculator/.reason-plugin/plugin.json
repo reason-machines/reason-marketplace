@@ -4,6 +4,7 @@
   "description": "AI adoption value, calculated.",
   "homepage": "https://wecallshotgun.com/ai-roi-calculator",
   "docs": "https://wecallshotgun.com/ai-roi-calculator",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wcs-ai-roi-calculator": {

@@ -4,6 +4,7 @@
   "description": "Amazon Ads for KDP authors.",
   "homepage": "https://selfpubgo.com",
   "docs": "https://selfpubgo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "selfpubgo": {

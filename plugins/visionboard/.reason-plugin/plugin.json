@@ -4,6 +4,7 @@
   "description": "Approved direction for AI.",
   "homepage": "https://visionboard.si/connect-ai/chatgpt",
   "docs": "https://visionboard.si/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "visionboard": {

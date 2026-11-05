@@ -4,6 +4,7 @@
   "description": "Idea to buildable dApp spec.",
   "homepage": "https://tokenos.ai/chatgpt-apps/dapp-builder",
   "docs": "https://tokenos.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tokenos-dapp-builder": {

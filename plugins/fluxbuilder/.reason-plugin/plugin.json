@@ -4,6 +4,7 @@
   "description": "Create e-commerce apps.",
   "homepage": "https://fluxbuilder.com",
   "docs": "https://fluxbuilder.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fluxbuilder": {

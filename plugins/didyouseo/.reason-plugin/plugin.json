@@ -4,6 +4,7 @@
   "description": "SEO audits and Search Console.",
   "homepage": "https://didyouseo.com",
   "docs": "https://didyouseo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "didyouseo": {

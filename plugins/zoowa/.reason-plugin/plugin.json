@@ -4,6 +4,7 @@
   "description": "AI presence and agent commerce.",
   "homepage": "https://zoowa.ai",
   "docs": "https://zoowa.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "zoowa": {

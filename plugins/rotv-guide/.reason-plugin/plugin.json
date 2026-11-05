@@ -4,6 +4,7 @@
   "description": "Live Romanian TV guide.",
   "homepage": "https://tv.madeinro.eu",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=eu.madeinro/rotv-mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rotv-guide": {

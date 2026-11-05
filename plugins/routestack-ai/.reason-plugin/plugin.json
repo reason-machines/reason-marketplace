@@ -4,6 +4,7 @@
   "description": "Find hotels, flights, cars.",
   "homepage": "https://www.routestack.ai/",
   "docs": "https://www.routestack.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "routestack-ai": {

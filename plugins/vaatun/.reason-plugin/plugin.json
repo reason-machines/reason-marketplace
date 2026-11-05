@@ -4,6 +4,7 @@
   "description": "Find best InsurTech Solutions.",
   "homepage": "https://www.vaatun.com/",
   "docs": "https://tedix.dev/apps/vaatun/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vaatun": {

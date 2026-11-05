@@ -4,6 +4,7 @@
   "description": "PLAZA hotel info and booking.",
   "homepage": "https://plazahotels.de/",
   "docs": "https://plazahotels.de/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "plaza-hotels": {

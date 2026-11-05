@@ -4,6 +4,7 @@
   "description": "Private collector archive.",
   "homepage": "https://www.crownquorum.com",
   "docs": "https://crownquorum.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "crown-quorum": {

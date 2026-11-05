@@ -4,6 +4,7 @@
   "description": "Policies, terms, cookie banner.",
   "homepage": "https://www.iubenda.com",
   "docs": "https://www.iubenda.com/en/help/222393-how-to-connect-iubenda-to-claude-and-chatgpt/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iubenda-privacy-compliance": {

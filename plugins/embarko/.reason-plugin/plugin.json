@@ -4,6 +4,7 @@
   "description": "Deploy and manage Embarko apps.",
   "homepage": "https://embarko.ai",
   "docs": "https://embarko.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "embarko": {

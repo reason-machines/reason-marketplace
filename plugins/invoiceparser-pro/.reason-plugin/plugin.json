@@ -4,6 +4,7 @@
   "description": "Invoice to Excel, math checked.",
   "homepage": "https://invoiceparserpro.com/ai-assistants",
   "docs": "https://invoiceparserpro.com/ai-assistants",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "invoiceparser-pro": {

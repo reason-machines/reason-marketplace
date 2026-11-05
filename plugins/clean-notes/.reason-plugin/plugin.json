@@ -4,6 +4,7 @@
   "description": "Manage projects and tasks.",
   "homepage": "https://cleannotes.app",
   "docs": "https://cleannotes.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clean-notes": {

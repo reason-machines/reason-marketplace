@@ -4,6 +4,7 @@
   "description": "Natal charts, dashas & timing.",
   "homepage": "https://vedara.me",
   "docs": "https://vedara.me",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vedara-vedic-birth-chart": {

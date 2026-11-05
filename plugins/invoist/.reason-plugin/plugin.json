@@ -4,6 +4,7 @@
   "description": "Draft invoices from your work.",
   "homepage": "https://invoist.app",
   "docs": "https://invoist.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "invoist": {

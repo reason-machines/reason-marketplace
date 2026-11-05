@@ -4,6 +4,7 @@
   "description": "Understand your money.",
   "homepage": "https://fold.money",
   "docs": "https://fold.money",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fold": {

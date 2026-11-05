@@ -4,6 +4,7 @@
   "description": "Handwritten cards in real ink.",
   "homepage": "https://scribblecards.com/",
   "docs": "https://scribblecards.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scribble": {

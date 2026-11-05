@@ -4,6 +4,7 @@
   "description": "NTU module and exam lookup.",
   "homepage": "https://ntumods.com/",
   "docs": "https://ntumods.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ntu-mods": {

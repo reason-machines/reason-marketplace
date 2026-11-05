@@ -4,6 +4,7 @@
   "description": "Access your CopyCharm context.",
   "homepage": "https://copycharm.ai",
   "docs": "https://copycharm.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "copycharm": {

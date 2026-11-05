@@ -4,6 +4,7 @@
   "description": "Primary law research toolkit.",
   "homepage": "https://descrybe.com",
   "docs": "https://descrybe.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "descrybe-legal-engine": {

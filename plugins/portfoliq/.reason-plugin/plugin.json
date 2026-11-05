@@ -4,6 +4,7 @@
   "description": "Track portfolio performance.",
   "homepage": "https://portfoliq.app",
   "docs": "https://portfoliq.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "portfoliq": {

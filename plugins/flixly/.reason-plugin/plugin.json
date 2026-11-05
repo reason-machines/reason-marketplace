@@ -4,6 +4,7 @@
   "description": "Create images & short videos.",
   "homepage": "https://www.flixly.ai",
   "docs": "https://flixly.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flixly": {

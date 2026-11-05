@@ -4,6 +4,7 @@
   "description": "Charts and tables to embed.",
   "homepage": "https://meikucharts.com",
   "docs": "https://meikucharts.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meiku-charts": {

@@ -4,6 +4,7 @@
   "description": "Search federal court records.",
   "homepage": "https://www.courtapi.com",
   "docs": "https://www.courtapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "courtapi": {

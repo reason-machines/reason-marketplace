@@ -4,6 +4,7 @@
   "description": "SEC filings, funds & insiders.",
   "homepage": "https://filingspy.com",
   "docs": "https://filingspy.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "filingspy": {

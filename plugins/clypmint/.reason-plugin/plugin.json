@@ -4,6 +4,7 @@
   "description": "Edit videos in Reason.",
   "homepage": "https://clypmint.com",
   "docs": "https://clypmint.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clypmint": {

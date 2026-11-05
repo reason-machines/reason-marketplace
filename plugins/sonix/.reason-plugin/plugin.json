@@ -4,6 +4,7 @@
   "description": "Use Sonix transcripts.",
   "homepage": "https://sonix.ai",
   "docs": "https://sonix.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sonix": {

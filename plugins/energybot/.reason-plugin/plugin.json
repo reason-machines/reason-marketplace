@@ -4,6 +4,7 @@
   "description": "Compare Electricity Rates.",
   "homepage": "https://www.energybot.com/",
   "docs": "https://www.energybot.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "energybot": {

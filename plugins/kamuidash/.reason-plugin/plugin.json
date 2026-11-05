@@ -4,6 +4,7 @@
   "description": "Manage apps on KamuiDash.",
   "homepage": "https://dashboard.kamui-platform.com/",
   "docs": "https://docs.kamui-platform.com/mcp.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kamuidash": {

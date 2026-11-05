@@ -4,6 +4,7 @@
   "description": "Compare live travel prices.",
   "homepage": "https://www.price.win/",
   "docs": "https://www.price.win/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pricewin-hotels-and-flights": {

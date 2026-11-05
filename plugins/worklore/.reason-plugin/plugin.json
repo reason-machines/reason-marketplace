@@ -4,6 +4,7 @@
   "description": "Dev stories, capability x-ray.",
   "homepage": "https://worklore.dev",
   "docs": "https://worklore.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "worklore": {

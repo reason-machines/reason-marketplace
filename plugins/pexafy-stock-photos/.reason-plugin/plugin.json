@@ -4,6 +4,7 @@
   "description": "Find free-to-use stock photos.",
   "homepage": "https://pexafy.com/mcp/",
   "docs": "https://pexafy.com/mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pexafy-stock-photos": {

@@ -4,6 +4,7 @@
   "description": "Compare document versions.",
   "homepage": "https://docdiffai.com",
   "docs": "https://docdiffai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docdiffai": {

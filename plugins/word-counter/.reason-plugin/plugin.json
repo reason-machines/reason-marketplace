@@ -4,6 +4,7 @@
   "description": "Exact word & character counts.",
   "homepage": "https://word-counter.zovo.one",
   "docs": "https://word-counter.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "word-counter": {

@@ -4,6 +4,7 @@
   "description": "Shop MorNatural supplements.",
   "homepage": "https://shop.mornatural.com/",
   "docs": "https://shop.mornatural.com/ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mornatural": {

@@ -4,6 +4,7 @@
   "description": "Collect unpaid B2B invoices.",
   "homepage": "https://moderncollections.io",
   "docs": "https://moderncollections.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "modern-collections": {

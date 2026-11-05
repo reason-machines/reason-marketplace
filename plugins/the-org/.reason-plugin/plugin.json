@@ -4,6 +4,7 @@
   "description": "Public org charts.",
   "homepage": "https://theorg.com/",
   "docs": "https://developers.theorg.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "the-org": {

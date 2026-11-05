@@ -4,6 +4,7 @@
   "description": "Stock research for your AI.",
   "homepage": "https://monk.trade",
   "docs": "https://monk.trade",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "monk-labstack-llc": {

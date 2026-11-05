@@ -4,6 +4,7 @@
   "description": "For streaming app publishers.",
   "homepage": "https://www.ottengine.com/ai-connector",
   "docs": "https://www.ottengine.com/ai-connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ottengine": {

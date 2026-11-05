@@ -4,6 +4,7 @@
   "description": "Search jobs near you.",
   "homepage": "https://www.whatjobs.com/",
   "docs": "https://www.whatjobs.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "whatjobs": {

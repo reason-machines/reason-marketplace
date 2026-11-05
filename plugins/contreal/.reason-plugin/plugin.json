@@ -4,6 +4,7 @@
   "description": "Tasks, clients and projects.",
   "homepage": "https://contreal.io",
   "docs": "https://contreal.io/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "contreal": {

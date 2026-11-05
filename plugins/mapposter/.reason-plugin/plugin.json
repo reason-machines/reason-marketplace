@@ -4,6 +4,7 @@
   "description": "Map poster gifts and wall art.",
   "homepage": "https://mapposter.xyz",
   "docs": "https://mapposter.xyz",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mapposter": {

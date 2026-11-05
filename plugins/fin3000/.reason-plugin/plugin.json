@@ -4,6 +4,7 @@
   "description": "Belege und Buchhaltung.",
   "homepage": "https://fin3000.com",
   "docs": "https://fin3000.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fin3000": {

@@ -4,6 +4,7 @@
   "description": "Create images, video and audio.",
   "homepage": "https://www.magnific.com/app",
   "docs": "https://www.magnific.com/app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "magnific": {

@@ -4,6 +4,7 @@
   "description": "Your boat’s records in chat.",
   "homepage": "https://navlog.io/",
   "docs": "https://navlog.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "navlog": {

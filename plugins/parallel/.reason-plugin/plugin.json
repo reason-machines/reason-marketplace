@@ -4,6 +4,7 @@
   "description": "Access Parallel financial data.",
   "homepage": "https://getparallel.com",
   "docs": "https://tedix.dev/apps/parallel/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "parallel": {

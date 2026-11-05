@@ -4,6 +4,7 @@
   "description": "Check x402 doors and receipts.",
   "homepage": "https://scvd.store",
   "docs": "https://scvd.store",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scvd-x402-verifier": {

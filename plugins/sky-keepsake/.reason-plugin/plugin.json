@@ -4,6 +4,7 @@
   "description": "Moon phases & star map posters.",
   "homepage": "https://sky-keepsake.zovo.one",
   "docs": "https://sky-keepsake.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sky-keepsake": {

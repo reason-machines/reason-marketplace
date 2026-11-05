@@ -4,6 +4,7 @@
   "description": "Track mileage and vehicles.",
   "homepage": "https://mycartracks.com",
   "docs": "https://mycartracks.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mycartracks": {

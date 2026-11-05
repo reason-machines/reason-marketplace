@@ -4,6 +4,7 @@
   "description": "Compare Loan Estimates.",
   "homepage": "https://mortgage-compare.rykorg.chatgpt.site/",
   "docs": "https://tedix.dev/apps/mortgagecompare/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mortgagecompare-public": {

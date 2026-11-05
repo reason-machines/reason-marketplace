@@ -4,6 +4,7 @@
   "description": "Find certified manufacturers.",
   "homepage": "https://api.rfqmind.com/",
   "docs": "https://api.rfqmind.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rfqmind": {

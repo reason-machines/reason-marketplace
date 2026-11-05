@@ -4,6 +4,7 @@
   "description": "Find events in Malta.",
   "homepage": "https://events.lc",
   "docs": "https://events.lc",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "events-mt": {

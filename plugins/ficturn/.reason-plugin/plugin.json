@@ -4,6 +4,7 @@
   "description": "Short fiction inside Reason.",
   "homepage": "https://ficturn.thomas-judes.workers.dev",
   "docs": "https://ficturn.thomas-judes.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ficturn": {

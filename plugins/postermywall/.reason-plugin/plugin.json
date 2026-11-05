@@ -4,6 +4,7 @@
   "description": "Find design templates.",
   "homepage": "https://www.postermywall.com",
   "docs": "https://www.postermywall.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "postermywall": {

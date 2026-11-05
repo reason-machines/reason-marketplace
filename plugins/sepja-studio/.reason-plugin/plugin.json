@@ -4,6 +4,7 @@
   "description": "Shape your space in 3D.",
   "homepage": "https://sepja.com",
   "docs": "https://sepja.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sepja-studio": {

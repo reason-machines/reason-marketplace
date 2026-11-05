@@ -4,6 +4,7 @@
   "description": "Track time and manage work.",
   "homepage": "https://timelodge.com/",
   "docs": "https://timelodge.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "timelodge": {

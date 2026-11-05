@@ -4,6 +4,7 @@
   "description": "Make Reason Visible & Alive.",
   "homepage": "https://vivin.ai",
   "docs": "https://vivin.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vivin": {

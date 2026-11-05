@@ -4,6 +4,7 @@
   "description": "Secure Google Workspace.",
   "homepage": "https://sharewatch.ai",
   "docs": "https://sharewatch.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sharewatch": {

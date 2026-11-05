@@ -4,6 +4,7 @@
   "description": "Browse published Posts.",
   "homepage": "https://docs.subnano.ai/llms.txt",
   "docs": "https://docs.subnano.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "subnano-browse": {

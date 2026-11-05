@@ -4,6 +4,7 @@
   "description": "Estimate electricity savings.",
   "homepage": "https://www.energyogre.com",
   "docs": "https://tedix.dev/apps/energy-ogre/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "energy-ogre": {

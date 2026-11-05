@@ -4,6 +4,7 @@
   "description": "Manage Replo sites and data.",
   "homepage": "https://replo.app",
   "docs": "https://docs.replo.app/mcp/connect-with-other-ai-clients",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "replo": {

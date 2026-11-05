@@ -4,6 +4,7 @@
   "description": "Plan. Share. Execute.",
   "homepage": "https://www.roadops.app/",
   "docs": "https://developer.roadops.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "roadops": {

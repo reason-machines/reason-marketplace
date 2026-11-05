@@ -4,6 +4,7 @@
   "description": "Brand ideas and content drafts.",
   "homepage": "https://nextbig.app/apps/daily-social",
   "docs": "https://nextbig.app/apps/daily-social/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "daily-social": {

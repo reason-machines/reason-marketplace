@@ -4,6 +4,7 @@
   "description": "Plan prototypes from ideas.",
   "homepage": "https://idea-to-prototype-app.vercel.app",
   "docs": "https://idea-to-prototype-app.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "idea-to-prototype-beta": {

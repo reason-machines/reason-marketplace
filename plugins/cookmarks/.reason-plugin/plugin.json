@@ -4,6 +4,7 @@
   "description": "Recipes, meal plans, groceries.",
   "homepage": "https://www.cookmarks.app",
   "docs": "https://cookmarks.app/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cookmarks": {

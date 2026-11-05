@@ -4,6 +4,7 @@
   "description": "LATAM brand visibility in AI.",
   "homepage": "https://crecerank.com/",
   "docs": "https://crecerank.com/mejores-mcp-geo-visibilidad-ia/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "crecerank": {

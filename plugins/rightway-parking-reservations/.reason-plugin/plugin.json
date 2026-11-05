@@ -4,6 +4,7 @@
   "description": "Airport, cruise, event parking.",
   "homepage": "https://rightwayparking.com",
   "docs": "https://rightwayparking.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rightway-parking-reservations": {

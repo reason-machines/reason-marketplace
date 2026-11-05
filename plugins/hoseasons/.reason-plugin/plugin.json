@@ -4,6 +4,7 @@
   "description": "Explore UK holiday parks.",
   "homepage": "https://www.hoseasons.co.uk/",
   "docs": "https://www.hoseasons.co.uk/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hoseasons": {

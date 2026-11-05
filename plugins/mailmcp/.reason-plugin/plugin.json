@@ -4,6 +4,7 @@
   "description": "Your mailboxes in Reason.",
   "homepage": "https://mailmcp.ai",
   "docs": "https://mailmcp.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mailmcp": {

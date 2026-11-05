@@ -4,6 +4,7 @@
   "description": "Visualize renovation ideas.",
   "homepage": "https://room-renovation-visualizer.aigc-7629.chatgpt.site",
   "docs": "https://room-renovation-visualizer.aigc-7629.chatgpt.site",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "room-renovation-visualizer": {

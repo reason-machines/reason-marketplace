@@ -4,6 +4,7 @@
   "description": "US tap water quality by city.",
   "homepage": "https://tapwatermap.com",
   "docs": "https://tapwatermap.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tapwatermap": {

@@ -4,6 +4,7 @@
   "description": "QR codes for links & contacts.",
   "homepage": "https://qr-code-studio.zovo.one",
   "docs": "https://qr-code-studio.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "qr-code-studio": {

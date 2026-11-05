@@ -4,6 +4,7 @@
   "description": "Book local appointments.",
   "homepage": "https://www.planoora.com",
   "docs": "https://www.planoora.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "planoora": {

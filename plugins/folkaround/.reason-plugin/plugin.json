@@ -4,6 +4,7 @@
   "description": "What's on near you.",
   "homepage": "https://folkaround.app",
   "docs": "https://folkaround.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "folkaround": {

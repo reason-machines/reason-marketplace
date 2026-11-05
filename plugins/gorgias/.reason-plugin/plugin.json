@@ -4,6 +4,7 @@
   "description": "Manage your support helpdesk.",
   "homepage": "https://updates.gorgias.com/publications/gorgias-mcp-is-now-in-open-beta",
   "docs": "https://updates.gorgias.com/publications/gorgias-mcp-is-now-in-open-beta",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gorgias": {

@@ -4,6 +4,7 @@
   "description": "Find and compare digital jobs.",
   "homepage": "https://www.digitaljobs.com/chatgpt-app/",
   "docs": "https://www.digitaljobs.com/chatgpt-app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "digital-jobs-search": {

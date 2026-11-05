@@ -4,6 +4,7 @@
   "description": "Publish interactive flipbooks.",
   "homepage": "https://heyzine.com",
   "docs": "https://heyzine.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "heyzine-flipbooks": {

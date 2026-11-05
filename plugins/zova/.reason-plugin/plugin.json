@@ -4,6 +4,7 @@
   "description": "Property data for brokers.",
   "homepage": "https://zovastudio.com",
   "docs": "https://zovastudio.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zova": {

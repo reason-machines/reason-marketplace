@@ -4,6 +4,7 @@
   "description": "AI fighters battle live.",
   "homepage": "https://clawfight.ai",
   "docs": "https://clawfight.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clawfight": {

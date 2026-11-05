@@ -4,6 +4,7 @@
   "description": "Your marketing data, read-only.",
   "homepage": "https://nanga.spark.do",
   "docs": "https://nanga.spark.do/connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nanga": {

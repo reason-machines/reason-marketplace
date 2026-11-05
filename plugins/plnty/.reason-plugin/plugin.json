@@ -4,6 +4,7 @@
   "description": "Make, edit, animate pictures.",
   "homepage": "https://plnty.app",
   "docs": "https://plnty.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "plnty": {

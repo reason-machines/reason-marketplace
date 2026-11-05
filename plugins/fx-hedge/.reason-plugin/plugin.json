@@ -4,6 +4,7 @@
   "description": "FX hedge ratios and analytics.",
   "homepage": "https://c8hedge.com",
   "docs": "https://tedix.dev/apps/fx-hedge/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fx-hedge": {

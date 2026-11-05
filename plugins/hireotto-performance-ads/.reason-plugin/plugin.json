@@ -4,6 +4,7 @@
   "description": "Analyze & Manage Google Ads.",
   "homepage": "https://hireotto.com/google-ads-mcp",
   "docs": "https://hireotto.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hireotto-performance-ads": {

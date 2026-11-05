@@ -4,6 +4,7 @@
   "description": "Set up Ezoic ads on your site.",
   "homepage": "https://setup-agent.ezoic.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.ezoic/setup",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ezoic-setup": {

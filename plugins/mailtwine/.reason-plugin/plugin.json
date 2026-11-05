@@ -4,6 +4,7 @@
   "description": "Read your triaged email.",
   "homepage": "https://mailtwine.com",
   "docs": "https://mailtwine.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mailtwine": {

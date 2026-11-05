@@ -4,6 +4,7 @@
   "description": "Total CMS docs and reference.",
   "homepage": "https://totalcms.co",
   "docs": "https://totalcms.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "totalcms": {

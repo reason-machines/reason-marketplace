@@ -4,6 +4,7 @@
   "description": "Presence with privacy controls.",
   "homepage": "https://positionguardai.com",
   "docs": "https://positionguardai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "positionguard": {

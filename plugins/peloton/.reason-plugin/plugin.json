@@ -4,6 +4,7 @@
   "description": "Discover Peloton workouts.",
   "homepage": "https://www.onepeloton.com",
   "docs": "https://www.onepeloton.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "peloton": {

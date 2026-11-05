@@ -4,6 +4,7 @@
   "description": "Format books and make covers.",
   "homepage": "https://tunmire.app",
   "docs": "https://tunmire.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tunmire": {

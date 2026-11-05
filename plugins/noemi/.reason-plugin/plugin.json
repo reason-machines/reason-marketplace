@@ -4,6 +4,7 @@
   "description": "Your professional page.",
   "homepage": "https://noemi.cards",
   "docs": "https://noemi.cards/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "noemi": {

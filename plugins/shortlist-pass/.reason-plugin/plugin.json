@@ -4,6 +4,7 @@
   "description": "Order from local food trucks.",
   "homepage": "https://app.shortlistpass.com",
   "docs": "https://shortlistpass.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "shortlist-pass": {

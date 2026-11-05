@@ -4,6 +4,7 @@
   "description": "Website review or a consult.",
   "homepage": "https://northvalleyintel.com",
   "docs": "https://northvalleyintel.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "northvalley-intelligence": {

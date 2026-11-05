@@ -4,6 +4,7 @@
   "description": "Real papers, checked citations.",
   "homepage": "https://citedevidence.com/integrations/ai-assistants",
   "docs": "https://citedevidence.com/integrations/ai-assistants",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "citedevidence": {

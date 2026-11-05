@@ -4,6 +4,7 @@
   "description": "Accurate charts & Human Design.",
   "homepage": "https://openephemeris.com",
   "docs": "https://openephemeris.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "open-ephemeris": {

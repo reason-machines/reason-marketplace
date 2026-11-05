@@ -4,6 +4,7 @@
   "description": "Creator & commerce insights.",
   "homepage": "https://hooklayer.dev",
   "docs": "https://hooklayer.dev/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hooklayer": {

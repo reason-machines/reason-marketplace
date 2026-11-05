@@ -4,6 +4,7 @@
   "description": "Analyze your email audience.",
   "homepage": "https://flodesk.com",
   "docs": "https://flodesk.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flodesk": {

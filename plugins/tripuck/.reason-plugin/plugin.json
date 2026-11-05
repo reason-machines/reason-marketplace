@@ -4,6 +4,7 @@
   "description": "Flights, hotels & eSIM plans.",
   "homepage": "https://tripuck.com",
   "docs": "https://tripuck.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tripuck": {

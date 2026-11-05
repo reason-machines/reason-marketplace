@@ -4,6 +4,7 @@
   "description": "Search cybersecurity knowledge.",
   "homepage": "https://registry.modelcontextprotocol.io/v0/servers?search=com.cyberlibrary/library",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.cyberlibrary/library",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cyber-library": {

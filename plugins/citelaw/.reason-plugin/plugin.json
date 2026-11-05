@@ -4,6 +4,7 @@
   "description": "Legal research & firm ops.",
   "homepage": "https://citelaw.org",
   "docs": "https://citelaw.org/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "citelaw": {

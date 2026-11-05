@@ -4,6 +4,7 @@
   "description": "Your strength-training log.",
   "homepage": "https://letsworkout.app",
   "docs": "https://letsworkout.app/ai-assistants.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "letsworkout": {

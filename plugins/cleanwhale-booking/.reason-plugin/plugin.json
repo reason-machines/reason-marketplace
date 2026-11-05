@@ -4,6 +4,7 @@
   "description": "Book cleanings worldwide.",
   "homepage": "https://cleanwhale.pl",
   "docs": "https://cleanwhale.pl",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cleanwhale-booking": {

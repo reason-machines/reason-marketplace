@@ -4,6 +4,7 @@
   "description": "Plan better fishing sessions.",
   "homepage": "https://perigeetides.com/chatgpt/coastal-planner",
   "docs": "https://perigeetides.com/chatgpt/coastal-planner",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "perigee-fishing": {

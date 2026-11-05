@@ -4,6 +4,7 @@
   "description": "Plan and track work in chat.",
   "homepage": "https://juscribe.ai",
   "docs": "https://juscribe.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jus": {

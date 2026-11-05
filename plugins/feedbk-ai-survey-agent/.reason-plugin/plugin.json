@@ -4,6 +4,7 @@
   "description": "Create AI-powered surveys.",
   "homepage": "https://feedbk.ai",
   "docs": "https://feedbk.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "feedbk-ai-survey-agent": {

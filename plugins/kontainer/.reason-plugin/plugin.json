@@ -4,6 +4,7 @@
   "description": "Manage assets and products.",
   "homepage": "https://kontainer.com",
   "docs": "https://kontainer.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kontainer": {

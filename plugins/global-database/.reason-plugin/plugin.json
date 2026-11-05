@@ -4,6 +4,7 @@
   "description": "Official company registry data.",
   "homepage": "https://globaldatabase.com",
   "docs": "https://globaldatabase.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "global-database": {

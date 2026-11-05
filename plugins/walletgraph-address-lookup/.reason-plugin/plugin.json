@@ -4,6 +4,7 @@
   "description": "Look up onchain addresses.",
   "homepage": "https://walletgraph.801.world/",
   "docs": "https://tedix.dev/apps/walletgraph-address-lookup/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "walletgraph-address-lookup": {

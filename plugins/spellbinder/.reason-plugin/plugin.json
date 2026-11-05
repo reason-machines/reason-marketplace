@@ -4,6 +4,7 @@
   "description": "Find MTG cards and build decks.",
   "homepage": "https://www.spellbinder.gg",
   "docs": "https://spellbinder.gg/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spellbinder": {

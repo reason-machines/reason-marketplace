@@ -4,6 +4,7 @@
   "description": "Search medical-device data.",
   "homepage": "https://md-atlas.com/mcp/docs",
   "docs": "https://md-atlas.com/mcp/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "md-atlas": {

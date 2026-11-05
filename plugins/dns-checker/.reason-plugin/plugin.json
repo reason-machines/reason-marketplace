@@ -4,6 +4,7 @@
   "description": "Live DNS & email auth checks.",
   "homepage": "https://dns-checker.zovo.one",
   "docs": "https://dns-checker.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dns-checker": {

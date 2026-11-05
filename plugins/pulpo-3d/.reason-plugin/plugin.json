@@ -4,6 +4,7 @@
   "description": "3D printing quotes.",
   "homepage": "https://pulpo3d.es",
   "docs": "https://pulpo3d.es",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pulpo-3d": {

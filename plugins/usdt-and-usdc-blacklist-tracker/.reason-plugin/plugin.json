@@ -4,6 +4,7 @@
   "description": "Check any wallet for freezes.",
   "homepage": "https://eaglevirtual.com/mcp",
   "docs": "https://eaglevirtual.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "usdt-and-usdc-blacklist-tracker": {

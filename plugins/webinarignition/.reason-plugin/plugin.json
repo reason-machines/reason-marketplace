@@ -4,6 +4,7 @@
   "description": "Get leads & sales mid-webinar.",
   "homepage": "https://webinarignition.com/",
   "docs": "https://webinarignition.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "webinarignition": {

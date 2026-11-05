@@ -4,6 +4,7 @@
   "description": "Your Unreasonable community.",
   "homepage": "https://unreasonable.eco",
   "docs": "https://unreasonable.eco",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unreasonable-eco": {

@@ -4,6 +4,7 @@
   "description": "Διαχείριση ΧΥΤΑ και ΗΜΑ.",
   "homepage": "https://landfillom.com/",
   "docs": "https://landfillom.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "landfillom": {

@@ -4,6 +4,7 @@
   "description": "Business and people research.",
   "homepage": "https://leadproof.co/",
   "docs": "https://leadproof.co/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "leadproof-local-leads": {

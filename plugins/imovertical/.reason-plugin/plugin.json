@@ -4,6 +4,7 @@
   "description": "Check a French property.",
   "homepage": "https://imovertical.com",
   "docs": "https://imovertical.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "imovertical": {

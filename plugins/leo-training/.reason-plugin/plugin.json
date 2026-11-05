@@ -4,6 +4,7 @@
   "description": "Train for what matters.",
   "homepage": "https://leotraining.app",
   "docs": "https://leotraining.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leo-training": {

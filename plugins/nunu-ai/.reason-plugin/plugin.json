@@ -4,6 +4,7 @@
   "description": "AI-powered software testing.",
   "homepage": "https://nunu.ai",
   "docs": "https://nunu.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nunu-ai": {

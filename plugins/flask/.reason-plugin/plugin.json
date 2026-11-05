@@ -4,6 +4,7 @@
   "description": "Video review & collaboration.",
   "homepage": "https://flask.do",
   "docs": "https://flask.do/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flask": {

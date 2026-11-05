@@ -4,6 +4,7 @@
   "description": "Compare insurance.",
   "homepage": "https://seguromatch.com/",
   "docs": "https://seguromatch.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "seguro-match": {

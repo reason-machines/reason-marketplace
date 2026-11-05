@@ -4,6 +4,7 @@
   "description": "Transcribe audio and video.",
   "homepage": "https://scribetoany.com",
   "docs": "https://scribetoany.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scribetoany": {

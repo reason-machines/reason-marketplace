@@ -4,6 +4,7 @@
   "description": "Post office hours (unofficial).",
   "homepage": "https://poste.cc",
   "docs": "https://poste.cc",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "poste": {

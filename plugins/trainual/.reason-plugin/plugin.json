@@ -4,6 +4,7 @@
   "description": "Find how your company works.",
   "homepage": "https://trainual.com",
   "docs": "https://trainual.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trainual": {

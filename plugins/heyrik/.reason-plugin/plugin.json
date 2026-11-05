@@ -4,6 +4,7 @@
   "description": "AI voice agents and calls.",
   "homepage": "https://www.heyrik.com",
   "docs": "https://www.heyrik.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "heyrik": {

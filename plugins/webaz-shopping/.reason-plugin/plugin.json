@@ -4,6 +4,7 @@
   "description": "Find and compare products.",
   "homepage": "https://webaz.xyz",
   "docs": "https://webaz.xyz",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "webaz-shopping": {

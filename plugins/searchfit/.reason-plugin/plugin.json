@@ -4,6 +4,7 @@
   "description": "AI visibility and content.",
   "homepage": "https://searchfit.ai",
   "docs": "https://searchfit.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "searchfit": {

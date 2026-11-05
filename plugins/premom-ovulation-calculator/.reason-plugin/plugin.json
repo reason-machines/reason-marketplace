@@ -4,6 +4,7 @@
   "description": "Find fertile days & ovulation.",
   "homepage": "https://premom.com/",
   "docs": "https://premom.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "premom-ovulation-calculator": {

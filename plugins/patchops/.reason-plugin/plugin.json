@@ -4,6 +4,7 @@
   "description": "Oil and gas data, with sources.",
   "homepage": "https://patchops.ai",
   "docs": "https://patchops.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "patchops": {

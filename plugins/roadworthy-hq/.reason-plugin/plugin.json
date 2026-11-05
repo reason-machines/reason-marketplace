@@ -4,6 +4,7 @@
   "description": "New-entrant audit readiness.",
   "homepage": "https://roadworthyhq.com",
   "docs": "https://roadworthyhq.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "roadworthy-hq": {

@@ -4,6 +4,7 @@
   "description": "High school football dynasty.",
   "homepage": "https://kickhollow.ambientapp.ai",
   "docs": "https://passlane.ambientapp.ai/docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kickhollow": {

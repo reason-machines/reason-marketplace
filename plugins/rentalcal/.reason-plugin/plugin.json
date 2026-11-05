@@ -4,6 +4,7 @@
   "description": "Book vacation rentals direct.",
   "homepage": "https://www.rentalcal.com",
   "docs": "https://rentalcal.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rentalcal": {

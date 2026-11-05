@@ -4,6 +4,7 @@
   "description": "Import videos and cut clips.",
   "homepage": "https://montage.app/",
   "docs": "https://montage.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "montage": {

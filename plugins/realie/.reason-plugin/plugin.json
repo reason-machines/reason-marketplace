@@ -4,6 +4,7 @@
   "description": "U.S. property records & comps.",
   "homepage": "https://www.realie.ai",
   "docs": "https://www.realie.ai/info/realie-chatgpt-setup-guide",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "realie": {

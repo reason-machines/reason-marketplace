@@ -4,6 +4,7 @@
   "description": "Your job search assistant.",
   "homepage": "https://rolepocket.com",
   "docs": "https://rolepocket.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rolepocket": {

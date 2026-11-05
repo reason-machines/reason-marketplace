@@ -4,6 +4,7 @@
   "description": "Hours worked, breaks, overtime.",
   "homepage": "https://time-card.zovo.one",
   "docs": "https://time-card.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "time-card": {

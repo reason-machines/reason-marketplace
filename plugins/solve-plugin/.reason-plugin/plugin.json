@@ -4,6 +4,7 @@
   "description": "Search and update your CRM.",
   "homepage": "https://solve360.com",
   "docs": "https://solve360.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "solve-plugin": {

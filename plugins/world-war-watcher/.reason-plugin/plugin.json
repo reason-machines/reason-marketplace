@@ -4,6 +4,7 @@
   "description": "Cited Iran–US war briefings.",
   "homepage": "https://worldwarwatcher.com",
   "docs": "https://worldwarwatcher.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "world-war-watcher": {

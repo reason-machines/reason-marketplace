@@ -4,6 +4,7 @@
   "description": "Your Italic library in Reason.",
   "homepage": "https://app.italic.com/about",
   "docs": "https://app.italic.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "italic": {

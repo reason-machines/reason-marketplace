@@ -4,6 +4,7 @@
   "description": "Buy colored contact lenses.",
   "homepage": "https://moodylenses.com/",
   "docs": "https://moodylenses.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "moody-lenses": {

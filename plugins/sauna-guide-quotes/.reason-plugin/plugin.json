@@ -4,6 +4,7 @@
   "description": "Compare saunas and real costs.",
   "homepage": "https://sauna.guide",
   "docs": "https://sauna.guide",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sauna-guide-quotes": {

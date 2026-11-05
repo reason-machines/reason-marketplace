@@ -4,6 +4,7 @@
   "description": "Find B2B leads and contacts.",
   "homepage": "https://salesql.com",
   "docs": "https://salesql.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "salesql": {

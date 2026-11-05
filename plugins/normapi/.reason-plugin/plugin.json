@@ -4,6 +4,7 @@
   "description": "Check and create e-invoices.",
   "homepage": "https://normapi.com/en/docs/mcp",
   "docs": "https://normapi.com/en/docs/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "normapi": {

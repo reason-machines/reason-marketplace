@@ -4,6 +4,7 @@
   "description": "Full Insights Your Dashboards.",
   "homepage": "https://voris.ai",
   "docs": "https://voris.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voris-human-and-ai-analytics": {

@@ -4,6 +4,7 @@
   "description": "Write and draw with Reason.",
   "homepage": "https://rapier.website/agents",
   "docs": "https://rapier.website/agents",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rapier": {

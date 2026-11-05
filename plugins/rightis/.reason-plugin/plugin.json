@@ -4,6 +4,7 @@
   "description": "Check a person's AI rights.",
   "homepage": "https://rightis.org/en/connect",
   "docs": "https://rightis.org/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rightis": {

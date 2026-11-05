@@ -4,6 +4,7 @@
   "description": "Fix the computers you manage.",
   "homepage": "https://www.hoptodesk.com/connect",
   "docs": "https://www.hoptodesk.com/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hoptodesk": {

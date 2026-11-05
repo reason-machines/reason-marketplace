@@ -4,6 +4,7 @@
   "description": "Your meetings and work memory.",
   "homepage": "https://littlebird.ai/features/mcp",
   "docs": "https://littlebird.ai/features/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "littlebird": {

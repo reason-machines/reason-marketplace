@@ -4,6 +4,7 @@
   "description": "Signatures, rooms & cap tables.",
   "homepage": "https://sharesign.co",
   "docs": "https://sharesign.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sharesign": {

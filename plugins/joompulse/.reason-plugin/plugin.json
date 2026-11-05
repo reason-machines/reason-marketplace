@@ -4,6 +4,7 @@
   "description": "Brazil E-Commerce Data.",
   "homepage": "https://joompulse.com/",
   "docs": "https://joompulse.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "joompulse": {

@@ -4,6 +4,7 @@
   "description": "Score your rental's readiness.",
   "homepage": "https://theguestbeforetherest.com/",
   "docs": "https://theguestbeforetherest.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "guest-ready-score": {

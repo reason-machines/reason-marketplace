@@ -4,6 +4,7 @@
   "description": "Plan trips and pack smarter.",
   "homepage": "https://packratai.com",
   "docs": "https://packratai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "packrat": {

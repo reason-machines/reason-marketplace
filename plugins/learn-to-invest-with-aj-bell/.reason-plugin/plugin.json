@@ -4,6 +4,7 @@
   "description": "Investing explained simply.",
   "homepage": "https://www.ajbell.co.uk/learn",
   "docs": "https://tedix.dev/apps/learn-to-invest-with-aj-bell/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "learn-to-invest-with-aj-bell": {

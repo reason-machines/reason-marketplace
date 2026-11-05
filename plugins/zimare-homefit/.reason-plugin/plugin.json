@@ -4,6 +4,7 @@
   "description": "Rent vs buy calculator.",
   "homepage": "https://homefit.zimarelabs.com",
   "docs": "https://homefit.zimarelabs.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "zimare-homefit": {

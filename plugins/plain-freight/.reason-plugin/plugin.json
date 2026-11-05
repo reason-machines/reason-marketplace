@@ -4,6 +4,7 @@
   "description": "China to USA shipping quotes.",
   "homepage": "https://plainfreight.com",
   "docs": "https://plainfreight.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "plain-freight": {

@@ -4,6 +4,7 @@
   "description": "GTM on autopilot.",
   "homepage": "https://revnu.com/mcp",
   "docs": "https://revnu.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "revnu": {

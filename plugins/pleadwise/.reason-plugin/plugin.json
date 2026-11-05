@@ -4,6 +4,7 @@
   "description": "Format legal filings.",
   "homepage": "https://pleadwise.com",
   "docs": "https://pleadwise.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pleadwise": {

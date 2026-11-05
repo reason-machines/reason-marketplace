@@ -4,6 +4,7 @@
   "description": "Track money, bills, statements.",
   "homepage": "https://wallek.app",
   "docs": "https://wallek.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wallek": {

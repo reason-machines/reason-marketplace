@@ -4,6 +4,7 @@
   "description": "Your calls, at a glance.",
   "homepage": "https://wakeman.ai",
   "docs": "https://wakeman.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wakeman": {

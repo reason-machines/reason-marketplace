@@ -4,6 +4,7 @@
   "description": "Plan your week in Weeklane.",
   "homepage": "https://weeklane.app/ai",
   "docs": "https://weeklane.app/ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "weeklane": {

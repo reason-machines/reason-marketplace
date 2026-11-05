@@ -4,6 +4,7 @@
   "description": "Build and host business apps.",
   "homepage": "https://piezas.ai",
   "docs": "https://piezas.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "piezas": {

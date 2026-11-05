@@ -4,6 +4,7 @@
   "description": "Training, playbooks & sales.",
   "homepage": "https://www.mcptutor.com",
   "docs": "https://www.mcptutor.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mcp-tutor": {

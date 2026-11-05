@@ -4,6 +4,7 @@
   "description": "Plan with your friends.",
   "homepage": "https://woosh.social",
   "docs": "https://woosh.social",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "woosh": {

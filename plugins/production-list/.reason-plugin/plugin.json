@@ -4,6 +4,7 @@
   "description": "Who's filming what, and where.",
   "homepage": "https://www.productionlist.com",
   "docs": "https://www.productionlist.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "production-list": {

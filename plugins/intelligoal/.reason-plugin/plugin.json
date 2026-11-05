@@ -4,6 +4,7 @@
   "description": "Match evidence, made clear.",
   "homepage": "https://theintelligoal.com",
   "docs": "https://theintelligoal.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "intelligoal": {

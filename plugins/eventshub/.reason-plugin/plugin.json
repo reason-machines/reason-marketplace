@@ -4,6 +4,7 @@
   "description": "What's on in Cyprus.",
   "homepage": "https://eventshub.cy",
   "docs": "https://eventshub.cy",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eventshub": {

@@ -4,6 +4,7 @@
   "description": "Plan and draft social posts.",
   "homepage": "https://www.lmnts.studio",
   "docs": "https://lmnts.studio/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lmnts": {

@@ -4,6 +4,7 @@
   "description": "Czech restaurant expert tips.",
   "homepage": "https://futrumi.cz",
   "docs": "https://futrumi.cz",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "futrumi": {

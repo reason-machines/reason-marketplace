@@ -4,6 +4,7 @@
   "description": "Two-way sync between your apps.",
   "homepage": "https://whalesync.com",
   "docs": "https://whalesync.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whalesync": {

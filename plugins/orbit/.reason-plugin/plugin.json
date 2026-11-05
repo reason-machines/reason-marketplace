@@ -4,6 +4,7 @@
   "description": "Know your people and writing.",
   "homepage": "https://seeyourorbit.com/chatgpt?utm_source=chatgpt-directory&utm_medium=listing",
   "docs": "https://seeyourorbit.com/chatgpt?utm_source=chatgpt-directory&utm_medium=listing",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orbit": {

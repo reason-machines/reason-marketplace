@@ -4,6 +4,7 @@
   "description": "Meeting and recording insights.",
   "homepage": "https://docs.speakai.co/",
   "docs": "https://docs.speakai.co/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "speak-ai": {

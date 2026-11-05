@@ -4,6 +4,7 @@
   "description": "Read your fleet and work.",
   "homepage": "https://app.drivexiq.com/ai-assistants.html",
   "docs": "https://app.drivexiq.com/ai-assistants.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dev-6ad16b799ca08191918b80e84330840a": {

@@ -4,6 +4,7 @@
   "description": "Financial data for AI.",
   "homepage": "https://use.lexfi.ai",
   "docs": "https://use.lexfi.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lexfi": {

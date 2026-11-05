@@ -4,6 +4,7 @@
   "description": "Web pages and Instagram tools.",
   "homepage": "https://saypage.ai",
   "docs": "https://saypage.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "saypage": {

@@ -4,6 +4,7 @@
   "description": "Send SMS and manage contacts.",
   "homepage": "https://www.textmagic.com/",
   "docs": "https://www.textmagic.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "textmagic": {

@@ -4,6 +4,7 @@
   "description": "Build websites and simple Apps.",
   "homepage": "https://goalmatic.io",
   "docs": "https://goalmatic.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "goalmatic": {

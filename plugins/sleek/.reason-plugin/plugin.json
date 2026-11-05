@@ -4,6 +4,7 @@
   "description": "Generate mobile app designs.",
   "homepage": "https://sleek.design",
   "docs": "https://sleek.design/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sleek": {

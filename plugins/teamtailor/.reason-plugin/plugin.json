@@ -4,6 +4,7 @@
   "description": "Manage recruiting data.",
   "homepage": "https://teamtailor.com/",
   "docs": "https://teamtailor.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "teamtailor": {

@@ -4,6 +4,7 @@
   "description": "Resumes and cover letters.",
   "homepage": "https://resume.io",
   "docs": "https://resume.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "resume-io": {

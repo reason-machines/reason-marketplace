@@ -4,6 +4,7 @@
   "description": "Rental investment analysis.",
   "homepage": "https://vocasa.ai",
   "docs": "https://vocasa.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vocasa": {

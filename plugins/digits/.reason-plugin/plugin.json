@@ -4,6 +4,7 @@
   "description": "Track & analyze your finances.",
   "homepage": "https://digits.com/",
   "docs": "https://help.digits.com/firms-connections/digits-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "digits": {

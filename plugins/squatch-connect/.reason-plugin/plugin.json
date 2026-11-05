@@ -4,6 +4,7 @@
   "description": "Travel eSIM plans & prices.",
   "homepage": "https://www.saasquatchlab.com/squatch-connect",
   "docs": "https://www.saasquatchlab.com/squatch-connect",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "squatch-connect": {

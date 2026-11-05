@@ -4,6 +4,7 @@
   "description": "AI relationship intelligence.",
   "homepage": "https://supercarl.ai",
   "docs": "https://supercarl.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "super-carl": {

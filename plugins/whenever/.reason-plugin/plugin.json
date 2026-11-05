@@ -4,6 +4,7 @@
   "description": "Build and manage automations.",
   "homepage": "https://www.whenever.dev",
   "docs": "https://www.whenever.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whenever": {

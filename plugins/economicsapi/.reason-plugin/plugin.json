@@ -4,6 +4,7 @@
   "description": "Macro, trade, commodities & FX.",
   "homepage": "https://economicsapi.com",
   "docs": "https://economicsapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "economicsapi": {

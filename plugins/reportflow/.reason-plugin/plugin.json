@@ -4,6 +4,7 @@
   "description": "Generate professional PDFs.",
   "homepage": "https://lp.re-port-flow.com",
   "docs": "https://lp.re-port-flow.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reportflow": {

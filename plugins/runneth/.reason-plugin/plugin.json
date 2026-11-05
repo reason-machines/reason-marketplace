@@ -4,6 +4,7 @@
   "description": "Creative strategy for your ads.",
   "homepage": "https://runneth.com",
   "docs": "https://runneth.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "runneth": {

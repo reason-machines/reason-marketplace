@@ -4,6 +4,7 @@
   "description": "Create and manage prompts.",
   "homepage": "https://chatgpt.promptperfect.xyz/",
   "docs": "https://chatgpt.promptperfect.xyz/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prompt-perfect": {

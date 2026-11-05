@@ -4,6 +4,7 @@
   "description": "Social media management.",
   "homepage": "https://postplanify.com/",
   "docs": "https://postplanify.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postplanify": {

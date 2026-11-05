@@ -4,6 +4,7 @@
   "description": "Localize products with Crowdin.",
   "homepage": "https://crowdin.com",
   "docs": "https://crowdin.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "crowdin": {

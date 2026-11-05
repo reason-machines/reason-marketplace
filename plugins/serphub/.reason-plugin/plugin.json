@@ -4,6 +4,7 @@
   "description": "Analyze your SEO and site data.",
   "homepage": "https://serphub.io",
   "docs": "https://serphub.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "serphub": {

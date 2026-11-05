@@ -4,6 +4,7 @@
   "description": "Manage web personalization.",
   "homepage": "https://www.personyze.com/",
   "docs": "https://www.personyze.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "personyze": {

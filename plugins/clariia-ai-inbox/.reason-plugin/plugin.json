@@ -4,6 +4,7 @@
   "description": "Review AI-created work.",
   "homepage": "https://clariia.com",
   "docs": "https://clariia.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clariia-ai-inbox": {

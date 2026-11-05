@@ -4,6 +4,7 @@
   "description": "CRM for event venues.",
   "homepage": "https://joinways.app",
   "docs": "https://joinways.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "joinways": {

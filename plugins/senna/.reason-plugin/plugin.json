@@ -4,6 +4,7 @@
   "description": "八字与六爻传统推演.",
   "homepage": "https://api.superyun.cn/senna/",
   "docs": "https://api.superyun.cn/senna/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "senna": {

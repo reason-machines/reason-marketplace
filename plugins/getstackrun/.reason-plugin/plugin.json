@@ -4,6 +4,7 @@
   "description": "Oversee and revoke AI agents.",
   "homepage": "https://getstack.run",
   "docs": "https://getstack.run",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getstackrun": {

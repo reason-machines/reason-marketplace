@@ -4,6 +4,7 @@
   "description": "Create and edit wiki pages.",
   "homepage": "https://wikilayer.org/",
   "docs": "https://wikilayer.org/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wikilayer": {

@@ -4,6 +4,7 @@
   "description": "Launch checklists and findings.",
   "homepage": "https://viberaven.dev",
   "docs": "https://viberaven.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "viberaven": {

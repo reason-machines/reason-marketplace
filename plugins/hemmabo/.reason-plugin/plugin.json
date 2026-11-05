@@ -4,6 +4,7 @@
   "description": "Verified stay offers.",
   "homepage": "https://www.hemmabo.com",
   "docs": "https://www.hemmabo.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hemmabo": {

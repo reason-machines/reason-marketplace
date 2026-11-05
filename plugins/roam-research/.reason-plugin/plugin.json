@@ -4,6 +4,7 @@
   "description": "Read and update Roam graphs.",
   "homepage": "https://roamresearch.com/",
   "docs": "https://roamresearch.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "roam-research": {

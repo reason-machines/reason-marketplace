@@ -4,6 +4,7 @@
   "description": "Pomodoro & countdown timer.",
   "homepage": "https://focus-timer.zovo.one",
   "docs": "https://focus-timer.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "focus-timer": {

@@ -4,6 +4,7 @@
   "description": "How findable is your brand.",
   "homepage": "https://humanforward.io",
   "docs": "https://humanforward.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "human-forward-findability": {

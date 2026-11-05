@@ -4,6 +4,7 @@
   "description": "Find kids' activities near you.",
   "homepage": "https://localkidsguide.com",
   "docs": "https://localkidsguide.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "localkidsguide": {

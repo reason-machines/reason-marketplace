@@ -4,6 +4,7 @@
   "description": "Manage your private calendar.",
   "homepage": "https://nambli.com",
   "docs": "https://nambli.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tor-event-calendar-ai": {

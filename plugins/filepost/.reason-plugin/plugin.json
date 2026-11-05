@@ -4,6 +4,7 @@
   "description": "Upload files to public links.",
   "homepage": "https://filepost.dev",
   "docs": "https://filepost.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "filepost": {

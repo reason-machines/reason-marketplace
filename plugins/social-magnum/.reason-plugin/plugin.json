@@ -4,6 +4,7 @@
   "description": "Plan and manage social posts.",
   "homepage": "https://socialmagnum.com/mcp",
   "docs": "https://socialmagnum.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "social-magnum": {

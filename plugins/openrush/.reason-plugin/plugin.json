@@ -4,6 +4,7 @@
   "description": "SEO and competitor analysis.",
   "homepage": "https://openrush.com/",
   "docs": "https://openrush.com/mcp-setup",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openrush": {

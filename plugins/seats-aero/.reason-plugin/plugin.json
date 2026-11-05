@@ -4,6 +4,7 @@
   "description": "Find award flights with points.",
   "homepage": "https://seats.aero",
   "docs": "https://seats.aero",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "seats-aero": {

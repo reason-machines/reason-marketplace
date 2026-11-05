@@ -4,6 +4,7 @@
   "description": "Run your cold email outreach.",
   "homepage": "https://ken.so",
   "docs": "https://ken.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ken": {

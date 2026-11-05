@@ -4,6 +4,7 @@
   "description": "Get SEO, GEO & marketing data.",
   "homepage": "https://dataforseo.com/",
   "docs": "https://dataforseo.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dataforseo": {

@@ -4,6 +4,7 @@
   "description": "Ski & beach trip planner.",
   "homepage": "https://veabird.com/ai/",
   "docs": "https://veabird.com/ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "veabird": {

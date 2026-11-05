@@ -4,6 +4,7 @@
   "description": "Product visuals & ad intel.",
   "homepage": "https://vovv.ai",
   "docs": "https://vovv.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vovv-ai": {

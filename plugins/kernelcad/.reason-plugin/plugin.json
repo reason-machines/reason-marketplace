@@ -4,6 +4,7 @@
   "description": "Plain English to CAD models.",
   "homepage": "https://kernelcad.com",
   "docs": "https://kernelcad.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kernelcad": {

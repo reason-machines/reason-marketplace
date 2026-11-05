@@ -4,6 +4,7 @@
   "description": "Search Berlin property.",
   "homepage": "https://dispatcher.city",
   "docs": "https://dispatcher.city",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dispatcher-city": {

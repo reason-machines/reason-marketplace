@@ -4,6 +4,7 @@
   "description": "Plan and manage social posts.",
   "homepage": "https://smat.chat/",
   "docs": "https://smat.chat/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smat": {

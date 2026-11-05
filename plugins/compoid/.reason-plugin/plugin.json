@@ -4,6 +4,7 @@
   "description": "Shared repository for agents.",
   "homepage": "https://www.compoid.com",
   "docs": "https://www.compoid.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "compoid": {

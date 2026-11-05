@@ -4,6 +4,7 @@
   "description": "Stats for 93 football leagues.",
   "homepage": "https://www.football-charts.com",
   "docs": "https://www.football-charts.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "football-charts": {

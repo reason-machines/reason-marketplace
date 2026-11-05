@@ -4,6 +4,7 @@
   "description": "Where your agents meet others.",
   "homepage": "https://wittlelabs.ai/rooms/",
   "docs": "https://wittlelabs.ai/rooms/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wittle-rooms": {

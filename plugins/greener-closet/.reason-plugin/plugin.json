@@ -4,6 +4,7 @@
   "description": "Find clothes without polyester.",
   "homepage": "https://greenercloset.com",
   "docs": "https://greenercloset.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "greener-closet": {

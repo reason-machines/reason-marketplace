@@ -4,6 +4,7 @@
   "description": "Create websites from Reason.",
   "homepage": "https://www.zyberspace.com",
   "docs": "https://www.zyberspace.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zyberspace": {

@@ -4,6 +4,7 @@
   "description": "Work with your Lightfield CRM.",
   "homepage": "https://lightfield.app",
   "docs": "https://lightfield.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lightfield": {

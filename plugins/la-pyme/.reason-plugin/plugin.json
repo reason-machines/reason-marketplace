@@ -4,6 +4,7 @@
   "description": "Manage your business.",
   "homepage": "https://www.lapyme.com.ar",
   "docs": "https://lapyme.com.ar/integraciones/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "la-pyme": {

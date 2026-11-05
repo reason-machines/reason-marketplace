@@ -4,6 +4,7 @@
   "description": "Your journal, remembered.",
   "homepage": "https://dabble.me",
   "docs": "https://dabble.me",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dabble-me": {

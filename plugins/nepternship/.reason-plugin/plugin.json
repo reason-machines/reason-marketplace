@@ -4,6 +4,7 @@
   "description": "Warm intros for internships.",
   "homepage": "https://www.nepternship.com",
   "docs": "https://www.nepternship.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nepternship": {

@@ -4,6 +4,7 @@
   "description": "Find a golf coach.",
   "homepage": "https://www.pga.com",
   "docs": "https://www.pga.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pga-play-golf": {

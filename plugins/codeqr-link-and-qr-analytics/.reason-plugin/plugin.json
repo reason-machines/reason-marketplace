@@ -4,6 +4,7 @@
   "description": "Editable, trackable QR codes.",
   "homepage": "https://codeqr.io",
   "docs": "https://codeqr.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "codeqr-link-and-qr-analytics": {

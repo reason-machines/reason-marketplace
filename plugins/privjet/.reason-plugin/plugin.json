@@ -4,6 +4,7 @@
   "description": "Find empty leg flights.",
   "homepage": "https://www.privjet.net",
   "docs": "https://www.privjet.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "privjet": {

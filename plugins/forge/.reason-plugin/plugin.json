@@ -4,6 +4,7 @@
   "description": "A visual brain for your agents.",
   "homepage": "https://ui8.ai/forge/",
   "docs": "https://ui8.ai/forge/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "forge": {

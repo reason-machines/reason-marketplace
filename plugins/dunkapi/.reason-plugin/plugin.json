@@ -4,6 +4,7 @@
   "description": "NBA basketball data and stats.",
   "homepage": "https://dunkapi.com",
   "docs": "https://dunkapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dunkapi": {

@@ -4,6 +4,7 @@
   "description": "Manage your fundraising.",
   "homepage": "https://givebutter.com",
   "docs": "https://givebutter.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "givebutter": {

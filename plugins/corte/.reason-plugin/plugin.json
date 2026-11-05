@@ -4,6 +4,7 @@
   "description": "Create and publish brand media.",
   "homepage": "https://corte.so",
   "docs": "https://corte.so/features/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "corte": {

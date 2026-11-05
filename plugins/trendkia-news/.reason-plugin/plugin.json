@@ -4,6 +4,7 @@
   "description": "Find latest global news.",
   "homepage": "https://trendkia.com/",
   "docs": "https://trendkia.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trendkia-news": {

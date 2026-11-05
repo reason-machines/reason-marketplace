@@ -4,6 +4,7 @@
   "description": "Map & measure research fields.",
   "homepage": "https://pendar.ai",
   "docs": "https://pendar.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pendar": {

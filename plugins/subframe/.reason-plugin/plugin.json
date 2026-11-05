@@ -4,6 +4,7 @@
   "description": "Design UI for your codebase.",
   "homepage": "https://www.subframe.com",
   "docs": "https://www.subframe.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "subframe": {

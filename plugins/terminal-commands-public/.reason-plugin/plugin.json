@@ -4,6 +4,7 @@
   "description": "Run commands on your machines.",
   "homepage": "https://terminalcommands.fr/",
   "docs": "https://terminalcommands.fr/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "terminal-commands-public": {

@@ -4,6 +4,7 @@
   "description": "Find Amazon & Walmart products.",
   "homepage": "https://www.logimu.com/shopping-mcp/",
   "docs": "https://www.logimu.com/shopping-mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "logimu-shopping": {

@@ -4,6 +4,7 @@
   "description": "Find seaside accommodation.",
   "homepage": "https://www.gdenamore.com/",
   "docs": "https://www.gdenamore.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gdenamore-stays": {

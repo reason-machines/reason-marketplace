@@ -4,6 +4,7 @@
   "description": "Mah jongg hands & Charleston.",
   "homepage": "https://jokerly.ambientapp.ai",
   "docs": "https://jokerly.ambientapp.ai/docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jokerly": {

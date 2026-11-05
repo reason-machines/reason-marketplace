@@ -4,6 +4,7 @@
   "description": "Price merch, check delivery.",
   "homepage": "https://www.promotionpros.com",
   "docs": "https://www.promotionpros.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "promotion-pros-catalog": {

@@ -4,6 +4,7 @@
   "description": "Personalised newspaper posters.",
   "homepage": "https://giftstoprint.com",
   "docs": "https://giftstoprint.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "giftstoprint": {

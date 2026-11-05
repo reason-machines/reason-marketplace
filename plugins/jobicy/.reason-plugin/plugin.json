@@ -4,6 +4,7 @@
   "description": "Find remote jobs and careers.",
   "homepage": "https://jobicy.com",
   "docs": "https://jobicy.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jobicy": {

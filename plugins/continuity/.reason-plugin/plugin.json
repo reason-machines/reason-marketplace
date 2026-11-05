@@ -4,6 +4,7 @@
   "description": "Keep characters consistent.",
   "homepage": "https://continuity-snowy.vercel.app/connect",
   "docs": "https://continuity-snowy.vercel.app/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "continuity": {

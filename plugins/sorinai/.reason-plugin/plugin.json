@@ -4,6 +4,7 @@
   "description": "AI notepad for your meetings.",
   "homepage": "https://sorinai.com",
   "docs": "https://sorinai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sorinai": {

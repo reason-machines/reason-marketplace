@@ -4,6 +4,7 @@
   "description": "Find Hotels.",
   "homepage": "https://pickthehotel.com",
   "docs": "https://pickthehotel.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pickthehotel": {

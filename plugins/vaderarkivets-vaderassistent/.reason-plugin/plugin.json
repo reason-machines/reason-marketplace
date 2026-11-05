@@ -4,6 +4,7 @@
   "description": "Analysera historiskt väder.",
   "homepage": "https://vaderarkiv.se/",
   "docs": "https://vaderarkiv.se/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vaderarkivets-vaderassistent": {

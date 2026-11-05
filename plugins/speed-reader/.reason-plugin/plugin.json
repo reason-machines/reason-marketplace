@@ -4,6 +4,7 @@
   "description": "Paced reading practice.",
   "homepage": "https://speed-reader.zovo.one",
   "docs": "https://speed-reader.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "speed-reader": {

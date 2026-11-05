@@ -4,6 +4,7 @@
   "description": "Car Insurance UAE.",
   "homepage": "https://insurancemarket.ae",
   "docs": "https://insurancemarket.ae",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "insurancemarket": {

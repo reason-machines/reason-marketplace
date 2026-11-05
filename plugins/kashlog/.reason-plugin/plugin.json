@@ -4,6 +4,7 @@
   "description": "Multi-currency expense tracker.",
   "homepage": "https://kashlog.app",
   "docs": "https://kashlog.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kashlog": {

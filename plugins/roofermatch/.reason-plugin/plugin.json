@@ -4,6 +4,7 @@
   "description": "Roof help, then roofer quotes.",
   "homepage": "https://roofermatch.co/",
   "docs": "https://roofermatch.co/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "roofermatch": {

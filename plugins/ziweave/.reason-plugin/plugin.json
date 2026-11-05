@@ -4,6 +4,7 @@
   "description": "Ziwei astrology, made clear.",
   "homepage": "https://ziweave.com",
   "docs": "https://ziweave.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ziweave": {

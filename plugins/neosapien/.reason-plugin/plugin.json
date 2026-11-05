@@ -4,6 +4,7 @@
   "description": "Your Personal AI Assistant.",
   "homepage": "https://neosapien.ai/",
   "docs": "https://api.neosapien.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "neosapien": {

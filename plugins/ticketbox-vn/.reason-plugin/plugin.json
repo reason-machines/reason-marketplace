@@ -4,6 +4,7 @@
   "description": "Find events in Vietnam.",
   "homepage": "https://ticketbox.vn",
   "docs": "https://ticketbox.vn",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ticketbox-vn": {

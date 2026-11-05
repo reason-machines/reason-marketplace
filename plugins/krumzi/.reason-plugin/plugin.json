@@ -4,6 +4,7 @@
   "description": "Create social media graphics.",
   "homepage": "https://krumzi.com/mcp",
   "docs": "https://krumzi.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "krumzi": {

@@ -4,6 +4,7 @@
   "description": "Draft client emails & texts.",
   "homepage": "https://realtorreplyai.app",
   "docs": "https://realtorreplyai.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "realtor-reply-email-drafts": {

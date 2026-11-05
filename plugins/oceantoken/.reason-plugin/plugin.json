@@ -4,6 +4,7 @@
   "description": "Create images, video, speech.",
   "homepage": "https://oceantoken.ai",
   "docs": "https://oceantoken.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "oceantoken": {

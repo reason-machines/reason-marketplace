@@ -4,6 +4,7 @@
   "description": "Guided product-video scripts.",
   "homepage": "https://jessie-public-chatgpt-app.vercel.app/",
   "docs": "https://jessie-public-chatgpt-app.vercel.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jessie-script-director": {

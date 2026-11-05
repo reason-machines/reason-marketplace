@@ -4,6 +4,7 @@
   "description": "Find event vendors nearby.",
   "homepage": "https://izifete.fr",
   "docs": "https://izifete.fr/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "izifete": {

@@ -4,6 +4,7 @@
   "description": "Get your next workout.",
   "homepage": "https://fitbod.me/",
   "docs": "https://fitbod.me/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fitbod": {

@@ -4,6 +4,7 @@
   "description": "Transcribe with speaker labels.",
   "homepage": "https://diarize.io",
   "docs": "https://diarize.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "diarize": {

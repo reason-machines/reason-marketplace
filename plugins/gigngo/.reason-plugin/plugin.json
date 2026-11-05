@@ -4,6 +4,7 @@
   "description": "Find locals for home jobs.",
   "homepage": "https://gigngo.org",
   "docs": "https://gigngo.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gigngo": {

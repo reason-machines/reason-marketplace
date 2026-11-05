@@ -4,6 +4,7 @@
   "description": "Wine drinking windows.",
   "homepage": "https://sommelierswindow.com",
   "docs": "https://sommelierswindow.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sommeliers-window": {

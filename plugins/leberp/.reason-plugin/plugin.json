@@ -4,6 +4,7 @@
   "description": "Ayuda oficial del ERP Leberp.",
   "homepage": "https://leberp.com",
   "docs": "https://leberp.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "leberp": {

@@ -4,6 +4,7 @@
   "description": "Secure software supply chain.",
   "homepage": "https://safeguard.sh",
   "docs": "https://safeguard.sh",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "safeguard": {

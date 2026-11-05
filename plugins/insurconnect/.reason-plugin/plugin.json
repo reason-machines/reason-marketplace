@@ -4,6 +4,7 @@
   "description": "Find licensed insurance agents.",
   "homepage": "https://tedix.dev/apps/insurconnect/",
   "docs": "https://tedix.dev/apps/insurconnect/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "insurconnect": {

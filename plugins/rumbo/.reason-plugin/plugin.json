@@ -4,6 +4,7 @@
   "description": "Consultá tus datos de negocio.",
   "homepage": "https://rumboar.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.rumboar",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rumbo": {

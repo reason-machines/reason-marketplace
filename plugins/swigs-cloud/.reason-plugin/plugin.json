@@ -4,6 +4,7 @@
   "description": "Deploy and host in Switzerland.",
   "homepage": "https://swigs.cloud",
   "docs": "https://swigs.cloud/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "swigs-cloud": {

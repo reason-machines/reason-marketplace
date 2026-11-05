@@ -4,6 +4,7 @@
   "description": "Validate Ideas with Real Data.",
   "homepage": "https://petprojectcofounder.ai",
   "docs": "https://petprojectcofounder.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pet-project-co-founder-ai": {

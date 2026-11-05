@@ -4,6 +4,7 @@
   "description": "Quote and order custom parts.",
   "homepage": "https://makepartsnow.com",
   "docs": "https://makepartsnow.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "make-parts-now": {

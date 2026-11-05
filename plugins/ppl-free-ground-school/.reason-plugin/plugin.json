@@ -4,6 +4,7 @@
   "description": "Free FAA pilot ground school.",
   "homepage": "https://pplfree.com",
   "docs": "https://pplfree.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ppl-free-ground-school": {

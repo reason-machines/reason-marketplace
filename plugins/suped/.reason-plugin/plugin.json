@@ -4,6 +4,7 @@
   "description": "DMARC, SPF & DKIM Agent.",
   "homepage": "https://www.suped.com",
   "docs": "https://www.suped.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "suped": {

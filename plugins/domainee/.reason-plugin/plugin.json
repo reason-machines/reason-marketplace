@@ -4,6 +4,7 @@
   "description": "Custom domains for your SaaS.",
   "homepage": "https://domainee.dev/mcp",
   "docs": "https://domainee.dev/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "domainee": {

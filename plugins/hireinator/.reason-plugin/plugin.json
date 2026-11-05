@@ -4,6 +4,7 @@
   "description": "Technical hiring from chat.",
   "homepage": "https://hireinator.com/",
   "docs": "https://hireinator.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hireinator": {

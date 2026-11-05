@@ -4,6 +4,7 @@
   "description": "User feedback in Reason.",
   "homepage": "https://getuserfeedback.com",
   "docs": "https://getuserfeedback.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getuserfeedback": {

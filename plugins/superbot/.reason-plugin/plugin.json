@@ -4,6 +4,7 @@
   "description": "Support insights & training.",
   "homepage": "https://superbotapp.ai",
   "docs": "https://superbotapp.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superbot": {

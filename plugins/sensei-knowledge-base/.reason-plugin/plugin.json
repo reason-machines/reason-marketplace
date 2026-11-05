@@ -4,6 +4,7 @@
   "description": "Search and manage knowledge.",
   "homepage": "https://sensei.red",
   "docs": "https://sensei.red",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sensei-knowledge-base": {

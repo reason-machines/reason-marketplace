@@ -4,6 +4,7 @@
   "description": "High-stakes narrative drafts.",
   "homepage": "https://www.storiedinc.com/storied-ai",
   "docs": "https://www.storiedinc.com/storied-ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "storied-ai": {

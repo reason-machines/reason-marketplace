@@ -4,6 +4,7 @@
   "description": "Build and run automations.",
   "homepage": "https://www.pointer.ai",
   "docs": "https://api.pointer.ai/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pointer": {

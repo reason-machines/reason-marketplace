@@ -4,6 +4,7 @@
   "description": "Read and send SMS and email.",
   "homepage": "https://commsync.ai",
   "docs": "https://commsync.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "commsync": {

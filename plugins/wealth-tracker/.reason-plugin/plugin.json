@@ -4,6 +4,7 @@
   "description": "Net worth, history, spending.",
   "homepage": "https://getwealthtracker.com",
   "docs": "https://getwealthtracker.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wealth-tracker": {

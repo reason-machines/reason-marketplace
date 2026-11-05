@@ -4,6 +4,7 @@
   "description": "Manage WordPress from chat.",
   "homepage": "https://www.wpwriter.com",
   "docs": "https://www.wpwriter.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wpwriter": {

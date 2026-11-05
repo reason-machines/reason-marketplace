@@ -4,6 +4,7 @@
   "description": "Connect to your eQMS.",
   "homepage": "https://www.withdovetail.com/",
   "docs": "https://www.withdovetail.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dovetail-regulatory": {

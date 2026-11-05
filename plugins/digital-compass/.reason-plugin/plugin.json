@@ -4,6 +4,7 @@
   "description": "Digital emergency playbooks.",
   "homepage": "https://compass.madeinro.eu/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=eu.madeinro/digital-compass-mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "digital-compass": {

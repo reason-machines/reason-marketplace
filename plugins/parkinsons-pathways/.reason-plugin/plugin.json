@@ -4,6 +4,7 @@
   "description": "Find Parkinson's trials.",
   "homepage": "https://parkinsonspathways.com/mcp?profile=chatgpt",
   "docs": "https://parkinsonspathways.com/mcp?profile=chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "parkinsons-pathways": {

@@ -4,6 +4,7 @@
   "description": "3D characters and motion.",
   "homepage": "https://viggle.ai/pinoc",
   "docs": "https://viggle.ai/pinoc/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pinoc": {

@@ -4,6 +4,7 @@
   "description": "Hostel trips and price alerts.",
   "homepage": "https://hostelhound.com",
   "docs": "https://hostelhound.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hostelhound": {

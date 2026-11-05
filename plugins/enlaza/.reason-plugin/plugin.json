@@ -4,6 +4,7 @@
   "description": "Your WhatsApp Business inbox.",
   "homepage": "https://enlaza.chat",
   "docs": "https://enlaza.chat",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "enlaza": {

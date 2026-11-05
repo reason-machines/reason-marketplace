@@ -4,6 +4,7 @@
   "description": "Best day for outdoor plans.",
   "homepage": "https://fairwhen.com",
   "docs": "https://fairwhen.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fairwhen": {

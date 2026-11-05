@@ -4,6 +4,7 @@
   "description": "Find comment closing dates.",
   "homepage": "https://commentclock-mcp.sunrysetech.com/",
   "docs": "https://commentclock-mcp.sunrysetech.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "commentclock": {

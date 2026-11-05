@@ -4,6 +4,7 @@
   "description": "German real estate search.",
   "homepage": "https://www.somantic.net/developers",
   "docs": "https://www.somantic.net/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "somantic": {

@@ -4,6 +4,7 @@
   "description": "Ski resorts & snow in the Alps.",
   "homepage": "https://powly.de/map",
   "docs": "https://powly.de/map",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "powly": {

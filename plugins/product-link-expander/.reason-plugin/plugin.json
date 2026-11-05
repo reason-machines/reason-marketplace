@@ -4,6 +4,7 @@
   "description": "Expand product links.",
   "homepage": "https://amazon-expander.ccdesign.workers.dev/",
   "docs": "https://amazon-expander.ccdesign.workers.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "product-link-expander": {

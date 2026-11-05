@@ -4,6 +4,7 @@
   "description": "Use Hostinger Mail.",
   "homepage": "https://hostinger.com",
   "docs": "https://hostinger.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hostinger-mail": {

@@ -4,6 +4,7 @@
   "description": "CRM workspace tools.",
   "homepage": "https://twenty.com",
   "docs": "https://twenty.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "twenty": {

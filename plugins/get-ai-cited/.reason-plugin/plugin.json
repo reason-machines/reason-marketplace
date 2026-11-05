@@ -4,6 +4,7 @@
   "description": "AI visibility for B2B brands.",
   "homepage": "https://www.getaicited.co",
   "docs": "https://www.getaicited.co/en/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "get-ai-cited": {

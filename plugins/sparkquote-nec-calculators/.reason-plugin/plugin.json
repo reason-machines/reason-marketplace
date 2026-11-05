@@ -4,6 +4,7 @@
   "description": "NEC electrical calculators.",
   "homepage": "https://sparkquote.ai/tools/mcp-server",
   "docs": "https://sparkquote.ai/tools/mcp-server",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sparkquote-nec-calculators": {

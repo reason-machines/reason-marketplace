@@ -4,6 +4,7 @@
   "description": "Horoscopes, zodiac & tarot.",
   "homepage": "https://todayhoroscopeapp.com",
   "docs": "https://todayhoroscopeapp.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "daily-horoscope": {

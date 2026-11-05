@@ -4,6 +4,7 @@
   "description": "Access stock market data.",
   "homepage": "https://www.financialdatasets.ai/",
   "docs": "https://www.financialdatasets.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "financial-datasets": {

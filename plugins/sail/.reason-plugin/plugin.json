@@ -4,6 +4,7 @@
   "description": "Compare ways to get around.",
   "homepage": "https://sailrides.co",
   "docs": "https://sailrides.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sail": {

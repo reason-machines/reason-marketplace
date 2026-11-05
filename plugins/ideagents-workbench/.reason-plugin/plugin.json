@@ -4,6 +4,7 @@
   "description": "Develop ideas into clear plans.",
   "homepage": "https://ideagents.ai",
   "docs": "https://ideagents.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ideagents-workbench": {

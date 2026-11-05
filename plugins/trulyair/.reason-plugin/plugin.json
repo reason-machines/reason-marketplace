@@ -4,6 +4,7 @@
   "description": "EPA AQI, measured or modeled.",
   "homepage": "https://trulyair.com",
   "docs": "https://trulyair.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trulyair": {

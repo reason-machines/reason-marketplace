@@ -4,6 +4,7 @@
   "description": "Manage calls and integrations.",
   "homepage": "https://notesix.ai",
   "docs": "https://notesix.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notesix": {

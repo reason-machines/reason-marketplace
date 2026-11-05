@@ -4,6 +4,7 @@
   "description": "Ljubljana bus LPP arrivals.",
   "homepage": "https://ljbus.cc",
   "docs": "https://ljbus.cc",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ljbus-lpp-bus-arrivals": {

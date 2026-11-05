@@ -4,6 +4,7 @@
   "description": "Book tables in Austria.",
   "homepage": "https://restl.at",
   "docs": "https://restl.at",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "restl-table-reservations": {

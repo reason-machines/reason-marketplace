@@ -4,6 +4,7 @@
   "description": "LiteTMS in plain language.",
   "homepage": "https://litetms.eu",
   "docs": "https://litetms.eu",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "litetms": {

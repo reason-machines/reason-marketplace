@@ -4,6 +4,7 @@
   "description": "Croatian procurement data.",
   "homepage": "https://app.tender-op.com/",
   "docs": "https://app.tender-op.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "top-tender-operating-platform": {

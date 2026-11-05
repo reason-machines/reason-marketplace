@@ -4,6 +4,7 @@
   "description": "Marketing data and actions.",
   "homepage": "https://sharksapi.ai",
   "docs": "https://sharksapi.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sharksapi": {

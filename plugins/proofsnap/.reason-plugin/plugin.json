@@ -4,6 +4,7 @@
   "description": "Web pages as signed evidence.",
   "homepage": "https://getproofsnap.com/api/mcp.html",
   "docs": "https://getproofsnap.com/api/mcp.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "proofsnap": {

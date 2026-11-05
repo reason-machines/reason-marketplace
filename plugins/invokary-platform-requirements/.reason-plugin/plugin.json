@@ -4,6 +4,7 @@
   "description": "Connector listing requirements.",
   "homepage": "https://invokary.com/open-source",
   "docs": "https://invokary.com/open-source",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "invokary-platform-requirements": {

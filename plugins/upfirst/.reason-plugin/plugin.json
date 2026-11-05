@@ -4,6 +4,7 @@
   "description": "Manage AI receptionists.",
   "homepage": "https://upfirst.ai",
   "docs": "https://upfirst.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "upfirst": {

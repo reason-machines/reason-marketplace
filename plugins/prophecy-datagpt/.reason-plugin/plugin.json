@@ -4,6 +4,7 @@
   "description": "Governed data work in Reason.",
   "homepage": "https://www.prophecy.ai/",
   "docs": "https://docs.prophecy.ai/data-analysis/getting-started/datagpt/connect-datagpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prophecy-datagpt": {

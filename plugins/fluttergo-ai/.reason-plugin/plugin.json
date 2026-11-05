@@ -4,6 +4,7 @@
   "description": "Build Flutter apps in chat.",
   "homepage": "https://fluttergo.ai/",
   "docs": "https://fluttergo.ai/integrations/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fluttergo-ai": {

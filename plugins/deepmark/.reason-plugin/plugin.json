@@ -4,6 +4,7 @@
   "description": "Search everything you saved.",
   "homepage": "https://usedeepmark.com",
   "docs": "https://usedeepmark.com/can-claude-watch-videos",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "deepmark": {

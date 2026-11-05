@@ -4,6 +4,7 @@
   "description": "FX rates & insights.",
   "homepage": "https://www.xflowpay.com/",
   "docs": "https://mcp.so/servers/xflow",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "xflow": {

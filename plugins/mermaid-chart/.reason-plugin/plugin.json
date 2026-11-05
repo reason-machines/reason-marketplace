@@ -4,6 +4,7 @@
   "description": "Create, edit, and fix diagrams.",
   "homepage": "https://mermaid.ai",
   "docs": "https://mermaid.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mermaid-chart": {

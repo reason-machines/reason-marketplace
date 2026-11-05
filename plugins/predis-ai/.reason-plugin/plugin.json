@@ -4,6 +4,7 @@
   "description": "Make Ads Videos, UGC with AI.",
   "homepage": "https://predis.ai/",
   "docs": "https://predis.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "predis-ai": {

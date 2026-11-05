@@ -4,6 +4,7 @@
   "description": "Hotel pools, spas, beach clubs.",
   "homepage": "https://daypassapp.com",
   "docs": "https://daypassapp.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "daypass": {

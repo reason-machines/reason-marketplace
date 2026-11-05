@@ -4,6 +4,7 @@
   "description": "Search cruises by port & date.",
   "homepage": "https://thecruisinginsider.com/",
   "docs": "https://thecruisinginsider.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "find-my-cruise": {

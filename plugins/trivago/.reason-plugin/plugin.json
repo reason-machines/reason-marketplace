@@ -4,6 +4,7 @@
   "description": "Find your ideal hotel, fast.",
   "homepage": "https://www.trivago.com",
   "docs": "https://www.trivago.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trivago": {

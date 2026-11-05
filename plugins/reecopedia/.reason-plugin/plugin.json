@@ -4,6 +4,7 @@
   "description": "Cited EU textile law search.",
   "homepage": "https://ia.reeco.eco/reecopedia",
   "docs": "https://ia.reeco.eco/reecopedia",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "reecopedia": {

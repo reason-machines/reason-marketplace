@@ -4,6 +4,7 @@
   "description": "AI prompt manager and improver.",
   "homepage": "https://promptpetal.com",
   "docs": "https://promptpetal.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "prompt-petal": {

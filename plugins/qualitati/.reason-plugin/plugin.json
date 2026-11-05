@@ -4,6 +4,7 @@
   "description": "Run AI interviews and surveys.",
   "homepage": "https://qualitati.com",
   "docs": "https://qualitati.com/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qualitati": {

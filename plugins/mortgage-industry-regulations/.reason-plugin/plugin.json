@@ -4,6 +4,7 @@
   "description": "FNMA + FHA + VA + Compliance.",
   "homepage": "https://claudeforcompliance.com/",
   "docs": "https://claudeforcompliance.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mortgage-industry-regulations": {

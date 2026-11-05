@@ -4,6 +4,7 @@
   "description": "Traceable market insights.",
   "homepage": "https://www.economicmind.com/",
   "docs": "https://www.economicmind.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "economic-mind": {

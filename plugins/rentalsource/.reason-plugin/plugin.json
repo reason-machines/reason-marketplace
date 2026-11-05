@@ -4,6 +4,7 @@
   "description": "Find home & apartment rentals.",
   "homepage": "https://www.rentalsource.com/",
   "docs": "https://rentalsource.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rentalsource": {

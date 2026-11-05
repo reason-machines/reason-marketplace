@@ -4,6 +4,7 @@
   "description": "Build and deploy apps.",
   "homepage": "https://docs.controlplane.com/ai/plugin",
   "docs": "https://docs.controlplane.com/ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "control-plane": {

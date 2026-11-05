@@ -4,6 +4,7 @@
   "description": "Unlock decision intelligence.",
   "homepage": "https://www.clozd.com",
   "docs": "https://www.clozd.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clozd": {

@@ -4,6 +4,7 @@
   "description": "Support tickets and tasks.",
   "homepage": "https://www.proxyai.app",
   "docs": "https://www.proxyai.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "proxyai": {

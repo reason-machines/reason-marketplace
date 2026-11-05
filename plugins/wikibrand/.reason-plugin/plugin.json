@@ -4,6 +4,7 @@
   "description": "Brand logos, colors and fonts.",
   "homepage": "https://wikibrand.org",
   "docs": "https://wikibrand.org/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wikibrand": {

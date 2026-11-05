@@ -4,6 +4,7 @@
   "description": "Email for AI agents.",
   "homepage": "https://www.primitive.dev",
   "docs": "https://www.primitive.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "primitive": {

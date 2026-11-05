@@ -4,6 +4,7 @@
   "description": "Grow installs. Make ads count.",
   "homepage": "https://stora.rocks",
   "docs": "https://stora.rocks",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stora-app-growth": {

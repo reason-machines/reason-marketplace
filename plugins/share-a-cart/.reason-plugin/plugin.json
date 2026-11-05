@@ -4,6 +4,7 @@
   "description": "Share shopping carts.",
   "homepage": "https://share-a-cart.com",
   "docs": "https://share-a-cart.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "share-a-cart": {

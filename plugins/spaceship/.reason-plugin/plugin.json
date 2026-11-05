@@ -4,6 +4,7 @@
   "description": "Search domain availability.",
   "homepage": "https://www.spaceship.com",
   "docs": "https://www.spaceship.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spaceship": {

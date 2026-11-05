@@ -4,6 +4,7 @@
   "description": "Accounting for small business.",
   "homepage": "https://ledgerbooksapp.com",
   "docs": "https://ledgerbooksapp.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ledgerbooks": {

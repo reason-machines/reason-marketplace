@@ -4,6 +4,7 @@
   "description": "Schritte Challenge für Teams.",
   "homepage": "https://www.instingo.de",
   "docs": "https://www.instingo.de",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "instingo-schritte-challenge": {

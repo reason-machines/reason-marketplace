@@ -4,6 +4,7 @@
   "description": "Real travel prices & booking.",
   "homepage": "https://stayonomy.com/",
   "docs": "https://stayonomy.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stayonomy": {

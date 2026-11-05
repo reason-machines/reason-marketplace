@@ -4,6 +4,7 @@
   "description": "AI search visibility metrics.",
   "homepage": "https://www.pierview.ai",
   "docs": "https://www.pierview.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pierview": {

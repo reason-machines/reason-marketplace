@@ -4,6 +4,7 @@
   "description": "Find local services and times.",
   "homepage": "https://kirah.ai/",
   "docs": "https://kirah.ai/ai-agents",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kirah-local-services": {

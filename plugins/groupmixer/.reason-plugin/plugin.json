@@ -4,6 +4,7 @@
   "description": "Create groups and rotations.",
   "homepage": "https://groupmixer.app",
   "docs": "https://groupmixer.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "groupmixer": {

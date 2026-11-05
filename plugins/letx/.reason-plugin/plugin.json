@@ -4,6 +4,7 @@
   "description": "Write and compile LaTeX.",
   "homepage": "https://letx.app/",
   "docs": "https://letx.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "letx": {

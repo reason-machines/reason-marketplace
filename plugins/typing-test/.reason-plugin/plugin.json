@@ -4,6 +4,7 @@
   "description": "Live typing speed test and WPM.",
   "homepage": "https://typing-test.zovo.one",
   "docs": "https://typing-test.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "typing-test": {

@@ -4,6 +4,7 @@
   "description": "Documentation, plans & boards.",
   "homepage": "https://stablebaseline.io",
   "docs": "https://stablebaseline.io/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stable-baseline": {

@@ -4,6 +4,7 @@
   "description": "Gmail + Outlook for your agent.",
   "homepage": "https://higgshub.pro",
   "docs": "https://higgshub.pro/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "higgs-hub": {

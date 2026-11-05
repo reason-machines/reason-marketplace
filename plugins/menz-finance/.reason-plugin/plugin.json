@@ -4,6 +4,7 @@
   "description": "Finanças PF e PJ autorizadas.",
   "homepage": "https://finance.menzinvest.com/",
   "docs": "https://finance.menzinvest.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "menz-finance": {

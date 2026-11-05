@@ -4,6 +4,7 @@
   "description": "Signup sheets from a chat.",
   "homepage": "https://www.signupkit.co",
   "docs": "https://www.signupkit.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "signupkit": {

@@ -4,6 +4,7 @@
   "description": "Czech invoices and taxes.",
   "homepage": "https://www.taxorio.cz",
   "docs": "https://www.taxorio.cz/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "taxorio": {

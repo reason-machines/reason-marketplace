@@ -4,6 +4,7 @@
   "description": "Compare eSIM travel plans.",
   "homepage": "https://mybestsim.com",
   "docs": "https://mybestsim.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mybestsim": {

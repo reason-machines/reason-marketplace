@@ -4,6 +4,7 @@
   "description": "Your product knowledge expert.",
   "homepage": "https://www.docket.io/",
   "docs": "https://help.docket.io/articles/8225942528-connect-docket-demand-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docket": {

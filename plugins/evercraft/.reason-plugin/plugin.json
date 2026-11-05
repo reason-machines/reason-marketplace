@@ -4,6 +4,7 @@
   "description": "Route into Evercraft.",
   "homepage": "https://fabric.systemiacommandcenters.com/",
   "docs": "https://systemiacommandcenters.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "evercraft": {

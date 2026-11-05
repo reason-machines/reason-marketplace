@@ -4,6 +4,7 @@
   "description": "Social media management.",
   "homepage": "https://www.ocoya.com",
   "docs": "https://www.ocoya.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ocoya": {

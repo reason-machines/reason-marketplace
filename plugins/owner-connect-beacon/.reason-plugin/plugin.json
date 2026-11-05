@@ -4,6 +4,7 @@
   "description": "Private jet charter and sales.",
   "homepage": "https://owners.virtualhangar.com/connect-your-ai",
   "docs": "https://owners.virtualhangar.com/connect-your-ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "owner-connect-beacon": {

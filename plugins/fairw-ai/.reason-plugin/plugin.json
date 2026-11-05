@@ -4,6 +4,7 @@
   "description": "Your meetings in Reason.",
   "homepage": "https://fairw.ai",
   "docs": "https://app.fairw.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fairw-ai": {

@@ -4,6 +4,7 @@
   "description": "Find Rhode Island Quests.",
   "homepage": "https://trysidequests.com",
   "docs": "https://trysidequests.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sidequests": {

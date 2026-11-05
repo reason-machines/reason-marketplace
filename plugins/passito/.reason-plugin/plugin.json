@@ -4,6 +4,7 @@
   "description": "Loyalty cards for businesses.",
   "homepage": "https://passito.app",
   "docs": "https://passito.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "passito": {

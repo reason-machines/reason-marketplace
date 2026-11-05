@@ -4,6 +4,7 @@
   "description": "Manage your mobile app content.",
   "homepage": "https://www.mobilejoe.dev",
   "docs": "https://docs.mobilejoe.dev/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mobile-joe": {

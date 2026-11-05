@@ -4,6 +4,7 @@
   "description": "Vedic astrology, made fun.",
   "homepage": "https://cosmicchemistry.co",
   "docs": "https://cosmicchemistry.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cosmic-chemistry": {

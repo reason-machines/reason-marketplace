@@ -4,6 +4,7 @@
   "description": "Legal jobs in BE/LU.",
   "homepage": "https://www.lexgo.be/developers",
   "docs": "https://www.lexgo.be/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lexgo-jobs": {

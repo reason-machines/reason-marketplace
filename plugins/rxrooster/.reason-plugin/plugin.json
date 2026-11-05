@@ -4,6 +4,7 @@
   "description": "Paste anesthesia requisitions.",
   "homepage": "https://rxrooster.com",
   "docs": "https://rxrooster.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rxrooster": {

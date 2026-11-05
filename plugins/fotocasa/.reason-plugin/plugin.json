@@ -4,6 +4,7 @@
   "description": "Find properties to buy or rent.",
   "homepage": "https://www.fotocasa.es",
   "docs": "https://www.fotocasa.es",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fotocasa": {

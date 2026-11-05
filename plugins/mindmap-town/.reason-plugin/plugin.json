@@ -4,6 +4,7 @@
   "description": "Turn ideas into mind maps.",
   "homepage": "https://mindmap.town",
   "docs": "https://mindmap.town",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mindmap-town": {

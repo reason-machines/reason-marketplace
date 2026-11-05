@@ -4,6 +4,7 @@
   "description": "Query your Lumo BI data.",
   "homepage": "https://horusbi.com.br",
   "docs": "https://docs.horusbi.com.br/ia/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lumo-horusbi": {

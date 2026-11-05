@@ -4,6 +4,7 @@
   "description": "Look up any digital Creator.",
   "homepage": "https://creatorgraph.sparkonomy.com/",
   "docs": "https://creatorgraph.sparkonomy.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "open-creator-graph": {

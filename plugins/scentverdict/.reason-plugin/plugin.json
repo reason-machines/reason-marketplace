@@ -4,6 +4,7 @@
   "description": "Find and compare fragrances.",
   "homepage": "https://scentverdict.com",
   "docs": "https://scentverdict.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scentverdict": {

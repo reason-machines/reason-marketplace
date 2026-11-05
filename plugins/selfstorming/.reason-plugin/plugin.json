@@ -4,6 +4,7 @@
   "description": "Marketing ideas and evidence.",
   "homepage": "https://www.selfstorming.com",
   "docs": "https://www.selfstorming.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "selfstorming": {

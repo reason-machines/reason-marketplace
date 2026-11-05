@@ -4,6 +4,7 @@
   "description": "Talk about your family reports.",
   "homepage": "https://samrum.io",
   "docs": "https://samrum.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "samrum": {

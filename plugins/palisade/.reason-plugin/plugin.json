@@ -4,6 +4,7 @@
   "description": "Monitor email deliverability.",
   "homepage": "https://www.palisade.email",
   "docs": "https://www.palisade.email",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "palisade": {

@@ -4,6 +4,7 @@
   "description": "Find and save your saves.",
   "homepage": "https://trove.life",
   "docs": "https://trove.life",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trove-trove-technologies-inc": {

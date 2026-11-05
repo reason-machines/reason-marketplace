@@ -4,6 +4,7 @@
   "description": "Net ve brüt maaş hesaplama.",
   "homepage": "https://www.datassist.com",
   "docs": "https://tedix.dev/apps/datassist-net-brut-hesaplama/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "datassist-net-brut-hesaplama": {

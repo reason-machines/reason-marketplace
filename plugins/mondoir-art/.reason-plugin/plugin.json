@@ -4,6 +4,7 @@
   "description": "Find artworks for your space.",
   "homepage": "https://mondoir.art",
   "docs": "https://mondoir.art",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mondoir-art": {

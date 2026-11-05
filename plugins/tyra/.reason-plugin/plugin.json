@@ -4,6 +4,7 @@
   "description": "Discover events in NYC.",
   "homepage": "https://usetyra.com",
   "docs": "https://usetyra.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tyra": {

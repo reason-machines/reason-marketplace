@@ -4,6 +4,7 @@
   "description": "Mortgage payoff calculator.",
   "homepage": "https://ownedoutright.com",
   "docs": "https://tedix.dev/apps/owned-outright/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "owned-outright": {

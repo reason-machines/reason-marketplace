@@ -4,6 +4,7 @@
   "description": "Exam practice and test review.",
   "homepage": "https://aynadhillon.com",
   "docs": "https://aynadhillon.com/guides/connect-ai-chat-mcp-guide",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "prepsim-exam-practice": {

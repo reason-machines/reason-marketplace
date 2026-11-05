@@ -4,6 +4,7 @@
   "description": "Enrich and analyze event data.",
   "homepage": "https://popl.co",
   "docs": "https://popl.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "popl": {

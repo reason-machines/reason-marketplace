@@ -4,6 +4,7 @@
   "description": "Savant for Finance AI.",
   "homepage": "https://www.savantlabs.io",
   "docs": "https://tedix.dev/apps/savvy/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "savvy": {

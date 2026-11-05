@@ -4,6 +4,7 @@
   "description": "Car rental in Rhodes, Greece.",
   "homepage": "https://www.rhorent.com",
   "docs": "https://www.rhorent.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rhorent-car-rental-rhodes": {

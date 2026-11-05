@@ -4,6 +4,7 @@
   "description": "Create interactive guides.",
   "homepage": "https://docmino.com",
   "docs": "https://docmino.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docmino": {

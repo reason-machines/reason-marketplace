@@ -4,6 +4,7 @@
   "description": "Projects and tasks with AI.",
   "homepage": "https://ratioteams.com",
   "docs": "https://ratioteams.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ratioteams": {

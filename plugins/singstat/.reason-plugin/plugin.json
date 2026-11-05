@@ -4,6 +4,7 @@
   "description": "Explore Singapore statistics.",
   "homepage": "https://www.singstat.gov.sg/data-tools-services/singstat-mcp",
   "docs": "https://www.singstat.gov.sg/data-tools-services/singstat-mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "singstat": {

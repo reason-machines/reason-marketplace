@@ -4,6 +4,7 @@
   "description": "Turn artwork into products.",
   "homepage": "https://inkdrop.fun",
   "docs": "https://inkdrop.fun",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "inkdrop": {

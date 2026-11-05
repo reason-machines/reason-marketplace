@@ -4,6 +4,7 @@
   "description": "Images into mockup templates.",
   "homepage": "https://www.wrap.design",
   "docs": "https://www.wrap.design",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wrap": {

@@ -4,6 +4,7 @@
   "description": "Get PEO information.",
   "homepage": "https://www.justworks.com/",
   "docs": "https://www.justworks.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "justworks": {

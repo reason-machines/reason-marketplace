@@ -4,6 +4,7 @@
   "description": "Play dominoes against Domo.",
   "homepage": "https://domono.net",
   "docs": "https://domono.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "domono": {

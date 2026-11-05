@@ -4,6 +4,7 @@
   "description": "App review insights & replies.",
   "homepage": "https://review.expert",
   "docs": "https://review.expert",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "review-expert": {

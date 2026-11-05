@@ -4,6 +4,7 @@
   "description": "Your content strategist.",
   "homepage": "https://sandcastles.ai",
   "docs": "https://sandcastles.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sandcastles": {

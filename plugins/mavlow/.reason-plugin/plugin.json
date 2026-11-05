@@ -4,6 +4,7 @@
   "description": "Manage your social media.",
   "homepage": "https://mavlow.com",
   "docs": "https://mavlow.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mavlow": {

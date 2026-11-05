@@ -4,6 +4,7 @@
   "description": "Verify & find email addresses.",
   "homepage": "https://clearbounce.net",
   "docs": "https://clearbounce.net",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clearbounce": {

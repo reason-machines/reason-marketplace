@@ -4,6 +4,7 @@
   "description": "Rental property management.",
   "homepage": "https://seayora.com",
   "docs": "https://seayora.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seayora": {

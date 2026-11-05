@@ -4,6 +4,7 @@
   "description": "Social media post scheduler.",
   "homepage": "https://schedulala.com",
   "docs": "https://schedulala.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "schedulala-for-social-media": {

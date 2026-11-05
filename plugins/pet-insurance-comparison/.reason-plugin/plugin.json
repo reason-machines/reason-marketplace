@@ -4,6 +4,7 @@
   "description": "Find insurance for pets.",
   "homepage": "https://fletch.co/",
   "docs": "https://tedix.dev/apps/pet-insurance-comparison/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pet-insurance-comparison": {

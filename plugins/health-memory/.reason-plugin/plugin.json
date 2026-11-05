@@ -4,6 +4,7 @@
   "description": "Manage your health memory.",
   "homepage": "https://trianglehealth.com",
   "docs": "https://trianglehealth.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "health-memory": {

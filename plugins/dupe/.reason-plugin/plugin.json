@@ -4,6 +4,7 @@
   "description": "Find similar products for less.",
   "homepage": "https://dupe.com",
   "docs": "https://dupe.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dupe": {

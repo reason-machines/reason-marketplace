@@ -4,6 +4,7 @@
   "description": "SEO data & rank tracking.",
   "homepage": "https://seranking.com/api/integrations/mcp/",
   "docs": "https://seranking.com/api/integrations/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "se-ranking": {

@@ -4,6 +4,7 @@
   "description": "Marketing automation platform.",
   "homepage": "https://conversion.ai",
   "docs": "https://conversion.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "conversion": {

@@ -4,6 +4,7 @@
   "description": "Validate web animation specs.",
   "homepage": "https://motionspec.dev",
   "docs": "https://motionspec.dev/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "motionspec": {

@@ -4,6 +4,7 @@
   "description": "Your company's own answers.",
   "homepage": "https://salespeak.ai/gtm-context-layer/",
   "docs": "https://salespeak.ai/gtm-context-layer/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "salespeak-company-context": {

@@ -4,6 +4,7 @@
   "description": "Research Louisiana AI.",
   "homepage": "https://louisianai.com",
   "docs": "https://louisianai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "louisianai": {

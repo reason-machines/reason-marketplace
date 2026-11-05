@@ -4,6 +4,7 @@
   "description": "Analyze, manage ads and retail.",
   "homepage": "https://www.intentwise.com",
   "docs": "https://www.intentwise.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "intentwise": {

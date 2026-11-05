@@ -4,6 +4,7 @@
   "description": "Compare colors, build boards.",
   "homepage": "https://tonebook.app/?utm_source=chatgpt&utm_medium=connector&utm_campaign=tonebook_palette",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=app.tonebook/palette",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tonebook-palette": {

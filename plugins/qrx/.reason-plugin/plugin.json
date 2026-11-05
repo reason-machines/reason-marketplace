@@ -4,6 +4,7 @@
   "description": "Artistic, scannable QR codes.",
   "homepage": "https://qrx.codes",
   "docs": "https://qrx.codes",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qrx": {

@@ -4,6 +4,7 @@
   "description": "Evidence-backed website fixes.",
   "homepage": "https://www.comavenai.com/aeo",
   "docs": "https://www.comavenai.com/aeo",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "comavenai-aeo": {

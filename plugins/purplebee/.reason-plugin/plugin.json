@@ -4,6 +4,7 @@
   "description": "Who brings what, who owes what.",
   "homepage": "https://purplebee.app",
   "docs": "https://purplebee.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "purplebee": {

@@ -4,6 +4,7 @@
   "description": "Enquire with cited businesses.",
   "homepage": "https://indexgrid.io/",
   "docs": "https://indexgrid.io/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "indexgrid-commercial-intent": {

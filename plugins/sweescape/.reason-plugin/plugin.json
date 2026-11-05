@@ -4,6 +4,7 @@
   "description": "Manage your event operations.",
   "homepage": "https://sweescape.com/en/",
   "docs": "https://sweescape.com/en/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sweescape": {

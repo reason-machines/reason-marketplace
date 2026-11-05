@@ -4,6 +4,7 @@
   "description": "Create EU product passports.",
   "homepage": "https://passportcraft.com/connector",
   "docs": "https://passportcraft.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "passportcraft": {

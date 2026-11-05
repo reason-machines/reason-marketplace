@@ -4,6 +4,7 @@
   "description": "Create classroom activities.",
   "homepage": "https://dailyed.app/use-with-ai",
   "docs": "https://dailyed.app/use-with-ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dailyed": {

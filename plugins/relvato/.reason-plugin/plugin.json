@@ -4,6 +4,7 @@
   "description": "Monitor and fix your websites.",
   "homepage": "https://www.relvato.com",
   "docs": "https://www.relvato.com/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "relvato": {

@@ -4,6 +4,7 @@
   "description": "Research risk and trends.",
   "homepage": "https://www.noahpredict.com/",
   "docs": "https://www.noahpredict.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "noah": {

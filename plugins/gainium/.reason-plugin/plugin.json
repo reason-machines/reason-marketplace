@@ -4,6 +4,7 @@
   "description": "Read trading data.",
   "homepage": "https://gainium.io",
   "docs": "https://gainium.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gainium": {

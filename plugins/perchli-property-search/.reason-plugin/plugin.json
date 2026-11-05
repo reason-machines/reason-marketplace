@@ -4,6 +4,7 @@
   "description": "Search NI Properties.",
   "homepage": "https://perchli.com/",
   "docs": "https://perchli.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "perchli-property-search": {

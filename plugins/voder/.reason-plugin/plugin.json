@@ -4,6 +4,7 @@
   "description": "Xero, FreshBooks, MYOB & QBO.",
   "homepage": "https://voder.ai/",
   "docs": "https://tedix.dev/apps/voder/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voder": {

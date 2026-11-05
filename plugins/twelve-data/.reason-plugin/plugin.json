@@ -4,6 +4,7 @@
   "description": "Financial market data.",
   "homepage": "https://twelvedata.com",
   "docs": "https://twelvedata.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "twelve-data": {

@@ -4,6 +4,7 @@
   "description": "画像・動画を作成、修正、編集.",
   "homepage": "https://unsketch.io",
   "docs": "https://unsketch.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "unsketch": {

@@ -4,6 +4,7 @@
   "description": "Images, video, music & voice.",
   "homepage": "https://givon.ai",
   "docs": "https://givon.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "givon": {

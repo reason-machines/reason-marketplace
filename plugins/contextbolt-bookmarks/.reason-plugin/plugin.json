@@ -4,6 +4,7 @@
   "description": "Find and save bookmarks.",
   "homepage": "https://contextbolt.com/bookmarks/",
   "docs": "https://contextbolt.com/bookmarks/connect-claude-to-bookmarks/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "contextbolt-bookmarks": {

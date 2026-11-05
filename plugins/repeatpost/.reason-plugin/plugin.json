@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://www.repeatpost.com",
   "docs": "https://repeatpost.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "repeatpost": {

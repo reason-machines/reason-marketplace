@@ -4,6 +4,7 @@
   "description": "Version-aware Linux manuals.",
   "homepage": "https://manpage.ai/",
   "docs": "https://manpage.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "manpage-ai": {

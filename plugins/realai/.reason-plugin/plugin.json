@@ -4,6 +4,7 @@
   "description": "Residential real estate data.",
   "homepage": "https://realai.com/",
   "docs": "https://realai.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "realai": {

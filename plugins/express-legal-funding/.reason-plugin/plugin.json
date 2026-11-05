@@ -4,6 +4,7 @@
   "description": "Apply for legal funding.",
   "homepage": "https://expresslegalfunding.com",
   "docs": "https://expresslegalfunding.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "express-legal-funding": {

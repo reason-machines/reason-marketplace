@@ -4,6 +4,7 @@
   "description": "Read-only on-page SEO audits.",
   "homepage": "https://seooperator.io/",
   "docs": "https://seooperator.io/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "seo-operator": {

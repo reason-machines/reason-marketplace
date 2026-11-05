@@ -4,6 +4,7 @@
   "description": "Czech law, cases, sources.",
   "homepage": "https://www.paragrafiq.cz",
   "docs": "https://www.paragrafiq.cz/chatgpt-claude",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "paragrafiq": {

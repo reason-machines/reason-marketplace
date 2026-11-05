@@ -4,6 +4,7 @@
   "description": "Find anything in your home.",
   "homepage": "https://intellist.app/",
   "docs": "https://intellist.app/connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "intellist": {

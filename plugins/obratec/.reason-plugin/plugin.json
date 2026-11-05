@@ -4,6 +4,7 @@
   "description": "Manage site reports.",
   "homepage": "https://obratec.app/",
   "docs": "https://obratec.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "obratec": {

@@ -4,6 +4,7 @@
   "description": "Ask and compare AI models.",
   "homepage": "https://llmwise.ai",
   "docs": "https://llmwise.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "llmwise": {

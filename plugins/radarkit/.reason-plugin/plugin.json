@@ -4,6 +4,7 @@
   "description": "Grow your AI Search Visibility.",
   "homepage": "https://radarkit.ai",
   "docs": "https://radarkit.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "radarkit": {

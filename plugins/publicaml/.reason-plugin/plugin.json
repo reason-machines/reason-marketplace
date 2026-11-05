@@ -4,6 +4,7 @@
   "description": "Free crypto AML/KYT screening.",
   "homepage": "https://publicaml.org",
   "docs": "https://publicaml.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "publicaml": {

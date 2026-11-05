@@ -4,6 +4,7 @@
   "description": "Miami pest control quotes.",
   "homepage": "https://www.pestless.us/ai/",
   "docs": "https://www.pestless.us/ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pestless": {

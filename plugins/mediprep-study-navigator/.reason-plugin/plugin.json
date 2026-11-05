@@ -4,6 +4,7 @@
   "description": "Map lectures to study routes.",
   "homepage": "https://medi-prep-beta.vercel.app/",
   "docs": "https://medi-prep-beta.vercel.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mediprep-study-navigator": {

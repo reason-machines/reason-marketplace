@@ -4,6 +4,7 @@
   "description": "Who owns an IP address?",
   "homepage": "https://ip-lookup.zovo.one",
   "docs": "https://ip-lookup.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ip-lookup": {

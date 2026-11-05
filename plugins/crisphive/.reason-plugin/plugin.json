@@ -4,6 +4,7 @@
   "description": "Scheduling API for AI agents.",
   "homepage": "https://crisphive.com",
   "docs": "https://crisphive.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "crisphive": {

@@ -4,6 +4,7 @@
   "description": "Convert and clean files.",
   "homepage": "https://konvertira.com",
   "docs": "https://konvertira.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "konvertira": {

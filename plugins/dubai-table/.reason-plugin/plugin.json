@@ -4,6 +4,7 @@
   "description": "Request tables at Dubai venues.",
   "homepage": "https://dubaitable.com/agents/",
   "docs": "https://dubaitable.com/agents/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dubai-table": {

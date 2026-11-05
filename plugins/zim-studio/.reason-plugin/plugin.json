@@ -4,6 +4,7 @@
   "description": "Create images, video and audio.",
   "homepage": "https://zim.studio",
   "docs": "https://zim.studio",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zim-studio": {

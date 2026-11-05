@@ -4,6 +4,7 @@
   "description": "Build and publish websites.",
   "homepage": "https://drivethrough.dev/",
   "docs": "https://drivethrough.dev/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "drivethrough": {

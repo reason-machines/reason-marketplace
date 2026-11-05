@@ -4,6 +4,7 @@
   "description": "Track packages with Reason.",
   "homepage": "https://everydaytrack.org",
   "docs": "https://everydaytrack.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "track-package": {

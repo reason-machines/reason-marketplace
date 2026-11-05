@@ -4,6 +4,7 @@
   "description": "Find public tenders in Spain.",
   "homepage": "https://gobrador.com",
   "docs": "https://gobrador.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gobrador": {

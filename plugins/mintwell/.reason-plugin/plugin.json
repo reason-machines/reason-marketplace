@@ -4,6 +4,7 @@
   "description": "Your work-optional check.",
   "homepage": "https://app.mintwell.ai",
   "docs": "https://app.mintwell.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mintwell": {

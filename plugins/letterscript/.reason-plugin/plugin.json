@@ -4,6 +4,7 @@
   "description": "California deal facts, dates.",
   "homepage": "https://letterscript.com",
   "docs": "https://letterscript.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "letterscript": {

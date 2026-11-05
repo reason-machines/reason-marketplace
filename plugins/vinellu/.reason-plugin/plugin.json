@@ -4,6 +4,7 @@
   "description": "Encontre vinhos e sua adega.",
   "homepage": "https://vinellu.com",
   "docs": "https://vinellu.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vinellu": {

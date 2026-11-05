@@ -4,6 +4,7 @@
   "description": "Intelligent fashion discovery.",
   "homepage": "https://cosimo.shop",
   "docs": "https://cosimo.shop",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cosimo": {

@@ -4,6 +4,7 @@
   "description": "Search and run user research.",
   "homepage": "https://www.greatquestion.com",
   "docs": "https://www.greatquestion.com/resources/the-ultimate-guide-to-ux-research-with-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "greatquestion": {

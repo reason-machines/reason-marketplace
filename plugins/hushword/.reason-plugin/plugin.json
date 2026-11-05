@@ -4,6 +4,7 @@
   "description": "Impostor party word game.",
   "homepage": "https://hushword.ambientapp.ai",
   "docs": "https://hushword.ambientapp.ai/docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hushword": {

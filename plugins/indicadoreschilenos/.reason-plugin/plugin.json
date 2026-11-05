@@ -4,6 +4,7 @@
   "description": "Indicadores económicos CL.",
   "homepage": "https://indicadores.amestica.tech",
   "docs": "https://tedix.dev/apps/indicadoreschilenos/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "indicadoreschilenos": {

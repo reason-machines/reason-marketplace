@@ -4,6 +4,7 @@
   "description": "GPA from grades and credits.",
   "homepage": "https://gpa-calculator.zovo.one",
   "docs": "https://gpa-calculator.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gpa-calculator": {

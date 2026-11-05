@@ -4,6 +4,7 @@
   "description": "Find and watch exercise demos.",
   "homepage": "https://www.joy2move.net/exercises",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.AG-ITAcademy/home-fitness-exercise-library",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "home-fitness-exercise-library": {

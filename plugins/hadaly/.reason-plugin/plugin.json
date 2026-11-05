@@ -4,6 +4,7 @@
   "description": "Business Valuation Calculator.",
   "homepage": "https://hadaly.ai/",
   "docs": "https://hadaly.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hadaly": {

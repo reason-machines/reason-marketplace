@@ -4,6 +4,7 @@
   "description": "Print your image on a shirt.",
   "homepage": "https://printa.chat",
   "docs": "https://printa.chat",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "printa": {

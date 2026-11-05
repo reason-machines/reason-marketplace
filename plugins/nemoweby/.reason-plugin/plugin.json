@@ -4,6 +4,7 @@
   "description": "Properties, inquiries and AI.",
   "homepage": "https://www.nemoweby.cz",
   "docs": "https://nemoweby.cz/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nemoweby": {

@@ -4,6 +4,7 @@
   "description": "Find relevant SaaS memes.",
   "homepage": "https://mysaas.lol",
   "docs": "https://mysaas.lol",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mysaas-lol": {

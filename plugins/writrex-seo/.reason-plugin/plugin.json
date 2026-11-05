@@ -4,6 +4,7 @@
   "description": "SEO audits for websites.",
   "homepage": "https://seo.writrex.com",
   "docs": "https://seo.writrex.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "writrex-seo": {

@@ -4,6 +4,7 @@
   "description": "Find bed bug free hotels.",
   "homepage": "https://valpashotels.com",
   "docs": "https://valpashotels.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "valpas-hotels": {

@@ -4,6 +4,7 @@
   "description": "SEO & AI Search Insights.",
   "homepage": "https://growbydata.com/",
   "docs": "https://growbydata.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "growbydata-compass": {

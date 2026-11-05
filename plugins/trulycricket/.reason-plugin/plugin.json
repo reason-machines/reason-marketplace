@@ -4,6 +4,7 @@
   "description": "Live cricket scores and tables.",
   "homepage": "https://trulycricket.com",
   "docs": "https://trulycricket.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trulycricket": {

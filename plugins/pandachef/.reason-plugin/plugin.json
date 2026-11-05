@@ -4,6 +4,7 @@
   "description": "Recipes, pantry & meal plans.",
   "homepage": "https://www.99pandas.de",
   "docs": "https://www.99pandas.de",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pandachef": {

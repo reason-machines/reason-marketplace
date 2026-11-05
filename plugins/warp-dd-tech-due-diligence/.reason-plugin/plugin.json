@@ -4,6 +4,7 @@
   "description": "Find and score tech companies.",
   "homepage": "https://warpdd.com",
   "docs": "https://warpdd.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "warp-dd-tech-due-diligence": {

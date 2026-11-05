@@ -4,6 +4,7 @@
   "description": "Find your university AI rules.",
   "homepage": "https://eduaipolicy.org/mcp",
   "docs": "https://eduaipolicy.org/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "university-ai-policy-tracker": {

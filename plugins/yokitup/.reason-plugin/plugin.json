@@ -4,6 +4,7 @@
   "description": "Manage restaurant stock.",
   "homepage": "https://www.yokitup.com",
   "docs": "https://www.yokitup.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yokitup": {

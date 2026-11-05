@@ -4,6 +4,7 @@
   "description": "CreativeSign product search.",
   "homepage": "https://creativesign.ro/",
   "docs": "https://creativesign.ro/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "creativesign": {

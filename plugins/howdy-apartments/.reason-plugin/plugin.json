@@ -4,6 +4,7 @@
   "description": "Apartment guidance for Aggies.",
   "homepage": "https://howdyapartments.com",
   "docs": "https://howdyapartments.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "howdy-apartments": {

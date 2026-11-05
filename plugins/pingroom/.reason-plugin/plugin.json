@@ -4,6 +4,7 @@
   "description": "Ask people via push.",
   "homepage": "https://pingroom.io",
   "docs": "https://pingroom.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pingroom": {

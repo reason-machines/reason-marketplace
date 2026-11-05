@@ -4,6 +4,7 @@
   "description": "Manage your relationships.",
   "homepage": "https://www.levitate.ai/",
   "docs": "https://www.levitate.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "levitate": {

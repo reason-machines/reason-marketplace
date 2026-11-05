@@ -4,6 +4,7 @@
   "description": "explore human perspectives.",
   "homepage": "https://udictio.com",
   "docs": "https://udictio.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "udictio": {

@@ -4,6 +4,7 @@
   "description": "Create surveys and quizzes.",
   "homepage": "https://gpt.space/forms/chatgpt-forms-maker",
   "docs": "https://gpt.space/forms/chatgpt-forms-maker",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "forms-ai": {

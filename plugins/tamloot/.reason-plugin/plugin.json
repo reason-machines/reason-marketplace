@@ -4,6 +4,7 @@
   "description": "Search your sessions and notes.",
   "homepage": "https://tamloot.cc",
   "docs": "https://tamloot.cc",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tamloot": {

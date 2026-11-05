@@ -4,6 +4,7 @@
   "description": "AI Generative Video Studio.",
   "homepage": "https://www.prayproductionstudio.com",
   "docs": "https://www.prayproductionstudio.com/help/account-and-team/connect-claude-or-chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pray-production-studio": {

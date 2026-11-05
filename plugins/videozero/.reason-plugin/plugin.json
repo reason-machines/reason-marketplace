@@ -4,6 +4,7 @@
   "description": "Visualize • Animate • Explain.",
   "homepage": "https://videozero.ai",
   "docs": "https://videozero.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "videozero": {

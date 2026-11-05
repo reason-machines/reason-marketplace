@@ -4,6 +4,7 @@
   "description": "Enhance real estate photos.",
   "homepage": "https://immopix.ai",
   "docs": "https://immopix.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "immopix": {

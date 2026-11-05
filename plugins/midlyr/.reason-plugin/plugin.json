@@ -4,6 +4,7 @@
   "description": "Compliance workflows.",
   "homepage": "https://www.midlyr.com/",
   "docs": "https://www.midlyr.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "midlyr": {

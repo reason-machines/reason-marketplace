@@ -4,6 +4,7 @@
   "description": "Build from website inspiration.",
   "homepage": "https://www.details.so",
   "docs": "https://www.details.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "details-so": {

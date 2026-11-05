@@ -4,6 +4,7 @@
   "description": "Motorräder, Routen, Wetter.",
   "homepage": "https://www.nbnl.de/",
   "docs": "https://www.nbnl.de/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "no-bike-no-life": {

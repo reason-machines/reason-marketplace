@@ -4,6 +4,7 @@
   "description": "Client projects and invoices.",
   "homepage": "https://portal.smartflowsa.ch/",
   "docs": "https://portal.smartflowsa.ch/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smartflow": {

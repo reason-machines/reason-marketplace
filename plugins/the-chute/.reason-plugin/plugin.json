@@ -4,6 +4,7 @@
   "description": "Cattle and ranch records.",
   "homepage": "https://www.thechute.app/",
   "docs": "https://thechute.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "the-chute": {

@@ -4,6 +4,7 @@
   "description": "AI compute market data.",
   "homepage": "https://data.ornn.com",
   "docs": "https://data.ornn.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ornn-data": {

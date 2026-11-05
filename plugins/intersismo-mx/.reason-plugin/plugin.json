@@ -4,6 +4,7 @@
   "description": "Global studies & scholarships.",
   "homepage": "https://www.intersismo.mx/es/sala-v-i-p",
   "docs": "https://www.intersismo.mx/es/sala-v-i-p",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "intersismo-mx": {

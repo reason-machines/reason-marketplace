@@ -4,6 +4,7 @@
   "description": "MMA fight data and stats.",
   "homepage": "https://fighterapi.com",
   "docs": "https://fighterapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fighterapi": {

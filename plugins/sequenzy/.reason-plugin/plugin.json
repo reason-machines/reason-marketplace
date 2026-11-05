@@ -4,6 +4,7 @@
   "description": "Run your email marketing.",
   "homepage": "https://sequenzy.com",
   "docs": "https://sequenzy.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sequenzy": {

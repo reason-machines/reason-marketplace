@@ -4,6 +4,7 @@
   "description": "Find free samples.",
   "homepage": "https://www.freebieagent.com/",
   "docs": "https://www.freebieagent.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "freebieagent": {

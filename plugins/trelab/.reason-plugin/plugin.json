@@ -4,6 +4,7 @@
   "description": "Public status and architecture.",
   "homepage": "https://trematria.com",
   "docs": "https://trematria.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trelab": {

@@ -4,6 +4,7 @@
   "description": "Judge and court filing rules.",
   "homepage": "https://www.courtrules.app",
   "docs": "https://www.courtrules.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "court-rules": {

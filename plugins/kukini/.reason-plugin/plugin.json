@@ -4,6 +4,7 @@
   "description": "Organize your family & home.",
   "homepage": "https://kukiniapp.com",
   "docs": "https://kukiniapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kukini": {

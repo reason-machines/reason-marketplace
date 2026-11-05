@@ -4,6 +4,7 @@
   "description": "Find icons for your designs.",
   "homepage": "https://www.skeudesign.com/chatgpt",
   "docs": "https://www.skeudesign.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "skeudesign": {

@@ -4,6 +4,7 @@
   "description": "Find concerts and tickets.",
   "homepage": "https://concertje.be",
   "docs": "https://concertje.be/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "concertje": {

@@ -4,6 +4,7 @@
   "description": "UK fibre broadband checker.",
   "homepage": "https://fibrecompare.com",
   "docs": "https://fibrecompare.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fibre-compare": {

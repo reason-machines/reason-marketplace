@@ -4,6 +4,7 @@
   "description": "Your closet in Reason.",
   "homepage": "https://meetfluent.app",
   "docs": "https://meetfluent.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fluent": {

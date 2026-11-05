@@ -4,6 +4,7 @@
   "description": "Patent service in your chat.",
   "homepage": "https://lightbringer.com",
   "docs": "https://lightbringer.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lightbringer": {

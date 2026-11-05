@@ -4,6 +4,7 @@
   "description": "Find and buy original art.",
   "homepage": "https://foldlaboratories.com",
   "docs": "https://foldlaboratories.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fold-laboratories": {

@@ -4,6 +4,7 @@
   "description": "Your real Zone 2 heart rate.",
   "homepage": "https://www.zone2ai.com",
   "docs": "https://www.zone2ai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "zone2ai": {

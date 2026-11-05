@@ -4,6 +4,7 @@
   "description": "Find coworking and offices.",
   "homepage": "https://www.onecoworking.com/ai-assistants",
   "docs": "https://www.onecoworking.com/ai-assistants",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "one-coworking": {

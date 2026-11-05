@@ -4,6 +4,7 @@
   "description": "Remote operators for robots.",
   "homepage": "https://www.robopilots.ai",
   "docs": "https://www.robopilots.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "robopilots": {

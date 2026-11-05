@@ -4,6 +4,7 @@
   "description": "Manage team email lists.",
   "homepage": "https://telltell.co",
   "docs": "https://telltell.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "telltell": {

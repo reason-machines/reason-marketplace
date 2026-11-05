@@ -4,6 +4,7 @@
   "description": "Get answers to money questions.",
   "homepage": "https://tedix.dev/apps/ynab-get-good-at-money/",
   "docs": "https://tedix.dev/apps/ynab-get-good-at-money/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ynab-get-good-at-money": {

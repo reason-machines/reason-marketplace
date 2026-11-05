@@ -4,6 +4,7 @@
   "description": "Connect custom domains.",
   "homepage": "https://dodomain.io",
   "docs": "https://dodomain.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dodomain": {

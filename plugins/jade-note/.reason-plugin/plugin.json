@@ -4,6 +4,7 @@
   "description": "Editable memory layer.",
   "homepage": "https://jadenote.app",
   "docs": "https://jadenote.app/mcp-note-app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jade-note": {

@@ -4,6 +4,7 @@
   "description": "Plan and forecast funnels.",
   "homepage": "https://funneldraw.com",
   "docs": "https://funneldraw.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "funnel-draw": {

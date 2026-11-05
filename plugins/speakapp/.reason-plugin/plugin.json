@@ -4,6 +4,7 @@
   "description": "Search meeting transcripts.",
   "homepage": "https://speakapp.com",
   "docs": "https://speakapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "speakapp": {

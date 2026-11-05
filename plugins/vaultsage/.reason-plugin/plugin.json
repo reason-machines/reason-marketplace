@@ -4,6 +4,7 @@
   "description": "Search and store files.",
   "homepage": "https://vaultsage.ai",
   "docs": "https://vaultsage.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vaultsage": {

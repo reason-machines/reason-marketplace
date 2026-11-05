@@ -4,6 +4,7 @@
   "description": "Where to kite, surf or sail.",
   "homepage": "https://mrwinds.com",
   "docs": "https://mrwinds.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mr-winds": {

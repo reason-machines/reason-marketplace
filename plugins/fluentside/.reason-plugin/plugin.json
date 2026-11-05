@@ -4,6 +4,7 @@
   "description": "Writing coach for Reason.",
   "homepage": "https://fluentside.com",
   "docs": "https://fluentside.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fluentside": {

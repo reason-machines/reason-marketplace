@@ -4,6 +4,7 @@
   "description": "Home solar savings by county.",
   "homepage": "https://nysolarincentives.org/ny-solar-savings-calculator/",
   "docs": "https://nysolarincentives.org/ny-solar-savings-calculator/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ny-solar-incentives": {

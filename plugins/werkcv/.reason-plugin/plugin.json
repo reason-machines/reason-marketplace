@@ -4,6 +4,7 @@
   "description": "CV feedback for Dutch jobs.",
   "homepage": "https://werkcv.nl/en/ai-assistant",
   "docs": "https://werkcv.nl/en/ai-assistant",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "werkcv": {

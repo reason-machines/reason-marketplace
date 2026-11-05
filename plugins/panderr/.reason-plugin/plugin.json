@@ -4,6 +4,7 @@
   "description": "Migrate and edit websites.",
   "homepage": "https://panderr.com",
   "docs": "https://panderr.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "panderr": {

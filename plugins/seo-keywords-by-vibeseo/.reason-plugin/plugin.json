@@ -4,6 +4,7 @@
   "description": "Keyword research, AI blogging.",
   "homepage": "https://vibeseo.dev",
   "docs": "https://vibeseo.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seo-keywords-by-vibeseo": {

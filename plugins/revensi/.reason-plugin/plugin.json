@@ -4,6 +4,7 @@
   "description": "Build agents from blueprints.",
   "homepage": "https://revensi.com",
   "docs": "https://revensi.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "revensi": {

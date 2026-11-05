@@ -4,6 +4,7 @@
   "description": "Plan, schedule and reply.",
   "homepage": "https://heymark.ai",
   "docs": "https://heymark.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "heymark": {

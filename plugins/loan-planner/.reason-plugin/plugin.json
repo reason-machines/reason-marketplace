@@ -4,6 +4,7 @@
   "description": "Mortgage & loan schedules.",
   "homepage": "https://loan-planner.zovo.one",
   "docs": "https://loan-planner.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "loan-planner": {

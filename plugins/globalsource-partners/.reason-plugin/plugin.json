@@ -4,6 +4,7 @@
   "description": "Emerging markets research.",
   "homepage": "https://www.globalsourcepartners.com/",
   "docs": "https://www.globalsourcepartners.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "globalsource-partners": {

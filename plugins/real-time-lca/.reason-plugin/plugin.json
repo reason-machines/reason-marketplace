@@ -4,6 +4,7 @@
   "description": "Manage building LCAs.",
   "homepage": "https://www.realtimelca.com/",
   "docs": "https://www.realtimelca.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "real-time-lca": {

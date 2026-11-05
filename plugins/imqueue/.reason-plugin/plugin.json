@@ -4,6 +4,7 @@
   "description": "Search docs, scaffold code.",
   "homepage": "https://imqueue.org",
   "docs": "https://imqueue.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "imqueue": {

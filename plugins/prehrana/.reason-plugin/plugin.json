@@ -4,6 +4,7 @@
   "description": "Log meals by describing them.",
   "homepage": "https://prehrana.app",
   "docs": "https://prehrana.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prehrana": {

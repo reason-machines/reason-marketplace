@@ -4,6 +4,7 @@
   "description": "Gym programs that progress.",
   "homepage": "https://www.sisulift.app",
   "docs": "https://www.sisulift.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sisulift": {

@@ -4,6 +4,7 @@
   "description": "Car rental comparison platform.",
   "homepage": "https://www.discovercars.com/",
   "docs": "https://www.discovercars.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "discovercars-com": {

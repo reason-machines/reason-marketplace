@@ -4,6 +4,7 @@
   "description": "Founding debates, verbatim.",
   "homepage": "https://foundingreader.com/plugin",
   "docs": "https://foundingreader.com/plugin",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the-founding-reader": {

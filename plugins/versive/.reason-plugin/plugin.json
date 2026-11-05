@@ -4,6 +4,7 @@
   "description": "Run surveys and AI interviews.",
   "homepage": "https://www.getversive.com/",
   "docs": "https://www.getversive.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "versive": {

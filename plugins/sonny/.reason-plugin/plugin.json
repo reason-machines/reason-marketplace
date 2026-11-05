@@ -4,6 +4,7 @@
   "description": "Manage customer support.",
   "homepage": "https://www.usesonny.com",
   "docs": "https://www.usesonny.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sonny": {

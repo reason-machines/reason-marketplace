@@ -4,6 +4,7 @@
   "description": "Mail real postcards & letters.",
   "homepage": "https://sendmypaper.com",
   "docs": "https://sendmypaper.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sendpaper": {

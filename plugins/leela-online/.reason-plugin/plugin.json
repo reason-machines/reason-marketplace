@@ -4,6 +4,7 @@
   "description": "For when you keep circling.",
   "homepage": "https://en.quantumgame.love",
   "docs": "https://en.quantumgame.love",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "leela-online": {

@@ -4,6 +4,7 @@
   "description": "Food, fitness, places & more.",
   "homepage": "https://gyrosco.pe/help/mcp-bridge/",
   "docs": "https://gyrosco.pe/help/mcp-bridge/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gyroscope": {

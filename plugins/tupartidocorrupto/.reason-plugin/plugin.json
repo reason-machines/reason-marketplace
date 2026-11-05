@@ -4,6 +4,7 @@
   "description": "Spanish politics, with sources.",
   "homepage": "https://tupartidocorrupto.com",
   "docs": "https://tupartidocorrupto.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tupartidocorrupto": {

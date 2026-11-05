@@ -4,6 +4,7 @@
   "description": "Compare UK broadband deals.",
   "homepage": "https://www.findbroadbanddeals.com",
   "docs": "https://tedix.dev/apps/findbroadband/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "findbroadband": {

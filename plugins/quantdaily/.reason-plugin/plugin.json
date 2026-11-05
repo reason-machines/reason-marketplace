@@ -4,6 +4,7 @@
   "description": "Verified GRE/GMAT quant daily.",
   "homepage": "https://quantdaily.app",
   "docs": "https://quantdaily.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "quantdaily": {

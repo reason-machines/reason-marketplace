@@ -4,6 +4,7 @@
   "description": "Analyze your e-commerce data.",
   "homepage": "https://hologrow.ai/",
   "docs": "https://hologrow.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hologrow": {

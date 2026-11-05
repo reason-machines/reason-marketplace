@@ -4,6 +4,7 @@
   "description": "Animated films from an idea.",
   "homepage": "https://kitcut.ai",
   "docs": "https://kitcut.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kitcut": {

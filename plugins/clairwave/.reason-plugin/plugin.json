@@ -4,6 +4,7 @@
   "description": "Ocean acoustics & live ships.",
   "homepage": "https://www.clairwave.com",
   "docs": "https://clairwave.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clairwave": {

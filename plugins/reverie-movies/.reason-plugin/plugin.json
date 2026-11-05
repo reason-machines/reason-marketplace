@@ -4,6 +4,7 @@
   "description": "Make AI films and music videos.",
   "homepage": "https://reveriemovies.com",
   "docs": "https://reveriemovies.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reverie-movies": {

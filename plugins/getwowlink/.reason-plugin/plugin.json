@@ -4,6 +4,7 @@
   "description": "Check and fix link previews.",
   "homepage": "https://www.getwowlink.com/mcp",
   "docs": "https://www.getwowlink.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "getwowlink": {

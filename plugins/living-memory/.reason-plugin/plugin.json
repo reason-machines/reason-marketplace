@@ -4,6 +4,7 @@
   "description": "A shared place to return to.",
   "homepage": "https://viibe.to/living-memory",
   "docs": "https://viibe.to/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "living-memory": {

@@ -4,6 +4,7 @@
   "description": "Share context across AI agents.",
   "homepage": "https://vibsync.com",
   "docs": "https://vibsync.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vibsync": {

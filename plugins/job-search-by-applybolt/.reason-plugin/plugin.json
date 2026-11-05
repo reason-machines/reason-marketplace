@@ -4,6 +4,7 @@
   "description": "Search open jobs & internships.",
   "homepage": "https://www.applybolt.app",
   "docs": "https://www.applybolt.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "job-search-by-applybolt": {

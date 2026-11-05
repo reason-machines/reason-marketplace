@@ -4,6 +4,7 @@
   "description": "AI marketing agent.",
   "homepage": "https://toffu.ai",
   "docs": "https://toffu.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "toffu": {

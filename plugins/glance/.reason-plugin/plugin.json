@@ -4,6 +4,7 @@
   "description": "Connect widgets to anything.",
   "homepage": "https://glance.cool",
   "docs": "https://glance.cool/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "glance": {

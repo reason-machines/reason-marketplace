@@ -4,6 +4,7 @@
   "description": "Save emails to Notion & more.",
   "homepage": "https://quicktion.io",
   "docs": "https://quicktion.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quicktion": {

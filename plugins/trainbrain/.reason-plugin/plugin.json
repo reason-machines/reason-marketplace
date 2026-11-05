@@ -4,6 +4,7 @@
   "description": "Explore UK trains and routes.",
   "homepage": "https://rail.mikegtn.net",
   "docs": "https://rail.mikegtn.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trainbrain": {

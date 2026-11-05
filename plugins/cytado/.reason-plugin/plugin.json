@@ -4,6 +4,7 @@
   "description": "Citations with page numbers.",
   "homepage": "https://cytado.com",
   "docs": "https://cytado.com/claude-mcp-citations",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cytado": {

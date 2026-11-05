@@ -4,6 +4,7 @@
   "description": "Turn designs into code.",
   "homepage": "https://www.visily.ai/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.visily-app/visily",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "visily": {

@@ -4,6 +4,7 @@
   "description": "Books, ebooks & audiobooks.",
   "homepage": "https://ebooksdepository.com",
   "docs": "https://ebooksdepository.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ebooksdepository": {

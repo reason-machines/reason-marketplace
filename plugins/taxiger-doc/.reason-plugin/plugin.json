@@ -4,6 +4,7 @@
   "description": "Learn Belgian Taxi Rules.",
   "homepage": "https://www.taxiger.com",
   "docs": "https://www.taxiger.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "taxiger-doc": {

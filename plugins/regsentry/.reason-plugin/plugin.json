@@ -4,6 +4,7 @@
   "description": "Check website tracking.",
   "homepage": "https://regsentry.com",
   "docs": "https://regsentry.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "regsentry": {

@@ -4,6 +4,7 @@
   "description": "Deutsches Recht im Wortlaut.",
   "homepage": "https://zitierfest.de",
   "docs": "https://zitierfest.de",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zitierfest": {

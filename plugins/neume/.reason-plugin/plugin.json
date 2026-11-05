@@ -4,6 +4,7 @@
   "description": "Make songs and change lyrics.",
   "homepage": "https://neume.io",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.neume/neume",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "neume": {

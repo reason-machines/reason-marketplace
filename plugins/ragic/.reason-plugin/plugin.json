@@ -4,6 +4,7 @@
   "description": "Talk to your no-code database.",
   "homepage": "https://www.ragic.com",
   "docs": "https://ragic.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ragic": {

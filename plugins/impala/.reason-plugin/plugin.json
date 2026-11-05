@@ -4,6 +4,7 @@
   "description": "Nonprofit & Foundation Data.",
   "homepage": "https://impala.digital/",
   "docs": "https://impala.digital/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "impala": {

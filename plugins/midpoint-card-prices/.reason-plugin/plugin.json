@@ -4,6 +4,7 @@
   "description": "TCG & sports card prices & ROI.",
   "homepage": "https://www.cardcenteringtool.com/",
   "docs": "https://www.cardcenteringtool.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "midpoint-card-prices": {

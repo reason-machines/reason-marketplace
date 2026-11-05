@@ -4,6 +4,7 @@
   "description": "NYC 3-hour plans & weekends.",
   "homepage": "https://todaynyc.app/",
   "docs": "https://todaynyc.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "todaynyc": {

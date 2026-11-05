@@ -4,6 +4,7 @@
   "description": "Track receipts for price drops.",
   "homepage": "https://www.weaselden.ai",
   "docs": "https://www.weaselden.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "weasel-den": {

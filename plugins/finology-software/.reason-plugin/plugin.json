@@ -4,6 +4,7 @@
   "description": "Student loan repayment math.",
   "homepage": "https://finology.tech/",
   "docs": "https://finology.tech/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "finology-software": {

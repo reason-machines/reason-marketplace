@@ -4,6 +4,7 @@
   "description": "Create and Track QR codes.",
   "homepage": "https://qrtracker.io",
   "docs": "https://qrtracker.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qr-tracker": {

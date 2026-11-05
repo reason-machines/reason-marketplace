@@ -4,6 +4,7 @@
   "description": "Logistics operations analytics.",
   "homepage": "https://sitetrax.io/",
   "docs": "https://sitetrax.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sitetrax-io": {

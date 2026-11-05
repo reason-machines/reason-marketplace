@@ -4,6 +4,7 @@
   "description": "UK construction compliance.",
   "homepage": "https://complyonsite.com/docs/mcp",
   "docs": "https://complyonsite.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "complyonsite": {

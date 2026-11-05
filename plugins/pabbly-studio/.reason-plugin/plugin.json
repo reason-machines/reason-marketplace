@@ -4,6 +4,7 @@
   "description": "Build and host web apps.",
   "homepage": "https://www.pabbly.com/studio/",
   "docs": "https://docs.pabbly.com/pabbly/doc/pabbly-studio-how-to-connect-pabbly-studio-to-claude-or-chatgpt-x0ht1",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pabbly-studio": {

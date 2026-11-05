@@ -4,6 +4,7 @@
   "description": "Northern Cyprus property data.",
   "homepage": "https://evlek.app",
   "docs": "https://evlek.app/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "evlek": {

@@ -4,6 +4,7 @@
   "description": "Recall for you and your agent.",
   "homepage": "https://www.usememory.com",
   "docs": "https://usememory.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "memory": {

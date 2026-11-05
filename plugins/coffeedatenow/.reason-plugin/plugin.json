@@ -4,6 +4,7 @@
   "description": "Meet for coffee right now.",
   "homepage": "https://coffeedatenow.com",
   "docs": "https://coffeedatenow.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coffeedatenow": {

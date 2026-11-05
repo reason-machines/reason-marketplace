@@ -4,6 +4,7 @@
   "description": "Run field service operations.",
   "homepage": "https://www.fieldproxy.ai",
   "docs": "https://www.fieldproxy.ai/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fieldproxy": {

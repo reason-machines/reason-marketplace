@@ -4,6 +4,7 @@
   "description": "Your UK home move, priced.",
   "homepage": "https://homemove.com/",
   "docs": "https://homemove.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "homemove": {

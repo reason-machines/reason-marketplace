@@ -4,6 +4,7 @@
   "description": "US state & local gov contracts.",
   "homepage": "https://scout.govbidportals.com",
   "docs": "https://scout.govbidportals.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "govcontractscout": {

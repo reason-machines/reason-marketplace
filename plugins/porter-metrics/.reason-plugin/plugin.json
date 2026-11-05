@@ -4,6 +4,7 @@
   "description": "Analyze ad and sales data.",
   "homepage": "https://portermetrics.com",
   "docs": "https://portermetrics.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "porter-metrics": {

@@ -4,6 +4,7 @@
   "description": "AI-powered finance management.",
   "homepage": "https://www.datarails.com/",
   "docs": "https://www.datarails.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "datarails-financeos": {

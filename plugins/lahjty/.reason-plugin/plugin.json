@@ -4,6 +4,7 @@
   "description": "Arabic & English product ads.",
   "homepage": "https://www.lahjty.com",
   "docs": "https://www.lahjty.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lahjty": {

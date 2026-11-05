@@ -4,6 +4,7 @@
   "description": "Share work as a tracked link.",
   "homepage": "https://www.send.co/",
   "docs": "https://www.send.co/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "send-co": {

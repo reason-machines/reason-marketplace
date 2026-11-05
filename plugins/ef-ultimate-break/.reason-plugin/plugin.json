@@ -4,6 +4,7 @@
   "description": "Find group travel for 18-35s.",
   "homepage": "https://www.efultimatebreak.com/",
   "docs": "https://www.efultimatebreak.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ef-ultimate-break": {

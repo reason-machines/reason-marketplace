@@ -4,6 +4,7 @@
   "description": "Past-paper practice by topic.",
   "homepage": "https://pastpaperprep.com",
   "docs": "https://pastpaperprep.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pastpaperprep": {

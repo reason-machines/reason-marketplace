@@ -4,6 +4,7 @@
   "description": "Turn tasks into quests and XP.",
   "homepage": "https://www.dailyleveling.app",
   "docs": "https://www.dailyleveling.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "daily-leveling": {

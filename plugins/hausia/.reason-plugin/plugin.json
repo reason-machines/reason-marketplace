@@ -4,6 +4,7 @@
   "description": "Encuentra vivienda con Hausia.",
   "homepage": "https://hausia.io",
   "docs": "https://hausia.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hausia": {

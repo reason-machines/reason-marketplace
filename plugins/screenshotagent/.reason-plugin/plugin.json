@@ -4,6 +4,7 @@
   "description": "Keep screenshots current.",
   "homepage": "https://screenshotagent.com",
   "docs": "https://screenshotagent.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "screenshotagent": {

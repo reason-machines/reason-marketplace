@@ -4,6 +4,7 @@
   "description": "Book hotels, pay with crypto.",
   "homepage": "https://trip1.com",
   "docs": "https://trip1.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trip1": {

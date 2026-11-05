@@ -4,6 +4,7 @@
   "description": "Do real work with live data.",
   "homepage": "https://waypoint.ing",
   "docs": "https://waypoint.ing",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "waypoint": {

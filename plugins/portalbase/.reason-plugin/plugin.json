@@ -4,6 +4,7 @@
   "description": "Your team's work and records.",
   "homepage": "https://portalbaseai.com",
   "docs": "https://portalbaseai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "portalbase": {

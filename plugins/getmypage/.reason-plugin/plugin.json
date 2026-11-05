@@ -4,6 +4,7 @@
   "description": "Manage pages and chats.",
   "homepage": "https://getmy.page",
   "docs": "https://getmy.page",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getmypage": {

@@ -4,6 +4,7 @@
   "description": "Get answers about your intake.",
   "homepage": "https://lexidesk.ai",
   "docs": "https://lexidesk.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lexidesk": {

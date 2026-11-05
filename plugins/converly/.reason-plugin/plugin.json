@@ -4,6 +4,7 @@
   "description": "Easy conversion tracking.",
   "homepage": "https://converly.io/",
   "docs": "https://converly.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "converly": {

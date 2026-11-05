@@ -4,6 +4,7 @@
   "description": "Format & publish to Telegram.",
   "homepage": "https://postlyra.app/en/",
   "docs": "https://postlyra.app/en/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postlyra": {

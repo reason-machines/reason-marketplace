@@ -4,6 +4,7 @@
   "description": "Work on your paired computers.",
   "homepage": "https://getrelaydesk.space",
   "docs": "https://getrelaydesk.space",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "relaydesk": {

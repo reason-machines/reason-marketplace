@@ -4,6 +4,7 @@
   "description": "Convert leads into revenue.",
   "homepage": "https://youex.ai/",
   "docs": "https://youex.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "youex-ai": {

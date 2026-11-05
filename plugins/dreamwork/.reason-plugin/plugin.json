@@ -4,6 +4,7 @@
   "description": "Find jobs. Prepare to apply.",
   "homepage": "https://www.dreamworkhq.com/agents",
   "docs": "https://www.dreamworkhq.com/agents",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dreamwork": {

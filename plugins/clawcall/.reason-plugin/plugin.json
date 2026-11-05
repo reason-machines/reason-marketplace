@@ -4,6 +4,7 @@
   "description": "Make and manage phone calls.",
   "homepage": "https://clawcall.dev",
   "docs": "https://clawcall.dev/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clawcall": {

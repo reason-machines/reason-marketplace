@@ -4,6 +4,7 @@
   "description": "Get documents signed.",
   "homepage": "https://www.portant.co/agents/",
   "docs": "https://www.portant.co/agents/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sign-pdf": {

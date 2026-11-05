@@ -4,6 +4,7 @@
   "description": "Find honest product reviews.",
   "homepage": "https://www.grailpeople.com",
   "docs": "https://grailpeople.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "grailpeople-shopping": {

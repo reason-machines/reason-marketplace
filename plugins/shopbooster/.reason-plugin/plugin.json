@@ -4,6 +4,7 @@
   "description": "Your shop's CRM, in chat.",
   "homepage": "https://getshopbooster.com/ai",
   "docs": "https://getshopbooster.com/ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shopbooster": {

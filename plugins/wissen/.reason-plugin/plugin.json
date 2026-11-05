@@ -4,6 +4,7 @@
   "description": "Equity research, kept current.",
   "homepage": "https://www.wissen-ai.com",
   "docs": "https://wissen-ai.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wissen": {

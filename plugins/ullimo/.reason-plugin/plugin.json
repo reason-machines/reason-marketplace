@@ -4,6 +4,7 @@
   "description": "Video and audio projects.",
   "homepage": "https://ullimo.com/en/",
   "docs": "https://ullimo.com/en/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ullimo": {

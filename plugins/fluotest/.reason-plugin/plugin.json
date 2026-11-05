@@ -4,6 +4,7 @@
   "description": "Create and analyze quizzes.",
   "homepage": "https://fluotest.com",
   "docs": "https://fluotest.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fluotest": {

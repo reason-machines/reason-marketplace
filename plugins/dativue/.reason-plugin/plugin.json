@@ -4,6 +4,7 @@
   "description": "Search and social research.",
   "homepage": "https://dativue.com",
   "docs": "https://dativue.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dativue": {

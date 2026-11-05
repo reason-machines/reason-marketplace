@@ -4,6 +4,7 @@
   "description": "Retail media ads, answered.",
   "homepage": "https://epsilo.ai",
   "docs": "https://epsilo.ai/docs/admin/api-tokens-and-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "epsilo": {

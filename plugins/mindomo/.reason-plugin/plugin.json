@@ -4,6 +4,7 @@
   "description": "Create mind maps.",
   "homepage": "https://www.mindomo.com",
   "docs": "https://www.mindomo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mindomo": {

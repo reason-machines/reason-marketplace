@@ -4,6 +4,7 @@
   "description": "Draft and schedule your posts.",
   "homepage": "https://www.radi8.com",
   "docs": "https://www.radi8.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "radi8": {

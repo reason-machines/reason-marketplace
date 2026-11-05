@@ -4,6 +4,7 @@
   "description": "Stock picking intelligence.",
   "homepage": "https://stocklens.com",
   "docs": "https://stocklens.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stocklens": {

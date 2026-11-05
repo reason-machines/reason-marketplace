@@ -4,6 +4,7 @@
   "description": "The all-in-one finance cockpit.",
   "homepage": "https://saasflow.com",
   "docs": "https://saasflow.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "saasflow": {

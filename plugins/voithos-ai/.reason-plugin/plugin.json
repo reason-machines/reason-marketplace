@@ -4,6 +4,7 @@
   "description": "Search in your meetings.",
   "homepage": "https://voithos.ai",
   "docs": "https://voithos.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voithos-ai": {

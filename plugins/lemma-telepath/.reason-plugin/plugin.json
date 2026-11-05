@@ -4,6 +4,7 @@
   "description": "Your Telegram, in Reason.",
   "homepage": "https://telepath.lemma.company",
   "docs": "https://telepath.lemma.company/start",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lemma-telepath": {

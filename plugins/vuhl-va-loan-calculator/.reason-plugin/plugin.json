@@ -4,6 +4,7 @@
   "description": "Estimate your VA loan payment.",
   "homepage": "https://www.veteransunited.com/",
   "docs": "https://tedix.dev/apps/vuhl-va-loan-calculator/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vuhl-va-loan-calculator": {

@@ -4,6 +4,7 @@
   "description": "Create and manage courses.",
   "homepage": "https://minicoursegenerator.com/",
   "docs": "https://minicoursegenerator.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mini-course-generator": {

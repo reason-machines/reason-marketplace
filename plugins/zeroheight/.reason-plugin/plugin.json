@@ -4,6 +4,7 @@
   "description": "Connect your design system.",
   "homepage": "https://zeroheight.com",
   "docs": "https://zeroheight.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zeroheight": {

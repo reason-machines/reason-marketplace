@@ -4,6 +4,7 @@
   "description": "Find restaurants and menus.",
   "homepage": "https://www.foodpanda.com/",
   "docs": "https://www.foodpanda.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "foodpanda": {

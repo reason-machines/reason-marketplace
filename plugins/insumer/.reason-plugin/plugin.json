@@ -4,6 +4,7 @@
   "description": "Wallet auth for AI agents.",
   "homepage": "https://insumermodel.com",
   "docs": "https://insumermodel.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "insumer": {

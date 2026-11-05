@@ -4,6 +4,7 @@
   "description": "Plan trips. See them clearly.",
   "homepage": "https://traviz-plugin.ahi-lab.com",
   "docs": "https://traviz-plugin.ahi-lab.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "traviz-planner": {

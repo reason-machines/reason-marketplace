@@ -4,6 +4,7 @@
   "description": "일상에 도움이 필요한 순간, 청연.",
   "homepage": "https://www.chyeon.com",
   "docs": "https://www.chyeon.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "chyeon-cleaninglab": {

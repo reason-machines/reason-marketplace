@@ -4,6 +4,7 @@
   "description": "Project intelligence.",
   "homepage": "https://www.occam-edge.com",
   "docs": "https://www.occam-edge.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "occam-edge": {

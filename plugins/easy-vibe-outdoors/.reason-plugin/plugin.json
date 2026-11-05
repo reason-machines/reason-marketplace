@@ -4,6 +4,7 @@
   "description": "Camper bookings and prices.",
   "homepage": "https://easyvibeoutdoors.com",
   "docs": "https://easyvibeoutdoors.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "easy-vibe-outdoors": {

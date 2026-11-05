@@ -4,6 +4,7 @@
   "description": "Add meeting context to chats.",
   "homepage": "https://krisp.ai",
   "docs": "https://krisp.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "krisp": {

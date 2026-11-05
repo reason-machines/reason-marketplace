@@ -4,6 +4,7 @@
   "description": "Video research & creator stats.",
   "homepage": "https://socialseal.co",
   "docs": "https://socialseal.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "socialseal": {

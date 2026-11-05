@@ -4,6 +4,7 @@
   "description": "Find and rank device companies.",
   "homepage": "https://whimbrelresearch.com",
   "docs": "https://whimbrelresearch.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whimbrel-medtech-analyst": {

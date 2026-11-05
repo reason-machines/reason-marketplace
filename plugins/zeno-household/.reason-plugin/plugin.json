@@ -4,6 +4,7 @@
   "description": "Household money, guided.",
   "homepage": "https://zenonest.com",
   "docs": "https://zenonest.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zeno-household": {

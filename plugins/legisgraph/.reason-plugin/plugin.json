@@ -4,6 +4,7 @@
   "description": "Get access to legal content.",
   "homepage": "https://legisratio.com",
   "docs": "https://legisratio.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "legisgraph": {

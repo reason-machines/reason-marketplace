@@ -4,6 +4,7 @@
   "description": "Build and analyze load tests.",
   "homepage": "https://loadster.com/",
   "docs": "https://loadster.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "loadster": {

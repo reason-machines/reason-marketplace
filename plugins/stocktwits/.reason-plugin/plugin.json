@@ -4,6 +4,7 @@
   "description": "Retail investor community.",
   "homepage": "https://www.stocktwits.com",
   "docs": "https://www.stocktwits.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stocktwits": {

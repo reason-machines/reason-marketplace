@@ -4,6 +4,7 @@
   "description": "Your well, in context.",
   "homepage": "https://www.drillsense.com",
   "docs": "https://www.drillsense.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "drillsense": {

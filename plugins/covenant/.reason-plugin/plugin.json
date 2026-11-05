@@ -4,6 +4,7 @@
   "description": "Your fund terms, in Reason.",
   "homepage": "https://covenant.co",
   "docs": "https://docs.covenant.co/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "covenant": {

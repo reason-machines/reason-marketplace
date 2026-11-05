@@ -4,6 +4,7 @@
   "description": "Launch products on LaunchAF.",
   "homepage": "https://launchaf.com",
   "docs": "https://launchaf.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "launchaf": {

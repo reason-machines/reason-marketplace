@@ -4,6 +4,7 @@
   "description": "Save and share trip plans.",
   "homepage": "https://tralendr.com",
   "docs": "https://tralendr.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tralendr": {

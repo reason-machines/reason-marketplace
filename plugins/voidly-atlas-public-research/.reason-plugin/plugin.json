@@ -4,6 +4,7 @@
   "description": "Public censorship research.",
   "homepage": "https://voidly.ai/llms.txt",
   "docs": "https://voidly.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "voidly-atlas-public-research": {

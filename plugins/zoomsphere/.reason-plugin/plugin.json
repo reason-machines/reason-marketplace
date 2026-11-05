@@ -4,6 +4,7 @@
   "description": "Plan and publish social posts.",
   "homepage": "https://www.zoomsphere.com/mcp",
   "docs": "https://www.zoomsphere.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zoomsphere": {

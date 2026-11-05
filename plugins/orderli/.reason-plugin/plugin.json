@@ -4,6 +4,7 @@
   "description": "QR ordering for restaurants.",
   "homepage": "https://www.orderli.com",
   "docs": "https://www.orderli.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orderli": {

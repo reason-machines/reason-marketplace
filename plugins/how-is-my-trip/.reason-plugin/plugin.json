@@ -4,6 +4,7 @@
   "description": "Live travel disruption radar.",
   "homepage": "https://travel-trends.mmatinca.eu",
   "docs": "https://travel-trends.mmatinca.eu",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "how-is-my-trip": {

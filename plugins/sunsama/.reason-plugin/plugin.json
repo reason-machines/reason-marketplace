@@ -4,6 +4,7 @@
   "description": "Focus on what matters, today.",
   "homepage": "https://sunsama.com",
   "docs": "https://api.sunsama.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sunsama": {

@@ -4,6 +4,7 @@
   "description": "Generate videos with AI.",
   "homepage": "https://www.veed.io/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.veed/fabric-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "veed-video-generator": {

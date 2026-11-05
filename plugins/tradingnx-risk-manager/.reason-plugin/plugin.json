@@ -4,6 +4,7 @@
   "description": "Manage trade risk.",
   "homepage": "https://tradingnx.com",
   "docs": "https://tedix.dev/apps/tradingnx-risk-manager/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tradingnx-risk-manager": {

@@ -4,6 +4,7 @@
   "description": "Monitor website changes.",
   "homepage": "https://www.visualping.io",
   "docs": "https://www.visualping.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "visualping": {

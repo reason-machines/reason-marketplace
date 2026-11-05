@@ -4,6 +4,7 @@
   "description": "Find food and draft carts.",
   "homepage": "https://yumoeats.com",
   "docs": "https://yumoeats.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "yumo-eats": {

@@ -4,6 +4,7 @@
   "description": "Search your video library.",
   "homepage": "https://videohighlight.com/connectors",
   "docs": "https://videohighlight.com/connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "video-highlight": {

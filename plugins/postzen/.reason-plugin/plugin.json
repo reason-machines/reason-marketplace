@@ -4,6 +4,7 @@
   "description": "Publish and analyze posts.",
   "homepage": "https://www.postzen.dev/",
   "docs": "https://www.postzen.dev/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postzen": {

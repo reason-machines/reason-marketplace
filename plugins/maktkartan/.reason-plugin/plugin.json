@@ -4,6 +4,7 @@
   "description": "Sök svensk statsmakt.",
   "homepage": "https://maktkartan.se",
   "docs": "https://maktkartan.se",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "maktkartan": {

@@ -4,6 +4,7 @@
   "description": "Property prices, rents, yields.",
   "homepage": "https://dubaiwealthindex.com",
   "docs": "https://dubaiwealthindex.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dubai-wealth-index": {

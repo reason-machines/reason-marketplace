@@ -4,6 +4,7 @@
   "description": "Program and lift tools.",
   "homepage": "https://strengthcode.co",
   "docs": "https://strengthcode.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "strengthcode": {

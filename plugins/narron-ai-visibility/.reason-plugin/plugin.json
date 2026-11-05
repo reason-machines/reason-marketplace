@@ -4,6 +4,7 @@
   "description": "AI search visibility.",
   "homepage": "https://lens.narron.io",
   "docs": "https://lens.narron.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "narron-ai-visibility": {

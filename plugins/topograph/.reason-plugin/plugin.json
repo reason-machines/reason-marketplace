@@ -4,6 +4,7 @@
   "description": "Official company evidence.",
   "homepage": "https://topograph.co/developers/mcp",
   "docs": "https://topograph.co/developers/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "topograph": {

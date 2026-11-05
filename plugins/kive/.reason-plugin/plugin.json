@@ -4,6 +4,7 @@
   "description": "Create product visuals.",
   "homepage": "https://kive.ai",
   "docs": "https://kive.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kive": {

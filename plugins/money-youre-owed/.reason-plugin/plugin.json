@@ -4,6 +4,7 @@
   "description": "Find money you're owed.",
   "homepage": "https://moneyyoureowed.com",
   "docs": "https://moneyyoureowed.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "money-youre-owed": {

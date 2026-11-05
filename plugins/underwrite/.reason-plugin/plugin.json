@@ -4,6 +4,7 @@
   "description": "Dubai property facts, sourced.",
   "homepage": "https://www.underwrite.ae",
   "docs": "https://www.underwrite.ae/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "underwrite": {

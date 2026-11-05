@@ -4,6 +4,7 @@
   "description": "Write document with provenance.",
   "homepage": "https://neurnav.com",
   "docs": "https://neurnav.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "neurnav": {

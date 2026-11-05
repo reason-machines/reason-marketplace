@@ -4,6 +4,7 @@
   "description": "Saudi off-plan projects.",
   "homepage": "https://www.offplan.sa",
   "docs": "https://www.offplan.sa",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "off-plan-ai": {

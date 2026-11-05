@@ -4,6 +4,7 @@
   "description": "Find a tutor for a lesson.",
   "homepage": "https://clasora.com",
   "docs": "https://clasora.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clasora-tutor-finder": {

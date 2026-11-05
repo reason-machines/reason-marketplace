@@ -4,6 +4,7 @@
   "description": "Contacts, campaigns, delivery.",
   "homepage": "https://sendly.now",
   "docs": "https://sendly.now/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sendly": {

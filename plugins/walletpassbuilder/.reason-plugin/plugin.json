@@ -4,6 +4,7 @@
   "description": "Apple & Google Wallet passes.",
   "homepage": "https://walletpassbuilder.com/integrations",
   "docs": "https://walletpassbuilder.com/guides/create-apple-wallet-pass-with-claude",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "walletpassbuilder": {

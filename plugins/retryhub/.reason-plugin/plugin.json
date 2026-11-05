@@ -4,6 +4,7 @@
   "description": "Fit, shutdown, and disputes.",
   "homepage": "https://retryhub.com/",
   "docs": "https://tedix.dev/apps/retryhub/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "retryhub": {

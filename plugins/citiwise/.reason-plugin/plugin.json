@@ -4,6 +4,7 @@
   "description": "What UDCPR allows on your plot.",
   "homepage": "https://citiwise.in",
   "docs": "https://citiwise.in",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "citiwise": {

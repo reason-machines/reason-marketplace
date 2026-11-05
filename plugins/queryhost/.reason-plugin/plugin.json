@@ -4,6 +4,7 @@
   "description": "Check and compare game servers.",
   "homepage": "https://query.host",
   "docs": "https://query.host",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "queryhost": {

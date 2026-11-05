@@ -4,6 +4,7 @@
   "description": "Save and recall what you learn.",
   "homepage": "https://www.linko.study",
   "docs": "https://www.linko.study",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "linko": {

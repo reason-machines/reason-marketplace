@@ -4,6 +4,7 @@
   "description": "Profile, skills, and notes.",
   "homepage": "https://knotr.ai",
   "docs": "https://knotr.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "knotr": {

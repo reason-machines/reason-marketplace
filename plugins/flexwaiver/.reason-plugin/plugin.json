@@ -4,6 +4,7 @@
   "description": "Manage waivers and submissions.",
   "homepage": "https://flexwaiver.com",
   "docs": "https://flexwaiver.com/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flexwaiver": {

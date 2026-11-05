@@ -4,6 +4,7 @@
   "description": "AI cycling route planner.",
   "homepage": "https://gocycling.ai",
   "docs": "https://gocycling.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gocycling": {

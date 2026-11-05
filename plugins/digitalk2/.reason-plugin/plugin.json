@@ -4,6 +4,7 @@
   "description": "Swedish K2 annual reports.",
   "homepage": "https://www.digitalk2.se/mcp",
   "docs": "https://www.digitalk2.se/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "digitalk2": {

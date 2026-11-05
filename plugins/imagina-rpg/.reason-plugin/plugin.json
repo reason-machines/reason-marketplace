@@ -4,6 +4,7 @@
   "description": "Imagina RPG authoring helper.",
   "homepage": "https://playimagina.com",
   "docs": "https://playimagina.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "imagina-rpg": {

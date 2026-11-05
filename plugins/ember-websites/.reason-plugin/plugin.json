@@ -4,6 +4,7 @@
   "description": "Websites for small businesses.",
   "homepage": "https://embersites.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.embersites/ember",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ember-websites": {

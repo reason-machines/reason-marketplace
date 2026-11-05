@@ -4,6 +4,7 @@
   "description": "Walk into your next call ready.",
   "homepage": "https://sayli.ai",
   "docs": "https://api.sayli.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sayli": {

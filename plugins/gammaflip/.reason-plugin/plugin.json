@@ -4,6 +4,7 @@
   "description": "Options gamma exposure levels.",
   "homepage": "https://gammaflip.io",
   "docs": "https://gammaflip.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gammaflip": {

@@ -4,6 +4,7 @@
   "description": "SPAC and de-SPAC market data.",
   "homepage": "https://www.spacinsider.com",
   "docs": "https://tedix.dev/apps/spacinsider/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spacinsider": {

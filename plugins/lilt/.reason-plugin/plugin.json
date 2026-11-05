@@ -4,6 +4,7 @@
   "description": "Translation and localization.",
   "homepage": "https://lilt.com/",
   "docs": "https://lilt.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lilt": {

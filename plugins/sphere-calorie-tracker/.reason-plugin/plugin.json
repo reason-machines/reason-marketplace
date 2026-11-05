@@ -4,6 +4,7 @@
   "description": "Log meals and track calories.",
   "homepage": "https://getsphere.io",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.getsphere/sphere",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sphere-calorie-tracker": {

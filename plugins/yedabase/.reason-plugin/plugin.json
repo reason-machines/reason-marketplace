@@ -4,6 +4,7 @@
   "description": "Family office & investor data.",
   "homepage": "https://yedabase.com",
   "docs": "https://yedabase.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yedabase": {

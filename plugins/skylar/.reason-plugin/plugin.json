@@ -4,6 +4,7 @@
   "description": "Sales coaching insights.",
   "homepage": "https://www.getskylar.com",
   "docs": "https://www.getskylar.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "skylar": {

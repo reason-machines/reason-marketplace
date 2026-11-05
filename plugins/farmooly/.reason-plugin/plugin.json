@@ -4,6 +4,7 @@
   "description": "Find local food & markets.",
   "homepage": "https://farmooly.com",
   "docs": "https://farmooly.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "farmooly": {

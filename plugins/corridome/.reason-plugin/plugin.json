@@ -4,6 +4,7 @@
   "description": "Deal and firm register.",
   "homepage": "https://corridome.com",
   "docs": "https://corridome.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "corridome": {

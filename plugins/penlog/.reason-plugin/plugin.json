@@ -4,6 +4,7 @@
   "description": "Search your handwritten notes.",
   "homepage": "https://penlog.app",
   "docs": "https://penlog.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "penlog": {

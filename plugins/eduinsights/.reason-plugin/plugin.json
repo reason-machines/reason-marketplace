@@ -4,6 +4,7 @@
   "description": "Research colleges and careers.",
   "homepage": "https://eduinsights.ai/",
   "docs": "https://eduinsights.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "eduinsights": {

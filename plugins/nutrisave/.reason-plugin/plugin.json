@@ -4,6 +4,7 @@
   "description": "Piani alimentari e ricette.",
   "homepage": "https://nutri-save.vercel.app",
   "docs": "https://nutri-save.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nutrisave": {

@@ -4,6 +4,7 @@
   "description": "Log and plan meals.",
   "homepage": "https://splot.health",
   "docs": "https://splot.health/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "splot": {

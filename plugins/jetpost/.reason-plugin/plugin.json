@@ -4,6 +4,7 @@
   "description": "Message your team from Reason.",
   "homepage": "https://www.jetpost.com/welcome",
   "docs": "https://www.jetpost.com/welcome",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jetpost": {

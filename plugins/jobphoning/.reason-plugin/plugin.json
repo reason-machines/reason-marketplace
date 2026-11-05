@@ -4,6 +4,7 @@
   "description": "Vos chiffres clés JobPhoning.",
   "homepage": "https://jobphoning.com/",
   "docs": "https://jobphoning.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jobphoning": {

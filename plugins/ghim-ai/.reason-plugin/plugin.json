@@ -4,6 +4,7 @@
   "description": "AI visibility monitoring.",
   "homepage": "https://ghimai.com/plugin-ghimai",
   "docs": "https://ghimai.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ghim-ai": {

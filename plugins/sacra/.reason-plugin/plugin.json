@@ -4,6 +4,7 @@
   "description": "Research on pre-IPO startups.",
   "homepage": "https://www.sacra.com",
   "docs": "https://www.sacra.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sacra": {

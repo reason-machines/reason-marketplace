@@ -4,6 +4,7 @@
   "description": "Manage notes, tasks and events.",
   "homepage": "https://unboundmark.com",
   "docs": "https://unboundmark.com/docs/mcp-agents/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unboundmark": {

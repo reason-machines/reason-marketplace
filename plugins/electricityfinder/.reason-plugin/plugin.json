@@ -4,6 +4,7 @@
   "description": "Compare Texas power plans.",
   "homepage": "https://electricityfinder.online",
   "docs": "https://electricityfinder.online",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "electricityfinder": {

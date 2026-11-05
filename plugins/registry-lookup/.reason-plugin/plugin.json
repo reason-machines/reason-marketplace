@@ -4,6 +4,7 @@
   "description": "Explore company registry data.",
   "homepage": "https://registry-lookup.com",
   "docs": "https://registry-lookup.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "registry-lookup": {

@@ -4,6 +4,7 @@
   "description": "Read-only Search Console data.",
   "homepage": "https://seocockpit.online",
   "docs": "https://seocockpit.online",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seo-cockpit": {

@@ -4,6 +4,7 @@
   "description": "Support for Home Education.",
   "homepage": "https://www.monpif.be",
   "docs": "https://www.monpif.be",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "monpif": {

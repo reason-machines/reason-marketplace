@@ -4,6 +4,7 @@
   "description": "Read, organize, and send mail.",
   "homepage": "https://jade.email",
   "docs": "https://jade.email",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jade-email": {

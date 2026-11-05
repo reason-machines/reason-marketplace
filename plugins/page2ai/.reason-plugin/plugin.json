@@ -4,6 +4,7 @@
   "description": "Public web page to Markdown.",
   "homepage": "https://page2ai-mcp-remote.vercel.app/",
   "docs": "https://page2ai-mcp-remote.vercel.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "page2ai": {

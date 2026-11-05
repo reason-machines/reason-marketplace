@@ -4,6 +4,7 @@
   "description": "Compare verified rates.",
   "homepage": "https://www.switchwize.com",
   "docs": "https://www.switchwize.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "switchwize": {

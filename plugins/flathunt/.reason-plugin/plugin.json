@@ -4,6 +4,7 @@
   "description": "Furnished housing in Berlin.",
   "homepage": "https://flat-hunt.com",
   "docs": "https://flat-hunt.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "flathunt": {

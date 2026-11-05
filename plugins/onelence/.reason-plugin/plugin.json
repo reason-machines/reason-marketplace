@@ -4,6 +4,7 @@
   "description": "Marketing and growth analytics.",
   "homepage": "https://onelence.com",
   "docs": "https://onelence.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "onelence": {

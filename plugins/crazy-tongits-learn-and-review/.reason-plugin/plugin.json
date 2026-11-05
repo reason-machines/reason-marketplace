@@ -4,6 +4,7 @@
   "description": "Learn Tongits, step by step.",
   "homepage": "https://ct.crazylive.cc/",
   "docs": "https://ct.crazylive.cc/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "crazy-tongits-learn-and-review": {

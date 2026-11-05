@@ -4,6 +4,7 @@
   "description": "Thoughtful gifts, considered.",
   "homepage": "https://wishlist.supply",
   "docs": "https://wishlist.supply",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wishlist-supply": {

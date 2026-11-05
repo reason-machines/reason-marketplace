@@ -4,6 +4,7 @@
   "description": "Markdown to shareable docs.",
   "homepage": "https://opendocs.cc/llms.txt",
   "docs": "https://opendocs.cc/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "opendocs-cc": {

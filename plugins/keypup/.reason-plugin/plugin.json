@@ -4,6 +4,7 @@
   "description": "Engineering Analytics.",
   "homepage": "https://www.keypup.io",
   "docs": "https://keypup.io/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "keypup": {

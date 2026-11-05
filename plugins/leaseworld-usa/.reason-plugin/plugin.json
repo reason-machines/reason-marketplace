@@ -4,6 +4,7 @@
   "description": "Estimate equipment payments.",
   "homepage": "https://leaseworldusa.com",
   "docs": "https://leaseworldusa.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "leaseworld-usa": {

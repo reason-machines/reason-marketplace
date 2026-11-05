@@ -4,6 +4,7 @@
   "description": "Inspect public UCE records.",
   "homepage": "https://uceevidencelens.com/gpt/",
   "docs": "https://uceevidencelens.com/gpt/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uce-evidence-lens": {

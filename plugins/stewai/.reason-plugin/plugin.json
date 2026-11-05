@@ -4,6 +4,7 @@
   "description": "Find, run, build workflows.",
   "homepage": "https://stewai.com",
   "docs": "https://api.stewai.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stewai": {

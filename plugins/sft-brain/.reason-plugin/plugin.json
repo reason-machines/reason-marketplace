@@ -4,6 +4,7 @@
   "description": "Create and review flashcards.",
   "homepage": "https://sftbrain.com",
   "docs": "https://sftbrain.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sft-brain": {

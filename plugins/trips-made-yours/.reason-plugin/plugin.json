@@ -4,6 +4,7 @@
   "description": "Plan and save shared trips.",
   "homepage": "https://tripsmadeyours.com",
   "docs": "https://tripsmadeyours.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trips-made-yours": {

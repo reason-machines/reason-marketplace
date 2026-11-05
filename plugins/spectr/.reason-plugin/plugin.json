@@ -4,6 +4,7 @@
   "description": "Specs, stories and budgets.",
   "homepage": "https://spectr.pm",
   "docs": "https://spectr.pm",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spectr": {

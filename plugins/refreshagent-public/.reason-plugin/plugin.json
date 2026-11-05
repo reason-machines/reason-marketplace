@@ -4,6 +4,7 @@
   "description": "SEO analytics and workflows.",
   "homepage": "https://refreshagent.com/chatgpt-seo",
   "docs": "https://refreshagent.com/chatgpt-seo",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "refreshagent-public": {

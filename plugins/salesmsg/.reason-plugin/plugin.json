@@ -4,6 +4,7 @@
   "description": "Business texting in Reason.",
   "homepage": "https://www.salesmessage.com/",
   "docs": "https://www.salesmessage.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "salesmsg": {

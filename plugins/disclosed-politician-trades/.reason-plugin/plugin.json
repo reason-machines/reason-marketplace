@@ -4,6 +4,7 @@
   "description": "Congress stock trades.",
   "homepage": "https://disclosedhq.com/connect",
   "docs": "https://disclosedhq.com/connect",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "disclosed-politician-trades": {

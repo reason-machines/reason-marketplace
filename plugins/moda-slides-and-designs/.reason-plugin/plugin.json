@@ -4,6 +4,7 @@
   "description": "Editable slides and designs.",
   "homepage": "https://moda.app",
   "docs": "https://moda.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "moda-slides-and-designs": {

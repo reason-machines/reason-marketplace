@@ -4,6 +4,7 @@
   "description": "Volunteer with Proud Indian.",
   "homepage": "https://proudindian.ngo",
   "docs": "https://proudindian.ngo/assistants/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "proud-indian": {

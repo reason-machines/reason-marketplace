@@ -4,6 +4,7 @@
   "description": "Elo-aware chess storyboards.",
   "homepage": "https://plymove.com",
   "docs": "https://plymove.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "plymove": {

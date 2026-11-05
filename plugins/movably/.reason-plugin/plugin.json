@@ -4,6 +4,7 @@
   "description": "London travel, clearer access.",
   "homepage": "https://movably.io/",
   "docs": "https://movably.io/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "movably": {

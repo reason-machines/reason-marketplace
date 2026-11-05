@@ -4,6 +4,7 @@
   "description": "Shop secondhand clothing.",
   "homepage": "https://shopitup.ca",
   "docs": "https://shopitup.ca",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "shopitup": {

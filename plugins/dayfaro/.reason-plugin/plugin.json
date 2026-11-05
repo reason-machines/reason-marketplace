@@ -4,6 +4,7 @@
   "description": "Turn your text into podcasts.",
   "homepage": "https://dayfaro.com",
   "docs": "https://dayfaro.com/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dayfaro": {

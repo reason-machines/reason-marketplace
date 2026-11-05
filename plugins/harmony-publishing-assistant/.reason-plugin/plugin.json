@@ -4,6 +4,7 @@
   "description": "Book publishing & print quotes.",
   "homepage": "https://harmonypublishing.net",
   "docs": "https://harmonypublishing.net/ai-assistant",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "harmony-publishing-assistant": {

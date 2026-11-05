@@ -4,6 +4,7 @@
   "description": "Architecture for agents.",
   "homepage": "https://www.iarchi.cloud/product",
   "docs": "https://www.iarchi.cloud/product",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iarchi": {

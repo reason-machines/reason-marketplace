@@ -4,6 +4,7 @@
   "description": "Yapay Zekalı Ön Muhasebe.",
   "homepage": "https://app.ekohesap.com/",
   "docs": "https://app.ekohesap.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ekohesap": {

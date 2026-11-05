@@ -4,6 +4,7 @@
   "description": "Find GCC startup funding.",
   "homepage": "https://gulfpitch.com",
   "docs": "https://gulfpitch.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gulfpitch": {

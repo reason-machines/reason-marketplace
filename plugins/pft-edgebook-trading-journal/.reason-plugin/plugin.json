@@ -4,6 +4,7 @@
   "description": "AI-ready trading journal.",
   "homepage": "https://profuturestrading.de",
   "docs": "https://profuturestrading.de/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pft-edgebook-trading-journal": {

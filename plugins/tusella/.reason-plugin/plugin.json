@@ -4,6 +4,7 @@
   "description": "Etsy listing workspace.",
   "homepage": "https://tusella.com",
   "docs": "https://tusella.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tusella": {

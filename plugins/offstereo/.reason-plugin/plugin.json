@@ -4,6 +4,7 @@
   "description": "Playable music stories & mixes.",
   "homepage": "https://www.offstereo.com/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.andzar22/offstereo",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "offstereo": {

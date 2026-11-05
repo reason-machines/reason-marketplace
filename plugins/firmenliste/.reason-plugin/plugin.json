@@ -4,6 +4,7 @@
   "description": "Find B2B company addresses.",
   "homepage": "https://www.firmenliste.net",
   "docs": "https://www.firmenliste.net/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "firmenliste": {

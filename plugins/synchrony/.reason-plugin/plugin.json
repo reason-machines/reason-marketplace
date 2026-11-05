@@ -4,6 +4,7 @@
   "description": "Find Synchrony Offers.",
   "homepage": "https://www.synchrony.com/marketplace",
   "docs": "https://tedix.dev/apps/synchrony/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "synchrony": {

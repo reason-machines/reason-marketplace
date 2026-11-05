@@ -4,6 +4,7 @@
   "description": "Video and audio to text.",
   "homepage": "https://justtranscribe.ai",
   "docs": "https://justtranscribe.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "justtranscribe": {

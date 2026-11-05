@@ -4,6 +4,7 @@
   "description": "Valuation & Portfolio Research.",
   "homepage": "https://valuedge.app",
   "docs": "https://valuedge.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "valuedge-stock-valuation": {

@@ -4,6 +4,7 @@
   "description": "Create and manage decks.",
   "homepage": "https://www.encelade.ai",
   "docs": "https://encelade.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "encelade": {

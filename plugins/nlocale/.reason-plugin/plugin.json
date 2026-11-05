@@ -4,6 +4,7 @@
   "description": "Explore Aisne, France.",
   "homepage": "https://nlocale.fr",
   "docs": "https://nlocale.fr",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nlocale": {

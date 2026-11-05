@@ -4,6 +4,7 @@
   "description": "Security testing for AI agents.",
   "homepage": "https://enokilabs.ai",
   "docs": "https://enokilabs.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "enoki": {

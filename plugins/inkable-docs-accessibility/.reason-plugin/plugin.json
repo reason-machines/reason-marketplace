@@ -4,6 +4,7 @@
   "description": "PDF, Word & PowerPoint.",
   "homepage": "https://inkabledocs.com/",
   "docs": "https://inkabledocs.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "inkable-docs-accessibility": {

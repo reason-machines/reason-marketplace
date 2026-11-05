@@ -4,6 +4,7 @@
   "description": "On-brand marketing content.",
   "homepage": "https://fuzzbucket.ai",
   "docs": "https://fuzzbucket.ai/llms-full.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fuzzbucket": {

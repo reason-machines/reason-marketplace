@@ -4,6 +4,7 @@
   "description": "Ask about your class results.",
   "homepage": "https://thelearningmate.com",
   "docs": "https://thelearningmate.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "the-learning-mate": {

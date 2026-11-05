@@ -4,6 +4,7 @@
   "description": "All in one daily planner.",
   "homepage": "https://structured.app",
   "docs": "https://structured.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "structured": {

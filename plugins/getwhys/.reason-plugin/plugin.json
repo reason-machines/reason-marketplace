@@ -4,6 +4,7 @@
   "description": "Ground GTM in buyer evidence.",
   "homepage": "https://getwhys.io",
   "docs": "https://api.getwhys.io/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getwhys": {

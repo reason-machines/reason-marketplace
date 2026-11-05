@@ -4,6 +4,7 @@
   "description": "Plan work around your capacity.",
   "homepage": "https://koalaforwork.com",
   "docs": "https://koalaforwork.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "koala-for-work": {

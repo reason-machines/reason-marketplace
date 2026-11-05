@@ -4,6 +4,7 @@
   "description": "Product answers and support.",
   "homepage": "https://scalperintel.com",
   "docs": "https://scalperintel.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scalperintel-ai": {

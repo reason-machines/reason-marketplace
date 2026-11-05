@@ -4,6 +4,7 @@
   "description": "Book vacation rentals direct.",
   "homepage": "https://stay.luxurylodgingpm.com",
   "docs": "https://stay.luxurylodgingpm.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "escapestays-by-luxury-lodging": {

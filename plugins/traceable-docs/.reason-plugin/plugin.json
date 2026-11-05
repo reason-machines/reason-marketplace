@@ -4,6 +4,7 @@
   "description": "Create and edit documents.",
   "homepage": "https://traceabledocs.com/llms.txt",
   "docs": "https://traceabledocs.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "traceable-docs": {

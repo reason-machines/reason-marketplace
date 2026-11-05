@@ -4,6 +4,7 @@
   "description": "Panchang, festivals & Kundli.",
   "homepage": "https://samvat.in",
   "docs": "https://samvat.in",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "samvat": {

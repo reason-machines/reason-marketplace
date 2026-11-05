@@ -4,6 +4,7 @@
   "description": "AI images and video, in chat.",
   "homepage": "https://phantra.ai/mcp",
   "docs": "https://phantra.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "phantra-ai": {

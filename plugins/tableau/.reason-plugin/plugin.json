@@ -4,6 +4,7 @@
   "description": "See and understand data.",
   "homepage": "https://www.tableau.com/",
   "docs": "https://www.tableau.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tableau": {

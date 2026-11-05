@@ -4,6 +4,7 @@
   "description": "Create videos in Lumen5.",
   "homepage": "https://lumen5.com/",
   "docs": "https://lumen5.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lumen5-video-creator": {

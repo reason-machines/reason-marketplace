@@ -4,6 +4,7 @@
   "description": "Save notes, reminders, links.",
   "homepage": "https://getrosetta.app",
   "docs": "https://getrosetta.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rosetta": {

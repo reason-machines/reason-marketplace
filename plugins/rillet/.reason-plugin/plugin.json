@@ -4,6 +4,7 @@
   "description": "Manage financial operations.",
   "homepage": "https://www.rillet.com/",
   "docs": "https://www.rillet.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rillet": {

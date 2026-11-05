@@ -4,6 +4,7 @@
   "description": "Create image, video and audio.",
   "homepage": "https://morphix.pro/",
   "docs": "https://morphix.pro/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "morphix": {

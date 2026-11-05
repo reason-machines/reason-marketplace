@@ -4,6 +4,7 @@
   "description": "Schedule workouts, track stats.",
   "homepage": "https://movemate.app/chatgpt",
   "docs": "https://movemate.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "movemate-gym-workout-tracker": {

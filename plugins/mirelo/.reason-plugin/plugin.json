@@ -4,6 +4,7 @@
   "description": "Generate sound effects.",
   "homepage": "https://mirelo.ai",
   "docs": "https://mirelo.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mirelo": {

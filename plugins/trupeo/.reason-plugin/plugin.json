@@ -4,6 +4,7 @@
   "description": "Answer your team's email.",
   "homepage": "https://www.trupeo.com",
   "docs": "https://trupeo.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trupeo": {

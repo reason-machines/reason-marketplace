@@ -4,6 +4,7 @@
   "description": "OTA updates for Capacitor apps.",
   "homepage": "https://otakit.app",
   "docs": "https://otakit.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "otakit": {

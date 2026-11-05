@@ -4,6 +4,7 @@
   "description": "Manage cloud GTM data.",
   "homepage": "https://www.suger.io",
   "docs": "https://www.suger.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "suger": {

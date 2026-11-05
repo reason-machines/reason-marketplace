@@ -4,6 +4,7 @@
   "description": "Sales copilot to win clients.",
   "homepage": "https://propovo.com",
   "docs": "https://propovo.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "propovo": {

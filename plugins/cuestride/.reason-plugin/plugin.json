@@ -4,6 +4,7 @@
   "description": "Shared countdown timers.",
   "homepage": "https://cuestride.com",
   "docs": "https://cuestride.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cuestride": {

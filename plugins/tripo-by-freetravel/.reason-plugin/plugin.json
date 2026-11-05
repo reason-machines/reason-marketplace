@@ -4,6 +4,7 @@
   "description": "Book global hotels with perks.",
   "homepage": "https://www.freetravel.me/",
   "docs": "https://www.freetravel.me/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tripo-by-freetravel": {

@@ -4,6 +4,7 @@
   "description": "Random trips and cheap flights.",
   "homepage": "https://earthroulette.com",
   "docs": "https://earthroulette.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "earth-roulette": {

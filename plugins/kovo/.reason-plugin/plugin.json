@@ -4,6 +4,7 @@
   "description": "Your fitness command center.",
   "homepage": "https://kovofitness.com",
   "docs": "https://www.kovofitness.com/ai-assistants",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kovo": {

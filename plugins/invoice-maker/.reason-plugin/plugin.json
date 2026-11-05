@@ -4,6 +4,7 @@
   "description": "Invoices as polished PDFs.",
   "homepage": "https://invoice-maker.zovo.one",
   "docs": "https://invoice-maker.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "invoice-maker": {

@@ -4,6 +4,7 @@
   "description": "Read notes and meetings.",
   "homepage": "https://clak.ai/chatgpt",
   "docs": "https://clak.ai/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clak": {

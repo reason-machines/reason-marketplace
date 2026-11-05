@@ -4,6 +4,7 @@
   "description": "Can an agent use this product?",
   "homepage": "https://promptingcompany.com/benchmarks",
   "docs": "https://docs.promptingcompany.com/mcp/benchmarks",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tpc-benchmarks": {

@@ -4,6 +4,7 @@
   "description": "Partners for target accounts.",
   "homepage": "https://luasai.app",
   "docs": "https://luasai.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "luasai": {

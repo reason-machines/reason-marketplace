@@ -4,6 +4,7 @@
   "description": "Australian Property Data.",
   "homepage": "https://www.microburbs.com.au/",
   "docs": "https://www.microburbs.com.au/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "microburbs": {

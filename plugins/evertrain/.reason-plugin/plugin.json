@@ -4,6 +4,7 @@
   "description": "Plan and adjust your training.",
   "homepage": "https://evertrain.app/",
   "docs": "https://evertrain.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "evertrain": {

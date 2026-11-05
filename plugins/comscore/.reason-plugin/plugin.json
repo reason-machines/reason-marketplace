@@ -4,6 +4,7 @@
   "description": "Digital, TV and Social data.",
   "homepage": "https://comscore.com/",
   "docs": "https://comscore.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "comscore": {

@@ -4,6 +4,7 @@
   "description": "Your flights, live.",
   "homepage": "https://lufthaven.app",
   "docs": "https://lufthaven.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lufthaven-diagnostic": {

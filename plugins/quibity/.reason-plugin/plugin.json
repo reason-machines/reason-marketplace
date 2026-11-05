@@ -4,6 +4,7 @@
   "description": "Travel eSIMs, plans and usage.",
   "homepage": "https://quibity.com",
   "docs": "https://quibity.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quibity": {

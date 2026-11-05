@@ -4,6 +4,7 @@
   "description": "Investment and economic data.",
   "homepage": "https://www.factiq.com",
   "docs": "https://www.factiq.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "factiq": {

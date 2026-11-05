@@ -4,6 +4,7 @@
   "description": "Search US trademarks.",
   "homepage": "https://www.goalieip.com",
   "docs": "https://www.goalieip.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "goalie": {

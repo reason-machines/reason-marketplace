@@ -4,6 +4,7 @@
   "description": "Build courses and flashcards.",
   "homepage": "https://lernoa.com/",
   "docs": "https://lernoa.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lernoa": {

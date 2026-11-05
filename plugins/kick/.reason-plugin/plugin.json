@@ -4,6 +4,7 @@
   "description": "Read and update your books.",
   "homepage": "https://www.kick.co/",
   "docs": "https://docs.kick.co/ai/developer-tools/mcp/tool-reference.md",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kick": {

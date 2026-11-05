@@ -4,6 +4,7 @@
   "description": "Your AI creative engine.",
   "homepage": "https://www.tapnow.ai",
   "docs": "https://docs.tapnow.ai/en/docs/mcp/add-a-custom-connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tapnow": {

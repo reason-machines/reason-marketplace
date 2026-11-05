@@ -4,6 +4,7 @@
   "description": "Coach from verified records.",
   "homepage": "https://www.trainedby.fit",
   "docs": "https://www.trainedby.fit",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trainedby": {

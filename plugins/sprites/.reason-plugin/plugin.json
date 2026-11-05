@@ -4,6 +4,7 @@
   "description": "Give Reason its own computer.",
   "homepage": "https://fly.io/sprites",
   "docs": "https://fly.io/sprites",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sprites": {

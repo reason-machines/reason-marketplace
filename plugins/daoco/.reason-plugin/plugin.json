@@ -4,6 +4,7 @@
   "description": "Your brand's marketing team.",
   "homepage": "https://daoco.org",
   "docs": "https://daoco.org",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "daoco": {

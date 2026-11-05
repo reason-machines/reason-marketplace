@@ -4,6 +4,7 @@
   "description": "Sales leaderboards & coaching.",
   "homepage": "https://spinify.com",
   "docs": "https://spinify.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spinify": {

@@ -4,6 +4,7 @@
   "description": "Stays that fund conservation.",
   "homepage": "https://www.spekboom.org",
   "docs": "https://www.spekboom.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spekboom": {

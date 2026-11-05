@@ -4,6 +4,7 @@
   "description": "Check a page's AI readiness.",
   "homepage": "https://www.maioai.com/chatgpt",
   "docs": "https://www.maioai.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "maio-geo-scanner": {

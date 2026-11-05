@@ -4,6 +4,7 @@
   "description": "Plan and manage training.",
   "homepage": "https://www.relayathletic.com/",
   "docs": "https://relayathletic.com/blog/relay-mcp-setup",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "relay": {

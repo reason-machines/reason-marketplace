@@ -4,6 +4,7 @@
   "description": "Find what's on at UK cinemas.",
   "homepage": "https://app.cineos.co/",
   "docs": "https://app.cineos.co/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cineos": {

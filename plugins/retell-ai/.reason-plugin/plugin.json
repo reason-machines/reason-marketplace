@@ -4,6 +4,7 @@
   "description": "Build and deploy voice agents.",
   "homepage": "https://www.retellai.com",
   "docs": "https://www.retellai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "retell-ai": {

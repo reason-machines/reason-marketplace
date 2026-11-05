@@ -4,6 +4,7 @@
   "description": "Create and manage Payers.",
   "homepage": "https://www.tax1099.com/",
   "docs": "https://www.tax1099.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tax1099-payer": {

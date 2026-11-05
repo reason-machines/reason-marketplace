@@ -4,6 +4,7 @@
   "description": "Give to nonprofits.",
   "homepage": "https://fundraiseup.com",
   "docs": "https://fundraiseup.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fundraise-up-for-donors": {

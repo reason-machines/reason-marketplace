@@ -4,6 +4,7 @@
   "description": "Customer Feedback Platform.",
   "homepage": "https://survicate.com",
   "docs": "https://survicate.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "survicate": {

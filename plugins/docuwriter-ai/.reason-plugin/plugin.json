@@ -4,6 +4,7 @@
   "description": "Generate and maintain docs.",
   "homepage": "https://www.docuwriter.ai/",
   "docs": "https://docs.docuwriter.ai/docuwriterai-platform-docs/integrations-and-ai-assistants/mcp-assistants/connect-an-ai-assistant-to-docuwriter",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docuwriter-ai": {

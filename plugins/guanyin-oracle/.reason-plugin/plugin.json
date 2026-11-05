@@ -4,6 +4,7 @@
   "description": "Chinese-first oracle ritual.",
   "homepage": "https://guanyin-oracle.vercel.app/",
   "docs": "https://guanyin-oracle.vercel.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "guanyin-oracle": {

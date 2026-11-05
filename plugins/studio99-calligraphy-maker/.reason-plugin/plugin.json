@@ -4,6 +4,7 @@
   "description": "Create Indic calligraphy art.",
   "homepage": "https://studio99.app/llms.txt",
   "docs": "https://studio99.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "studio99-calligraphy-maker": {

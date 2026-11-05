@@ -4,6 +4,7 @@
   "description": "Manage hiring on Dover.",
   "homepage": "https://www.dover.com/",
   "docs": "https://www.dover.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dover": {

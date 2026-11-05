@@ -4,6 +4,7 @@
   "description": "VA disability reference.",
   "homepage": "https://ratemyvso.net",
   "docs": "https://ratemyvso.net/ai-connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ratemyvso": {

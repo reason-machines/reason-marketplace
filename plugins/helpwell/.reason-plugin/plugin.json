@@ -4,6 +4,7 @@
   "description": "Run your help desk from chat.",
   "homepage": "https://helpwell.ai",
   "docs": "https://app.helpwell.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "helpwell": {

@@ -4,6 +4,7 @@
   "description": "Draw tarot cards for readings.",
   "homepage": "https://tarotap.com/en",
   "docs": "https://tarotap.com/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tarotap": {

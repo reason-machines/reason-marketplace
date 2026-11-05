@@ -4,6 +4,7 @@
   "description": "Manage email marketing.",
   "homepage": "https://mailrith.com/",
   "docs": "https://mailrith.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mailrith": {

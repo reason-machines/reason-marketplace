@@ -4,6 +4,7 @@
   "description": "Create images with OEG.",
   "homepage": "https://app.oegaistudio.com/",
   "docs": "https://app.oegaistudio.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "oeg-ai-studio": {

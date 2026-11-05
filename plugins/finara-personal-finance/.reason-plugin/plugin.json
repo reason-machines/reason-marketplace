@@ -4,6 +4,7 @@
   "description": "Track balances and expenses.",
   "homepage": "https://finarasystem.com",
   "docs": "https://finarasystem.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "finara-personal-finance": {

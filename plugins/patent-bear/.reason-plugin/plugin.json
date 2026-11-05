@@ -4,6 +4,7 @@
   "description": "Patent research and analysis.",
   "homepage": "https://www.patentbear.com/connect",
   "docs": "https://www.patentbear.com/connect",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "patent-bear": {

@@ -4,6 +4,7 @@
   "description": "Quran and prayer times.",
   "homepage": "https://vaktim.app/en",
   "docs": "https://vaktim.app/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vaktim": {

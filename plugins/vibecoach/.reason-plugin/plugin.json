@@ -4,6 +4,7 @@
   "description": "Practice talking out loud.",
   "homepage": "https://tryvibecoach.com",
   "docs": "https://tryvibecoach.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vibecoach": {

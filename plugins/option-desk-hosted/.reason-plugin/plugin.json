@@ -4,6 +4,7 @@
   "description": "Analyze option-chain data.",
   "homepage": "https://optiondesk.avidquant.com",
   "docs": "https://optiondesk.avidquant.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "option-desk-hosted": {

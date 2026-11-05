@@ -4,6 +4,7 @@
   "description": "Secure AI Data Workspace.",
   "homepage": "https://marcopolo.dev",
   "docs": "https://marcopolo.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "marcopolo": {

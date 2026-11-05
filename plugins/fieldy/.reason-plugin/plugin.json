@@ -4,6 +4,7 @@
   "description": "Recall Fieldy conversations.",
   "homepage": "https://fieldy.ai",
   "docs": "https://api.fieldy.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fieldy": {

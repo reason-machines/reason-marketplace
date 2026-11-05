@@ -4,6 +4,7 @@
   "description": "LinkedIn research and outreach.",
   "homepage": "https://app.linkmcp.io",
   "docs": "https://app.linkmcp.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "linkmcp": {

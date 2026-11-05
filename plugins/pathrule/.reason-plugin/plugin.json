@@ -4,6 +4,7 @@
   "description": "Project memory, rules, skills.",
   "homepage": "https://pathrule.io",
   "docs": "https://pathrule.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pathrule": {

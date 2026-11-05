@@ -4,6 +4,7 @@
   "description": "Evaluate candidate features.",
   "homepage": "https://mlreferee.com",
   "docs": "https://mlreferee.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ml-referee": {

@@ -4,6 +4,7 @@
   "description": "Retirement projections.",
   "homepage": "https://retirementlab.app",
   "docs": "https://retirementlab.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "retirement-lab": {

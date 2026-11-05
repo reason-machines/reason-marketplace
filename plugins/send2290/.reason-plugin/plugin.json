@@ -4,6 +4,7 @@
   "description": "Form 2290 truck tax answers.",
   "homepage": "https://send2290.com",
   "docs": "https://send2290.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "send2290": {

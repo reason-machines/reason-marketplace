@@ -4,6 +4,7 @@
   "description": "Create greetings and cards.",
   "homepage": "https://generategreetings.com/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.generategreetings/greetings",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "generate-greetings": {

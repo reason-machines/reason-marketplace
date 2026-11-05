@@ -4,6 +4,7 @@
   "description": "Legislative monitoring data.",
   "homepage": "https://parvel.com",
   "docs": "https://parvel.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "parvel": {

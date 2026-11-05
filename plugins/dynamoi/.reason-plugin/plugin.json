@@ -4,6 +4,7 @@
   "description": "Music promotion & distribution.",
   "homepage": "https://dynamoi.com",
   "docs": "https://dynamoi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dynamoi": {

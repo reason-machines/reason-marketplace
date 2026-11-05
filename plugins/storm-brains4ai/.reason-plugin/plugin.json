@@ -4,6 +4,7 @@
   "description": "Automate AI workflows safely.",
   "homepage": "https://getbrains4ai.com",
   "docs": "https://getbrains4ai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "storm-brains4ai": {

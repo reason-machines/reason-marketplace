@@ -4,6 +4,7 @@
   "description": "Track net worth & spot trends.",
   "homepage": "https://www.kubera.com/",
   "docs": "https://help.kubera.com/article/167-kubera-mcp-config",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kubera": {

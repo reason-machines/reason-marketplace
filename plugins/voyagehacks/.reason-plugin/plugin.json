@@ -4,6 +4,7 @@
   "description": "Travel guides and trip ideas.",
   "homepage": "https://voyagehacks.com/",
   "docs": "https://voyagehacks.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "voyagehacks": {

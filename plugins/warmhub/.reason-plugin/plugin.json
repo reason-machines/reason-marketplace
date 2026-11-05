@@ -4,6 +4,7 @@
   "description": "Work with knowledge graphs.",
   "homepage": "https://warmhub.ai/",
   "docs": "https://warmhub.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "warmhub": {

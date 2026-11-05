@@ -4,6 +4,7 @@
   "description": "Trouvez votre coworking.",
   "homepage": "https://comparatifcoworking.com/",
   "docs": "https://comparatifcoworking.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "comparatif-coworking": {

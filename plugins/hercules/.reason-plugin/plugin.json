@@ -4,6 +4,7 @@
   "description": "Build apps and websites.",
   "homepage": "https://hercules.app",
   "docs": "https://hercules.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hercules": {

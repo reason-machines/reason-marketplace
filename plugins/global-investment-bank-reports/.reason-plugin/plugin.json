@@ -4,6 +4,7 @@
   "description": "Equity research with sources.",
   "homepage": "https://www.reportgem.com",
   "docs": "https://www.reportgem.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "global-investment-bank-reports": {

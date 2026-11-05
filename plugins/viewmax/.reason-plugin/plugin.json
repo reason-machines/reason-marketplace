@@ -4,6 +4,7 @@
   "description": "Create video, images and audio.",
   "homepage": "https://viewmax.studio",
   "docs": "https://viewmax.studio/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "viewmax": {

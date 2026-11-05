@@ -4,6 +4,7 @@
   "description": "Saju-based self-reflection.",
   "homepage": "https://kfortune.co",
   "docs": "https://kfortune.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "k-fortune": {

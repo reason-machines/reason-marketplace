@@ -4,6 +4,7 @@
   "description": "Run 24/7 live streams.",
   "homepage": "https://playout.video",
   "docs": "https://playout.video/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "playout-video": {

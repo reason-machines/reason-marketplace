@@ -4,6 +4,7 @@
   "description": "Manage your BHPH dealership.",
   "homepage": "https://www.leftlanesoftware.com/",
   "docs": "https://www.leftlanesoftware.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leftlane": {

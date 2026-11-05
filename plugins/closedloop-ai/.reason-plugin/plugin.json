@@ -4,6 +4,7 @@
   "description": "Know what to build next.",
   "homepage": "https://closedloop.sh",
   "docs": "https://closedloop.sh",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "closedloop-ai": {

@@ -4,6 +4,7 @@
   "description": "Source match & hire candidates.",
   "homepage": "https://www.talentin.ai",
   "docs": "https://www.talentin.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "talentin-ai": {

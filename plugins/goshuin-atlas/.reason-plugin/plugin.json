@@ -4,6 +4,7 @@
   "description": "Explore Japan's sacred places.",
   "homepage": "https://goshuin.com/",
   "docs": "https://goshuin.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "goshuin-atlas": {

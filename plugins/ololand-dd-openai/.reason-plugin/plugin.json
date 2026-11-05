@@ -4,6 +4,7 @@
   "description": "Institutional due diligence.",
   "homepage": "https://ololand.ai",
   "docs": "https://api.ololand.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ololand-dd-openai": {

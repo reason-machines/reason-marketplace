@@ -4,6 +4,7 @@
   "description": "Work with your user research.",
   "homepage": "https://www.reos.ai",
   "docs": "https://www.reos.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reos": {

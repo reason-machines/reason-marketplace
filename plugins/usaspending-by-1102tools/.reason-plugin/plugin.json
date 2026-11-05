@@ -4,6 +4,7 @@
   "description": "Explore federal spending.",
   "homepage": "https://1102tools.com",
   "docs": "https://1102tools.com/mcp/usaspending",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "usaspending-by-1102tools": {

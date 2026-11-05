@@ -4,6 +4,7 @@
   "description": "Ask your marketing data.",
   "homepage": "https://www.dataslayer.ai/",
   "docs": "https://www.dataslayer.ai/",
+  "logo": "logo.webp",
   "auth": "api_key",
   "mcpServers": {
     "dataslayer": {

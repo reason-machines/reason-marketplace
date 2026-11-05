@@ -4,6 +4,7 @@
   "description": "Engineering take-homes.",
   "homepage": "https://hunr.ai",
   "docs": "https://hunr.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hunr": {

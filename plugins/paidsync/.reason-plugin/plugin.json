@@ -4,6 +4,7 @@
   "description": "Run Google Ads, Meta, LinkedIn.",
   "homepage": "https://paidsync.ai/",
   "docs": "https://paidsync.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "paidsync": {

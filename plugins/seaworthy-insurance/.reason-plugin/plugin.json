@@ -4,6 +4,7 @@
   "description": "Disability insurance estimates.",
   "homepage": "https://seaworthy.io",
   "docs": "https://seaworthy.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "seaworthy-insurance": {

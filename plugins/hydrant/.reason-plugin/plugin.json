@@ -4,6 +4,7 @@
   "description": "Track issues with your agent.",
   "homepage": "https://hydrant.dev",
   "docs": "https://hydrant.dev/help/agents/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hydrant": {

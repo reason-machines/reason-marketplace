@@ -4,6 +4,7 @@
   "description": "Your AI assistant on WhatsApp.",
   "homepage": "https://www.perisclaw.com",
   "docs": "https://api.perisclaw.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "perisclaw": {

@@ -4,6 +4,7 @@
   "description": "Garage floor coating math.",
   "homepage": "https://garageresin.com/",
   "docs": "https://garageresin.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "garage-floor-epoxy-calculator": {

@@ -4,6 +4,7 @@
   "description": "Play and create crosswords.",
   "homepage": "https://gridgenius.app/mcp",
   "docs": "https://gridgenius.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "grid-genius": {

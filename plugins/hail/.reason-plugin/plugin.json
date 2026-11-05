@@ -4,6 +4,7 @@
   "description": "Assess a team's AI Fluency.",
   "homepage": "https://heroleague.ai",
   "docs": "https://heroleague.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hail": {

@@ -4,6 +4,7 @@
   "description": "Track your gym, plan workouts.",
   "homepage": "https://crosshero.com",
   "docs": "https://crosshero.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "crosshero": {

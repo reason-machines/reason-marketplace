@@ -4,6 +4,7 @@
   "description": "Track containers and shipments.",
   "homepage": "https://www.terminal49.com",
   "docs": "https://www.terminal49.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "terminal49": {

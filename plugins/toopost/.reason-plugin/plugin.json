@@ -4,6 +4,7 @@
   "description": "Insights from trusted sources.",
   "homepage": "https://toopost.us",
   "docs": "https://toopost.us",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "toopost": {

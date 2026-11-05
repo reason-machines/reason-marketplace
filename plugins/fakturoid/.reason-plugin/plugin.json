@@ -4,6 +4,7 @@
   "description": "Online invoicing.",
   "homepage": "https://www.fakturoid.cz",
   "docs": "https://www.aifirst.cz/pruvodce/fakturoid-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fakturoid": {

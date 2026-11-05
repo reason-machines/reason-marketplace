@@ -4,6 +4,7 @@
   "description": "Plan and organize your trips.",
   "homepage": "https://tripsy.app",
   "docs": "https://tripsy.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tripsy": {

@@ -4,6 +4,7 @@
   "description": "Forecasts tailored to you.",
   "homepage": "https://windbornesystems.com/",
   "docs": "https://windbornesystems.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "weather-by-windborne": {

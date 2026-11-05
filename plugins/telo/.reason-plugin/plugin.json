@@ -4,6 +4,7 @@
   "description": "Explore your Apple Health.",
   "homepage": "https://telo.health",
   "docs": "https://telo.health",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "telo": {

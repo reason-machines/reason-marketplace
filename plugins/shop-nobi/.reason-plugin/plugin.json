@@ -4,6 +4,7 @@
   "description": "Find and compare products.",
   "homepage": "https://nobi.ai/shop",
   "docs": "https://nobi.ai/shop/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "shop-nobi": {

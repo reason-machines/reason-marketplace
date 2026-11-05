@@ -4,6 +4,7 @@
   "description": "E-signatures for developers.",
   "homepage": "https://signatureapi.com",
   "docs": "https://signatureapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "signatureapi": {

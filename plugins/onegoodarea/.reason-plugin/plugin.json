@@ -4,6 +4,7 @@
   "description": "Neighbourhood facts and scores.",
   "homepage": "https://onegoodarea.com/docs/mcp",
   "docs": "https://onegoodarea.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "onegoodarea": {

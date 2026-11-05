@@ -4,6 +4,7 @@
   "description": "Photo fraud signals for claims.",
   "homepage": "https://rial.io",
   "docs": "https://rial.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rial-verify": {

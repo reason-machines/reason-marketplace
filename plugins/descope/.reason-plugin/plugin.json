@@ -4,6 +4,7 @@
   "description": "Add auth to your apps and MCPs.",
   "homepage": "https://www.descope.com",
   "docs": "https://www.descope.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "descope": {

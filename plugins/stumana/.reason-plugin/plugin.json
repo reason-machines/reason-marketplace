@@ -4,6 +4,7 @@
   "description": "Student management.",
   "homepage": "https://stumana.com",
   "docs": "https://stumana.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stumana": {

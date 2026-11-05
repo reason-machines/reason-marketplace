@@ -4,6 +4,7 @@
   "description": "Explore federal regulations.",
   "homepage": "https://1102tools.com",
   "docs": "https://1102tools.com/mcp/ecfr",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ecfr-by-1102tools": {

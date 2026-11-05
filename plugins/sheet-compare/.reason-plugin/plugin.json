@@ -4,6 +4,7 @@
   "description": "Compare two spreadsheets.",
   "homepage": "https://sheet-compare.zovo.one",
   "docs": "https://sheet-compare.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sheet-compare": {

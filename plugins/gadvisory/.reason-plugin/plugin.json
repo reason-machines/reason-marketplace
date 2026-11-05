@@ -4,6 +4,7 @@
   "description": "Manage security advisories.",
   "homepage": "https://gadvisory.org",
   "docs": "https://gadvisory.org",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gadvisory": {

@@ -4,6 +4,7 @@
   "description": "UK House and Flat Valuation.",
   "homepage": "https://www.mcpbundles.com/mcp-apps/uk-property-intelligence",
   "docs": "https://www.mcpbundles.com/mcp-apps/uk-property-intelligence",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "uk-property-valuation": {

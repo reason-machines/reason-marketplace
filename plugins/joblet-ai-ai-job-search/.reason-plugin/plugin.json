@@ -4,6 +4,7 @@
   "description": "Let AI find you the right job.",
   "homepage": "https://joblet.ai",
   "docs": "https://joblet.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "joblet-ai-ai-job-search": {

@@ -4,6 +4,7 @@
   "description": "Search and cite your case file.",
   "homepage": "https://app.mayorshall.com",
   "docs": "https://app.mayorshall.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "may-or-shall": {

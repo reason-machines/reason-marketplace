@@ -4,6 +4,7 @@
   "description": "Navigate video by timecode.",
   "homepage": "https://getsquish.app",
   "docs": "https://getsquish.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "squish": {

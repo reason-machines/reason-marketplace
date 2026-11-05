@@ -4,6 +4,7 @@
   "description": "Manage tasks and workspaces.",
   "homepage": "https://nowgetitdone.com/",
   "docs": "https://nowgetitdone.com/agent-setup/claude-code",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getitdone": {

@@ -4,6 +4,7 @@
   "description": "Your AI marketing teammate.",
   "homepage": "https://supercurve.ai",
   "docs": "https://supercurve.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "supercurve": {

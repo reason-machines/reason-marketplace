@@ -4,6 +4,7 @@
   "description": "Hear and make AI songs.",
   "homepage": "https://www.songupai.com",
   "docs": "https://www.songupai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "songup-ai": {

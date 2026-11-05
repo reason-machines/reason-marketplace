@@ -4,6 +4,7 @@
   "description": "Learn AI and data skills.",
   "homepage": "https://datacamp.com",
   "docs": "https://datacamp.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "datacamp": {

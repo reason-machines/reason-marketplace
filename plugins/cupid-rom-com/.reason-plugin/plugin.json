@@ -4,6 +4,7 @@
   "description": "Play matchmaker in a rom-com.",
   "homepage": "https://playfulscience.ai",
   "docs": "https://cupid-mcp.playfulscience.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cupid-rom-com": {

@@ -4,6 +4,7 @@
   "description": "Find and book a table.",
   "homepage": "https://table12.com",
   "docs": "https://table12.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "table12": {

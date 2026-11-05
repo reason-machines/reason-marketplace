@@ -4,6 +4,7 @@
   "description": "AI presentations from a prompt.",
   "homepage": "https://slidespeak.co/",
   "docs": "https://slidespeak.co/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "slidespeak": {

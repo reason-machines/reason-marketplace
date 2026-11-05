@@ -4,6 +4,7 @@
   "description": "Search U.S. property data.",
   "homepage": "https://www.propertyradar.com/features/api",
   "docs": "https://www.propertyradar.com/features/api",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "propertyradar": {

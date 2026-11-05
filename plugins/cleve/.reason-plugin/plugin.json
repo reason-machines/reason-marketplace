@@ -4,6 +4,7 @@
   "description": "Search and edit Cleve notes.",
   "homepage": "https://cleve.ai",
   "docs": "https://cleve.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cleve": {

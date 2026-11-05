@@ -4,6 +4,7 @@
   "description": "Insights for plugin makers.",
   "homepage": "https://pluginsradar.com",
   "docs": "https://pluginsradar.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "plugins-radar": {

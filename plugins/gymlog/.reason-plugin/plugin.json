@@ -4,6 +4,7 @@
   "description": "Health & Fitness.",
   "homepage": "https://gymlog.dmdrll.com/",
   "docs": "https://gymlog.dmdrll.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gymlog": {

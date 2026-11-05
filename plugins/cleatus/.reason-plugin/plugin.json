@@ -4,6 +4,7 @@
   "description": "AI for Government Contracting.",
   "homepage": "https://www.cleat.ai/",
   "docs": "https://www.cleat.ai/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cleatus": {

@@ -4,6 +4,7 @@
   "description": "Find IT jobs worldwide.",
   "homepage": "https://www.iitjobs.com",
   "docs": "https://www.iitjobs.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "iitjobs": {

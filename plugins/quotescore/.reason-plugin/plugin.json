@@ -4,6 +4,7 @@
   "description": "Check repair quote pricing.",
   "homepage": "https://quotescore.ai",
   "docs": "https://quotescore.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "quotescore": {

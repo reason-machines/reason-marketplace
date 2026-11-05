@@ -4,6 +4,7 @@
   "description": "Find and book vacation rentals.",
   "homepage": "https://kismet.travel",
   "docs": "https://kismet.travel",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kismet": {

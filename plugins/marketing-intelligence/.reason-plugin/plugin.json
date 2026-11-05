@@ -4,6 +4,7 @@
   "description": "Search marketing examples.",
   "homepage": "https://www.enrichlabs.ai",
   "docs": "https://www.enrichlabs.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "marketing-intelligence": {

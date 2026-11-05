@@ -4,6 +4,7 @@
   "description": "Find real estate with AI.",
   "homepage": "https://cubi.estate",
   "docs": "https://cubi.estate",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cubi-estate": {

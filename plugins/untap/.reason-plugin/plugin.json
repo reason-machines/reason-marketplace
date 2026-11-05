@@ -4,6 +4,7 @@
   "description": "UK refunds you are owed.",
   "homepage": "https://untap.money/connect",
   "docs": "https://untap.money/connect",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "untap": {

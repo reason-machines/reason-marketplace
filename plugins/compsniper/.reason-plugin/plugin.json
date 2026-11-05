@@ -4,6 +4,7 @@
   "description": "Real eBay sold prices.",
   "homepage": "https://compsniper.com",
   "docs": "https://compsniper.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "compsniper": {

@@ -4,6 +4,7 @@
   "description": "Read and compare lab documents.",
   "homepage": "https://glow-app.taskchad.com",
   "docs": "https://glow-app.taskchad.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "glow-research-docs": {

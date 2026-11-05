@@ -4,6 +4,7 @@
   "description": "US import duty and HTS codes.",
   "homepage": "https://gatewaylines.com",
   "docs": "https://gatewaylines.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gateway-tariff-calculator": {

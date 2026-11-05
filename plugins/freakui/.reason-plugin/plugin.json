@@ -4,6 +4,7 @@
   "description": "Native Apple apps with FreakUI.",
   "homepage": "https://www.freakui.com/",
   "docs": "https://www.freakui.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "freakui": {

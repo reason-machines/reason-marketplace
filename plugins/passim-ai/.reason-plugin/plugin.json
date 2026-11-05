@@ -4,6 +4,7 @@
   "description": "U.S. immigration law research.",
   "homepage": "https://passimai.com",
   "docs": "https://passimai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "passim-ai": {

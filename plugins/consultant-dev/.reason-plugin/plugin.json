@@ -4,6 +4,7 @@
   "description": "Find consultant assignments.",
   "homepage": "https://consultant.dev",
   "docs": "https://consultant.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "consultant-dev": {

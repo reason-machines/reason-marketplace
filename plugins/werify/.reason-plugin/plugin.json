@@ -4,6 +4,7 @@
   "description": "Your WhatsApp archive.",
   "homepage": "https://werify.app",
   "docs": "https://werify.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "werify": {

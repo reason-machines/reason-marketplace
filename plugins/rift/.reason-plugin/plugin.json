@@ -4,6 +4,7 @@
   "description": "Market insights and education.",
   "homepage": "https://rift.ai",
   "docs": "https://rift.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rift": {

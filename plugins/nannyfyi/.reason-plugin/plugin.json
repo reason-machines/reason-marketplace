@@ -4,6 +4,7 @@
   "description": "Find and vet caregivers.",
   "homepage": "https://nanny.fyi",
   "docs": "https://nanny.fyi/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nannyfyi": {

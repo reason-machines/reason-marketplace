@@ -4,6 +4,7 @@
   "description": "Costumes from your closet.",
   "homepage": "https://pickmycostume.com",
   "docs": "https://pickmycostume.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pick-my-costume": {

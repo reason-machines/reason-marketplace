@@ -4,6 +4,7 @@
   "description": "Track fresh produce shipments.",
   "homepage": "https://trackberry.com",
   "docs": "https://trackberry.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trackberry": {

@@ -4,6 +4,7 @@
   "description": "Artisans BTP & Dépannage.",
   "homepage": "https://services.nicehub.app",
   "docs": "https://services.nicehub.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nicehub-services": {

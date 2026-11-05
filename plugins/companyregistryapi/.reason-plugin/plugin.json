@@ -4,6 +4,7 @@
   "description": "Find Company Data.",
   "homepage": "https://companyregistryapi.com",
   "docs": "https://companyregistryapi.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "companyregistryapi": {

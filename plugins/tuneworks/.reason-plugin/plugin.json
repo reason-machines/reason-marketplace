@@ -4,6 +4,7 @@
   "description": "Performance car data & tools.",
   "homepage": "https://tuneworks.ai/",
   "docs": "https://tuneworks.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tuneworks": {

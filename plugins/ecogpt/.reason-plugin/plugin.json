@@ -4,6 +4,7 @@
   "description": "AI's footprint, with sources.",
   "homepage": "https://ecogpt.com",
   "docs": "https://ecogpt.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ecogpt": {

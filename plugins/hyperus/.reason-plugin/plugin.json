@@ -4,6 +4,7 @@
   "description": "Analyze your factory data.",
   "homepage": "https://hyperus.com.br",
   "docs": "https://hyperus.com.br",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hyperus": {

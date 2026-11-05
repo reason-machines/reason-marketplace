@@ -4,6 +4,7 @@
   "description": "Generate UI theme previews.",
   "homepage": "https://themeemporium.live",
   "docs": "https://themeemporium.live",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "theme-emporium": {

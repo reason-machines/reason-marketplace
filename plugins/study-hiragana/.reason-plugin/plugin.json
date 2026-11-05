@@ -4,6 +4,7 @@
   "description": "Learn to write kana & kanji.",
   "homepage": "https://studyhiragana.com",
   "docs": "https://studyhiragana.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "study-hiragana": {

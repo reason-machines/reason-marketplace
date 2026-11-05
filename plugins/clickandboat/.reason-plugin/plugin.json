@@ -4,6 +4,7 @@
   "description": "Find and book boat rentals.",
   "homepage": "https://www.clickandboat.com",
   "docs": "https://clickandboat.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clickandboat": {

@@ -4,6 +4,7 @@
   "description": "Manage your work in Continuum.",
   "homepage": "https://oncontinuum.com",
   "docs": "https://oncontinuum.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "continuum": {

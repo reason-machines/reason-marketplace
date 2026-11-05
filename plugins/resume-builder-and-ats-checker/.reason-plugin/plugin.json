@@ -4,6 +4,7 @@
   "description": "CV checker & job tailoring.",
   "homepage": "https://resumenext.io",
   "docs": "https://resumenext.io/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "resume-builder-and-ats-checker": {

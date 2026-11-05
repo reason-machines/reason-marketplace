@@ -4,6 +4,7 @@
   "description": "Legal data layer for AI tools.",
   "homepage": "https://lawstronaut.com",
   "docs": "https://lawstronaut.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lawstronaut": {

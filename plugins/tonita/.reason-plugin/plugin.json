@@ -4,6 +4,7 @@
   "description": "Shopping Search and Discovery.",
   "homepage": "https://tonita.co/",
   "docs": "https://tonita.co/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tonita": {

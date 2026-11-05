@@ -4,6 +4,7 @@
   "description": "Legal research with sources.",
   "homepage": "https://simpliciter.ai",
   "docs": "https://simpliciter.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simpliciter-ai": {

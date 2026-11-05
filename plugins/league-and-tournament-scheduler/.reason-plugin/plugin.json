@@ -4,6 +4,7 @@
   "description": "Schedule leagues & tournaments.",
   "homepage": "https://seasonsolver.com",
   "docs": "https://seasonsolver.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "league-and-tournament-scheduler": {

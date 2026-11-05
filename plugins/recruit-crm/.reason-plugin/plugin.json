@@ -4,6 +4,7 @@
   "description": "ATS & CRM insights to action.",
   "homepage": "https://recruitcrm.io",
   "docs": "https://recruitcrm.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "recruit-crm": {

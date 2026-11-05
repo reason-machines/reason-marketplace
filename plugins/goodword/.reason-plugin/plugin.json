@@ -4,6 +4,7 @@
   "description": "Search and manage your network.",
   "homepage": "https://goodword.com",
   "docs": "https://goodword.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "goodword": {

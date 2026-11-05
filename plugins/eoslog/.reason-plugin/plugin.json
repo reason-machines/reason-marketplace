@@ -4,6 +4,7 @@
   "description": "Quotes, invoices and pricing.",
   "homepage": "https://eoslog.com",
   "docs": "https://eoslog.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eoslog": {

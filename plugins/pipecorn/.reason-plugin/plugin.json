@@ -4,6 +4,7 @@
   "description": "B2B sales intelligence.",
   "homepage": "https://pipecorn.com/",
   "docs": "https://pipecorn.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pipecorn": {

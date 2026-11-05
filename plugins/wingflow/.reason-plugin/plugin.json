@@ -4,6 +4,7 @@
   "description": "LinkedIn outreach stats.",
   "homepage": "https://wingflow.ai",
   "docs": "https://wingflow.ai/connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wingflow": {

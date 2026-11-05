@@ -4,6 +4,7 @@
   "description": "Australian tours & day trips.",
   "homepage": "https://www.travstar.com/use-with-ai",
   "docs": "https://travstar.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "travstar": {

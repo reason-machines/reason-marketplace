@@ -4,6 +4,7 @@
   "description": "Find local trades and services.",
   "homepage": "https://finder-marketing.se/ai",
   "docs": "https://finder-marketing.se/ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "finder-local-services": {

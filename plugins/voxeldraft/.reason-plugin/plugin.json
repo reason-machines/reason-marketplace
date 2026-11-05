@@ -4,6 +4,7 @@
   "description": "Create and export voxel art.",
   "homepage": "https://voxeldraft.com",
   "docs": "https://voxeldraft.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voxeldraft": {

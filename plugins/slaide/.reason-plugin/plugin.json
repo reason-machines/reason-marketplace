@@ -4,6 +4,7 @@
   "description": "PowerPoint AI slides generator.",
   "homepage": "https://www.slaide.de",
   "docs": "https://slaide.de/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "slaide": {

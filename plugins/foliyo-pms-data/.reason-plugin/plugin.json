@@ -4,6 +4,7 @@
   "description": "Indian PMS scheme returns.",
   "homepage": "https://foliyo.ai",
   "docs": "https://foliyo.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "foliyo-pms-data": {

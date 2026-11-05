@@ -4,6 +4,7 @@
   "description": "Sites, apps, shops & bookings.",
   "homepage": "https://www.websitepublisher.ai",
   "docs": "https://www.websitepublisher.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "websitepublisher": {

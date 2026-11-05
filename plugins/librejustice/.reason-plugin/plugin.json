@@ -4,6 +4,7 @@
   "description": "Case law and legal texts.",
   "homepage": "https://librejustice.fr",
   "docs": "https://librejustice.fr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "librejustice": {

@@ -4,6 +4,7 @@
   "description": "Save notes and use in any chat.",
   "homepage": "https://notemcp.com",
   "docs": "https://notemcp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notem": {

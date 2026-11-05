@@ -4,6 +4,7 @@
   "description": "SEO research tools.",
   "homepage": "https://ubersuggest.com",
   "docs": "https://neilpatel.com/blog/ubersuggest-mcp-connector-guide/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ubersuggest": {

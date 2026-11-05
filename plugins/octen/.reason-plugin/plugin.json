@@ -4,6 +4,7 @@
   "description": "Live web search & extraction.",
   "homepage": "https://octen.ai/",
   "docs": "https://octen.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "octen": {

@@ -4,6 +4,7 @@
   "description": "Find your next local coach.",
   "homepage": "https://teachme.to",
   "docs": "https://teachme.to/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "teachmeto": {

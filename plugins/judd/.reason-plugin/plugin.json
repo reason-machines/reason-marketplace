@@ -4,6 +4,7 @@
   "description": "Your buyer's advocate.",
   "homepage": "https://flowinfo.co/judd",
   "docs": "https://flowinfo.co/judd",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "judd": {

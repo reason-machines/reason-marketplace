@@ -4,6 +4,7 @@
   "description": "Send real letters by USPS.",
   "homepage": "https://paperagent.dev",
   "docs": "https://paperagent.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "paperagent": {

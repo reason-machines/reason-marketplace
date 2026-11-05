@@ -4,6 +4,7 @@
   "description": "Review email workspace data.",
   "homepage": "https://emailr.dev",
   "docs": "https://emailr.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "emailr": {

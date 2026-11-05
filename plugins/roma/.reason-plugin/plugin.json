@@ -4,6 +4,7 @@
   "description": "Your AI's favorite to-do list.",
   "homepage": "https://roma.app",
   "docs": "https://roma.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "roma": {

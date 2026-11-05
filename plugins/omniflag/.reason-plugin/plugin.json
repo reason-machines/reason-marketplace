@@ -4,6 +4,7 @@
   "description": "Income tax and country matches.",
   "homepage": "https://omniflag.app",
   "docs": "https://omniflag.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "omniflag": {

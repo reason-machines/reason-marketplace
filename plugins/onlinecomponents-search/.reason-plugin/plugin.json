@@ -4,6 +4,7 @@
   "description": "OnlineComponents Live Search.",
   "homepage": "https://www.onlinecomponents.com/en/",
   "docs": "https://www.onlinecomponents.com/en/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "onlinecomponents-search": {

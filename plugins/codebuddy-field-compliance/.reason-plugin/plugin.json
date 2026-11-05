@@ -4,6 +4,7 @@
   "description": "Electrical code calculators.",
   "homepage": "https://codebuddy.chat",
   "docs": "https://codebuddy.chat",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "codebuddy-field-compliance": {

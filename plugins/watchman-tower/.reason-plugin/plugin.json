@@ -4,6 +4,7 @@
   "description": "Website and server monitoring.",
   "homepage": "https://watchmantower.com",
   "docs": "https://watchmantower.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "watchman-tower": {

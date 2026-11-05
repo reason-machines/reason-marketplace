@@ -4,6 +4,7 @@
   "description": "GoMining costs and scenarios.",
   "homepage": "https://flywheeldayone.com/ai-calculator/",
   "docs": "https://flywheeldayone.com/ai-calculator/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "flywheel-gomining-calculator": {

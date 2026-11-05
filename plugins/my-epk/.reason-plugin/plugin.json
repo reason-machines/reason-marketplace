@@ -4,6 +4,7 @@
   "description": "Build and share your press kit.",
   "homepage": "https://my-epk.com",
   "docs": "https://my-epk.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "my-epk": {

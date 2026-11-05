@@ -4,6 +4,7 @@
   "description": "Turn anything into mind maps.",
   "homepage": "https://mapify.so",
   "docs": "https://mapify.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mapify": {

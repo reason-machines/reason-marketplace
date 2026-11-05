@@ -4,6 +4,7 @@
   "description": "Convert live currencies.",
   "homepage": "https://www.xe.com/",
   "docs": "https://tedix.dev/apps/xe-currency-converter/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "xe-currency-converter": {

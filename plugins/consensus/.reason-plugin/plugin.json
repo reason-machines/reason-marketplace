@@ -4,6 +4,7 @@
   "description": "Search peer-reviewed research.",
   "homepage": "https://consensus.app/",
   "docs": "https://consensus.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "consensus": {

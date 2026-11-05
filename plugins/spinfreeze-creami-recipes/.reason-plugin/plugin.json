@@ -4,6 +4,7 @@
   "description": "Recipes for CREAMi, macros.",
   "homepage": "https://spinfreeze.com",
   "docs": "https://spinfreeze.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spinfreeze-creami-recipes": {

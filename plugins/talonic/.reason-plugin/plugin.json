@@ -4,6 +4,7 @@
   "description": "Extract data and talk to docs.",
   "homepage": "https://talonic.com/",
   "docs": "https://talonic.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "talonic": {

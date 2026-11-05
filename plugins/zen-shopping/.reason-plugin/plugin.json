@@ -4,6 +4,7 @@
   "description": "Smart shopping, all stores.",
   "homepage": "https://seekist.ai/#/product/gpt-shopping",
   "docs": "https://seekist.ai/#/product/gpt-shopping",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "zen-shopping": {

@@ -4,6 +4,7 @@
   "description": "Search and buy domain name.",
   "homepage": "https://justdomain.ai",
   "docs": "https://justdomain.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "just-domain": {

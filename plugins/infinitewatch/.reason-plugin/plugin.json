@@ -4,6 +4,7 @@
   "description": "Operations observability.",
   "homepage": "https://infinitewatch.ai/",
   "docs": "https://infinitewatch.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "infinitewatch": {

@@ -4,6 +4,7 @@
   "description": "mTOR research with evidence.",
   "homepage": "https://mtor-atlas.org",
   "docs": "https://mtor-atlas.org/api/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mtor-atlas": {

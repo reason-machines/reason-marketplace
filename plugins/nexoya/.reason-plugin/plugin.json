@@ -4,6 +4,7 @@
   "description": "Marketing analytics.",
   "homepage": "https://www.nexoya.com",
   "docs": "https://www.nexoya.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nexoya": {

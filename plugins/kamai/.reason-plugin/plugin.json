@@ -4,6 +4,7 @@
   "description": "Construction Blueprint AI.",
   "homepage": "https://kamai.io",
   "docs": "https://kamai.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kamai": {

@@ -4,6 +4,7 @@
   "description": "Show up in AI search.",
   "homepage": "https://www.usenotra.com",
   "docs": "https://www.usenotra.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notra": {

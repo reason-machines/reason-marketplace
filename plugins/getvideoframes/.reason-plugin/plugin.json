@@ -4,6 +4,7 @@
   "description": "Extract public video frames.",
   "homepage": "https://getvideoframes.com",
   "docs": "https://getvideoframes.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "getvideoframes": {

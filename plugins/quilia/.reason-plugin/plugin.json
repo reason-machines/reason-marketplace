@@ -4,6 +4,7 @@
   "description": "AI Case Manager.",
   "homepage": "https://www.quilia.com",
   "docs": "https://www.quilia.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quilia": {

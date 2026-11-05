@@ -4,6 +4,7 @@
   "description": "Ask questions, build data apps.",
   "homepage": "https://www.supersimple.io",
   "docs": "https://docs.supersimple.io/integrations/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "supersimple": {

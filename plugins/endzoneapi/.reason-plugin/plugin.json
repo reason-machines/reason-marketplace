@@ -4,6 +4,7 @@
   "description": "NFL football data and stats.",
   "homepage": "https://endzoneapi.com",
   "docs": "https://endzoneapi.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "endzoneapi": {

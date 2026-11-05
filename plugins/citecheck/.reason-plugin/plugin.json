@@ -4,6 +4,7 @@
   "description": "Check citation, find authority.",
   "homepage": "https://objectionacademy.com/",
   "docs": "https://objectionacademy.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "citecheck": {

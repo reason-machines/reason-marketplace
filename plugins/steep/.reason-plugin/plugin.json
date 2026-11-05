@@ -4,6 +4,7 @@
   "description": "Query Steep workspace data.",
   "homepage": "https://steep.app/",
   "docs": "https://steep.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "steep": {

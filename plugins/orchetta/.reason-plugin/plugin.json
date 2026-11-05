@@ -4,6 +4,7 @@
   "description": "Work on your customer journeys.",
   "homepage": "https://orchetta.com",
   "docs": "https://orchetta.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orchetta": {

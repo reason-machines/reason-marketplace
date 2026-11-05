@@ -4,6 +4,7 @@
   "description": "Build and publish forms.",
   "homepage": "https://fillo.so",
   "docs": "https://fillo.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fillo": {

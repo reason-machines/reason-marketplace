@@ -4,6 +4,7 @@
   "description": "Create and share Markdown docs.",
   "homepage": "https://mdedit.ai",
   "docs": "https://mdedit.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "markdown-by-mdedit-ai": {

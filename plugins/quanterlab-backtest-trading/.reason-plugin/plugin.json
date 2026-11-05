@@ -4,6 +4,7 @@
   "description": "Backtest stock strategies.",
   "homepage": "https://quanterlab.com",
   "docs": "https://quanterlab.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quanterlab-backtest-trading": {

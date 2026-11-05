@@ -4,6 +4,7 @@
   "description": "Manage company email signature.",
   "homepage": "https://www.scribe-mail.com",
   "docs": "https://www.scribe-mail.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scribe": {

@@ -4,6 +4,7 @@
   "description": "Work Assistant.",
   "homepage": "https://meeting.ai",
   "docs": "https://meeting.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meeting-ai": {

@@ -4,6 +4,7 @@
   "description": "Prediction market data.",
   "homepage": "https://predictionscan.org/",
   "docs": "https://predictionscan.org/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "predictionscan": {

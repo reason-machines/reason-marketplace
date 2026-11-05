@@ -4,6 +4,7 @@
   "description": "Stock, recipes, and batches.",
   "homepage": "https://yoro.ai/",
   "docs": "https://yoro.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yoro-manufacturing": {

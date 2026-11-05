@@ -4,6 +4,7 @@
   "description": "Improve Commander decklists.",
   "homepage": "https://landfiller.app/ai",
   "docs": "https://landfiller.app/ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mtg-tools": {

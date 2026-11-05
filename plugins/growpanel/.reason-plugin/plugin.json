@@ -4,6 +4,7 @@
   "description": "Subscription analytics.",
   "homepage": "https://growpanel.io",
   "docs": "https://growpanel.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "growpanel": {

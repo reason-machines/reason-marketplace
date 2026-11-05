@@ -4,6 +4,7 @@
   "description": "Nutrition & everyday habits.",
   "homepage": "https://gethealthier.ai",
   "docs": "https://gethealthier.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "healthier": {

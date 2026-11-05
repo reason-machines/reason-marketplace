@@ -4,6 +4,7 @@
   "description": "Find the Best Rates.",
   "homepage": "https://www.monitorbankrates.com/",
   "docs": "https://www.monitorbankrates.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "monitorbankrates": {

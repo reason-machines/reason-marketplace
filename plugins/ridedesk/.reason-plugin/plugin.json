@@ -4,6 +4,7 @@
   "description": "Build transfer booking sites.",
   "homepage": "https://ridedesk.app/developers",
   "docs": "https://ridedesk.app/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ridedesk": {

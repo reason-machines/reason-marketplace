@@ -4,6 +4,7 @@
   "description": "Build new habits & routines.",
   "homepage": "https://habitify.me",
   "docs": "https://habitify.me",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "habitify": {

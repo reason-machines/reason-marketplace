@@ -4,6 +4,7 @@
   "description": "Analyze social listening data.",
   "homepage": "https://www.mentionlytics.com/",
   "docs": "https://www.mentionlytics.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mentionlytics": {

@@ -4,6 +4,7 @@
   "description": "Zacks Trusted Financial Data.",
   "homepage": "https://ai.zacksdata.com",
   "docs": "https://ai.zacksdata.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zacks-financial-data": {

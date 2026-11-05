@@ -4,6 +4,7 @@
   "description": "Create & plan Pinterest Pins.",
   "homepage": "https://tailwindapp.com",
   "docs": "https://tailwindapp.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tailwind": {

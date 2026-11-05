@@ -4,6 +4,7 @@
   "description": "Access your Inkle finance data.",
   "homepage": "https://www.inkle.ai",
   "docs": "https://tedix.dev/apps/inkle/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "inkle": {

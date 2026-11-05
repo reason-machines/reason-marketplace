@@ -4,6 +4,7 @@
   "description": "Verify peptide COA evidence.",
   "homepage": "https://peptideprices.net/developers/coa-api",
   "docs": "https://peptideprices.net/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "peptideprices-coa-verifier": {

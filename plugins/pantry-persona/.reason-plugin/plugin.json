@@ -4,6 +4,7 @@
   "description": "Meal plans, recipes, grocery.",
   "homepage": "https://pantrypersona.com",
   "docs": "https://pantrypersona.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pantry-persona": {

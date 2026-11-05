@@ -4,6 +4,7 @@
   "description": "Track calories and macros.",
   "homepage": "https://simplemacros.com",
   "docs": "https://simplemacros.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simple-macros": {

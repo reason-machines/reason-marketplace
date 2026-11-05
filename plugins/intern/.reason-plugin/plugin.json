@@ -4,6 +4,7 @@
   "description": "Build private team sites.",
   "homepage": "https://tryintern.dev",
   "docs": "https://tryintern.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "intern": {

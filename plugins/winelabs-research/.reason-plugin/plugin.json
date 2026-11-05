@@ -4,6 +4,7 @@
   "description": "Wine market research.",
   "homepage": "https://winelabs.ai/agents",
   "docs": "https://winelabs.ai/agents",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "winelabs-research": {

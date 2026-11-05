@@ -4,6 +4,7 @@
   "description": "Browse videos and save drafts.",
   "homepage": "https://demovela.com",
   "docs": "https://demovela.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "demovela": {

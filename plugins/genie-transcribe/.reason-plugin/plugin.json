@@ -4,6 +4,7 @@
   "description": "Talk to your Transcripts.",
   "homepage": "https://genietranscribe.ai/",
   "docs": "https://genietranscribe.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "genie-transcribe": {

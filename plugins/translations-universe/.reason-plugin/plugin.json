@@ -4,6 +4,7 @@
   "description": "Translation service quotes.",
   "homepage": "https://www.translationsuniverse.com",
   "docs": "https://www.translationsuniverse.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "translations-universe": {

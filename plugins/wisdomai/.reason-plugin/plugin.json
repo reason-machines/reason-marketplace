@@ -4,6 +4,7 @@
   "description": "Answers from data you govern.",
   "homepage": "https://www.wisdom.ai/",
   "docs": "https://www.wisdom.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wisdomai": {

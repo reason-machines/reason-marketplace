@@ -4,6 +4,7 @@
   "description": "Proactive, grounded AI memory.",
   "homepage": "https://substratesystems.io/exomem",
   "docs": "https://exomem.substratesystems.io/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "exomem-cloud": {

@@ -4,6 +4,7 @@
   "description": "Your recipes, saved and shared.",
   "homepage": "https://cookandscale.com",
   "docs": "https://cookandscale.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cook-and-scale": {

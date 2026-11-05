@@ -4,6 +4,7 @@
   "description": "Create presentation slides.",
   "homepage": "https://www.slidesai.io",
   "docs": "https://www.slidesai.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "slidesai": {

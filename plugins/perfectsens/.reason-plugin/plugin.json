@@ -4,6 +4,7 @@
   "description": "FPS sensitivity and aim tests.",
   "homepage": "https://perfectsens.com",
   "docs": "https://perfectsens.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "perfectsens": {

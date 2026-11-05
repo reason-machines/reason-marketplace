@@ -4,6 +4,7 @@
   "description": "Understand your finances.",
   "homepage": "https://finary.com",
   "docs": "https://tedix.dev/apps/finary/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "finary": {

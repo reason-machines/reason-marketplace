@@ -4,6 +4,7 @@
   "description": "Book local home service pros.",
   "homepage": "https://latchbell.com",
   "docs": "https://latchbell.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "latchbell": {

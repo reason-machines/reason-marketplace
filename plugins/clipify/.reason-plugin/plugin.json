@@ -4,6 +4,7 @@
   "description": "Keep your stream alive.",
   "homepage": "https://clipify.us",
   "docs": "https://clipify.us",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clipify": {

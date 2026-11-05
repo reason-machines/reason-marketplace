@@ -4,6 +4,7 @@
   "description": "DNA sequence analysis with AI.",
   "homepage": "https://genomicintelligence.ai",
   "docs": "https://genomicintelligence.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "genomic-intelligence": {

@@ -4,6 +4,7 @@
   "description": "Create and animate game art.",
   "homepage": "https://spritecook.ai",
   "docs": "https://spritecook.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spritecook": {

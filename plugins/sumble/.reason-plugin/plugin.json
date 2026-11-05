@@ -4,6 +4,7 @@
   "description": "Account research for sales.",
   "homepage": "https://sumble.com",
   "docs": "https://sumble.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sumble": {

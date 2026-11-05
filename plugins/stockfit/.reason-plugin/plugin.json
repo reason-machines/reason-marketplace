@@ -4,6 +4,7 @@
   "description": "Financial API you can rely on.",
   "homepage": "https://developer.stockfit.io/",
   "docs": "https://developer.stockfit.io/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stockfit": {

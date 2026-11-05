@@ -4,6 +4,7 @@
   "description": "Cash flow, forecast, budgets.",
   "homepage": "https://finometr.com",
   "docs": "https://finometr.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "finometr": {

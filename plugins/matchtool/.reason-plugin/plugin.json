@@ -4,6 +4,7 @@
   "description": "Find tools for your real task.",
   "homepage": "https://toolmatch.net",
   "docs": "https://toolmatch.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "matchtool": {

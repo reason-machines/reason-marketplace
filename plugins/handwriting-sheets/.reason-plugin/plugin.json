@@ -4,6 +4,7 @@
   "description": "Tracing sheets & lined paper.",
   "homepage": "https://handwriting-sheets.zovo.one",
   "docs": "https://handwriting-sheets.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "handwriting-sheets": {

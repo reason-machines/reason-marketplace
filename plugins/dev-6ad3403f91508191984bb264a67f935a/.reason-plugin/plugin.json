@@ -4,6 +4,7 @@
   "description": "Your personal daily quiz host.",
   "homepage": "https://00quiz.com/",
   "docs": "https://00quiz.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dev-6ad3403f91508191984bb264a67f935a": {

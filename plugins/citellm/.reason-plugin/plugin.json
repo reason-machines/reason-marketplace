@@ -4,6 +4,7 @@
   "description": "Cited answers from your PDFs.",
   "homepage": "https://citellm.com",
   "docs": "https://citellm.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "citellm": {

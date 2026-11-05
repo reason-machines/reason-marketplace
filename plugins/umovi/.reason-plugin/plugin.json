@@ -4,6 +4,7 @@
   "description": "Book services and manage times.",
   "homepage": "https://umovi.app",
   "docs": "https://docs.umovi.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "umovi": {

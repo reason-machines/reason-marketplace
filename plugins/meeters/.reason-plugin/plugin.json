@@ -4,6 +4,7 @@
   "description": "Find group trips.",
   "homepage": "https://www.meeters.org",
   "docs": "https://www.meeters.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "meeters": {

@@ -4,6 +4,7 @@
   "description": "Find jobs matching your needs.",
   "homepage": "https://findyourcareer.io",
   "docs": "https://findyourcareer.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "findyourcareer": {

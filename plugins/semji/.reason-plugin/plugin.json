@@ -4,6 +4,7 @@
   "description": "Plan and score SEO content.",
   "homepage": "https://semji.com",
   "docs": "https://semji.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "semji": {

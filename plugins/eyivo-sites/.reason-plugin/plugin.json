@@ -4,6 +4,7 @@
   "description": "Manage your Eyivo sites.",
   "homepage": "https://eyivo.com/developers/mcp",
   "docs": "https://eyivo.com/developers/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "eyivo-sites": {

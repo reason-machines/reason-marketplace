@@ -4,6 +4,7 @@
   "description": "Custom stickers and labels.",
   "homepage": "https://www.stickers.com",
   "docs": "https://www.stickers.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stickers": {

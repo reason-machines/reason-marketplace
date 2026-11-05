@@ -4,6 +4,7 @@
   "description": "Plan your next flight.",
   "homepage": "https://www.parra-glideator.com",
   "docs": "https://www.parra-glideator.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "parra-glideator": {

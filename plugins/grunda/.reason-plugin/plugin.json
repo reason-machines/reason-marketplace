@@ -4,6 +4,7 @@
   "description": "Signera avtal med BankID.",
   "homepage": "https://grunda.co",
   "docs": "https://grunda.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "grunda": {

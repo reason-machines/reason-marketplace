@@ -4,6 +4,7 @@
   "description": "Write and publish blog posts.",
   "homepage": "https://inblog.ai",
   "docs": "https://inblog.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "inblog": {

@@ -4,6 +4,7 @@
   "description": "Post and reply on social media.",
   "homepage": "https://mallary.ai",
   "docs": "https://mallary.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mallary": {

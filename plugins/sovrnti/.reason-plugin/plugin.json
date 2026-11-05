@@ -4,6 +4,7 @@
   "description": "Sovereign tech benchmarking.",
   "homepage": "https://sovrnti.io/?utm_source=chatgpt-plugin&utm_medium=directory&utm_campaign=everywhere-oct2026",
   "docs": "https://docs.sovrnti.io/mcp/quickstart",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sovrnti": {

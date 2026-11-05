@@ -4,6 +4,7 @@
   "description": "Scripture, prayer, a church.",
   "homepage": "https://living-bread.org",
   "docs": "https://living-bread.org",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the-living-bread": {

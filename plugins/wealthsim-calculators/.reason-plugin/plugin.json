@@ -4,6 +4,7 @@
   "description": "S&P 500 and money calculators.",
   "homepage": "https://www.wealthsim.app",
   "docs": "https://www.wealthsim.app/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wealthsim-calculators": {

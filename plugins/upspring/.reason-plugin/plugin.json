@@ -4,6 +4,7 @@
   "description": "Live ads as AI context.",
   "homepage": "https://upspring.ai",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.RonDaha/upspring",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "upspring": {

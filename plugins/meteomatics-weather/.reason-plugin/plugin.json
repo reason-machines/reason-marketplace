@@ -4,6 +4,7 @@
   "description": "Entreprise-grade weather data.",
   "homepage": "https://www.meteomatics.com/",
   "docs": "https://www.meteomatics.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meteomatics-weather": {

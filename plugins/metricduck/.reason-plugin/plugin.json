@@ -4,6 +4,7 @@
   "description": "SEC filings and financial data.",
   "homepage": "https://www.metricduck.com/",
   "docs": "https://www.metricduck.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "metricduck": {

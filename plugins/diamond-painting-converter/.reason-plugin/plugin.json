@@ -4,6 +4,7 @@
   "description": "Download purchased patterns.",
   "homepage": "https://diamondpaintingconverter.com/plugin/",
   "docs": "https://diamondpaintingconverter.com/plugin/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "diamond-painting-converter": {

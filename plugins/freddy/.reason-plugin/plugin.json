@@ -4,6 +4,7 @@
   "description": "Ask about your health data.",
   "homepage": "https://freddy.coach",
   "docs": "https://freddy.coach",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "freddy": {

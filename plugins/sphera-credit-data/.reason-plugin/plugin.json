@@ -4,6 +4,7 @@
   "description": "Canadian interest rate data.",
   "homepage": "https://data.spheracredit.com",
   "docs": "https://data.spheracredit.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sphera-credit-data": {

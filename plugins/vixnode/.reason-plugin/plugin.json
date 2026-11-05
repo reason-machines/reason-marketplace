@@ -4,6 +4,7 @@
   "description": "Create and manage websites.",
   "homepage": "https://www.vixnode.com",
   "docs": "https://www.vixnode.com/docs/vixnode_mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vixnode": {

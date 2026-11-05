@@ -4,6 +4,7 @@
   "description": "Job match and CV answers.",
   "homepage": "https://patchcv.dev",
   "docs": "https://patchcv.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "patch-cv": {

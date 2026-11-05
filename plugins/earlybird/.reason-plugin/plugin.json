@@ -4,6 +4,7 @@
   "description": "Find jobs and manage alerts.",
   "homepage": "https://earlybird.live",
   "docs": "https://earlybird.live",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "earlybird": {

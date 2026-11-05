@@ -4,6 +4,7 @@
   "description": "Create classroom resources.",
   "homepage": "https://planitteachers.ai",
   "docs": "https://planitteachers.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "planit-teachers": {

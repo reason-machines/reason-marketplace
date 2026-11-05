@@ -4,6 +4,7 @@
   "description": "Who's about to open, by city.",
   "homepage": "https://ribbonleads.com/chatgpt",
   "docs": "https://ribbonleads.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ribbon-leads": {

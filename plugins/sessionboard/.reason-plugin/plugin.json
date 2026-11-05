@@ -4,6 +4,7 @@
   "description": "Query and manage event data.",
   "homepage": "https://www.sessionboard.com",
   "docs": "https://www.sessionboard.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sessionboard": {

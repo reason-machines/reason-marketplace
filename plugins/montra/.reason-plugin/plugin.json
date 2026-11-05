@@ -4,6 +4,7 @@
   "description": "Show your agent what to change.",
   "homepage": "https://montra.com",
   "docs": "https://montra.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "montra": {

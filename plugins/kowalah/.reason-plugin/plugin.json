@@ -4,6 +4,7 @@
   "description": "Your AI operating model.",
   "homepage": "https://www.kowalah.com",
   "docs": "https://kowalah.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kowalah": {

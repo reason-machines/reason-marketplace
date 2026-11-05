@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://getsocialclaw.com",
   "docs": "https://getsocialclaw.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "socialclaw": {

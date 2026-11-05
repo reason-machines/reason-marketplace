@@ -4,6 +4,7 @@
   "description": "Growth maths and SEO tools.",
   "homepage": "https://upgrowth.in/growth-toolkit-mcp/",
   "docs": "https://upgrowth.in/growth-toolkit-mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "upgrowth-growth-toolkit": {

@@ -4,6 +4,7 @@
   "description": "On.",
   "homepage": "https://www.oioioi.ai",
   "docs": "https://oioioi.ai/resources/what-is-oi-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "oi": {

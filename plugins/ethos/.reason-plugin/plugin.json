@@ -4,6 +4,7 @@
   "description": "Protect your family in minutes.",
   "homepage": "https://www.ethos.com",
   "docs": "https://tedix.dev/apps/ethos/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ethos": {

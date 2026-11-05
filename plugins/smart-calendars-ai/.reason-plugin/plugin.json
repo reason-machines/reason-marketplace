@@ -4,6 +4,7 @@
   "description": "Create and edit calendar feeds.",
   "homepage": "https://www.smartcalendars.ai/en",
   "docs": "https://smartcalendars.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smart-calendars-ai": {

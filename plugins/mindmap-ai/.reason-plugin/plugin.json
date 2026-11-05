@@ -4,6 +4,7 @@
   "description": "Mind maps, concept maps & more.",
   "homepage": "https://mindmapai.app/",
   "docs": "https://mindmapai.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mindmap-ai": {

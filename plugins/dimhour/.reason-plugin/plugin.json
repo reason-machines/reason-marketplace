@@ -4,6 +4,7 @@
   "description": "Find restaurants and bars.",
   "homepage": "https://dimhour.com",
   "docs": "https://dimhour.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dimhour": {

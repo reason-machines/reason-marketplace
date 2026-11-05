@@ -4,6 +4,7 @@
   "description": "Keep track of your finances.",
   "homepage": "https://fintable.io",
   "docs": "https://fintable.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fintable": {

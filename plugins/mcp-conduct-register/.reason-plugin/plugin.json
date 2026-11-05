@@ -4,6 +4,7 @@
   "description": "Check MCP server conduct.",
   "homepage": "https://shield.the-horizons-innovation.com/verify-directory/",
   "docs": "https://shield.the-horizons-innovation.com/verify-directory/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mcp-conduct-register": {

@@ -4,6 +4,7 @@
   "description": "Analyze and improve your music.",
   "homepage": "https://signalgrade.com",
   "docs": "https://signalgrade.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "signalgrade": {

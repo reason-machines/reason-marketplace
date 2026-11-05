@@ -4,6 +4,7 @@
   "description": "Find jobs in 30+ countries.",
   "homepage": "https://www.jobtome.com",
   "docs": "https://www.jobtome.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "job-search-by-jobtome": {

@@ -4,6 +4,7 @@
   "description": "Audit and improve websites.",
   "homepage": "https://sitelemetry.com",
   "docs": "https://sitelemetry.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sitelemetry": {

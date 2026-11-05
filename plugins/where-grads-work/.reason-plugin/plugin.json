@@ -4,6 +4,7 @@
   "description": "Graduate outcomes by school.",
   "homepage": "https://wheregradswork.com",
   "docs": "https://wheregradswork.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "where-grads-work": {

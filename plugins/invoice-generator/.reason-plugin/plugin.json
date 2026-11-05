@@ -4,6 +4,7 @@
   "description": "Invoice template, tax and PDF.",
   "homepage": "https://tools.fieldhive.com/invoice-generator",
   "docs": "https://tools.fieldhive.com/invoice-generator",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "invoice-generator": {

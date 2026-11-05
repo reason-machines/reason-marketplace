@@ -4,6 +4,7 @@
   "description": "Public funding across Europe.",
   "homepage": "https://grantledger.eu/assistant",
   "docs": "https://grantledger.eu/assistant",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "grantledger": {

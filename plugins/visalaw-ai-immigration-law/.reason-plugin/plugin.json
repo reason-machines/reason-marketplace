@@ -4,6 +4,7 @@
   "description": "Immigration research & skills.",
   "homepage": "https://visalaw.ai",
   "docs": "https://visalaw.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "visalaw-ai-immigration-law": {

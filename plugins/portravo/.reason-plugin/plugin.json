@@ -4,6 +4,7 @@
   "description": "Review plan takeoffs.",
   "homepage": "https://portravo.com",
   "docs": "https://portravo.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "portravo": {

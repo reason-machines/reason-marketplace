@@ -4,6 +4,7 @@
   "description": "Website opportunity preview.",
   "homepage": "https://yes-iq.net",
   "docs": "https://yes-iq.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "yesiq": {

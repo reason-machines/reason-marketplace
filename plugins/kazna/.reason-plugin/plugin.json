@@ -4,6 +4,7 @@
   "description": "Author cabinet analytics.",
   "homepage": "https://kazna.online/en",
   "docs": "https://kazna.online/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kazna": {

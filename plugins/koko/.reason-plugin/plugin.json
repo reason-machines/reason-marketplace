@@ -4,6 +4,7 @@
   "description": "Save travel lists and plans.",
   "homepage": "https://kokotravel.ai",
   "docs": "https://kokotravel.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "koko": {

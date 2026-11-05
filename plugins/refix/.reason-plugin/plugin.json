@@ -4,6 +4,7 @@
   "description": "Answers from your company data.",
   "homepage": "https://www.refix.ai/",
   "docs": "https://www.refix.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "refix": {

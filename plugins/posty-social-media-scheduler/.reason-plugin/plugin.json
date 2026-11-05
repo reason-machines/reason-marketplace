@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://posty.hu",
   "docs": "https://posty.hu/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "posty-social-media-scheduler": {

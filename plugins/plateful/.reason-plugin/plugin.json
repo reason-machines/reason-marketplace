@@ -4,6 +4,7 @@
   "description": "Search and save your recipes.",
   "homepage": "https://plateful.cloud",
   "docs": "https://plateful.cloud",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "plateful": {

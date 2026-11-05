@@ -4,6 +4,7 @@
   "description": "Explore customer feedback.",
   "homepage": "https://iteratehq.com",
   "docs": "https://iteratehq.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iterate": {

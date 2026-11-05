@@ -4,6 +4,7 @@
   "description": "Check Amtrak trains.",
   "homepage": "https://railwatch.app",
   "docs": "https://railwatch.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "railwatch": {

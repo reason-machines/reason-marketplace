@@ -4,6 +4,7 @@
   "description": "Build and Tailor Resumes.",
   "homepage": "https://www.rezi.ai/",
   "docs": "https://rezi.ai/resume-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rezi-resume-builder": {

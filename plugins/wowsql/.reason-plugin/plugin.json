@@ -4,6 +4,7 @@
   "description": "Manage PostgreSQL databases.",
   "homepage": "https://wowsql.com",
   "docs": "https://wowsql.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wowsql": {

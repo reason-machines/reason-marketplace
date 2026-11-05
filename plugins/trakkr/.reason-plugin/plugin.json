@@ -4,6 +4,7 @@
   "description": "Track AI search visibility.",
   "homepage": "https://trakkr.ai",
   "docs": "https://trakkr.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trakkr": {

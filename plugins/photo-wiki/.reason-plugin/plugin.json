@@ -4,6 +4,7 @@
   "description": "Answers from your saved photos.",
   "homepage": "https://photowiki.app",
   "docs": "https://photowiki.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "photo-wiki": {

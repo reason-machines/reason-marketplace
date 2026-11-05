@@ -4,6 +4,7 @@
   "description": "Manage Treater from Reason.",
   "homepage": "https://trytreater.com",
   "docs": "https://trytreater.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "treater": {

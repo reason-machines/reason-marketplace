@@ -4,6 +4,7 @@
   "description": "Manage Substack Notes.",
   "homepage": "https://www.writestack.io",
   "docs": "https://www.writestack.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "writestack": {

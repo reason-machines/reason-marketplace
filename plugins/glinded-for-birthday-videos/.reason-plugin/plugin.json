@@ -4,6 +4,7 @@
   "description": "Anniversary & family slideshow.",
   "homepage": "https://www.glinded.com",
   "docs": "https://www.glinded.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "glinded-for-birthday-videos": {

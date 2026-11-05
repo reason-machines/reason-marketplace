@@ -4,6 +4,7 @@
   "description": "Prepare and schedule posts.",
   "homepage": "https://mypostfactory.com/en/",
   "docs": "https://mypostfactory.com/en/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "my-post-factory": {

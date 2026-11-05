@@ -4,6 +4,7 @@
   "description": "Structured evidence checks.",
   "homepage": "https://norms.beforebabel.org/",
   "docs": "https://norms.beforebabel.org/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "norms-evidence-and-scope": {

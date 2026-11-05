@@ -4,6 +4,7 @@
   "description": "Email results and drafts.",
   "homepage": "https://www.lupper.io",
   "docs": "https://www.lupper.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lupper": {

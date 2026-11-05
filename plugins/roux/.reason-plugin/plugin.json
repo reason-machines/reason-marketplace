@@ -4,6 +4,7 @@
   "description": "Collect human context.",
   "homepage": "https://www.helloroux.com",
   "docs": "https://www.helloroux.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "roux": {

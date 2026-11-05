@@ -4,6 +4,7 @@
   "description": "Explore investments.",
   "homepage": "https://www.myinvestor.es",
   "docs": "https://www.myinvestor.es",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "myinvestor": {

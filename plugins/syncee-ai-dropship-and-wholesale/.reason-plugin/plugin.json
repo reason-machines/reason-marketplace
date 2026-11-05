@@ -4,6 +4,7 @@
   "description": "Explore dropshipping products.",
   "homepage": "https://syncee.com/",
   "docs": "https://syncee.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "syncee-ai-dropship-and-wholesale": {

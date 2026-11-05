@@ -4,6 +4,7 @@
   "description": "Turn chat into live web apps.",
   "homepage": "https://www.miniup.io",
   "docs": "https://www.miniup.io/chatgptapp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "miniup": {

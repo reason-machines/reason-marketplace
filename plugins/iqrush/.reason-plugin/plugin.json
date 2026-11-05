@@ -4,6 +4,7 @@
   "description": "Measure AI search visibility.",
   "homepage": "https://iqrush.ai",
   "docs": "https://iqrush.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iqrush": {

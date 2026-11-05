@@ -4,6 +4,7 @@
   "description": "Product price analytics.",
   "homepage": "https://pricewatcha.com",
   "docs": "https://pricewatcha.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pricewatcha": {

@@ -4,6 +4,7 @@
   "description": "Understand your MCP servers.",
   "homepage": "https://flowlines.ai/",
   "docs": "https://flowlines.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flowlines": {

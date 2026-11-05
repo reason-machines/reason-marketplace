@@ -4,6 +4,7 @@
   "description": "Discord that keeps working.",
   "homepage": "https://qreate.gg/discord-mcp",
   "docs": "https://qreate.gg/discord-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qreate": {

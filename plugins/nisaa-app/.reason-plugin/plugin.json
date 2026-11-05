@@ -4,6 +4,7 @@
   "description": "Period rulings by madhab.",
   "homepage": "https://www.getnisaa.com",
   "docs": "https://www.getnisaa.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nisaa-app": {

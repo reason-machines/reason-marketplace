@@ -4,6 +4,7 @@
   "description": "Hand work off to other AIs.",
   "homepage": "https://prometheor.com",
   "docs": "https://prometheor.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prometheor": {

@@ -4,6 +4,7 @@
   "description": "Harmony analysis on the score.",
   "homepage": "https://sheetmusicanalysis.com",
   "docs": "https://sheetmusicanalysis.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sheet-music-analysis": {

@@ -4,6 +4,7 @@
   "description": "Executable presentations.",
   "homepage": "https://plixlab.com",
   "docs": "https://plixlab.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "plixlab": {

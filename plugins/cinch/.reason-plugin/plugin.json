@@ -4,6 +4,7 @@
   "description": "Manage project work.",
   "homepage": "https://www.cinch.work",
   "docs": "https://www.cinch.work",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cinch": {

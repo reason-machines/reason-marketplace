@@ -4,6 +4,7 @@
   "description": "Plan your content calendar.",
   "homepage": "https://usetucan.com",
   "docs": "https://usetucan.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tucan": {

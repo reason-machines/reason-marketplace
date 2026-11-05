@@ -4,6 +4,7 @@
   "description": "Plan hikes & ferry routes.",
   "homepage": "https://map.stockholmarchipelagotrail.com",
   "docs": "https://map.stockholmarchipelagotrail.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stockholm-archipelago-trail": {

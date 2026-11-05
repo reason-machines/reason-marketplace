@@ -4,6 +4,7 @@
   "description": "Query your vehicle fleet.",
   "homepage": "https://gps-ortung24.de",
   "docs": "https://gps-ortung24.de",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gps-ortung24": {

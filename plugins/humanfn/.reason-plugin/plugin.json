@@ -4,6 +4,7 @@
   "description": "Human sign-off for your AI.",
   "homepage": "https://humanfn.com",
   "docs": "https://humanfn.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "humanfn": {

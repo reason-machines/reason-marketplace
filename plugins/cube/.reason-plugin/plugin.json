@@ -4,6 +4,7 @@
   "description": "Analyze your financial data.",
   "homepage": "https://www.cubesoftware.com/",
   "docs": "https://www.cubesoftware.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cube": {

@@ -4,6 +4,7 @@
   "description": "Schedule social posts.",
   "homepage": "https://viewprinter.tech",
   "docs": "https://viewprinter.tech/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "viewprinter": {

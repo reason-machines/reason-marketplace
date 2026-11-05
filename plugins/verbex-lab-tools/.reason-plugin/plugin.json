@@ -4,6 +4,7 @@
   "description": "Bench math and lab templates.",
   "homepage": "https://www.verbalexperiment.com/tools",
   "docs": "https://www.verbalexperiment.com/tools",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "verbex-lab-tools": {

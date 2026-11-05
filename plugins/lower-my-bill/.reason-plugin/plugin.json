@@ -4,6 +4,7 @@
   "description": "Scripts to lower your bills.",
   "homepage": "https://lowermybill.pages.dev",
   "docs": "https://lowermybill.pages.dev/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lower-my-bill": {

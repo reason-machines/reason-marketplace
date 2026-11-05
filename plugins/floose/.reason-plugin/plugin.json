@@ -4,6 +4,7 @@
   "description": "Notes, files and canvases.",
   "homepage": "https://note.floose.app",
   "docs": "https://note.floose.app/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "floose": {

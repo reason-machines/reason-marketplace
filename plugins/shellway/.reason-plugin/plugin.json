@@ -4,6 +4,7 @@
   "description": "Your PC, controlled by Reason.",
   "homepage": "https://getshellway.com",
   "docs": "https://getshellway.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shellway": {

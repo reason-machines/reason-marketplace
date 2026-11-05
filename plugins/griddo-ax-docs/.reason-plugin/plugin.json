@@ -4,6 +4,7 @@
   "description": "Griddo backoffice docs.",
   "homepage": "https://docs.griddo.io/mcp/",
   "docs": "https://docs.griddo.io/mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "griddo-ax-docs": {

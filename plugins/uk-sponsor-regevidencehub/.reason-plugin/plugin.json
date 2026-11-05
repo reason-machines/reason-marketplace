@@ -4,6 +4,7 @@
   "description": "Sponsor change checks.",
   "homepage": "https://works.regevidencehub.com/uk-sponsor-change-checker",
   "docs": "https://works.regevidencehub.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uk-sponsor-regevidencehub": {

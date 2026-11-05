@@ -4,6 +4,7 @@
   "description": "Read-only table analysis.",
   "homepage": "https://realy-mcp.vercel.app/",
   "docs": "https://realy-mcp.vercel.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "realy": {

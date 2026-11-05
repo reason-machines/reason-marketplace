@@ -4,6 +4,7 @@
   "description": "Stay in sync with your team.",
   "homepage": "https://runsteady.com/",
   "docs": "https://runsteady.com/docs/article/mcp-server/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "steady": {

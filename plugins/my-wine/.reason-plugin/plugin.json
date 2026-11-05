@@ -4,6 +4,7 @@
   "description": "Compare wine prices near you.",
   "homepage": "https://mywine.dev",
   "docs": "https://mywine.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "my-wine": {

@@ -4,6 +4,7 @@
   "description": "Premises licensing checks.",
   "homepage": "https://premises.regevidencehub.com/uk-premises-licence-navigator",
   "docs": "https://premises.regevidencehub.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "e-and-w-premises-regevidencehub": {

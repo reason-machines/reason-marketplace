@@ -4,6 +4,7 @@
   "description": "Geospatial research engine.",
   "homepage": "https://www.maia-analytics.com",
   "docs": "https://www.maia-analytics.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "maia": {

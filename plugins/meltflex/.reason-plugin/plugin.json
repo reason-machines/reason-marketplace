@@ -4,6 +4,7 @@
   "description": "AI Interior Design.",
   "homepage": "https://www.meltflexai.com",
   "docs": "https://www.meltflexai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meltflex": {

@@ -4,6 +4,7 @@
   "description": "Create, edit, track campaigns.",
   "homepage": "https://ribele.com/",
   "docs": "https://ribele.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ribele": {

@@ -4,6 +4,7 @@
   "description": "Create and edit flowcharts.",
   "homepage": "https://makeaviz.com/",
   "docs": "https://makeaviz.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "make-a-viz": {

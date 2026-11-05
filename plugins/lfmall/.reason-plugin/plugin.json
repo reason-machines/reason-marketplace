@@ -4,6 +4,7 @@
   "description": "나를 나답게 만드는 취향 발견, LFmall AI 쇼핑.",
   "homepage": "https://www.lfmall.co.kr",
   "docs": "https://www.lfmall.co.kr",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lfmall": {

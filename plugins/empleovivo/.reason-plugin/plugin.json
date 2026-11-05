@@ -4,6 +4,7 @@
   "description": "Open jobs in Chile.",
   "homepage": "https://empleovivo.cl/",
   "docs": "https://empleovivo.cl/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "empleovivo": {

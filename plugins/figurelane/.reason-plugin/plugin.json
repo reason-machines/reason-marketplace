@@ -4,6 +4,7 @@
   "description": "Records and accountant reports.",
   "homepage": "https://figurelane.com",
   "docs": "https://figurelane.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "figurelane": {

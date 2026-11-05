@@ -4,6 +4,7 @@
   "description": "Save and update your network.",
   "homepage": "https://www.usetable.ai/",
   "docs": "https://www.usetable.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "table": {

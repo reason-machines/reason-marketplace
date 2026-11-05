@@ -4,6 +4,7 @@
   "description": "Printable math worksheets.",
   "homepage": "https://www.sigmaprep.io/worksheets",
   "docs": "https://sigmaprep.io/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sigma-prep-worksheets": {

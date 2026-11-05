@@ -4,6 +4,7 @@
   "description": "Find winning products and ads.",
   "homepage": "https://sellwinners.com",
   "docs": "https://sellwinners.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sellwinners": {

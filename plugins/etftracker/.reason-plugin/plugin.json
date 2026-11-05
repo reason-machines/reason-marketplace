@@ -4,6 +4,7 @@
   "description": "Australian ETF research.",
   "homepage": "https://www.etftracker.com.au",
   "docs": "https://www.etftracker.com.au",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "etftracker": {

@@ -4,6 +4,7 @@
   "description": "Save knowledge that matters.",
   "homepage": "https://www.memostem.com/plugins",
   "docs": "https://memostem.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "memostem": {

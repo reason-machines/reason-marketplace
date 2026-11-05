@@ -4,6 +4,7 @@
   "description": "Book low fares direct.",
   "homepage": "https://www.ryanair.com",
   "docs": "https://www.ryanair.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ryanair": {

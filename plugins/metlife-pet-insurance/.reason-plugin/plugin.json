@@ -4,6 +4,7 @@
   "description": "Find insurance for pets.",
   "homepage": "https://www.metlifepetinsurance.com/",
   "docs": "https://tedix.dev/apps/metlife-pet-insurance/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "metlife-pet-insurance": {

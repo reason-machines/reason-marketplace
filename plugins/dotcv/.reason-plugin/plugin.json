@@ -4,6 +4,7 @@
   "description": "Read and edit your CV.",
   "homepage": "https://dotcv.gr",
   "docs": "https://dotcv.gr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dotcv": {

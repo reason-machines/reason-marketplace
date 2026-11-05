@@ -4,6 +4,7 @@
   "description": "Build and manage a help center.",
   "homepage": "https://helpcenter.io",
   "docs": "https://helpcenter.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "helpcenter-io": {

@@ -4,6 +4,7 @@
   "description": "Prices, ASC markets & policy.",
   "homepage": "https://techysurgeon-mcp.netlify.app/",
   "docs": "https://techysurgeon-mcp.netlify.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "policy-radar": {

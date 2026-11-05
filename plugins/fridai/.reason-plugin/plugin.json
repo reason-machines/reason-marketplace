@@ -4,6 +4,7 @@
   "description": "Review and improve AI replies.",
   "homepage": "https://fridai.fansnetwork.ai/",
   "docs": "https://fridai.fansnetwork.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fridai": {

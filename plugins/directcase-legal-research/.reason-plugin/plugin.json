@@ -4,6 +4,7 @@
   "description": "Verified legal research.",
   "homepage": "https://www.directcase.ai/",
   "docs": "https://www.directcase.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "directcase-legal-research": {

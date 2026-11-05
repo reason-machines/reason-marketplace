@@ -4,6 +4,7 @@
   "description": "Вакансии для русскоязычных.",
   "homepage": "https://hireseeker.ru",
   "docs": "https://hireseeker.ru",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hireseeker": {

@@ -4,6 +4,7 @@
   "description": "Retain revenue and customers.",
   "homepage": "https://churnsolution.com",
   "docs": "https://churnsolution.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "churn-solution": {

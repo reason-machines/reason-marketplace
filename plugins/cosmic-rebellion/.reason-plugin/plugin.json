@@ -4,6 +4,7 @@
   "description": "Play a trading card game.",
   "homepage": "https://cosmicrebellion.games",
   "docs": "https://cosmicrebellion.games",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cosmic-rebellion": {

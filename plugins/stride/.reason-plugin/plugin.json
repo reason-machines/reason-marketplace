@@ -4,6 +4,7 @@
   "description": "Work your Stride backlog.",
   "homepage": "https://www.stride.page",
   "docs": "https://stride.page/integrations/claude-code",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stride": {

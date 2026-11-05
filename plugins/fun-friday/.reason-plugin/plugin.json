@@ -4,6 +4,7 @@
   "description": "Team games, ready to play.",
   "homepage": "https://www.funfriday.work",
   "docs": "https://www.funfriday.work/docs/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fun-friday": {

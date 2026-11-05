@@ -4,6 +4,7 @@
   "description": "Argentine energy & mining data.",
   "homepage": "https://energyia.ar/en/brain",
   "docs": "https://energyia.ar/en/brain",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "energyia-ar": {

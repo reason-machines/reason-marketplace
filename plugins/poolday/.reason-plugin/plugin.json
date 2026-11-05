@@ -4,6 +4,7 @@
   "description": "AI video editing and media.",
   "homepage": "https://poolday.ai",
   "docs": "https://poolday.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "poolday": {

@@ -4,6 +4,7 @@
   "description": "Nutrición vegetal + VPD.",
   "homepage": "https://nutriplantpro.com",
   "docs": "https://nutriplantpro.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nutriplant-pro": {

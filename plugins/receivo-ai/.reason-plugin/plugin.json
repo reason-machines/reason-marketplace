@@ -4,6 +4,7 @@
   "description": "Invoices, clients and payments.",
   "homepage": "https://www.receivo.cloud",
   "docs": "https://www.receivo.cloud",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "receivo-ai": {

@@ -4,6 +4,7 @@
   "description": "Create picture books in chat.",
   "homepage": "https://tebook.net",
   "docs": "https://tebook.net",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tebook": {

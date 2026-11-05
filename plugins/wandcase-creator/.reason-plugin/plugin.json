@@ -4,6 +4,7 @@
   "description": "Create & schedule social posts.",
   "homepage": "https://wandcase.com/creator",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.wandcase/creator",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wandcase-creator": {

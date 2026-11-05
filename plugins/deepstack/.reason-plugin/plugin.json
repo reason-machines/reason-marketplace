@@ -4,6 +4,7 @@
   "description": "Where investors disagree.",
   "homepage": "https://deepstack.ltd",
   "docs": "https://deepstack.ltd",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "deepstack": {

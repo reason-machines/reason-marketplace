@@ -4,6 +4,7 @@
   "description": "Analyze your purchasing data.",
   "homepage": "https://www.eqolux.com",
   "docs": "https://www.eqolux.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "eqolux": {

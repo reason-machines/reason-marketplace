@@ -4,6 +4,7 @@
   "description": "Search HFS Research Website.",
   "homepage": "https://www.hfsresearch.com/",
   "docs": "https://www.hfsresearch.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hfs-research": {

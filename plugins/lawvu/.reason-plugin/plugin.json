@@ -4,6 +4,7 @@
   "description": "OS for in-house legal teams.",
   "homepage": "https://lawvu.com",
   "docs": "https://lawvu.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lawvu": {

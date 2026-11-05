@@ -4,6 +4,7 @@
   "description": "Search, analyze, manage CRM.",
   "homepage": "https://item.app",
   "docs": "https://item.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "item": {

@@ -4,6 +4,7 @@
   "description": "Hotels, hikes, events, food.",
   "homepage": "https://app.merano.eu/",
   "docs": "https://app.merano.eu/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "merano": {

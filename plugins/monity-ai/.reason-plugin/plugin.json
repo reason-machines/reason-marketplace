@@ -4,6 +4,7 @@
   "description": "Track website changes.",
   "homepage": "https://monity.ai",
   "docs": "https://monity.ai/integrations/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "monity-ai": {

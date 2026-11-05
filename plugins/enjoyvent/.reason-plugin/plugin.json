@@ -4,6 +4,7 @@
   "description": "Find concerts, shows & events.",
   "homepage": "https://enjoyvent.com",
   "docs": "https://enjoyvent.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "enjoyvent": {

@@ -4,6 +4,7 @@
   "description": "Candlestick price chart.",
   "homepage": "https://tools.openkrill.app/",
   "docs": "https://tools.openkrill.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trade-chart": {

@@ -4,6 +4,7 @@
   "description": "Critica como você conduz a IA.",
   "homepage": "https://criticalthinker.dev",
   "docs": "https://criticalthinker.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "critical-thinker": {

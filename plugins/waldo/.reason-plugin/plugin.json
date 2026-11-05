@@ -4,6 +4,7 @@
   "description": "Your brand intelligence engine.",
   "homepage": "https://www.waldo.fyi",
   "docs": "https://www.waldo.fyi",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "waldo": {

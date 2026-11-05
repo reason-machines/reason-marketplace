@@ -4,6 +4,7 @@
   "description": "Query fraud & device signals.",
   "homepage": "https://fingerprint.com",
   "docs": "https://docs.fingerprint.com/docs/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fingerprint": {

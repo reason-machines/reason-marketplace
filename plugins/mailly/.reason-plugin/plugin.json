@@ -4,6 +4,7 @@
   "description": "Email for agents.",
   "homepage": "https://mailly.site",
   "docs": "https://mailly.site",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mailly": {

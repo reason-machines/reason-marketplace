@@ -4,6 +4,7 @@
   "description": "Find the best seat on a flight.",
   "homepage": "https://flightseatmap.com",
   "docs": "https://flightseatmap.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flightseatmap": {

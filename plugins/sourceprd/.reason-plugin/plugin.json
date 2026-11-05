@@ -4,6 +4,7 @@
   "description": "The product, not the plan.",
   "homepage": "https://sourceprd.com",
   "docs": "https://sourceprd.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sourceprd": {

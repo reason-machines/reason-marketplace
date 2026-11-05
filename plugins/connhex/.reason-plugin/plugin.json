@@ -4,6 +4,7 @@
   "description": "AI-native IoT infrastructure.",
   "homepage": "https://connhex.com",
   "docs": "https://connhex.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "connhex": {

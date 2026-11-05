@@ -4,6 +4,7 @@
   "description": "Verify data against standards.",
   "homepage": "https://dveracity.com",
   "docs": "https://dveracity.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dveracity": {

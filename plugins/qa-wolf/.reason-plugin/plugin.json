@@ -4,6 +4,7 @@
   "description": "End-to-end test automation.",
   "homepage": "https://www.qawolf.com",
   "docs": "https://docs.qawolf.com/qawolf-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qa-wolf": {

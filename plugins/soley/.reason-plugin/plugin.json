@@ -4,6 +4,7 @@
   "description": "Soley: book Iceland travel.",
   "homepage": "https://soley.travel/en/about",
   "docs": "https://soley.travel/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "soley": {

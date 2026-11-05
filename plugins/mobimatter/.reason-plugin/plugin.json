@@ -4,6 +4,7 @@
   "description": "Travel eSIMs. Check usage.",
   "homepage": "https://mobimatter.com/chatgpt",
   "docs": "https://mobimatter.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mobimatter": {

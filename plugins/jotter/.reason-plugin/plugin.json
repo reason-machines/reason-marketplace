@@ -4,6 +4,7 @@
   "description": "Carry context between AI chats.",
   "homepage": "https://jotter.fyi",
   "docs": "https://jotter.fyi",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jotter": {

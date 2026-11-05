@@ -4,6 +4,7 @@
   "description": "A to-do list your agents share.",
   "homepage": "https://offhandapp.com",
   "docs": "https://offhandapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "offhand": {

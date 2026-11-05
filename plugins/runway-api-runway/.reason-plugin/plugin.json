@@ -4,6 +4,7 @@
   "description": "Runway API integration help.",
   "homepage": "https://dev.runway.com/agents",
   "docs": "https://dev.runway.com/agents",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "runway-api-runway": {

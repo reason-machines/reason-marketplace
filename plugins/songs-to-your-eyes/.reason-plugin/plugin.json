@@ -4,6 +4,7 @@
   "description": "Find music for video and film.",
   "homepage": "https://songstoyoureyes.com",
   "docs": "https://songstoyoureyes.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "songs-to-your-eyes": {

@@ -4,6 +4,7 @@
   "description": "Thematic investing data.",
   "homepage": "https://www.theiainsights.com",
   "docs": "https://www.theiainsights.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "theia-insights": {

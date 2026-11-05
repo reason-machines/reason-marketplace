@@ -4,6 +4,7 @@
   "description": "Research competitor ads.",
   "homepage": "https://www.rivalads.io",
   "docs": "https://www.rivalads.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rival-ads": {

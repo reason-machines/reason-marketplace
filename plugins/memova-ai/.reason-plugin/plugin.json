@@ -4,6 +4,7 @@
   "description": "Meeting and Spark knowledge.",
   "homepage": "https://memova.ai",
   "docs": "https://api.memova.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "memova-ai": {

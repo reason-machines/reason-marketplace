@@ -4,6 +4,7 @@
   "description": "CRM for your relationships.",
   "homepage": "https://knowwhocrm.com",
   "docs": "https://knowwhocrm.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "knowwho-crm": {

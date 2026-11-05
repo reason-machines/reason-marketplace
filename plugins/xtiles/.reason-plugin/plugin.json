@@ -4,6 +4,7 @@
   "description": "Life & Company OS for Reason.",
   "homepage": "https://xtiles.app/",
   "docs": "https://xtiles.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "xtiles": {

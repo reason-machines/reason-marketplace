@@ -4,6 +4,7 @@
   "description": "AI Music and Sound Effects.",
   "homepage": "https://platform.sonilo.com",
   "docs": "https://sonilo.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sonilo": {

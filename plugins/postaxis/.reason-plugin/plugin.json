@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://postaxis.io",
   "docs": "https://www.postaxis.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postaxis": {

@@ -4,6 +4,7 @@
   "description": "On-brand marketing content.",
   "homepage": "https://marcora.ai/",
   "docs": "https://marcora.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "marcora": {

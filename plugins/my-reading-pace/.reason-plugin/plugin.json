@@ -4,6 +4,7 @@
   "description": "Reading speed & comprehension.",
   "homepage": "https://myreadingpace.com/chatgpt/",
   "docs": "https://myreadingpace.com/chatgpt/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "my-reading-pace": {

@@ -4,6 +4,7 @@
   "description": "Manage customer feedback.",
   "homepage": "https://sleekplan.com",
   "docs": "https://sleekplan.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sleekplan": {

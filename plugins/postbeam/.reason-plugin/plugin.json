@@ -4,6 +4,7 @@
   "description": "Draft and review posts.",
   "homepage": "https://postbeam.ai/",
   "docs": "https://www.postbeam.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postbeam": {

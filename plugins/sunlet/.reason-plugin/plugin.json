@@ -4,6 +4,7 @@
   "description": "Save tasks and plan your day.",
   "homepage": "https://sunlet.app",
   "docs": "https://sunlet.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sunlet": {

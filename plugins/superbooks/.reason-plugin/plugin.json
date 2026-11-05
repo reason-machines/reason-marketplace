@@ -4,6 +4,7 @@
   "description": "Bookkeeping and invoices.",
   "homepage": "https://superbooks.io",
   "docs": "https://superbooks.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superbooks": {

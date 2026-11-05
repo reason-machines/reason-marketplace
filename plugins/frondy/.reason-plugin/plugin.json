@@ -4,6 +4,7 @@
   "description": "Send documents for e-signature.",
   "homepage": "https://frondy.co.il",
   "docs": "https://frondy.co.il",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "frondy": {

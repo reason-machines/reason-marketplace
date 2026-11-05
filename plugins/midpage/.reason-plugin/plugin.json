@@ -4,6 +4,7 @@
   "description": "Case law, statutes, regulation.",
   "homepage": "https://www.midpage.ai",
   "docs": "https://docs.midpage.ai/documentation/integration/mcp-tools",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "midpage": {

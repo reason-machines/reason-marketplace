@@ -4,6 +4,7 @@
   "description": "SSH to your servers from chat.",
   "homepage": "https://termal.in",
   "docs": "https://termal.in",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "termalin": {

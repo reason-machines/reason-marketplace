@@ -4,6 +4,7 @@
   "description": "See what your chatbot missed.",
   "homepage": "https://www.hoverbot.ai",
   "docs": "https://www.hoverbot.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hoverbot": {

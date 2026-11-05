@@ -4,6 +4,7 @@
   "description": "Hand work to your AI agents.",
   "homepage": "https://jackhamr.ai/docs/mcp",
   "docs": "https://jackhamr.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jackhamr": {

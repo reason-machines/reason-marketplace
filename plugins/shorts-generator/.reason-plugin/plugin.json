@@ -4,6 +4,7 @@
   "description": "Create and finish short videos.",
   "homepage": "https://www.shortsgenerator.com/chatgpt",
   "docs": "https://www.shortsgenerator.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shorts-generator": {

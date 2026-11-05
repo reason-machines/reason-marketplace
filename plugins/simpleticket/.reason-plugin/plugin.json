@@ -4,6 +4,7 @@
   "description": "Your ticket sales backoffice.",
   "homepage": "https://company.simpleticket.eu",
   "docs": "https://simpleticket.eu/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simpleticket": {

@@ -4,6 +4,7 @@
   "description": "Search engineering context.",
   "homepage": "https://getunblocked.com/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.getunblocked",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unblocked": {

@@ -4,6 +4,7 @@
   "description": "Forensic surface comparison.",
   "homepage": "https://verity.codes",
   "docs": "https://verity.codes/docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "verity": {

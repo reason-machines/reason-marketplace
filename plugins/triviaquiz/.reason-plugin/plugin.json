@@ -4,6 +4,7 @@
   "description": "Run live quiz games.",
   "homepage": "https://triviaquiz.pro",
   "docs": "https://triviaquiz.pro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "triviaquiz": {

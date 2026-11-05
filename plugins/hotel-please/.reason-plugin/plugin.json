@@ -4,6 +4,7 @@
   "description": "Boutique and design hotels.",
   "homepage": "https://hotelplease.app",
   "docs": "https://hotelplease.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hotel-please": {

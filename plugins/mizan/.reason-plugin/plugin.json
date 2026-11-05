@@ -4,6 +4,7 @@
   "description": "Shariah stock screening.",
   "homepage": "https://askmizan.com",
   "docs": "https://askmizan.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mizan": {

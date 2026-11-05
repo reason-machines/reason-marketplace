@@ -4,6 +4,7 @@
   "description": "Run your language centre.",
   "homepage": "https://yourlanguage.coach",
   "docs": "https://yourlanguage.coach",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "your-language-coach": {

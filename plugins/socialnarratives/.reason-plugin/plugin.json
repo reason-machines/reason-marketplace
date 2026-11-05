@@ -4,6 +4,7 @@
   "description": "Social stories and schedules.",
   "homepage": "https://socialnarratives.ai",
   "docs": "https://socialnarratives.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "socialnarratives": {

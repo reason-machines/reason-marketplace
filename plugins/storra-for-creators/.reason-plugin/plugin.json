@@ -4,6 +4,7 @@
   "description": "Charity stories to tell.",
   "homepage": "https://getstorra.com",
   "docs": "https://getstorra.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "storra-for-creators": {

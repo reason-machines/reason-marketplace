@@ -4,6 +4,7 @@
   "description": "Order social media discovery.",
   "homepage": "https://www.smiaware.com",
   "docs": "https://www.smiaware.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "smi-aware": {

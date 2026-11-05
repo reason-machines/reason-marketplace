@@ -4,6 +4,7 @@
   "description": "Manage Google Ads.",
   "homepage": "https://ppcmax.pro",
   "docs": "https://ppcmax.pro",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ppcmax": {

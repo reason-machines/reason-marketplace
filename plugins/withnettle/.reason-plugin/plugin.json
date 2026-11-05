@@ -4,6 +4,7 @@
   "description": "Manage Withnettle Tickets.",
   "homepage": "https://withnettle.com",
   "docs": "https://withnettle.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "withnettle": {

@@ -4,6 +4,7 @@
   "description": "Independent Pricing Reference.",
   "homepage": "https://optimalcover.com/",
   "docs": "https://tedix.dev/apps/optimalcover/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "optimalcover": {

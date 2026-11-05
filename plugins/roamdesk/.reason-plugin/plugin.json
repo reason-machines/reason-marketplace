@@ -4,6 +4,7 @@
   "description": "Plan remote work and travel.",
   "homepage": "https://roamdesk.karsonbailey.com/",
   "docs": "https://roamdesk.karsonbailey.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "roamdesk": {

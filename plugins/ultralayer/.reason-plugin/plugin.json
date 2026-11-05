@@ -4,6 +4,7 @@
   "description": "Realtime market intelligence.",
   "homepage": "https://ultralayer.ai",
   "docs": "https://ultralayer.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ultralayer": {

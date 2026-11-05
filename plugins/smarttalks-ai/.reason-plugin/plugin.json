@@ -4,6 +4,7 @@
   "description": "SmartTalks workspace ops.",
   "homepage": "https://smarttalks.ai",
   "docs": "https://smarttalks.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smarttalks-ai": {

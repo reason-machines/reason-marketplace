@@ -4,6 +4,7 @@
   "description": "File conversion and PDF tools.",
   "homepage": "https://www.convertapi.com",
   "docs": "https://convertapi.com/docs/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "convertapi": {

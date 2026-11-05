@@ -4,6 +4,7 @@
   "description": "E-bike parts with fit checks.",
   "homepage": "https://wiredwhips.com",
   "docs": "https://wiredwhips.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wiredwhips": {

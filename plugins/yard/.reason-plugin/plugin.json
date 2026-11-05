@@ -4,6 +4,7 @@
   "description": "Manage software on Yard.",
   "homepage": "https://yard.sh/",
   "docs": "https://yard.sh/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yard": {

@@ -4,6 +4,7 @@
   "description": "Overdue invoices and reminders.",
   "homepage": "https://shvl.app",
   "docs": "https://shvl.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shvl": {

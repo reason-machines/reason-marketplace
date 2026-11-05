@@ -4,6 +4,7 @@
   "description": "Live fees on five chains.",
   "homepage": "https://tokenos.ai/chatgpt-apps/gas-tracker",
   "docs": "https://tokenos.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tokenos-gas-tracker": {

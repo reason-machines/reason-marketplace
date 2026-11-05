@@ -4,6 +4,7 @@
   "description": "Motion graphics video maker.",
   "homepage": "https://motionvid.ai/",
   "docs": "https://motionvid.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "motionvid": {

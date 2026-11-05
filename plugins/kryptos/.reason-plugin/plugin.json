@@ -4,6 +4,7 @@
   "description": "Crypto portfolio, tax & books.",
   "homepage": "https://kryptos.io",
   "docs": "https://kryptos.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kryptos": {

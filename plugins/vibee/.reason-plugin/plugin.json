@@ -4,6 +4,7 @@
   "description": "Build apps for your team.",
   "homepage": "https://vibee.one/en",
   "docs": "https://vibee.one/en",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vibee": {

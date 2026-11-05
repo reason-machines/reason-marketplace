@@ -4,6 +4,7 @@
   "description": "Forms, surveys & quizzes.",
   "homepage": "https://youform.com",
   "docs": "https://youform.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "youform": {

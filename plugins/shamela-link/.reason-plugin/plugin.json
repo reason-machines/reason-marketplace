@@ -4,6 +4,7 @@
   "description": "Search the Shamela library.",
   "homepage": "https://shamela.link",
   "docs": "https://shamela.link",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shamela-link": {

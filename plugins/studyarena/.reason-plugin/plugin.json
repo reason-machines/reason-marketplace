@@ -4,6 +4,7 @@
   "description": "Compare AI answers for study.",
   "homepage": "https://studyarena.com",
   "docs": "https://studyarena.com/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "studyarena": {

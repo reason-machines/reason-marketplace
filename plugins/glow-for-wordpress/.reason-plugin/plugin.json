@@ -4,6 +4,7 @@
   "description": "Manage many WordPress sites.",
   "homepage": "https://getglow.io/integrations/ai-assistants/",
   "docs": "https://getglow.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "glow-for-wordpress": {

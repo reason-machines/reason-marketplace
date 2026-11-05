@@ -4,6 +4,7 @@
   "description": "Non-binding quote estimator.",
   "homepage": "https://panda-tierversicherung.com/",
   "docs": "https://tedix.dev/apps/panda-tierversicherung/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "panda-tierversicherung": {

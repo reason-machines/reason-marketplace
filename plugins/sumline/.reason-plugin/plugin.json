@@ -4,6 +4,7 @@
   "description": "Real estate deal calculations.",
   "homepage": "https://usesumline.com",
   "docs": "https://usesumline.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sumline": {

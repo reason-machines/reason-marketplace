@@ -4,6 +4,7 @@
   "description": "Editorial traffic insights.",
   "homepage": "https://topiclift.io",
   "docs": "https://topiclift.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "topiclift-editorial-insights": {

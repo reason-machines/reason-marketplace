@@ -4,6 +4,7 @@
   "description": "WoW: Forever data with sources.",
   "homepage": "https://everloot.app",
   "docs": "https://everloot.app/docs/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "everloot": {

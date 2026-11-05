@@ -4,6 +4,7 @@
   "description": "Connect Exact Online to AI.",
   "homepage": "https://ledgerbotje.nl/",
   "docs": "https://ledgerbotje.nl/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ledger-botje-exact-online": {

@@ -4,6 +4,7 @@
   "description": "Automate and practice calls.",
   "homepage": "https://app.toughtongueai.com",
   "docs": "https://app.toughtongueai.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tough-tongue-ai": {

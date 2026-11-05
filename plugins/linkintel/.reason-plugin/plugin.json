@@ -4,6 +4,7 @@
   "description": "Evidence for your next X post.",
   "homepage": "https://www.getlinkintel.com",
   "docs": "https://getlinkintel.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "linkintel": {

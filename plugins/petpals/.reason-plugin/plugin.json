@@ -4,6 +4,7 @@
   "description": "Pet toys & supplies store.",
   "homepage": "https://platform.zen7.com",
   "docs": "https://platform.zen7.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "petpals": {

@@ -4,6 +4,7 @@
   "description": "Find UI/UX design references.",
   "homepage": "https://uibowl.io/",
   "docs": "https://uibowl.io/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "uibowl": {

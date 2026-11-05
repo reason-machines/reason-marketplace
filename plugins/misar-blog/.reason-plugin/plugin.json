@@ -4,6 +4,7 @@
   "description": "Write and publish blog posts.",
   "homepage": "https://www.misar.blog",
   "docs": "https://www.misar.blog",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "misar-blog": {

@@ -4,6 +4,7 @@
   "description": "Find U.S. data center space.",
   "homepage": "https://colocationscout.com/",
   "docs": "https://colocationscout.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "data-center-finder": {

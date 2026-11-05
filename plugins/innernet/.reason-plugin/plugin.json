@@ -4,6 +4,7 @@
   "description": "one memory for every AI tool.",
   "homepage": "https://innernet.live",
   "docs": "https://innernet.live",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "innernet": {

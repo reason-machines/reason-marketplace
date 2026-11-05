@@ -4,6 +4,7 @@
   "description": "Analyze, refine your resume.",
   "homepage": "https://jobright.ai",
   "docs": "https://jobright.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "resume-builder": {

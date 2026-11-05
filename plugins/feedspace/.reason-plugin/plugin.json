@@ -4,6 +4,7 @@
   "description": "Manage testimonials.",
   "homepage": "https://feedspace.io",
   "docs": "https://feedspace.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "feedspace": {

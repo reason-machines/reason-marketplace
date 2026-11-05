@@ -4,6 +4,7 @@
   "description": "Prospects in Norway and Sweden.",
   "homepage": "https://www.norscout.com",
   "docs": "https://www.norscout.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "norscout": {

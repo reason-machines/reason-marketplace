@@ -4,6 +4,7 @@
   "description": "Understand recurring patterns.",
   "homepage": "https://hiddenpatterns.ai",
   "docs": "https://hiddenpatterns.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hidden-patterns": {

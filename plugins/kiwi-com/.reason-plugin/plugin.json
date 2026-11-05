@@ -4,6 +4,7 @@
   "description": "Flexible flight search.",
   "homepage": "https://kiwi.com",
   "docs": "https://kiwi.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kiwi-com": {

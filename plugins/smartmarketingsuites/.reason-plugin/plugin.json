@@ -4,6 +4,7 @@
   "description": "Diagnoses revenue leaks.",
   "homepage": "https://smartmarketingsuites.com/",
   "docs": "https://smartmarketingsuites.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "smartmarketingsuites": {

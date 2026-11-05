@@ -4,6 +4,7 @@
   "description": "Manage your Etsy stores.",
   "homepage": "https://www.listadum.com",
   "docs": "https://www.listadum.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "listadum": {

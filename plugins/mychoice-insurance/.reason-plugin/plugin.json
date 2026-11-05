@@ -4,6 +4,7 @@
   "description": "Get Insurance Quotes in Canada.",
   "homepage": "https://www.mychoice.ca",
   "docs": "https://tedix.dev/apps/mychoice-insurance/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mychoice-insurance": {

@@ -4,6 +4,7 @@
   "description": "Track workouts and progress.",
   "homepage": "https://satis.fit",
   "docs": "https://satis.fit/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "satisfit": {

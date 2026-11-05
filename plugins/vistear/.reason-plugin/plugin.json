@@ -4,6 +4,7 @@
   "description": "Argentine streaming audience.",
   "homepage": "https://www.vistear.com",
   "docs": "https://www.vistear.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vistear": {

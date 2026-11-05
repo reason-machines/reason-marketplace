@@ -4,6 +4,7 @@
   "description": "Exact pool chemical doses.",
   "homepage": "https://cyanaqua.com/",
   "docs": "https://cyanaqua.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pool-chemical-dose-calculator": {

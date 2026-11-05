@@ -4,6 +4,7 @@
   "description": "Your photo, mailed. No errand.",
   "homepage": "https://warmlywritten.com",
   "docs": "https://warmlywritten.com/connect",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "warmly-written": {

@@ -4,6 +4,7 @@
   "description": "Guides and analysis status.",
   "homepage": "https://dnaobs.com",
   "docs": "https://dnaobs.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dnaobs": {

@@ -4,6 +4,7 @@
   "description": "Study data, goals, and habits.",
   "homepage": "https://stuon.space",
   "docs": "https://stuon.space",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stuon": {

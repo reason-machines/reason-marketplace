@@ -4,6 +4,7 @@
   "description": "Turn images into wall art.",
   "homepage": "https://maplemarker.com",
   "docs": "https://maplemarker.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "maple-and-marker": {

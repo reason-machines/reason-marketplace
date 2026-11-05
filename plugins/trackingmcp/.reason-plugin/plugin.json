@@ -4,6 +4,7 @@
   "description": "Track freight and routes.",
   "homepage": "https://navo24.com",
   "docs": "https://navo24.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trackingmcp": {

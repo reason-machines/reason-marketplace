@@ -4,6 +4,7 @@
   "description": "Resume, interview, job prep.",
   "homepage": "https://pokebot.ai",
   "docs": "https://pokebot.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pokebot-ai-career-coach": {

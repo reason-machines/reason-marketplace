@@ -4,6 +4,7 @@
   "description": "Manage and warm your domains.",
   "homepage": "https://www.sitewarming.com",
   "docs": "https://www.sitewarming.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sitewarming": {

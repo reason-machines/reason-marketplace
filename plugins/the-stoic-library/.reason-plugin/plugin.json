@@ -4,6 +4,7 @@
   "description": "Find and read Stoic sources.",
   "homepage": "https://thestoiclibrary.com/plugin",
   "docs": "https://thestoiclibrary.com/plugin",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the-stoic-library": {

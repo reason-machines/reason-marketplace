@@ -4,6 +4,7 @@
   "description": "Deploy and operate AI apps.",
   "homepage": "https://nexusai.run",
   "docs": "https://nexusai.run",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nexus-ai": {

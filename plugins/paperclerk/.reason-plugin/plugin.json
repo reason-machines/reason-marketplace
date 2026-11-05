@@ -4,6 +4,7 @@
   "description": "Generate PDFs from templates.",
   "homepage": "https://usepaperclerk.com",
   "docs": "https://usepaperclerk.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "paperclerk": {

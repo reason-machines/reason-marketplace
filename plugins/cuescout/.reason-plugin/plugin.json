@@ -4,6 +4,7 @@
   "description": "Check if AI answers name you.",
   "homepage": "https://cuescout.com/mcp",
   "docs": "https://cuescout.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cuescout": {

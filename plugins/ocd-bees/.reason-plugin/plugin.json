@@ -4,6 +4,7 @@
   "description": "Clients, projects, and tasks.",
   "homepage": "https://ocdbees.com/",
   "docs": "https://app.ocdbees.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ocd-bees": {

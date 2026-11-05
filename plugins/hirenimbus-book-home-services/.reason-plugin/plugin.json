@@ -4,6 +4,7 @@
   "description": "Book handyman, HVAC, plumber.",
   "homepage": "https://hirenimbus.com/pro",
   "docs": "https://hirenimbus.com/pro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hirenimbus-book-home-services": {

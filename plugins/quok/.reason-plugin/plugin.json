@@ -4,6 +4,7 @@
   "description": "Shared family calendar & lists.",
   "homepage": "https://getquok.com",
   "docs": "https://getquok.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quok": {

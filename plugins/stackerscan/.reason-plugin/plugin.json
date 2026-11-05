@@ -4,6 +4,7 @@
   "description": "Live gold and silver premiums.",
   "homepage": "https://www.stackerscan.com",
   "docs": "https://www.stackerscan.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stackerscan": {

@@ -4,6 +4,7 @@
   "description": "Crypto X research for agents.",
   "homepage": "https://cryptosocials.net",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=net.cryptosocials",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cryptosocials": {

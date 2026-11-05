@@ -4,6 +4,7 @@
   "description": "Product tier lists, all cited.",
   "homepage": "https://stierproducts.com/mcp",
   "docs": "https://stierproducts.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stierproducts": {

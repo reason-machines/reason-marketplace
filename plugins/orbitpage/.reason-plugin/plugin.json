@@ -4,6 +4,7 @@
   "description": "Edit and publish web pages.",
   "homepage": "https://orbitpage.com/",
   "docs": "https://orbitpage.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orbitpage": {

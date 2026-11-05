@@ -4,6 +4,7 @@
   "description": "Jobs across Uzbekistan.",
   "homepage": "https://cloz.uz",
   "docs": "https://cloz.uz",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cloz-jobs": {

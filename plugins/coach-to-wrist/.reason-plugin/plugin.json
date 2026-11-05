@@ -4,6 +4,7 @@
   "description": "Plan and analyse your workouts.",
   "homepage": "https://www.coachtowrist.com",
   "docs": "https://www.coachtowrist.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coach-to-wrist": {

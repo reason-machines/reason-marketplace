@@ -4,6 +4,7 @@
   "description": "Long-term memory for your AI.",
   "homepage": "https://getengram.app",
   "docs": "https://getengram.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "engram": {

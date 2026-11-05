@@ -4,6 +4,7 @@
   "description": "Agents, knowledge & workflows.",
   "homepage": "https://siesta.ai",
   "docs": "https://api.siesta.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "siesta-ai": {

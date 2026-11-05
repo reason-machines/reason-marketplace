@@ -4,6 +4,7 @@
   "description": "AI answers your business calls.",
   "homepage": "https://www.kaicalls.com",
   "docs": "https://www.kaicalls.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kaicalls": {

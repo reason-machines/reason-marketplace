@@ -4,6 +4,7 @@
   "description": "Find and win gov contracts.",
   "homepage": "https://matchawards.com",
   "docs": "https://matchawards.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "matchawards": {

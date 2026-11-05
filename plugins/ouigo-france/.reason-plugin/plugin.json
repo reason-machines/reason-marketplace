@@ -4,6 +4,7 @@
   "description": "Trouver billets OUIGO.",
   "homepage": "https://ventes.ouigo.com/fr-FR/",
   "docs": "https://ventes.ouigo.com/fr-FR/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ouigo-france": {

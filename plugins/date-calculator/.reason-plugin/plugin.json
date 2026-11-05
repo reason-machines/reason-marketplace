@@ -4,6 +4,7 @@
   "description": "Days between dates & workdays.",
   "homepage": "https://date-calculator.zovo.one",
   "docs": "https://date-calculator.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "date-calculator": {

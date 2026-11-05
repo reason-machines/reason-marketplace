@@ -4,6 +4,7 @@
   "description": "See what's driving your demand.",
   "homepage": "https://www.predicthq.com",
   "docs": "https://docs.predicthq.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "predicthq": {

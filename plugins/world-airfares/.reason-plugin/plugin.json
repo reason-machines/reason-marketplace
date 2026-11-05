@@ -4,6 +4,7 @@
   "description": "Search flights, tap to book.",
   "homepage": "https://www.worldairfares.com",
   "docs": "https://www.worldairfares.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "world-airfares": {

@@ -4,6 +4,7 @@
   "description": "Build scored forms and quizzes.",
   "homepage": "https://foxform.app",
   "docs": "https://foxform.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "foxform": {

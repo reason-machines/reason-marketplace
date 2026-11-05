@@ -4,6 +4,7 @@
   "description": "Mortgage CRM in Reason.",
   "homepage": "https://www.leaf360.com",
   "docs": "https://www.leaf360.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leaf360": {

@@ -4,6 +4,7 @@
   "description": "Plan productions with AI.",
   "homepage": "https://www.scenedept.com",
   "docs": "https://www.scenedept.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scene-dept": {

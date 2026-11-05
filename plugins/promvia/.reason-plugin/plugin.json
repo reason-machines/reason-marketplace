@@ -4,6 +4,7 @@
   "description": "AI search visibility tracking.",
   "homepage": "https://promvia.app",
   "docs": "https://promvia.app/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "promvia": {

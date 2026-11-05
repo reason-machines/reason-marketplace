@@ -4,6 +4,7 @@
   "description": "Brand & competitor tracking.",
   "homepage": "https://focala.ai/",
   "docs": "https://focala.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "focala": {

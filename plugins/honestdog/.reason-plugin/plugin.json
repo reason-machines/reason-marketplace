@@ -4,6 +4,7 @@
   "description": "Vetted dog breeders & adoption.",
   "homepage": "https://www.honestdog.de/en/ai-assistants",
   "docs": "https://www.honestdog.de/en/ai-assistants",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "honestdog": {

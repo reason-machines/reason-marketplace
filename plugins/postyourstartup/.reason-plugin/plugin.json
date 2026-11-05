@@ -4,6 +4,7 @@
   "description": "Discover and launch startups.",
   "homepage": "https://postyourstartup.co",
   "docs": "https://postyourstartup.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "postyourstartup": {

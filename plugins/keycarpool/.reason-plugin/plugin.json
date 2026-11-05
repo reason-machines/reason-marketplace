@@ -4,6 +4,7 @@
   "description": "Your carpool, at a glance.",
   "homepage": "https://www.keycarpool.com/agents",
   "docs": "https://www.keycarpool.com/agents",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "keycarpool": {

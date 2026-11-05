@@ -4,6 +4,7 @@
   "description": "Make AI drafts sound human.",
   "homepage": "https://rephrasy.ai",
   "docs": "https://www.rephrasy.ai/ai-humanizer-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rephrasy": {

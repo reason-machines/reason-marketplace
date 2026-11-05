@@ -4,6 +4,7 @@
   "description": "Schedule and publish posts.",
   "homepage": "https://po-once.com",
   "docs": "https://po-once.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "po-once": {

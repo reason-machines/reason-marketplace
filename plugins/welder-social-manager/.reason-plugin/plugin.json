@@ -4,6 +4,7 @@
   "description": "TikTok, Instagram & YouTube.",
   "homepage": "https://weldergtm.com",
   "docs": "https://weldergtm.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "welder-social-manager": {

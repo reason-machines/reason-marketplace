@@ -4,6 +4,7 @@
   "description": "Check domain name availability.",
   "homepage": "https://iwantmyname.com",
   "docs": "https://iwantmyname.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "iwantmyname": {

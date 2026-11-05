@@ -4,6 +4,7 @@
   "description": "File expense reports in chat.",
   "homepage": "https://www.expenseos.com",
   "docs": "https://expenseos.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "expenseos": {

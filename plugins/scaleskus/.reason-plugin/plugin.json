@@ -4,6 +4,7 @@
   "description": "Analyse & manage Amazon Ads.",
   "homepage": "https://scaleskus.com",
   "docs": "https://scaleskus.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scaleskus": {

@@ -4,6 +4,7 @@
   "description": "Research product prices.",
   "homepage": "https://lowpi.com",
   "docs": "https://lowpi.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lowpi": {

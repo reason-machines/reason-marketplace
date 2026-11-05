@@ -4,6 +4,7 @@
   "description": "Your app database in Reason.",
   "homepage": "https://superdb.com.br/mcp",
   "docs": "https://superdb.com.br/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superdb": {

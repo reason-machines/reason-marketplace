@@ -4,6 +4,7 @@
   "description": "Order photo-printed macarons.",
   "homepage": "https://eatmeprint.com",
   "docs": "https://eatmeprint.com/for-agents/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eatmeprint": {

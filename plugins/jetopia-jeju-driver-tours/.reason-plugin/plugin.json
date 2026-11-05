@@ -4,6 +4,7 @@
   "description": "Private driver tours in Jeju.",
   "homepage": "https://jetopia.kr/en/about",
   "docs": "https://jetopia.kr/en/about",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jetopia-jeju-driver-tours": {

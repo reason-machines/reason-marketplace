@@ -4,6 +4,7 @@
   "description": "Rotate partners, print & score.",
   "homepage": "https://doubles-mixer.zovo.one",
   "docs": "https://doubles-mixer.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "doubles-mixer": {

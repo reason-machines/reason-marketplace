@@ -4,6 +4,7 @@
   "description": "Deploy apps, manage servers.",
   "homepage": "https://impreza.host/",
   "docs": "https://impreza.host/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "impreza-host": {

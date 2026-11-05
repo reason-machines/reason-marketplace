@@ -4,6 +4,7 @@
   "description": "Project management for teams.",
   "homepage": "https://plate.to",
   "docs": "https://plate.to",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "plate": {

@@ -4,6 +4,7 @@
   "description": "Find golf. Plan your rounds.",
   "homepage": "https://stymie.golf",
   "docs": "https://stymie.golf/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stymie-golf": {

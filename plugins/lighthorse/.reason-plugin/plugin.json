@@ -4,6 +4,7 @@
   "description": "View your brokerage account.",
   "homepage": "https://www.lighthorse.io",
   "docs": "https://www.lighthorse.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lighthorse": {

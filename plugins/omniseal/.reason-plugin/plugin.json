@@ -4,6 +4,7 @@
   "description": "Seal and verify files.",
   "homepage": "https://purecipher.com/solutions/omniseal",
   "docs": "https://purecipher.com/solutions/omniseal",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "omniseal": {

@@ -4,6 +4,7 @@
   "description": "Design your life intentionally.",
   "homepage": "https://moderion.ai",
   "docs": "https://moderion.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "moderion": {

@@ -4,6 +4,7 @@
   "description": "Create videos & voiceovers.",
   "homepage": "https://creativeclaw.co/chatgpt/",
   "docs": "https://creativeclaw.co/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "creative-claw": {

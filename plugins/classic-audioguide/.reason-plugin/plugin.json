@@ -4,6 +4,7 @@
   "description": "Museum exhibition guide.",
   "homepage": "https://classicaudioguide.com",
   "docs": "https://classicaudioguide.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "classic-audioguide": {

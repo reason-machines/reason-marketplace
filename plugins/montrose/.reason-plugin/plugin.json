@@ -4,6 +4,7 @@
   "description": "Your Montrose accounts in chat.",
   "homepage": "https://www.montrose.io",
   "docs": "https://www.montrose.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "montrose": {

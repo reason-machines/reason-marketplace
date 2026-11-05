@@ -4,6 +4,7 @@
   "description": "B2B contact search and data.",
   "homepage": "https://revenuebase.ai/",
   "docs": "https://revenuebase.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "revenuebase": {

@@ -4,6 +4,7 @@
   "description": "Check, count & print packing.",
   "homepage": "https://packing-checklist.zovo.one",
   "docs": "https://packing-checklist.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "packing-checklist": {

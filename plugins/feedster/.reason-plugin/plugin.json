@@ -4,6 +4,7 @@
   "description": "The best of the web, for you.",
   "homepage": "https://feedster.co",
   "docs": "https://feedster.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "feedster": {

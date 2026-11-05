@@ -4,6 +4,7 @@
   "description": "Compress, merge, convert PDFs.",
   "homepage": "https://convertpdf.io",
   "docs": "https://convertpdf.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "convertpdf": {

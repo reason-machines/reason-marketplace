@@ -4,6 +4,7 @@
   "description": "Remember the people you know.",
   "homepage": "https://dots.toktokhan.dev",
   "docs": "https://dots.toktokhan.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dots-brain": {

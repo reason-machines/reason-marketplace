@@ -4,6 +4,7 @@
   "description": "Brand voice QA for drafts.",
   "homepage": "https://getellora.com",
   "docs": "https://getellora.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ellora": {

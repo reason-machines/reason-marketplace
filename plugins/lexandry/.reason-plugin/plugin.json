@@ -4,6 +4,7 @@
   "description": "Find listings for your needs.",
   "homepage": "https://www.lexandry.com",
   "docs": "https://www.lexandry.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lexandry": {

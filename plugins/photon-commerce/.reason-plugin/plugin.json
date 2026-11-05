@@ -4,6 +4,7 @@
   "description": "Document AI OCR HITL Labeling.",
   "homepage": "https://www.photoncommerce.com/",
   "docs": "https://www.photoncommerce.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "photon-commerce": {

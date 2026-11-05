@@ -4,6 +4,7 @@
   "description": "Analyse your ad campaigns.",
   "homepage": "https://www.flyweel.co/",
   "docs": "https://www.flyweel.co/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flyweel": {

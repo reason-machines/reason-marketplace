@@ -4,6 +4,7 @@
   "description": "Cloud Android emulators.",
   "homepage": "https://ramus.dev",
   "docs": "https://ramus.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ramus": {

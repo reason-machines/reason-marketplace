@@ -4,6 +4,7 @@
   "description": "Interactive 2D and 3D graphs.",
   "homepage": "https://equation.io",
   "docs": "https://equation.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "equation-io": {

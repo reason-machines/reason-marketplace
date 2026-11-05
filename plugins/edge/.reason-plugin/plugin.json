@@ -4,6 +4,7 @@
   "description": "Find and load the right skill.",
   "homepage": "https://getedge.cc/",
   "docs": "https://getedge.cc/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "edge": {

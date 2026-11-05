@@ -4,6 +4,7 @@
   "description": "Charts for you and your people.",
   "homepage": "https://danuastrology.com",
   "docs": "https://danuastrology.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "danu": {

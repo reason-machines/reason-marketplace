@@ -4,6 +4,7 @@
   "description": "Check support ticket fields.",
   "homepage": "https://support-ticket-validator.sidcraigau.workers.dev",
   "docs": "https://support-ticket-validator.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "support-ticket-validator": {

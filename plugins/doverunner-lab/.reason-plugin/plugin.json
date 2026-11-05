@@ -4,6 +4,7 @@
   "description": "Secure content and mobile apps.",
   "homepage": "https://lab.doverunner.com",
   "docs": "https://lab.doverunner.com/ai-apps",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "doverunner-lab": {

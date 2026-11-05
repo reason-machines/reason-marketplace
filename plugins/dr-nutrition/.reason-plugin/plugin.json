@@ -4,6 +4,7 @@
   "description": "Shop nutrition products.",
   "homepage": "https://drnutrition.com",
   "docs": "https://drnutrition.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dr-nutrition": {

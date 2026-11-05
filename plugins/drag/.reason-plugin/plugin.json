@@ -4,6 +4,7 @@
   "description": "Gmail shared inbox for teams.",
   "homepage": "https://www.dragapp.com",
   "docs": "https://www.dragapp.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "drag": {

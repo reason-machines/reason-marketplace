@@ -4,6 +4,7 @@
   "description": "Find the best place to live.",
   "homepage": "https://relomaps.com/chatgpt",
   "docs": "https://relomaps.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "relomaps": {

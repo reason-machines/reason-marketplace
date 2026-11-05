@@ -4,6 +4,7 @@
   "description": "Does this campsite fit you?",
   "homepage": "https://findcamp.cc",
   "docs": "https://findcamp.cc/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "findcamp": {

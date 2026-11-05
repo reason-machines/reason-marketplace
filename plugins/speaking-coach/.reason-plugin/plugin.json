@@ -4,6 +4,7 @@
   "description": "Practice aloud. Improve.",
   "homepage": "https://speaking-coach-plugin.vercel.app/",
   "docs": "https://speaking-coach-plugin.vercel.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "speaking-coach": {

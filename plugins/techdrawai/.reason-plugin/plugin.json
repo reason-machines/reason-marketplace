@@ -4,6 +4,7 @@
   "description": "Photos to technical drawings.",
   "homepage": "https://techdrawai.com",
   "docs": "https://techdrawai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "techdrawai": {

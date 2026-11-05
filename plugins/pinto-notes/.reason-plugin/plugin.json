@@ -4,6 +4,7 @@
   "description": "Read and edit your notes.",
   "homepage": "https://pintonotes.com",
   "docs": "https://pintonotes.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pinto-notes": {

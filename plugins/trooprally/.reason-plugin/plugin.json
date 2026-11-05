@@ -4,6 +4,7 @@
   "description": "Polls, signups & appointments.",
   "homepage": "https://trooprally.com/integrations",
   "docs": "https://trooprally.com/integrations",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trooprally": {

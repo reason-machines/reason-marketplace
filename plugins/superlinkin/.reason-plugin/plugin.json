@@ -4,6 +4,7 @@
   "description": "LinkedIn inbox & reply drafts.",
   "homepage": "https://superlinkin.com/chatgpt/",
   "docs": "https://superlinkin.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superlinkin": {

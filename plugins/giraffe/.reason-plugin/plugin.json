@@ -4,6 +4,7 @@
   "description": "Keep your AI projects clear.",
   "homepage": "https://withgiraffe.com",
   "docs": "https://withgiraffe.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "giraffe": {

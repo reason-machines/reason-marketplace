@@ -4,6 +4,7 @@
   "description": "Manage personal finances.",
   "homepage": "https://www.pocketsmith.com/",
   "docs": "https://www.pocketsmith.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pocketsmith-complete-access": {

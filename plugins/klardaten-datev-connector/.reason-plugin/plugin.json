@@ -4,6 +4,7 @@
   "description": "Controlled access to DATEV.",
   "homepage": "https://klardaten.com",
   "docs": "https://klardaten.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "klardaten-datev-connector": {

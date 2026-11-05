@@ -4,6 +4,7 @@
   "description": "Find your next movie or show.",
   "homepage": "https://goodwatch.app",
   "docs": "https://goodwatch.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "goodwatch": {

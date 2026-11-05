@@ -4,6 +4,7 @@
   "description": "Meeting notes & transcripts.",
   "homepage": "https://recordmeeting.com",
   "docs": "https://api.recordmeeting.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "record-meeting": {

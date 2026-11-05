@@ -4,6 +4,7 @@
   "description": "Search your calls & notes.",
   "homepage": "https://www.hardlineapp.com",
   "docs": "https://docs.hardlineapp.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hardline": {

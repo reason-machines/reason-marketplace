@@ -4,6 +4,7 @@
   "description": "Turn your idea into a company.",
   "homepage": "https://www.joinspelt.com",
   "docs": "https://www.joinspelt.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spelt": {

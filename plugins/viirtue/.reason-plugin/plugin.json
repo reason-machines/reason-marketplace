@@ -4,6 +4,7 @@
   "description": "Ask your cloud phone system.",
   "homepage": "https://viirtue.com/",
   "docs": "https://viirtue.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "viirtue": {

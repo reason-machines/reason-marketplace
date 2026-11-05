@@ -4,6 +4,7 @@
   "description": "Compare dog & cat insurance.",
   "homepage": "https://petgpt.com/",
   "docs": "https://tedix.dev/apps/petgpt-dog-cat-insurance/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "petgpt-dog-and-cat-insurance": {

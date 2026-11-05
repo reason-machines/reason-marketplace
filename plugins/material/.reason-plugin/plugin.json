@@ -4,6 +4,7 @@
   "description": "A library for you and your AI.",
   "homepage": "https://material.sc",
   "docs": "https://material.sc",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "material": {

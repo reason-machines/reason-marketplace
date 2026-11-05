@@ -4,6 +4,7 @@
   "description": "Extract delivery reports.",
   "homepage": "https://delivery-report-extractor.sidcraigau.workers.dev",
   "docs": "https://delivery-report-extractor.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "delivery-report-extractor": {

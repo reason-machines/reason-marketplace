@@ -4,6 +4,7 @@
   "description": "UGC campaign analytics.",
   "homepage": "https://ugctrackr.com",
   "docs": "https://app.ugctrackr.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trackr": {

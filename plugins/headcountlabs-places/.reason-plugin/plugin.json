@@ -4,6 +4,7 @@
   "description": "Places open now near you.",
   "homepage": "https://headcountlabs.com",
   "docs": "https://headcountlabs.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "headcountlabs-places": {

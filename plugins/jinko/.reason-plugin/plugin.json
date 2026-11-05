@@ -4,6 +4,7 @@
   "description": "Book flights and hotels.",
   "homepage": "https://gojinko.com",
   "docs": "https://gojinko.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jinko": {

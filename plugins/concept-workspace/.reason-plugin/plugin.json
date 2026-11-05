@@ -4,6 +4,7 @@
   "description": "Team context and tools.",
   "homepage": "https://www.concept.dev",
   "docs": "https://api.concept.dev/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "concept-workspace": {

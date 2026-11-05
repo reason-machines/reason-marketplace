@@ -4,6 +4,7 @@
   "description": "Invoicing & LHDN e-invoices.",
   "homepage": "https://invoa.io",
   "docs": "https://invoa.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "invoa": {

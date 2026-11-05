@@ -4,6 +4,7 @@
   "description": "Plan and publish social posts.",
   "homepage": "https://shager.ai/en",
   "docs": "https://shager.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shager": {

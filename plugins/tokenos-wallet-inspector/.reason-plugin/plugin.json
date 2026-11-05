@@ -4,6 +4,7 @@
   "description": "Wallets, tokens, rug checks.",
   "homepage": "https://tokenos.ai/chatgpt-apps/wallet-inspector",
   "docs": "https://tokenos.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tokenos-wallet-inspector": {

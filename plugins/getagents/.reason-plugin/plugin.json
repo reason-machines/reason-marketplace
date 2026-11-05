@@ -4,6 +4,7 @@
   "description": "AI marketing & sales agents.",
   "homepage": "https://getagents.io/en/",
   "docs": "https://getagents.io/en/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "getagents": {

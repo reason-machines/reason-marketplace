@@ -4,6 +4,7 @@
   "description": "Craft your shidduch résumé.",
   "homepage": "https://livnot.app",
   "docs": "https://livnot.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "livnot": {

@@ -4,6 +4,7 @@
   "description": "Find homes and guides.",
   "homepage": "https://epkproperties.com",
   "docs": "https://epkproperties.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "epk-properties": {

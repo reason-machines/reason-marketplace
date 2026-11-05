@@ -4,6 +4,7 @@
   "description": "Structured decision making.",
   "homepage": "https://decisionpoint.io",
   "docs": "https://mcp.decisionpoint.io/.well-known/oauth-protected-resource/v1/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "decisionpoint-io": {

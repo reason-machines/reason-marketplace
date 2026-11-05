@@ -4,6 +4,7 @@
   "description": "Play a dinosaur runner.",
   "homepage": "https://dino-gpt.charandeep.net/about",
   "docs": "https://dino-gpt.charandeep.net/about",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dino-run-plus": {

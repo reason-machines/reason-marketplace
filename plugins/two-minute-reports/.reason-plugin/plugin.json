@@ -4,6 +4,7 @@
   "description": "Connect PPC & SEO Data Sources.",
   "homepage": "https://twominutereports.com",
   "docs": "https://twominutereports.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "two-minute-reports": {

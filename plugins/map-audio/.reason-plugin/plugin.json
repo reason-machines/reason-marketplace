@@ -4,6 +4,7 @@
   "description": "Audio analysis and tinkering.",
   "homepage": "https://audio.map.audio",
   "docs": "https://map.audio/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "map-audio": {

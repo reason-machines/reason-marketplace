@@ -4,6 +4,7 @@
   "description": "App ad research & ASO audits.",
   "homepage": "https://clonerrr.com",
   "docs": "https://clonerrr.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clonerrr": {

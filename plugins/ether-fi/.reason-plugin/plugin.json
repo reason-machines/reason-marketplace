@@ -4,6 +4,7 @@
   "description": "Read your ether.fi account.",
   "homepage": "https://www.ether.fi/",
   "docs": "https://www.ether.fi/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ether-fi": {

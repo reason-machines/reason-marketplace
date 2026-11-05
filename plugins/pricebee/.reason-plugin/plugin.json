@@ -4,6 +4,7 @@
   "description": "Baltic prices and mobile plans.",
   "homepage": "https://pricebee.lt/en/ai-assistants",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=lt.pricebee/pricebee",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pricebee": {

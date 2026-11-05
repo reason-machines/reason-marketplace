@@ -4,6 +4,7 @@
   "description": "Use Google Ads, Meta, TikTok.",
   "homepage": "https://insightfulpipe.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.insightfulpipe/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "insightfulpipe": {

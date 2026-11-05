@@ -4,6 +4,7 @@
   "description": "Read college football ratings.",
   "homepage": "https://kenpunt.com",
   "docs": "https://kenpunt.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kenpunt": {

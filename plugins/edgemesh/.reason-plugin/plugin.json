@@ -4,6 +4,7 @@
   "description": "Interface with Edgemesh's MCP.",
   "homepage": "https://edgemesh.com",
   "docs": "https://edgemesh.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "edgemesh": {

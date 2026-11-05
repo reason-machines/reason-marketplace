@@ -4,6 +4,7 @@
   "description": "Create slideshows and videos.",
   "homepage": "https://doublespeed.ai",
   "docs": "https://doublespeed.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "doublespeed": {

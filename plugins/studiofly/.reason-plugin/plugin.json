@@ -4,6 +4,7 @@
   "description": "Studio classes, members, dues.",
   "homepage": "https://studiofly.fit",
   "docs": "https://studiofly.fit",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "studiofly": {

@@ -4,6 +4,7 @@
   "description": "Product photos, ads and videos.",
   "homepage": "https://orisu.ai",
   "docs": "https://orisu.ai/llms-full.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orisu": {

@@ -4,6 +4,7 @@
   "description": "Conservation and risk analysis.",
   "homepage": "https://georetina.com/",
   "docs": "https://georetina.com/docs/platform-capabilities/mcp-connector",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "georetina-ai": {

@@ -4,6 +4,7 @@
   "description": "Aufträge & Rechnungen per KI.",
   "homepage": "https://meistron.app",
   "docs": "https://meistron.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "meistron": {

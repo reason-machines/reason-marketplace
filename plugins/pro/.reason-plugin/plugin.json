@@ -4,6 +4,7 @@
   "description": "Your fitness, in conversation.",
   "homepage": "https://proapp.uk/mcp-connect",
   "docs": "https://proapp.uk/mcp-connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pro": {

@@ -4,6 +4,7 @@
   "description": "Charts, cards and reflection.",
   "homepage": "https://destiny-atlas.com",
   "docs": "https://destiny-atlas.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "destiny-atlas": {

@@ -4,6 +4,7 @@
   "description": "Query Mapped building data.",
   "homepage": "https://www.mapped.com",
   "docs": "https://www.mapped.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mapped": {

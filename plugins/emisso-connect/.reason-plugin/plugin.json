@@ -4,6 +4,7 @@
   "description": "Consulta SII y bancos de Chile.",
   "homepage": "https://connect.emisso.ai",
   "docs": "https://connect.emisso.ai/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "emisso-connect": {

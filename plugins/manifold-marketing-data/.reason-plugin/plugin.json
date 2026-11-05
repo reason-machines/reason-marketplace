@@ -4,6 +4,7 @@
   "description": "SEO, AI search & social data.",
   "homepage": "https://www.manifoldmcp.com",
   "docs": "https://www.manifoldmcp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "manifold-marketing-data": {

@@ -4,6 +4,7 @@
   "description": "Query data, build dashboards.",
   "homepage": "https://www.knowi.com",
   "docs": "https://www.knowi.com/docs/mcp-server.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "knowi": {

@@ -4,6 +4,7 @@
   "description": "Agent-first portfolio analysis.",
   "homepage": "https://portfolio.fit/",
   "docs": "https://portfolio.fit/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "portfoliofit": {

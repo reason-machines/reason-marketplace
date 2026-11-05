@@ -4,6 +4,7 @@
   "description": "Make AI videos and images.",
   "homepage": "https://renoise.ai",
   "docs": "https://renoise.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "renoise": {

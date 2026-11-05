@@ -4,6 +4,7 @@
   "description": "Explore debt consolidation.",
   "homepage": "https://oakbrookloans.com/oakbrook-one",
   "docs": "https://tedix.dev/apps/oakbrookone/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "oakbrookone": {

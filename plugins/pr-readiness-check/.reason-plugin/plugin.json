@@ -4,6 +4,7 @@
   "description": "Check PR review readiness.",
   "homepage": "https://pr-readiness-check.sidcraigau.workers.dev",
   "docs": "https://pr-readiness-check.sidcraigau.workers.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pr-readiness-check": {

@@ -4,6 +4,7 @@
   "description": "Search supplied subtitles.",
   "homepage": "https://reelscribe-dijitalpilot.vercel.app",
   "docs": "https://reelscribe-dijitalpilot.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dijitalpilot-reelscribe": {

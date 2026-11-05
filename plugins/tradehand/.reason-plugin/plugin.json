@@ -4,6 +4,7 @@
   "description": "Book local UK tradespeople.",
   "homepage": "https://tradehand.com",
   "docs": "https://tradehand.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tradehand": {

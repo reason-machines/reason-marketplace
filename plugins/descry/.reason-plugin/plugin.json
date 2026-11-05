@@ -4,6 +4,7 @@
   "description": "Organize creative projects.",
   "homepage": "https://descry.studio/",
   "docs": "https://descry.studio/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "descry": {

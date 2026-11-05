@@ -4,6 +4,7 @@
   "description": "Panchang and festival dates.",
   "homepage": "https://divineai.dharmikvibes.com/en/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.dharmikvibes/divineai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "divineai": {

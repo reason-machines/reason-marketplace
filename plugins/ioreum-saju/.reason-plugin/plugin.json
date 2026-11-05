@@ -4,6 +4,7 @@
   "description": "Korean saju charts, computed.",
   "homepage": "https://www.ioreum.com/en/connector",
   "docs": "https://ioreum.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ioreum-saju": {

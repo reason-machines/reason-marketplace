@@ -4,6 +4,7 @@
   "description": "Quote for business insurance.",
   "homepage": "https://meshedcover.com",
   "docs": "https://tedix.dev/apps/meshed-cover/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "meshed-cover": {

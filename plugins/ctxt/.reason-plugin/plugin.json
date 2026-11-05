@@ -4,6 +4,7 @@
   "description": "Share links that expire.",
   "homepage": "https://ctxt.io/mcp/docs",
   "docs": "https://ctxt.io/mcp/docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ctxt": {

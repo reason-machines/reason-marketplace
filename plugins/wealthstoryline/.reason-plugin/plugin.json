@@ -4,6 +4,7 @@
   "description": "Retirement & wealth simulator.",
   "homepage": "https://wealthstoryline.com",
   "docs": "https://wealthstoryline.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wealthstoryline": {

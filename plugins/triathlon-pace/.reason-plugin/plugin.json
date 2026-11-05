@@ -4,6 +4,7 @@
   "description": "Triathlon races and training.",
   "homepage": "https://triathlonpace.com",
   "docs": "https://triathlonpace.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "triathlon-pace": {

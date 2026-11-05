@@ -4,6 +4,7 @@
   "description": "Create service invoices.",
   "homepage": "https://invoicecraft-ai.vercel.app",
   "docs": "https://invoicecraft-ai.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "invoicecraft-ai": {

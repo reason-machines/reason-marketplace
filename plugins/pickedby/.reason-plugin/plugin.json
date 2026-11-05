@@ -4,6 +4,7 @@
   "description": "What your friends recommend.",
   "homepage": "https://pickedby.app",
   "docs": "https://pickedby.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pickedby": {

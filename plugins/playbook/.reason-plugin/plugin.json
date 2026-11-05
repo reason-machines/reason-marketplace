@@ -4,6 +4,7 @@
   "description": "Find and organize your assets.",
   "homepage": "https://www.playbook.com",
   "docs": "https://www.playbook.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "playbook": {

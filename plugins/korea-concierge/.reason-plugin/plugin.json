@@ -4,6 +4,7 @@
   "description": "Korea help with proof.",
   "homepage": "https://concierge.youngji.kim",
   "docs": "https://concierge.youngji.kim",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "korea-concierge": {

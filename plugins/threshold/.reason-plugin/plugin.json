@@ -4,6 +4,7 @@
   "description": "Book vacation rentals directly.",
   "homepage": "https://threshold.rentals",
   "docs": "https://threshold.rentals/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "threshold": {

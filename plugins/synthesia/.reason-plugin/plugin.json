@@ -4,6 +4,7 @@
   "description": "Make AI videos in the chat.",
   "homepage": "https://www.synthesia.io",
   "docs": "https://www.synthesia.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "synthesia": {

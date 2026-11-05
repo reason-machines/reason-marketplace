@@ -4,6 +4,7 @@
   "description": "Explore Georgia food.",
   "homepage": "https://dip.rest",
   "docs": "https://dip.rest",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dip-rest": {

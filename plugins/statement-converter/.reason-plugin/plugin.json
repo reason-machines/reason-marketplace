@@ -4,6 +4,7 @@
   "description": "Bank statement PDF to XLSX/CSV.",
   "homepage": "https://statement-converter.zovo.one",
   "docs": "https://statement-converter.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "statement-converter": {

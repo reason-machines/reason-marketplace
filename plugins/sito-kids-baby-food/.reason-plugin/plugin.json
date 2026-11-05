@@ -4,6 +4,7 @@
   "description": "First foods & food scores.",
   "homepage": "https://sito.kids",
   "docs": "https://sito.kids",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sito-kids-baby-food": {

@@ -4,6 +4,7 @@
   "description": "E2E-encrypted secret sharing.",
   "homepage": "https://lockbox.run",
   "docs": "https://lockbox.run",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lockbox": {

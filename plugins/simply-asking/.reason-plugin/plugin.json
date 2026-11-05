@@ -4,6 +4,7 @@
   "description": "Ask your company knowledge.",
   "homepage": "https://simplyasking.io",
   "docs": "https://simplyasking.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "simply-asking": {

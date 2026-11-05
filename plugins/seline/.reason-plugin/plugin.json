@@ -4,6 +4,7 @@
   "description": "Chat with your website stats.",
   "homepage": "https://seline.com",
   "docs": "https://seline.com/api/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seline": {

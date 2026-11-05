@@ -4,6 +4,7 @@
   "description": "The weekly AI project chart.",
   "homepage": "https://www.hot100.ai/",
   "docs": "https://www.hot100.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hot100-ai": {

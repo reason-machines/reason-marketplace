@@ -4,6 +4,7 @@
   "description": "University schedules and GPA.",
   "homepage": "https://www.khattet.app/",
   "docs": "https://www.khattet.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "khattet": {

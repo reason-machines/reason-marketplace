@@ -4,6 +4,7 @@
   "description": "Ask about videos you saved.",
   "homepage": "https://use-vinci.com",
   "docs": "https://use-vinci.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vinci": {

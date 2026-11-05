@@ -4,6 +4,7 @@
   "description": "AI football predictions.",
   "homepage": "https://kickwise.ai",
   "docs": "https://kickwise.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kickwise": {

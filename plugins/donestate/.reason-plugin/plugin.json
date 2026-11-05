@@ -4,6 +4,7 @@
   "description": "Governed coding with proof.",
   "homepage": "https://proofandstate.com/donestate",
   "docs": "https://proofandstate.com/donestate",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "donestate": {

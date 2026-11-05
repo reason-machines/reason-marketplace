@@ -4,6 +4,7 @@
   "description": "Monitor sources for news.",
   "homepage": "https://scoutpost.ai",
   "docs": "https://scoutpost.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scoutpost": {

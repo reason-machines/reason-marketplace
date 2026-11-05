@@ -4,6 +4,7 @@
   "description": "Search and clean your contacts.",
   "homepage": "https://nexusplus.ai",
   "docs": "https://nexusplus.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nexusplus": {

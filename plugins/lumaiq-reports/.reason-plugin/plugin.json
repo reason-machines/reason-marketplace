@@ -4,6 +4,7 @@
   "description": "Self-storage team reporting.",
   "homepage": "https://www.lumaiq.dev/plugins",
   "docs": "https://www.lumaiq.dev/plugins",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lumaiq-reports": {

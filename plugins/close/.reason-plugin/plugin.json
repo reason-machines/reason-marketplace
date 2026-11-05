@@ -4,6 +4,7 @@
   "description": "Close CRM for Reason.",
   "homepage": "https://www.close.com",
   "docs": "https://www.close.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "close": {

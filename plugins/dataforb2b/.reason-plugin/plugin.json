@@ -4,6 +4,7 @@
   "description": "People & company data.",
   "homepage": "https://dataforb2b.ai",
   "docs": "https://dataforb2b.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dataforb2b": {

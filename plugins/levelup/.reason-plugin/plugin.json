@@ -4,6 +4,7 @@
   "description": "Run your real estate business.",
   "homepage": "https://relevelup.com",
   "docs": "https://relevelup.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "levelup": {

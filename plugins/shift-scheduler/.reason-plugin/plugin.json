@@ -4,6 +4,7 @@
   "description": "Weekly staff shift schedules.",
   "homepage": "https://shift-scheduler.zovo.one",
   "docs": "https://shift-scheduler.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "shift-scheduler": {

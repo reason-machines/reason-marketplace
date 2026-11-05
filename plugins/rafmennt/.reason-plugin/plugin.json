@@ -4,6 +4,7 @@
   "description": "Courses and exams in Iceland.",
   "homepage": "https://www.rafmennt.is",
   "docs": "https://rafmennt.is/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rafmennt": {

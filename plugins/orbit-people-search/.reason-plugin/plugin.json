@@ -4,6 +4,7 @@
   "description": "People search and profiles.",
   "homepage": "https://orbitsearch.com/",
   "docs": "https://api.orbitsearch.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orbit-people-search": {

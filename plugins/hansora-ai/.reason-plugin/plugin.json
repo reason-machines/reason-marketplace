@@ -4,6 +4,7 @@
   "description": "Generate images, video & audio.",
   "homepage": "https://hansora.co",
   "docs": "https://hansora.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hansora-ai": {

@@ -4,6 +4,7 @@
   "description": "Creators, brands & agencies.",
   "homepage": "https://kolly.my",
   "docs": "https://kolly.my/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kolly": {

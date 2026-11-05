@@ -4,6 +4,7 @@
   "description": "Plan and track marketing spend.",
   "homepage": "https://www.etropo.com/",
   "docs": "https://www.etropo.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "etropo": {

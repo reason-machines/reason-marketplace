@@ -4,6 +4,7 @@
   "description": "AI customer research insights.",
   "homepage": "https://www.askverso.ai",
   "docs": "https://docs.askverso.ai/developers/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "verso": {

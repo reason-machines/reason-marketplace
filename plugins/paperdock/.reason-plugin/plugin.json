@@ -4,6 +4,7 @@
   "description": "Use your Reason for LaTeX.",
   "homepage": "https://paperdock.dev/",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=dev.paperdock/paperdock",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "paperdock": {

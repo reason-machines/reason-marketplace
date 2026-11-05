@@ -4,6 +4,7 @@
   "description": "Prompt Engineering Studio.",
   "homepage": "https://promptgpt.io",
   "docs": "https://promptgpt.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "promptgpt": {

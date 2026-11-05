@@ -4,6 +4,7 @@
   "description": "Compare 26 astrology systems.",
   "homepage": "https://mythsensus.com",
   "docs": "https://mythsensus.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mythsensus": {

@@ -4,6 +4,7 @@
   "description": "Manage construction projects.",
   "homepage": "https://constructable.ai",
   "docs": "https://constructable.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "constructable": {

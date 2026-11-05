@@ -4,6 +4,7 @@
   "description": "AI search visibility insights.",
   "homepage": "https://www.thrivestack.ai",
   "docs": "https://docs.thrivestack.ai/public/mcp/setup.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "thrivestack": {

@@ -4,6 +4,7 @@
   "description": "Manage flexible workspaces.",
   "homepage": "https://rntor.com",
   "docs": "https://rntor.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rntor": {

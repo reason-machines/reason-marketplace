@@ -4,6 +4,7 @@
   "description": "Search your screenshot library.",
   "homepage": "https://screenverb.com",
   "docs": "https://screenverb.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "screenverb": {

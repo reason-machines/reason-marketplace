@@ -4,6 +4,7 @@
   "description": "Search used marketplaces.",
   "homepage": "https://secondhandmcp.com",
   "docs": "https://secondhandmcp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "secondhand-marketplace": {

@@ -4,6 +4,7 @@
   "description": "Read, draft and act on email.",
   "homepage": "https://commandmail.app",
   "docs": "https://commandmail.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "command-mail": {

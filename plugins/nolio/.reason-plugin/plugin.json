@@ -4,6 +4,7 @@
   "description": "Endurance, strength and Hyrox.",
   "homepage": "https://www.nolio.io/en/",
   "docs": "https://www.nolio.io/en/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nolio": {

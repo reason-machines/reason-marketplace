@@ -4,6 +4,7 @@
   "description": "Host and share invitations.",
   "homepage": "https://www.partypass.mx",
   "docs": "https://www.partypass.mx",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "party-pass": {

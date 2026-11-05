@@ -4,6 +4,7 @@
   "description": "Crosslist to every marketplace.",
   "homepage": "https://fluf.io/",
   "docs": "https://fluf.io/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fluf-connect": {

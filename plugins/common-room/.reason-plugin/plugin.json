@@ -4,6 +4,7 @@
   "description": "Find contacts and accounts.",
   "homepage": "https://commonroom.io",
   "docs": "https://commonroom.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "common-room": {

@@ -4,6 +4,7 @@
   "description": "Kallax.io board games & events.",
   "homepage": "https://kallax.io/",
   "docs": "https://kallax.io/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kallax-io": {

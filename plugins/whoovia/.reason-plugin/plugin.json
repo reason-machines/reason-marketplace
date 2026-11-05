@@ -4,6 +4,7 @@
   "description": "Manage homebuyer profiles.",
   "homepage": "https://whoovia.com",
   "docs": "https://whoovia.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whoovia": {

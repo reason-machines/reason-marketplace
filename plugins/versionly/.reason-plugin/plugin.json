@@ -4,6 +4,7 @@
   "description": "Self-maintaining APIs.",
   "homepage": "https://versionly.dev",
   "docs": "https://versionly.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "versionly": {

@@ -4,6 +4,7 @@
   "description": "Convert 2D images into 3D glTF.",
   "homepage": "https://to3d.app/",
   "docs": "https://to3d.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "to3d": {

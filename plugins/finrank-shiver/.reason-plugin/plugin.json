@@ -4,6 +4,7 @@
   "description": "Bank intelligence.",
   "homepage": "https://tedix.dev/apps/finrank-shiver/",
   "docs": "https://tedix.dev/apps/finrank-shiver/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "finrank-shiver": {

@@ -4,6 +4,7 @@
   "description": "AI Chat -> podcast episode.",
   "homepage": "https://spkr-app.com",
   "docs": "https://spkr-app.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spkr-chat-to-podcast-episode": {

@@ -4,6 +4,7 @@
   "description": "Berlin, Hamburg & Munich roles.",
   "homepage": "https://pegel.berlin",
   "docs": "https://pegel.berlin",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pegel-jobs": {

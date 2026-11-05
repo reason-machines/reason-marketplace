@@ -4,6 +4,7 @@
   "description": "Parametric CAD for 3D printing.",
   "homepage": "https://owlcad.com",
   "docs": "https://owlcad.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "owlcad": {

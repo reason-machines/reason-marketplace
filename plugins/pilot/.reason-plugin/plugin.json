@@ -4,6 +4,7 @@
   "description": "Search hotels, book on Pilot.",
   "homepage": "https://pilotplans.com",
   "docs": "https://pilotplans.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pilot": {

@@ -4,6 +4,7 @@
   "description": "Seamless Financial Data.",
   "homepage": "https://www.factset.com",
   "docs": "https://www.factset.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "factset": {

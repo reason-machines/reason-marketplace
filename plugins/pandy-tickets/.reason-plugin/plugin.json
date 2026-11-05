@@ -4,6 +4,7 @@
   "description": "Find and host Guatemala events.",
   "homepage": "https://tickets.pandy.cloud",
   "docs": "https://tickets.pandy.cloud/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pandy-tickets": {

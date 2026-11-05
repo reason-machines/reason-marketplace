@@ -4,6 +4,7 @@
   "description": "Manage your TurboStack hosting.",
   "homepage": "https://www.hosted-power.com/en/platform/turbostack-what-turbostack",
   "docs": "https://www.hosted-power.com/en/platform/turbostack-what-turbostack",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "turbostack": {

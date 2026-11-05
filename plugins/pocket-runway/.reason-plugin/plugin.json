@@ -4,6 +4,7 @@
   "description": "Know What’s Safe Until Payday.",
   "homepage": "https://pocketrunway.com",
   "docs": "https://pocketrunway.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pocket-runway": {

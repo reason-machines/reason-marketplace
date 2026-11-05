@@ -4,6 +4,7 @@
   "description": "Turkish mutual fund data.",
   "homepage": "https://iyigelir.net",
   "docs": "https://iyigelir.net",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iyigelir": {

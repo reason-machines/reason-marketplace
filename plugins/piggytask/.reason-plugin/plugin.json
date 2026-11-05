@@ -4,6 +4,7 @@
   "description": "Manage kids' family chores.",
   "homepage": "https://piggytask.de",
   "docs": "https://app.piggytask.de/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "piggytask": {

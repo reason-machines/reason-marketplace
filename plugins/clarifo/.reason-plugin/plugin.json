@@ -4,6 +4,7 @@
   "description": "Company financial research.",
   "homepage": "https://www.clarifo.com",
   "docs": "https://www.clarifo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clarifo": {

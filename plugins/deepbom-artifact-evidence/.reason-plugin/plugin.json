@@ -4,6 +4,7 @@
   "description": "Inspect AI model artifacts.",
   "homepage": "https://deepbom.org/",
   "docs": "https://deepbom.org/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "deepbom-artifact-evidence": {

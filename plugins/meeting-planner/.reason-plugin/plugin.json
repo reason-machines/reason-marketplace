@@ -4,6 +4,7 @@
   "description": "Find meeting times across TZs.",
   "homepage": "https://meeting-planner.zovo.one",
   "docs": "https://meeting-planner.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "meeting-planner": {

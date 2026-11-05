@@ -4,6 +4,7 @@
   "description": "Uruguayan basketball stats.",
   "homepage": "https://mibasket.app",
   "docs": "https://mibasket.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mi-basket": {

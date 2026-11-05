@@ -4,6 +4,7 @@
   "description": "Chat with Your Finances.",
   "homepage": "https://pane.money",
   "docs": "https://pane.money",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pane": {

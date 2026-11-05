@@ -4,6 +4,7 @@
   "description": "Rates and transfer quotes.",
   "homepage": "https://www.riamoneytransfer.com",
   "docs": "https://tedix.dev/apps/ria-money-transfer/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ria-money-transfer": {

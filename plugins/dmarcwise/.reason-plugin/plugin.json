@@ -4,6 +4,7 @@
   "description": "Monitor email authentication.",
   "homepage": "https://dmarcwise.io",
   "docs": "https://dmarcwise.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dmarcwise": {

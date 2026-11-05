@@ -4,6 +4,7 @@
   "description": "Stock & prediction market data.",
   "homepage": "https://www.octagonai.co/",
   "docs": "https://www.octagonai.co/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "octagon-ai": {

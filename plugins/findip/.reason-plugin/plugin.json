@@ -4,6 +4,7 @@
   "description": "Semantic patent search.",
   "homepage": "https://findip.ai",
   "docs": "https://findip.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "findip": {

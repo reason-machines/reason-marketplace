@@ -4,6 +4,7 @@
   "description": "Search the web, read pages.",
   "homepage": "https://keenable.ai",
   "docs": "https://keenable.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "keenable": {

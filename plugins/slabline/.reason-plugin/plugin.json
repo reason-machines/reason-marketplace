@@ -4,6 +4,7 @@
   "description": "Card values & AI grading.",
   "homepage": "https://slabline.ai",
   "docs": "https://slabline.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "slabline": {

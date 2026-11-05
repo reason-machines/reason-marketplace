@@ -4,6 +4,7 @@
   "description": "Manage LinkedIn outreach.",
   "homepage": "https://yadulink.com",
   "docs": "https://yadulink.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yadulink": {

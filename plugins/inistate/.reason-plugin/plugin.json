@@ -4,6 +4,7 @@
   "description": "Make & run business workflows.",
   "homepage": "https://inistate.com",
   "docs": "https://inistate.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "inistate": {

@@ -4,6 +4,7 @@
   "description": "Find snags in website visits.",
   "homepage": "https://hootlens.com/",
   "docs": "https://hootlens.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hootlens": {

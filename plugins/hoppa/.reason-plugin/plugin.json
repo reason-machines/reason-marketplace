@@ -4,6 +4,7 @@
   "description": "Book airport transfers & taxis.",
   "homepage": "https://www.hoppa.com",
   "docs": "https://www.hoppa.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hoppa": {

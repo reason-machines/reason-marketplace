@@ -4,6 +4,7 @@
   "description": "Manage your reselling business.",
   "homepage": "https://nifty.ai",
   "docs": "https://docs.nifty.ai/mcp-server/mcp-server/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nifty": {

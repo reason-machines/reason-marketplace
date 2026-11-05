@@ -4,6 +4,7 @@
   "description": "Book sales analytics.",
   "homepage": "https://www.publisherchamp.com/",
   "docs": "https://www.publisherchamp.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "publisherchamp": {

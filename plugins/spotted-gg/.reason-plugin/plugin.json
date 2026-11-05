@@ -4,6 +4,7 @@
   "description": "CS2 match times and alerts.",
   "homepage": "https://spotted.gg",
   "docs": "https://spotted.gg",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spotted-gg": {

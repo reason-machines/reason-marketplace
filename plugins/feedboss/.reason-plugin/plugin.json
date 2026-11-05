@@ -4,6 +4,7 @@
   "description": "Draft and score LinkedIn posts.",
   "homepage": "https://feedboss.ai",
   "docs": "https://feedboss.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "feedboss": {

@@ -4,6 +4,7 @@
   "description": "Replacement & custom 3D parts.",
   "homepage": "https://partwright.app/",
   "docs": "https://partwright.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "partwright": {

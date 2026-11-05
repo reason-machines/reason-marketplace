@@ -4,6 +4,7 @@
   "description": "Grocery lists from recipes.",
   "homepage": "https://usegrocer.com",
   "docs": "https://usegrocer.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "grocer": {

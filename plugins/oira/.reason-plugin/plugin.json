@@ -4,6 +4,7 @@
   "description": "Share work updates with Oira.",
   "homepage": "https://oira-oira.com",
   "docs": "https://oira-oira.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "oira": {

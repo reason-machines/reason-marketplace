@@ -4,6 +4,7 @@
   "description": "Stock & ETF risk and backtests.",
   "homepage": "https://redstonemarkets.com",
   "docs": "https://redstonemarkets.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "redstone": {

@@ -4,6 +4,7 @@
   "description": "Live guide to Skopje - events.",
   "homepage": "https://happens.mk/",
   "docs": "https://happens.mk/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "happens-mk": {

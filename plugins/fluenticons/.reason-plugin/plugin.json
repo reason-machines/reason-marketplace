@@ -4,6 +4,7 @@
   "description": "Fluent UI icon search for code.",
   "homepage": "https://fluenticons.co/ai/",
   "docs": "https://fluenticons.co/ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fluenticons": {

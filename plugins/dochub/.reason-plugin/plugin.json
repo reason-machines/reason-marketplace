@@ -4,6 +4,7 @@
   "description": "Edit and Send PDFs.",
   "homepage": "https://www.dochub.com/",
   "docs": "https://www.dochub.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dochub": {

@@ -4,6 +4,7 @@
   "description": "Private Secret Santa draws.",
   "homepage": "https://gift-exchange.zovo.one",
   "docs": "https://gift-exchange.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gift-exchange": {

@@ -4,6 +4,7 @@
   "description": "Viral trends and AI videos.",
   "homepage": "https://www.makeviral.ai",
   "docs": "https://www.makeviral.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "makeviral": {

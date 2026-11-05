@@ -4,6 +4,7 @@
   "description": "Saved theses, exact evidence.",
   "homepage": "https://tickertrac.com/assistants?source=openai&medium=organic&campaign=assistant-connect-202610&creative=directory-v1",
   "docs": "https://tickertrac.com/assistants?source=openai&medium=organic&campaign=assistant-connect-202610&creative=directory-v1",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tickertrac-assistant": {

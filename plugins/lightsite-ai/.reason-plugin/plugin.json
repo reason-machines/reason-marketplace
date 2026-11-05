@@ -4,6 +4,7 @@
   "description": "AEO Analytics and Execution.",
   "homepage": "https://www.lightsite.ai",
   "docs": "https://www.lightsite.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lightsite-ai": {

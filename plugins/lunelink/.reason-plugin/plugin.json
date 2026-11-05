@@ -4,6 +4,7 @@
   "description": "Run your business with AI.",
   "homepage": "https://lunelink.com",
   "docs": "https://app.lunelink.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lunelink": {

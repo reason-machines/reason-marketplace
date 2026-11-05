@@ -4,6 +4,7 @@
   "description": "Client-ready marketing reports.",
   "homepage": "https://dashthis.com/",
   "docs": "https://dashthis.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dashthis": {

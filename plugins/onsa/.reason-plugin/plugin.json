@@ -4,6 +4,7 @@
   "description": "Find and qualify B2B leads.",
   "homepage": "https://onsa.ai",
   "docs": "https://onsa.ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "onsa": {

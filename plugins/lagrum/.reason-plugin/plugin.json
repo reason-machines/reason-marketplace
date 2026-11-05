@@ -4,6 +4,7 @@
   "description": "Swedish legal data.",
   "homepage": "https://lagrum.se/",
   "docs": "https://lagrum.se/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lagrum": {

@@ -4,6 +4,7 @@
   "description": "Saves Real Estate Agents Time.",
   "homepage": "https://chatgptmcpzip.replit.app",
   "docs": "https://chatgptmcpzip.replit.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nashville-real-estate-ai": {

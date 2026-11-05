@@ -4,6 +4,7 @@
   "description": "IIDX DP 실력 분석·연습곡 추천.",
   "homepage": "https://iidx.in/",
   "docs": "https://iidx.in/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "iidx-dp-coach": {

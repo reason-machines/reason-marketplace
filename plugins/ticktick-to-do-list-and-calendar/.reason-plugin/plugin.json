@@ -4,6 +4,7 @@
   "description": "Reminder, Planner, Countdown.",
   "homepage": "https://ticktick.com",
   "docs": "https://ticktick.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ticktick-to-do-list-and-calendar": {

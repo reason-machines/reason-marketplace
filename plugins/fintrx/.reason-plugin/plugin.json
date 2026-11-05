@@ -4,6 +4,7 @@
   "description": "FINTRX data at your fingertips.",
   "homepage": "https://www.fintrx.com/",
   "docs": "https://tedix.dev/apps/fintrx/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fintrx": {

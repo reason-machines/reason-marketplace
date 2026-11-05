@@ -4,6 +4,7 @@
   "description": "Design and publish websites.",
   "homepage": "https://mondovo.com",
   "docs": "https://app.mondovo.com/developers",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mondovo": {

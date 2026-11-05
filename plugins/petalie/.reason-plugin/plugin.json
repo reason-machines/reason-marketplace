@@ -4,6 +4,7 @@
   "description": "Public TikTok account stats.",
   "homepage": "https://petalie.ai",
   "docs": "https://petalie.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "petalie": {

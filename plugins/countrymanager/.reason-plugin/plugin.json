@@ -4,6 +4,7 @@
   "description": "Mobile apps: reviews and text.",
   "homepage": "https://countrymanager.app",
   "docs": "https://countrymanager.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "countrymanager": {

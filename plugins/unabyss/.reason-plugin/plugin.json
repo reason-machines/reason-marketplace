@@ -4,6 +4,7 @@
   "description": "Your context layer for AI.",
   "homepage": "https://unabyss.com/",
   "docs": "https://unabyss.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unabyss": {

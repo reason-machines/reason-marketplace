@@ -4,6 +4,7 @@
   "description": "Private transfer requests.",
   "homepage": "https://velora-shuttle.cz/chatgpt",
   "docs": "https://velora-shuttle.cz/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "velora-shuttle": {

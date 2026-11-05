@@ -4,6 +4,7 @@
   "description": "Chat with your recipe library.",
   "homepage": "https://www.deglaze.app",
   "docs": "https://www.deglaze.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "deglaze": {

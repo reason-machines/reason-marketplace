@@ -4,6 +4,7 @@
   "description": "Footage briefs and clip picks.",
   "homepage": "https://www.recharm.com",
   "docs": "https://www.recharm.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "recharm": {

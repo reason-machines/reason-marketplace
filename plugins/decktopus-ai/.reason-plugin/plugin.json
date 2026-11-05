@@ -4,6 +4,7 @@
   "description": "Make presentations, carousels.",
   "homepage": "https://www.decktopus.com",
   "docs": "https://www.decktopus.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "decktopus-ai": {

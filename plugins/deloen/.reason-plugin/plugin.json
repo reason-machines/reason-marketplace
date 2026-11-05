@@ -4,6 +4,7 @@
   "description": "Writing skills for AI models.",
   "homepage": "https://deloen.com",
   "docs": "https://deloen.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "deloen": {

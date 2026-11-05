@@ -4,6 +4,7 @@
   "description": "Manage your SEO & PPC.",
   "homepage": "https://www.ranked.ai",
   "docs": "https://ranked.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ranked-ai": {

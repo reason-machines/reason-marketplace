@@ -4,6 +4,7 @@
   "description": "Build and run your website.",
   "homepage": "https://zaemit.ai",
   "docs": "https://zaemit.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zaemit": {

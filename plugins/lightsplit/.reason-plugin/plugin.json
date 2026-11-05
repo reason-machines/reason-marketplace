@@ -4,6 +4,7 @@
   "description": "Split group expenses in chat.",
   "homepage": "https://lightsplit.com",
   "docs": "https://lightsplit.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lightsplit": {

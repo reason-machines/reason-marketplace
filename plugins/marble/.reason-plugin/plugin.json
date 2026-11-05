@@ -4,6 +4,7 @@
   "description": "Turn ideas into shared notes.",
   "homepage": "https://marble.md",
   "docs": "https://marble.md",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "marble": {

@@ -4,6 +4,7 @@
   "description": "Create docs, decks, and apps.",
   "homepage": "https://xenition.com",
   "docs": "https://api.xenition.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "xenition": {

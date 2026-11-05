@@ -4,6 +4,7 @@
   "description": "Beam analysis and steel shapes.",
   "homepage": "https://optimalbeam.com/",
   "docs": "https://optimalbeam.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "optimal-beam": {

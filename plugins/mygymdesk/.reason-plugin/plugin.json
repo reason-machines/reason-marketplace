@@ -4,6 +4,7 @@
   "description": "Gym members, classes and dues.",
   "homepage": "https://mygymdesk.com",
   "docs": "https://mygymdesk.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mygymdesk": {

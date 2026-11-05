@@ -4,6 +4,7 @@
   "description": "Search your dictation notes.",
   "homepage": "https://contextli.com",
   "docs": "https://contextli.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "contextli": {

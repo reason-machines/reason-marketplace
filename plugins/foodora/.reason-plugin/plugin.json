@@ -4,6 +4,7 @@
   "description": "Find restaurants and menus.",
   "homepage": "https://www.foodora.com/",
   "docs": "https://www.foodora.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "foodora": {

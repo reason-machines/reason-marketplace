@@ -4,6 +4,7 @@
   "description": "UK area intelligence.",
   "homepage": "https://myareareport.com/",
   "docs": "https://myareareport.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "myareareport": {

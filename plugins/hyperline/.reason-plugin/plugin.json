@@ -4,6 +4,7 @@
   "description": "CPQ, billing, and revenue.",
   "homepage": "https://hyperline.co",
   "docs": "https://hyperline.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hyperline": {

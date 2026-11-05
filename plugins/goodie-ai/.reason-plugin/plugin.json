@@ -4,6 +4,7 @@
   "description": "Optimize AI search visibility.",
   "homepage": "https://higoodie.com/",
   "docs": "https://higoodie.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "goodie-ai": {

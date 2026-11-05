@@ -4,6 +4,7 @@
   "description": "Book calls, explore services.",
   "homepage": "https://huntayazerturk.com",
   "docs": "https://huntayazerturk.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "huntay-azerturk": {

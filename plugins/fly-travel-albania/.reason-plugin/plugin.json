@@ -4,6 +4,7 @@
   "description": "Albania charter & tour prices.",
   "homepage": "https://flytravel.al",
   "docs": "https://flytravel.al",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fly-travel-albania": {

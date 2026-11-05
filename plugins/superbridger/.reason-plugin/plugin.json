@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://superbridger.com",
   "docs": "https://superbridger.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superbridger": {

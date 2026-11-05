@@ -4,6 +4,7 @@
   "description": "Service biz, searchable by AI.",
   "homepage": "https://fielmo.com",
   "docs": "https://fielmo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fielmo": {

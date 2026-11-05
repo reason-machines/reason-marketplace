@@ -4,6 +4,7 @@
   "description": "Weighted choice sensitivity.",
   "homepage": "https://decision-matrix.zovo.one",
   "docs": "https://decision-matrix.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "decision-matrix": {

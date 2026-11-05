@@ -4,6 +4,7 @@
   "description": "Find quiet Disney park days.",
   "homepage": "https://magic-tips.app",
   "docs": "https://magic-tips.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "magic-tips": {

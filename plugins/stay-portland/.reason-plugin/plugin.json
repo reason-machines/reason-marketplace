@@ -4,6 +4,7 @@
   "description": "Explore Portland rental homes.",
   "homepage": "https://www.stayportland.com",
   "docs": "https://www.stayportland.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stay-portland": {

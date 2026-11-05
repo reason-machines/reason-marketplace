@@ -4,6 +4,7 @@
   "description": "Access Intropic products.",
   "homepage": "https://intropic.io/",
   "docs": "https://tedix.dev/apps/intropic/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "intropic": {

@@ -4,6 +4,7 @@
   "description": "AI calling agents for India.",
   "homepage": "https://www.vyora.ai",
   "docs": "https://www.vyora.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vyora": {

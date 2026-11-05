@@ -4,6 +4,7 @@
   "description": "Find the best financing rates.",
   "homepage": "https://rateapi.dev",
   "docs": "https://rateapi.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rateapi": {

@@ -4,6 +4,7 @@
   "description": "Crypto derivatives market data.",
   "homepage": "https://debyko.com",
   "docs": "https://debyko.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "debyko": {

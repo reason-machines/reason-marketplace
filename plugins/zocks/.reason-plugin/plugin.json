@@ -4,6 +4,7 @@
   "description": "Analyze client insights.",
   "homepage": "https://zocks.io/",
   "docs": "https://help.zocks.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zocks": {

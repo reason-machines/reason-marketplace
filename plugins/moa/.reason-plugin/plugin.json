@@ -4,6 +4,7 @@
   "description": "Ask your meeting notes.",
   "homepage": "https://moa.codes/connect",
   "docs": "https://moa.codes/connect",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "moa": {

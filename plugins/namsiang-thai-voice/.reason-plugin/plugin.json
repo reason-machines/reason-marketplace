@@ -4,6 +4,7 @@
   "description": "Direct Thai voice performances.",
   "homepage": "https://tts.popnx.com/",
   "docs": "https://tts.popnx.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "namsiang-thai-voice": {

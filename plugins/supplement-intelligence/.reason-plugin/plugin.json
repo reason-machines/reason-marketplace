@@ -4,6 +4,7 @@
   "description": "Supplement evidence research.",
   "homepage": "https://supplement-intelligence.com",
   "docs": "https://supplement-intelligence.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "supplement-intelligence": {

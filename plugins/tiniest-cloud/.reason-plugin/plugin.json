@@ -4,6 +4,7 @@
   "description": "Deploy web apps with sign-in.",
   "homepage": "https://tiniest.cloud",
   "docs": "https://tiniest.cloud",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tiniest-cloud": {

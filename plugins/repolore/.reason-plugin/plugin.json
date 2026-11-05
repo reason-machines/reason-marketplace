@@ -4,6 +4,7 @@
   "description": "Explain public code history.",
   "homepage": "https://repolore.devlab.group",
   "docs": "https://repolore.devlab.group",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "repolore": {

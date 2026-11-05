@@ -4,6 +4,7 @@
   "description": "Find what to watch, read, play.",
   "homepage": "https://interestnaut.com",
   "docs": "https://interestnaut.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "interestnaut": {

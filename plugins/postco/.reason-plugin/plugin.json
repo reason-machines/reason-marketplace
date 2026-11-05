@@ -4,6 +4,7 @@
   "description": "Analyze your returns data.",
   "homepage": "https://postco.co/",
   "docs": "https://postco.co/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postco": {

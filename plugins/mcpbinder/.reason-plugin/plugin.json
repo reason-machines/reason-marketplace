@@ -4,6 +4,7 @@
   "description": "Manage projects and tasks.",
   "homepage": "https://www.mcpbinder.com/chatgpt",
   "docs": "https://mcpbinder.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mcpbinder": {

@@ -4,6 +4,7 @@
   "description": "Exclusive hotel deals.",
   "homepage": "https://hotely.travel",
   "docs": "https://hotely.travel",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hotely": {

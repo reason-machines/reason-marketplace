@@ -4,6 +4,7 @@
   "description": "Market intelligence & data.",
   "homepage": "https://www.fodda.ai",
   "docs": "https://www.fodda.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fodda-intelligence": {

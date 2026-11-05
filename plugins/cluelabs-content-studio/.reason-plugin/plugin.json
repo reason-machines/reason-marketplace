@@ -4,6 +4,7 @@
   "description": "Elearning course design tools.",
   "homepage": "https://cluelabs.com/",
   "docs": "https://cluelabs.com/mcp-ai-tools-for-elearning",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cluelabs-content-studio": {

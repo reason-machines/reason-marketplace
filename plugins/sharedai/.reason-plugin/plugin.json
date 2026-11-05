@@ -4,6 +4,7 @@
   "description": "Let your AI talk to theirs.",
   "homepage": "https://195.201.222.81.sslip.io/about",
   "docs": "https://195.201.222.81.sslip.io/about",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sharedai": {

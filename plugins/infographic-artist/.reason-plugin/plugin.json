@@ -4,6 +4,7 @@
   "description": "Principes et critique visuelle.",
   "homepage": "https://infographic-artist-1w7v.hatchable.site",
   "docs": "https://infographic-artist-1w7v.hatchable.site",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "infographic-artist": {

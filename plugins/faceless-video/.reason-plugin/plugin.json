@@ -4,6 +4,7 @@
   "description": "Create a Faceless Channel.",
   "homepage": "https://faceless.video",
   "docs": "https://faceless.video/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "faceless-video": {

@@ -4,6 +4,7 @@
   "description": "Transcripts for AI workflows.",
   "homepage": "https://www.clipto.com/cloud-mcp",
   "docs": "https://www.clipto.com/cloud-mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clipto-transcripts-ai-workflows": {

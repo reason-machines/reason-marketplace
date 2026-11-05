@@ -4,6 +4,7 @@
   "description": "AI beats and type beats.",
   "homepage": "https://mybeatz.ai",
   "docs": "https://mybeatz.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mybeatz": {

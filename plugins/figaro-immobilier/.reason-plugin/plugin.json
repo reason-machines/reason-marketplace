@@ -4,6 +4,7 @@
   "description": "Find the ideal property.",
   "homepage": "https://immobilier.lefigaro.fr/",
   "docs": "https://immobilier.lefigaro.fr/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "figaro-immobilier": {

@@ -4,6 +4,7 @@
   "description": "Plan workouts, review progress.",
   "homepage": "https://www.volm.app",
   "docs": "https://www.volm.app/faq/chatgpt-claude",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "volm": {

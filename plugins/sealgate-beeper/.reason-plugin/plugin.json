@@ -4,6 +4,7 @@
   "description": "Search and manage messages.",
   "homepage": "https://sealgate.ai/",
   "docs": "https://sealgate.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sealgate-beeper": {

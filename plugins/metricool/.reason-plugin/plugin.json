@@ -4,6 +4,7 @@
   "description": "Analyze and schedule posts.",
   "homepage": "https://metricool.com/",
   "docs": "https://metricool.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "metricool": {

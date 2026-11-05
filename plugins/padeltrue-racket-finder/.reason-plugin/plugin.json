@@ -4,6 +4,7 @@
   "description": "Sourced padel racket specs.",
   "homepage": "https://padeltrue.com/",
   "docs": "https://padeltrue.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "padeltrue-racket-finder": {

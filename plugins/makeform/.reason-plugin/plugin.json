@@ -4,6 +4,7 @@
   "description": "Create and manage forms.",
   "homepage": "https://www.makeform.ai",
   "docs": "https://www.makeform.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "makeform": {

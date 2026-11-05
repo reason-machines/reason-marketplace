@@ -4,6 +4,7 @@
   "description": "Wind & waves for beach days.",
   "homepage": "https://www.extremeapp.app",
   "docs": "https://www.extremeapp.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "extreme-wind": {

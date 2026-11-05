@@ -4,6 +4,7 @@
   "description": "IPO market data.",
   "homepage": "https://www.ipoinsider.com",
   "docs": "https://www.ipoinsider.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ipoinsider": {

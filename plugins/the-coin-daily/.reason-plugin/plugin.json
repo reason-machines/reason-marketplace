@@ -4,6 +4,7 @@
   "description": "Your crypto research desk.",
   "homepage": "https://thecoindaily.co",
   "docs": "https://thecoindaily.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "the-coin-daily": {

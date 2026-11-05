@@ -4,6 +4,7 @@
   "description": "Edinburgh hotels send offers.",
   "homepage": "https://www.novabid.co.uk",
   "docs": "https://www.novabid.co.uk/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "novabid": {

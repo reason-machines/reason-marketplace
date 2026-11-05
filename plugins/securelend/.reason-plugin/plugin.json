@@ -4,6 +4,7 @@
   "description": "Compare loans and financing.",
   "homepage": "https://securelend.ai/",
   "docs": "https://securelend.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "securelend": {

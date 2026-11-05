@@ -4,6 +4,7 @@
   "description": "Find, qualify, reach leads.",
   "homepage": "https://heykairon.com",
   "docs": "https://heykairon.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kairon": {

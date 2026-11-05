@@ -4,6 +4,7 @@
   "description": "Product videos, edited by AI.",
   "homepage": "https://www.raylight.app",
   "docs": "https://raylight.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "raylight": {

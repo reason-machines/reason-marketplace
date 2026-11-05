@@ -4,6 +4,7 @@
   "description": "See if your sleep is improving.",
   "homepage": "https://www.lezonder.com",
   "docs": "https://www.lezonder.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lezonder": {

@@ -4,6 +4,7 @@
   "description": "Pick the best miles card.",
   "homepage": "https://kiasumiles.space",
   "docs": "https://kiasumiles.space",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kiasumiles": {

@@ -4,6 +4,7 @@
   "description": "Find and hire freelancers.",
   "homepage": "https://www.fiverr.com/",
   "docs": "https://www.fiverr.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fiverr": {

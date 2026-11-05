@@ -4,6 +4,7 @@
   "description": "Find and validate offers.",
   "homepage": "https://nexez.ai/agents",
   "docs": "https://nexez.ai/agents",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nexez-buyer": {

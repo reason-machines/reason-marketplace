@@ -4,6 +4,7 @@
   "description": "Live multi-cloud inventory.",
   "homepage": "https://cloudaware.com/",
   "docs": "https://cloudaware.com/mcp-server/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cloudaware-service-graph": {

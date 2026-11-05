@@ -4,6 +4,7 @@
   "description": "Federal BD and capture CRM.",
   "homepage": "https://gov-peak.com",
   "docs": "https://gov-peak.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "govpeak": {

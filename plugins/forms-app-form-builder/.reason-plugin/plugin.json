@@ -4,6 +4,7 @@
   "description": "Create forms & analyze answers.",
   "homepage": "https://forms.app",
   "docs": "https://developers.forms.app/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "forms-app-form-builder": {

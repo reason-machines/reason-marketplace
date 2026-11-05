@@ -4,6 +4,7 @@
   "description": "Lav en slutseddel i samtalen.",
   "homepage": "https://www.sikkeraftale.dk",
   "docs": "https://sikkeraftale.dk/integrations/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sikkeraftale": {

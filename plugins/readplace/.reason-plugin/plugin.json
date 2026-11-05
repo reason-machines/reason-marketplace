@@ -4,6 +4,7 @@
   "description": "Save links to read later.",
   "homepage": "https://readplace.com/",
   "docs": "https://readplace.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "readplace": {

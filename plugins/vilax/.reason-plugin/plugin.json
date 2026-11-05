@@ -4,6 +4,7 @@
   "description": "Navigation system for business.",
   "homepage": "https://vilax.ai",
   "docs": "https://vilax.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vilax": {

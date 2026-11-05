@@ -4,6 +4,7 @@
   "description": "Find your next NYC apartment.",
   "homepage": "https://buzzedin.com/",
   "docs": "https://buzzedin.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "leaseswap": {

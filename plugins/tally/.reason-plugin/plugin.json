@@ -4,6 +4,7 @@
   "description": "Create free forms and surveys.",
   "homepage": "https://tally.so",
   "docs": "https://tally.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tally": {

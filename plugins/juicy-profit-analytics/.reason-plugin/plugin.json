@@ -4,6 +4,7 @@
   "description": "Shopify profit & ad analytics.",
   "homepage": "https://juicy.fyi/",
   "docs": "https://juicy.fyi/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "juicy-profit-analytics": {

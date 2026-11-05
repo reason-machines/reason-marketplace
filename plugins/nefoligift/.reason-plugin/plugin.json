@@ -4,6 +4,7 @@
   "description": "Wishlists & Gifts.",
   "homepage": "https://gift.nefoli.de/",
   "docs": "https://gift.nefoli.de/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nefoligift": {

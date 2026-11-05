@@ -4,6 +4,7 @@
   "description": "Search patents, find prior art.",
   "homepage": "https://patenta.ai",
   "docs": "https://patenta.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "patenta": {

@@ -4,6 +4,7 @@
   "description": "Interactive 3D molecules.",
   "homepage": "https://molviewer.bio",
   "docs": "https://molviewer.bio",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "molviewer": {

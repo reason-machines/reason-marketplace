@@ -4,6 +4,7 @@
   "description": "Your teaching assistant.",
   "homepage": "https://maakrop.com",
   "docs": "https://maakrop.com/ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "maakrop": {

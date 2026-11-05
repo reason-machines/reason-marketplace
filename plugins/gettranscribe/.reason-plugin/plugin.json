@@ -4,6 +4,7 @@
   "description": "Transcribe public video links.",
   "homepage": "https://www.gettranscribe.ai",
   "docs": "https://www.gettranscribe.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gettranscribe": {

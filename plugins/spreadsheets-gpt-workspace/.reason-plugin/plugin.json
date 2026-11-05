@@ -4,6 +4,7 @@
   "description": "Automate spreadsheet work.",
   "homepage": "https://gpt.space/sheets/chatgpt-spreadsheet-maker",
   "docs": "https://gpt.space/sheets/chatgpt-spreadsheet-maker",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spreadsheets-gpt-workspace": {

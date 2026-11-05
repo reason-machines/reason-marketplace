@@ -4,6 +4,7 @@
   "description": "Research equipment & software.",
   "homepage": "https://conductscience.com",
   "docs": "https://conductscience.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "conductscience": {

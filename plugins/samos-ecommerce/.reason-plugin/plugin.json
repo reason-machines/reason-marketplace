@@ -4,6 +4,7 @@
   "description": "International parcel delivery.",
   "homepage": "https://samos-e.com/ai-assistants",
   "docs": "https://samos-e.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "samos-ecommerce": {

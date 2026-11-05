@@ -4,6 +4,7 @@
   "description": "Federal rules and deadlines.",
   "homepage": "https://fed-register.zovo.one",
   "docs": "https://fed-register.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fed-register": {

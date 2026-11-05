@@ -4,6 +4,7 @@
   "description": "Search your network.",
   "homepage": "https://happenstance.ai",
   "docs": "https://happenstance.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "happenstance": {

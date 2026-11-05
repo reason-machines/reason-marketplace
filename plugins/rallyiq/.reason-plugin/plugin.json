@@ -4,6 +4,7 @@
   "description": "Tennis game plans and scouting.",
   "homepage": "https://bigballi.com/RallyIQ/",
   "docs": "https://bigballi.com/RallyIQ/connect",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rallyiq": {

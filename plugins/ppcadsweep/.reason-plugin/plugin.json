@@ -4,6 +4,7 @@
   "description": "Review Amazon PPC waste.",
   "homepage": "https://ppcadsweep.com",
   "docs": "https://ppcadsweep.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ppcadsweep": {

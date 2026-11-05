@@ -4,6 +4,7 @@
   "description": "Get French real estate data.",
   "homepage": "https://pillr.fr",
   "docs": "https://pillr.fr/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pillr": {

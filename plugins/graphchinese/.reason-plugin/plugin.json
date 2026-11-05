@@ -4,6 +4,7 @@
   "description": "Learn Chinese by conversation.",
   "homepage": "https://graphchinese.com/",
   "docs": "https://graphchinese.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "graphchinese": {

@@ -4,6 +4,7 @@
   "description": "AI Notes & Memory.",
   "homepage": "https://twinmind.com/",
   "docs": "https://twinmind.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "twinmind": {

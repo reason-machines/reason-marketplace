@@ -4,6 +4,7 @@
   "description": "Run clinical calculators.",
   "homepage": "https://oath.md",
   "docs": "https://oath.md",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "oathmcp": {

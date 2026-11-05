@@ -4,6 +4,7 @@
   "description": "Financial data.",
   "homepage": "https://www.wisesheets.io/",
   "docs": "https://www.wisesheets.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wisesheets": {

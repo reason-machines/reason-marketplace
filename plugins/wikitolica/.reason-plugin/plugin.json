@@ -4,6 +4,7 @@
   "description": "Busca artículos de Wikitólica.",
   "homepage": "https://www.wikitolica.com/",
   "docs": "https://wikitolica.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wikitolica": {

@@ -4,6 +4,7 @@
   "description": "Your monthly budget.",
   "homepage": "https://monthly.com.ar/",
   "docs": "https://monthly.com.ar/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "monthly-app": {

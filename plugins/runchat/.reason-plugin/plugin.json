@@ -4,6 +4,7 @@
   "description": "Design workflows and CAD.",
   "homepage": "https://runchat.com",
   "docs": "https://runchat.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "runchat": {

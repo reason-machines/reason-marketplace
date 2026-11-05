@@ -4,6 +4,7 @@
   "description": "SEO made simple.",
   "homepage": "https://openseo.so",
   "docs": "https://openseo.so/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "openseo": {

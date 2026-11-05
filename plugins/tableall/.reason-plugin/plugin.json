@@ -4,6 +4,7 @@
   "description": "Reserve fine dining in Japan.",
   "homepage": "https://www.tableall.com",
   "docs": "https://tableall.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tableall": {

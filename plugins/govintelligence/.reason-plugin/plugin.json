@@ -4,6 +4,7 @@
   "description": "Public tender intelligence.",
   "homepage": "https://www.gov-intel.com/en/mcp",
   "docs": "https://www.gov-intel.com/en/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "govintelligence": {

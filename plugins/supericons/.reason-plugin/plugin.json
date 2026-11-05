@@ -4,6 +4,7 @@
   "description": "Find the right icon faster.",
   "homepage": "https://supericons.dev",
   "docs": "https://supericons.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "supericons": {

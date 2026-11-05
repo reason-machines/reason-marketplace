@@ -4,6 +4,7 @@
   "description": "Quotes, contracts, invoices.",
   "homepage": "https://docsautomator.co/features/ai-and-agents/",
   "docs": "https://docsautomator.co/features/ai-and-agents/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docsautomator": {

@@ -4,6 +4,7 @@
   "description": "Your saved reading, in chat.",
   "homepage": "https://saive.my",
   "docs": "https://app.saive.my/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "saive": {

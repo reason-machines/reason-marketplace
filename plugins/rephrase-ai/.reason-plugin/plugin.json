@@ -4,6 +4,7 @@
   "description": "Rewrite and edit your drafts.",
   "homepage": "https://www.rephraseai.com",
   "docs": "https://www.rephraseai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rephrase-ai": {

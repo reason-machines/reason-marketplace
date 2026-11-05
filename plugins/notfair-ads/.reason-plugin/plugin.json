@@ -4,6 +4,7 @@
   "description": "Audit and improve ads.",
   "homepage": "https://notfair.co",
   "docs": "https://notfair.co/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notfair-ads": {

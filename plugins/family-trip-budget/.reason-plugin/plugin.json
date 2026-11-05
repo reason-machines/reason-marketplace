@@ -4,6 +4,7 @@
   "description": "Family trip costs in seconds.",
   "homepage": "https://www.endlesstravelplans.com/ai-assistants",
   "docs": "https://www.endlesstravelplans.com/ai-assistants",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "family-trip-budget": {

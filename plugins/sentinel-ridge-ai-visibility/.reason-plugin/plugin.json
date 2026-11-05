@@ -4,6 +4,7 @@
   "description": "AI visibility website audits.",
   "homepage": "https://sentinelridgesoftware.com/",
   "docs": "https://sentinelridgesoftware.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sentinel-ridge-ai-visibility": {

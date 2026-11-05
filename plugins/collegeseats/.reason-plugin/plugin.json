@@ -4,6 +4,7 @@
   "description": "College sports resale tickets.",
   "homepage": "https://collegeseats.com",
   "docs": "https://collegeseats.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "collegeseats": {

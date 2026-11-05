@@ -4,6 +4,7 @@
   "description": "Social media scheduling.",
   "homepage": "https://viewsmax.com",
   "docs": "https://viewsmax.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "viewsmax": {

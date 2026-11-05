@@ -4,6 +4,7 @@
   "description": "Monitor & Control 3D Printers.",
   "homepage": "https://octoeverywhere.com",
   "docs": "https://octoeverywhere.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "octoeverywhere": {

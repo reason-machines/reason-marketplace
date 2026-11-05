@@ -4,6 +4,7 @@
   "description": "Find trusted agent skills.",
   "homepage": "https://omgskills.com/",
   "docs": "https://omgskills.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "omgskills": {

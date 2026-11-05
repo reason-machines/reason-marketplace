@@ -4,6 +4,7 @@
   "description": "Schedule social posts.",
   "homepage": "https://www.poster.ly/chatgpt",
   "docs": "https://www.poster.ly/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "posterly-openai": {

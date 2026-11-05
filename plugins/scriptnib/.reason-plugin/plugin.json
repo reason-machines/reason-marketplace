@@ -4,6 +4,7 @@
   "description": "Connect your screenplay work.",
   "homepage": "https://scriptnib.com",
   "docs": "https://scriptnib.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scriptnib": {

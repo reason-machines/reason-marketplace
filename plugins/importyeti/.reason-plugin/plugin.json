@@ -4,6 +4,7 @@
   "description": "Find importers and suppliers.",
   "homepage": "https://www.importyeti.com/",
   "docs": "https://www.importyeti.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "importyeti": {

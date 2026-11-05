@@ -4,6 +4,7 @@
   "description": "Send faxes from the chat.",
   "homepage": "https://faxanything.com/how-it-works",
   "docs": "https://faxanything.com/how-it-works",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fax-anything-connector": {

@@ -4,6 +4,7 @@
   "description": "Daily Stoic journal.",
   "homepage": "https://safrow.com/mcp/stoic",
   "docs": "https://safrow.com/mcp/stoic",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stoic": {

@@ -4,6 +4,7 @@
   "description": "Combine supplements into one.",
   "homepage": "https://picardo.health",
   "docs": "https://picardo.health",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "picardo-supplements": {

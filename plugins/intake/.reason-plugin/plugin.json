@@ -4,6 +4,7 @@
   "description": "Collect client docs and forms.",
   "homepage": "https://dointake.com",
   "docs": "https://dointake.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "intake": {

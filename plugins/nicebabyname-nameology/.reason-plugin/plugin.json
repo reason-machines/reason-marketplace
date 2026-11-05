@@ -4,6 +4,7 @@
   "description": "Baby names with Nameology.",
   "homepage": "https://nicebabyname.com",
   "docs": "https://nicebabyname.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nicebabyname-nameology": {

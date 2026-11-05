@@ -4,6 +4,7 @@
   "description": "Tasks, lists and your crew.",
   "homepage": "https://taskmafia.com",
   "docs": "https://taskmafia.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "task-mafia": {

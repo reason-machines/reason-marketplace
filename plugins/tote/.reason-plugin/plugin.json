@@ -4,6 +4,7 @@
   "description": "Find and organize saved Totes.",
   "homepage": "https://tote.fyi",
   "docs": "https://tote.fyi",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tote": {

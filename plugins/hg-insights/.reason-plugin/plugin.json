@@ -4,6 +4,7 @@
   "description": "Prospect intelligence for sale.",
   "homepage": "https://hginsights.com",
   "docs": "https://hginsights.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hg-insights": {

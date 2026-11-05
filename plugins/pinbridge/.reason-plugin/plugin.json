@@ -4,6 +4,7 @@
   "description": "Easily publish to Pinterest.",
   "homepage": "https://www.pinbridge.io",
   "docs": "https://www.pinbridge.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pinbridge": {

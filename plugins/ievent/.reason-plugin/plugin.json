@@ -4,6 +4,7 @@
   "description": "Găsește locații și furnizori.",
   "homepage": "https://ievent.ro",
   "docs": "https://ievent.ro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ievent": {

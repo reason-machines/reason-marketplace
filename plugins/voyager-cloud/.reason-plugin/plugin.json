@@ -4,6 +4,7 @@
   "description": "Generate with 100+ AI models.",
   "homepage": "https://voyager.so",
   "docs": "https://voyager.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voyager-cloud": {

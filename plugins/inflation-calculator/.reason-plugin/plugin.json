@@ -4,6 +4,7 @@
   "description": "US CPI inflation calculator.",
   "homepage": "https://inflation-calculator.zovo.one",
   "docs": "https://inflation-calculator.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "inflation-calculator": {

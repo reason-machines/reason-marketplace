@@ -4,6 +4,7 @@
   "description": "Find jobs and fill forms.",
   "homepage": "https://usetrackly.app/plugins/trackly",
   "docs": "https://usetrackly.app/connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trackly-openai": {

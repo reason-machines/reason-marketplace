@@ -4,6 +4,7 @@
   "description": "Save and recall your memories.",
   "homepage": "https://www.memoryplugin.com",
   "docs": "https://memoryplugin.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "memoryplugin": {

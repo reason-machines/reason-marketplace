@@ -4,6 +4,7 @@
   "description": "Manage social media posts.",
   "homepage": "https://hubpost.co/",
   "docs": "https://hubpost.co/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hubpost": {

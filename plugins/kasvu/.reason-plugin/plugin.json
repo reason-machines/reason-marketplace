@@ -4,6 +4,7 @@
   "description": "Science-backed training plans.",
   "homepage": "https://kasvu.fit",
   "docs": "https://kasvu.fit",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kasvu": {

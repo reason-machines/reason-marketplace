@@ -4,6 +4,7 @@
   "description": "Monitor email deliverability.",
   "homepage": "https://inboxmonster.com",
   "docs": "https://inboxmonster.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "inbox-monster": {

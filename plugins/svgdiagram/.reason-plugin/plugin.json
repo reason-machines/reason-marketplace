@@ -4,6 +4,7 @@
   "description": "Ideas into editable diagrams.",
   "homepage": "https://svgdiagram.ai/chatgpt/",
   "docs": "https://svgdiagram.ai/chatgpt/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "svgdiagram": {

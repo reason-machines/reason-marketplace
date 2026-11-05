@@ -4,6 +4,7 @@
   "description": "Live snow reports & forecasts.",
   "homepage": "https://www.snowsure.ai/",
   "docs": "https://www.snowsure.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "snowsure": {

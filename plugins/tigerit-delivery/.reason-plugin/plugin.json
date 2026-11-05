@@ -4,6 +4,7 @@
   "description": "Products, orders, and sales.",
   "homepage": "https://tigerit.app",
   "docs": "https://tigerit.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tigerit-delivery": {

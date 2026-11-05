@@ -4,6 +4,7 @@
   "description": "Create illustrated storybooks.",
   "homepage": "https://picturebooks.io",
   "docs": "https://picturebooks.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "picturebooks": {

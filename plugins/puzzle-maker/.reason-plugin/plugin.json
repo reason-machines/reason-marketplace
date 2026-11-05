@@ -4,6 +4,7 @@
   "description": "Crossword, word search, sudoku.",
   "homepage": "https://puzzle-maker.zovo.one",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.theluckystrike/puzzle-maker",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "puzzle-maker": {

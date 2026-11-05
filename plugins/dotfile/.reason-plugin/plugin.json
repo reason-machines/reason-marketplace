@@ -4,6 +4,7 @@
   "description": "KYC and KYB compliance.",
   "homepage": "https://www.dotfile.com",
   "docs": "https://www.dotfile.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dotfile": {

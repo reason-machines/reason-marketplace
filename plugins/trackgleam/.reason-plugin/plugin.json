@@ -4,6 +4,7 @@
   "description": "Master and release your songs.",
   "homepage": "https://trackgleam.com/",
   "docs": "https://trackgleam.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trackgleam": {

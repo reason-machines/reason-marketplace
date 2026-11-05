@@ -4,6 +4,7 @@
   "description": "Reminders delivered by email.",
   "homepage": "https://nudges.chat",
   "docs": "https://www.nudges.chat/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nudges": {

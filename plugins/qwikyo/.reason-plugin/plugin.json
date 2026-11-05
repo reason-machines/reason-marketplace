@@ -4,6 +4,7 @@
   "description": "Find local service providers.",
   "homepage": "https://www.qwikyo.com",
   "docs": "https://www.qwikyo.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "qwikyo": {

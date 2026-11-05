@@ -4,6 +4,7 @@
   "description": "Find and book stays.",
   "homepage": "https://stayfritz.com",
   "docs": "https://stayfritz.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stayfritz": {

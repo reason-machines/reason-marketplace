@@ -4,6 +4,7 @@
   "description": "Transcribe and search audio.",
   "homepage": "https://whisperai.com",
   "docs": "https://whisperai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whisperai": {

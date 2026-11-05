@@ -4,6 +4,7 @@
   "description": "Create AI images and video.",
   "homepage": "https://morphed.app/mcp",
   "docs": "https://morphed.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "morphed": {

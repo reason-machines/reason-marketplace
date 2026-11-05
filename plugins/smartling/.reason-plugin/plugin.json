@@ -4,6 +4,7 @@
   "description": "Manage Smartling translations.",
   "homepage": "https://www.smartling.com",
   "docs": "https://www.smartling.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "smartling": {

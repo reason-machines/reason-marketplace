@@ -4,6 +4,7 @@
   "description": "Find curated restaurants & bar.",
   "homepage": "https://www.maxeatsout.club",
   "docs": "https://maxeatsout.club/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "max-eats-out": {

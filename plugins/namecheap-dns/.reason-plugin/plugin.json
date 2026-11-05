@@ -4,6 +4,7 @@
   "description": "Check DNS. Inspect samples.",
   "homepage": "https://dns-pilot.cuelayer.workers.dev",
   "docs": "https://dns-pilot.cuelayer.workers.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "namecheap-dns": {

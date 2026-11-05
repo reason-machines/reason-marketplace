@@ -4,6 +4,7 @@
   "description": "NOTAMs and flight briefings.",
   "homepage": "https://notamify.com",
   "docs": "https://notamify.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notamify": {

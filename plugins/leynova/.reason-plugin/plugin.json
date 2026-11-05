@@ -4,6 +4,7 @@
   "description": "Derecho boliviano con fuentes.",
   "homepage": "https://leynova.com",
   "docs": "https://leynova.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leynova": {

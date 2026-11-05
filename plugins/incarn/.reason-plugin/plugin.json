@@ -4,6 +4,7 @@
   "description": "Animate old family photos.",
   "homepage": "https://www.incarn.co/",
   "docs": "https://incarn.co/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "incarn": {

@@ -4,6 +4,7 @@
   "description": "Shared memory for your project.",
   "homepage": "https://workjournal.pro",
   "docs": "https://workjournal.pro",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "workjournal": {

@@ -4,6 +4,7 @@
   "description": "Create maps and GIS analysis.",
   "homepage": "https://www.giscloud.com/",
   "docs": "https://www.giscloud.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gis-cloud": {

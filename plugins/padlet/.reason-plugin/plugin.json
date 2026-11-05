@@ -4,6 +4,7 @@
   "description": "Create and manage padlets.",
   "homepage": "https://padlet.com",
   "docs": "https://padlet.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "padlet": {

@@ -4,6 +4,7 @@
   "description": "Quantum portfolio optimisation.",
   "homepage": "https://www.quantumfira.com",
   "docs": "https://www.quantumfira.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "quantumfira": {

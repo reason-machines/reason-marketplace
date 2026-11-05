@@ -4,6 +4,7 @@
   "description": "Private AI memory.",
   "homepage": "https://notas.ai",
   "docs": "https://notas.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "esment": {

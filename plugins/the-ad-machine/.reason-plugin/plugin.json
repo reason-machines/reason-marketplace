@@ -4,6 +4,7 @@
   "description": "Answer questions. Get an ad.",
   "homepage": "https://ads.mikeauton.com/simple",
   "docs": "https://ads.mikeauton.com/simple",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "the-ad-machine": {

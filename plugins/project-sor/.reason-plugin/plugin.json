@@ -4,6 +4,7 @@
   "description": "Direct Loan SOR calculator.",
   "homepage": "https://sor.myproduct.life",
   "docs": "https://sor.myproduct.life/mcp-guide",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "project-sor": {

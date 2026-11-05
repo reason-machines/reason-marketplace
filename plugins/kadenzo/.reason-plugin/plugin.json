@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://kadenzo.app",
   "docs": "https://kadenzo.app/features/api",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kadenzo": {

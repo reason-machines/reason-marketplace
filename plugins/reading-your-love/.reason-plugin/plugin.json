@@ -4,6 +4,7 @@
   "description": "See your love temperature.",
   "homepage": "https://www.readingyourlove.com",
   "docs": "https://www.readingyourlove.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "reading-your-love": {

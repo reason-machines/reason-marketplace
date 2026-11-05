@@ -4,6 +4,7 @@
   "description": "Ask AI about your FiTin logs.",
   "homepage": "https://fitin.co.jp",
   "docs": "https://fitin.co.jp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fitin": {

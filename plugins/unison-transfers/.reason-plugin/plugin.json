@@ -4,6 +4,7 @@
   "description": "Gold Coast airport transfers.",
   "homepage": "https://www.unisontransfers.com.au",
   "docs": "https://www.unisontransfers.com.au",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "unison-transfers": {

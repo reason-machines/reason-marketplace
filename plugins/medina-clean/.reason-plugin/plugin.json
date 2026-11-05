@@ -4,6 +4,7 @@
   "description": "Book Rosa's cleaning service.",
   "homepage": "https://medinaclean.com",
   "docs": "https://medinaclean.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "medina-clean": {

@@ -4,6 +4,7 @@
   "description": "Inspect mobile delivery safely.",
   "homepage": "https://getmach.dev",
   "docs": "https://getmach.dev",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mach": {

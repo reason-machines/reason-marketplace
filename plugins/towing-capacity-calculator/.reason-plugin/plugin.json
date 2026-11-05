@@ -4,6 +4,7 @@
   "description": "Check tow and payload limits.",
   "homepage": "https://camptow.com/",
   "docs": "https://camptow.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "towing-capacity-calculator": {

@@ -4,6 +4,7 @@
   "description": "From design to building permit.",
   "homepage": "https://synergieloc.fr/en/api-ia",
   "docs": "https://synergieloc.fr/en/api-ia",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "synergieloc-cao-plugin": {

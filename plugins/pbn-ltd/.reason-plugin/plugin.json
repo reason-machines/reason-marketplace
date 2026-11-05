@@ -4,6 +4,7 @@
   "description": "Manage your PBN hosting.",
   "homepage": "https://pbn.ltd/",
   "docs": "https://pbn.ltd/api-mcp-server/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pbn-ltd": {

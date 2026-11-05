@@ -4,6 +4,7 @@
   "description": "Music deal benchmarks.",
   "homepage": "https://www.sounddeal.com",
   "docs": "https://www.sounddeal.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sounddeal-test": {

@@ -4,6 +4,7 @@
   "description": "Claim for disrupted flights.",
   "homepage": "https://flightcompensations.com",
   "docs": "https://flightcompensations.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "flightcompensations-com": {

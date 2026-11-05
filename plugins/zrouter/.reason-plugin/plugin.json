@@ -4,6 +4,7 @@
   "description": "Manage your AI gateway.",
   "homepage": "https://zrouter.si",
   "docs": "https://zrouter.si",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zrouter": {

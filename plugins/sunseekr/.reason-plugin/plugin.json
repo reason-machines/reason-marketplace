@@ -4,6 +4,7 @@
   "description": "Sunny terraces, hour by hour.",
   "homepage": "https://www.sunseekr.com",
   "docs": "https://www.sunseekr.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sunseekr": {

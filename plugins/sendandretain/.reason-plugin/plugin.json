@@ -4,6 +4,7 @@
   "description": "Email templates & automations.",
   "homepage": "https://sendandretain.com",
   "docs": "https://sendandretain.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sendandretain": {

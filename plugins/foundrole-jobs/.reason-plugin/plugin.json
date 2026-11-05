@@ -4,6 +4,7 @@
   "description": "Jobs, remote, resume & salary.",
   "homepage": "https://www.foundrole.com/ai-search-mcp",
   "docs": "https://foundrole.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "foundrole-jobs": {

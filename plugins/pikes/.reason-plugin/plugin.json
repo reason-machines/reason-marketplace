@@ -4,6 +4,7 @@
   "description": "Your brand creative suite.",
   "homepage": "https://pikes.ai",
   "docs": "https://pikes.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pikes": {

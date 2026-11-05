@@ -4,6 +4,7 @@
   "description": "On-call, incidents and reviews.",
   "homepage": "https://oncallz.com",
   "docs": "https://oncallz.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "oncallz": {

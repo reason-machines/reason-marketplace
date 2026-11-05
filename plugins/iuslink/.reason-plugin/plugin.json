@@ -4,6 +4,7 @@
   "description": "Swiss statutes and case law.",
   "homepage": "https://iuslink.ch",
   "docs": "https://iuslink.ch",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "iuslink": {

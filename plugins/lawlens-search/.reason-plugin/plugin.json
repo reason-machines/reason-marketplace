@@ -4,6 +4,7 @@
   "description": "Indian legal source search.",
   "homepage": "https://lawlens.in/",
   "docs": "https://lawlens.in/docs/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lawlens-search": {

@@ -4,6 +4,7 @@
   "description": "Plan and log your life.",
   "homepage": "https://timepeaceapp.com",
   "docs": "https://timepeaceapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "timepeace-daily-log": {

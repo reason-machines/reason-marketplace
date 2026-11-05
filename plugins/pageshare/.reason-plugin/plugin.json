@@ -4,6 +4,7 @@
   "description": "Share & Protect generated HTML.",
   "homepage": "https://pageshare.ai",
   "docs": "https://pageshare.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pageshare": {

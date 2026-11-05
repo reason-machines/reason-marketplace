@@ -4,6 +4,7 @@
   "description": "A page built for each visitor.",
   "homepage": "https://spectare.ai",
   "docs": "https://spectare.ai/docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spectare": {

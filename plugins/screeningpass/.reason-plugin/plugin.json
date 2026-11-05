@@ -4,6 +4,7 @@
   "description": "Offres, contacts et e-mails.",
   "homepage": "https://www.screeningpass.fr",
   "docs": "https://www.screeningpass.fr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "screeningpass": {

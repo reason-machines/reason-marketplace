@@ -4,6 +4,7 @@
   "description": "Capture, plan and finish tasks.",
   "homepage": "https://taskpile.app",
   "docs": "https://taskpile.app/mcp-task-manager",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "taskpile": {

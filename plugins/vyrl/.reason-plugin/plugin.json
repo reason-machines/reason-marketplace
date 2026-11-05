@@ -4,6 +4,7 @@
   "description": "Canvases and callable Flows.",
   "homepage": "https://vyrl.pro",
   "docs": "https://vyrl.pro/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vyrl": {

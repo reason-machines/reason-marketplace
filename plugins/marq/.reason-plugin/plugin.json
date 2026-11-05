@@ -4,6 +4,7 @@
   "description": "Create on-brand content.",
   "homepage": "https://www.marq.com",
   "docs": "https://www.marq.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "marq": {

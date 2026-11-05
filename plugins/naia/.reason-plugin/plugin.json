@@ -4,6 +4,7 @@
   "description": "AI visibility for your brand.",
   "homepage": "https://naia.today",
   "docs": "https://naia.today",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "naia": {

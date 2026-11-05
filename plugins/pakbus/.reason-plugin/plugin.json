@@ -4,6 +4,7 @@
   "description": "Pakistan bus routes and times.",
   "homepage": "https://pakbus.app",
   "docs": "https://pakbus.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pakbus": {

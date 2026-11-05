@@ -4,6 +4,7 @@
   "description": "Webpage instructions for code.",
   "homepage": "https://markuprelay.com",
   "docs": "https://api.markuprelay.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "markuprelay": {

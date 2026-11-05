@@ -4,6 +4,7 @@
   "description": "Baby layette by city climate.",
   "homepage": "https://cotokim.com/en-us",
   "docs": "https://cotokim.com/en-us",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cotokim": {

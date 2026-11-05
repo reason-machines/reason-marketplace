@@ -4,6 +4,7 @@
   "description": "Find property in Albania.",
   "homepage": "https://metaprona.com",
   "docs": "https://metaprona.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "metaprona": {

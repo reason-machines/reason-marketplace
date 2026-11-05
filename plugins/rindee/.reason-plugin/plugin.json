@@ -4,6 +4,7 @@
   "description": "AI calling for your business.",
   "homepage": "https://rindee.ai",
   "docs": "https://docs.rindee.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rindee": {

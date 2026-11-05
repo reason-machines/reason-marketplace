@@ -4,6 +4,7 @@
   "description": "Find your design references.",
   "homepage": "https://buildwithtaste.com",
   "docs": "https://buildwithtaste.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "taste": {

@@ -4,6 +4,7 @@
   "description": "Your tennis season, organized.",
   "homepage": "https://tennislife.life",
   "docs": "https://tennislife.life",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tennis-life": {

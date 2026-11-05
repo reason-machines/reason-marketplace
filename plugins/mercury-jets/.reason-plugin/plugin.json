@@ -4,6 +4,7 @@
   "description": "Find private jet charter quote.",
   "homepage": "https://www.mercuryjets.com/",
   "docs": "https://www.mercuryjets.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mercury-jets": {

@@ -4,6 +4,7 @@
   "description": "Stock quotes, financial data.",
   "homepage": "https://longbridge.com",
   "docs": "https://longbridge.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "longbridge": {

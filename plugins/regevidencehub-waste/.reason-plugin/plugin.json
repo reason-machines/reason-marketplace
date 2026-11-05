@@ -4,6 +4,7 @@
   "description": "England waste compliance.",
   "homepage": "https://waste.regevidencehub.com/waste-rule-preflight",
   "docs": "https://waste.regevidencehub.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "regevidencehub-waste": {

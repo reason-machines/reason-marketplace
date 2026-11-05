@@ -4,6 +4,7 @@
   "description": "Shipping boxes, mailers & tape.",
   "homepage": "https://packrift.com",
   "docs": "https://packrift.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "packrift-packaging": {

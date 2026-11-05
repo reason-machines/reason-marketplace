@@ -4,6 +4,7 @@
   "description": "Indian recipes and calories.",
   "homepage": "https://idyora.com",
   "docs": "https://idyora.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "idyora": {

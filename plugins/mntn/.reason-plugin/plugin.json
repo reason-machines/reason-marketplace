@@ -4,6 +4,7 @@
   "description": "Manage Performance TV.",
   "homepage": "https://mountain.com",
   "docs": "https://mountain.com/tech/inside-mntn-mcp-bringing-performance-tv-into-your-ai-assistant/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mntn": {

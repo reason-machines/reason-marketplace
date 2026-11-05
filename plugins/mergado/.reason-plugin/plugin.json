@@ -4,6 +4,7 @@
   "description": "Manage ecommerce data.",
   "homepage": "https://www.mergado.com",
   "docs": "https://www.mergado.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mergado": {

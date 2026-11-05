@@ -4,6 +4,7 @@
   "description": "Create and share mind maps.",
   "homepage": "https://cloudmindmaps.app",
   "docs": "https://cloudmindmaps.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cloudmindmaps": {

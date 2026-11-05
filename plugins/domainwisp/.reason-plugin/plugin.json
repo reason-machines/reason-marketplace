@@ -4,6 +4,7 @@
   "description": "Find available domain names.",
   "homepage": "https://domainwisp.com",
   "docs": "https://domainwisp.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "domainwisp": {

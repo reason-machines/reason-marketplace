@@ -4,6 +4,7 @@
   "description": "Build and practice vocabulary.",
   "homepage": "https://wordbyword.io/",
   "docs": "https://wordbyword.io/en/docs/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wordbyword-learn-languages": {

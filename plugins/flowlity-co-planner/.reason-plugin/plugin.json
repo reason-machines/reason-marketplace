@@ -4,6 +4,7 @@
   "description": "Query supply-chain data.",
   "homepage": "https://flowlity.com",
   "docs": "https://docs.flowlity.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flowlity-co-planner": {

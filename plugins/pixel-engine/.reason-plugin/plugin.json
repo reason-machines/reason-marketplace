@@ -4,6 +4,7 @@
   "description": "Pixel art sprites & animations.",
   "homepage": "https://pixelengine.ai",
   "docs": "https://pixelengine.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pixel-engine": {

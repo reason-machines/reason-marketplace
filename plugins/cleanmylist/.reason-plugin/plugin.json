@@ -4,6 +4,7 @@
   "description": "Verify emails and clean lists.",
   "homepage": "https://www.cleanmylist.io",
   "docs": "https://www.cleanmylist.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cleanmylist": {

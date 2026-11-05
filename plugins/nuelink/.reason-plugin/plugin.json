@@ -4,6 +4,7 @@
   "description": "Plan and schedule social posts.",
   "homepage": "https://nuelink.com",
   "docs": "https://nuelink.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nuelink": {

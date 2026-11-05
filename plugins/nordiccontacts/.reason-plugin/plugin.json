@@ -4,6 +4,7 @@
   "description": "Find Nordic decision-makers.",
   "homepage": "https://nordiccontacts.eu/",
   "docs": "https://nordiccontacts.eu/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nordiccontacts": {

@@ -4,6 +4,7 @@
   "description": "You show. Reason tells.",
   "homepage": "https://playshowandtell.com",
   "docs": "https://playshowandtell.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "show-and-tell": {

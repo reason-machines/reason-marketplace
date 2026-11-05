@@ -4,6 +4,7 @@
   "description": "Create images and videos.",
   "homepage": "https://melius.com",
   "docs": "https://melius.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "melius": {

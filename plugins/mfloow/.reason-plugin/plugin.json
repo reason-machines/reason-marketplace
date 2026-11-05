@@ -4,6 +4,7 @@
   "description": "mfloow: AI Workflow Platform.",
   "homepage": "https://www.mfloow.com/",
   "docs": "https://www.mfloow.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mfloow": {

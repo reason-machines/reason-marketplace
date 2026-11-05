@@ -4,6 +4,7 @@
   "description": "Log rental participation hours.",
   "homepage": "https://www.hourproof.app",
   "docs": "https://tedix.dev/apps/hourproof/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hourproof": {

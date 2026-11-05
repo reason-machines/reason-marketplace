@@ -4,6 +4,7 @@
   "description": "Cited civic meeting research.",
   "homepage": "https://www.openpublica.com",
   "docs": "https://www.openpublica.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "openpublica": {

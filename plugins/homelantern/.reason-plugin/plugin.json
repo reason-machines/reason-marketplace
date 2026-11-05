@@ -4,6 +4,7 @@
   "description": "Review your rental portfolio.",
   "homepage": "https://login.homelantern.app",
   "docs": "https://login.homelantern.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "homelantern": {

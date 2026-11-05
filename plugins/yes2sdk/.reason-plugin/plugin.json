@@ -4,6 +4,7 @@
   "description": "Integrate and verify web games.",
   "homepage": "https://developer.yes2games.com",
   "docs": "https://developer.yes2games.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "yes2sdk": {

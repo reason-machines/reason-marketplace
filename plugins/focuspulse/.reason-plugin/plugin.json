@@ -4,6 +4,7 @@
   "description": "Market-linked news, sourced.",
   "homepage": "https://www.focuspulse.pro",
   "docs": "https://www.focuspulse.pro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "focuspulse": {

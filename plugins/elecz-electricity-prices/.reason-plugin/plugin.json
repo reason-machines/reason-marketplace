@@ -4,6 +4,7 @@
   "description": "Real-time Electricity Prices.",
   "homepage": "https://elecz.com",
   "docs": "https://elecz.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "elecz-electricity-prices": {

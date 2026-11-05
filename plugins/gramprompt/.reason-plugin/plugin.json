@@ -4,6 +4,7 @@
   "description": "Create, sell & shop by chat.",
   "homepage": "https://gramprompt.com",
   "docs": "https://gramprompt.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gramprompt": {

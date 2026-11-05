@@ -4,6 +4,7 @@
   "description": "SEC KPIs and filings.",
   "homepage": "https://www.revelata.com/",
   "docs": "https://tedix.dev/apps/revelata-deepkpi/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "revelata-deepkpi": {

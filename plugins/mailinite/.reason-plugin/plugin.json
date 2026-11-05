@@ -4,6 +4,7 @@
   "description": "Check if cold email is ready.",
   "homepage": "https://mailinite.com/",
   "docs": "https://mailinite.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mailinite": {

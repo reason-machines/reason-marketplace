@@ -4,6 +4,7 @@
   "description": "Your paycheck after taxes.",
   "homepage": "https://takehome-paycheck.vercel.app",
   "docs": "https://tedix.dev/apps/takehome-paycheck-calculator/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "takehome-paycheck-calculator": {

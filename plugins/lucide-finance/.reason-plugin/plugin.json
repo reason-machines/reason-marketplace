@@ -4,6 +4,7 @@
   "description": "Stock scores & your portfolio.",
   "homepage": "https://lucide.finance",
   "docs": "https://lucide.finance",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lucide-finance": {

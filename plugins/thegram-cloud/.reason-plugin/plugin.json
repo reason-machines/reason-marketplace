@@ -4,6 +4,7 @@
   "description": "One .gram for people and AI.",
   "homepage": "https://thegram.one",
   "docs": "https://thegram.one/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "thegram-cloud": {

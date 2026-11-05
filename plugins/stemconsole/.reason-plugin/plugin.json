@@ -4,6 +4,7 @@
   "description": "Split, mix and practise music.",
   "homepage": "https://stemconsole.ai",
   "docs": "https://stemconsole.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stemconsole": {

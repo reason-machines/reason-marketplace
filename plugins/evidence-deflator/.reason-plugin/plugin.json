@@ -4,6 +4,7 @@
   "description": "Trader skill, or just luck?",
   "homepage": "https://evidencedeflator.com",
   "docs": "https://evidencedeflator.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "evidence-deflator": {

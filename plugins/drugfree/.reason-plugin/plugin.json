@@ -4,6 +4,7 @@
   "description": "View days and savings.",
   "homepage": "https://drugfree.app/chatgpt/",
   "docs": "https://drugfree.app/chatgpt/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "drugfree": {

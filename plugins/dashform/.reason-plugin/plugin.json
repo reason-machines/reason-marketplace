@@ -4,6 +4,7 @@
   "description": "Build and run AI forms.",
   "homepage": "https://getaiform.com",
   "docs": "https://getaiform.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dashform": {

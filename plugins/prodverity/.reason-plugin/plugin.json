@@ -4,6 +4,7 @@
   "description": "Verify production releases.",
   "homepage": "https://greatskillsacademy.com/prodverity/",
   "docs": "https://greatskillsacademy.com/prodverity/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "prodverity": {

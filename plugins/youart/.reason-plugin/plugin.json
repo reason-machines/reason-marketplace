@@ -4,6 +4,7 @@
   "description": "Create AI media workflows.",
   "homepage": "https://youart.ai",
   "docs": "https://youart.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "youart": {

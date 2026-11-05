@@ -4,6 +4,7 @@
   "description": "Real app flows and screens.",
   "homepage": "https://www.flownato.com/about",
   "docs": "https://flownato.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flownato": {

@@ -4,6 +4,7 @@
   "description": "IT jobs from 264 sources.",
   "homepage": "https://freehire.me",
   "docs": "https://freehire.me/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "freehire": {

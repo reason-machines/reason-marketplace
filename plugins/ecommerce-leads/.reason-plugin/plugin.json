@@ -4,6 +4,7 @@
   "description": "Ecommerce store metrics lookup.",
   "homepage": "https://getecommerceleads.com",
   "docs": "https://getecommerceleads.com/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ecommerce-leads": {

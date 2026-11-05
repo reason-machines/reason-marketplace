@@ -4,6 +4,7 @@
   "description": "Create ads from photos & copy.",
   "homepage": "https://formatry.cc",
   "docs": "https://formatry.cc/developers/codex",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "formatry-api": {

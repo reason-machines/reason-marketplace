@@ -4,6 +4,7 @@
   "description": "Memory and AI professionals.",
   "homepage": "https://www.savantisai.com/connectors",
   "docs": "https://www.savantisai.com/connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "savantis-memory": {

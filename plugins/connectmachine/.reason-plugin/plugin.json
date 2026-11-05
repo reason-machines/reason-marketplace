@@ -4,6 +4,7 @@
   "description": "Contacts and digital cards.",
   "homepage": "https://connectmachine.ai",
   "docs": "https://connectmachine.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "connectmachine": {

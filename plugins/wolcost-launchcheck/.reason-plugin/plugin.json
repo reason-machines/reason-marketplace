@@ -4,6 +4,7 @@
   "description": "Check websites before launch.",
   "homepage": "https://wolcost.online",
   "docs": "https://wolcost.online",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wolcost-launchcheck": {

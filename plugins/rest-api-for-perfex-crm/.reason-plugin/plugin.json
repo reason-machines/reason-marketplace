@@ -4,6 +4,7 @@
   "description": "Work with your Perfex CRM data.",
   "homepage": "https://perfex-mcp.themesic.com/requirements",
   "docs": "https://perfex-mcp.themesic.com/requirements",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rest-api-for-perfex-crm": {

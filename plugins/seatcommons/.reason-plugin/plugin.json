@@ -4,6 +4,7 @@
   "description": "Find events and tickets.",
   "homepage": "https://www.seatcommons.com",
   "docs": "https://www.seatcommons.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "seatcommons": {

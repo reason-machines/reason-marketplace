@@ -4,6 +4,7 @@
   "description": "Track your job applications.",
   "homepage": "https://jobhawk.app/?utm_source=chatgpt&utm_medium=referral&utm_campaign=mcp-app&utm_content=directory-listing",
   "docs": "https://jobhawk.app/?utm_source=chatgpt&utm_medium=referral&utm_campaign=mcp-app&utm_content=directory-listing",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jobhawk": {

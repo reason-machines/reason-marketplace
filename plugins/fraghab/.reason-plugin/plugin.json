@@ -4,6 +4,7 @@
   "description": "Track your fragrance shelf.",
   "homepage": "https://fraghab.com",
   "docs": "https://fraghab.com/landing/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fraghab": {

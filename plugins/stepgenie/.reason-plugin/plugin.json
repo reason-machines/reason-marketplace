@@ -4,6 +4,7 @@
   "description": "USMLE questions and flashcards.",
   "homepage": "https://www.stepgenie.app",
   "docs": "https://www.stepgenie.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "stepgenie": {

@@ -4,6 +4,7 @@
   "description": "Manage jobs and schedules.",
   "homepage": "https://samdesk.nl/plugin/",
   "docs": "https://samdesk.nl/plugin/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "klussenbeheer": {

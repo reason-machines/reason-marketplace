@@ -4,6 +4,7 @@
   "description": "App store optimization.",
   "homepage": "https://trysonar.app",
   "docs": "https://trysonar.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sonar-aso": {

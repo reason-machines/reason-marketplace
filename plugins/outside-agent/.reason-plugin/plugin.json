@@ -4,6 +4,7 @@
   "description": "Build & publish AI agents.",
   "homepage": "https://outsideagent.ai",
   "docs": "https://outsideagent.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "outside-agent": {

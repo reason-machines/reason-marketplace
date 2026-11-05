@@ -4,6 +4,7 @@
   "description": "Edit and check your writing.",
   "homepage": "https://zero-slop.ai/",
   "docs": "https://zero-slop.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "zero-slop": {

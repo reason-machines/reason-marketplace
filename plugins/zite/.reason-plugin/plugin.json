@@ -4,6 +4,7 @@
   "description": "Build apps and manage data.",
   "homepage": "https://www.zite.com",
   "docs": "https://www.zite.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zite": {

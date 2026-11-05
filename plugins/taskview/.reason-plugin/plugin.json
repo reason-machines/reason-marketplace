@@ -4,6 +4,7 @@
   "description": "Manage projects and tasks.",
   "homepage": "https://taskview.tech",
   "docs": "https://api.taskview.tech/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "taskview": {

@@ -4,6 +4,7 @@
   "description": "Order food anywhere.",
   "homepage": "https://layout.link",
   "docs": "https://layout.link",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "layout": {

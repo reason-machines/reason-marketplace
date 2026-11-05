@@ -4,6 +4,7 @@
   "description": "Find, read & synthesize papers.",
   "homepage": "https://paperguide.ai",
   "docs": "https://paperguide.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "paperguide": {

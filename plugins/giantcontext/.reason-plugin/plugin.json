@@ -4,6 +4,7 @@
   "description": "Manage websites, CRM and email.",
   "homepage": "https://giantcontext.com",
   "docs": "https://giantcontext.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "giantcontext": {

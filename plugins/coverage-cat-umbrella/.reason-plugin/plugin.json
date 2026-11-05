@@ -4,6 +4,7 @@
   "description": "Compare insurance.",
   "homepage": "https://www.coveragecat.com",
   "docs": "https://www.coveragecat.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "coverage-cat-umbrella": {

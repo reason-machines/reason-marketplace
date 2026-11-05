@@ -4,6 +4,7 @@
   "description": "Your shared agent workspace.",
   "homepage": "https://www.worktable.cloud",
   "docs": "https://app.worktable.cloud/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "worktable": {

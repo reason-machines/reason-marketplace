@@ -4,6 +4,7 @@
   "description": "AI headshots from your photos.",
   "homepage": "https://www.photoaistudio.com",
   "docs": "https://photoaistudio.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "photo-ai-studio": {

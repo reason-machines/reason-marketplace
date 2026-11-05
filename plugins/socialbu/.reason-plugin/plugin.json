@@ -4,6 +4,7 @@
   "description": "Manage your social media.",
   "homepage": "https://socialbu.com/mcp-server",
   "docs": "https://socialbu.com/mcp-server",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "socialbu": {

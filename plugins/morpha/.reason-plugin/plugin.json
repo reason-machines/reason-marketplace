@@ -4,6 +4,7 @@
   "description": "Edit short videos by typing.",
   "homepage": "https://morphareels.ai",
   "docs": "https://morphareels.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "morpha": {

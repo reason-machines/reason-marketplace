@@ -4,6 +4,7 @@
   "description": "Find and brew better coffee.",
   "homepage": "https://wildcalf.com/",
   "docs": "https://wildcalf.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wild-calf-coffee": {

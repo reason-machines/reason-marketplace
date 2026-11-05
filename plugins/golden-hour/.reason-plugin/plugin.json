@@ -4,6 +4,7 @@
   "description": "Sun times & shoot planning.",
   "homepage": "https://golden-hour.zovo.one",
   "docs": "https://golden-hour.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "golden-hour": {

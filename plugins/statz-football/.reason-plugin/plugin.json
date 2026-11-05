@@ -4,6 +4,7 @@
   "description": "Football stats & projections.",
   "homepage": "https://statz.ai/about",
   "docs": "https://statz.ai/about",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "statz-football": {

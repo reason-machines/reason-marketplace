@@ -4,6 +4,7 @@
   "description": "Revenue Superintelligence.",
   "homepage": "https://www.octolane.com/",
   "docs": "https://www.octolane.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "octolane": {

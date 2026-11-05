@@ -4,6 +4,7 @@
   "description": "Design and Print Photo books.",
   "homepage": "https://photonine.ai",
   "docs": "https://photonine.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "photo9": {

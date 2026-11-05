@@ -4,6 +4,7 @@
   "description": "Say an idea, get a plan back.",
   "homepage": "https://ktix.app",
   "docs": "https://ktix.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ktix": {

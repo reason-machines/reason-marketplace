@@ -4,6 +4,7 @@
   "description": "Safety verdicts on AI agents.",
   "homepage": "https://greenlitbooks.com",
   "docs": "https://greenlitbooks.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "greenlit-books": {

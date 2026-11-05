@@ -4,6 +4,7 @@
   "description": "Citizenship by investment cost.",
   "homepage": "https://goodbyematrix.com/en/pricing-api/",
   "docs": "https://goodbyematrix.com/en/pricing-api/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "goodbyematrix-citizenship-costs": {

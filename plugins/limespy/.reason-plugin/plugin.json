@@ -4,6 +4,7 @@
   "description": "Explore shopping with AI.",
   "homepage": "https://limespy.com",
   "docs": "https://limespy.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "limespy": {

@@ -4,6 +4,7 @@
   "description": "Minimal weekly planner.",
   "homepage": "https://tweek.so",
   "docs": "https://tweek.so",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tweek": {

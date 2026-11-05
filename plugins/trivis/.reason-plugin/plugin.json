@@ -4,6 +4,7 @@
   "description": "Bookkeeping for your company.",
   "homepage": "https://trivis.ee",
   "docs": "https://trivis.ee/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trivis": {

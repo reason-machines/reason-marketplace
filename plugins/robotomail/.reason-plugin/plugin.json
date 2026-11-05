@@ -4,6 +4,7 @@
   "description": "Email for your AI agent.",
   "homepage": "https://robotomail.com",
   "docs": "https://robotomail.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "robotomail": {

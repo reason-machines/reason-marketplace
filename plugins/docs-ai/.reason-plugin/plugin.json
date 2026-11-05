@@ -4,6 +4,7 @@
   "description": "Create, read, and edit docs.",
   "homepage": "https://gpt.space/docs/chatgpt-document-maker",
   "docs": "https://gpt.space/docs/chatgpt-document-maker",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docs-ai": {

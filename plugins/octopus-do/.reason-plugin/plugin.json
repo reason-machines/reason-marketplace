@@ -4,6 +4,7 @@
   "description": "Build and edit sitemaps.",
   "homepage": "https://octopus.do",
   "docs": "https://octopus.do",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "octopus-do": {

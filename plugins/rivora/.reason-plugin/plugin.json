@@ -4,6 +4,7 @@
   "description": "Your team's approved plans.",
   "homepage": "https://rivoraconnect.com.au/integrations",
   "docs": "https://rivoraconnect.com.au/integrations",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rivora": {

@@ -4,6 +4,7 @@
   "description": "Discover and save products.",
   "homepage": "https://shaupa.com/openai-plugin",
   "docs": "https://shaupa.com/openai-plugin",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shaupa": {

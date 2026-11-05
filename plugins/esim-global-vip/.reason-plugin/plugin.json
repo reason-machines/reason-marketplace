@@ -4,6 +4,7 @@
   "description": "Travel eSIMs worldwide.",
   "homepage": "https://esim-global.vip",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=vip.esim-global/esim-catalog",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "esim-global-vip": {

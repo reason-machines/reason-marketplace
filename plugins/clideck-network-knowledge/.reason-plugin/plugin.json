@@ -4,6 +4,7 @@
   "description": "Version-aware network guidance.",
   "homepage": "https://clideck.com/software/mcp",
   "docs": "https://clideck.com/software/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clideck-network-knowledge": {

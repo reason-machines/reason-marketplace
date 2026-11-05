@@ -4,6 +4,7 @@
   "description": "Keep time, find note durations.",
   "homepage": "https://metronome.zovo.one",
   "docs": "https://metronome.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "metronome": {

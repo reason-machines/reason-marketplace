@@ -4,6 +4,7 @@
   "description": "LSAT and law school data.",
   "homepage": "https://unpluggedprep.com",
   "docs": "https://unpluggedprep.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lsat-unplugged": {

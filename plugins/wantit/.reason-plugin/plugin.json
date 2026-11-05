@@ -4,6 +4,7 @@
   "description": "Post what you want to buy.",
   "homepage": "https://wantit.live",
   "docs": "https://wantit.live",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wantit": {

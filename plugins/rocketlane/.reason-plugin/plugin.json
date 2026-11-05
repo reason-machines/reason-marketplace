@@ -4,6 +4,7 @@
   "description": "Manage projects, tasks & teams.",
   "homepage": "https://www.rocketlane.com",
   "docs": "https://www.rocketlane.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rocketlane": {

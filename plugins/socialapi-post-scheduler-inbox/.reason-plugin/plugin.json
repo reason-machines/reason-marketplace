@@ -4,6 +4,7 @@
   "description": "Social media post & inbox.",
   "homepage": "https://social-api.ai",
   "docs": "https://social-api.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "socialapi-post-scheduler-inbox": {

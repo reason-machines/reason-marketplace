@@ -4,6 +4,7 @@
   "description": "Study with your own courses.",
   "homepage": "https://learnzen.co",
   "docs": "https://learnzen.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zen": {

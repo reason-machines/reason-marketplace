@@ -4,6 +4,7 @@
   "description": "Memory for any AI & Telegram.",
   "homepage": "https://contexterai.com",
   "docs": "https://contexterai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "contexter": {

@@ -4,6 +4,7 @@
   "description": "Read and write your notes.",
   "homepage": "https://remdo.com",
   "docs": "https://remdo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "remdo": {

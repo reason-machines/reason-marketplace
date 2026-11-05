@@ -4,6 +4,7 @@
   "description": "Personal context for Reason.",
   "homepage": "https://UseMyContext.ai",
   "docs": "https://UseMyContext.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "usemycontext-ai": {

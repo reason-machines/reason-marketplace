@@ -4,6 +4,7 @@
   "description": "Video ads, image ads & posts.",
   "homepage": "https://hermoso.ai",
   "docs": "https://hermoso.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hermoso-ai-ad-generator": {

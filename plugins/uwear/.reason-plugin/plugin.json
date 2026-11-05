@@ -4,6 +4,7 @@
   "description": "Create AI fashion imagery.",
   "homepage": "https://uwear.ai",
   "docs": "https://uwear.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "uwear": {

@@ -4,6 +4,7 @@
   "description": "Leads, calls & reports in CRM.",
   "homepage": "https://cratio.com",
   "docs": "https://cratio.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cratio-crm": {

@@ -4,6 +4,7 @@
   "description": "Search and inspect CCTV.",
   "homepage": "https://www.coram.ai",
   "docs": "https://www.coram.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coram": {

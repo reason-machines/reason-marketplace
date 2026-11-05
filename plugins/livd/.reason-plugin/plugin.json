@@ -4,6 +4,7 @@
   "description": "Manage employee benefits.",
   "homepage": "https://livdapp.com",
   "docs": "https://livdapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "livd": {

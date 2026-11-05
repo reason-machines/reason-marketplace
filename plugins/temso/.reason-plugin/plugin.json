@@ -4,6 +4,7 @@
   "description": "Track your brand in AI chats.",
   "homepage": "https://temso.ai",
   "docs": "https://www.docs.temso.ai/docs/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "temso": {

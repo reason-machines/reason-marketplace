@@ -4,6 +4,7 @@
   "description": "Private notes and AI memory.",
   "homepage": "https://virlow.com",
   "docs": "https://virlow.com/ai-connections.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "virlow": {

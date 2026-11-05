@@ -4,6 +4,7 @@
   "description": "Review your security scans.",
   "homepage": "https://www.cyberlensai.com",
   "docs": "https://www.cyberlensai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cyberlens-ai": {

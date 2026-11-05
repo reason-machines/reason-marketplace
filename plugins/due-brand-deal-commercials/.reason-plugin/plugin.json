@@ -4,6 +4,7 @@
   "description": "Check brand deal terms.",
   "homepage": "https://brieftopaid.app/tools/brand-deal-checker",
   "docs": "https://brieftopaid.app/tools/brand-deal-checker",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "due-brand-deal-commercials": {

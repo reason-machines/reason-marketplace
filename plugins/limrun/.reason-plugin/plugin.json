@@ -4,6 +4,7 @@
   "description": "Test apps on cloud simulators.",
   "homepage": "https://limrun.com",
   "docs": "https://limrun.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "limrun": {

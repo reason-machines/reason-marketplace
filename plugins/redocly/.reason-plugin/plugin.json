@@ -4,6 +4,7 @@
   "description": "Write, lint and document APIs.",
   "homepage": "https://redocly.com",
   "docs": "https://redocly.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "redocly": {

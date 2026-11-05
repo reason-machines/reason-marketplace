@@ -4,6 +4,7 @@
   "description": "Italian town events and fairs.",
   "homepage": "https://piazzainfesta.it/",
   "docs": "https://piazzainfesta.it/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "piazza-in-festa": {

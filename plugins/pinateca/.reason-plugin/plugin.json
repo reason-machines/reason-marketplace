@@ -4,6 +4,7 @@
   "description": "Read and update task boards.",
   "homepage": "https://pinateca.com",
   "docs": "https://pinateca.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pinateca": {

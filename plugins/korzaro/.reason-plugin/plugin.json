@@ -4,6 +4,7 @@
   "description": "Explore your shop results.",
   "homepage": "https://korzaro.com/en/",
   "docs": "https://korzaro.com/en/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "korzaro": {

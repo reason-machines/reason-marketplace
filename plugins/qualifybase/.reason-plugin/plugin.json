@@ -4,6 +4,7 @@
   "description": "Qualify leads with AI.",
   "homepage": "https://www.qualifybase.com",
   "docs": "https://www.qualifybase.com/developer-guide",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qualifybase": {

@@ -4,6 +4,7 @@
   "description": "See app store review times.",
   "homepage": "https://reviewtimes.fyi",
   "docs": "https://reviewtimes.fyi",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "review-times": {

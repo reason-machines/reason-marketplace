@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://eksis.io",
   "docs": "https://eksis.io/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "eksis": {

@@ -4,6 +4,7 @@
   "description": "Talk to your bookkeeper.",
   "homepage": "https://profitbooks.ai/",
   "docs": "https://profitbooks.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "profitbooks": {

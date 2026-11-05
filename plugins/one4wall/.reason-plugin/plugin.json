@@ -4,6 +4,7 @@
   "description": "Find and save phone wallpapers.",
   "homepage": "https://www.one4wall.app",
   "docs": "https://one4wall.app/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "one4wall": {

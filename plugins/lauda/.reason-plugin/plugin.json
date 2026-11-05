@@ -4,6 +4,7 @@
   "description": "Cálculos jurídicos do Brasil.",
   "homepage": "https://www.uselauda.com",
   "docs": "https://www.uselauda.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lauda": {

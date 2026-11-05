@@ -4,6 +4,7 @@
   "description": "Design posters and flyers.",
   "homepage": "https://posterapplab.com",
   "docs": "https://posterapplab.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "poster-maker": {

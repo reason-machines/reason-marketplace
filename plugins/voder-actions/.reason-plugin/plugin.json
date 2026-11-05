@@ -4,6 +4,7 @@
   "description": "Create invoices and get paid.",
   "homepage": "https://voder.ai",
   "docs": "https://voder.ai/chatgpt-xero/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "voder-actions": {

@@ -4,6 +4,7 @@
   "description": "Fundraising data analytics.",
   "homepage": "https://www.zeffy.com",
   "docs": "https://support.zeffy.com/connect-zeffy-to-claude-or-chatgpt-189ze",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zeffy": {

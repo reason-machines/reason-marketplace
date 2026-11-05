@@ -4,6 +4,7 @@
   "description": "내 녹음의 전사·요약·마인드맵 찾기.",
   "homepage": "https://seoandoh.kr",
   "docs": "https://seoandoh.kr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "seo-and-oh-ai": {

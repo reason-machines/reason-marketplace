@@ -4,6 +4,7 @@
   "description": "Manage your Turo fleet.",
   "homepage": "https://www.revhosthq.com",
   "docs": "https://revhosthq.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "revhost": {

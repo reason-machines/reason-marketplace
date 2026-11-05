@@ -4,6 +4,7 @@
   "description": "Check brand name availability.",
   "homepage": "https://nombrio.com",
   "docs": "https://nombrio.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nombrio": {

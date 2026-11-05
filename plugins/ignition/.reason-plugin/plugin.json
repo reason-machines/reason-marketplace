@@ -4,6 +4,7 @@
   "description": "Manage client work.",
   "homepage": "https://www.ignitionapp.com",
   "docs": "https://www.ignitionapp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ignition": {

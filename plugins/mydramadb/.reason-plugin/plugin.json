@@ -4,6 +4,7 @@
   "description": "Drama answers with sources.",
   "homepage": "https://mydramadb.com",
   "docs": "https://mydramadb.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mydramadb": {

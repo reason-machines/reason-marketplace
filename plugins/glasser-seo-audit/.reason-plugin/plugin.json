@@ -4,6 +4,7 @@
   "description": "SEO audit on Semrush & Ahrefs.",
   "homepage": "https://glasser.ai",
   "docs": "https://glasser.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "glasser-seo-audit": {

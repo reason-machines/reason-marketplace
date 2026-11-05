@@ -4,6 +4,7 @@
   "description": "Edit, compress and merge PDFs.",
   "homepage": "https://www.easypdf.fr",
   "docs": "https://easypdf.fr/mcp-docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "easypdf": {

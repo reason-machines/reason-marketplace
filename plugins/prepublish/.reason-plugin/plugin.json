@@ -4,6 +4,7 @@
   "description": "Audit YouTube scripts.",
   "homepage": "https://prepublish.ai",
   "docs": "https://prepublish.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "prepublish": {

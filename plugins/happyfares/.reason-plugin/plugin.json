@@ -4,6 +4,7 @@
   "description": "AI Flight Booking Made Easy.",
   "homepage": "https://www.happyfares.in",
   "docs": "https://www.happyfares.in",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "happyfares": {

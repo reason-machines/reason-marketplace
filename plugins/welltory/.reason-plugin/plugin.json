@@ -4,6 +4,7 @@
   "description": "Your Welltory health data.",
   "homepage": "https://welltory.com/",
   "docs": "https://welltory.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "welltory": {

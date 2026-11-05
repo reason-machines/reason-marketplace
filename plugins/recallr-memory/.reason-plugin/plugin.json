@@ -4,6 +4,7 @@
   "description": "Search and save your memories.",
   "homepage": "https://recallr-ai.org/",
   "docs": "https://recallr-ai.org/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "recallr-memory": {

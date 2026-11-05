@@ -4,6 +4,7 @@
   "description": "Create music-reactive visuals.",
   "homepage": "https://visualsong-chatgpt-app.kunyoungpark.workers.dev/",
   "docs": "https://visualsong-chatgpt-app.kunyoungpark.workers.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "visualsong": {

@@ -4,6 +4,7 @@
   "description": "Manage employee benefits.",
   "homepage": "https://redii.co",
   "docs": "https://redii.co",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "redii": {

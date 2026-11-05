@@ -4,6 +4,7 @@
   "description": "Build local device workflows.",
   "homepage": "https://www.offlineprotocol.com/docs/tools/overview",
   "docs": "https://www.offlineprotocol.com/docs/tools/overview",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "offline-protocol": {

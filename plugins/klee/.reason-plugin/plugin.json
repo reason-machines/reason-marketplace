@@ -4,6 +4,7 @@
   "description": "Transcribe and search meetings.",
   "homepage": "https://klee-app.com",
   "docs": "https://klee-app.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "klee": {

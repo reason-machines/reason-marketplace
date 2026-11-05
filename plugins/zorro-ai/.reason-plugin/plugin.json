@@ -4,6 +4,7 @@
   "description": "UK company intelligence.",
   "homepage": "https://www.getzorro.ai/",
   "docs": "https://www.getzorro.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zorro-ai": {

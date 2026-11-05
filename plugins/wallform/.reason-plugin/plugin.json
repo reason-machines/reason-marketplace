@@ -4,6 +4,7 @@
   "description": "Home workouts & 28-day program.",
   "homepage": "https://wallform.ambientapp.ai",
   "docs": "https://wallform.ambientapp.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wallform": {

@@ -4,6 +4,7 @@
   "description": "Investment and market insights.",
   "homepage": "https://www.morningstar.com/business/products/direct-ai-solutions",
   "docs": "https://www.morningstar.com/business/products/direct-ai-solutions",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "morningstar": {

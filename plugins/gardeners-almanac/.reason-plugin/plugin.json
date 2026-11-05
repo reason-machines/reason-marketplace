@@ -4,6 +4,7 @@
   "description": "When to sow, where you garden.",
   "homepage": "https://gardeners-almanac.app/articles/connect-an-assistant",
   "docs": "https://gardeners-almanac.app/articles/connect-an-assistant",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gardeners-almanac": {

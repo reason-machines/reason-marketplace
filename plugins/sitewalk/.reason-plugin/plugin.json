@@ -4,6 +4,7 @@
   "description": "Crawl a site, fix SEO issues.",
   "homepage": "https://audit.adityaarsharma.com",
   "docs": "https://audit.adityaarsharma.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sitewalk": {

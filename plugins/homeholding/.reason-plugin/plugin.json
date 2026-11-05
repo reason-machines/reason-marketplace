@@ -4,6 +4,7 @@
   "description": "Cabinetry quotes & invoices.",
   "homepage": "https://homeholding.om",
   "docs": "https://homeholding.om",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "homeholding": {

@@ -4,6 +4,7 @@
   "description": "Website AI-readiness checks.",
   "homepage": "https://www.geoviz.ai",
   "docs": "https://www.geoviz.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "geoviz": {

@@ -4,6 +4,7 @@
   "description": "Licitaciones públicas España.",
   "homepage": "https://licitaia.org",
   "docs": "https://licitaia.org/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "licitaia-public": {

@@ -4,6 +4,7 @@
   "description": "Find the perfect B2B partner.",
   "homepage": "https://clutch.co/",
   "docs": "https://clutch.co/about-mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clutch-co": {

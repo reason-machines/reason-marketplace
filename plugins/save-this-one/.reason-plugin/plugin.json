@@ -4,6 +4,7 @@
   "description": "Save, find, and read bookmarks.",
   "homepage": "https://savethisone.com/llms.txt",
   "docs": "https://savethisone.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "save-this-one": {

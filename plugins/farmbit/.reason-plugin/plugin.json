@@ -4,6 +4,7 @@
   "description": "Plan your orchard scout.",
   "homepage": "https://farmbit.ai",
   "docs": "https://farmbit.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "farmbit": {

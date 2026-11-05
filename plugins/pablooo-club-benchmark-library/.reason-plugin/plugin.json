@@ -4,6 +4,7 @@
   "description": "Benchmark 10k+ screenshots.",
   "homepage": "https://pablooo.club",
   "docs": "https://pablooo.club",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pablooo-club-benchmark-library": {

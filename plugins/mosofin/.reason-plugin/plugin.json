@@ -4,6 +4,7 @@
   "description": "Profit, cash & sales together.",
   "homepage": "https://www.mosofin.com",
   "docs": "https://www.mosofin.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mosofin": {

@@ -4,6 +4,7 @@
   "description": "Explore Costa Rica.",
   "homepage": "https://www.crmaps.com/",
   "docs": "https://www.crmaps.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "slothy-by-crmaps": {

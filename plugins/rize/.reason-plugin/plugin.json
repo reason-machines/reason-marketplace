@@ -4,6 +4,7 @@
   "description": "Track and analyze time.",
   "homepage": "https://rize.io",
   "docs": "https://rize.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rize": {

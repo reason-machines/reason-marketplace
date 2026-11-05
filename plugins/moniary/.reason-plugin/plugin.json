@@ -4,6 +4,7 @@
   "description": "Your accounting in Moniary.",
   "homepage": "https://moniary.com",
   "docs": "https://moniary.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "moniary": {

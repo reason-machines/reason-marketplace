@@ -4,6 +4,7 @@
   "description": "Allocation & vesting design.",
   "homepage": "https://tokenos.ai/chatgpt-apps/tokenomics-designer",
   "docs": "https://tokenos.ai/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tokenos-tokenomics-designer": {

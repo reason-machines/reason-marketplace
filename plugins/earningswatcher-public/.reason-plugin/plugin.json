@@ -4,6 +4,7 @@
   "description": "Earnings & options research.",
   "homepage": "https://earnings-watcher.com/wiki",
   "docs": "https://earnings-watcher.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "earningswatcher-public": {

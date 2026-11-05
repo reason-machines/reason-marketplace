@@ -4,6 +4,7 @@
   "description": "Home and business insurance.",
   "homepage": "https://www.menloinsurance.com",
   "docs": "https://www.menloinsurance.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "menlo-insurance": {

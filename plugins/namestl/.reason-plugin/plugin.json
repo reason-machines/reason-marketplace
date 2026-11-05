@@ -4,6 +4,7 @@
   "description": "Design names for 3D printing.",
   "homepage": "https://www.namestl.com/chatgpt",
   "docs": "https://www.namestl.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "namestl": {

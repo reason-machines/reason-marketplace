@@ -4,6 +4,7 @@
   "description": "Find luxury hotels and stays.",
   "homepage": "https://destaire.com",
   "docs": "https://destaire.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "destaire": {

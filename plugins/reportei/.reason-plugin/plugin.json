@@ -4,6 +4,7 @@
   "description": "Reports from multiple channels.",
   "homepage": "https://reportei.com/en",
   "docs": "https://reportei.com/mcp/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reportei": {

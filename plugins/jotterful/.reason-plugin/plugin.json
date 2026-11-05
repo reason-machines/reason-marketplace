@@ -4,6 +4,7 @@
   "description": "Capture and organize notes.",
   "homepage": "https://www.jotterful.com",
   "docs": "https://www.jotterful.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jotterful": {

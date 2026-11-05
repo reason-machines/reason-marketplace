@@ -4,6 +4,7 @@
   "description": "Up to 90% savings on meds.",
   "homepage": "https://savehealth.com/",
   "docs": "https://savehealth.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "savehealth": {

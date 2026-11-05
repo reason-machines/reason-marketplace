@@ -4,6 +4,7 @@
   "description": "Company data from SEC filings.",
   "homepage": "https://api.netnestdesign.com/docs",
   "docs": "https://api.netnestdesign.com/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "netnest-sec-fundamentals": {

@@ -4,6 +4,7 @@
   "description": "Plan training, sync to watch.",
   "homepage": "https://shapecalendar.com",
   "docs": "https://shapecalendar.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "shape-calendar": {

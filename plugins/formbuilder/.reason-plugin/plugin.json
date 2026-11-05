@@ -4,6 +4,7 @@
   "description": "Create and publish forms.",
   "homepage": "https://formbuilder.com",
   "docs": "https://formbuilder.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "formbuilder": {

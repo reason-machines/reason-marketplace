@@ -4,6 +4,7 @@
   "description": "Access your financial data.",
   "homepage": "https://fintoc.com",
   "docs": "https://fintoc.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fintoc": {

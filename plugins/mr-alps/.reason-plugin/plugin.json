@@ -4,6 +4,7 @@
   "description": "Where to ski or hike today.",
   "homepage": "https://mralps.com",
   "docs": "https://mralps.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mr-alps": {

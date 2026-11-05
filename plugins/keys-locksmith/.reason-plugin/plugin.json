@@ -4,6 +4,7 @@
   "description": "Find and book local locksmiths.",
   "homepage": "https://keys.app",
   "docs": "https://keys.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "keys-locksmith": {

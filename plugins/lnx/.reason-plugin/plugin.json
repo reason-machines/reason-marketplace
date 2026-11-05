@@ -4,6 +4,7 @@
   "description": "Link-in-bio pages from chat.",
   "homepage": "https://lnx.net",
   "docs": "https://lnx.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lnx": {

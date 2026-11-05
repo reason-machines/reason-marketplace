@@ -4,6 +4,7 @@
   "description": "Your assistants, connected.",
   "homepage": "https://upsy.ai/home",
   "docs": "https://upsy.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "upsy": {

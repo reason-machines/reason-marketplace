@@ -4,6 +4,7 @@
   "description": "Perfume notes, houses & edits.",
   "homepage": "https://www.scento.com/developers",
   "docs": "https://www.scento.com/developers",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scento-perfume-compendium": {

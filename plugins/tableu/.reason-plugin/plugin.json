@@ -4,6 +4,7 @@
   "description": "Tarot readings and reflection.",
   "homepage": "https://tarot.lakefrontdev.com/",
   "docs": "https://tarot.lakefrontdev.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tableu": {

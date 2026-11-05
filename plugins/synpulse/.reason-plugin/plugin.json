@@ -4,6 +4,7 @@
   "description": "B2B Email & LinkedIn outreach.",
   "homepage": "https://synpulse.app",
   "docs": "https://synpulse.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "synpulse": {

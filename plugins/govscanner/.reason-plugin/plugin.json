@@ -4,6 +4,7 @@
   "description": "West Australian Gov Data.",
   "homepage": "https://govscanner.com.au",
   "docs": "https://govscanner.com.au",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "govscanner": {

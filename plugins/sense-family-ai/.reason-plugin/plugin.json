@@ -4,6 +4,7 @@
   "description": "Family calendar, lists, chores.",
   "homepage": "https://getsense.ai",
   "docs": "https://api.getsense.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sense-family-ai": {

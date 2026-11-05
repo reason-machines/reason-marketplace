@@ -4,6 +4,7 @@
   "description": "PowerPoint presentation agent.",
   "homepage": "https://plusai.com",
   "docs": "https://plusai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "plus-ai": {

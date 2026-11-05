@@ -4,6 +4,7 @@
   "description": "Know what needs attention.",
   "homepage": "https://franwallet.com",
   "docs": "https://tedix.dev/apps/fran-franchise-wallet/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fran-wallet": {

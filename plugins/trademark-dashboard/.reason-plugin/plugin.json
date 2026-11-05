@@ -4,6 +4,7 @@
   "description": "UK and US trademark research.",
   "homepage": "https://www.trademarkdashboard.com",
   "docs": "https://www.trademarkdashboard.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trademark-dashboard": {

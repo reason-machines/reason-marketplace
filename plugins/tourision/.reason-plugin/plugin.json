@@ -4,6 +4,7 @@
   "description": "360° virtual tours in chat.",
   "homepage": "https://tourision.com/",
   "docs": "https://tourision.com/tourision-chatgpt-claude-chrome/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tourision": {

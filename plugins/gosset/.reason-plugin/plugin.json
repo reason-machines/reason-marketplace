@@ -4,6 +4,7 @@
   "description": "Pharma pipeline intelligence.",
   "homepage": "https://gosset.ai/",
   "docs": "https://gosset.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gosset": {

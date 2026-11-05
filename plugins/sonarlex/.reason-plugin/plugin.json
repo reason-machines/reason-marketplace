@@ -4,6 +4,7 @@
   "description": "Daily game: guess the word.",
   "homepage": "https://sonarlex.ambientapp.ai",
   "docs": "https://unsaid.ambientapp.ai/docs",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "sonarlex": {

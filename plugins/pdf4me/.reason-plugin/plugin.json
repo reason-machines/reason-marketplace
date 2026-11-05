@@ -4,6 +4,7 @@
   "description": "PDF done simple and online!",
   "homepage": "https://pdf4me.com",
   "docs": "https://pdf4me.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pdf4me": {

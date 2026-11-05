@@ -4,6 +4,7 @@
   "description": "Screenshot reviews to share.",
   "homepage": "https://cobaltcapture.com",
   "docs": "https://cobaltcapture.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "cobalt-capture": {

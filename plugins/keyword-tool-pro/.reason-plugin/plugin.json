@@ -4,6 +4,7 @@
   "description": "Keyword research and SEO data.",
   "homepage": "https://keywordtool.io/mcp",
   "docs": "https://keywordtool.io/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "keyword-tool-pro": {

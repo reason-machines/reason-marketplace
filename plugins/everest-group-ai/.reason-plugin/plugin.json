@@ -4,6 +4,7 @@
   "description": "Access Everest Group research.",
   "homepage": "https://www.everestgrp.com",
   "docs": "https://www.everestgrp.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "everest-group-ai": {

@@ -4,6 +4,7 @@
   "description": "Plan your day and track time.",
   "homepage": "https://ticknow.app",
   "docs": "https://ticknow.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ticknow": {

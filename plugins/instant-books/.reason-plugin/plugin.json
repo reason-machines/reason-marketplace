@@ -4,6 +4,7 @@
   "description": "Ask your AI Bookkeeper.",
   "homepage": "https://instantbooks.ai",
   "docs": "https://instantbooks.ai/chatgpt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "instant-books": {

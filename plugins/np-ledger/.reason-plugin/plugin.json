@@ -4,6 +4,7 @@
   "description": "Nonprofit fund accounting.",
   "homepage": "https://70ware.com",
   "docs": "https://tedix.dev/apps/np-ledger/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "np-ledger": {

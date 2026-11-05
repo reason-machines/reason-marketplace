@@ -4,6 +4,7 @@
   "description": "Create and edit AI videos.",
   "homepage": "https://www.trezalabs.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.treza-labs/treza",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "treza": {

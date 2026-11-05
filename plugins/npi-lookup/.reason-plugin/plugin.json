@@ -4,6 +4,7 @@
   "description": "Provider rosters & NPI checks.",
   "homepage": "https://npi-lookup.zovo.one",
   "docs": "https://npi-lookup.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "npi-lookup": {

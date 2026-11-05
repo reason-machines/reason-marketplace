@@ -4,6 +4,7 @@
   "description": "Analyze AI search visibility.",
   "homepage": "https://geosurge.ai",
   "docs": "https://geosurge.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "geosurge-client": {

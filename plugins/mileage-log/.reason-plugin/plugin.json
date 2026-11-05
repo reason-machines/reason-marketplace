@@ -4,6 +4,7 @@
   "description": "Mileage log and reimbursement.",
   "homepage": "https://mileage-log.zovo.one",
   "docs": "https://mileage-log.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "mileage-log": {

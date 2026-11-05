@@ -4,6 +4,7 @@
   "description": "Check citations & manuscripts.",
   "homepage": "https://manusights.com",
   "docs": "https://manusights.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "manusights": {

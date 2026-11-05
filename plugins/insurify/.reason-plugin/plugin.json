@@ -4,6 +4,7 @@
   "description": "Compare car insurance quotes.",
   "homepage": "https://insurify.com/",
   "docs": "https://insurify.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "insurify": {

@@ -4,6 +4,7 @@
   "description": "Administer your CRM.",
   "homepage": "https://cirra.ai",
   "docs": "https://cirra.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cirra-ai": {

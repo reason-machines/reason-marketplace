@@ -4,6 +4,7 @@
   "description": "Technical score on AI search.",
   "homepage": "https://www.geo-tool.com/",
   "docs": "https://www.geo-tool.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "geo-tool-check": {

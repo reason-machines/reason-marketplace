@@ -4,6 +4,7 @@
   "description": "Automate and sync your apps.",
   "homepage": "https://crm-connector.com/platform",
   "docs": "https://crm-connector.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "crm-connector": {

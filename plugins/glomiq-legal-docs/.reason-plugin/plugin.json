@@ -4,6 +4,7 @@
   "description": "Automate legal contracts.",
   "homepage": "https://www.glomiq.com",
   "docs": "https://www.glomiq.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "glomiq-legal-docs": {

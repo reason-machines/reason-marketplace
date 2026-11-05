@@ -4,6 +4,7 @@
   "description": "PDF tables into a spreadsheet.",
   "homepage": "https://pdf-to-excel.zovo.one",
   "docs": "https://pdf-to-excel.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pdf-to-excel": {

@@ -4,6 +4,7 @@
   "description": "Facts. Not Spin. No bias.",
   "homepage": "https://unbiasedheadlines.com",
   "docs": "https://unbiasedheadlines.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "unbiased-headlines": {

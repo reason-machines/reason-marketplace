@@ -4,6 +4,7 @@
   "description": "French public aid by SIREN.",
   "homepage": "https://subvento.finance",
   "docs": "https://subvento.finance",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "subvento": {

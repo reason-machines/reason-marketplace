@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://postspread.com",
   "docs": "https://postspread.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "postspread": {

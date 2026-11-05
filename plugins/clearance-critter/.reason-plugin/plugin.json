@@ -4,6 +4,7 @@
   "description": "Find US clearance deals.",
   "homepage": "https://clearancecritter.com/",
   "docs": "https://clearancecritter.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clearance-critter": {

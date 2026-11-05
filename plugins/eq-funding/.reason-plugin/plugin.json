@@ -4,6 +4,7 @@
   "description": "Find business lenders.",
   "homepage": "https://www.eqfunding.com",
   "docs": "https://www.eqfunding.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eq-funding": {

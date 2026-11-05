@@ -4,6 +4,7 @@
   "description": "Edit your CV and export PDFs.",
   "homepage": "https://mylebenslauf.online/en/",
   "docs": "https://mylebenslauf.online/en/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mylebenslauf": {

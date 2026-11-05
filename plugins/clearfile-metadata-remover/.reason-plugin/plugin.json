@@ -4,6 +4,7 @@
   "description": "Remove AI & file metadata.",
   "homepage": "https://clearfile-metadata.fly.dev/",
   "docs": "https://clearfile-metadata.fly.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "clearfile-metadata-remover": {

@@ -4,6 +4,7 @@
   "description": "Layered designs you can edit.",
   "homepage": "https://lawh.ai/",
   "docs": "https://lawh.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lawh-ai": {

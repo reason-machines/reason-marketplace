@@ -4,6 +4,7 @@
   "description": "Payments and billing for apps.",
   "homepage": "https://polar.sh",
   "docs": "https://polar.sh/docs/integrate/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "polar": {

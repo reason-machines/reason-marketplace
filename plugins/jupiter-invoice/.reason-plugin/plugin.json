@@ -4,6 +4,7 @@
   "description": "Create and send invoices.",
   "homepage": "https://jupiterinvoice.com",
   "docs": "https://jupiterinvoice.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jupiter-invoice": {

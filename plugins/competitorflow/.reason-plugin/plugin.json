@@ -4,6 +4,7 @@
   "description": "Explore competitor insights.",
   "homepage": "https://competitorflow.com/en",
   "docs": "https://competitorflow.com/en",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "competitorflow": {

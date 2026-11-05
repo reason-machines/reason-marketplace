@@ -4,6 +4,7 @@
   "description": "Vos présentations, votre IA.",
   "homepage": "https://www.cocopoint.app/",
   "docs": "https://www.cocopoint.app/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cocopoint": {

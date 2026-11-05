@@ -4,6 +4,7 @@
   "description": "Create videos and slides.",
   "homepage": "https://fablyn.app",
   "docs": "https://fablyn.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fablyn": {

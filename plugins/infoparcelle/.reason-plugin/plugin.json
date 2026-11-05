@@ -4,6 +4,7 @@
   "description": "French cadastre & sale prices.",
   "homepage": "https://www.infoparcelle.fr",
   "docs": "https://www.infoparcelle.fr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "infoparcelle": {

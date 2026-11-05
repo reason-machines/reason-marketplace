@@ -4,6 +4,7 @@
   "description": "Hire live music.",
   "homepage": "https://getmusico.com",
   "docs": "https://getmusico.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "musico": {

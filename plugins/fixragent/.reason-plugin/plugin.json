@@ -4,6 +4,7 @@
   "description": "Maintenance photo triage.",
   "homepage": "https://fixragent.com",
   "docs": "https://fixragent.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fixragent": {

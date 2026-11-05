@@ -4,6 +4,7 @@
   "description": "Newspaper ad rates & booking.",
   "homepage": "https://www.releasemyad.com",
   "docs": "https://www.releasemyad.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "releasemyad-newspaper-ads": {

@@ -4,6 +4,7 @@
   "description": "Your life's context, in chat.",
   "homepage": "https://weave.cloud/",
   "docs": "https://weave.cloud/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "weave": {

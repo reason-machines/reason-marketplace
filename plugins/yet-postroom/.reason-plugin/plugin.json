@@ -4,6 +4,7 @@
   "description": "Plan, schedule and track posts.",
   "homepage": "https://social.notacompanynameyet.com",
   "docs": "https://social.notacompanynameyet.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yet-postroom": {

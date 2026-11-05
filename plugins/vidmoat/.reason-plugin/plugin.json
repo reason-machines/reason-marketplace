@@ -4,6 +4,7 @@
   "description": "The agent-first video editor.",
   "homepage": "https://vidmoat.com",
   "docs": "https://registry.modelcontextprotocol.io/v0/servers?search=com.vidmoat/vidmoat",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vidmoat": {

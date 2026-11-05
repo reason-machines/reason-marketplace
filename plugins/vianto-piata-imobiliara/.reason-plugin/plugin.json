@@ -4,6 +4,7 @@
   "description": "Piața imobiliară din România.",
   "homepage": "https://viantoproperties.ro/piata-imobiliara/conector-ai/",
   "docs": "https://viantoproperties.ro/piata-imobiliara/conector-ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vianto-piata-imobiliara": {

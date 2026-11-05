@@ -4,6 +4,7 @@
   "description": "Track the delivery of a fax.",
   "homepage": "https://payperfax.com/",
   "docs": "https://payperfax.com/fax-mcp/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "payperfax": {

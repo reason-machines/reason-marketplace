@@ -4,6 +4,7 @@
   "description": "Search voice notes & summaries.",
   "homepage": "https://notelyvoice.ai",
   "docs": "https://notelyvoice.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "notely-voice": {

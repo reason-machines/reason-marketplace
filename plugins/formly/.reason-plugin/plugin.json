@@ -4,6 +4,7 @@
   "description": "Build and manage forms.",
   "homepage": "https://formly.so",
   "docs": "https://formly.so/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "formly": {

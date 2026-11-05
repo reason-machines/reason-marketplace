@@ -4,6 +4,7 @@
   "description": "Explore metrics.",
   "homepage": "https://www.rilldata.com",
   "docs": "https://docs.rilldata.com/guide/ai/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rill": {

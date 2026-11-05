@@ -4,6 +4,7 @@
   "description": "Compare prices in Romania.",
   "homepage": "https://ixa.ro",
   "docs": "https://ixa.ro",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ixa-ro": {

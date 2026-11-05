@@ -4,6 +4,7 @@
   "description": "Citya properties in Reason.",
   "homepage": "https://www.citya.com/",
   "docs": "https://www.citya.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "citya-immobilier": {

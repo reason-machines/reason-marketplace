@@ -4,6 +4,7 @@
   "description": "Manage B2B ad campaigns.",
   "homepage": "https://metadata.io",
   "docs": "https://metadata.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "metadata": {

@@ -4,6 +4,7 @@
   "description": "Specialty coffee directory.",
   "homepage": "https://www.thebeangeek.com",
   "docs": "https://thebeangeek.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "thebeangeek": {

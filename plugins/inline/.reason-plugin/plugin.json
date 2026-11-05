@@ -4,6 +4,7 @@
   "description": "Work chats in Reason.",
   "homepage": "https://inline.chat",
   "docs": "https://inline.chat",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "inline": {

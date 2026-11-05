@@ -4,6 +4,7 @@
   "description": "Critical tasks, slack & CSV.",
   "homepage": "https://critical-path.zovo.one",
   "docs": "https://critical-path.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "critical-path": {

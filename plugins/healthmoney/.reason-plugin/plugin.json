@@ -4,6 +4,7 @@
   "description": "Personal investment advisor.",
   "homepage": "https://healthmoney.com.br",
   "docs": "https://tedix.dev/apps/healthmoney/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "healthmoney": {

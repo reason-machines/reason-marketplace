@@ -4,6 +4,7 @@
   "description": "Read and create family stories.",
   "homepage": "https://elenstoryai.com",
   "docs": "https://elenstoryai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "elen-story-ai": {

@@ -4,6 +4,7 @@
   "description": "Your GEO companion.",
   "homepage": "https://www.useomnia.com",
   "docs": "https://www.useomnia.com/omnia-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "omnia": {

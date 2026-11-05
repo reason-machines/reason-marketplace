@@ -4,6 +4,7 @@
   "description": "Spaced-repetition flashcards.",
   "homepage": "https://flashmemorize.com",
   "docs": "https://flashmemorize.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flash": {

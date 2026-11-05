@@ -4,6 +4,7 @@
   "description": "Track personal finances.",
   "homepage": "https://gasti.pro",
   "docs": "https://tedix.dev/apps/gasti/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gasti": {

@@ -4,6 +4,7 @@
   "description": "Romanian auto market data.",
   "homepage": "https://mara.aivexia.ro",
   "docs": "https://mara.aivexia.ro/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "market-autopilot": {

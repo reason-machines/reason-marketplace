@@ -4,6 +4,7 @@
   "description": "Explore Italian public data.",
   "homepage": "https://www.dovevannoinostrisoldi.com",
   "docs": "https://www.dovevannoinostrisoldi.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dovevannoinostrisoldi": {

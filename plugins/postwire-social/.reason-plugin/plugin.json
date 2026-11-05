@@ -4,6 +4,7 @@
   "description": "Schedule social media posts.",
   "homepage": "https://postwire.io",
   "docs": "https://postwire.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "postwire-social": {

@@ -4,6 +4,7 @@
   "description": "Find pros. Plan your shoot.",
   "homepage": "https://thecam.app",
   "docs": "https://api.thecam.app/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "thecam": {

@@ -4,6 +4,7 @@
   "description": "Fair picks, teams and draws.",
   "homepage": "https://namewheel.org/mcp",
   "docs": "https://namewheel.org/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "namewheel": {

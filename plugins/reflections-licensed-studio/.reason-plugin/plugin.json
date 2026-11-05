@@ -4,6 +4,7 @@
   "description": "Create licensed imagery.",
   "homepage": "https://app.reflections.ai",
   "docs": "https://app.reflections.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reflections-licensed-studio": {

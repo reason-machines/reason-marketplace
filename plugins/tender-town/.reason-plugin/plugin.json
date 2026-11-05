@@ -4,6 +4,7 @@
   "description": "Find public tenders to bid.",
   "homepage": "https://tendertown.io",
   "docs": "https://tendertown.io/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tender-town": {

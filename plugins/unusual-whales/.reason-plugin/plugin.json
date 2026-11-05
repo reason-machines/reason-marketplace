@@ -4,6 +4,7 @@
   "description": "Options flow, GEX, screeners.",
   "homepage": "https://unusualwhales.com",
   "docs": "https://unusualwhales.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "unusual-whales": {

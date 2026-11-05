@@ -4,6 +4,7 @@
   "description": "Track time and review invoices.",
   "homepage": "https://www.getharvest.com",
   "docs": "https://support.getharvest.com/hc/en-us/articles/46293697226381-Harvest-MCP",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "harvest": {

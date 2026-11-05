@@ -4,6 +4,7 @@
   "description": "Ask your own sitters.",
   "homepage": "https://sittersorted.com",
   "docs": "https://app.sittersorted.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sittersorted": {

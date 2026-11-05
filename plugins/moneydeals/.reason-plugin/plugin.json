@@ -4,6 +4,7 @@
   "description": "US tech deals & price history.",
   "homepage": "https://www.moneydeals.com",
   "docs": "https://www.moneydeals.com/developers/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "moneydeals": {

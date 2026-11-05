@@ -4,6 +4,7 @@
   "description": "Cairo Genizah manuscripts.",
   "homepage": "https://genizahsearch.com",
   "docs": "https://genizahsearch.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "genizahsearch": {

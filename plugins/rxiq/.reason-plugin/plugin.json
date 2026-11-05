@@ -4,6 +4,7 @@
   "description": "NHS primary care prescribing.",
   "homepage": "https://rxiq.co.uk/connect",
   "docs": "https://rxiq.co.uk/connect",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rxiq": {

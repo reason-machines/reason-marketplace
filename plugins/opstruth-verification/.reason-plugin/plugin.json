@@ -4,6 +4,7 @@
   "description": "Verify coding work with proof.",
   "homepage": "https://opstruth.io",
   "docs": "https://opstruth.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "opstruth-verification": {

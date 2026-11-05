@@ -4,6 +4,7 @@
   "description": "Manage your sports team.",
   "homepage": "https://clubmeister.app/mcp",
   "docs": "https://clubmeister.app/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "clubmeister-team-manager": {

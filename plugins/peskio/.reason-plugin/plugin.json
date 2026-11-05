@@ -4,6 +4,7 @@
   "description": "Tides and fishing conditions.",
   "homepage": "https://peskio.com",
   "docs": "https://peskio.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "peskio": {

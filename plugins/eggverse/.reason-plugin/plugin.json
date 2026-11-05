@@ -4,6 +4,7 @@
   "description": "play together anywhere.",
   "homepage": "https://eggverse.co/chat-plugin",
   "docs": "https://eggverse.co/chat-plugin",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eggverse": {

@@ -4,6 +4,7 @@
   "description": "Find clothes from real shops.",
   "homepage": "https://www.tailor.ai",
   "docs": "https://www.tailor.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tailor-ai": {

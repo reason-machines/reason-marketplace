@@ -4,6 +4,7 @@
   "description": "Create and publish content.",
   "homepage": "https://www.genviral.io",
   "docs": "https://www.genviral.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "genviral": {

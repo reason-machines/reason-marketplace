@@ -4,6 +4,7 @@
   "description": "AI agents for intelligence.",
   "homepage": "https://www.sixtyfour.ai/",
   "docs": "https://www.sixtyfour.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sixtyfour-intelligence": {

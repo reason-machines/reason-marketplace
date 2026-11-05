@@ -4,6 +4,7 @@
   "description": "See what's open right now.",
   "homepage": "https://openow.app",
   "docs": "https://openow.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "open-what-is-open-right-now": {

@@ -4,6 +4,7 @@
   "description": "Read your ServGround workspace.",
   "homepage": "https://servground.com",
   "docs": "https://servground.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "servground": {

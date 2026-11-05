@@ -4,6 +4,7 @@
   "description": "Research Chilean law.",
   "homepage": "https://trifolia.cl",
   "docs": "https://trifolia.cl",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trifolia": {

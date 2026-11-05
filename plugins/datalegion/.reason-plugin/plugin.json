@@ -4,6 +4,7 @@
   "description": "B2B people and company data.",
   "homepage": "https://www.datalegion.ai",
   "docs": "https://www.datalegion.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "datalegion": {

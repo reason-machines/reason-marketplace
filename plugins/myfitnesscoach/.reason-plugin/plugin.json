@@ -4,6 +4,7 @@
   "description": "All in One Fitness Solution.",
   "homepage": "https://myfitnesscoach.fit/",
   "docs": "https://myfitnesscoach.fit/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "myfitnesscoach": {

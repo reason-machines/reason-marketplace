@@ -4,6 +4,7 @@
   "description": "Know what the FDA thinks.",
   "homepage": "https://rhizomeai.com",
   "docs": "https://rhizomeai.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "rhizome-ai": {

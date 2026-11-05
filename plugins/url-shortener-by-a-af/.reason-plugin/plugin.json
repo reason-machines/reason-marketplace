@@ -4,6 +4,7 @@
   "description": "Create and manage short links.",
   "homepage": "https://a.af",
   "docs": "https://a.af",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "url-shortener-by-a-af": {

@@ -4,6 +4,7 @@
   "description": "Search your document archive.",
   "homepage": "https://vaultivo.at/en/",
   "docs": "https://app.vaultivo.at/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vaultivo": {

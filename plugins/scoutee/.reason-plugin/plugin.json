@@ -4,6 +4,7 @@
   "description": "Find public tenders.",
   "homepage": "https://scoutee.org",
   "docs": "https://scoutee.org/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scoutee": {

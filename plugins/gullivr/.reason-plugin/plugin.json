@@ -4,6 +4,7 @@
   "description": "Plan group trips.",
   "homepage": "https://gullivr.xyz",
   "docs": "https://gullivr.xyz",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gullivr": {

@@ -4,6 +4,7 @@
   "description": "Ukraine travel & insurance.",
   "homepage": "https://www.ukraineborder.com",
   "docs": "https://ukraineborder.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ukraineborder": {

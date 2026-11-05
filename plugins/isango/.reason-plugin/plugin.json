@@ -4,6 +4,7 @@
   "description": "Discover tours and activities.",
   "homepage": "https://www.isango.com",
   "docs": "https://www.isango.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "isango": {

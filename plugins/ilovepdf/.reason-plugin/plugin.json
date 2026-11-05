@@ -4,6 +4,7 @@
   "description": "Manage, convert, optimize PDFs.",
   "homepage": "https://www.ilovepdf.com",
   "docs": "https://www.ilovepdf.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ilovepdf": {

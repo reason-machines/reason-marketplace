@@ -4,6 +4,7 @@
   "description": "Find, enrich & automate leads.",
   "homepage": "https://pipe0.com",
   "docs": "https://pipe0.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pipe0": {

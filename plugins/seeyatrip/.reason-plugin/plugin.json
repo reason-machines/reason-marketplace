@@ -4,6 +4,7 @@
   "description": "Find hotels and flights.",
   "homepage": "https://www.seeyatrip.com",
   "docs": "https://www.seeyatrip.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "seeyatrip": {

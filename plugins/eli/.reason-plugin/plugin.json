@@ -4,6 +4,7 @@
   "description": "Test if AI can do business.",
   "homepage": "https://www.hireeli.io",
   "docs": "https://www.hireeli.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "eli": {

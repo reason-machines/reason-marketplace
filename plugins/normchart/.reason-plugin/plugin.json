@@ -4,6 +4,7 @@
   "description": "Business charts for reports.",
   "homepage": "https://www.normchart.com",
   "docs": "https://www.normchart.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "normchart": {

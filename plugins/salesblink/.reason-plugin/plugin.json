@@ -4,6 +4,7 @@
   "description": "Manage sales outreach.",
   "homepage": "https://salesblink.io",
   "docs": "https://salesblink.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "salesblink": {

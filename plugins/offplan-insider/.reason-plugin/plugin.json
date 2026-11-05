@@ -4,6 +4,7 @@
   "description": "UAE off-plan property data.",
   "homepage": "https://offplaninsider.com",
   "docs": "https://offplaninsider.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "offplan-insider": {

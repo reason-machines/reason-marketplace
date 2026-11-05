@@ -4,6 +4,7 @@
   "description": "Turkish law, tax & case law.",
   "homepage": "https://mutalaa.tr",
   "docs": "https://mutalaa.tr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mutalaa": {

@@ -4,6 +4,7 @@
   "description": "Continuity for AI agents.",
   "homepage": "https://useorgx.com",
   "docs": "https://useorgx.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "orgx": {

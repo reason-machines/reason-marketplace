@@ -4,6 +4,7 @@
   "description": "Create and preview training.",
   "homepage": "https://skillsail.com",
   "docs": "https://skillsail.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "skillsail": {

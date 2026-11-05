@@ -4,6 +4,7 @@
   "description": "Live quizzes for any room.",
   "homepage": "https://redmo.xyz",
   "docs": "https://redmo.xyz",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "redmo": {

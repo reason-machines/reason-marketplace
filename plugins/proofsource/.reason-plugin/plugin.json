@@ -4,6 +4,7 @@
   "description": "Brand visibility in AI answers.",
   "homepage": "https://proofsource.co/ai-assistants",
   "docs": "https://proofsource.co/ai-assistants",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "proofsource": {

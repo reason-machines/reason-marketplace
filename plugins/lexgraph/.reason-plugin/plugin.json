@@ -4,6 +4,7 @@
   "description": "Legal Database.",
   "homepage": "https://lexgraph.de/",
   "docs": "https://lexgraph.de/llms-full.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lexgraph": {

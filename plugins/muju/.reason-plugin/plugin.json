@@ -4,6 +4,7 @@
   "description": "Discover and order locally.",
   "homepage": "https://mujucommunity.com",
   "docs": "https://mujucommunity.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "muju": {

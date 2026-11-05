@@ -4,6 +4,7 @@
   "description": "Paywalls and revenue analytics.",
   "homepage": "https://superwall.com/docs/dashboard/guides/superwall-mcp",
   "docs": "https://superwall.com/docs/dashboard/guides/superwall-mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superwall": {

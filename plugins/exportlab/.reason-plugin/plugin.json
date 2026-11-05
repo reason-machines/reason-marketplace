@@ -4,6 +4,7 @@
   "description": "Manage creative workflows.",
   "homepage": "https://exportlab.io",
   "docs": "https://exportlab.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "exportlab": {

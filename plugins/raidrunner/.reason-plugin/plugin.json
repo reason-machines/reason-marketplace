@@ -4,6 +4,7 @@
   "description": "Manage your raid-train slots.",
   "homepage": "https://raidrunner.net",
   "docs": "https://raidrunner.net",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "raidrunner": {

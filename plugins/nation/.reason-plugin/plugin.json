@@ -4,6 +4,7 @@
   "description": "Run your online store.",
   "homepage": "https://withnation.ai/",
   "docs": "https://withnation.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nation": {

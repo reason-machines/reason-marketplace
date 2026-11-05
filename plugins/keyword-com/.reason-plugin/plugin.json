@@ -4,6 +4,7 @@
   "description": "Track SEO & AEO visibility.",
   "homepage": "https://keyword.com/",
   "docs": "https://keyword.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "keyword-com": {

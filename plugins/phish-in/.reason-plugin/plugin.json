@@ -4,6 +4,7 @@
   "description": "Live Phish audio archive.",
   "homepage": "https://phish.in",
   "docs": "https://phish.in",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "phish-in": {

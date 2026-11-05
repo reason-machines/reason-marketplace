@@ -4,6 +4,7 @@
   "description": "Research and usability tests.",
   "homepage": "https://theysaid.io",
   "docs": "https://api.theysaid.io/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "theysaid": {

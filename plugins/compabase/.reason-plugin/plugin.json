@@ -4,6 +4,7 @@
   "description": "Polish company data and KYB.",
   "homepage": "https://compabase.com",
   "docs": "https://compabase.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "compabase": {

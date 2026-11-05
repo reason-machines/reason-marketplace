@@ -4,6 +4,7 @@
   "description": "Find offices and workspaces.",
   "homepage": "https://coworkingview.com/llms.txt",
   "docs": "https://coworkingview.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "coworkingview": {

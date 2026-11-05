@@ -4,6 +4,7 @@
   "description": "AI sales and support.",
   "homepage": "https://www.ventorchat.com",
   "docs": "https://www.ventorchat.com/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ventor": {

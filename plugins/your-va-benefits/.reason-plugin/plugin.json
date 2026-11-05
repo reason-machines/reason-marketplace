@@ -4,6 +4,7 @@
   "description": "VA benefits and VSO tools.",
   "homepage": "https://yourvabenefits.com",
   "docs": "https://yourvabenefits.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "your-va-benefits": {

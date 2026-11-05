@@ -4,6 +4,7 @@
   "description": "Check a company's trust record.",
   "homepage": "https://trooth.co",
   "docs": "https://trooth.co/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "trooth-network": {

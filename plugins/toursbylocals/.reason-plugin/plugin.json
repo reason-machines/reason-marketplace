@@ -4,6 +4,7 @@
   "description": "Book tours with local guides.",
   "homepage": "https://www.toursbylocals.com",
   "docs": "https://www.toursbylocals.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "toursbylocals": {

@@ -4,6 +4,7 @@
   "description": "Word game solver & unscrambler.",
   "homepage": "https://word-solver.zovo.one",
   "docs": "https://word-solver.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "word-solver": {

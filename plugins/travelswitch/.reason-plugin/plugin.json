@@ -4,6 +4,7 @@
   "description": "Flights, Hotels & Packages.",
   "homepage": "https://travelswitch.com/",
   "docs": "https://travelswitch.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "travelswitch": {

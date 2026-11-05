@@ -4,6 +4,7 @@
   "description": "Product images and UGC videos.",
   "homepage": "https://ugcbuilder.com/mcp",
   "docs": "https://ugcbuilder.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ugcbuilder": {

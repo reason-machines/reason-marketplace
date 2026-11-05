@@ -4,6 +4,7 @@
   "description": "Explore partner insights.",
   "homepage": "https://www.crossbeam.com/",
   "docs": "https://www.crossbeam.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "crossbeam": {

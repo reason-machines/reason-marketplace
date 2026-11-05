@@ -4,6 +4,7 @@
   "description": "Find properties in India.",
   "homepage": "https://www.squareyards.com/",
   "docs": "https://www.squareyards.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "square-yards": {

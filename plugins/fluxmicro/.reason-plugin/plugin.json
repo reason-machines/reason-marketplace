@@ -4,6 +4,7 @@
   "description": "French freelance invoicing.",
   "homepage": "https://fluxmicro.fr",
   "docs": "https://fluxmicro.fr",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fluxmicro": {

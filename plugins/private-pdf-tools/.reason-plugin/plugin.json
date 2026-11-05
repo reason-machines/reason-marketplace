@@ -4,6 +4,7 @@
   "description": "Edit PDF files privately.",
   "homepage": "https://ailabtools.work/",
   "docs": "https://ailabtools.work/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "private-pdf-tools": {

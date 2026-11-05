@@ -4,6 +4,7 @@
   "description": "Your ATS jobs and candidates.",
   "homepage": "https://recrutei.com.br",
   "docs": "https://recrutei.com.br",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "recrutei": {

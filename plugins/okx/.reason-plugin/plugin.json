@@ -4,6 +4,7 @@
   "description": "Find crypto market data.",
   "homepage": "https://www.okx.com",
   "docs": "https://tedix.dev/apps/okx/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "okx": {

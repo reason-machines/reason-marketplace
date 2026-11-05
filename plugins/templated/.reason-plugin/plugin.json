@@ -4,6 +4,7 @@
   "description": "Generate images, videos & PDFs.",
   "homepage": "https://templated.io/",
   "docs": "https://templated.io/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "templated": {

@@ -4,6 +4,7 @@
   "description": "Agentic coding for your SDLC.",
   "homepage": "https://letsship.ai",
   "docs": "https://letsship.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ship": {

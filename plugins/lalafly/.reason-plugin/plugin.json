@@ -4,6 +4,7 @@
   "description": "Voos e passagens com milhas.",
   "homepage": "https://lalafly.com.br",
   "docs": "https://lalafly.com.br",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "lalafly": {

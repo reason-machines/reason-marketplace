@@ -4,6 +4,7 @@
   "description": "Critical minerals intelligence.",
   "homepage": "https://intel.miningbridge.in",
   "docs": "https://intel.miningbridge.in/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "miningbridge-intel": {

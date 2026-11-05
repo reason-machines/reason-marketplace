@@ -4,6 +4,7 @@
   "description": "Understand your money and FIRE.",
   "homepage": "https://perdiem.app",
   "docs": "https://tedix.dev/apps/per-diem/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "per-diem": {

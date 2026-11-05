@@ -4,6 +4,7 @@
   "description": "Check Korean stay permits.",
   "homepage": "https://selectbnbs.com/verify/",
   "docs": "https://selectbnbs.com/verify/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "selectbnbs-verify": {

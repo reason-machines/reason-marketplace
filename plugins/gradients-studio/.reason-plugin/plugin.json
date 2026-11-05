@@ -4,6 +4,7 @@
   "description": "Backgrounds for sites & decks.",
   "homepage": "https://www.gradients.studio",
   "docs": "https://www.gradients.studio",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gradients-studio": {

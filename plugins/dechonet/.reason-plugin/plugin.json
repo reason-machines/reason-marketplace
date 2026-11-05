@@ -4,6 +4,7 @@
   "description": "Domain & phishing link checks.",
   "homepage": "https://dechonet.com/mcp",
   "docs": "https://dechonet.com/mcp",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dechonet": {

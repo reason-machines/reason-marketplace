@@ -4,6 +4,7 @@
   "description": "Mobile data for your trips.",
   "homepage": "https://esimforu.app",
   "docs": "https://esimforu.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "esim-for-u": {

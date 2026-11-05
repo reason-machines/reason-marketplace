@@ -4,6 +4,7 @@
   "description": "Find songs from video links.",
   "homepage": "https://findtunes.app",
   "docs": "https://findtunes.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "findtunes": {

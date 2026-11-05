@@ -4,6 +4,7 @@
   "description": "Social sector funder research.",
   "homepage": "https://www.kindora.co",
   "docs": "https://www.kindora.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "kindora": {

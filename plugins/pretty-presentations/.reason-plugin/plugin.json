@@ -4,6 +4,7 @@
   "description": "Design PowerPoint slides.",
   "homepage": "https://make-pretty.com",
   "docs": "https://docs.make-pretty.com/mcp/overview",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pretty-presentations": {

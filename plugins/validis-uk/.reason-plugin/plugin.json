@@ -4,6 +4,7 @@
   "description": "Analyse financial data.",
   "homepage": "https://www.validis.com/",
   "docs": "https://www.validis.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "validis-uk": {

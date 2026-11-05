@@ -4,6 +4,7 @@
   "description": "Ask your Odoo or SQL database.",
   "homepage": "https://speaktoyourdatabase.com",
   "docs": "https://speaktoyourdatabase.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "speak-to-your-database": {

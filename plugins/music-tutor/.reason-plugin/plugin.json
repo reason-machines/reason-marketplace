@@ -4,6 +4,7 @@
   "description": "Real music you can see & hear.",
   "homepage": "https://musictutor.app",
   "docs": "https://musictutor.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "music-tutor": {

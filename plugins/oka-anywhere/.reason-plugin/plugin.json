@@ -4,6 +4,7 @@
   "description": "Cited answers from procedures.",
   "homepage": "https://forgeagentsio.com/oka.html",
   "docs": "https://forgeagentsio.com/oka.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "oka-anywhere": {

@@ -4,6 +4,7 @@
   "description": "Voice agents, calls, and SMS.",
   "homepage": "https://skysay.ai",
   "docs": "https://skysay.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "skysay": {

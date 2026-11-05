@@ -4,6 +4,7 @@
   "description": "Read your Twelfth workspace.",
   "homepage": "https://twelfth.ai/developers/mcp",
   "docs": "https://twelfth.ai/developers/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "twelfth": {

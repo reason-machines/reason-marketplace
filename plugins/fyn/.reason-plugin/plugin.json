@@ -4,6 +4,7 @@
   "description": "Budgets, receipts and spending.",
   "homepage": "https://fyn.fyi",
   "docs": "https://fyn.fyi",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fyn": {

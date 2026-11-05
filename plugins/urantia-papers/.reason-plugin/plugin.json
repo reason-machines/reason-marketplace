@@ -4,6 +4,7 @@
   "description": "Search, read, and cite.",
   "homepage": "https://urantia.dev",
   "docs": "https://urantia.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "urantia-papers": {

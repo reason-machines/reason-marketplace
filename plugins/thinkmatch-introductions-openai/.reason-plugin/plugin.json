@@ -4,6 +4,7 @@
   "description": "Find places to meet people.",
   "homepage": "https://thinkmatch.app",
   "docs": "https://thinkmatch.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "thinkmatch-introductions-openai": {

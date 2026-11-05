@@ -4,6 +4,7 @@
   "description": "Subscription revenue metrics.",
   "homepage": "https://kometrics.com",
   "docs": "https://kometrics.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "kometrics": {

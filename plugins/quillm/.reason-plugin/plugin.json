@@ -4,6 +4,7 @@
   "description": "Pages your agents keep current.",
   "homepage": "https://quillm.ai",
   "docs": "https://quillm.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "quillm": {

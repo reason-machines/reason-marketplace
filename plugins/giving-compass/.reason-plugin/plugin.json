@@ -4,6 +4,7 @@
   "description": "Research U.S. nonprofits.",
   "homepage": "https://givingcompass.org/mcp-setup",
   "docs": "https://givingcompass.org/mcp-setup",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "giving-compass": {

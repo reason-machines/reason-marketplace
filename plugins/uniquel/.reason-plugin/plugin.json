@@ -4,6 +4,7 @@
   "description": "Find UI components.",
   "homepage": "https://uniquel.io",
   "docs": "https://uniquel.io/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "uniquel": {

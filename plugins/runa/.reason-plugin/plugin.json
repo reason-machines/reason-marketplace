@@ -4,6 +4,7 @@
   "description": "Add your meeting context.",
   "homepage": "https://www.joinruna.com/",
   "docs": "https://www.joinruna.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "runa": {

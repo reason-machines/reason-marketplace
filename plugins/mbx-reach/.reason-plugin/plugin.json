@@ -4,6 +4,7 @@
   "description": "Email marketing drafts.",
   "homepage": "https://mbxreach.com",
   "docs": "https://mbxreach.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mbx-reach": {

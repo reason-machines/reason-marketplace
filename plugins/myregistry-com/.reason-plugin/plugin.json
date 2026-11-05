@@ -4,6 +4,7 @@
   "description": "All Stores, One Registry®.",
   "homepage": "https://www.myregistry.com/",
   "docs": "https://www.myregistry.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "myregistry-com": {

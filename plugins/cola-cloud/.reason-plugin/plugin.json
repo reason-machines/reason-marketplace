@@ -4,6 +4,7 @@
   "description": "Enriched TTB COLA search.",
   "homepage": "https://colacloud.us",
   "docs": "https://colacloud.us",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "cola-cloud": {

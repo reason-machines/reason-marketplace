@@ -4,6 +4,7 @@
   "description": "Spin a wheel, pick a name.",
   "homepage": "https://name-wheel.zovo.one",
   "docs": "https://name-wheel.zovo.one/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "name-wheel": {

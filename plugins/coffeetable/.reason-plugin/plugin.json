@@ -4,6 +4,7 @@
   "description": "Find your next book.",
   "homepage": "https://coffeetable.kushalsm.com",
   "docs": "https://coffeetable.kushalsm.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "coffeetable": {

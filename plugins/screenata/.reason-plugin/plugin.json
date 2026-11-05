@@ -4,6 +4,7 @@
   "description": "SOC 2, HIPAA & ISO readiness.",
   "homepage": "https://screenata.com",
   "docs": "https://screenata.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "screenata": {

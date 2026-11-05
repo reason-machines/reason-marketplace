@@ -4,6 +4,7 @@
   "description": "Search Parliament and alerts.",
   "homepage": "https://www.hillmonitor.ca",
   "docs": "https://www.hillmonitor.ca",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hill-monitor": {

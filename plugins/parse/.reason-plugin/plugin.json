@@ -4,6 +4,7 @@
   "description": "Free AI visibility lookups.",
   "homepage": "https://parse.gl/llms.txt",
   "docs": "https://parse.gl/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "parse": {

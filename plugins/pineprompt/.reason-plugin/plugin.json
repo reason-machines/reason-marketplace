@@ -4,6 +4,7 @@
   "description": "AI search visibility tracking.",
   "homepage": "https://pineprompt.com",
   "docs": "https://pineprompt.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pineprompt": {

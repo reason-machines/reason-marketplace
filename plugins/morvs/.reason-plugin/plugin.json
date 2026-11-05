@@ -4,6 +4,7 @@
   "description": "Source-linked public records.",
   "homepage": "https://morvs.ai/",
   "docs": "https://morvs.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "morvs": {

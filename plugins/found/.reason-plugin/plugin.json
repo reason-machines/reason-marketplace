@@ -4,6 +4,7 @@
   "description": "Banking, bookkeeping and taxes.",
   "homepage": "https://found.com",
   "docs": "https://found.com/help/manage-account/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "found": {

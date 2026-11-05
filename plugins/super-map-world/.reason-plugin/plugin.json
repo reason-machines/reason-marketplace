@@ -4,6 +4,7 @@
   "description": "Search country & world maps.",
   "homepage": "https://supermap.world",
   "docs": "https://supermap.world",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "super-map-world": {

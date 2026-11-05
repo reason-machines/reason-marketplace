@@ -4,6 +4,7 @@
   "description": "Group chat for people and AI.",
   "homepage": "https://huddo.ai",
   "docs": "https://huddo.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "huddo": {

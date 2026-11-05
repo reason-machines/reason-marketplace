@@ -4,6 +4,7 @@
   "description": "Professional property photos.",
   "homepage": "https://hospitalitylens.com",
   "docs": "https://hospitalitylens.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hospitalitylens": {

@@ -4,6 +4,7 @@
   "description": "Store and share knowledge.",
   "homepage": "https://symbol.chat",
   "docs": "https://symbol.chat",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "symbol": {

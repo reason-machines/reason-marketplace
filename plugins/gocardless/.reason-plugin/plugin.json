@@ -4,6 +4,7 @@
   "description": "Accept and manage payments.",
   "homepage": "https://gocardless.com/",
   "docs": "https://gocardless.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "gocardless": {

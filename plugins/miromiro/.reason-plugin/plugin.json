@@ -4,6 +4,7 @@
   "description": "Extract any website's design.",
   "homepage": "https://miromiro.app/api",
   "docs": "https://miromiro.app/api",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "miromiro": {

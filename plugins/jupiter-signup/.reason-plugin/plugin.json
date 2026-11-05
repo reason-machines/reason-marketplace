@@ -4,6 +4,7 @@
   "description": "Sign-up forms with payments.",
   "homepage": "https://jupitersignup.com",
   "docs": "https://jupitersignup.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jupiter-signup": {

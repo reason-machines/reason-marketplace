@@ -4,6 +4,7 @@
   "description": "Daily Muslim prayer times.",
   "homepage": "https://namaz.io",
   "docs": "https://namaz.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "namaz": {

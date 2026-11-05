@@ -4,6 +4,7 @@
   "description": "Context for any video link.",
   "homepage": "https://scribiz.com",
   "docs": "https://scribiz.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scribiz": {

@@ -4,6 +4,7 @@
   "description": "Create sheet music & TAB.",
   "homepage": "https://musicblock.app",
   "docs": "https://musicblock.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "music-block": {

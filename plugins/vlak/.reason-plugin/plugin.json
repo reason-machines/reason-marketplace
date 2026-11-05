@@ -4,6 +4,7 @@
   "description": "Build accessible interfaces.",
   "homepage": "https://vlak.dev",
   "docs": "https://vlak.dev",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "vlak": {

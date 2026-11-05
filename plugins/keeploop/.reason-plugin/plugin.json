@@ -4,6 +4,7 @@
   "description": "All of your Mac, every chat.",
   "homepage": "https://keeploop.app",
   "docs": "https://keeploop.app",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "keeploop": {

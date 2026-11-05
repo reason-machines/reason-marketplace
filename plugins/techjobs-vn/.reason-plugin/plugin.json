@@ -4,6 +4,7 @@
   "description": "Tech jobs hiring in Vietnam.",
   "homepage": "https://techjobs.vn",
   "docs": "https://techjobs.vn",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "techjobs-vn": {

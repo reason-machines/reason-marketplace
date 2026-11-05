@@ -4,6 +4,7 @@
   "description": "Video transcripts and metadata.",
   "homepage": "https://transcriptor-mcp.org/llms.txt",
   "docs": "https://transcriptor-mcp.org/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "transcriptor": {

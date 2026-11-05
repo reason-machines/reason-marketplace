@@ -4,6 +4,7 @@
   "description": "Track your product warranties.",
   "homepage": "https://warrantywarden.com",
   "docs": "https://warrantywarden.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "warrantywarden-5": {

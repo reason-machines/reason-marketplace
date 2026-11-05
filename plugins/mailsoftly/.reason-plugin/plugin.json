@@ -4,6 +4,7 @@
   "description": "Email marketing and automation.",
   "homepage": "https://mailsoftly.com",
   "docs": "https://app.mailsoftly.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mailsoftly": {

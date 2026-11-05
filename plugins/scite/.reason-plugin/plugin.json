@@ -4,6 +4,7 @@
   "description": "Search scientific literature.",
   "homepage": "https://www.scite.ai",
   "docs": "https://scite.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "scite": {

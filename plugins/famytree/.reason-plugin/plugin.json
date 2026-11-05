@@ -4,6 +4,7 @@
   "description": "Save family research as a tree.",
   "homepage": "https://www.famytree.net",
   "docs": "https://www.famytree.net",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "famytree": {

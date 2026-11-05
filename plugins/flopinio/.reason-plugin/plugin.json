@@ -4,6 +4,7 @@
   "description": "Client work, ready for action.",
   "homepage": "https://flopinio.com",
   "docs": "https://flopinio.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "flopinio": {

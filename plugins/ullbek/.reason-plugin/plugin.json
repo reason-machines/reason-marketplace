@@ -4,6 +4,7 @@
   "description": "Build and publish websites.",
   "homepage": "https://ullbek.com",
   "docs": "https://ullbek.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "ullbek": {

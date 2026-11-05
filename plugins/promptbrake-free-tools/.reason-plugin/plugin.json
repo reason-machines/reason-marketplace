@@ -4,6 +4,7 @@
   "description": "Build AI tests and plans.",
   "homepage": "https://promptbrake.com",
   "docs": "https://promptbrake.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "promptbrake-free-tools": {

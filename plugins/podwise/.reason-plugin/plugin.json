@@ -4,6 +4,7 @@
   "description": "Search and summarize podcasts.",
   "homepage": "https://podwise.ai",
   "docs": "https://podwise.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "podwise": {

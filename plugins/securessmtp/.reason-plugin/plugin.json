@@ -4,6 +4,7 @@
   "description": "Send and track app email.",
   "homepage": "https://securessmtp.com/mcp",
   "docs": "https://securessmtp.com/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "securessmtp": {

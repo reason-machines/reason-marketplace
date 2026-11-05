@@ -4,6 +4,7 @@
   "description": "Shop sports gear in Romania.",
   "homepage": "https://www.trisport.ro/asistent-ai/",
   "docs": "https://www.trisport.ro/asistent-ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "trisport": {

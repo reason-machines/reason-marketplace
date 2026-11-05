@@ -4,6 +4,7 @@
   "description": "Find accounts worth a look.",
   "homepage": "https://intakra.com",
   "docs": "https://intakra.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "intakra": {

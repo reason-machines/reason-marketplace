@@ -4,6 +4,7 @@
   "description": "Search vetted remote jobs.",
   "homepage": "https://remotive.com/",
   "docs": "https://remotive.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "remotive": {

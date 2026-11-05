@@ -4,6 +4,7 @@
   "description": "Memory for ML development.",
   "homepage": "https://segue.ai",
   "docs": "https://segue.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "segue": {

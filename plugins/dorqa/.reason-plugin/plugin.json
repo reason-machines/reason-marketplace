@@ -4,6 +4,7 @@
   "description": "Read your site's SEO data.",
   "homepage": "https://dorqa.io",
   "docs": "https://dorqa.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dorqa": {

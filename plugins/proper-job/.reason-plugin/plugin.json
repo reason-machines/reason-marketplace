@@ -4,6 +4,7 @@
   "description": "Building cost calculator.",
   "homepage": "https://www.proper-job.uk/chatgpt",
   "docs": "https://www.proper-job.uk/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "proper-job": {

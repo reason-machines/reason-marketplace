@@ -4,6 +4,7 @@
   "description": "Japanese retro game collection.",
   "homepage": "https://retrogather.com/",
   "docs": "https://docs.retrogather.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "retro-game-gather": {

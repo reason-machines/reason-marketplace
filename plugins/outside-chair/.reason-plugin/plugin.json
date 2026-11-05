@@ -4,6 +4,7 @@
   "description": "Strategy into follow-through.",
   "homepage": "https://outsidechair.com",
   "docs": "https://outsidechair.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "outside-chair": {

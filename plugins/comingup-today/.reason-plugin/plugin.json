@@ -4,6 +4,7 @@
   "description": "Shared household organizer.",
   "homepage": "https://www.comingup.today",
   "docs": "https://comingup.today/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "comingup-today": {

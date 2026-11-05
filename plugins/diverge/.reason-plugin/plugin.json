@@ -4,6 +4,7 @@
   "description": "Build and update your persona.",
   "homepage": "https://diverge.one",
   "docs": "https://diverge.one/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "diverge": {

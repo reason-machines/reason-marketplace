@@ -4,6 +4,7 @@
   "description": "Manage WordPress with AI.",
   "homepage": "https://app.zoofiai.com",
   "docs": "https://app.zoofiai.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "zoofiai-wordpress": {

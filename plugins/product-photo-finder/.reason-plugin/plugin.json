@@ -4,6 +4,7 @@
   "description": "Photos for branded products.",
   "homepage": "https://productphotofinder.com",
   "docs": "https://productphotofinder.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "product-photo-finder": {

@@ -4,6 +4,7 @@
   "description": "Search, read, and manage docs.",
   "homepage": "https://docrunic.com/",
   "docs": "https://docrunic.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "docrunic": {

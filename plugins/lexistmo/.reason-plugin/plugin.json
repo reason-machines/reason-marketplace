@@ -4,6 +4,7 @@
   "description": "Search Panama law and cases.",
   "homepage": "https://lexistmo.com",
   "docs": "https://lexistmo.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lexistmo": {

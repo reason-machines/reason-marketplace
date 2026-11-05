@@ -4,6 +4,7 @@
   "description": "Analyze, fix & master mixes.",
   "homepage": "https://mozonic.com",
   "docs": "https://mozonic.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mozonic": {

@@ -4,6 +4,7 @@
   "description": "Context for AI agents/teams.",
   "homepage": "https://nerra.ai/",
   "docs": "https://nerra.ai/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nerra": {

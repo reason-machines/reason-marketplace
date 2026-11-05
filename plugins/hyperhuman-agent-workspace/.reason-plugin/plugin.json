@@ -4,6 +4,7 @@
   "description": "Operate fitness content.",
   "homepage": "https://hyperhuman.cc/",
   "docs": "https://hyperhuman.cc/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "hyperhuman-agent-workspace": {

@@ -4,6 +4,7 @@
   "description": "Publish shareable pages.",
   "homepage": "https://dochost.io",
   "docs": "https://dochost.io/blog/how-to-unpublish-a-claude-artifact",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dochost-io": {

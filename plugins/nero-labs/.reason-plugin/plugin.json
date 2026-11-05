@@ -4,6 +4,7 @@
   "description": "Data, web and compliance tools.",
   "homepage": "https://nero-labs-chatgpt.nerolabs.workers.dev/",
   "docs": "https://nero-labs-chatgpt.nerolabs.workers.dev/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nero-labs": {

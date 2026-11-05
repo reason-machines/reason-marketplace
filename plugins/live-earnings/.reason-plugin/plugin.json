@@ -4,6 +4,7 @@
   "description": "Earnings calls, by speaker.",
   "homepage": "https://live-earnings.com",
   "docs": "https://live-earnings.com/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "live-earnings": {

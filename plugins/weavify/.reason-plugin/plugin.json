@@ -4,6 +4,7 @@
   "description": "Bangkok dining & nightlife.",
   "homepage": "https://weavify.io",
   "docs": "https://weavify.io",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "weavify": {

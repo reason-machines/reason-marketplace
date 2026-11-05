@@ -4,6 +4,7 @@
   "description": "Create clear home ed reports.",
   "homepage": "https://strew.app/chatgpt-home-education-reports/",
   "docs": "https://strew.app/chatgpt-home-education-reports/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "uk-home-education-reports": {

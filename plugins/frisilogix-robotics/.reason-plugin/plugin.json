@@ -4,6 +4,7 @@
   "description": "Cleaning robotics information.",
   "homepage": "https://frisilogix.de/de/",
   "docs": "https://frisilogix.de/de/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "frisilogix-robotics": {

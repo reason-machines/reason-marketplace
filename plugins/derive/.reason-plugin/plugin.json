@@ -4,6 +4,7 @@
   "description": "Interact with your notes.",
   "homepage": "https://derivenotes.com",
   "docs": "https://derivenotes.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "derive": {

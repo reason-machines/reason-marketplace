@@ -4,6 +4,7 @@
   "description": "Create diagrams and wireframes.",
   "homepage": "https://whimsical.com/",
   "docs": "https://whimsical.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whimsical": {

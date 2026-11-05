@@ -4,6 +4,7 @@
   "description": "Optimize WordPress images.",
   "homepage": "https://www.wpimagefixer.com/",
   "docs": "https://www.wpimagefixer.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "wp-image-fixer": {

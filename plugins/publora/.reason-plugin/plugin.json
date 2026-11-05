@@ -4,6 +4,7 @@
   "description": "Post to 10 social networks.",
   "homepage": "https://publora.com",
   "docs": "https://publora.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "publora": {

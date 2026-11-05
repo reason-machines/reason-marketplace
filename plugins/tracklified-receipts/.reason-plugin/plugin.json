@@ -4,6 +4,7 @@
   "description": "Your receipts, easy to find.",
   "homepage": "https://www.tracklified.com",
   "docs": "https://tedix.dev/apps/tracklified/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "tracklified-receipts": {

@@ -4,6 +4,7 @@
   "description": "Run commands on your computers.",
   "homepage": "https://www.triggercmd.com",
   "docs": "https://www.triggercmd.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "triggercmd": {

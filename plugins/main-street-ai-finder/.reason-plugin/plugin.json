@@ -4,6 +4,7 @@
   "description": "AI tools for small businesses.",
   "homepage": "https://mainstaifinder.com",
   "docs": "https://mainstaifinder.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "main-street-ai-finder": {

@@ -4,6 +4,7 @@
   "description": "Manage your recruitment ops.",
   "homepage": "https://recruitlayer.com",
   "docs": "https://recruitlayer.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "recruitlayer": {

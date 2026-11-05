@@ -4,6 +4,7 @@
   "description": "AI-powered shopping agent.",
   "homepage": "https://pier39.ai/",
   "docs": "https://pier39.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "nash-agent": {

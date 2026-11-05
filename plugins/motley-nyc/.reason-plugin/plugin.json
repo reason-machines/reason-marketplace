@@ -4,6 +4,7 @@
   "description": "NYC schools + neighborhoods.",
   "homepage": "https://motley.nyc",
   "docs": "https://motley.nyc",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "motley-nyc": {

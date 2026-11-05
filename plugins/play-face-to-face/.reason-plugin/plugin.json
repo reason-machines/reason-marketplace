@@ -4,6 +4,7 @@
   "description": "Play games with friends.",
   "homepage": "https://playfacetoface.com",
   "docs": "https://playfacetoface.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "play-face-to-face": {

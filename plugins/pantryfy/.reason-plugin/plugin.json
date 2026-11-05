@@ -4,6 +4,7 @@
   "description": "Plan meals and shopping.",
   "homepage": "https://pantryfy.ai",
   "docs": "https://pantryfy.ai/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "pantryfy": {

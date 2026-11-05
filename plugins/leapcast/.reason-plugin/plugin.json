@@ -4,6 +4,7 @@
   "description": "Meetings, notes and recordings.",
   "homepage": "https://leapcast.ai",
   "docs": "https://leapcast.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "leapcast": {

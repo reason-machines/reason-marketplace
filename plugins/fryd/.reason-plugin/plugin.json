@@ -4,6 +4,7 @@
   "description": "Your Gardening Companion.",
   "homepage": "https://fryd.app",
   "docs": "https://fryd.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "fryd": {

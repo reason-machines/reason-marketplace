@@ -4,6 +4,7 @@
   "description": "Energieausweis bestellen.",
   "homepage": "https://ecoexperten.com",
   "docs": "https://ecoexperten.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "ecoexperten-energieausweis": {

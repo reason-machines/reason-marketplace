@@ -4,6 +4,7 @@
   "description": "Run your customer support.",
   "homepage": "https://supportfabric.com",
   "docs": "https://supportfabric.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "supportfabric": {

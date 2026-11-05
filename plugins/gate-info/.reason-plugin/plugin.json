@@ -4,6 +4,7 @@
   "description": "Crypto market research data.",
   "homepage": "https://www.gate.com/",
   "docs": "https://tedix.dev/apps/gate-info/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gate-info": {

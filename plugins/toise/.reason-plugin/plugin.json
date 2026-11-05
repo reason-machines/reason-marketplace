@@ -4,6 +4,7 @@
   "description": "Land, owners & zoning, France.",
   "homepage": "https://toiseai.com",
   "docs": "https://toiseai.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "toise": {

@@ -4,6 +4,7 @@
   "description": "Company KPIs with sources.",
   "homepage": "https://dibsresearch.com",
   "docs": "https://dibsresearch.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "dibsresearch": {

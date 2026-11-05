@@ -4,6 +4,7 @@
   "description": "LinkedIn & email outreach.",
   "homepage": "https://linkupapi.com/",
   "docs": "https://linkupapi.com/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "linkupapi": {

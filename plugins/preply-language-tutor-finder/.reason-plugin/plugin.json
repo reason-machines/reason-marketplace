@@ -4,6 +4,7 @@
   "description": "Find language tutors.",
   "homepage": "https://preply.com/",
   "docs": "https://preply.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "preply-language-tutor-finder": {

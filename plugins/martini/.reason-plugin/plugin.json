@@ -4,6 +4,7 @@
   "description": "AI video production studio.",
   "homepage": "https://www.martini.film",
   "docs": "https://www.martini.film",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "martini": {

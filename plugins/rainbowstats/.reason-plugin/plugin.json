@@ -4,6 +4,7 @@
   "description": "Economic data and statistics.",
   "homepage": "https://rainbowstats.com/",
   "docs": "https://rainbowstats.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "rainbowstats": {

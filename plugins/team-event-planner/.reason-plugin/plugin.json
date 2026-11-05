@@ -4,6 +4,7 @@
   "description": "Plan team building events.",
   "homepage": "https://bestcorporateevents.com",
   "docs": "https://bestcorporateevents.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "team-event-planner": {

@@ -4,6 +4,7 @@
   "description": "Search footage shared with you.",
   "homepage": "https://siftclips.com/agents/",
   "docs": "https://siftclips.com/agents/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sift-clips": {

@@ -4,6 +4,7 @@
   "description": "Hive video event analytics.",
   "homepage": "https://www.hivestreaming.com",
   "docs": "https://www.hivestreaming.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "hive-analytics": {

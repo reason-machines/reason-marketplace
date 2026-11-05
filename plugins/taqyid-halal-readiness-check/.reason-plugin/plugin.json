@@ -4,6 +4,7 @@
   "description": "For JAKIM halal certification.",
   "homepage": "https://www.taqyid.com",
   "docs": "https://www.taqyid.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "taqyid-halal-readiness-check": {

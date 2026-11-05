@@ -4,6 +4,7 @@
   "description": "Restaurant ordering & invoices.",
   "homepage": "https://www.spensa.ai",
   "docs": "https://spensa.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "spensa": {

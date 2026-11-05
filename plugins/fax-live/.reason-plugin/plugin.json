@@ -4,6 +4,7 @@
   "description": "Send PDFs by fax.",
   "homepage": "https://api.fax.live",
   "docs": "https://api.fax.live",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fax-live": {

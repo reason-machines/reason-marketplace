@@ -4,6 +4,7 @@
   "description": "Find creators & influencers.",
   "homepage": "https://www.influship.com/",
   "docs": "https://www.influship.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "influship-creator-workspace": {

@@ -4,6 +4,7 @@
   "description": "Explore Israeli mutual funds.",
   "homepage": "https://superfunds.ai",
   "docs": "https://tedix.dev/apps/superfunds/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "superfunds": {

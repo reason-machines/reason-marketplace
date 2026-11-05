@@ -4,6 +4,7 @@
   "description": "NASDAQ market intelligence.",
   "homepage": "https://www.edgebreak.ai/chatgpt-stock-scanner.html",
   "docs": "https://www.edgebreak.ai/chatgpt-stock-scanner.html",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "edgebreak": {

@@ -4,6 +4,7 @@
   "description": "Scope apps, check site speed.",
   "homepage": "https://pulore.com/chatgpt",
   "docs": "https://pulore.com/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "pulore": {

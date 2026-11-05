@@ -4,6 +4,7 @@
   "description": "Find and analyze US properties.",
   "homepage": "https://homesage.ai",
   "docs": "https://homesage.ai/.well-known/mcp/server-card.json",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "homesage-ai": {

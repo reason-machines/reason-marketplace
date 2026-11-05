@@ -4,6 +4,7 @@
   "description": "Explore Saudi market data.",
   "homepage": "https://www.sahmk.sa/developers/tutorials/sahmk-mcp-ai-agents",
   "docs": "https://www.sahmk.sa/developers/tutorials/sahmk-mcp-ai-agents",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "sahmk": {

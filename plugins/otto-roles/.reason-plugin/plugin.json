@@ -4,6 +4,7 @@
   "description": "Search jobs and auto-apply.",
   "homepage": "https://ottoroles.com",
   "docs": "https://ottoroles.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "otto-roles": {

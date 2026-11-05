@@ -4,6 +4,7 @@
   "description": "Prove your spreadsheet adds up.",
   "homepage": "https://tally.jiegou.ai",
   "docs": "https://tally.jiegou.ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tally-verify": {

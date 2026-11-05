@@ -4,6 +4,7 @@
   "description": "Print-ready calendar PDFs.",
   "homepage": "https://printable-calendar.zovo.one",
   "docs": "https://printable-calendar.zovo.one",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "printable-calendar": {

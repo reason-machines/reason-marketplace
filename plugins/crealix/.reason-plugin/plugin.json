@@ -4,6 +4,7 @@
   "description": "Create finished videos in chat.",
   "homepage": "https://www.crealix.ai",
   "docs": "https://www.crealix.ai",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "crealix": {

@@ -4,6 +4,7 @@
   "description": "Send bulk emails via Gmail.",
   "homepage": "https://merge.email/",
   "docs": "https://merge.email/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "mcp-connector": {

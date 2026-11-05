@@ -4,6 +4,7 @@
   "description": "Research Swiss tax law.",
   "homepage": "https://lexplorer.ch",
   "docs": "https://lexplorer.ch",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "lexplorer-swiss-tax-research": {

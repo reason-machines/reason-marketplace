@@ -4,6 +4,7 @@
   "description": "Drought analysis.",
   "homepage": "https://droughtanalysis.com/",
   "docs": "https://droughtanalysis.com/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "dmap-ai": {

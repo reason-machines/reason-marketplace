@@ -4,6 +4,7 @@
   "description": "Verify email addresses.",
   "homepage": "https://www.reckonapp.io/?utm_source=chatgpt&utm_medium=plugin&utm_campaign=marketplace_listing",
   "docs": "https://www.reckonapp.io/?utm_source=chatgpt&utm_medium=plugin&utm_campaign=marketplace_listing",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "reckon": {

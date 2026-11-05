@@ -4,6 +4,7 @@
   "description": "Transcribe audio and video.",
   "homepage": "https://whispertranscript.ai/",
   "docs": "https://whispertranscript.ai/",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "whispertranscript-transcribe": {

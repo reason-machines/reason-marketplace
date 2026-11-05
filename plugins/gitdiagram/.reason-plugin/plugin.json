@@ -4,6 +4,7 @@
   "description": "Architecture diagrams of repos.",
   "homepage": "https://gitdiagram.com",
   "docs": "https://gitdiagram.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "gitdiagram": {

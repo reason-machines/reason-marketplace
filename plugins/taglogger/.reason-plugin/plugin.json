@@ -4,6 +4,7 @@
   "description": "Find your tagged equipment.",
   "homepage": "https://taglogger.com",
   "docs": "https://taglogger.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "taglogger": {

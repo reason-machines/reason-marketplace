@@ -4,6 +4,7 @@
   "description": "Think of anything.",
   "homepage": "https://genie-nuvora17.vercel.app",
   "docs": "https://genie-nuvora17.vercel.app",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "genie": {

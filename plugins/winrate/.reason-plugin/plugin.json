@@ -4,6 +4,7 @@
   "description": "League of Legends stats.",
   "homepage": "https://winrate.gg",
   "docs": "https://winrate.gg",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "winrate": {

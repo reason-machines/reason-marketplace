@@ -4,6 +4,7 @@
   "description": "Plan and publish social posts.",
   "homepage": "https://vubli.ai",
   "docs": "https://api.vubli.ai/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "vubli": {

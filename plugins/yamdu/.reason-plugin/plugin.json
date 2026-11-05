@@ -4,6 +4,7 @@
   "description": "Film Production, AI-Powered.",
   "homepage": "https://yamdu.com",
   "docs": "https://api.yamdu.com/.well-known/oauth-protected-resource",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "yamdu": {

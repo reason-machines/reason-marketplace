@@ -4,6 +4,7 @@
   "description": "Movie showtimes in CA, HI & FL.",
   "homepage": "https://scenef.com",
   "docs": "https://scenef.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "scenef-showtimes": {

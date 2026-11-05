@@ -4,6 +4,7 @@
   "description": "Plan and publish social posts.",
   "homepage": "https://nimply.io",
   "docs": "https://nimply.io",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "nimply": {

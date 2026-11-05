@@ -4,6 +4,7 @@
   "description": "Find coliving spaces worldwide.",
   "homepage": "https://coliving.com",
   "docs": "https://coliving.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "coliving": {

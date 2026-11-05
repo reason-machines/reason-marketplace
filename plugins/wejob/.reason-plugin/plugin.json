@@ -4,6 +4,7 @@
   "description": "Swiss jobs and companies.",
   "homepage": "https://wejob.ch",
   "docs": "https://wejob.ch",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "wejob": {

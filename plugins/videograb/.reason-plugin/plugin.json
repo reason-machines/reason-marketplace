@@ -4,6 +4,7 @@
   "description": "Freely licensed video links.",
   "homepage": "https://tools.openkrill.app/",
   "docs": "https://openkrill.app/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "videograb": {

@@ -4,6 +4,7 @@
   "description": "Issue certificates by chat.",
   "homepage": "https://issuebadge.com/llms.txt",
   "docs": "https://issuebadge.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "issuebadge": {

@@ -4,6 +4,7 @@
   "description": "Home design by chat, in 3D.",
   "homepage": "https://www.walkmyplan.com",
   "docs": "https://www.walkmyplan.com",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "walkmyplan-floor-plans-in-3d": {

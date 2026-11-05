@@ -4,6 +4,7 @@
   "description": "Free Forms and Surveys.",
   "homepage": "https://www.weavely.ai/",
   "docs": "https://www.weavely.ai/",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "weavely-forms-and-surveys": {

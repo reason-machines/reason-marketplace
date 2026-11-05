@@ -4,6 +4,7 @@
   "description": "Jobs, crews, hours, invoices.",
   "homepage": "https://jobsnap.ca",
   "docs": "https://jobsnap.ca",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "jobsnap": {

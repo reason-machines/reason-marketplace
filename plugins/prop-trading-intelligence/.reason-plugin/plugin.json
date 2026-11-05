@@ -4,6 +4,7 @@
   "description": "Prop firm rules, with sources.",
   "homepage": "https://www.pipster.io/research",
   "docs": "https://www.pipster.io/research",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "prop-trading-intelligence": {

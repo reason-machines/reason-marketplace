@@ -4,6 +4,7 @@
   "description": "Verify and clean email lists.",
   "homepage": "https://www.qualisend.com/",
   "docs": "https://www.qualisend.com/llms.txt",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "qualisend": {

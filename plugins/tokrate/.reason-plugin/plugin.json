@@ -4,6 +4,7 @@
   "description": "Coding model speed, in context.",
   "homepage": "https://tokrate.dev/chatgpt",
   "docs": "https://tokrate.dev/chatgpt",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "tokrate": {

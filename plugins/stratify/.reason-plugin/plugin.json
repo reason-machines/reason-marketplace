@@ -4,6 +4,7 @@
   "description": "Describe a strategy. Test it.",
   "homepage": "https://stratify.aeon-labs.site/",
   "docs": "https://stratify.aeon-labs.site/docs",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "stratify": {

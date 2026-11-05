@@ -4,6 +4,7 @@
   "description": "Find rental homes.",
   "homepage": "https://www.spotahome.com",
   "docs": "https://www.spotahome.com",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "spotahome": {

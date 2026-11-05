@@ -4,6 +4,7 @@
   "description": "Create and run events.",
   "homepage": "https://www.comethru.app/connectors",
   "docs": "https://www.comethru.app/connectors",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "comethru": {

@@ -4,6 +4,7 @@
   "description": "Invoice and IBAN checks.",
   "homepage": "https://jithox.com/connect-your-ai",
   "docs": "https://jithox.com/connect-your-ai",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "jithox": {

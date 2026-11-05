@@ -4,6 +4,7 @@
   "description": "Podcast Growth Skills.",
   "homepage": "https://fountain.fm",
   "docs": "https://fountain.fm/docs/mcp",
+  "logo": "logo.webp",
   "auth": "oauth",
   "mcpServers": {
     "fountain": {

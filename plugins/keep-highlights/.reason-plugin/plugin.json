@@ -4,6 +4,7 @@
   "description": "Find key moments in any media.",
   "homepage": "https://skeepit.co",
   "docs": "https://skeepit.co",
+  "logo": "logo.webp",
   "auth": "none",
   "mcpServers": {
     "keep-highlights": {
