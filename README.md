@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5258 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5257 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -4072,7 +4072,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Safeguard](plugins/safeguard) | Secure software supply chain. | OAuth | `https://mcp.safeguard.sh/mcp` |
 | [SAHMK](plugins/sahmk) | Explore Saudi market data. | OAuth | `https://mcp.sahmk.sa/mcp` |
 | [Sail](plugins/sail) | Compare ways to get around. | None | `https://sailrides.co/mcp` |
-| [SAIRYO](plugins/sairyo) | Event Management and Analytics. | OAuth | `https://mcp.sairyo.live/mcp` |
 | [Saive](plugins/saive) | Your saved reading, in chat. | OAuth | `https://app.saive.my/api/mcp` |
 | [SalesBlink](plugins/salesblink) | Manage sales outreach. | None | `https://mcp.salesblink.io/mcp` |
 | [SalesEQ](plugins/saleseq) | Connect your meeting data. | OAuth | `https://mcp.saleseq.ai/mcp` |
