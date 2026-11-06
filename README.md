@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5246 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5245 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -2568,7 +2568,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Larridin Work Context](plugins/larridin-work-context) | Your work, in context. | OAuth | `https://app.larridin.com/mcp/larridin` |
 | [LASEC](plugins/lasec) | Piloter la gouvernance cyber. | OAuth | `https://app.lasec.fr/mcp/` |
 | [Lassie](plugins/lassie) | Pet insurance quotes. | None | `https://v1.lassie.mcp.waniwani.run/mcp` |
-| [LastDatabase](plugins/lastdatabase) | Find verified B2B contacts. | OAuth | `https://lastdatabase.com/mcp` |
 | [Latchbell](plugins/latchbell) | Book local home service pros. | None | `https://latchbell.com/mcp` |
 | [Lauda](plugins/lauda) | Cálculos jurídicos do Brasil. | None | `https://uselauda.com/mcp` |
 | [LaunchAF](plugins/launchaf) | Launch products on LaunchAF. | OAuth | `https://launchaf.com/api/mcp` |
