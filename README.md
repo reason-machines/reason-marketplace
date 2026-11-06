@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5251 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5250 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -4156,7 +4156,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [SeeyaTrip](plugins/seeyatrip) | Find hotels and flights. | None | `https://mcp.seeyatrip.com/mcp` |
 | [Segue](plugins/segue) | Memory for ML development. | OAuth | `https://segue.ai/mcp` |
 | [Seguro Match](plugins/seguro-match) | Compare insurance. | None | `https://seguromatch.com/api/agent/mcp` |
-| [Seistream Blockchain Data](plugins/seistream-blockchain-data) | Explore Sei EVM & Cosmos data. | None | `https://api.seistream.app/mcp` |
 | [Selah](plugins/selah) | Your Bible reading progress. | OAuth | `https://api.selah.to/mcp` |
 | [SelectBNBs Verify](plugins/selectbnbs-verify) | Check Korean stay permits. | None | `https://selectbnbs.com/mcp` |
 | [SelfPub Go](plugins/selfpubgo) | Amazon Ads for KDP authors. | OAuth | `https://mcp.selfpubgo.com/mcp` |
