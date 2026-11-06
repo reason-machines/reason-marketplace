@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5250 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5249 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -1656,7 +1656,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Exayard](plugins/exayard) | Takeoffs, pricing and bids. | OAuth | `https://api.exayard.com/mcp` |
 | [Excalidraw](plugins/excalidraw) | Draw and export hand-drawn diagrams from chat. | None | `https://mcp.excalidraw.com/mcp` |
 | [Executor](plugins/executor) | A universal tool gateway for AI agents. | OAuth | `https://executor.sh/mcp` |
-| [Exness](plugins/exness-api-docs) | Exness API documentation. | None | `https://api.exness.com/mcp` |
 | [Exomem](plugins/exomem-cloud) | Proactive, grounded AI memory. | OAuth | `https://exomem.substratesystems.io/mcp` |
 | [Expat Savings Rates](plugins/expat-savings-rates) | Offshore savings rates. | None | `https://plugins.bratucapital.com/savings/mcp` |
 | [Expense Tracker](plugins/expense-agent) | Track and export expenses. | OAuth | `https://expenseagent.reviewbit.app/mcp` |
