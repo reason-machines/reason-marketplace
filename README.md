@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5245 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5243 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -1926,7 +1926,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Gardener's Almanac](plugins/gardeners-almanac) | When to sow, where you garden. | OAuth | `https://gardeners-almanac.app/mcp` |
 | [Gasti](plugins/gasti) | Track personal finances. | OAuth | `https://mcp.public.gasti.pro/mcp` |
 | [Gastrosync](plugins/gastrosync) | Manage your events. | OAuth | `https://gastrosync.com/mcp` |
-| [Gate Info](plugins/gate-info) | Crypto market research data. | None | `https://api.gatemcp.ai/mcp/open/info` |
 | [Gateway SSH](plugins/gateway-ssh) | Manage servers through SSH. | OAuth | `https://trygateway.sh/mcp` |
 | [Gateway Tariff Calculator](plugins/gateway-tariff-calculator) | US import duty and HTS codes. | OAuth | `https://mcp.gatewaylines.com/mcp` |
 | [Gather Shot](plugins/gather-shot) | Manage event photo sharing. | OAuth | `https://app.gathershot.com/mcp` |
@@ -2987,7 +2986,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Moonwalk](plugins/moonwalk) | Write and publish live boards. | OAuth | `https://moonwalk.now/api/mcp` |
 | [MOOSYC](plugins/moosyc) | Your streams & earnings. | OAuth | `https://api.moosyc.com/mcp` |
 | [Mopingo](plugins/mopingo) | Plan your trips with Mopingo. | OAuth | `https://mopingo.com/mcp` |
-| [MopMob](plugins/mopmob) | Manage premium cleans. | OAuth | `https://mcp.mopmob.co.uk/mcp` |
 | [Moqup](plugins/moqup) | Schedule social posts with AI. | OAuth | `https://moqup.app/api/mcp` |
 | [Mori](plugins/mori) | Search your conversations. | OAuth | `https://mcp.mori.to/` |
 | [MorNatural](plugins/mornatural) | Shop MorNatural supplements. | None | `https://shop.mornatural.com/api/mcp` |
