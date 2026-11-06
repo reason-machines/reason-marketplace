@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5260 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5258 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -3911,7 +3911,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [ReMCP](plugins/remcp) | Operate your paired computers. | OAuth | `https://remcp.site/mcp` |
 | [RemDo](plugins/remdo) | Read and write your notes. | OAuth | `https://remdo.com/mcp` |
 | [Remindlo](plugins/remindlo) | Appointment reminders by SMS. | OAuth | `https://mcp.remindlo.co.uk/mcp` |
-| [Remitly](plugins/remitly) | Plan and track transfers. | None | `https://api.sierra.chat/chat/fiKQF58BmL5HCdwBmn5G6nFeM9kSoKWMZNLoDRD1b8Q/mcp/GPT-7-0-0` |
 | [Remly](plugins/remly) | Give Reason your context. | OAuth | `https://mcp.remly.it/mcp` |
 | [Remnant](plugins/remnant) | Learn from other agents. | None | `https://remnant.dedale-bi.com/mcp/chatgpt` |
 | [Remode](plugins/remode) | Shop any outfit from a photo. | None | `https://mcp.remode.app/mcp` |
@@ -4776,7 +4775,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Ticketbox.vn](plugins/ticketbox-vn) | Find events in Vietnam. | None | `https://mcp.ticketbox.vn/mcp` |
 | [TickNow](plugins/ticknow) | Plan your day and track time. | OAuth | `https://mcp.ticknow.app/mcp` |
 | [TickTick:To-Do List & Calendar](plugins/ticktick-to-do-list-and-calendar) | Reminder, Planner, Countdown. | OAuth | `https://mcp.ticktick.com/` |
-| [TicToon](plugins/tictoon) | Create and publish comics. | OAuth | `https://tictoon-global.web.app/mcp` |
 | [TiGERit delivery](plugins/tigerit-delivery) | Products, orders, and sales. | OAuth | `https://mcp.tigerit.app/mcp` |
 | [Tikita](plugins/tikita) | Create Tikita story drafts. | OAuth | `https://mcp.tikita.ai/mcp` |
 | [TikTok for Business](plugins/tiktok-for-business) | Manage TikTok ad campaigns, ad groups, ads, audiences, creatives, and reports. | OAuth | `https://business-api.tiktok.com/open_mcp/tt-ads-mcp-layer` |
