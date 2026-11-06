@@ -1074,6 +1074,7 @@
     "./plugins/curve-compliance",
     "./plugins/customer-info-validator",
     "./plugins/customer-io",
+    "./plugins/customer-io-eu",
     "./plugins/cutkit-teleprompter",
     "./plugins/cutpro",
     "./plugins/cve",

@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5245 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5246 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -1267,6 +1267,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Curve Ad Tracking Check](plugins/curve-compliance) | HIPAA-safe ad tracking checks. | OAuth | `https://mcp.curvecompliance.com/mcp` |
 | [Customer Info Validator](plugins/customer-info-validator) | Check customer information. | None | `https://customer-info-validator.sidcraigau.workers.dev/mcp` |
 | [Customer.io](plugins/customer-io) | Build campaigns, manage segments, and query people. | OAuth | `https://mcp.customer.io/mcp` |
+| [Customer.io (EU)](plugins/customer-io-eu) | Customer.io for accounts in the EU data region: build campaigns, manage segments, and query people. | OAuth | `https://mcp-eu.customer.io/mcp` |
 | [CutKit Teleprompter](plugins/cutkit-teleprompter) | Your teleprompter scripts. | OAuth | `https://getcutkit.com/mcp` |
 | [CutPro](plugins/cutpro) | AI videos, clips, music & more. | OAuth | `https://mcp.cut.pro/` |
 | [CVE Risk Check](plugins/cve) | CVE and dependency triage. | None | `https://cve.openkrill.app/mcp` |
