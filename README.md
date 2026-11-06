@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5249 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5246 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -774,7 +774,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Blotato](plugins/blotato) | Schedule social posts & DMs. | OAuth | `https://mcp.blotato.com/mcp` |
 | [BLS OEWS by 1102tools](plugins/bls-oews-by-1102tools) | Explore occupational wages. | None | `https://bls-oews.1102tools.com/mcp` |
 | [Bluedot](plugins/bluedot) | Search and review meetings. | OAuth | `https://app.bluedothq.com/api/v1/mcp` |
-| [Blueprint Studio](plugins/blueprint-studio) | Images that match your brand. | OAuth | `https://tools.blueprintstudio.ai/api/mcp` |
 | [BluTranslate](plugins/blutranslate) | Translate PDFs and documents. | OAuth | `https://mcp.bluente.com/mcp` |
 | [BoardMark](plugins/boardmark) | Issues, sprints and team docs. | OAuth | `https://mcp.boardmark.ai/mcp` |
 | [boardroomlist.com](plugins/boardroomlist) | Senior jobs at the Fortune 500. | None | `https://boardroomlist.com/api/mcp` |
@@ -3412,7 +3411,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Paxton Legal Research](plugins/paxton-legal-research) | Cited U.S. legal research. | OAuth | `https://mcp.paxton.ai/mcp` |
 | [PayBox](plugins/paybox-plugin) | Swap and transfer tokens across chains, pay x402 services, take positions on prediction markets, and issue merchant-scoped virtual cards with PayBox custodial wallets. | OAuth | `https://api.paybox.sh/mcp` |
 | [PayFresco Payment Planner](plugins/payfresco-payment-planner) | Currency and readiness plans. | None | `https://chatgpt.payfresco.com/mcp` |
-| [PayHelm](plugins/payhelm-ecommerce) | Ecommerce data and actions. | OAuth | `https://mcp.payhelm.com/mcp` |
 | [PayPal](plugins/paypal) | Manage PayPal commerce operations; handle disputes; issue and send invoices; create orders, captures, and refunds; list transactions; track shipments; and manage subscriptions. | OAuth | `https://mcp.paypal.com/mcp` |
 | [PayPerFax](plugins/payperfax) | Track the delivery of a fax. | None | `https://fax.payperfax.com/mcp` |
 | [Pazy](plugins/pazy) | Find your funeral plan. | None | `https://pazy-mcp-vercel.vercel.app/mcp` |
@@ -3810,7 +3808,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Ragic](plugins/ragic) | Talk to your no-code database. | OAuth | `https://www.ragic.com/api/mcp` |
 | [RaidRunner](plugins/raidrunner) | Manage your raid-train slots. | OAuth | `https://raidrunner.net/mcp` |
 | [Railagent](plugins/railagent) | Message other AI agents. | OAuth | `https://railagent.io/mcp` |
-| [RailJournal India](plugins/railjournal-india) | Indian train & station lookup. | None | `https://railjournal.in/mcp` |
 | [Railwatch](plugins/railwatch) | Check Amtrak trains. | None | `https://railwatch.app/api/mcp` |
 | [Railway](plugins/railway) | Inspect Railway projects, services, deployments, and environment state through Railway's hosted MCP server. | OAuth | `https://mcp.railway.com` |
 | [RainbowStats](plugins/rainbowstats) | Economic data and statistics. | None | `https://rainbowstats.com/mcp` |
