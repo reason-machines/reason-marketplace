@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5257 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5251 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -892,7 +892,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Cambridge China Bridge](plugins/cambridge-china-bridge) | UK import duty and sourcing. | None | `https://camchinabridge.co.uk/mcp` |
 | [camelRun](plugins/camelrun) | Build and host AI agents. | OAuth | `https://run.camelai.com/mcp` |
 | [Camper Champ](plugins/camper-champ) | Compare campervan hire. | None | `https://mcp.camperchamp.com/mcp` |
-| [Campus OS](plugins/campus-os) | Classes, notes and due dates. | OAuth | `https://app.campus-os.net/mcp` |
 | [Cancel My Sub](plugins/cancel-my-sub) | Cancel subscriptions. | None | `https://goodturn-mcp.pages.dev/cancelmysub/mcp` |
 | [Când Reciclăm](plugins/cand-reciclam) | Bucharest recycling schedules. | None | `https://cand-reciclam.madeinro.eu/mcp` |
 | [Candor Finance](plugins/candor-finance) | Your budget and money goals. | OAuth | `https://api.candor.money/mcp` |
@@ -2393,7 +2392,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [JAWD](plugins/jawd) | Shop JAWD jaw trainers. | None | `https://mcp.jawd.in/mcp` |
 | [Jawz](plugins/jawz) | Read markets, check portfolio. | None | `https://jawz.ai/api/mcp` |
 | [Jaz Accounting](plugins/jaz-accounting) | Fastest ledger for agents. | OAuth | `https://mcp.jaz.ai/mcp` |
-| [JCI SK Portal](plugins/jci-sk-portal) | Browse & search JCI SK docs. | OAuth | `https://jcisouthkey.aukaworks.com/mcp` |
 | [Jemma](plugins/jemma) | Nurse pay and take-home math. | None | `https://nursejemma.com/api/v1/mcp` |
 | [Jepto](plugins/jepto) | Digital Marketing Intelligence. | OAuth | `https://mcp.jepto.com/` |
 | [Jessie Script Director](plugins/jessie-script-director) | Guided product-video scripts. | None | `https://jessie-public-chatgpt-app.vercel.app/mcp` |
@@ -3112,7 +3110,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Netlify](plugins/netlify) | Inspect Netlify sites, deploys, forms, and environment state through Netlify's hosted MCP server. | OAuth | `https://netlify-mcp.netlify.app/mcp` |
 | [NetNest SEC Fundamentals](plugins/netnest-sec-fundamentals) | Company data from SEC filings. | OAuth | `https://api.netnestdesign.com/mcp` |
 | [Netwise Paycheck Calculator](plugins/paycheck-calculator) | 2026 paycheck after taxes. | None | `https://paycheck-calculator.zovo.one/mcp` |
-| [NetWorthTrackr](plugins/networthtrackr) | Your net worth, in plain words. | OAuth | `https://mcp.networthtrackr.com/mcp` |
 | [Netzero for Powerwall](plugins/netzero) | Home energy management. | OAuth | `https://api.netzero.energy/mcp` |
 | [Neume](plugins/neume) | Make songs and change lyrics. | OAuth | `https://api.neume.io/v1/mcp` |
 | [Neural Analog](plugins/neural-analog) | Restore, split and edit audio. | OAuth | `https://api.neuralanalog.com/mcp` |
@@ -4344,7 +4341,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [SMAT](plugins/smat) | Plan and manage social posts. | OAuth | `https://api.smat.chat/api/mcp` |
 | [SMB Compare](plugins/smb-compare) | Price business tools by cost. | None | `https://smbcompare.com/api/mcp` |
 | [SMI Aware](plugins/smi-aware) | Order social media discovery. | None | `https://mcp.smiaware.com/mcp` |
-| [SML RWA Evidence](plugins/robinhood-prediction-rwa) | Tokenized stock reference data. | None | `https://sml-robinhood-rwa-intelligence.onrender.com/mcp` |
 | [Smooth PDF Reader](plugins/smooth-pdf-reader) | Smooth PDFs. Ask for change. | None | `https://smooth-pdf-reader.smooth-pdf-reader-cloudflare.workers.dev/mcp` |
 | [Smoothspeak](plugins/smoothspeak-replies) | Write your next reply. | OAuth | `https://smoothspeak.ai/mcp` |
 | [smry](plugins/smry) | Read articles from any link. | OAuth | `https://api.smry.ai/mcp` |
@@ -4666,7 +4662,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Tarotap](plugins/tarotap) | Draw tarot cards for readings. | None | `https://tarotap.com/mcp` |
 | [Tarsolution Tools](plugins/tarsolution-tools) | Format and inspect data. | None | `https://tools.tarsolution.com/mcp` |
 | [Tarteel](plugins/tarteel) | Explore Quranic resources. | None | `https://mcp.tarteel.ai/mcp` |
-| [tasarim.ai AI Catalog](plugins/tasarim-ai-catalog) | Find and compare AI tools. | None | `https://tasarim.ai/api/mcp` |
 | [Task Mafia](plugins/task-mafia) | Tasks, lists and your crew. | OAuth | `https://taskmafia.com/mcp` |
 | [Taskaid](plugins/taskaid) | Tasks for you and your agents. | OAuth | `https://taskaid.ai/mcp` |
 | [TASKn](plugins/taskn) | Manage tasks and projects. | OAuth | `https://mcp.taskn.app/mcp` |
@@ -4750,7 +4745,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [TheFoilBuddy](plugins/thefoilbuddy) | Foil spot wind & conditions. | None | `https://mcp.thefoilbuddy.com/mcp` |
 | [Thegram](plugins/thegram-cloud) | One .gram for people and AI. | OAuth | `https://vault.thegram.one/mcp` |
 | [Theia Insights](plugins/theia-insights) | Thematic investing data. | OAuth | `https://mcp.theiainsights.com/mcp` |
-| [Theme Emporium](plugins/theme-emporium) | Generate UI theme previews. | None | `https://mcp.themeemporium.live/mcp` |
 | [ThemeSniffer](plugins/themesniffer) | WP theme and plugin detector. | None | `https://themesniffer.com/api/mcp` |
 | [ThePicks](plugins/thepicks) | K-beauty picked by real people. | None | `https://mcp.thepicks.io/mcp` |
 | [There's An AI For That](plugins/there-s-an-ai-for-that) | Find AI tools for any task. | None | `https://theresanaiforthat.com/mcp` |
