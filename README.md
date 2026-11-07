@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5243 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5242 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -5352,7 +5352,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [You.com Research](plugins/you-com-research) | You.com's hosted research MCP server: multi-step deep research reports with citations via the You.com API. | OAuth | `https://api.you.com/mcp/research` |
 | [Youanai](plugins/youanai) | Social workspace. | OAuth | `https://youanai.com/api/mcp` |
 | [YouArt](plugins/youart) | Create AI media workflows. | OAuth | `https://mcp.youart.ai/mcp` |
-| [YouEx.ai](plugins/youex-ai) | Convert leads into revenue. | OAuth | `https://engage.youex.ai/mcp` |
 | [Youform](plugins/youform) | Forms, surveys & quizzes. | OAuth | `https://app.youform.com/mcp` |
 | [Your Color Palette](plugins/your-color-palette) | Color season from a selfie. | None | `https://mcp.yourcolorpalette.com/mcp` |
 | [Your Language Coach](plugins/your-language-coach) | Run your language centre. | OAuth | `https://mcp.yourlanguage.coach/mcp` |
