@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5238 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5232 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -1396,7 +1396,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [DirectCase Legal Research](plugins/directcase-legal-research) | Verified legal research. | OAuth | `https://mcp.directcase.ai/mcp` |
 | [Directoryz](plugins/directoryz) | Browse directory listings. | OAuth | `https://mcp.directoryz.app/mcp` |
 | [Direkto](plugins/direkto-app) | Find suppliers and get prices. | None | `https://mcp.direkto.org/mcp` |
-| [Disc Golf Scout](plugins/disc-golf-scout) | Disc values, stock and drops. | None | `https://discgolfscout.com/mcp` |
 | [Disclosed: Politician Trades](plugins/disclosed-politician-trades) | Congress stock trades. | None | `https://disclosedhq.com/mcp` |
 | [DiscoverCars.com](plugins/discovercars-com) | Car rental comparison platform. | None | `https://mcp.discovercars.com/mcp` |
 | [DiSCPROFiL](plugins/discprofil) | disc kişilik envanteri. | OAuth | `https://mcp.discprofil.com.tr/mcp` |
@@ -1583,7 +1582,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [empirio.ai](plugins/empirio-ai) | Create and analyze surveys. | OAuth | `https://platform.empirio.ai/mcp` |
 | [EmpirioLabs AI](plugins/empiriolabs) | Run 180+ AI models as tools. | OAuth | `https://mcp.empiriolabs.ai/mcp` |
 | [EmpleoVivo](plugins/empleovivo) | Open jobs in Chile. | None | `https://empleovivo.cl/mcp` |
-| [Employed by Guaq AI](plugins/employed) | Live jobs from verified ATS. | OAuth | `https://jobs.guaqai.me/mcp` |
 | [EMPLOYERS](plugins/employers) | Get a workers' comp quote. | None | `https://mcp.employers.com/direct/mcp` |
 | [EN Training](plugins/en-training) | Practise English grammar. | None | `https://ruslan.pro/mcp` |
 | [Encelade](plugins/encelade) | Create and manage decks. | OAuth | `https://www.encelade.ai/api/mcp` |
@@ -1889,7 +1887,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [freehire](plugins/freehire) | IT jobs from 264 sources. | OAuth | `https://freehire.me/api/v1/mcp` |
 | [Freeway Insurance](plugins/freeway-insurance) | Auto insurance rate. | None | `https://confie-triton-rate-mcp.azurewebsites.net/mcp` |
 | [Freight Right](plugins/freightright) | Freight rates, quote requests and shipment tracking from your Freight Right account, with skills that keep billing and bookings right. | OAuth | `https://mcp.freightright.com/mcp` |
-| [FreightFA](plugins/freightfa) | Freight rates & market data. | None | `https://mcp.freightfa.com/mcp` |
 | [FRIDAI](plugins/fridai) | Review and improve AI replies. | OAuth | `https://www.fansnetwork.ai/api/mcp/ruleops` |
 | [Fridey](plugins/fridey) | Your travel assistant. | OAuth | `https://mcp.fridey-travel.com/mcp` |
 | [Frip](plugins/frip) | Discover your next hobby. | None | `https://frip.co.kr/mcp` |
@@ -1928,7 +1925,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Gateway SSH](plugins/gateway-ssh) | Manage servers through SSH. | OAuth | `https://trygateway.sh/mcp` |
 | [Gateway Tariff Calculator](plugins/gateway-tariff-calculator) | US import duty and HTS codes. | OAuth | `https://mcp.gatewaylines.com/mcp` |
 | [Gather Shot](plugins/gather-shot) | Manage event photo sharing. | OAuth | `https://app.gathershot.com/mcp` |
-| [GC AI](plugins/gc-ai) | GC AI's hosted MCP server: upload documents to your GC AI legal knowledge base, run review playbooks and ask questions grounded in your own files. | OAuth | `https://app.gc.ai/api/mcp` |
 | [GdeNaMore smeštaj](plugins/gdenamore-stays) | Find seaside accommodation. | None | `https://mcp.gdenamore.com/mcp` |
 | [Gem](plugins/gem) | Analyze and manage Gem data. | OAuth | `https://mcp.gem.com/mcp` |
 | [Gemini Exchange](plugins/gemini-exchange) | Account & market data access. | None | `https://api.gemini.com/mcp` |
@@ -2036,7 +2032,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [GovBot Organization Records](plugins/govbot-organization-records) | Research federal records. | None | `https://mcp.govbot.ai/mcp` |
 | [GovContractScout](plugins/govcontractscout) | US state & local gov contracts. | OAuth | `https://scout.govbidportals.com/mcp` |
 | [GoVeda Patent](plugins/goveda-patent) | Search and analyze patents. | OAuth | `https://mcp.goveda.com/mcp` |
-| [GovGazette](plugins/govgazette) | Research federal contracts. | None | `https://govgazette.com/mcp` |
 | [GovIntel](plugins/govintel) | Research companies & suppliers. | None | `https://mcp.govintel.ai/mcp` |
 | [GovIntelligence](plugins/govintelligence) | Public tender intelligence. | OAuth | `https://app.gov-intel.com/mcp` |
 | [GovPeak](plugins/govpeak) | Federal BD and capture CRM. | OAuth | `https://gov-peak.com/mcp` |
@@ -2098,7 +2093,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Halkbank](plugins/halkbank) | Banking Products and Services. | None | `https://halkbankgpt.halkbank.com.tr/mcp` |
 | [Hamla](plugins/hamla) | Campaigns, contacts, reports. | OAuth | `https://app.hamla.io/mcp` |
 | [handelsregister.ai](plugins/handelsregister-ai) | German company intelligence. | OAuth | `https://mcp.handelsregister.ai/mcp` |
-| [Handled Locator](plugins/handled-locator) | Manage your store locator. | OAuth | `https://app.handledlocal.com/api/mcp` |
 | [Handler](plugins/handler) | TikTok winners for your app. | OAuth | `https://gethandler.ai/api/mcp/mcp` |
 | [Handwriting OCR](plugins/handwriting-ocr) | Transcribe scans and PDFs. | OAuth | `https://mcp.handwritingocr.com/` |
 | [Handymade](plugins/handymade) | DIY cosmetics & soap supplies. | None | `https://mcp.handymade.store/mcp` |
