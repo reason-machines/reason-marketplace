@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5242 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5239 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -1199,7 +1199,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [CopyCharm](plugins/copycharm) | Access your CopyCharm context. | OAuth | `https://copycharm.ai/api/mcp` |
 | [COR](plugins/cor) | Manage COR work. | OAuth | `https://mcp.projectcor.com/mcp` |
 | [Coram](plugins/coram) | Search and inspect CCTV. | OAuth | `https://mcp.coram.ai/mcp` |
-| [Corezoid](plugins/corezoid) | Corezoid processes in your IDE. | OAuth | `https://mcp.corezoid.com/mcp` |
 | [Coronet Arcade](plugins/coronet-arcade) | Thirteen daily puzzles. | None | `https://coronet.one/mcp` |
 | [COROS](plugins/coros) | Know your training. Plan ahead. | OAuth | `https://mcp.coros.com/mcp` |
 | [CorpusIQ](plugins/corpusiq) | All your business data in chat. | OAuth | `https://mcp2.corpusiq.io/mcp` |
@@ -3494,7 +3493,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [PiggyTask](plugins/piggytask) | Manage kids' family chores. | OAuth | `https://app.piggytask.de/api/integrations/llm/mcp` |
 | [Pika](plugins/pika) | Make video, images and sound. | OAuth | `https://mcp.pika.art/mcp` |
 | [Pikes](plugins/pikes) | Your brand creative suite. | OAuth | `https://pikes.ai/mcp` |
-| [Pillr](plugins/pillr) | Get French real estate data. | None | `https://pillr.fr/api/mcp` |
 | [Pilot](plugins/pilot) | Search hotels, book on Pilot. | None | `https://mcp.pilotplans.com/mcp` |
 | [PilotControl](plugins/pilotcontrol) | Manage social media in Reason. | OAuth | `https://app.pilot0.app/api/mcp` |
 | [Piloxa — Certified Mail](plugins/piloxa-certified-mail) | Send letters by Certified Mail. | None | `https://piloxa.com/mcp` |
@@ -4280,7 +4278,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Simply-Useful](plugins/simply-useful) | Manage your tasks and your day. | OAuth | `https://mcp.simply-useful.com/mcp` |
 | [SimplySIM eSIM Finder](plugins/simplysim-esim-finder) | Find travel eSIM data plans. | None | `https://simplysim.co.uk/mcp` |
 | [SimsaSplit](plugins/simsasplit) | Split group expenses. | OAuth | `https://simsasplit.simsala.dev/mcp` |
-| [Simulator.Company](plugins/simulator) | From API to KPI in your IDE. | OAuth | `https://mcp.simulator.company/mcp` |
 | [SingStat](plugins/singstat) | Explore Singapore statistics. | None | `https://chatwithsandra.singstat.gov.sg/mcp` |
 | [SisuLift](plugins/sisulift) | Gym programs that progress. | None | `https://sisulift.app/mcp` |
 | [Site SEO & AI Crawler Audit](plugins/site-check) | SEO, AI citation, CRO, leaks. | None | `https://sitecheck.openkrill.app/mcp` |
