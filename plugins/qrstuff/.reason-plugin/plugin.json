@@ -1,0 +1,14 @@
+{
+  "name": "qrstuff",
+  "displayName": "QRStuff",
+  "description": "Generate and manage QR codes.",
+  "homepage": "https://www.qrstuff.com/",
+  "docs": "https://github.com/qrstuff/cursor-plugins/tree/8d0a773791a6a4f73e8c6562ccfa2e4693c19dd2/plugins/qrstuff-mcp-server",
+  "logo": "logo.png",
+  "auth": "oauth",
+  "mcpServers": {
+    "qrstuff": {
+      "url": "https://mcp.qrstuff.ai/mcp"
+    }
+  }
+}

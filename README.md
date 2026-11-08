@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5228 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5256 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -669,6 +669,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Bankstatemently](plugins/bankstatemently) | Convert bank statements. | OAuth | `https://api.bankstatemently.com/mcp` |
 | [Baolau](plugins/baolau) | Train tickets across Asia. | None | `https://www.baolau.com/mcp` |
 | [Bardiyah](plugins/bardiyah) | Manage ideas and video scripts. | OAuth | `https://bardiyah.com/mcp` |
+| [Bardkeeper](plugins/bardkeeper) | Your campaign's memory. | OAuth | `https://bardkeeper.com/mcp` |
 | [Baron](plugins/baron) | Start a business with AI. | None | `https://trybaron.ai/mcp-public` |
 | [base.com](plugins/base-com) | Integration with base.com. | OAuth | `https://mcp.base.com/mcp` |
 | [Basecamp](plugins/basecamp) | Find, read, and update projects, to-dos, cards, messages, docs, and schedules. | OAuth | `https://mcp.basecamp.com/mcp` |
@@ -774,6 +775,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Blotato](plugins/blotato) | Schedule social posts & DMs. | OAuth | `https://mcp.blotato.com/mcp` |
 | [BLS OEWS by 1102tools](plugins/bls-oews-by-1102tools) | Explore occupational wages. | None | `https://bls-oews.1102tools.com/mcp` |
 | [Bluedot](plugins/bluedot) | Search and review meetings. | OAuth | `https://app.bluedothq.com/api/v1/mcp` |
+| [Blueprint Studio](plugins/blueprint-studio) | Images that match your brand. | OAuth | `https://tools.blueprintstudio.ai/api/mcp` |
 | [BluTranslate](plugins/blutranslate) | Translate PDFs and documents. | OAuth | `https://mcp.bluente.com/mcp` |
 | [BoardMark](plugins/boardmark) | Issues, sprints and team docs. | OAuth | `https://mcp.boardmark.ai/mcp` |
 | [boardroomlist.com](plugins/boardroomlist) | Senior jobs at the Fortune 500. | None | `https://boardroomlist.com/api/mcp` |
@@ -891,6 +893,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Cambridge China Bridge](plugins/cambridge-china-bridge) | UK import duty and sourcing. | None | `https://camchinabridge.co.uk/mcp` |
 | [camelRun](plugins/camelrun) | Build and host AI agents. | OAuth | `https://run.camelai.com/mcp` |
 | [Camper Champ](plugins/camper-champ) | Compare campervan hire. | None | `https://mcp.camperchamp.com/mcp` |
+| [Campus OS](plugins/campus-os) | Classes, notes and due dates. | OAuth | `https://app.campus-os.net/mcp` |
 | [Cancel My Sub](plugins/cancel-my-sub) | Cancel subscriptions. | None | `https://goodturn-mcp.pages.dev/cancelmysub/mcp` |
 | [Când Reciclăm](plugins/cand-reciclam) | Bucharest recycling schedules. | None | `https://cand-reciclam.madeinro.eu/mcp` |
 | [Candor Finance](plugins/candor-finance) | Your budget and money goals. | OAuth | `https://api.candor.money/mcp` |
@@ -1105,6 +1108,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [CodeBuddy – Field Compliance](plugins/codebuddy-field-compliance) | Electrical code calculators. | None | `https://mcp.codebuddy.chat/mcp` |
 | [CodeQR - Link and QR Analytics](plugins/codeqr-link-and-qr-analytics) | Editable, trackable QR codes. | OAuth | `https://mcp.codeqr.io/mcp` |
 | [CodeWords](plugins/codewords) | Build agents and automations. | OAuth | `https://runtime.codewords.ai/run/devx_mcp/mcp` |
+| [CodexPluginStats](plugins/codex-plugin-stats) | Find plugins. Inspect changes. | OAuth | `https://codex-plugin-stats.com/mcp` |
 | [Codon Valuation](plugins/codon-valuation) | 409A and EMI value estimates. | None | `https://mcp.codonvaluation.com/mcp` |
 | [Coefficient AI](plugins/coefficient-ai) | The data agent for everyone. | OAuth | `https://superagent.app.coefficient.io/mcp` |
 | [CoffeeDateNow](plugins/coffeedatenow) | Meet for coffee right now. | OAuth | `https://coffeedatenow.com/mcp` |
@@ -1198,6 +1202,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [CopyCharm](plugins/copycharm) | Access your CopyCharm context. | OAuth | `https://copycharm.ai/api/mcp` |
 | [COR](plugins/cor) | Manage COR work. | OAuth | `https://mcp.projectcor.com/mcp` |
 | [Coram](plugins/coram) | Search and inspect CCTV. | OAuth | `https://mcp.coram.ai/mcp` |
+| [Corezoid](plugins/corezoid) | Corezoid processes in your IDE. | OAuth | `https://mcp.corezoid.com/mcp` |
 | [Coronet Arcade](plugins/coronet-arcade) | Thirteen daily puzzles. | None | `https://coronet.one/mcp` |
 | [COROS](plugins/coros) | Know your training. Plan ahead. | OAuth | `https://mcp.coros.com/mcp` |
 | [CorpusIQ](plugins/corpusiq) | All your business data in chat. | OAuth | `https://mcp2.corpusiq.io/mcp` |
@@ -1581,6 +1586,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [empirio.ai](plugins/empirio-ai) | Create and analyze surveys. | OAuth | `https://platform.empirio.ai/mcp` |
 | [EmpirioLabs AI](plugins/empiriolabs) | Run 180+ AI models as tools. | OAuth | `https://mcp.empiriolabs.ai/mcp` |
 | [EmpleoVivo](plugins/empleovivo) | Open jobs in Chile. | None | `https://empleovivo.cl/mcp` |
+| [Employed by Guaq AI](plugins/employed) | Live jobs from verified ATS. | OAuth | `https://jobs.guaqai.me/mcp` |
 | [EMPLOYERS](plugins/employers) | Get a workers' comp quote. | None | `https://mcp.employers.com/direct/mcp` |
 | [EN Training](plugins/en-training) | Practise English grammar. | None | `https://ruslan.pro/mcp` |
 | [Encelade](plugins/encelade) | Create and manage decks. | OAuth | `https://www.encelade.ai/api/mcp` |
@@ -1886,6 +1892,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [freehire](plugins/freehire) | IT jobs from 264 sources. | OAuth | `https://freehire.me/api/v1/mcp` |
 | [Freeway Insurance](plugins/freeway-insurance) | Auto insurance rate. | None | `https://confie-triton-rate-mcp.azurewebsites.net/mcp` |
 | [Freight Right](plugins/freightright) | Freight rates, quote requests and shipment tracking from your Freight Right account, with skills that keep billing and bookings right. | OAuth | `https://mcp.freightright.com/mcp` |
+| [FreightFA](plugins/freightfa) | Freight rates & market data. | None | `https://mcp.freightfa.com/mcp` |
 | [FRIDAI](plugins/fridai) | Review and improve AI replies. | OAuth | `https://www.fansnetwork.ai/api/mcp/ruleops` |
 | [Fridey](plugins/fridey) | Your travel assistant. | OAuth | `https://mcp.fridey-travel.com/mcp` |
 | [Frip](plugins/frip) | Discover your next hobby. | None | `https://frip.co.kr/mcp` |
@@ -1921,6 +1928,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Gardener's Almanac](plugins/gardeners-almanac) | When to sow, where you garden. | OAuth | `https://gardeners-almanac.app/mcp` |
 | [Gasti](plugins/gasti) | Track personal finances. | OAuth | `https://mcp.public.gasti.pro/mcp` |
 | [Gastrosync](plugins/gastrosync) | Manage your events. | OAuth | `https://gastrosync.com/mcp` |
+| [Gate Info](plugins/gate-info) | Crypto market research data. | None | `https://api.gatemcp.ai/mcp/open/info` |
 | [Gateway SSH](plugins/gateway-ssh) | Manage servers through SSH. | OAuth | `https://trygateway.sh/mcp` |
 | [Gateway Tariff Calculator](plugins/gateway-tariff-calculator) | US import duty and HTS codes. | OAuth | `https://mcp.gatewaylines.com/mcp` |
 | [Gather Shot](plugins/gather-shot) | Manage event photo sharing. | OAuth | `https://app.gathershot.com/mcp` |
@@ -2031,6 +2039,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [GovBot Organization Records](plugins/govbot-organization-records) | Research federal records. | None | `https://mcp.govbot.ai/mcp` |
 | [GovContractScout](plugins/govcontractscout) | US state & local gov contracts. | OAuth | `https://scout.govbidportals.com/mcp` |
 | [GoVeda Patent](plugins/goveda-patent) | Search and analyze patents. | OAuth | `https://mcp.goveda.com/mcp` |
+| [GovGazette](plugins/govgazette) | Research federal contracts. | None | `https://govgazette.com/mcp` |
 | [GovIntel](plugins/govintel) | Research companies & suppliers. | None | `https://mcp.govintel.ai/mcp` |
 | [GovIntelligence](plugins/govintelligence) | Public tender intelligence. | OAuth | `https://app.gov-intel.com/mcp` |
 | [GovPeak](plugins/govpeak) | Federal BD and capture CRM. | OAuth | `https://gov-peak.com/mcp` |
@@ -2092,6 +2101,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Halkbank](plugins/halkbank) | Banking Products and Services. | None | `https://halkbankgpt.halkbank.com.tr/mcp` |
 | [Hamla](plugins/hamla) | Campaigns, contacts, reports. | OAuth | `https://app.hamla.io/mcp` |
 | [handelsregister.ai](plugins/handelsregister-ai) | German company intelligence. | OAuth | `https://mcp.handelsregister.ai/mcp` |
+| [Handled Locator](plugins/handled-locator) | Manage your store locator. | OAuth | `https://app.handledlocal.com/api/mcp` |
 | [Handler](plugins/handler) | TikTok winners for your app. | OAuth | `https://gethandler.ai/api/mcp/mcp` |
 | [Handwriting OCR](plugins/handwriting-ocr) | Transcribe scans and PDFs. | OAuth | `https://mcp.handwritingocr.com/` |
 | [Handymade](plugins/handymade) | DIY cosmetics & soap supplies. | None | `https://mcp.handymade.store/mcp` |
@@ -2224,6 +2234,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Hugeicons](plugins/hugeicons) | Beautiful icons for your UI. | None | `https://mcp.hugeicons.com/mcp` |
 | [Hugging Face](plugins/hugging-face) | Hugging Face integration to access the Hub and thousands of Gradio apps | OAuth | `https://huggingface.co/mcp` |
 | [Human Forward Findability](plugins/human-forward-findability) | How findable is your brand. | OAuth | `https://app.humanforward.io/mcp` |
+| [HumanFn](plugins/humanfn) | Human sign-off for your AI. | None | `https://humanfn.com/mcp` |
 | [Humanizar Texto BR](plugins/humanizar-texto) | Polish Brazilian Portuguese. | OAuth | `https://humanizartexto.com.br/mcp` |
 | [Humanize AI](plugins/humanize-ai) | Make AI writing sound human. | OAuth | `https://mcp.humanizeaitext.ai/mcp` |
 | [HUMANStoknow](plugins/humanstoknow) | Give your AI agents a playbook. | OAuth | `https://humanstoknow.com/api/mcp` |
@@ -2382,6 +2393,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [JAWD](plugins/jawd) | Shop JAWD jaw trainers. | None | `https://mcp.jawd.in/mcp` |
 | [Jawz](plugins/jawz) | Read markets, check portfolio. | None | `https://jawz.ai/api/mcp` |
 | [Jaz Accounting](plugins/jaz-accounting) | Fastest ledger for agents. | OAuth | `https://mcp.jaz.ai/mcp` |
+| [JCI SK Portal](plugins/jci-sk-portal) | Browse & search JCI SK docs. | OAuth | `https://jcisouthkey.aukaworks.com/mcp` |
 | [Jemma](plugins/jemma) | Nurse pay and take-home math. | None | `https://nursejemma.com/api/v1/mcp` |
 | [Jepto](plugins/jepto) | Digital Marketing Intelligence. | OAuth | `https://mcp.jepto.com/` |
 | [Jessie Script Director](plugins/jessie-script-director) | Guided product-video scripts. | None | `https://jessie-public-chatgpt-app.vercel.app/mcp` |
@@ -2560,6 +2572,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Larridin Work Context](plugins/larridin-work-context) | Your work, in context. | OAuth | `https://app.larridin.com/mcp/larridin` |
 | [LASEC](plugins/lasec) | Piloter la gouvernance cyber. | OAuth | `https://app.lasec.fr/mcp/` |
 | [Lassie](plugins/lassie) | Pet insurance quotes. | None | `https://v1.lassie.mcp.waniwani.run/mcp` |
+| [LastDatabase](plugins/lastdatabase) | Find verified B2B contacts. | OAuth | `https://lastdatabase.com/mcp` |
 | [Latchbell](plugins/latchbell) | Book local home service pros. | None | `https://latchbell.com/mcp` |
 | [Lauda](plugins/lauda) | Cálculos jurídicos do Brasil. | None | `https://uselauda.com/mcp` |
 | [LaunchAF](plugins/launchaf) | Launch products on LaunchAF. | OAuth | `https://launchaf.com/api/mcp` |
@@ -2906,6 +2919,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Microsoft 365 Teams](plugins/microsoft-365-teams) | Microsoft Teams: list teams, channels and chats, read messages and send them. | OAuth | `https://microsoft-365-mcp.devin.ai/collaboration/mcp` |
 | [Microsoft 365 To Do](plugins/microsoft-365-todo) | Microsoft To Do: list, create, update, complete and delete tasks. | OAuth | `https://microsoft-365-mcp.devin.ai/todo/mcp` |
 | [Microsoft Learn](plugins/microsoft-learn) | Microsoft Learn integration to search trusted Microsoft documentation | None | `https://learn.microsoft.com/api/mcp` |
+| [Microstat](plugins/microstat) | Social media stats and posts. | OAuth | `https://xn--e1afggmaggeil.xn--p1ai/mcp` |
 | [Midlyr](plugins/midlyr) | Compliance workflows. | OAuth | `https://mcp.midlyr.com/mcp` |
 | [Midpage Legal Research: US Law](plugins/midpage) | Case law, statutes, regulation. | OAuth | `https://app.midpage.ai/mcp` |
 | [Midpoint Card Prices](plugins/midpoint-card-prices) | TCG & sports card prices & ROI. | None | `https://mcp.cardcenteringtool.com/mcp` |
@@ -2920,6 +2934,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [MiniUp](plugins/miniup) | Turn chat into live web apps. | None | `https://www.miniup.io/api/mcp` |
 | [Minter.io](plugins/minter-io) | Social Media Analytics. | OAuth | `https://minter.io/mcp` |
 | [Mintlify](plugins/mintlify) | Mintlify integration to search, read, and edit your documentation | OAuth | `https://mcp.mintlify.com` |
+| [Mintlify Index](plugins/mintlify-index) | Mintlify Index integration to search publisher-maintained docs across all Mintlify sites | None | `https://index.mintlify.com` |
 | [Mintwell](plugins/mintwell) | Your work-optional check. | None | `https://mintwell.ai/mcp` |
 | [Minz](plugins/minz) | Look up CRM, work and expenses. | OAuth | `https://mcp.minz.ai/mcp` |
 | [Mirabello Immigration](plugins/mirabello-immigration) | Citizenship and golden visas. | None | `https://mcp.mirabelloconsultancy.com/mcp` |
@@ -2977,6 +2992,8 @@ Open an issue with the provider's name and its MCP server URL.
 | [Moonwalk](plugins/moonwalk) | Write and publish live boards. | OAuth | `https://moonwalk.now/api/mcp` |
 | [MOOSYC](plugins/moosyc) | Your streams & earnings. | OAuth | `https://api.moosyc.com/mcp` |
 | [Mopingo](plugins/mopingo) | Plan your trips with Mopingo. | OAuth | `https://mopingo.com/mcp` |
+| [MopMob](plugins/mopmob) | Manage premium cleans. | OAuth | `https://mcp.mopmob.co.uk/mcp` |
+| [Moqup](plugins/moqup) | Schedule social posts with AI. | OAuth | `https://moqup.app/api/mcp` |
 | [Mori](plugins/mori) | Search your conversations. | OAuth | `https://mcp.mori.to/` |
 | [MorNatural](plugins/mornatural) | Shop MorNatural supplements. | None | `https://shop.mornatural.com/api/mcp` |
 | [Morning Consult](plugins/morning-consult) | Global market intelligence. | OAuth | `https://api.morningconsult.com/mcp` |
@@ -3096,6 +3113,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Netlify](plugins/netlify) | Inspect Netlify sites, deploys, forms, and environment state through Netlify's hosted MCP server. | OAuth | `https://netlify-mcp.netlify.app/mcp` |
 | [NetNest SEC Fundamentals](plugins/netnest-sec-fundamentals) | Company data from SEC filings. | OAuth | `https://api.netnestdesign.com/mcp` |
 | [Netwise Paycheck Calculator](plugins/paycheck-calculator) | 2026 paycheck after taxes. | None | `https://paycheck-calculator.zovo.one/mcp` |
+| [NetWorthTrackr](plugins/networthtrackr) | Your net worth, in plain words. | OAuth | `https://mcp.networthtrackr.com/mcp` |
 | [Netzero for Powerwall](plugins/netzero) | Home energy management. | OAuth | `https://api.netzero.energy/mcp` |
 | [Neume](plugins/neume) | Make songs and change lyrics. | OAuth | `https://api.neume.io/v1/mcp` |
 | [Neural Analog](plugins/neural-analog) | Restore, split and edit audio. | OAuth | `https://api.neuralanalog.com/mcp` |
@@ -3317,6 +3335,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [P.R.O.](plugins/pro) | Your fitness, in conversation. | OAuth | `https://mcp.proapp.uk/mcp` |
 | [Pabbly Studio](plugins/pabbly-studio) | Build and host web apps. | OAuth | `https://studio.pabbly.com/mcp` |
 | [Pablooo.club Benchmark library](plugins/pablooo-club-benchmark-library) | Benchmark 10k+ screenshots. | None | `https://mcp.pablooo.club/mcp` |
+| [Pacelab Intervals](plugins/pacelab-intervals) | Create interval workouts. | OAuth | `https://pacelabintervals.com/mcp` |
 | [Paceword Speed Reader](plugins/speed-reader) | Paced reading practice. | None | `https://speed-reader.zovo.one/mcp` |
 | [PackIndex](plugins/packindex) | Packaging price benchmarks. | None | `https://opnplatform.com/api/mcp` |
 | [Packing Optimizer](plugins/packing-optimizer) | Optimize box & pallet packing. | OAuth | `https://packing-optimizer.com/mcp` |
@@ -3484,6 +3503,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [PiggyTask](plugins/piggytask) | Manage kids' family chores. | OAuth | `https://app.piggytask.de/api/integrations/llm/mcp` |
 | [Pika](plugins/pika) | Make video, images and sound. | OAuth | `https://mcp.pika.art/mcp` |
 | [Pikes](plugins/pikes) | Your brand creative suite. | OAuth | `https://pikes.ai/mcp` |
+| [Pillr](plugins/pillr) | Get French real estate data. | None | `https://pillr.fr/api/mcp` |
 | [Pilot](plugins/pilot) | Search hotels, book on Pilot. | None | `https://mcp.pilotplans.com/mcp` |
 | [PilotControl](plugins/pilotcontrol) | Manage social media in Reason. | OAuth | `https://app.pilot0.app/api/mcp` |
 | [Piloxa — Certified Mail](plugins/piloxa-certified-mail) | Send letters by Certified Mail. | None | `https://piloxa.com/mcp` |
@@ -3746,6 +3766,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Qreate](plugins/qreate) | Discord that keeps working. | OAuth | `https://mcp.qreate.gg/mcp` |
 | [QRMenü](plugins/qrmenu) | Manage your restaurant menus. | OAuth | `https://qrmenu.evdsoft.com/mcp` |
 | [QRsome](plugins/qrsome) | Branded QR codes for agents. | OAuth | `https://qrsome.com/mcp` |
+| [QRStuff](plugins/qrstuff) | Generate and manage QR codes. | OAuth | `https://mcp.qrstuff.ai/mcp` |
 | [QRX](plugins/qrx) | Artistic, scannable QR codes. | OAuth | `https://qrx.codes/mcp` |
 | [Qt Docs](plugins/qt-docs) | Qt Group's hosted documentation MCP server: search Qt C++ and QML documentation. | None | `https://qt-docs-mcp.qt.io/mcp` |
 | [Qu Review](plugins/qu-review) | Get a second opinion. | OAuth | `https://app.qureview.ai/claude/mcp` |
@@ -4138,6 +4159,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [SeeyaTrip](plugins/seeyatrip) | Find hotels and flights. | None | `https://mcp.seeyatrip.com/mcp` |
 | [Segue](plugins/segue) | Memory for ML development. | OAuth | `https://segue.ai/mcp` |
 | [Seguro Match](plugins/seguro-match) | Compare insurance. | None | `https://seguromatch.com/api/agent/mcp` |
+| [Seistream Blockchain Data](plugins/seistream-blockchain-data) | Explore Sei EVM & Cosmos data. | None | `https://api.seistream.app/mcp` |
 | [Selah](plugins/selah) | Your Bible reading progress. | OAuth | `https://api.selah.to/mcp` |
 | [SelectBNBs Verify](plugins/selectbnbs-verify) | Check Korean stay permits. | None | `https://selectbnbs.com/mcp` |
 | [SelfPub Go](plugins/selfpubgo) | Amazon Ads for KDP authors. | OAuth | `https://mcp.selfpubgo.com/mcp` |
@@ -4269,6 +4291,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Simply-Useful](plugins/simply-useful) | Manage your tasks and your day. | OAuth | `https://mcp.simply-useful.com/mcp` |
 | [SimplySIM eSIM Finder](plugins/simplysim-esim-finder) | Find travel eSIM data plans. | None | `https://simplysim.co.uk/mcp` |
 | [SimsaSplit](plugins/simsasplit) | Split group expenses. | OAuth | `https://simsasplit.simsala.dev/mcp` |
+| [Simulator.Company](plugins/simulator) | From API to KPI in your IDE. | OAuth | `https://mcp.simulator.company/mcp` |
 | [SingStat](plugins/singstat) | Explore Singapore statistics. | None | `https://chatwithsandra.singstat.gov.sg/mcp` |
 | [SisuLift](plugins/sisulift) | Gym programs that progress. | None | `https://sisulift.app/mcp` |
 | [Site SEO & AI Crawler Audit](plugins/site-check) | SEO, AI citation, CRO, leaks. | None | `https://sitecheck.openkrill.app/mcp` |
@@ -4321,6 +4344,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [SMAT](plugins/smat) | Plan and manage social posts. | OAuth | `https://api.smat.chat/api/mcp` |
 | [SMB Compare](plugins/smb-compare) | Price business tools by cost. | None | `https://smbcompare.com/api/mcp` |
 | [SMI Aware](plugins/smi-aware) | Order social media discovery. | None | `https://mcp.smiaware.com/mcp` |
+| [SML RWA Evidence](plugins/robinhood-prediction-rwa) | Tokenized stock reference data. | None | `https://sml-robinhood-rwa-intelligence.onrender.com/mcp` |
 | [Smooth PDF Reader](plugins/smooth-pdf-reader) | Smooth PDFs. Ask for change. | None | `https://smooth-pdf-reader.smooth-pdf-reader-cloudflare.workers.dev/mcp` |
 | [Smoothspeak](plugins/smoothspeak-replies) | Write your next reply. | OAuth | `https://smoothspeak.ai/mcp` |
 | [smry](plugins/smry) | Read articles from any link. | OAuth | `https://api.smry.ai/mcp` |
@@ -4641,6 +4665,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Tarotap](plugins/tarotap) | Draw tarot cards for readings. | None | `https://tarotap.com/mcp` |
 | [Tarsolution Tools](plugins/tarsolution-tools) | Format and inspect data. | None | `https://tools.tarsolution.com/mcp` |
 | [Tarteel](plugins/tarteel) | Explore Quranic resources. | None | `https://mcp.tarteel.ai/mcp` |
+| [tasarim.ai AI Catalog](plugins/tasarim-ai-catalog) | Find and compare AI tools. | None | `https://tasarim.ai/api/mcp` |
 | [Task Mafia](plugins/task-mafia) | Tasks, lists and your crew. | OAuth | `https://taskmafia.com/mcp` |
 | [Taskaid](plugins/taskaid) | Tasks for you and your agents. | OAuth | `https://taskaid.ai/mcp` |
 | [TASKn](plugins/taskn) | Manage tasks and projects. | OAuth | `https://mcp.taskn.app/mcp` |
@@ -4706,6 +4731,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [The Chute](plugins/the-chute) | Cattle and ranch records. | OAuth | `https://www.thechute.app/api/mcp` |
 | [The Coin Daily](plugins/the-coin-daily) | Your crypto research desk. | OAuth | `https://mcp.thecoindaily.co/mcp` |
 | [The Dinner Table Club](plugins/the-dinner-table-club) | Dinner parties with strangers. | None | `https://thedinnertable.club/mcp` |
+| [The Expected Value](plugins/the-expected-value-full-diagnostic) | Card EV, prices and Manafolio. | None | `https://mcp.theexpectedvalue.com/mcp/claude` |
 | [The Fly Market Intelligence](plugins/the-fly-market-intelligence) | Market research and news. | OAuth | `https://mcp.thefly.com/chatgpt/mcp` |
 | [The Founding Reader](plugins/the-founding-reader) | Founding debates, verbatim. | None | `https://foundingreader.com/mcp` |
 | [The Kingdom Bank](plugins/the-kingdom-bank) | Manage your invoices. | None | `https://mcp.thekingdombank.com/mcp` |
@@ -4724,6 +4750,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [TheFoilBuddy](plugins/thefoilbuddy) | Foil spot wind & conditions. | None | `https://mcp.thefoilbuddy.com/mcp` |
 | [Thegram](plugins/thegram-cloud) | One .gram for people and AI. | OAuth | `https://vault.thegram.one/mcp` |
 | [Theia Insights](plugins/theia-insights) | Thematic investing data. | OAuth | `https://mcp.theiainsights.com/mcp` |
+| [Theme Emporium](plugins/theme-emporium) | Generate UI theme previews. | None | `https://mcp.themeemporium.live/mcp` |
 | [ThemeSniffer](plugins/themesniffer) | WP theme and plugin detector. | None | `https://themesniffer.com/api/mcp` |
 | [ThePicks](plugins/thepicks) | K-beauty picked by real people. | None | `https://mcp.thepicks.io/mcp` |
 | [There's An AI For That](plugins/there-s-an-ai-for-that) | Find AI tools for any task. | None | `https://theresanaiforthat.com/mcp` |
@@ -5313,6 +5340,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [xMatix](plugins/xmatix) | Business data and workflows. | OAuth | `https://mcp.xmatix.com/mcp` |
 | [Xmind](plugins/xmind) | Mind mapping, organize ideas. | OAuth | `https://app.xmind.com/api/mcp` |
 | [xpost](plugins/xpost) | Schedule social media posts. | OAuth | `https://xpost.to/api/mcp` |
+| [xrio](plugins/xrio) | Check and create e-invoices. | OAuth | `https://api.xrio.de/mcp` |
 | [xTiles](plugins/xtiles) | Life & Company OS for Reason. | OAuth | `https://mcp.xtiles.app/mcp` |
 | [Yadulink](plugins/yadulink) | Manage LinkedIn outreach. | OAuth | `https://mcp.yadulink.com/mcp` |
 | [Yamdu](plugins/yamdu) | Film Production, AI-Powered. | OAuth | `https://api.yamdu.com/ai/mcp` |

@@ -1,0 +1,14 @@
+{
+  "name": "bardkeeper",
+  "displayName": "Bardkeeper",
+  "description": "Your campaign's memory.",
+  "homepage": "https://bardkeeper.com",
+  "docs": "https://bardkeeper.com",
+  "logo": "logo.webp",
+  "auth": "oauth",
+  "mcpServers": {
+    "bardkeeper": {
+      "url": "https://bardkeeper.com/mcp"
+    }
+  }
+}

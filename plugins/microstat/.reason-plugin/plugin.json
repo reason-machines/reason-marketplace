@@ -1,0 +1,14 @@
+{
+  "name": "microstat",
+  "displayName": "Microstat",
+  "description": "Social media stats and posts.",
+  "homepage": "https://xn--e1afggmaggeil.xn--p1ai",
+  "docs": "https://xn--e1afggmaggeil.xn--p1ai",
+  "logo": "logo.webp",
+  "auth": "oauth",
+  "mcpServers": {
+    "microstat": {
+      "url": "https://xn--e1afggmaggeil.xn--p1ai/mcp"
+    }
+  }
+}

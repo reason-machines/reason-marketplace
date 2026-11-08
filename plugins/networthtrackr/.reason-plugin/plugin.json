@@ -1,0 +1,14 @@
+{
+  "name": "networthtrackr",
+  "displayName": "NetWorthTrackr",
+  "description": "Your net worth, in plain words.",
+  "homepage": "https://www.networthtrackr.com/ai-agents",
+  "docs": "https://www.networthtrackr.com/ai-agents",
+  "logo": "logo.webp",
+  "auth": "oauth",
+  "mcpServers": {
+    "networthtrackr": {
+      "url": "https://mcp.networthtrackr.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jci-sk-portal",
+  "displayName": "JCI SK Portal",
+  "description": "Browse & search JCI SK docs.",
+  "homepage": "https://jcisouthkey.aukaworks.com",
+  "docs": "https://jcisouthkey.aukaworks.com/.well-known/oauth-protected-resource/mcp",
+  "logo": "logo.webp",
+  "auth": "oauth",
+  "mcpServers": {
+    "jci-sk-portal": {
+      "url": "https://jcisouthkey.aukaworks.com/mcp"
+    }
+  }
+}

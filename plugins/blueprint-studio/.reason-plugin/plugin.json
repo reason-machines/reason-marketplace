@@ -1,0 +1,14 @@
+{
+  "name": "blueprint-studio",
+  "displayName": "Blueprint Studio",
+  "description": "Images that match your brand.",
+  "homepage": "https://blueprintstudio.ai",
+  "docs": "https://tools.blueprintstudio.ai/mcp-setup",
+  "logo": "logo.webp",
+  "auth": "oauth",
+  "mcpServers": {
+    "blueprint-studio": {
+      "url": "https://tools.blueprintstudio.ai/api/mcp"
+    }
+  }
+}
