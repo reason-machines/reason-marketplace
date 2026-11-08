@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5232 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5228 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -1105,7 +1105,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [CodeBuddy – Field Compliance](plugins/codebuddy-field-compliance) | Electrical code calculators. | None | `https://mcp.codebuddy.chat/mcp` |
 | [CodeQR - Link and QR Analytics](plugins/codeqr-link-and-qr-analytics) | Editable, trackable QR codes. | OAuth | `https://mcp.codeqr.io/mcp` |
 | [CodeWords](plugins/codewords) | Build agents and automations. | OAuth | `https://runtime.codewords.ai/run/devx_mcp/mcp` |
-| [CodexPluginStats](plugins/codex-plugin-stats) | Find plugins. Inspect changes. | OAuth | `https://codex-plugin-stats.com/mcp` |
 | [Codon Valuation](plugins/codon-valuation) | 409A and EMI value estimates. | None | `https://mcp.codonvaluation.com/mcp` |
 | [Coefficient AI](plugins/coefficient-ai) | The data agent for everyone. | OAuth | `https://superagent.app.coefficient.io/mcp` |
 | [CoffeeDateNow](plugins/coffeedatenow) | Meet for coffee right now. | OAuth | `https://coffeedatenow.com/mcp` |
@@ -2907,7 +2906,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Microsoft 365 Teams](plugins/microsoft-365-teams) | Microsoft Teams: list teams, channels and chats, read messages and send them. | OAuth | `https://microsoft-365-mcp.devin.ai/collaboration/mcp` |
 | [Microsoft 365 To Do](plugins/microsoft-365-todo) | Microsoft To Do: list, create, update, complete and delete tasks. | OAuth | `https://microsoft-365-mcp.devin.ai/todo/mcp` |
 | [Microsoft Learn](plugins/microsoft-learn) | Microsoft Learn integration to search trusted Microsoft documentation | None | `https://learn.microsoft.com/api/mcp` |
-| [Microstat](plugins/microstat) | Social media stats and posts. | OAuth | `https://xn--e1afggmaggeil.xn--p1ai/mcp` |
 | [Midlyr](plugins/midlyr) | Compliance workflows. | OAuth | `https://mcp.midlyr.com/mcp` |
 | [Midpage Legal Research: US Law](plugins/midpage) | Case law, statutes, regulation. | OAuth | `https://app.midpage.ai/mcp` |
 | [Midpoint Card Prices](plugins/midpoint-card-prices) | TCG & sports card prices & ROI. | None | `https://mcp.cardcenteringtool.com/mcp` |
@@ -2979,7 +2977,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Moonwalk](plugins/moonwalk) | Write and publish live boards. | OAuth | `https://moonwalk.now/api/mcp` |
 | [MOOSYC](plugins/moosyc) | Your streams & earnings. | OAuth | `https://api.moosyc.com/mcp` |
 | [Mopingo](plugins/mopingo) | Plan your trips with Mopingo. | OAuth | `https://mopingo.com/mcp` |
-| [Moqup](plugins/moqup) | Schedule social posts with AI. | OAuth | `https://moqup.app/api/mcp` |
 | [Mori](plugins/mori) | Search your conversations. | OAuth | `https://mcp.mori.to/` |
 | [MorNatural](plugins/mornatural) | Shop MorNatural supplements. | None | `https://shop.mornatural.com/api/mcp` |
 | [Morning Consult](plugins/morning-consult) | Global market intelligence. | OAuth | `https://api.morningconsult.com/mcp` |
@@ -5316,7 +5313,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [xMatix](plugins/xmatix) | Business data and workflows. | OAuth | `https://mcp.xmatix.com/mcp` |
 | [Xmind](plugins/xmind) | Mind mapping, organize ideas. | OAuth | `https://app.xmind.com/api/mcp` |
 | [xpost](plugins/xpost) | Schedule social media posts. | OAuth | `https://xpost.to/api/mcp` |
-| [xrio](plugins/xrio) | Check and create e-invoices. | OAuth | `https://api.xrio.de/mcp` |
 | [xTiles](plugins/xtiles) | Life & Company OS for Reason. | OAuth | `https://mcp.xtiles.app/mcp` |
 | [Yadulink](plugins/yadulink) | Manage LinkedIn outreach. | OAuth | `https://mcp.yadulink.com/mcp` |
 | [Yamdu](plugins/yamdu) | Film Production, AI-Powered. | OAuth | `https://api.yamdu.com/ai/mcp` |
