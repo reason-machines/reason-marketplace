@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5256 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5254 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -3824,7 +3824,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [Raisely](plugins/raisely) | Connect Reason to Raisely. | OAuth | `https://mcp.raisely.com/mcp` |
 | [Rallies](plugins/rallies) | Research stocks, track wealth. | OAuth | `https://rallies.ai/mcp` |
 | [RallyIQ](plugins/rallyiq) | Tennis game plans and scouting. | None | `https://bigballi.com/RallyIQ/mcp` |
-| [Ramp](plugins/ramp) | Ramp integration to access corporate cards, transactions, and spend data | OAuth | `https://mcp.ramp.com/mcp` |
 | [Ramus](plugins/ramus) | Cloud Android emulators. | OAuth | `https://api.ramus.dev/api/mcp` |
 | [Randevu Takvimim](plugins/randevu-takvimim) | Find & book beauty salons. | None | `https://randevutakvimim.com/mcp/` |
 | [Ranked AI](plugins/ranked-ai) | Manage your SEO & PPC. | OAuth | `https://www.ranked.ai/api/mcp/sse` |
@@ -4238,7 +4237,6 @@ Open an issue with the provider's name and its MCP server URL.
 | [ShipStatic](plugins/shipstatic) | Deploy static sites instantly. | OAuth | `https://mcp.shipstatic.com/` |
 | [Shlau](plugins/shlau) | Work with your Shlau data. | OAuth | `https://mcp.shlau.com/mcp` |
 | [ShootPro24AI](plugins/shootpro24ai) | Photo & video post-production. | None | `https://shootpro24ai.com/mcp` |
-| [Shop](plugins/shop) | Shop across millions of stores: find and compare over a billion products, build carts, and check out. | OAuth | `https://mcp.shop.com` |
 | [Shop Nobi](plugins/shop-nobi) | Find and compare products. | None | `https://api.nobi.ai/v1/shop/mcp` |
 | [ShopBooster](plugins/shopbooster) | Your shop's CRM, in chat. | OAuth | `https://getshopbooster.com/api/mcp` |
 | [Shopis](plugins/shopis) | Run your store from chat. | OAuth | `https://shopis.ai/api/mcp` |
