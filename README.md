@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5254 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5255 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -4237,6 +4237,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [ShipStatic](plugins/shipstatic) | Deploy static sites instantly. | OAuth | `https://mcp.shipstatic.com/` |
 | [Shlau](plugins/shlau) | Work with your Shlau data. | OAuth | `https://mcp.shlau.com/mcp` |
 | [ShootPro24AI](plugins/shootpro24ai) | Photo & video post-production. | None | `https://shootpro24ai.com/mcp` |
+| [Shop](plugins/shop) | Shop across millions of stores: find and compare over a billion products, build carts, and check out. | None | `https://mcp.shop.com` |
 | [Shop Nobi](plugins/shop-nobi) | Find and compare products. | None | `https://api.nobi.ai/v1/shop/mcp` |
 | [ShopBooster](plugins/shopbooster) | Your shop's CRM, in chat. | OAuth | `https://getshopbooster.com/api/mcp` |
 | [Shopis](plugins/shopis) | Run your store from chat. | OAuth | `https://shopis.ai/api/mcp` |

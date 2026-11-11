@@ -4072,6 +4072,7 @@
     "./plugins/shipstatic",
     "./plugins/shlau",
     "./plugins/shootpro24ai",
+    "./plugins/shop",
     "./plugins/shop-nobi",
     "./plugins/shopbooster",
     "./plugins/shopis",
