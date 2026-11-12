@@ -10,5 +10,14 @@
     "shop": {
       "url": "https://mcp.shop.com"
     }
-  }
+  },
+  "skills": [
+    {
+      "name": "Shop",
+      "description": "Search products, prepare carts and checkout, or track signed-in Shop orders.",
+      "source": "reasonmachines/shop",
+      "skill": "shop",
+      "url": "https://shop.dev/docs/sign-in"
+    }
+  ]
 }

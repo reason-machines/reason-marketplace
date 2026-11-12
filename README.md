@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5255 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5256 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -3824,6 +3824,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Raisely](plugins/raisely) | Connect Reason to Raisely. | OAuth | `https://mcp.raisely.com/mcp` |
 | [Rallies](plugins/rallies) | Research stocks, track wealth. | OAuth | `https://rallies.ai/mcp` |
 | [RallyIQ](plugins/rallyiq) | Tennis game plans and scouting. | None | `https://bigballi.com/RallyIQ/mcp` |
+| [Ramp](plugins/ramp) | Ramp integration to access corporate cards, transactions, and spend data | OAuth | `https://mcp.ramp.com/mcp` |
 | [Ramus](plugins/ramus) | Cloud Android emulators. | OAuth | `https://api.ramus.dev/api/mcp` |
 | [Randevu Takvimim](plugins/randevu-takvimim) | Find & book beauty salons. | None | `https://randevutakvimim.com/mcp/` |
 | [Ranked AI](plugins/ranked-ai) | Manage your SEO & PPC. | OAuth | `https://www.ranked.ai/api/mcp/sse` |
