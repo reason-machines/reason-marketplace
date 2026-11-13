@@ -1081,6 +1081,7 @@
     "./plugins/cutkit-teleprompter",
     "./plugins/cutpro",
     "./plugins/cve",
+    "./plugins/cve-new",
     "./plugins/cvpop-resume-and-cv-builder",
     "./plugins/cxprowealth",
     "./plugins/cyber-library",

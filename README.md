@@ -10,7 +10,7 @@ software engineer, as open source.
 server, such as Linear, Sentry, Notion, Stripe, or Supabase, so a session can read
 issues, check logs, query a database, or update a ticket while it works.
 
-This repository lists 5256 plugins. It is the public catalog of what Reason offers; it holds
+This repository lists 5257 plugins. It is the public catalog of what Reason offers; it holds
 no credentials and no code that runs in your workspace.
 
 ## Add a Reason
@@ -1274,6 +1274,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [CutKit Teleprompter](plugins/cutkit-teleprompter) | Your teleprompter scripts. | OAuth | `https://getcutkit.com/mcp` |
 | [CutPro](plugins/cutpro) | AI videos, clips, music & more. | OAuth | `https://mcp.cut.pro/` |
 | [CVE Risk Check](plugins/cve) | CVE and dependency triage. | None | `https://cve.openkrill.app/mcp` |
+| [CVE.new](plugins/cve-new) | Look up CVEs and advisories, check package versions against OSV, and follow security incidents and KEV additions with attributed sources. | None | `https://cve.new/mcp` |
 | [CVpop - Resume & CV Builder](plugins/cvpop-resume-and-cv-builder) | Your next job starts here. | None | `https://mcp.cvpop.com/mcp` |
 | [CXProWealth](plugins/cxprowealth) | Investment intelligence. | OAuth | `https://cxprowealth.com/api/mcp` |
 | [Cyber Library](plugins/cyber-library) | Search cybersecurity knowledge. | None | `https://www.cyberlibrary.com/api/mcp` |
