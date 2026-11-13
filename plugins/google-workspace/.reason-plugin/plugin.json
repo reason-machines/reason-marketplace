@@ -1,7 +1,7 @@
 {
   "name": "google-workspace",
   "displayName": "Google Workspace",
-  "description": "Send Gmail; read and manage Calendar events and availability.",
+  "description": "Send Gmail; read and manage Calendar events and availability. Reading Gmail and Google Drive is not available yet: Google is reviewing Reason's request.",
   "homepage": "https://workspace.google.com",
   "docs": "https://developers.google.com/workspace",
   "logo": "logo.svg",

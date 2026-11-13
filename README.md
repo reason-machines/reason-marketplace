@@ -2029,7 +2029,7 @@ Open an issue with the provider's name and its MCP server URL.
 | [Goodterm](plugins/goodterm) | Your mind, unboxed. | OAuth | `https://mcp.goodterm.net/` |
 | [GoodWatch](plugins/goodwatch) | Find your next movie or show. | OAuth | `https://goodwatch.app/mcp` |
 | [Goodword](plugins/goodword) | Search and manage your network. | OAuth | `https://mcp.goodword.com/mcp` |
-| [Google Workspace](plugins/google-workspace) | Send Gmail; read and manage Calendar events and availability. | OAuth | `https://mcp.reasonmachines.com/google-workspace/mcp` |
+| [Google Workspace](plugins/google-workspace) | Send Gmail; read and manage Calendar events and availability. Reading Gmail and Google Drive is not available yet: Google is reviewing Reason's request. | OAuth | `https://mcp.reasonmachines.com/google-workspace/mcp` |
 | [GoPublish](plugins/gopublish) | Publish content to WordPress. | OAuth | `https://mcp.gopublish.io/mcp` |
 | [Gordito](plugins/gordito) | Vocabulary notebook for agent. | OAuth | `https://mcp.gordito.app/mcp` |
 | [Gorgias](plugins/gorgias) | Manage your support helpdesk. | OAuth | `https://mcp.gorgias.com/mcp` |
